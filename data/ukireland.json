@@ -37702,6 +37702,22 @@
             "L"
         ]
     },
+    "EGKR": {
+        "callsign": "Redhill",
+        "coord": [
+            51.213611,
+            -0.138611
+        ],
+        "topdown": [
+            "TCSW",
+            "TCS",
+            "TC",
+            "LSF",
+            "LS",
+            "LSC",
+            "L"
+        ]
+    },
     "EGKK": {
         "callsign": "Gatwick",
         "end": {
@@ -38565,7 +38581,6 @@
     "EGKG": { "callsign": "Goodwood Racecourse", "coord": [ 50.9, -0.733333 ] },
     "EGKH": { "callsign": "Headcorn", "coord": [ 51.156944, 0.641389 ] },
     "EGKL": { "callsign": "Deanland", "coord": [ 50.883333, 0.15 ] },
-    "EGKR": { "callsign": "Redhill", "coord": [ 51.213611, -0.138611 ] },
     "EGKT": { "callsign": "Kirknewton", "coord": [ 55.873206, -3.398525 ] },
     "EGLA": { "callsign": "Bodmin", "coord": [ 50.499722, -4.665833 ] },
     "EGLB": { "callsign": "Brooklands", "coord": [ 51.366667, -0.466667 ] },
