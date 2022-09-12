@@ -27,7 +27,7 @@ jobs:
           source-directory: 'data'
           destination-github-username: 'lennycolton'
           destination-repository-name: 'vatglasses-live-data'
-          target-directory: 'data'
+          target-directory: 'data/open'
           user-email: 40361891+lennycolton@users.noreply.github.com
           target-branch: main
 
