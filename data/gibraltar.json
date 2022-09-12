@@ -1,0 +1,120 @@
+{
+  "airspace": [
+    {
+      "id": "Gibraltar",
+      "group": "APS",
+      "owner": [
+        "GBR",
+        "GBP",
+        "GBT"
+    ],
+      "sectors": [
+        {
+          "max": 19,
+          "points": [
+            ["360911","-0052307"],
+            ["360911","-0051901"],
+            ["360714","-0051916"],
+            ["360601","-0051942"],
+            ["360531","-0052033"],
+            ["360555","-0052156"],
+            ["360705","-0052225"],
+            ["360802","-0052258"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Gibraltar",
+      "group": "APS",
+      "owner": [
+        "GBR",
+        "GBP"
+    ],
+      "sectors": [
+        {
+          "max": 244,
+          "min": 20,
+          "points": [
+            ["360911","-0052307"],
+            ["360911","-0051901"],
+            ["360714","-0051916"],
+            ["360601","-0051942"],
+            ["360531","-0052033"],
+            ["360555","-0052156"],
+            ["360705","-0052225"],
+            ["360802","-0052258"]
+          ]
+        },
+        {
+          "max": 89,
+          "min": 10,
+          "points": [
+            ["360911","-0051901"],
+            ["360857","-0051636"],
+            ["361022","-0051621"],
+            ["361022","-0045336"],
+            ["360614","-0045336"],
+            ["360601","-0051942"],
+            ["360714","-0051916"]
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "TWR": {
+      "name": "Tower",
+      "colour": "#ffffff"
+    },
+    "APP": {
+      "name": "Approach (Non-Radar)",
+      "colour": "#ffffff"
+    },
+    "APS": {
+      "name": "Approach Radar",
+      "colour": "#ffffff"
+    }
+  },
+  "positions": {
+    "GBR": { "pre": [ "LXGB" ], "type": "APP","frequency": "123.300","callsign": "Gibraltar Radar" },
+    "GBP": { "pre": [ "LXGB" ], "type": "APP","frequency": "130.400","callsign": "Gibraltar Talkdown" },
+    "GBT": { "pre": [ "LXGB" ], "type": "TWR","frequency": "131.200","callsign": "Gibraltar Tower" }
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Delivery",
+      "A": "Delivery Assistant",
+      "B": "Delivery Assistant",
+      "P": "Planner",
+      "Q": "Planner"
+    },
+    "GND": {
+      "": "Ground",
+      "P": "Planner",
+      "Q": "Planner"
+    },
+    "TWR": {
+      "": "Tower",
+      "I": "Information",
+      "P": "ATC Manager",
+      "Q": "ATC Manager",
+      "R": "Radio"
+    },
+    "APP": {
+      "": "Radar",
+      "A": "Approach",
+      "C": "Control",
+      "F": "Director",
+      "L": "Radar",
+      "P": "Talkdown",
+      "Z": "Zone"
+    },
+    "DEP": {
+      "": "Departures"
+    }
+  },
+  "airports": {
+    "LXGB": { "callsign": "Gibraltar", "coord": [ 36.1525, -5.348333 ] }
+  }
+}

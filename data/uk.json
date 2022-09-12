@@ -21234,67 +21234,6 @@
       ]
     },
     {
-      "id": "Gibraltar",
-      "group": "APS",
-      "owner": [
-        "GBR",
-        "GBP",
-        "GBT"
-    ],
-      "sectors": [
-        {
-          "max": 19,
-          "points": [
-            ["360911","-0052307"],
-            ["360911","-0051901"],
-            ["360714","-0051916"],
-            ["360601","-0051942"],
-            ["360531","-0052033"],
-            ["360555","-0052156"],
-            ["360705","-0052225"],
-            ["360802","-0052258"]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Gibraltar",
-      "group": "APS",
-      "owner": [
-        "GBR",
-        "GBP"
-    ],
-      "sectors": [
-        {
-          "max": 244,
-          "min": 20,
-          "points": [
-            ["360911","-0052307"],
-            ["360911","-0051901"],
-            ["360714","-0051916"],
-            ["360601","-0051942"],
-            ["360531","-0052033"],
-            ["360555","-0052156"],
-            ["360705","-0052225"],
-            ["360802","-0052258"]
-          ]
-        },
-        {
-          "max": 89,
-          "min": 10,
-          "points": [
-            ["360911","-0051901"],
-            ["360857","-0051636"],
-            ["361022","-0051621"],
-            ["361022","-0045336"],
-            ["360614","-0045336"],
-            ["360601","-0051942"],
-            ["360714","-0051916"]
-          ]
-        }
-      ]
-    },
-    {
       "id": "Glasgow Local Area",
       "group": "APS",
       "docs": [
@@ -29296,9 +29235,6 @@
     "KKF": { "pre": [ "EGKK" ], "type": "APP","frequency": "118.950","callsign": "Gatwick Director" },
     "KKS": { "pre": [ "EGKK" ], "type": "APP","frequency": "129.025","callsign": "Gatwick Director" },
     "KKT": { "pre": [ "EGKK" ], "type": "TWR","frequency": "124.225","callsign": "Gatwick Tower" },
-    "GBR": { "pre": [ "LXGB" ], "type": "APP","frequency": "123.300","callsign": "Gibraltar Radar" },
-    "GBP": { "pre": [ "LXGB" ], "type": "APP","frequency": "130.400","callsign": "Gibraltar Talkdown" },
-    "GBT": { "pre": [ "LXGB" ], "type": "TWR","frequency": "131.200","callsign": "Gibraltar Tower" },
     "PFR": { "pre": [ "EGPF" ], "type": "APP","frequency": "119.100","callsign": "Glasgow Radar" },
     "PFF": { "pre": [ "EGPF" ], "type": "APP","frequency": "128.750","callsign": "Glasgow Director" },
     "PFT": { "pre": [ "EGPF" ], "type": "TWR","frequency": "118.800","callsign": "Glasgow Tower" },
@@ -30877,7 +30813,6 @@
         }
       }
     },
-    "LXGB": { "callsign": "Gibraltar", "coord": [ 36.1525, -5.348333 ] },
     "SFAL": { "callsign": "Stanley", "coord": [ -51.68306, -57.76639 ], "major": "EGYP" }
   }
 }
