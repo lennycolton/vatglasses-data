@@ -1,4 +1,10 @@
 {
+  "bounds": [
+    [62, -12],
+    [62, 6],
+    [48, 6],
+    [48, -12]
+  ],
   "airspace": [
     {
       "id": "London Upper South (1)",
