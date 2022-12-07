@@ -6,6 +6,7 @@ https://vatglasses.uk
 ## Open- and Closed-Source Data
 This repository contains only **open-source** data - not all FIRs contained on VATGlasses are open-source. The current open-source data sets are:
 
+- Germany (ED** and ET**). https://vatglasses.uk/germany
 - United Kingdom (EG** and some overseas territories). https://vatglasses.uk/ukireland
 - Ireland (EI**). https://vatglasses.uk/ukireland
 - South Africa (FA**, also contains Lesotho FX**). https://vatglasses.uk/southafrica
