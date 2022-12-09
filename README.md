@@ -13,6 +13,7 @@ This repository contains only **open-source** data - not all FIRs contained on V
 
 #### Managed by Local Staff
 - Germany (ED** and ET**). https://vatglasses.uk/germany
+- Hong Kong (VH**, also contains Macau VM**). https://vatglasses.uk/hongkong
 
 #### Managed by the VATGlasses Team
 - United Kingdom (EG** and some overseas territories). https://vatglasses.uk/ukireland
@@ -26,7 +27,6 @@ Closed-source FIRs are managed by local VATSIM staff and are not open to public 
 
 - Norway (EN**). https://vatglasses.uk/norway
 - Spain (LE** and GC**). _Pending Release_
-- Hong Kong (VH**, also contains Macau VM**). _Pending Release_
 
 ### New Data Sets
 As a general rule, you should be local staff, an instructor, or (in small vACCs only) a mentor to add a new region to VATGlasses. This provides a point of contact for all future changes to the region and helps prevent incorrect information from making it onto the platform.
