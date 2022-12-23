@@ -76,5 +76,8 @@ By committing changes to this repository, you acknowledge that the copyright own
   - `callsign` - String - Airport voice callsign (paired with position voice callsigns in `callsigns` entries to generate generic callsigns where `positions` does not contain a valid entry.)
   - `coord` - _Optional_ Array of Decimals - Coordinate pairs (signed decimal degrees).
   - `runways` - _Optional_ Array of Strings - Possible runway configurations. Only define runways if this airport's runway configuration affects airspace structure.
-  - `default` - _Optional_ Boolean (assumed `true` if omitted) - Use the default APP ownership structure for this airport (F_APP > APP > `topdown`).
-  - `topdown` - _Optional_ Array of Strings - ID
+  - `default` - _Optional_ Boolean (assumed `true` if omitted) - Use the default ownership structure (above TWR) for this airport (F_APP > APP > `topdown`).
+  - `topdown` - _Optional_ Array of Strings - ID of owning positions (Above TWR, in descending order of priority) in top-level `positions` array.
+  - `major` - _Optional_ String - ID of another `airports` entry, whose ownership order (above TWR) should be followed if this airport's ownership order is exhausted. Several airports can be chained into a hierarchy in this fashion.
+  - `end` - _Optional_ Object of Objects (Key - String - Equivalent to `type` in `position` entries)
+    - Each object may contain any number of key-value pairs, in the same format as `callsigns` entries. This allows the generic `callsigns` entries to be overriden for this airport without explicitly defining `positions` entries.
