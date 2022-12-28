@@ -12072,7 +12072,7 @@
         },
         {
             "id": "Holzdorf SE",
-            "group": "EDWWMIL",
+            "group": "MAPP",
             "owner": [
                 "TSHA",
                 "DBAS",
@@ -12113,7 +12113,7 @@
         },
         {
             "id": "Holzdorf NW",
-            "group": "EDWWMIL",
+            "group": "MAPP",
             "owner": [
                 "TSHA",
                 "DBU",
@@ -12147,7 +12147,7 @@
         },
         {
             "id": "Holzdorf NW",
-            "group": "EDWWMIL",
+            "group": "MAPP",
             "owner": [
                 "TSHA",
                 "DBDS",
@@ -12962,7 +12962,8 @@
         "EDYY":{"name": "Maastricht"},
         "EDWWMIL":{"name": "Bremen (Military)"},
         "EDMMMIL":{"name": "München (Military)"},
-        "EDGGMIL":{"name": "Langen (Military)"}
+        "EDGGMIL":{"name": "Langen (Military)"},
+        "MAPP":{"name": "Approach (Military)"}
         
     },
 
