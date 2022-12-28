@@ -219,7 +219,7 @@
             ]
         },
         {
-            "id": "Franken Low",
+            "id": "Franken Low (Nuernberg)",
             "group": "APP",
             "owner": [
                 "FRK",
@@ -772,7 +772,7 @@
             ]
         },
         {
-            "id": "Iller",
+            "id": "Iller (Memmingen)",
             "group": "APP",
             "owner": [
                 "ILR",
@@ -1127,7 +1127,7 @@
             ]
         },
         {
-            "id": "Sachsen Low",
+            "id": "Sachsen Low (Dresden)",
             "group": "APP",
             "owner": [
                 "SAS",
@@ -1246,7 +1246,7 @@
             ]
         },
         {
-            "id": "Schwaben",
+            "id": "Schwaben (Muenchen West)",
             "group": "APP",
             "owner": [
                 "SWA",
@@ -1423,7 +1423,7 @@
             ]
         },
         {
-            "id": "Freising High",
+            "id": "Freising (Muenchen North) High",
             "group": "APP",
             "owner": [
                 "DMNH",
@@ -1485,7 +1485,7 @@
             ]
         },
         {
-            "id": "Freising Low",
+            "id": "Freising (Muenchen North) Low",
             "group": "APP",
             "owner": [
                 "DMNL",
@@ -1547,7 +1547,7 @@
             ]
         }, 
         {
-            "id": "Erding High",
+            "id": "Erding (Muenchen South) High",
             "group": "APP",
             "owner": [
                 "DMSH",
@@ -1607,7 +1607,7 @@
             ]
         },
         {
-            "id": "Erding Low",
+            "id": "Erding (Muenchen South) Low",
             "group": "APP",
             "owner": [
                 "DMSL",
@@ -1667,7 +1667,7 @@
             ]
         },
         {
-            "id": "Thueringen North",
+            "id": "Thueringen (Leipzig) North",
             "group": "APP",
             "owner": [
                 "TRN",
@@ -1775,7 +1775,7 @@
             ]
         },
         {
-            "id": "Thueringen South",
+            "id": "Thueringen (Leipzig) South",
             "group": "APP",
             "owner": [
                 "TRS",
@@ -3212,7 +3212,7 @@
             ]
         },
         {
-            "id": "Bottrop",
+            "id": "Bottrop (Duesseldorf North)",
             "group": "APP",
             "owner": [
                 "BOT",
@@ -3454,7 +3454,7 @@
             ]
         },
         {
-            "id": "Koeln Arrival",
+            "id": "Koeln (South & East)",
             "group": "APP",
             "owner": [
                 "DKA",
@@ -3695,7 +3695,7 @@
             ]
         },
         {
-            "id": "Eifel",
+            "id": "Eifel (Frankfurt Hahn)",
             "group": "APP",
             "owner": [
                 "EIF",
@@ -4962,7 +4962,7 @@
             ]
         },
         {
-            "id": "Hamm",
+            "id": "Hamm (Muenster)",
             "group": "APP",
             "owner": [
                 "HMM",
@@ -5859,7 +5859,7 @@
             ]
         },
         {
-            "id": "Noervenich",
+            "id": "Noervenich (Koeln Northwest)",
             "group": "APP",
             "owner": [
                 "NOR",
@@ -6678,7 +6678,7 @@
             ]
         },
         {
-            "id": "Paderborn Low",
+            "id": "Paderborn Low (Dortmund)",
             "group": "APP",
             "owner": [
                 "PADL",
@@ -7221,7 +7221,7 @@
             ]
         },
         {
-            "id": "Reutlingen",
+            "id": "Reutlingen (Stuttgart South)",
             "group": "APP",
             "owner": [
                 "REU",
@@ -8336,7 +8336,7 @@
             ]
         },
         {
-            "id": "Stuttgart",
+            "id": "Stuttgart (North)",
             "group": "APP",
             "owner": [
               "STG",
@@ -9750,7 +9750,7 @@
             ]
         },
         {
-            "id": "Dusseldorf",
+            "id": "Duesseldorf",
             "group": "APP",
             "owner": [
                 "DUS",
@@ -11080,7 +11080,7 @@
             ]
         },
         {
-            "id": "Friesland",
+            "id": "Friesland (Bremen)",
             "group": "APP",
             "owner": [
                 "FRI",
@@ -13052,7 +13052,7 @@
         "DNAT": {"colours": [{"hex": "#9722cf"}], "pre": ["EDDN"], "type": "APP", "frequency": "119.475","callsign": "Nuernberg Director"},
         "TRS": {"colours": [{"hex": "#05048b"}], "pre": ["EDDP"], "type": "APP", "frequency": "126.175","callsign": "Muenchen Radar"},
         "DPNAT": {"colours": [{"hex": "#39d3a3"}], "pre": ["EDDP"], "type": "APP", "frequency": "120.850","callsign": "Leipzig Director"},
-        "TRN": {"colours": [{"hex": "#43563b"}], "pre": ["EDPP"], "type": "APP", "frequency": "126.075","callsign": "Muenchen Radar"},
+        "TRN": {"colours": [{"hex": "#43563b"}], "pre": ["EDDP"], "type": "APP", "frequency": "126.075","callsign": "Muenchen Radar"},
         "DPSAT": {"colours": [{"hex": "#c062c7"}], "pre": ["EDDP"], "type": "APP", "frequency": "129.750","callsign": "Leipzig Director"},
         "ILR": {"colours": [{"hex": "#bff2fc"}], "pre": ["EDJA"], "type": "APP", "frequency": "129.450","callsign": "Muenchen Radar"},
         "SWA": {"colours": [{"hex": "#f71a9b"}], "pre": ["EDMM"], "type": "APP", "frequency": "136.525","callsign": "Muenchen Radar"},
