@@ -5782,7 +5782,7 @@
         },
         {
             "id": "Neckar Low (Mannheim)",
-            "group": "Approach",
+            "group": "APP",
             "owner": [
                 "NKRL",
                 "NKRH",
@@ -6824,7 +6824,7 @@
         },
         {
             "id": "Pfalz (Saarbrücken)",
-            "group": "Approach",
+            "group": "APP",
             "owner": [
                 "PFA",
                 "EIF",
