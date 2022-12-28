@@ -219,7 +219,7 @@
             ]
         },
         {
-            "id": "Franken Low (Nuernberg)",
+            "id": "Franken Low (Nürnberg)",
             "group": "APP",
             "owner": [
                 "FRK",
@@ -375,7 +375,7 @@
             ]
         },
         {
-           "id": "Fuessen",
+           "id": "Füssen",
            "group": "EDMM",
            "owner": [
                 "ZUG",
@@ -834,7 +834,7 @@
             ]
         },
         {
-            "id": "Meissen",
+            "id": "Meißen",
             "group": "EDMM",
             "owner": [
                 "MEI",
@@ -920,7 +920,7 @@
             ]
         },
         {
-            "id": "Noerdlingen",
+            "id": "Nördlingen",
             "group": "EDMM",
             "owner": [
                 "NDG",
@@ -1246,7 +1246,7 @@
             ]
         },
         {
-            "id": "Schwaben (Muenchen West)",
+            "id": "Schwaben (München West)",
             "group": "APP",
             "owner": [
                 "SWA",
@@ -1423,7 +1423,7 @@
             ]
         },
         {
-            "id": "Freising (Muenchen North) High",
+            "id": "Freising (München North) High",
             "group": "APP",
             "owner": [
                 "DMNH",
@@ -1485,7 +1485,7 @@
             ]
         },
         {
-            "id": "Freising (Muenchen North) Low",
+            "id": "Freising (München North) Low",
             "group": "APP",
             "owner": [
                 "DMNL",
@@ -1547,7 +1547,7 @@
             ]
         }, 
         {
-            "id": "Erding (Muenchen South) High",
+            "id": "Erding (München South) High",
             "group": "APP",
             "owner": [
                 "DMSH",
@@ -1607,7 +1607,7 @@
             ]
         },
         {
-            "id": "Erding (Muenchen South) Low",
+            "id": "Erding (München South) Low",
             "group": "APP",
             "owner": [
                 "DMSL",
@@ -1667,7 +1667,7 @@
             ]
         },
         {
-            "id": "Thueringen (Leipzig) North",
+            "id": "Thüringen (Leipzig) North",
             "group": "APP",
             "owner": [
                 "TRN",
@@ -1775,7 +1775,7 @@
             ]
         },
         {
-            "id": "Thueringen (Leipzig) South",
+            "id": "Thüringen (Leipzig) South",
             "group": "APP",
             "owner": [
                 "TRS",
@@ -3212,7 +3212,7 @@
             ]
         },
         {
-            "id": "Bottrop (Duesseldorf North)",
+            "id": "Bottrop (Düsseldorf North)",
             "group": "APP",
             "owner": [
                 "BOT",
@@ -3454,7 +3454,7 @@
             ]
         },
         {
-            "id": "Koeln (South & East)",
+            "id": "Köln (South & East)",
             "group": "APP",
             "owner": [
                 "DKA",
@@ -3593,7 +3593,7 @@
             ]
         },
         {
-            "id": "Dinkelsbuehl",
+            "id": "Dinkelsbühl",
             "group": "EDGG",
             "owner": [
                 "DKB",
@@ -4350,7 +4350,7 @@
             ]
         },
         {
-            "id": "Giessen",
+            "id": "Gießen",
             "group": "EDGG",
             "owner": [
                 "GIN",
@@ -4962,7 +4962,7 @@
             ]
         },
         {
-            "id": "Hamm (Muenster)",
+            "id": "Hamm (Münster)",
             "group": "APP",
             "owner": [
                 "HMM",
@@ -5222,7 +5222,7 @@
             ]
         },
         {
-            "id": "Koenig",
+            "id": "König",
             "group": "EDGG",
             "owner": [
                 "KNG",
@@ -5859,7 +5859,7 @@
             ]
         },
         {
-            "id": "Noervenich (Koeln Northwest)",
+            "id": "Nörvenich (Köln Northwest)",
             "group": "APP",
             "owner": [
                 "NOR",
@@ -7395,7 +7395,7 @@
             ]
         },
         {
-            "id": "Ruedesheim",
+            "id": "Rüdesheim",
             "group": "EDGG",
             "owner": [
                 "RUD",
@@ -7641,7 +7641,7 @@
             ]
         },
         {
-            "id": "Soellingen 1",
+            "id": "Söllingen 1",
             "group": "EDUU",
             "owner": [
                 "SLN",
@@ -7873,7 +7873,7 @@
             ]
         },
         {
-            "id": "Soellingen 2",
+            "id": "Söllingen 2",
             "group": "EDUU",
             "owner": [
                 "SLN",
@@ -8105,7 +8105,7 @@
             ]
         },
         {
-            "id": "Soellingen 3",
+            "id": "Söllingen 3",
             "group": "EDUU",
             "owner": [
                 "SLN",
@@ -8854,7 +8854,7 @@
             ]
         },
         {
-            "id": "Wuerzburg 1",
+            "id": "Würzburg 1",
             "group": "EDUU",
             "owner": [
                 "WUR",
@@ -8942,7 +8942,7 @@
             ]
         },
         {
-            "id": "Wuerzburg 2",
+            "id": "Würzburg 2",
             "group": "EDUU",
             "owner": [
                 "WUR",
@@ -8992,7 +8992,7 @@
             ]
         },
         {
-            "id": "Wuerzburg 3",
+            "id": "Würzburg 3",
             "group": "EDUU",
             "owner": [
                 "WUR",
@@ -9042,7 +9042,7 @@
             ]
         },
         {
-            "id": "Wuerzburg 4",
+            "id": "Würzburg 4",
             "group": "EDUU",
             "owner": [
                 "WUR",
@@ -9091,7 +9091,7 @@
             ]
         },
         {
-            "id": "Muenster High",
+            "id": "Münster High",
             "group": "EDYY",
             "owner": [
                 "MNS",
@@ -9151,7 +9151,7 @@
             ]
         },
         {
-            "id": "Muenster Low",
+            "id": "Münster Low",
             "group": "EDYY",
             "owner": [
                 "MNS",
@@ -9750,7 +9750,7 @@
             ]
         },
         {
-            "id": "Duesseldorf",
+            "id": "Düsseldorf",
             "group": "APP",
             "owner": [
                 "DUS",
@@ -9934,7 +9934,7 @@
             ]
         },
         {
-            "id": "Boerde",
+            "id": "Börde",
             "group": "EDWW",
             "owner": [
                 "BOR",
@@ -10975,7 +10975,7 @@
             ]
         },
         {
-            "id": "Flaeming",
+            "id": "Fläming",
             "group": "EDWW",
             "owner": [
                 "FLG",
@@ -11905,7 +11905,7 @@
             ]
         },
         {
-            "id": "Mueritz",
+            "id": "Müritz",
             "group": "EDWW",
             "owner": [
                 "MRZ",
@@ -12956,146 +12956,146 @@
     "groups": {
         "EDGG":{"name": "Langen"},
         "EDWW":{"name": "Bremen"},
-        "EDMM":{"name": "Muenchen"},
+        "EDMM":{"name": "München"},
         "APP":{"name": "Approach"},
         "EDUU": {"name": "Rhein (Karlsruhe)"},
         "EDYY":{"name": "Maastricht"},
         "EDWWMIL":{"name": "Bremen (Military)"},
-        "EDMMMIL":{"name": "Muenchen (Military)"},
+        "EDMMMIL":{"name": "München (Military)"},
         "EDGGMIL":{"name": "Langen (Military)"}
         
     },
 
     "positions": {
-        "MMC": {"colours": [{"hex": "#0b3eb3"}], "pre": ["EDMM"], "type": "CTR", "frequency": "124.050","callsign": "Muenchen Radar"},
-        "ALB": {"colours": [{"hex": "#982336"}], "pre": ["EDMM"], "type": "CTR", "frequency": "129.100","callsign": "Muenchen Radar"},
-        "BBG": {"colours": [{"hex": "#f15e4d"}], "pre": ["EDMM"], "type": "CTR", "frequency": "133.600","callsign": "Muenchen Radar"},
-        "EGG": {"colours": [{"hex": "#507509"}], "pre": ["EDMM"], "type": "CTR", "frequency": "129.550","callsign": "Muenchen Radar"},
-        "GER": {"colours": [{"hex": "#493887"}], "pre": ["EDMM"], "type": "CTR", "frequency": "133.225","callsign": "Muenchen Radar"},
-        "HAL": {"colours": [{"hex": "#2cd542"}], "pre": ["EDMM"], "type": "CTR", "frequency": "118.225","callsign": "Muenchen Radar"},
-        "MEI": {"colours": [{"hex": "#88d809"}], "pre": ["EDMM"], "type": "CTR", "frequency": "124.950","callsign": "Muenchen Radar"},
-        "NDG": {"colours": [{"hex": "#730a6f"}], "pre": ["EDMM"], "type": "CTR", "frequency": "124.825","callsign": "Muenchen Radar"},
-        "HOF": {"colours": [{"hex": "#14b902"}], "pre": ["EDMM"], "type": "CTR", "frequency": "133.575","callsign": "Muenchen Radar"},
-        "RDG": {"colours": [{"hex": "#85d6c0"}], "pre": ["EDMM"], "type": "CTR", "frequency": "132.550","callsign": "Muenchen Radar"},
-        "TEG": {"colours": [{"hex": "#1feb80"}], "pre": ["EDMM"], "type": "CTR", "frequency": "133.675","callsign": "Muenchen Radar"},
-        "TRU": {"colours": [{"hex": "#dc605c"}], "pre": ["EDMM"], "type": "CTR", "frequency": "132.650","callsign": "Muenchen Radar"},
-        "WLD": {"colours": [{"hex": "#c3bf68"}], "pre": ["EDMM"], "type": "CTR", "frequency": "136.225","callsign": "Muenchen Radar"},
-        "ZUG": {"colours": [{"hex": "#51e91a"}], "pre": ["EDMM"], "type": "CTR", "frequency": "134.150","callsign": "Muenchen Radar"},
+        "MMC": {"colours": [{"hex": "#0b3eb3"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "124.050","callsign": "München Radar"},
+        "ALB": {"colours": [{"hex": "#982336"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "129.100","callsign": "München Radar"},
+        "BBG": {"colours": [{"hex": "#f15e4d"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "133.600","callsign": "München Radar"},
+        "EGG": {"colours": [{"hex": "#507509"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "129.550","callsign": "München Radar"},
+        "GER": {"colours": [{"hex": "#493887"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "133.225","callsign": "München Radar"},
+        "HAL": {"colours": [{"hex": "#2cd542"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "118.225","callsign": "München Radar"},
+        "MEI": {"colours": [{"hex": "#88d809"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "124.950","callsign": "München Radar"},
+        "NDG": {"colours": [{"hex": "#730a6f"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "124.825","callsign": "München Radar"},
+        "HOF": {"colours": [{"hex": "#14b902"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "133.575","callsign": "München Radar"},
+        "RDG": {"colours": [{"hex": "#85d6c0"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "132.550","callsign": "München Radar"},
+        "TEG": {"colours": [{"hex": "#1feb80"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "133.675","callsign": "München Radar"},
+        "TRU": {"colours": [{"hex": "#dc605c"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "132.650","callsign": "München Radar"},
+        "WLD": {"colours": [{"hex": "#c3bf68"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "136.225","callsign": "München Radar"},
+        "ZUG": {"colours": [{"hex": "#51e91a"}], "pre": ["EDMM"], "type": "CTR", "freqüncy": "134.150","callsign": "München Radar"},
 
-        "WWC": {"colours": [{"hex": "#7f3beb"}], "pre": ["EDWW"], "type": "CTR", "frequency": "133.725", "callsign": "Bremen Radar"},
-        "ALR": {"colours": [{"hex": "#e90103"}], "pre": ["EDWW"], "type": "CTR", "frequency": "123.925", "callsign": "Bremen Radar"},
-        "BOR": {"colours": [{"hex": "#82603d"}], "pre": ["EDWW"], "type": "CTR", "frequency": "123.225", "callsign": "Bremen Radar"},
-        "DST": {"colours": [{"hex": "#d3c481"}], "pre": ["EDWW"], "type": "CTR", "frequency": "128.750", "callsign": "Bremen Radar"},
-        "EIDE": {"colours": [{"hex": "#55025d"}], "pre": ["EDWW"], "type": "CTR", "frequency": "124.075", "callsign": "Bremen Radar"},
-        "EIDW": {"colours": [{"hex": "#b3f25f"}], "pre": ["EDWW"], "type": "CTR", "frequency": "120.225", "callsign": "Bremen Radar"},
-        "EMS": {"colours": [{"hex": "#283e56"}], "pre": ["EDWW"], "type": "CTR", "frequency": "125.025", "callsign": "Bremen Radar"},
-        "FLG": {"colours": [{"hex": "#53561e"}], "pre": ["EDWW"], "type": "CTR", "frequency": "136.450", "callsign": "Bremen Radar"},
-        "HEI": {"colours": [{"hex": "#53d1d8"}], "pre": ["EDWW"], "type": "CTR", "frequency": "125.850", "callsign": "Bremen Radar"},
-        "HRZ": {"colours": [{"hex": "#a46c8b"}], "pre": ["EDWW"], "type": "CTR", "frequency": "126.650", "callsign": "Bremen Radar"},
-        "MAR": {"colours": [{"hex": "#2ae0a9"}], "pre": ["EDWW"], "type": "CTR", "frequency": "136.050", "callsign": "Bremen Radar"},
-        "MRZ": {"colours": [{"hex": "#71d9a4"}], "pre": ["EDWW"], "type": "CTR", "frequency": "124.175", "callsign": "Bremen Radar"},
+        "WWC": {"colours": [{"hex": "#7f3beb"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "133.725", "callsign": "Bremen Radar"},
+        "ALR": {"colours": [{"hex": "#e90103"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "123.925", "callsign": "Bremen Radar"},
+        "BOR": {"colours": [{"hex": "#82603d"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "123.225", "callsign": "Bremen Radar"},
+        "DST": {"colours": [{"hex": "#d3c481"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "128.750", "callsign": "Bremen Radar"},
+        "EIDE": {"colours": [{"hex": "#55025d"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "124.075", "callsign": "Bremen Radar"},
+        "EIDW": {"colours": [{"hex": "#b3f25f"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "120.225", "callsign": "Bremen Radar"},
+        "EMS": {"colours": [{"hex": "#283e56"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "125.025", "callsign": "Bremen Radar"},
+        "FLG": {"colours": [{"hex": "#53561e"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "136.450", "callsign": "Bremen Radar"},
+        "HEI": {"colours": [{"hex": "#53d1d8"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "125.850", "callsign": "Bremen Radar"},
+        "HRZ": {"colours": [{"hex": "#a46c8b"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "126.650", "callsign": "Bremen Radar"},
+        "MAR": {"colours": [{"hex": "#2ä0a9"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "136.050", "callsign": "Bremen Radar"},
+        "MRZ": {"colours": [{"hex": "#71d9a4"}], "pre": ["EDWW"], "type": "CTR", "freqüncy": "124.175", "callsign": "Bremen Radar"},
 
-        "GGC": {"colours": [{"hex": "#898768"}], "pre": ["EDGG"], "type": "CTR", "frequency": "135.725", "callsign": "Langen Radar"},
-        "BAD": {"colours": [{"hex": "#9ebb98"}], "pre": ["EDGG"], "type": "CTR", "frequency": "131.300", "callsign": "Langen Radar"},
-        "DKB": {"colours": [{"hex": "#6edd87"}], "pre": ["EDGG"], "type": "CTR", "frequency": "125.200", "callsign": "Langen Radar"},
-        "GED": {"colours": [{"hex": "#ce0f8f"}], "pre": ["EDGG"], "type": "CTR", "frequency": "124.425", "callsign": "Langen Radar"},
-        "GIN": {"colours": [{"hex": "#8b26aa"}], "pre": ["EDGG"], "type": "CTR", "frequency": "124.725", "callsign": "Langen Radar"},
-        "HAB": {"colours": [{"hex": "#1bee9f"}], "pre": ["EDGG"], "type": "CTR", "frequency": "134.800", "callsign": "Langen Radar"},
-        "HEF": {"colours": [{"hex": "#4b403a"}], "pre": ["EDGG"], "type": "CTR", "frequency": "127.725", "callsign": "Langen Radar"},
-        "HMMH": {"colours": [{"hex": "#8cc64b"}], "pre": ["EDGG"], "type": "CTR", "frequency": "118.750", "callsign": "Langen Radar"},
-        "KIR": {"colours": [{"hex": "#510d8b"}], "pre": ["EDGG"], "type": "CTR", "frequency": "128.525", "callsign": "Langen Radar"},
-        "KNG": {"colours": [{"hex": "#cae068"}], "pre": ["EDGG"], "type": "CTR", "frequency": "125.675", "callsign": "Langen Radar"},
-        "KTG": {"colours": [{"hex": "#151c11"}], "pre": ["EDGG"], "type": "CTR", "frequency": "123.275", "callsign": "Langen Radar"},
-        "LBU": {"colours": [{"hex": "#2d3801"}], "pre": ["EDGG"], "type": "CTR", "frequency": "127.050", "callsign": "Langen Radar"},
-        "MAIN": {"colours": [{"hex": "#22de14"}], "pre": ["EDGG"], "type": "CTR", "frequency": "132.150", "callsign": "Langen Radar"},
-        "NKRH": {"colours": [{"hex": "#59a113"}], "pre": ["EDGG"], "type": "CTR", "frequency": "127.500", "callsign": "Langen Radar"},
-        "PADH": {"colours": [{"hex": "#8d08c6"}], "pre": ["EDGG"], "type": "CTR", "frequency": "135.650", "callsign": "Langen Radar"},
-        "PSA": {"colours": [{"hex": "#52d360"}], "pre": ["EDGG"], "type": "CTR", "frequency": "125.400", "callsign": "Langen Radar"},
-        "RUD": {"colours": [{"hex": "#3b6ef1"}], "pre": ["EDGG"], "type": "CTR", "frequency": "124.475", "callsign": "Langen Radar"},
-        "SIG": {"colours": [{"hex": "#ae1531"}], "pre": ["EDGG"], "type": "CTR", "frequency": "124.900", "callsign": "Langen Radar"},
-        "TAU": {"colours": [{"hex": "#1dac16"}], "pre": ["EDGG"], "type": "CTR", "frequency": "127.625", "callsign": "Langen Radar"},
+        "GGC": {"colours": [{"hex": "#898768"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "135.725", "callsign": "Langen Radar"},
+        "BAD": {"colours": [{"hex": "#9ebb98"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "131.300", "callsign": "Langen Radar"},
+        "DKB": {"colours": [{"hex": "#6edd87"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "125.200", "callsign": "Langen Radar"},
+        "GED": {"colours": [{"hex": "#ce0f8f"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "124.425", "callsign": "Langen Radar"},
+        "GIN": {"colours": [{"hex": "#8b26aa"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "124.725", "callsign": "Langen Radar"},
+        "HAB": {"colours": [{"hex": "#1bee9f"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "134.800", "callsign": "Langen Radar"},
+        "HEF": {"colours": [{"hex": "#4b403a"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "127.725", "callsign": "Langen Radar"},
+        "HMMH": {"colours": [{"hex": "#8cc64b"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "118.750", "callsign": "Langen Radar"},
+        "KIR": {"colours": [{"hex": "#510d8b"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "128.525", "callsign": "Langen Radar"},
+        "KNG": {"colours": [{"hex": "#cä068"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "125.675", "callsign": "Langen Radar"},
+        "KTG": {"colours": [{"hex": "#151c11"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "123.275", "callsign": "Langen Radar"},
+        "LBU": {"colours": [{"hex": "#2d3801"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "127.050", "callsign": "Langen Radar"},
+        "MAIN": {"colours": [{"hex": "#22de14"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "132.150", "callsign": "Langen Radar"},
+        "NKRH": {"colours": [{"hex": "#59a113"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "127.500", "callsign": "Langen Radar"},
+        "PADH": {"colours": [{"hex": "#8d08c6"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "135.650", "callsign": "Langen Radar"},
+        "PSA": {"colours": [{"hex": "#52d360"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "125.400", "callsign": "Langen Radar"},
+        "RUD": {"colours": [{"hex": "#3b6ef1"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "124.475", "callsign": "Langen Radar"},
+        "SIG": {"colours": [{"hex": "#ä1531"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "124.900", "callsign": "Langen Radar"},
+        "TAU": {"colours": [{"hex": "#1dac16"}], "pre": ["EDGG"], "type": "CTR", "freqüncy": "127.625", "callsign": "Langen Radar"},
         
-        "ALP": {"colours": [{"hex": "#cebab8"}], "pre": ["EDUU"], "type": "CTR", "frequency": "127.300", "callsign": "Rhein Radar"},
-        "CHI": {"colours": [{"hex": "#caf719"}], "pre": ["EDUU"], "type": "CTR", "frequency": "128.825", "callsign": "Rhein Radar"},
-        "DON": {"colours": [{"hex": "#059319"}], "pre": ["EDUU"], "type": "CTR", "frequency": "123.725", "callsign": "Rhein Radar"},
-        "ERL": {"colours": [{"hex": "#950458"}], "pre": ["EDUU"], "type": "CTR", "frequency": "136.400", "callsign": "Rhein Radar"},
-        "FFM": {"colours": [{"hex": "#06895d"}], "pre": ["EDUU"], "type": "CTR", "frequency": "132.325", "callsign": "Rhein Radar"},
-        "FUL": {"colours": [{"hex": "#e79d14"}], "pre": ["EDUU"], "type": "CTR", "frequency": "136.325", "callsign": "Rhein Radar"},
-        "HVL": {"colours": [{"hex": "#e212c5"}], "pre": ["EDUU"], "type": "CTR", "frequency": "133.750", "callsign": "Rhein Radar"},
-        "ISA": {"colours": [{"hex": "#c5f8ca"}], "pre": ["EDUU"], "type": "CTR", "frequency": "136.350", "callsign": "Rhein Radar"},
-        "NTM": {"colours": [{"hex": "#638c09"}], "pre": ["EDUU"], "type": "CTR", "frequency": "136.475", "callsign": "Rhein Radar"},
-        "OSE": {"colours": [{"hex": "#a24fde"}], "pre": ["EDUU"], "type": "CTR", "frequency": "133.025", "callsign": "Rhein Radar"},
-        "SAL": {"colours": [{"hex": "#7f56b0"}], "pre": ["EDUU"], "type": "CTR", "frequency": "122.625", "callsign": "Rhein Radar"},
-        "SLN": {"colours": [{"hex": "#bad4d7"}], "pre": ["EDUU"], "type": "CTR", "frequency": "120.925", "callsign": "Rhein Radar"},
-        "SPE": {"colours": [{"hex": "#1583f7"}], "pre": ["EDUU"], "type": "CTR", "frequency": "128.075", "callsign": "Rhein Radar"},
-        "TGO": {"colours": [{"hex": "#b418f0"}], "pre": ["EDUU"], "type": "CTR", "frequency": "132.400", "callsign": "Rhein Radar"},
-        "WUR": {"colours": [{"hex": "#714d2a"}], "pre": ["EDUU"], "type": "CTR", "frequency": "134.075", "callsign": "Rhein Radar"},
+        "ALP": {"colours": [{"hex": "#cebab8"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "127.300", "callsign": "Rhein Radar"},
+        "CHI": {"colours": [{"hex": "#caf719"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "128.825", "callsign": "Rhein Radar"},
+        "DON": {"colours": [{"hex": "#059319"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "123.725", "callsign": "Rhein Radar"},
+        "ERL": {"colours": [{"hex": "#950458"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "136.400", "callsign": "Rhein Radar"},
+        "FFM": {"colours": [{"hex": "#06895d"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "132.325", "callsign": "Rhein Radar"},
+        "FUL": {"colours": [{"hex": "#e79d14"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "136.325", "callsign": "Rhein Radar"},
+        "HVL": {"colours": [{"hex": "#e212c5"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "133.750", "callsign": "Rhein Radar"},
+        "ISA": {"colours": [{"hex": "#c5f8ca"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "136.350", "callsign": "Rhein Radar"},
+        "NTM": {"colours": [{"hex": "#638c09"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "136.475", "callsign": "Rhein Radar"},
+        "OSE": {"colours": [{"hex": "#a24fde"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "133.025", "callsign": "Rhein Radar"},
+        "SAL": {"colours": [{"hex": "#7f56b0"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "122.625", "callsign": "Rhein Radar"},
+        "SLN": {"colours": [{"hex": "#bad4d7"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "120.925", "callsign": "Rhein Radar"},
+        "SPE": {"colours": [{"hex": "#1583f7"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "128.075", "callsign": "Rhein Radar"},
+        "TGO": {"colours": [{"hex": "#b418f0"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "132.400", "callsign": "Rhein Radar"},
+        "WUR": {"colours": [{"hex": "#714d2a"}], "pre": ["EDUU"], "type": "CTR", "freqüncy": "134.075", "callsign": "Rhein Radar"},
 
-        "CEL": {"colours": [{"hex": "#cbef87"}], "pre": ["EDYY"], "type": "CTR", "frequency": "133.950", "callsign": "Maastricht Radar"},
-        "CELH": {"colours": [{"hex": "#bebc35"}], "pre": ["EDYY"], "type": "CTR", "frequency": "128.775", "callsign": "Maastricht Radar"},
-        "HOL": {"colours": [{"hex": "#e0377f"}], "pre": ["EDYY"], "type": "CTR", "frequency": "120.950", "callsign": "Maastricht Radar"},
-        "JEV": {"colours": [{"hex": "#d514ad"}], "pre": ["EDYY"], "type": "CTR", "frequency": "134.700", "callsign": "Maastricht Radar"},
-        "JEVH": {"colours": [{"hex": "#ff2f6d"}], "pre": ["EDYY"], "type": "CTR", "frequency": "132.800", "callsign": "Maastricht Radar"},
-        "MNS": {"colours": [{"hex": "#67d78e"}], "pre": ["EDYY"], "type": "CTR", "frequency": "133.850", "callsign": "Maastricht Radar"},
-        "RHR": {"colours": [{"hex": "#cf75aa"}], "pre": ["EDYY"], "type": "CTR", "frequency": "132.625", "callsign": "Maastricht Radar"},
-        "SOL": {"colours": [{"hex": "#1357b1"}], "pre": ["EDYY"], "type": "CTR", "frequency": "131.375", "callsign": "Maastricht Radar"},
-        "SOLH": {"colours": [{"hex": "#810958"}], "pre": ["EDYY"], "type": "CTR", "frequency": "134.725", "callsign": "Maastricht Radar"},
+        "CEL": {"colours": [{"hex": "#cbef87"}], "pre": ["EDYY"], "type": "CTR", "freqüncy": "133.950", "callsign": "Maastricht Radar"},
+        "CELH": {"colours": [{"hex": "#bebc35"}], "pre": ["EDYY"], "type": "CTR", "freqüncy": "128.775", "callsign": "Maastricht Radar"},
+        "HOL": {"colours": [{"hex": "#e0377f"}], "pre": ["EDYY"], "type": "CTR", "freqüncy": "120.950", "callsign": "Maastricht Radar"},
+        "JEV": {"colours": [{"hex": "#d514ad"}], "pre": ["EDYY"], "type": "CTR", "freqüncy": "134.700", "callsign": "Maastricht Radar"},
+        "JEVH": {"colours": [{"hex": "#ff2f6d"}], "pre": ["EDYY"], "type": "CTR", "freqüncy": "132.800", "callsign": "Maastricht Radar"},
+        "MNS": {"colours": [{"hex": "#67d78e"}], "pre": ["EDYY"], "type": "CTR", "freqüncy": "133.850", "callsign": "Maastricht Radar"},
+        "RHR": {"colours": [{"hex": "#cf75aa"}], "pre": ["EDYY"], "type": "CTR", "freqüncy": "132.625", "callsign": "Maastricht Radar"},
+        "SOL": {"colours": [{"hex": "#1357b1"}], "pre": ["EDYY"], "type": "CTR", "freqüncy": "131.375", "callsign": "Maastricht Radar"},
+        "SOLH": {"colours": [{"hex": "#810958"}], "pre": ["EDYY"], "type": "CTR", "freqüncy": "134.725", "callsign": "Maastricht Radar"},
 
-        "SAS": {"colours": [{"hex": "#6c7fc9"}], "pre": ["EDDC"], "type": "APP", "frequency": "125.875","callsign": "Muenchen Radar"},
-        "DMNH": {"colours": [{"hex": "#0d6dae"}], "pre": ["EDDM"], "type": "APP", "frequency": "128.025","callsign": "Muenchen Arrival"},
-        "DMSH": {"colours": [{"hex": "#0c384a"}], "pre": ["EDDM"], "type": "APP", "frequency": "120.775","callsign": "Muenchen Arrival"},
-        "DMNAT": {"colours": [{"hex": "#9c322e"}], "pre": ["EDDM"], "type": "APP", "frequency": "118.825","callsign": "Muenchen Director"},
-        "DMNL": {"colours": [{"hex": "#9f568b"}], "pre": ["EDDM"], "type": "APP", "frequency": "123.900","callsign": "Muenchen Radar"},
-        "DMSL": {"colours": [{"hex": "#16971e"}], "pre": ["EDDM"], "type": "APP", "frequency": "127.950","callsign": "Muenchen Radar"},
-        "DMSAT": {"colours": [{"hex": "#ae15c1"}], "pre": ["EDDM"], "type": "APP", "frequency": "132.300","callsign": "Muenchen Director"},
-        "FRK": {"colours": [{"hex": "#25c081"}], "pre": ["EDDN"], "type": "APP", "frequency": "129.525","callsign": "Muenchen Radar"},
-        "DNAT": {"colours": [{"hex": "#9722cf"}], "pre": ["EDDN"], "type": "APP", "frequency": "119.475","callsign": "Nuernberg Director"},
-        "TRS": {"colours": [{"hex": "#05048b"}], "pre": ["EDDP"], "type": "APP", "frequency": "126.175","callsign": "Muenchen Radar"},
-        "DPNAT": {"colours": [{"hex": "#39d3a3"}], "pre": ["EDDP"], "type": "APP", "frequency": "120.850","callsign": "Leipzig Director"},
-        "TRN": {"colours": [{"hex": "#43563b"}], "pre": ["EDDP"], "type": "APP", "frequency": "126.075","callsign": "Muenchen Radar"},
-        "DPSAT": {"colours": [{"hex": "#c062c7"}], "pre": ["EDDP"], "type": "APP", "frequency": "129.750","callsign": "Leipzig Director"},
-        "ILR": {"colours": [{"hex": "#bff2fc"}], "pre": ["EDJA"], "type": "APP", "frequency": "129.450","callsign": "Muenchen Radar"},
-        "SWA": {"colours": [{"hex": "#f71a9b"}], "pre": ["EDMM"], "type": "APP", "frequency": "136.525","callsign": "Muenchen Radar"},
-        "ARFA": {"colours": [{"hex": "#a15fc8"}], "pre": ["LSFA"], "type": "APP", "frequency": "119.925", "callsign": "Alps Radar"},
+        "SAS": {"colours": [{"hex": "#6c7fc9"}], "pre": ["EDDC"], "type": "APP", "freqüncy": "125.875","callsign": "München Radar"},
+        "DMNH": {"colours": [{"hex": "#0d6dä"}], "pre": ["EDDM"], "type": "APP", "freqüncy": "128.025","callsign": "München Arrival"},
+        "DMSH": {"colours": [{"hex": "#0c384a"}], "pre": ["EDDM"], "type": "APP", "freqüncy": "120.775","callsign": "München Arrival"},
+        "DMNAT": {"colours": [{"hex": "#9c322e"}], "pre": ["EDDM"], "type": "APP", "freqüncy": "118.825","callsign": "München Director"},
+        "DMNL": {"colours": [{"hex": "#9f568b"}], "pre": ["EDDM"], "type": "APP", "freqüncy": "123.900","callsign": "München Radar"},
+        "DMSL": {"colours": [{"hex": "#16971e"}], "pre": ["EDDM"], "type": "APP", "freqüncy": "127.950","callsign": "München Radar"},
+        "DMSAT": {"colours": [{"hex": "#ä15c1"}], "pre": ["EDDM"], "type": "APP", "freqüncy": "132.300","callsign": "München Director"},
+        "FRK": {"colours": [{"hex": "#25c081"}], "pre": ["EDDN"], "type": "APP", "freqüncy": "129.525","callsign": "München Radar"},
+        "DNAT": {"colours": [{"hex": "#9722cf"}], "pre": ["EDDN"], "type": "APP", "freqüncy": "119.475","callsign": "Nürnberg Director"},
+        "TRS": {"colours": [{"hex": "#05048b"}], "pre": ["EDDP"], "type": "APP", "freqüncy": "126.175","callsign": "München Radar"},
+        "DPNAT": {"colours": [{"hex": "#39d3a3"}], "pre": ["EDDP"], "type": "APP", "freqüncy": "120.850","callsign": "Leipzig Director"},
+        "TRN": {"colours": [{"hex": "#43563b"}], "pre": ["EDDP"], "type": "APP", "freqüncy": "126.075","callsign": "München Radar"},
+        "DPSAT": {"colours": [{"hex": "#c062c7"}], "pre": ["EDDP"], "type": "APP", "freqüncy": "129.750","callsign": "Leipzig Director"},
+        "ILR": {"colours": [{"hex": "#bff2fc"}], "pre": ["EDJA"], "type": "APP", "freqüncy": "129.450","callsign": "München Radar"},
+        "SWA": {"colours": [{"hex": "#f71a9b"}], "pre": ["EDMM"], "type": "APP", "freqüncy": "136.525","callsign": "München Radar"},
+        "ARFA": {"colours": [{"hex": "#a15fc8"}], "pre": ["LSFA"], "type": "APP", "freqüncy": "119.925", "callsign": "Alps Radar"},
 
-        "DBAN": {"colours": [{"hex": "#d5e57d"}], "pre": ["EDDB"], "type": "APP", "frequency": "119.625", "callsign": "Bremen Radar"},
-        "DBAS": {"colours": [{"hex": "#07b309"}], "pre": ["EDDB"], "type": "APP", "frequency": "126.425", "callsign": "Bremen Radar"},
-        "DBF": {"colours": [{"hex": "#45295f"}], "pre": ["EDDB"], "type": "APP", "frequency": "136.100", "callsign": "Berlin Director"},
-        "DBU": {"colours": [{"hex": "#8cd620"}], "pre": ["EDDB"], "type": "APP", "frequency": "121.125", "callsign": "Berlin Director"},
-        "DBDN": {"colours": [{"hex": "#5cb9a2"}], "pre": ["EDDB"], "type": "DEP", "frequency": "134.425", "callsign": "Bremen Radar"},
-        "DBDS": {"colours": [{"hex": "#bdc3f9"}], "pre": ["EDDB"], "type": "DEP", "frequency": "120.625", "callsign": "Bremen Radar"},
-        "DHF": {"colours": [{"hex": "#7626d3"}], "pre": ["EDDH"], "type": "APP", "frequency": "118.200", "callsign": "Hamburg Director"},
-        "DVF": {"colours": [{"hex": "#5c124a"}], "pre": ["EDDV"], "type": "APP", "frequency": "119.600", "callsign": "Hannover Director"},
-        "DWF": {"colours": [{"hex": "#434c5f"}], "pre": ["EDDW"], "type": "APP", "frequency": "120.350", "callsign": "Bremen Director"},
-        "FRI": {"colours": [{"hex": "#6750cc"}], "pre": ["EDDW"], "type": "APP", "frequency": "124.800", "callsign": "Bremen Radar"},
-        "HAME": {"colours": [{"hex": "#6d3049"}], "pre": ["EDDH"], "type": "APP", "frequency": "119.525", "callsign": "Bremen Radar"},
-        "HAMW": {"colours": [{"hex": "#33c6c6"}], "pre": ["EDDH"], "type": "APP", "frequency": "134.250", "callsign": "Bremen Radar"},
-        "HAN": {"colours": [{"hex": "#77087c"}], "pre": ["EDDV"], "type": "APP", "frequency": "131.325", "callsign": "Bremen Radar"},
-        "TMNA": {"colours": [{"hex": "#589773"}], "pre": ["ETMN"], "type": "APP", "frequency": "123.300", "callsign": "Nordholz Radar"},
-        "TNTA": {"colours": [{"hex": "#f9ce2d"}], "pre": ["ETNT"], "type": "APP", "frequency": "123.600", "callsign": "Wittmund Radar"},
-        "TSHA": {"colours": [{"hex": "#7bcc2a"}], "pre": ["ETSH"], "type": "APP", "frequency": "129.850", "callsign": "Holzdorf Radar"},
+        "DBAN": {"colours": [{"hex": "#d5e57d"}], "pre": ["EDDB"], "type": "APP", "freqüncy": "119.625", "callsign": "Bremen Radar"},
+        "DBAS": {"colours": [{"hex": "#07b309"}], "pre": ["EDDB"], "type": "APP", "freqüncy": "126.425", "callsign": "Bremen Radar"},
+        "DBF": {"colours": [{"hex": "#45295f"}], "pre": ["EDDB"], "type": "APP", "freqüncy": "136.100", "callsign": "Berlin Director"},
+        "DBU": {"colours": [{"hex": "#8cd620"}], "pre": ["EDDB"], "type": "APP", "freqüncy": "121.125", "callsign": "Berlin Director"},
+        "DBDN": {"colours": [{"hex": "#5cb9a2"}], "pre": ["EDDB"], "type": "DEP", "freqüncy": "134.425", "callsign": "Bremen Radar"},
+        "DBDS": {"colours": [{"hex": "#bdc3f9"}], "pre": ["EDDB"], "type": "DEP", "freqüncy": "120.625", "callsign": "Bremen Radar"},
+        "DHF": {"colours": [{"hex": "#7626d3"}], "pre": ["EDDH"], "type": "APP", "freqüncy": "118.200", "callsign": "Hamburg Director"},
+        "DVF": {"colours": [{"hex": "#5c124a"}], "pre": ["EDDV"], "type": "APP", "freqüncy": "119.600", "callsign": "Hannover Director"},
+        "DWF": {"colours": [{"hex": "#434c5f"}], "pre": ["EDDW"], "type": "APP", "freqüncy": "120.350", "callsign": "Bremen Director"},
+        "FRI": {"colours": [{"hex": "#6750cc"}], "pre": ["EDDW"], "type": "APP", "freqüncy": "124.800", "callsign": "Bremen Radar"},
+        "HAME": {"colours": [{"hex": "#6d3049"}], "pre": ["EDDH"], "type": "APP", "freqüncy": "119.525", "callsign": "Bremen Radar"},
+        "HAMW": {"colours": [{"hex": "#33c6c6"}], "pre": ["EDDH"], "type": "APP", "freqüncy": "134.250", "callsign": "Bremen Radar"},
+        "HAN": {"colours": [{"hex": "#77087c"}], "pre": ["EDDV"], "type": "APP", "freqüncy": "131.325", "callsign": "Bremen Radar"},
+        "TMNA": {"colours": [{"hex": "#589773"}], "pre": ["ETMN"], "type": "APP", "freqüncy": "123.300", "callsign": "Nordholz Radar"},
+        "TNTA": {"colours": [{"hex": "#f9ce2d"}], "pre": ["ETNT"], "type": "APP", "freqüncy": "123.600", "callsign": "Wittmund Radar"},
+        "TSHA": {"colours": [{"hex": "#7bcc2a"}], "pre": ["ETSH"], "type": "APP", "freqüncy": "129.850", "callsign": "Holzdorf Radar"},
 
-        "FAN": {"colours": [{"hex": "#88623f"}], "pre": ["EDDF"], "type": "APP", "frequency": "120.800", "callsign": "Langen Radar"},
-        "FAS": {"colours": [{"hex": "##227c85"}], "pre": ["EDDF"], "type": "APP", "frequency": "125.350", "callsign": "Langen Radar"},
-        "FFN": {"colours": [{"hex": "#cb8695"}], "pre": ["EDDF"], "type": "APP", "frequency": "127.275", "callsign": "Frankfurt Director"},
-        "FFS": {"colours": [{"hex": "#7da5a1"}], "pre": ["EDDF"], "type": "APP", "frequency": "118.500", "callsign": "Frankfurt Director"},
-        "FDN": {"colours": [{"hex": "#3ec1fe"}], "pre": ["EDDF"], "type": "DEP", "frequency": "120.150", "callsign": "Langen Radar"},
-        "FDS": {"colours": [{"hex": "#fcb71d"}], "pre": ["EDDF"], "type": "DEP", "frequency": "136.125", "callsign": "Langen Radar"},
-        "HMM": {"colours": [{"hex": "#108993"}], "pre": ["EDDG"], "type": "APP", "frequency": "129.300", "callsign": "Langen Radar"},
-        "DKA": {"colours": [{"hex": "#d8f8b4"}], "pre": ["EDDK"], "type": "APP", "frequency": "135.350", "callsign": "Langen Radar"},
-        "DKF": {"colours": [{"hex": "#055a5a"}], "pre": ["EDDK"], "type": "APP", "frequency": "121.050", "callsign": "Koeln/Bonn Director"},
-        "NOR": {"colours": [{"hex": "#802133"}], "pre": ["EDDK"], "type": "APP", "frequency": "127.375", "callsign": "Langen Radar"},
-        "DUS": {"colours": [{"hex": "#7356ad"}], "pre": ["EDDL"], "type": "APP", "frequency": "128.550", "callsign": "Langen Radar"},
-        "DLF": {"colours": [{"hex": "#06cc9c"}], "pre": ["EDDL"], "type": "APP", "frequency": "128.650", "callsign": "Langen Radar"},
-        "DLD": {"colours": [{"hex": "#96707a"}], "pre": ["EDDL"], "type": "APP", "frequency": "121.350", "callsign": "Langen Radar"},
-        "BOT": {"colours": [{"hex": "#40063f"}], "pre": ["EDDL"], "type": "APP", "frequency": "119.100", "callsign": "Langen Radar"},
-        "PFA": {"colours": [{"hex": "#836887"}], "pre": ["EDDR"], "type": "APP", "frequency": "129.675", "callsign": "Langen Radar"},
-        "SF": {"colours": [{"hex": "#23f6ac"}], "pre": ["EDDS"], "type": "APP", "frequency": "119.850", "callsign": "Stuttgart Director"},
-        "STG": {"colours": [{"hex": "#000831"}], "pre": ["EDDS"], "type": "APP", "frequency": "125.050", "callsign": "Langen Radar"},
-        "REU": {"colours": [{"hex": "#b204b9"}], "pre": ["EDDS"], "type": "APP", "frequency": "119.200", "callsign": "Langen Radar"},
-        "EIF": {"colours": [{"hex": "#d69277"}], "pre": ["EDFH"], "type": "APP", "frequency": "125.600", "callsign": "Langen Radar"},
-        "NKRL": {"colours": [{"hex": "#30d12f"}], "pre": ["EDFM"], "type": "APP", "frequency": "129.350", "callsign": "Langen Radar"},
-        "PADL": {"colours": [{"hex": "#5e8e5c"}], "pre": ["EDLP"], "type": "APP", "frequency": "125.225", "callsign": "Langen Radar"}
+        "FAN": {"colours": [{"hex": "#88623f"}], "pre": ["EDDF"], "type": "APP", "freqüncy": "120.800", "callsign": "Langen Radar"},
+        "FAS": {"colours": [{"hex": "##227c85"}], "pre": ["EDDF"], "type": "APP", "freqüncy": "125.350", "callsign": "Langen Radar"},
+        "FFN": {"colours": [{"hex": "#cb8695"}], "pre": ["EDDF"], "type": "APP", "freqüncy": "127.275", "callsign": "Frankfurt Director"},
+        "FFS": {"colours": [{"hex": "#7da5a1"}], "pre": ["EDDF"], "type": "APP", "freqüncy": "118.500", "callsign": "Frankfurt Director"},
+        "FDN": {"colours": [{"hex": "#3ec1fe"}], "pre": ["EDDF"], "type": "DEP", "freqüncy": "120.150", "callsign": "Langen Radar"},
+        "FDS": {"colours": [{"hex": "#fcb71d"}], "pre": ["EDDF"], "type": "DEP", "freqüncy": "136.125", "callsign": "Langen Radar"},
+        "HMM": {"colours": [{"hex": "#108993"}], "pre": ["EDDG"], "type": "APP", "freqüncy": "129.300", "callsign": "Langen Radar"},
+        "DKA": {"colours": [{"hex": "#d8f8b4"}], "pre": ["EDDK"], "type": "APP", "freqüncy": "135.350", "callsign": "Langen Radar"},
+        "DKF": {"colours": [{"hex": "#055a5a"}], "pre": ["EDDK"], "type": "APP", "freqüncy": "121.050", "callsign": "Köln/Bonn Director"},
+        "NOR": {"colours": [{"hex": "#802133"}], "pre": ["EDDK"], "type": "APP", "freqüncy": "127.375", "callsign": "Langen Radar"},
+        "DUS": {"colours": [{"hex": "#7356ad"}], "pre": ["EDDL"], "type": "APP", "freqüncy": "128.550", "callsign": "Langen Radar"},
+        "DLF": {"colours": [{"hex": "#06cc9c"}], "pre": ["EDDL"], "type": "APP", "freqüncy": "128.650", "callsign": "Langen Radar"},
+        "DLD": {"colours": [{"hex": "#96707a"}], "pre": ["EDDL"], "type": "APP", "freqüncy": "121.350", "callsign": "Langen Radar"},
+        "BOT": {"colours": [{"hex": "#40063f"}], "pre": ["EDDL"], "type": "APP", "freqüncy": "119.100", "callsign": "Langen Radar"},
+        "PFA": {"colours": [{"hex": "#836887"}], "pre": ["EDDR"], "type": "APP", "freqüncy": "129.675", "callsign": "Langen Radar"},
+        "SF": {"colours": [{"hex": "#23f6ac"}], "pre": ["EDDS"], "type": "APP", "freqüncy": "119.850", "callsign": "Stuttgart Director"},
+        "STG": {"colours": [{"hex": "#000831"}], "pre": ["EDDS"], "type": "APP", "freqüncy": "125.050", "callsign": "Langen Radar"},
+        "REU": {"colours": [{"hex": "#b204b9"}], "pre": ["EDDS"], "type": "APP", "freqüncy": "119.200", "callsign": "Langen Radar"},
+        "EIF": {"colours": [{"hex": "#d69277"}], "pre": ["EDFH"], "type": "APP", "freqüncy": "125.600", "callsign": "Langen Radar"},
+        "NKRL": {"colours": [{"hex": "#30d12f"}], "pre": ["EDFM"], "type": "APP", "freqüncy": "129.350", "callsign": "Langen Radar"},
+        "PADL": {"colours": [{"hex": "#5e8e5c"}], "pre": ["EDLP"], "type": "APP", "freqüncy": "125.225", "callsign": "Langen Radar"}
     },
 
     "callsigns": {
@@ -13116,7 +13116,7 @@
 
     "airports": {
         "EDDM": {
-            "callsign": "Muenchen",
+            "callsign": "München",
             "coord": [48.353889, 11.786111],           
             "topdown": [
                 "DMNL",
@@ -13132,7 +13132,7 @@
             ]
         },
         "EDDN": {
-            "callsign": "Nuernberg",
+            "callsign": "Nürnberg",
             "coord": [49.498666666667, 11.078],            
             "topdown": [
                 "FRK",
@@ -13268,7 +13268,7 @@
             ]
         },
         "EDDG": {
-            "callsign": "Muenster",
+            "callsign": "Münster",
             "coord": [52.134666666667, 7.6848333333333],            
             "topdown": [
                 "HMM",
@@ -13281,7 +13281,7 @@
             ]
         },
         "EDDK": {
-            "callsign": "Koelln/Bonn",
+            "callsign": "Kölln/Bonn",
             "coord": [50.866, 7.1426666666667],            
             "topdown": [
                 "DKF",
@@ -13294,7 +13294,7 @@
             ]
         },
         "EDDL": {
-            "callsign": "Duesseldorf",
+            "callsign": "Düsseldorf",
             "coord": [51.281, 6.7573333333333],            
             "topdown": [
                 "DLF",
@@ -13343,7 +13343,7 @@
             ]
         },
         "EDLN": {
-            "callsign": "Moenchengladbach",
+            "callsign": "Mönchengladbach",
             "coord": [51.230333333333, 6.5045],
             "topdown": [
                 "DLF",
@@ -13480,7 +13480,7 @@
             ]
         },
         "EDHL": {
-            "callsign": "Luebeck",
+            "callsign": "Lübeck",
             "coord": [53.805333333333, 10.719166666667],
             "topdown": [
                 "HAME",
