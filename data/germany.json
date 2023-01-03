@@ -12185,7 +12185,7 @@
             "owner": [
                 "OSE",
                 "HVL",
-                "MAR",
+                "MRZ",
                 "BOR",
                 "WWC"
             ],
@@ -12288,7 +12288,7 @@
                 "HVL",
                 "OSE",
                 "BOR",
-                "MAR",
+                "MRZ",
                 "WWC"
             ],
             "sectors":[
