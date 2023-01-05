@@ -89,14 +89,14 @@ By committing changes to this repository, you acknowledge that the copyright own
 - Airport coordinates should be the same format as in the VATSpy files (https://github.com/vatsimnetwork/vatspy-data-project). Please be aware that copying coordinates directly from this repository will require you to add an attribution to each airport in your data file.
 - Sector coordinates can be converted from the coordinates in .ese files using the following regular expressions (in Visual Studio Code's Find/Replace function).
   - North & West
-    - COORD:N0([0-9]{2})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3}):W([0-9]{3})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3})
-    - ["$1$2$3","-$5$6$7"],
+    - `COORD:N0([0-9]{2})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3}):W([0-9]{3})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3})`
+    - `["$1$2$3","-$5$6$7"],`
   - North & East
-    - COORD:N0([0-9]{2})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3}):E([0-9]{3})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3})
-    - ["$1$2$3","$5$6$7"],
+    - `COORD:N0([0-9]{2})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3}):E([0-9]{3})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3})`
+    - `["$1$2$3","$5$6$7"],`
   - South & West
-    - COORD:S0([0-9]{2})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3}):W([0-9]{3})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3})
-    - ["-$1$2$3","-$5$6$7"],
+    - `COORD:S0([0-9]{2})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3}):W([0-9]{3})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3})`
+    - `["-$1$2$3","-$5$6$7"],`
   - South & East
-    - COORD:S0([0-9]{2})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3}):E([0-9]{3})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3})
-    - ["-$1$2$3","$5$6$7"],
+    - `COORD:S0([0-9]{2})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3}):E([0-9]{3})\.([0-9]{2})\.([0-9]{2})\.([0-9]{3})`
+    - `["-$1$2$3","$5$6$7"],`
