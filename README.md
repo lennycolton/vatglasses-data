@@ -25,6 +25,7 @@ This repository contains only **open-source** data - not all FIRs contained on V
 ### Closed-Source Data
 Closed-source FIRs are managed by local VATSIM staff and are not open to public contributions. The current closed-sourced data sets are:
 
+- Austria (LO**). _Pending Release_
 - Moldova (LU**). _Pending Release_
 - Norway (EN**). https://vatglasses.uk/norway
 - Romania (LR**). _Pending Release_
