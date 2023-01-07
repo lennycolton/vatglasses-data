@@ -242,8 +242,8 @@
         "LWP"
       ],
       "owner": [
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -525,8 +525,8 @@
         }
       ],
       "owner": [
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -581,8 +581,8 @@
         "LWX"
       ],
       "owner": [
-        "LWH",
         "LWX",
+        "LWH",
         "OTMET",
         "LW",
         "L"
@@ -678,8 +678,8 @@
         }
       ],
       "owner": [
-        "LWH",
         "LWX",
+        "LWH",
         "LW",
         "L"
       ],
@@ -761,9 +761,9 @@
         "LWP"
       ],
       "owner": [
-        "LWT",
+        "L8",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -824,8 +824,8 @@
         "LWX"
       ],
       "owner": [
-        "LWL",
-        "LWX",
+        "L9",
+        "LWH",
         "LW",
         "L"
       ],
@@ -2098,9 +2098,9 @@
         "LWP"
       ],
       "owner": [
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -2383,9 +2383,9 @@
         }
       ],
       "owner": [
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -2946,7 +2946,7 @@
         "LWP"
       ],
       "owner": [
-        "LWP",
+        "LWB",
         "LW",
         "L"
       ],
@@ -2993,6 +2993,7 @@
       ],
       "owner": [
         "LWX",
+        "LWH",
         "OTMET",
         "LW",
         "L"
@@ -16599,9 +16600,9 @@
         "GDT",
         "GDF",
         "GDR",
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -16696,9 +16697,9 @@
       "owner": [
         "GDF",
         "GDR",
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -16980,9 +16981,9 @@
       "owner": [
         "GDR",
         "GDF",
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -17316,9 +17317,9 @@
       "owner": [
         "GDR",
         "GDF",
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -17430,9 +17431,9 @@
       "owner": [
         "FFR",
         "FFL",
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L",
         "FFT"
@@ -17660,9 +17661,9 @@
       "owner": [
         "FFR",
         "FFL",
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -17940,9 +17941,9 @@
       "owner": [
         "FFR",
         "FFL",
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -18113,9 +18114,9 @@
       "owner": [
         "FFR",
         "FFL",
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -18143,9 +18144,9 @@
         "SYT",
         "FFR",
         "FFL",
-        "LWR",
+        "L23",
+        "LWL",
         "LWB",
-        "LWP",
         "LW",
         "L"
       ],
@@ -21446,8 +21447,8 @@
         "JJF",
         "J",
         "JS",
-        "LWH",
         "LWX",
+        "LWH",
         "LW",
         "L"
       ],
@@ -21484,8 +21485,8 @@
       "owner": [
         "J",
         "JS",
-        "LWH",
         "LWX",
+        "LWH",
         "LW",
         "L"
       ],
@@ -21530,8 +21531,8 @@
       "owner": [
         "JS",
         "J",
-        "LWH",
         "LWX",
+        "LWH",
         "LW",
         "L"
       ],
@@ -28735,14 +28736,14 @@
     "LNW": { "colours": [{ "hex": "#e34b29" }], "pre": [ "LON","LON-NW" ], "type": "CTR","frequency": "135.575","callsign": "London Control", "comment": "S7" },
     "LNE": { "colours": [{ "hex": "#702716" }], "pre": [ "LON","LON-NE" ], "type": "CTR","frequency": "128.125","callsign": "London Control", "comment": "S10" },
     "L11": { "colours": [{ "hex": "#702716" }], "pre": [ "LON","LON-NE" ], "type": "CTR","frequency": "126.775","callsign": "London Control", "comment": "S11" },
-    "LWR": { "colours": [{ "hex": "#399e23" }], "pre": [ "LON","LON-WR" ], "type": "CTR","frequency": "134.750","callsign": "London Control", "comment": "S23" },
-    "LWB": { "colours": [{ "hex": "#3b6930" }], "pre": [ "LON","LON-WB" ], "type": "CTR","frequency": "133.600","callsign": "London Control", "comment": "S5" },
-    "LWT": { "colours": [{ "hex": "#57a646" }], "pre": [ "LON","LON-WT" ], "type": "CTR","frequency": "129.375","callsign": "London Control", "comment": "S8" },
-    "LWP": { "colours": [{ "hex": "#368524" }], "pre": [ "LON","LON-WP" ], "type": "CTR","frequency": "133.225","callsign": "London Control", "comment": "Marseille - Real S35 freq used by EURW" },
-    "L35": { "colours": [{ "hex": "#368524" }], "pre": [ "LON","LON-WP" ], "type": "CTR","frequency": "135.250","callsign": "London Control", "comment": "S35" },
-    "LWL": { "colours": [{ "hex": "#75de5d" }], "pre": [ "LON","LON-WL" ], "type": "CTR","frequency": "132.950","callsign": "London Control", "comment": "S9" },
-    "LWH": { "colours": [{ "hex": "#32f505" }], "pre": [ "LON","LON-WH" ], "type": "CTR","frequency": "127.700","callsign": "London Control", "comment": "West Sby" },
-    "LWX": { "colours": [{ "hex": "#56de37" }], "pre": [ "LON","LON-WX" ], "type": "CTR","frequency": "128.825","callsign": "London Control", "comment": "S36" },
+    "L23": { "colours": [{ "hex": "#399e23" }], "pre": [ "LON","LON-23" ], "type": "CTR","frequency": "134.750","callsign": "London Control", "comment": "S23" },
+    "LWL": { "colours": [{ "hex": "#3b6930" }], "pre": [ "LON","LON-WL" ], "type": "CTR","frequency": "133.600","callsign": "London Control", "comment": "S5" },
+    "L8": { "colours": [{ "hex": "#57a646" }], "pre": [ "LON","LON-8" ], "type": "CTR","frequency": "129.375","callsign": "London Control", "comment": "S8" },
+    "LWB": { "colours": [{ "hex": "#368524" }], "pre": [ "LON","LON-WB" ], "type": "CTR","frequency": "133.225","callsign": "London Control", "comment": "Marseille - Real S35 freq used by EURW" },
+    "L35": { "colours": [{ "hex": "#368524" }], "pre": [ "LON","LON-35" ], "type": "CTR","frequency": "135.250","callsign": "London Control", "comment": "S35" },
+    "L9": { "colours": [{ "hex": "#75de5d" }], "pre": [ "LON","LON-WL" ], "type": "CTR","frequency": "132.950","callsign": "London Control", "comment": "S9" },
+    "LWX": { "colours": [{ "hex": "#32f505" }], "pre": [ "LON","LON-WX" ], "type": "CTR","frequency": "127.700","callsign": "London Control", "comment": "West Sby" },
+    "LWH": { "colours": [{ "hex": "#56de37" }], "pre": [ "LON","LON-WH" ], "type": "CTR","frequency": "128.825","callsign": "London Control", "comment": "S36" },
     "L27": { "colours": [{ "hex": "#ded123" }], "pre": [ "LON","LON-CW" ], "type": "CTR","frequency": "129.200","callsign": "London Control", "comment": "S27, shares airspace with S32, unused."},
     "LMW": { "colours": [{ "hex": "#ded123" }], "pre": [ "LON","LON-CW" ], "type": "CTR","frequency": "134.400","callsign": "London Control", "comment": "S32, shares airspace with S27." },
     "LME": { "colours": [{ "hex": "#ded123" }], "pre": [ "LON","LON-CE" ], "type": "CTR","frequency": "127.875","callsign": "London Control", "comment": "S34" },
@@ -29465,9 +29466,9 @@
           -2.167108
       ],
       "topdown": [
-          "LWR",
+          "L23",
+          "LWL",
           "LWB",
-          "LWP",
           "LW",
           "L"
       ]
@@ -29479,9 +29480,9 @@
             -3.343333
         ],
         "topdown": [
-            "LWR",
+            "L23",
+            "LWL",
             "LWB",
-            "LWP",
             "LW",
             "L"
         ]
@@ -29493,9 +29494,9 @@
           -2.719089
       ],
       "topdown": [
-          "LWR",
+          "L23",
+          "LWL",
           "LWB",
-          "LWP",
           "LW",
           "L"
       ]
@@ -29515,8 +29516,8 @@
           -2.658889
       ],
       "topdown": [
-          "LWH",
           "LWX",
+          "LWH",
           "OTMET",
           "LW",
           "L"
@@ -29544,8 +29545,8 @@
       "topdown": [
           "JS",
           "J",
-          "LWH",
           "LWX",
+          "LWH",
           "OTMET",
           "LW",
           "L"
@@ -29565,8 +29566,8 @@
       "topdown": [
           "J",
           "JS",
-          "LWH",
           "LWX",
+          "LWH",
           "OTMET",
           "LW",
           "L"
@@ -29579,8 +29580,8 @@
             -3.413889
         ],
         "topdown": [
-            "LWH",
             "LWX",
+            "LWH",
             "OTMET",
             "LW",
             "L"
@@ -29593,8 +29594,8 @@
             -6.29972
         ],
         "topdown": [
-            "LWL",
-            "LWX",
+            "L9",
+            "LWH",
             "LW",
             "L"
         ]
@@ -29606,8 +29607,8 @@
             -4.995333
         ],
         "topdown": [
-            "LWL",
-            "LWX",
+            "L9",
+            "LWH",
             "LW",
             "L"
         ]
