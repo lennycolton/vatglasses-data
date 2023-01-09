@@ -12,8 +12,8 @@ Every data set is contained within a separate file and the file structure is ide
 This repository contains only **open-source** data - not all FIRs contained on VATGlasses are open-source. The current open-source data sets are:
 
 #### Managed by Local Staff
-- Germany (ED** and ET**). https://vatglasses.uk/germany
-- Hong Kong (VH**, also contains Macau VM**). https://vatglasses.uk/hongkong
+- Germany (ED** and ET**). https://vatglasses.uk/germany (@jannikvogel)
+- Hong Kong (VH**, also contains Macau VM**). https://vatglasses.uk/hongkong (@Syntax505)
 
 #### Managed by the VATGlasses Team
 - Gibraltar (LX**). https://vatglasses.uk/ukireland
