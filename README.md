@@ -4,7 +4,11 @@ Airport and sector data for the VATGlasses project.
 https://vatglasses.uk
 
 ## Wiki
-Please take a look at the wiki for information about the file format and current data sets.
+Please take a look at the wiki for information about:
+- The Data Format
+- Current Data Sets
+- Page Assignments
+- File Creation Tools
 
 ## New Data Sets
 As a general rule, you should be local staff, an instructor, or (in small vACCs only) a mentor to add a new region to VATGlasses. This provides a point of contact for all future changes to the region and helps prevent incorrect information from making it onto the platform.
