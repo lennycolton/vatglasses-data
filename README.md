@@ -4,7 +4,7 @@ Airport and sector data for the VATGlasses project.
 https://vatglasses.uk
 
 ## Wiki
-Please take a look at the wiki for information about:
+Please take a look at the [wiki](https://github.com/lennycolton/vatglasses-data/wiki) for information about:
 - The Data Format
 - Current Data Sets
 - Page Assignments
