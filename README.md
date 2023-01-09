@@ -21,3 +21,5 @@ If you're not a member of local staff but you'd still like to contribute, please
 Please ensure that you provide a source for your issues and pull-requests! Issues and pull requests without a valid source will be automatically closed.
 
 By committing changes to this repository, you acknowledge that the copyright ownership of any contributions you make transfers to @lennycolton in its entirety.
+
+**N.B.** Data committed to this repository is immediately deployed to the VATGlasses site - please expect the project collaborators to be picky and test things thoroughly before we approve them!
