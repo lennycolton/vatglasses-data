@@ -16,11 +16,11 @@ This repository contains only **open-source** data - not all FIRs contained on V
 - Hong Kong (VH**, also contains Macau VM**). https://vatglasses.uk/hongkong
 
 #### Managed by the VATGlasses Team
-- United Kingdom (EG** and some overseas territories). https://vatglasses.uk/ukireland
-- Ireland (EI**). https://vatglasses.uk/ukireland
-- South Africa (FA**, also contains Lesotho FX**). https://vatglasses.uk/southafrica
 - Gibraltar (LX**). https://vatglasses.uk/ukireland
   - **N.B.** Gibraltar should remain separate from the UK set to allow it to be displayed on both the UK/Ireland and Iberia pages.
+- Ireland (EI**). https://vatglasses.uk/ukireland
+- South Africa (FA**, also contains Lesotho FX**). https://vatglasses.uk/southafrica
+- United Kingdom (EG** and some overseas territories). https://vatglasses.uk/ukireland
 
 ### Closed-Source Data
 Closed-source FIRs are managed by local VATSIM staff and are not open to public contributions. The current closed-sourced data sets are:
@@ -29,6 +29,7 @@ Closed-source FIRs are managed by local VATSIM staff and are not open to public 
 - Moldova (LU**). _Pending Release_
 - Norway (EN**). https://vatglasses.uk/norway
 - Romania (LR**). _Pending Release_
+- Slovakia (LZ**). _Pending Release_
 - Spain (LE** and GC**). _Pending Release_
 
 ### New Data Sets
