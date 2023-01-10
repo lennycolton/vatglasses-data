@@ -19369,6 +19369,66 @@
       ]
     },
     {
+      "id": "Eglinton CTA",
+      "group": "APP",
+      "owner": [
+        "AEA",
+        "SR",
+        "SW",
+        "SWD",
+        "S"
+    ],
+      "sectors": [
+        {
+          "max": 74,
+          "min": 15,
+          "points": [
+            ["550527","-0071520"],
+            ["545506","-0072926"],
+            ["550205","-0073332"],
+            ["550527","-0071520"]
+          ]
+        },
+        {
+          "max": 74,
+          "min": 20,
+          "points": [
+            ["545506","-0072926"],
+            ["545212","-0073329"],
+            ["550114","-0073807"],
+            ["550205","-0073332"]
+          ]
+        },
+        {
+          "max": 74,
+          "min": 30,
+          "points": [
+            ["550317","-0072703"],
+            ["550406","-0072656"],
+            ["550458","-0072638"],
+            ["550548","-0072613"],
+            ["550637","-0072540"],
+            ["550723","-0072500"],
+            ["550809","-0072412"],
+            ["550850","-0072317"],
+            ["550929","-0072217"],
+            ["551005","-0072111"],
+            ["551038","-0071959"],
+            ["551108","-0071843"],
+            ["551133","-0071723"],
+            ["551153","-0071600"],
+            ["551210","-0071432"],
+            ["551222","-0071303"],
+            ["551230","-0071133"],
+            ["551233","-0071001"],
+            ["551231","-0070830"],
+            ["551217","-0070547"],
+            ["550527","-0071520"]
+          ]
+        }
+      ]
+    },
+    {
       "id": "Farnborough RMA",
       "group": "APS",
       "docs": [
@@ -28823,6 +28883,7 @@
     "PHR": { "pre": [ "EGPH" ], "type": "APP","frequency": "121.200","callsign": "Edinburgh Radar" },
     "PHF": { "pre": [ "EGPH" ], "type": "APP","frequency": "128.975","callsign": "Edinburgh Director" },
     "PHT": { "pre": [ "EGPH" ], "type": "TWR","frequency": "118.700","callsign": "Edinburgh Tower" },
+    "AEA": { "pre": [ "EGAE" ], "type": "APP","frequency": "123.625","callsign": "Eglinton Approach" },
     "LFR": { "pre": [ "EGLF" ], "type": "APP","frequency": "134.350","callsign": "Farnborough Radar" },
     "LFT": { "pre": [ "EGLF" ], "type": "TWR","frequency": "122.775","callsign": "Farnborough Tower" },
     "KKR": { "pre": [ "EGKK" ], "type": "APP","frequency": "126.825","callsign": "Gatwick Director" },
@@ -29662,6 +29723,34 @@
             "S"
         ]
     },
+    "EGPL": {
+      "callsign": "Benbecula",
+      "coord": [
+        57.4775,
+        -7.366389
+      ],
+      "topdown": [
+        "SL",
+        "SC",
+        "SW",
+        "SWD",
+        "S"
+      ]
+    },
+    "EGAE": {
+      "callsign": "Eglinton",
+      "coord": [
+        55.042778,
+        -7.161111
+      ],
+      "topdown": [
+        "SL",
+        "SR",
+        "SW",
+        "SWD",
+        "S"
+      ]
+    },
     "EGAA": {
         "callsign": "Aldergrove",
         "coord": [
@@ -30166,7 +30255,6 @@
     "EG19": { "callsign": "Chirk Farm", "coord": [ 52.94819, -3.045316 ] },
     "EGAB": { "callsign": "Enniskillen", "coord": [ 54.398889, -7.651667 ] },
     "EGAD": { "callsign": "Newtownards", "coord": [ 54.581111, -5.691944 ] },
-    "EGAE": { "callsign": "Eglinton", "coord": [ 55.042778, -7.161111 ] },
     "EGAH": { "callsign": "Halley", "coord": [ -75.558333, -25.573889 ] },
     "EGAL": { "callsign": "Langford", "coord": [ 54.616667, -6.3 ] },
     "EGAR": { "callsign": "Rothera", "coord": [ -67.567222, -68.127222 ] },
@@ -30290,7 +30378,6 @@
     "EGPG": { "callsign": "Cumbernauld", "coord": [ 55.975, -3.974444 ] },
     "EGPI": { "callsign": "Islay", "coord": [ 55.683333, -6.259722 ] },
     "EGPJ": { "callsign": "Fife", "coord": [ 56.183333, -3.220278 ] },
-    "EGPL": { "callsign": "Benbecula", "coord": [ 57.4775, -7.366389 ] },
     "EGPM": { "callsign": "Scatsa", "coord": [ 60.432778, -1.296111 ] },
     "EGPR": { "callsign": "Barra", "coord": [ 57.026944, -7.4375 ] },
     "EGPS": { "callsign": "Peterhead", "coord": [ 57.516667, -1.866667 ] },
