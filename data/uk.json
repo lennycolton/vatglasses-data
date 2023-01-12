@@ -13949,7 +13949,7 @@
       ]
     },
     {
-      "id": "Aberdeen",
+      "id": "Aberdeen CTR/CTA",
       "group": "APS",
       "docs": [
         "SN",
@@ -14140,7 +14140,7 @@
       ]
     },
     {
-      "id": "Aberdeen",
+      "id": "Aberdeen CTR/CTA",
       "group": "APS",
       "docs": [
         "SN",
@@ -14367,7 +14367,7 @@
       ]
     },
     {
-      "id": "Aberdeen",
+      "id": "Aberdeen CTR/CTA",
       "group": "APS",
       "docs": [
         "SN",
@@ -14830,7 +14830,7 @@
       ]
     },
     {
-      "id": "Belfast City",
+      "id": "Belfast City CTR/CTA",
       "group": "APS",
       "docs": [
         "SA"
@@ -14884,7 +14884,7 @@
       ]
     },
     {
-      "id": "Belfast City",
+      "id": "Belfast City CTR/CTA",
       "group": "APS",
       "docs": [
         "SA"
@@ -14916,8 +14916,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "INT",
+      "id": "Birmingham RMA (Intermediate)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -15068,8 +15068,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "FIN",
+      "id": "Birmingham RMA (Final)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -15135,8 +15135,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "FIN",
+      "id": "Birmingham CTR/CTA (Final)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -15313,8 +15313,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "FIN",
+      "id": "Birmingham CTR/CTA (Final)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -15746,8 +15746,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "INT",
+      "id": "Birmingham CTR/CTA (Intermediate)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -15922,8 +15922,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "INT",
+      "id": "Birmingham CTR/CTA (Intermediate)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -16434,8 +16434,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "INT",
+      "id": "Birmingham CTR/CTA (Intermediate)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -16591,7 +16591,7 @@
       ]
     },
     {
-      "id": "Bristol",
+      "id": "Bristol CTR/CTA",
       "group": "APS",
       "docs": [
         "LWP",
@@ -16689,7 +16689,7 @@
       ]
     },
     {
-      "id": "Bristol",
+      "id": "Bristol CTR/CTA",
       "group": "APS",
       "docs": [
         "LWP",
@@ -16973,7 +16973,7 @@
       ]
     },
     {
-      "id": "Bristol",
+      "id": "Bristol CTR/CTA",
       "group": "APS",
       "docs": [
         "LWP",
@@ -17423,7 +17423,7 @@
       ]
     },
     {
-      "id": "Cardiff",
+      "id": "Cardiff CTR/CTA",
       "group": "APS",
       "docs": [
         "LWP",
@@ -17653,7 +17653,7 @@
       ]
     },
     {
-      "id": "Cardiff",
+      "id": "Cardiff CTR/CTA",
       "group": "APS",
       "docs": [
         "LWP",
@@ -18169,7 +18169,7 @@
       ]
     },
     {
-      "id": "East Midlands",
+      "id": "East Midlands CTR/CTA",
       "group": "APS",
       "docs": [
         "TM",
@@ -18259,7 +18259,7 @@
       ]
     },
     {
-      "id": "East Midlands",
+      "id": "East Midlands CTR/CTA",
       "group": "APS",
       "docs": [
         "TM",
@@ -18466,7 +18466,7 @@
       ]
     },
     {
-      "id": "East Midlands",
+      "id": "East Midlands RMA",
       "group": "APS",
       "docs": [
         "TM",
@@ -18526,7 +18526,7 @@
       ]
     },
     {
-      "id": "East Midlands",
+      "id": "East Midlands CTR/CTA",
       "group": "APS",
       "docs": [
         "TM",
@@ -18844,7 +18844,7 @@
       ]
     },
     {
-      "id": "East Midlands",
+      "id": "East Midlands CTR/CTA",
       "group": "APS",
       "docs": [
         "TM",
@@ -19429,7 +19429,7 @@
       ]
     },
     {
-      "id": "Farnborough",
+      "id": "Farnborough RMA",
       "group": "APS",
       "docs": [
         "TSW"
@@ -19509,8 +19509,7 @@
       ]
     },
     {
-      "id": "South West (Departures)",
-      "comment": "EGLF Delegation",
+      "id": "Farnborough CTR/CTA",
       "group": "TSW",
       "docs": [
         "TSW"
@@ -19547,7 +19546,7 @@
       ]
     },
     {
-      "id": "Farnborough",
+      "id": "Farnborough CTR/CTA",
       "group": "APS",
       "docs": [
         "TSW"
@@ -19684,7 +19683,7 @@
       ]
     },
     {
-      "id": "Farnborough",
+      "id": "Farnborough CTR/CTA",
       "group": "APS",
       "docs": [
         "TSW"
@@ -20001,8 +20000,8 @@
       ]
     },
     {
-      "id": "Gatwick",
-      "group": "INT",
+      "id": "Gatwick RMA (Intermediate)",
+      "group": "APS",
       "docs": [
         "TSW",
         "TSE"
@@ -20662,8 +20661,8 @@
       ]
     },
     {
-      "id": "Gatwick",
-      "group": "FIN",
+      "id": "Gatwick RMA (Final)",
+      "group": "APS",
       "docs": [
         "TSW",
         "TSE"
@@ -20736,7 +20735,7 @@
       ]
     },
     {
-      "id": "Gatwick",
+      "id": "Gatwick CTR/CTA",
       "group": "APS",
       "docs": [
         "TSW",
@@ -20834,7 +20833,7 @@
       ]
     },
     {
-      "id": "Gatwick",
+      "id": "Gatwick CTR/CTA",
       "group": "APS",
       "docs": [
         "TSW",
@@ -21112,7 +21111,7 @@
       ]
     },
     {
-      "id": "Isle of Man",
+      "id": "Isle of Man CTR/CTA",
       "group": "APS",
       "docs": [
         "SA",
@@ -21201,7 +21200,7 @@
       ]
     },
     {
-      "id": "Isle of Man",
+      "id": "Isle of Man CTR/CTA",
       "group": "APS",
       "docs": [
         "SA",
@@ -21346,7 +21345,7 @@
       ]
     },
     {
-      "id": "Isle of Man",
+      "id": "Isle of Man CTR/CTA",
       "group": "APS",
       "docs": [
         "SA",
@@ -21650,7 +21649,7 @@
       ]
     },
     {
-      "id": "Leeds Bradford",
+      "id": "Leeds Bradford CTR/CTA",
       "group": "APS",
       "docs": [
         "MNE"
@@ -21709,7 +21708,7 @@
       ]
     },
     {
-      "id": "Leeds Bradford",
+      "id": "Leeds Bradford CTR/CTA",
       "group": "APS",
       "docs": [
         "MNE"
@@ -21826,7 +21825,7 @@
       ]
     },
     {
-      "id": "Leeds Bradford",
+      "id": "Leeds Bradford CTR/CTA",
       "group": "APS",
       "docs": [
         "MNE"
@@ -22001,7 +22000,7 @@
       ]
     },
     {
-      "id": "Liverpool",
+      "id": "Liverpool RMA",
       "group": "APS",
       "docs": [
         "MW"
@@ -22044,7 +22043,7 @@
       ]
     },
     {
-      "id": "Liverpool",
+      "id": "Liverpool RMA",
       "group": "APS",
       "docs": [
         "MW"
@@ -22216,7 +22215,7 @@
       ]
     },
     {
-      "id": "Liverpool",
+      "id": "Liverpool CTR/CTA",
       "group": "APS",
       "docs": [
         "MW"
@@ -22262,7 +22261,7 @@
       ]
     },
     {
-      "id": "Liverpool",
+      "id": "Liverpool CTR/CTA",
       "group": "APS",
       "docs": [
         "MW"
@@ -22348,7 +22347,7 @@
       ]
     },
     {
-      "id": "Liverpool",
+      "id": "Liverpool CTR/CTA",
       "group": "APS",
       "docs": [
         "MW"
@@ -22407,8 +22406,8 @@
       ]
     },
     {
-      "id": "Heathrow (North)",
-      "group": "INT",
+      "id": "Heathrow RMA (North)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE",
@@ -22603,8 +22602,8 @@
       ]
     },
     {
-      "id": "Heathrow (South)",
-      "group": "INT",
+      "id": "Heathrow RMA (South)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE",
@@ -22729,8 +22728,8 @@
       ]
     },
     {
-      "id": "Heathrow",
-      "group": "FIN",
+      "id": "Heathrow RMA (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE",
@@ -23573,7 +23572,7 @@
       ]
     },
     {
-      "id": "Thames",
+      "id": "Thames RMA",
       "group": "APS",
       "docs": [
         "TNE",
@@ -23765,7 +23764,7 @@
       ]
     },
     {
-      "id": "London City",
+      "id": "London City CTR/CTA",
       "group": "APS",
       "docs": [
         "TNE",
@@ -23930,7 +23929,7 @@
       ]
     },
     {
-      "id": "London City",
+      "id": "London City CTR/CTA",
       "group": "APS",
       "docs": [
         "TNE",
@@ -24044,8 +24043,8 @@
       ]
     },
     {
-      "id": "Luton",
-      "group": "INT",
+      "id": "Luton RMA (Intermediate)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -24137,8 +24136,8 @@
       ]
     },
     {
-      "id": "Luton",
-      "group": "FIN",
+      "id": "Luton RMA (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -24182,8 +24181,8 @@
       ]
     },
     {
-      "id": "Luton",
-      "group": "INT",
+      "id": "Luton CTR/CTA (Intermediate)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -24298,8 +24297,8 @@
       ]
     },
     {
-      "id": "Luton",
-      "group": "FIN",
+      "id": "Luton CTR/CTA (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -24350,8 +24349,8 @@
       ]
     },
     {
-      "id": "Luton",
-      "group": "FIN",
+      "id": "Luton CTR/CTA (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -24460,7 +24459,7 @@
       ]
     },
     {
-      "id": "Manchester (North)",
+      "id": "Manchester RMA (North)",
       "group": "APS",
       "docs": [
         "MNE",
@@ -24583,7 +24582,7 @@
       ]
     },
     {
-      "id": "Manchester (South)",
+      "id": "Manchester RMA (South)",
       "group": "APS",
       "docs": [
         "MNE",
@@ -24689,8 +24688,8 @@
       ]
     },
     {
-      "id": "Manchester",
-      "group": "FIN",
+      "id": "Manchester RMA (Final)",
+      "group": "APS",
       "docs": [
         "MNE",
         "MSE",
@@ -24760,7 +24759,7 @@
       ]
     },
     {
-      "id": "Liverpool",
+      "id": "Manchester CTR/CTA",
       "group": "APS",
       "docs": [
         "MW"
@@ -24817,7 +24816,7 @@
       ]
     },
     {
-      "id": "Liverpool",
+      "id": "Manchester CTR/CTA",
       "group": "APS",
       "docs": [
         "MW"
@@ -24871,7 +24870,7 @@
       ]
     },
     {
-      "id": "Manchester",
+      "id": "Manchester CTR/CTA",
       "group": "APS",
       "docs": [
         "MNE",
@@ -24912,7 +24911,7 @@
       ]
     },
     {
-      "id": "Manchester",
+      "id": "Manchester CTR/CTA",
       "group": "APS",
       "docs": [
         "MNE",
@@ -25102,7 +25101,7 @@
       ]
     },
     {
-      "id": "Newcastle",
+      "id": "Newcastle CTR/CTA",
       "group": "APS",
       "docs": [
         "MNE",
@@ -25245,7 +25244,7 @@
       ]
     },
     {
-      "id": "Newcastle",
+      "id": "Newcastle CTR/CTA",
       "group": "APS",
       "docs": [
         "MNE",
@@ -25453,7 +25452,7 @@
       ]
     },
     {
-      "id": "Newcastle",
+      "id": "Newcastle CTR/CTA",
       "group": "APS",
       "docs": [
         "MNE",
@@ -25759,7 +25758,7 @@
       ]
     },
     {
-      "id": "Norwich",
+      "id": "Norwich CTR/CTA",
       "group": "APS",
       "owner": [
         "SHR",
@@ -25893,7 +25892,7 @@
       ]
     },
     {
-      "id": "Norwich",
+      "id": "Norwich CTR/CTA",
       "group": "APS",
       "owner": [
         "SHR",
@@ -26617,7 +26616,7 @@
       ]
     },
     {
-      "id": "Solent",
+      "id": "Solent RMA",
       "group": "APS",
       "docs": [
         "LS",
@@ -26893,8 +26892,8 @@
       ]
     },
     {
-      "id": "Stansted",
-      "group": "INT",
+      "id": "Stansted RMA (Intermediate)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -27097,8 +27096,8 @@
       ]
     },
     {
-      "id": "Stansted",
-      "group": "FIN",
+      "id": "Stansted RMA (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -27156,7 +27155,7 @@
       ]
     },
     {
-      "id": "Stansted",
+      "id": "Stansted CTR/CTA",
       "group": "APS",
       "docs": [
         "TNW",
@@ -27338,7 +27337,7 @@
       ]
     },
     {
-      "id": "Stansted",
+      "id": "Stansted CTR/CTA",
       "group": "APS",
       "docs": [
         "TNW",
@@ -27497,7 +27496,7 @@
       ]
     },
     {
-      "id": "Southend",
+      "id": "Southend CTR/CTA",
       "group": "APS",
       "docs": [
         "TNE",
@@ -27652,7 +27651,7 @@
       ]
     },
     {
-      "id": "Southend",
+      "id": "Southend CTR/CTA",
       "group": "APS",
       "docs": [
         "TNE",
@@ -27925,7 +27924,7 @@
       ]
     },
     {
-      "id": "Southend",
+      "id": "Southend CTR/CTA",
       "group": "APS",
       "docs": [
         "TNE",
@@ -27972,7 +27971,7 @@
       ]
     },
     {
-      "id": "Sumburgh",
+      "id": "Sumburgh CTR/CTA",
       "group": "APS",
       "docs": [
         "SN"
@@ -28028,7 +28027,7 @@
       ]
     },
     {
-      "id": "Sumburgh",
+      "id": "Sumburgh CTR/CTA",
       "group": "APS",
       "docs": [
         "SN"
@@ -28084,7 +28083,7 @@
       ]
     },
     {
-      "id": "Teesside",
+      "id": "Teesside CTR/CTA",
       "group": "APS",
       "owner": [
         "NVF",
@@ -28250,7 +28249,7 @@
       ]
     },
     {
-      "id": "Teesside",
+      "id": "Teesside CTR/CTA",
       "group": "APS",
       "owner": [
         "NVF",
@@ -28444,7 +28443,7 @@
       ]
     },
     {
-      "id": "Teesside",
+      "id": "Teesside CTR/CTA",
       "group": "APS",
       "owner": [
         "NVR",
@@ -28747,16 +28746,8 @@
       "name": "Approach (Non-Radar)",
       "colour": "#ffffff"
     },
-    "INT": {
-      "name": "Approach (Intermediate)",
-      "colour": "#ffffff"
-    },
-    "FIN": {
-      "name": "Approach (Final)",
-      "colour": "#ffffff"
-    },
     "APS": {
-      "name": "Approach",
+      "name": "Approach Radar",
       "colour": "#ffffff"
     }
   },
