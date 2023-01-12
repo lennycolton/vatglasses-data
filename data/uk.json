@@ -16539,7 +16539,7 @@
       ]
     },
     {
-      "id": "Bournemouth CTR",
+      "id": "Bournemouth",
       "group": "APS",
       "docs": [
         "LS",
@@ -21650,7 +21650,7 @@
       ]
     },
     {
-      "id": "Leeds Bradford",
+      "id": "Leeds",
       "group": "APS",
       "docs": [
         "MNE"
@@ -21709,7 +21709,7 @@
       ]
     },
     {
-      "id": "Leeds Bradford",
+      "id": "Leeds",
       "group": "APS",
       "docs": [
         "MNE"
@@ -21826,7 +21826,7 @@
       ]
     },
     {
-      "id": "Leeds Bradford",
+      "id": "Leeds",
       "group": "APS",
       "docs": [
         "MNE"
@@ -26451,7 +26451,7 @@
       ]
     },
     {
-      "id": "Saint Helena CTR/TMA",
+      "id": "Saint Helena",
       "group": "APS",
       "owner": [
         "FHSHR",
@@ -26511,7 +26511,7 @@
       ]
     },
     {
-      "id": "Saint Helena CTR/TMA",
+      "id": "Saint Helena",
       "group": "APS",
       "owner": [
         "FHSHR"
@@ -27156,7 +27156,7 @@
       ]
     },
     {
-      "id": "Stansted(Final)",
+      "id": "Stansted (Final)",
       "group": "APS",
       "docs": [
         "TNW",
@@ -27338,7 +27338,7 @@
       ]
     },
     {
-      "id": "Stansted(Final)",
+      "id": "Stansted (Final)",
       "group": "APS",
       "docs": [
         "TNW",

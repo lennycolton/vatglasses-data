@@ -69,16 +69,8 @@
     }
   ],
   "groups": {
-    "TWR": {
-      "name": "Tower",
-      "colour": "#ffffff"
-    },
-    "APP": {
-      "name": "Approach (Non-Radar)",
-      "colour": "#ffffff"
-    },
     "APS": {
-      "name": "Approach Radar",
+      "name": "Approach",
       "colour": "#ffffff"
     }
   },

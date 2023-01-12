@@ -7,7 +7,7 @@
   ],
   "airspace": [
     {
-        "id": "Area Radar East (Lower)",
+        "id": "East (Lower)",
         "group": "VHHK",
         "owner": [
             "TRE"
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "id": "Area Radar East (Upper)",
+        "id": "East (Upper)",
         "group": "VHHK",
         "owner": [
             "TRE",
@@ -87,7 +87,7 @@
         ]
     },
     {
-        "id": "Area Radar East 1 (Lower)",
+        "id": "East 1 (Lower)",
         "group": "VHHK",
         "owner": [
             "TR1",
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "id": "Area Radar East 1 (Upper)",
+        "id": "East 1 (Upper)",
         "group": "VHHK",
         "owner": [
             "TR1",
@@ -134,7 +134,7 @@
         ]
     },
     {
-        "id": "Area Radar South (Lower)",
+        "id": "South (Lower)",
         "group": "VHHK",
         "owner": [
             "TRS",
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "id": "Area Radar South (Upper)",
+        "id": "South (Upper)",
         "group": "VHHK",
         "owner": [
             "TRS",
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "id": "Area Radar South 1 (Lower)",
+        "id": "South 1 (Lower)",
         "group": "VHHK",
         "owner": [
             "TS1",
@@ -227,7 +227,7 @@
         ]
     },
     {
-        "id": "Area Radar South 1 (Upper)",
+        "id": "South 1 (Upper)",
         "group": "VHHK",
         "owner": [
             "TS1",
@@ -263,7 +263,7 @@
         ]
     },
     {
-        "id": "Area Radar West (Lower)",
+        "id": "West (Lower)",
         "group": "VHHK",
         "owner": [
             "TRW",
@@ -299,7 +299,7 @@
         ]
     },
     {
-        "id": "Area Radar West (Upper)",
+        "id": "West (Upper)",
         "group": "VHHK",
         "owner": [
             "TRW",
@@ -363,7 +363,7 @@
         ]
     },
     {
-        "id": "Area Radar West 1 (Lower)",
+        "id": "West 1 (Lower)",
         "group": "VHHK",
         "owner": [
             "TW1",
@@ -394,7 +394,7 @@
         ]
     },
     {
-        "id": "Area Radar West 1 (Upper)",
+        "id": "West 1 (Upper)",
         "group": "VHHK",
         "owner": [
             "TW1",
@@ -426,7 +426,7 @@
         ]
     },
     {
-        "id": "Area Radar West 2 (Lower)",
+        "id": "West 2 (Lower)",
         "group": "VHHK",
         "owner": [
             "TW2",
@@ -452,7 +452,7 @@
         ]
     },
     {
-        "id": "Area Radar West 2 (Upper)",
+        "id": "West 2 (Upper)",
         "group": "VHHK",
         "owner": [
             "TW2",
@@ -479,7 +479,7 @@
         ]
     },
     {
-        "id": "Terminal Radar East",
+        "id": "East",
         "group": "HKTMA",
         "owner": [
             "TME",
@@ -504,7 +504,7 @@
         ]
     },
     {
-        "id": "Terminal Radar South",
+        "id": "South",
         "group": "HKTMA",
         "owner": [
             "TMS",
@@ -533,7 +533,7 @@
         ]
     },
     {
-        "id": "Terminal Radar South 1",
+        "id": "South 1",
         "group": "HKTMA",
         "owner": [
             "TM1",
@@ -566,7 +566,7 @@
         ]
     },
     {
-        "id": "Terminal Radar West",
+        "id": "West",
         "group": "HKTMA",
         "owner": [
             "TMW",
@@ -600,8 +600,8 @@
         ]
     },
     {
-        "id": "Macau Radar Control",
-        "group": "HKTMA",
+        "id": "Macau",
+        "group": "APP",
         "owner": [
             "MCR",
             "APP",
@@ -652,8 +652,8 @@
         ]
     },
     {
-        "id": "Macau Radar Control (Special Agreement Area)",
-        "group": "HKTMA",
+        "id": "Macau (Special Agreement Area)",
+        "group": "APP",
         "owner": [
             "ZUH",
             "GGG",
@@ -693,8 +693,8 @@
         ]
     },
     {
-        "id": "Macau Radar Control (Special Agreement Area)",
-        "group": "HKTMA",
+        "id": "Macau (Special Agreement Area)",
+        "group": "APP",
         "owner": [
             "ZUH",
             "GGG",
@@ -734,8 +734,8 @@
         ]
     },
     {
-        "id": "Final Approach Director",
-        "group": "HKTMA",
+        "id": "Hong Kong",
+        "group": "FIN",
         "owner": [
             "FAD",
             "APP",
@@ -796,8 +796,8 @@
         ]
     },
     {
-        "id": "Approach",
-        "group": "HKTMA",
+        "id": "Hong Kong",
+        "group": "INT",
         "owner": [
             "APP",
             "DEP",
@@ -917,8 +917,8 @@
         ]
     },
     {
-        "id": "Departure High",
-        "group": "HKTMA",
+        "id": "Hong Kong (High)",
+        "group": "DEP",
         "owner": [
             "DEH",
             "DEP",
@@ -1185,8 +1185,8 @@
         ]
     },
     {
-        "id": "Departure",
-        "group": "HKTMA",
+        "id": "Hong Kong (Low)",
+        "group": "DEP",
         "owner": [
             "DEP",
             "DEH",
@@ -1363,8 +1363,12 @@
   ],
 
   "groups": {
-    "VHHK":{"name": "Hong Kong ACC"},
-    "HKTMA":{"name": "Hong Kong TMA"}
+    "VHHK":{"name": "Hong Kong - Area"},
+    "HKTMA":{"name": "Hong Kong - Terminal"},
+    "APP":{"name": "Approach"},
+    "FIN":{"name": "Approach (Final)"},
+    "INT":{"name": "Approach (Intermediate)"},
+    "DEP":{"name": "Departure"}
   },
 
   "positions": {
