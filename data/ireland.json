@@ -5134,8 +5134,8 @@
       ]
     },
     {
-      "id": "Dublin (Intermediate)",
-      "group": "APS",
+      "id": "Dublin",
+      "group": "INT",
       "owner": [
         "DWR",
         "DWF",
@@ -6249,8 +6249,8 @@
       ]
     },
     {
-      "id": "Dublin (Final)",
-      "group": "APS",
+      "id": "Dublin",
+      "group": "FIN",
       "owner": [
         "DWF",
         "DWR",
@@ -7844,8 +7844,16 @@
       "name": "Approach (Non-Radar)",
       "colour": "#ffffff"
     },
+    "FIN": {
+      "name": "Approach (Final)",
+      "colour": "#ffffff"
+    },
+    "INT": {
+      "name": "Approach (Intermediate)",
+      "colour": "#ffffff"
+    },
     "APS": {
-      "name": "Approach Radar",
+      "name": "Approach",
       "colour": "#ffffff"
     }
   },
