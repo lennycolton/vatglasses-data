@@ -14916,8 +14916,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "INT",
+      "id": "Birmingham (Intermediate)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -15068,8 +15068,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "FIN",
+      "id": "Birmingham (Final)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -15135,8 +15135,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "FIN",
+      "id": "Birmingham (Final)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -15313,8 +15313,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "FIN",
+      "id": "Birmingham (Final)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -15746,8 +15746,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "INT",
+      "id": "Birmingham (Intermediate)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -15922,8 +15922,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "INT",
+      "id": "Birmingham (Intermediate)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -16434,8 +16434,8 @@
       ]
     },
     {
-      "id": "Birmingham",
-      "group": "INT",
+      "id": "Birmingham (Intermediate)",
+      "group": "APS",
       "docs": [
         "TM",
         "MSE"
@@ -19509,8 +19509,8 @@
       ]
     },
     {
-      "id": "South West (Departures)",
-      "comment": "EGLF Delegation",
+      "id": "South West (WILLO)",
+      "comment": "EGLF CTR/CTA Delegation",
       "group": "TSW",
       "docs": [
         "TSW"
@@ -20001,8 +20001,8 @@
       ]
     },
     {
-      "id": "Gatwick",
-      "group": "INT",
+      "id": "Gatwick (Intermediate)",
+      "group": "APS",
       "docs": [
         "TSW",
         "TSE"
@@ -20662,8 +20662,8 @@
       ]
     },
     {
-      "id": "Gatwick",
-      "group": "FIN",
+      "id": "Gatwick (Final)",
+      "group": "APS",
       "docs": [
         "TSW",
         "TSE"
@@ -20736,7 +20736,7 @@
       ]
     },
     {
-      "id": "Gatwick",
+      "id": "Gatwick (Final)",
       "group": "APS",
       "docs": [
         "TSW",
@@ -20834,7 +20834,7 @@
       ]
     },
     {
-      "id": "Gatwick",
+      "id": "Gatwick (Final)",
       "group": "APS",
       "docs": [
         "TSW",
@@ -22408,7 +22408,7 @@
     },
     {
       "id": "Heathrow (North)",
-      "group": "INT",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE",
@@ -22604,7 +22604,7 @@
     },
     {
       "id": "Heathrow (South)",
-      "group": "INT",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE",
@@ -22729,8 +22729,8 @@
       ]
     },
     {
-      "id": "Heathrow",
-      "group": "FIN",
+      "id": "Heathrow (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE",
@@ -22988,7 +22988,7 @@
       ]
     },
     {
-      "id": "London (Low Level)",
+      "id": "London (Low)",
       "group": "APS",
       "docs": [
         "TNW",
@@ -23413,7 +23413,7 @@
       ]
     },
     {
-      "id": "London (Low Level)",
+      "id": "London (Low)",
       "group": "APS",
       "docs": [
         "TNW",
@@ -23484,7 +23484,7 @@
       ]
     },
     {
-      "id": "London Heliport",
+      "id": "Battersea",
       "group": "TWR",
       "docs": [
         "TNW",
@@ -23765,7 +23765,7 @@
       ]
     },
     {
-      "id": "London City",
+      "id": "City",
       "group": "APS",
       "docs": [
         "TNE",
@@ -23930,7 +23930,7 @@
       ]
     },
     {
-      "id": "London City",
+      "id": "City",
       "group": "APS",
       "docs": [
         "TNE",
@@ -24044,8 +24044,8 @@
       ]
     },
     {
-      "id": "Luton",
-      "group": "INT",
+      "id": "Luton (Intermediate)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -24137,8 +24137,8 @@
       ]
     },
     {
-      "id": "Luton",
-      "group": "FIN",
+      "id": "Luton (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -24182,15 +24182,15 @@
       ]
     },
     {
-      "id": "Luton",
-      "group": "INT",
+      "id": "Luton (Intermediate)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
       ],
       "owner": [
-        "GWF",
         "GWR",
+        "GWF",
         "ESS",
         "TCNW",
         "TCN",
@@ -24298,8 +24298,8 @@
       ]
     },
     {
-      "id": "Luton",
-      "group": "FIN",
+      "id": "Luton (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -24350,8 +24350,8 @@
       ]
     },
     {
-      "id": "Luton",
-      "group": "FIN",
+      "id": "Luton (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -24689,8 +24689,8 @@
       ]
     },
     {
-      "id": "Manchester",
-      "group": "FIN",
+      "id": "Manchester (Final)",
+      "group": "APS",
       "docs": [
         "MNE",
         "MSE",
@@ -24871,7 +24871,7 @@
       ]
     },
     {
-      "id": "Manchester",
+      "id": "Manchester (Low)",
       "group": "APS",
       "docs": [
         "MNE",
@@ -24912,7 +24912,7 @@
       ]
     },
     {
-      "id": "Manchester",
+      "id": "Manchester (Low)",
       "group": "APS",
       "docs": [
         "MNE",
@@ -26893,8 +26893,8 @@
       ]
     },
     {
-      "id": "Stansted",
-      "group": "INT",
+      "id": "Stansted (Intermediate)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -27097,8 +27097,8 @@
       ]
     },
     {
-      "id": "Stansted",
-      "group": "FIN",
+      "id": "Stansted (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -27156,8 +27156,8 @@
       ]
     },
     {
-      "id": "Stansted",
-      "group": "FIN",
+      "id": "Stansted (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -27338,8 +27338,8 @@
       ]
     },
     {
-      "id": "Stansted",
-      "group": "FIN",
+      "id": "Stansted (Final)",
+      "group": "APS",
       "docs": [
         "TNW",
         "TNE"
@@ -27925,7 +27925,7 @@
       ]
     },
     {
-      "id": "Southend",
+      "id": "Thames",
       "group": "APS",
       "docs": [
         "TNE",
@@ -28745,14 +28745,6 @@
     },
     "APP": {
       "name": "Approach (Non-Radar)",
-      "colour": "#ffffff"
-    },
-    "INT": {
-      "name": "Approach (Intermediate)",
-      "colour": "#ffffff"
-    },
-    "FIN": {
-      "name": "Approach (Final)",
       "colour": "#ffffff"
     },
     "APS": {
