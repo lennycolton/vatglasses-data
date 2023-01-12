@@ -14594,7 +14594,7 @@
       ]
     },
     {
-      "id": "Belfast CTR",
+      "id": "Aldergrove",
       "group": "APS",
       "docs": [
         "SA"
@@ -14692,7 +14692,7 @@
       ]
     },
     {
-      "id": "Belfast TMA",
+      "id": "Aldergrove",
       "group": "APS",
       "docs": [
         "SA"
@@ -14754,7 +14754,7 @@
       ]
     },
     {
-      "id": "Belfast TMA",
+      "id": "Aldergrove",
       "group": "APS",
       "docs": [
         "SA"
@@ -14830,7 +14830,7 @@
       ]
     },
     {
-      "id": "Belfast City",
+      "id": "Belfast",
       "group": "APS",
       "docs": [
         "SA"
@@ -14884,7 +14884,7 @@
       ]
     },
     {
-      "id": "Belfast City",
+      "id": "Belfast",
       "group": "APS",
       "docs": [
         "SA"
@@ -16539,7 +16539,7 @@
       ]
     },
     {
-      "id": "Bournemouth CTR",
+      "id": "Bournemouth",
       "group": "APS",
       "docs": [
         "LS",
@@ -17339,7 +17339,7 @@
       ]
     },
     {
-      "id": "Brize Norton CTR",
+      "id": "Brize Norton",
       "group": "APS",
       "owner": [
         "VNZ",
@@ -17381,7 +17381,7 @@
       ]
     },
     {
-      "id": "Brize Norton CTR",
+      "id": "Brize Norton",
       "group": "APS",
       "owner": [
         "VNZ",
@@ -18135,7 +18135,7 @@
       ]
     },
     {
-      "id": "Saint Athan LFZ",
+      "id": "Saint Athan",
       "group": "TWR",
       "docs": [
         "LWP",
@@ -19369,7 +19369,7 @@
       ]
     },
     {
-      "id": "Eglinton CTA",
+      "id": "Eglinton",
       "group": "APP",
       "owner": [
         "AEA",
@@ -19959,7 +19959,7 @@
       ]
     },
     {
-      "id": "Farnborough CTA (Class E + TMZ)",
+      "id": "Farnborough (Class E + TMZ)",
       "group": "APS",
       "docs": [
         "TSW"
@@ -22816,7 +22816,7 @@
       ]
     },
     {
-      "id": "London CTR",
+      "id": "Northolt",
       "group": "APS",
       "docs": [
         "TNW",
@@ -22936,7 +22936,7 @@
       ]
     },
     {
-      "id": "London CTR",
+      "id": "Northolt",
       "group": "APS",
       "docs": [
         "TNW",
@@ -22988,7 +22988,7 @@
       ]
     },
     {
-      "id": "London CTR",
+      "id": "London (Low Level)",
       "group": "APS",
       "docs": [
         "TNW",
@@ -23413,7 +23413,7 @@
       ]
     },
     {
-      "id": "London CTR",
+      "id": "London (Low Level)",
       "group": "APS",
       "docs": [
         "TNW",
@@ -23484,7 +23484,7 @@
       ]
     },
     {
-      "id": "London Heliport LFA",
+      "id": "London Heliport",
       "group": "TWR",
       "docs": [
         "TNW",
@@ -25018,7 +25018,7 @@
       ]
     },
     {
-      "id": "Falklands CTR",
+      "id": "Falklands",
       "group": "APS",
       "owner": [
         "ISLAND",
@@ -25060,7 +25060,7 @@
       ]
     },
     {
-      "id": "Falklands CTR",
+      "id": "Falklands",
       "group": "APS",
       "owner": [
         "ISLAND",
@@ -26451,7 +26451,7 @@
       ]
     },
     {
-      "id": "Saint Helena CTR/TMA",
+      "id": "Saint Helena",
       "group": "APS",
       "owner": [
         "FHSHR",
@@ -26511,7 +26511,7 @@
       ]
     },
     {
-      "id": "Saint Helena CTR/TMA",
+      "id": "Saint Helena",
       "group": "APS",
       "owner": [
         "FHSHR"
@@ -26674,7 +26674,7 @@
       ]
     },
     {
-      "id": "Solent CTA",
+      "id": "Solent",
       "group": "APS",
       "docs": [
         "LS",
@@ -26840,7 +26840,7 @@
       ]
     },
     {
-      "id": "Southampton CTR",
+      "id": "Southampton",
       "group": "APS",
       "docs": [
         "LS",
