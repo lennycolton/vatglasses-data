@@ -17310,7 +17310,7 @@
       ]
     },
     {
-      "id": "Bristol Delegated Airway",
+      "id": "Bristol",
       "group": "APS",
       "docs": [
         "LWP"
@@ -17933,7 +17933,7 @@
       ]
     },
     {
-      "id": "Cardiff Delegated Airways",
+      "id": "Cardiff",
       "group": "APS",
       "docs": [
         "LWP",
@@ -18106,7 +18106,7 @@
       ]
     },
     {
-      "id": "Cardiff Delegated Airway",
+      "id": "Cardiff",
       "group": "APS",
       "docs": [
         "LWP",
@@ -25682,7 +25682,7 @@
       ]
     },
     {
-      "id": "Newcastle Delegated Airway",
+      "id": "Newcastle",
       "group": "APS",
       "docs": [
         "MNE",
