@@ -466,10 +466,11 @@
     "BE": { "pre": [ "EBBU" ], "type": "CTR","frequency": "129.575","callsign": "Brussels Control" },
     "BW": { "pre": [ "EBBU" ], "type": "CTR","frequency": "131.000","callsign": "Brussels Control" },
     
-    "AE": { "pre": [ "EBBU" ], "type": "CTR","frequency": "124.875","callsign": "Amsterdam Radar" },
-    "AS": { "pre": [ "EBBU" ], "type": "CTR","frequency": "123.850","callsign": "Amsterdam Radar" },
-    "AW": { "pre": [ "EBBU" ], "type": "CTR","frequency": "125.750","callsign": "Amsterdam Radar" }
+    "AE": { "pre": [ "EHAA" ], "type": "CTR","frequency": "124.875","callsign": "Amsterdam Radar" },
+    "AS": { "pre": [ "EHAA" ], "type": "CTR","frequency": "123.850","callsign": "Amsterdam Radar" },
+    "AW": { "pre": [ "EHAA" ], "type": "CTR","frequency": "125.750","callsign": "Amsterdam Radar" },
 
+    "EMW": { "pre": [ "EURM" ], "type": "CTR","frequency": "135.750","callsign": "Maastricht Radar" }
   },
   "callsigns": {
     "DEL": {
