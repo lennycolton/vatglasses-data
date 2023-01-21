@@ -1,9 +1,9 @@
 {
 	"airspace": [
 			{
-				"id":"BNO CTA",
+				"id":"Brno (TB)",
 				"remark":"BNO_CTA_CVPD",
-				"group":"BNO",
+				"group":"ACC",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -32,9 +32,9 @@
 				]
 			},
 			{
-				"id":"BNO CTA",
+				"id":"Brno (TB)",
 				"remark":"BNO_CTA_E",
-				"group":"BNO",
+				"group":"ACC",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -66,44 +66,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_E_INFO",
-				"group":"BNO",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":2,
-						"min":0,
-						"points":[
-							["485116", "0174029"],
-							["490617", "0174744"],
-							["491402", "0174202"],
-							["491442", "0173521"],
-							["492217", "0174702"],
-							["491818", "0181616"],
-							["491710", "0181103"],
-							["491156", "0180837"],
-							["491044", "0180751"],
-							["490358", "0180528"],
-							["490214", "0180411"],
-							["490104", "0175520"],
-							["485536", "0175243"],
-							["485531", "0174734"],
-							["485142", "0174217"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Náměšť",
 				"remark":"BNO_CTA_LKNA_MTMA1",
-				"group":"LKNA",
+				"group":"APP",
 				"owner":[
 					"LKNA_APP",
 					"LKTB_APP",
@@ -133,42 +98,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKNA_MTMA1_INF",
-				"group":"LKNA",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKNA_APP",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["491204", "0161824"],
-							["490208", "0163716"],
-							["485714", "0163002"],
-							["485307", "0162400"],
-							["490152", "0160600"],
-							["490817", "0155250"],
-							["491108", "0154653"],
-							["491448", "0155205"],
-							["490847", "0155647"],
-							["490259", "0160726"],
-							["490103", "0161736"],
-							["490549", "0162246"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Náměšť",
 				"remark":"BNO_CTA_LKNA_MTMA2",
-				"group":"LKNA",
+				"group":"APP",
 				"owner":[
 					"LKNA_APP",
 					"LKTB_APP",
@@ -194,38 +126,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKNA_MTMA2_INF",
-				"group":"LKNA",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKNA_APP",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["491108", "0154653"],
-							["491622", "0154225"],
-							["492152", "0154752"],
-							["492307", "0155237"],
-							["492212", "0155854"],
-							["491706", "0160844"],
-							["491852", "0155718"],
-							["491448", "0155205"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno Tuřany",
 				"remark":"BNO_CTA_LKTB_TMA1_P1",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -279,66 +182,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKTB_TMA1_P1I",
-				"group":"LKTB",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["490208", "0163716"],
-							["491204", "0161824"],
-							["491456", "0161939"],
-							["491736", "0162151"],
-							["491957", "0162447"],
-							["491813", "0163043"],
-							["491636", "0165109"],
-							["491531", "0165627"],
-							["491529", "0170002"],
-							["491528", "0170351"],
-							["491311", "0170509"],
-							["491047", "0170551"],
-							["490821", "0170558"],
-							["491031", "0165711"],
-							["491056", "0165159"],
-							["491128", "0165141"],
-							["491234", "0165054"],
-							["491334", "0164950"],
-							["491426", "0164831"],
-							["491508", "0164659"],
-							["491539", "0164518"],
-							["491558", "0164329"],
-							["491605", "0164138"],
-							["491558", "0163946"],
-							["491539", "0163757"],
-							["491508", "0163616"],
-							["491426", "0163444"],
-							["491334", "0163325"],
-							["491320", "0163305"],
-							["491420", "0162757"],
-							["490749", "0162641"],
-							["490715", "0163116"],
-							["490640", "0163135"],
-							["490534", "0163222"],
-							["490343", "0163445"],
-							["490301", "0163617"],
-							["490230", "0163758"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno Tuřany",
 				"remark":"BNO_CTA_LKTB_TMA1_P2",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -378,52 +224,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKTB_TMA1_P2I",
-				"group":"LKTB",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["490208", "0163716"],
-							["490230", "0163758"],
-							["490211", "0163946"],
-							["490205", "0164138"],
-							["490211", "0164329"],
-							["490230", "0164517"],
-							["490301", "0164658"],
-							["490343", "0164830"],
-							["490434", "0164949"],
-							["490534", "0165053"],
-							["490510", "0165608"],
-							["491031", "0165711"],
-							["490821", "0170558"],
-							["490556", "0170532"],
-							["490335", "0170432"],
-							["490122", "0170300"],
-							["485919", "0170058"],
-							["485730", "0165830"],
-							["485752", "0165426"],
-							["485721", "0165326"],
-							["485604", "0164944"],
-							["485542", "0164810"],
-							["485714", "0163002"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno Tuřany",
 				"remark":"BNO_CTA_LKTB_TMA2",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -458,47 +261,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKTB_TMA2_INFO",
-				"group":"LKTB",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["485103", "0165559"],
-							["485542", "0164810"],
-							["485604", "0164944"],
-							["485721", "0165326"],
-							["485752", "0165426"],
-							["485730", "0165830"],
-							["485919", "0170058"],
-							["490122", "0170300"],
-							["490335", "0170432"],
-							["490556", "0170532"],
-							["490821", "0170558"],
-							["491047", "0170551"],
-							["491311", "0170509"],
-							["491528", "0170351"],
-							["491514", "0172945"],
-							["491442", "0173521"],
-							["490705", "0171626"],
-							["485615", "0171411"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno Tuřany",
 				"remark":"BNO_CTA_LKTB_TMA3_P1",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -541,55 +306,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKTB_TMA3_P1_I",
-				"group":"LKTB",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["485426", "0172542"],
-							["484849", "0172152"],
-							["485240", "0171209"],
-							["484622", "0170344"],
-							["485103", "0165559"],
-							["485615", "0171411"],
-							["490705", "0171626"],
-							["491442", "0173521"],
-							["491402", "0174202"],
-							["491111", "0174030"],
-							["491303", "0173434"],
-							["490917", "0172712"],
-							["490742", "0172604"],
-							["490739", "0172435"],
-							["490718", "0172252"],
-							["490645", "0172117"],
-							["490600", "0171954"],
-							["490506", "0171846"],
-							["490403", "0171755"],
-							["490256", "0171724"],
-							["490146", "0171713"],
-							["490035", "0171724"],
-							["485928", "0171755"],
-							["485825", "0171846"],
-							["485808", "0171915"],
-							["485607", "0171749"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno Tuřany",
 				"remark":"BNO_CTA_LKTB_TMA3_P2",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -625,48 +344,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKTB_TMA3_P2_I",
-				"group":"LKTB",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["485426", "0172542"],
-							["484849", "0172152"],
-							["485037", "0172758"],
-							["484859", "0173101"],
-							["485116", "0174029"],
-							["490617", "0174744"],
-							["491402", "0174202"],
-							["491111", "0174030"],
-							["490335", "0173458"],
-							["490256", "0173521"],
-							["490146", "0173532"],
-							["490035", "0173521"],
-							["485928", "0173450"],
-							["485825", "0173359"],
-							["485731", "0173251"],
-							["485646", "0173128"],
-							["485613", "0172953"],
-							["485552", "0172810"],
-							["485550", "0172642"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno Tuřany",
 				"remark":"BNO_CTA_LKTB_TMA4",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -691,37 +371,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKTB_TMA4_INFO",
-				"group":"LKTB",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["484646", "0162849"],
-							["485307", "0162400"],
-							["485714", "0163002"],
-							["485542", "0164810"],
-							["485103", "0165559"],
-							["484402", "0164413"],
-							["484409", "0164310"],
-							["484705", "0163715"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno Tuřany",
 				"remark":"BNO_CTA_LKTB_TMA5",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -748,39 +400,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKTB_TMA5_INFO",
-				"group":"LKTB",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["491204", "0161824"],
-							["491347", "0161506"],
-							["491553", "0161607"],
-							["491900", "0161840"],
-							["492143", "0162205"],
-							["492216", "0162301"],
-							["492124", "0162725"],
-							["491957", "0162447"],
-							["491736", "0162151"],
-							["491456", "0161939"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno Tuřany",
 				"remark":"BNO_CTA_LKTB_TMA6",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -806,38 +428,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKTB_TMA6_INFO",
-				"group":"LKTB",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["491347", "0161506"],
-							["491706", "0160844"],
-							["491748", "0160904"],
-							["492146", "0161219"],
-							["492354", "0161450"],
-							["492216", "0162301"],
-							["492143", "0162205"],
-							["491900", "0161840"],
-							["491553", "0161607"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno Tuřany",
 				"remark":"BNO_CTA_LKTB_TMA7",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -862,37 +455,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKTB_TMA7_INFO",
-				"group":"LKTB",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["491529", "0170002"],
-							["491842", "0171534"],
-							["492729", "0172900"],
-							["492349", "0173529"],
-							["492217", "0174702"],
-							["491442", "0173521"],
-							["491514", "0172945"],
-							["491528", "0170351"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno Tuřany",
 				"remark":"BNO_CTA_LKTB_TMA8",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -913,33 +478,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_LKTB_TMA8_INFO",
-				"group":"LKTB",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["491636", "0165109"],
-							["491813", "0163043"],
-							["491957", "0162447"],
-							["492124", "0162725"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno (TB)",
 				"remark":"BNO_CTA_S",
-				"group":"BNO",
+				"group":"ACC",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -961,34 +502,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_S_INFO",
-				"group":"BNO",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":2,
-						"min":0,
-						"points":[
-							["485103", "0165559"],
-							["484402", "0164413"],
-							["484301", "0165410"],
-							["483656", "0165627"],
-							["484622", "0170344"]
-						]
-					}
-				]
-			},
-			{
-				"id":"BNO CTA",
+				"id":"Brno (TB)",
 				"remark":"BNO_CTA_U",
-				"group":"BNO",
+				"group":"ACC",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -1040,9 +556,9 @@
 				]
 			},
 			{
-				"id":"BNO CTA",
+				"id":"Brno (TB)",
 				"remark":"BNO_CTA_W",
-				"group":"BNO",
+				"group":"ACC",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -1128,100 +644,9 @@
 				]
 			},
 			{
-				"id":"BNO INFO",
-				"remark":"BNO_CTA_W_INFO",
-				"group":"BNO",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKTB_APP",
-					"LKAA_APP",
-					"LKAA_S_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":2,
-						"min":0,
-						"points":[
-							["484646", "0162849"],
-							["485307", "0162400"],
-							["490152", "0160600"],
-							["490817", "0155250"],
-							["491108", "0154653"],
-							["491622", "0154225"],
-							["492152", "0154752"],
-							["492307", "0155237"],
-							["492212", "0155854"],
-							["491706", "0160844"],
-							["491748", "0160904"],
-							["492146", "0161219"],
-							["492354", "0161450"],
-							["492216", "0162301"],
-							["492124", "0162725"],
-							["491636", "0165109"],
-							["491531", "0165627"],
-							["491529", "0170002"],
-							["491842", "0171534"],
-							["492729", "0172900"],
-							["492912", "0172558"],
-							["494048", "0163737"],
-							["494231", "0163305"],
-							["494904", "0162444"],
-							["495110", "0155418"],
-							["495055", "0154834"],
-							["495038", "0154229"],
-							["494609", "0155058"],
-							["493632", "0153925"],
-							["494717", "0151430"],
-							["494606", "0151333"],
-							["494456", "0151232"],
-							["494347", "0151129"],
-							["494240", "0151021"],
-							["494134", "0150911"],
-							["494029", "0150757"],
-							["493926", "0150641"],
-							["493825", "0150521"],
-							["493725", "0150359"],
-							["493627", "0150233"],
-							["493531", "0150105"],
-							["493436", "0145934"],
-							["493403", "0145835"],
-							["493321", "0145717"],
-							["493229", "0145536"],
-							["493205", "0145447"],
-							["493141", "0145357"],
-							["493118", "0145306"],
-							["493056", "0145215"],
-							["493034", "0145124"],
-							["493447", "0144109"],
-							["493426", "0144007"],
-							["493407", "0143904"],
-							["493348", "0143801"],
-							["493330", "0143657"],
-							["493313", "0143553"],
-							["493257", "0143448"],
-							["493242", "0143342"],
-							["493228", "0143236"],
-							["493214", "0143130"],
-							["490022", "0150713"],
-							["485344", "0151433"],
-							["485334", "0152313"],
-							["485317", "0153656"],
-							["485228", "0155005"],
-							["484517", "0160350"],
-							["484610", "0161218"],
-							["484614", "0161352"],
-							["484622", "0161737"]
-						]
-					}
-				]
-			},
-
-
-			{
-				"id":"LKKV TMA",
+				"id":"Karlovy Vary",
 				"remark":"KVY_CTA_LKKV_TMA1",
-				"group":"LKKV",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -1263,54 +688,9 @@
 				]
 			},
 			{
-				"id":"KVY INFO",
-				"remark":"KVY_CTA_LKKV_TMA1_INFO",
-				"group":"LKKV",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKKV_APP",
-					"LKAA_APP",
-					"LKAA_W_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["502031", "0122915"],
-							["501933", "0123254"],
-							["501918", "0124329"],
-							["501336", "0123943"],
-							["501201", "0124533"],
-							["501052", "0124531"],
-							["500946", "0124605"],
-							["500846", "0124656"],
-							["500753", "0124805"],
-							["500709", "0124929"],
-							["500637", "0125104"],
-							["500616", "0125246"],
-							["500609", "0125433"],
-							["500614", "0125621"],
-							["500633", "0125804"],
-							["500704", "0125940"],
-							["500746", "0130105"],
-							["500611", "0130649"],
-							["501152", "0131037"],
-							["501315", "0131537"],
-							["501048", "0131651"],
-							["500522", "0131935"],
-							["495843", "0131316"],
-							["495827", "0130207"],
-							["501011", "0122039"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKKV TMA",
+				"id":"Karlovy Vary",
 				"remark":"KVY_CTA_LKKV_TMA2",
-				"group":"LKKV",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -1332,34 +712,9 @@
 				]
 			},
 			{
-				"id":"KVY INFO",
-				"remark":"KVY_CTA_LKKV_TMA2_INFO",
-				"group":"LKKV",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKKV_APP",
-					"LKAA_APP",
-					"LKAA_W_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["501011", "0122039"],
-							["495827", "0130207"],
-							["495756", "0124243"],
-							["500252", "0122523"],
-							["500756", "0122117"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKKV TMA",
+				"id":"Karlovy Vary",
 				"remark":"KVY_CTA_LKKV_TMA3",
-				"group":"LKKV",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -1382,35 +737,9 @@
 				]
 			},
 			{
-				"id":"KVY INFO",
-				"remark":"KVY_CTA_LKKV_TMA3_INFO",
-				"group":"INFO",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKKV_APP",
-					"LKAA_APP",
-					"LKAA_W_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["502031", "0122915"],
-							["502332", "0123800"],
-							["501315", "0131537"],
-							["501152", "0131037"],
-							["501918", "0124329"],
-							["501933", "0123254"]
-						]
-					}
-				]
-			},
-			{
-				"id":"KVY CTA",
+				"id":"Karlovy Vary (KV)",
 				"remark":"KVY_CTA_N",
-				"group":"KVY",
+				"group":"ACC",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -1453,55 +782,9 @@
 				]
 			},
 			{
-				"id":"KVY INFO",
-				"remark":"KVY_CTA_N_INFO",
-				"group":"KVY",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKKV_APP",
-					"LKAA_APP",
-					"LKAA_W_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":2,
-						"min":0,
-						"points":[
-							["504403", "0134603"],
-							["503548", "0134759"],
-							["503447", "0134525"],
-							["503352", "0134320"],
-							["503252", "0134121"],
-							["503149", "0133925"],
-							["503043", "0133735"],
-							["502933", "0133549"],
-							["502820", "0133409"],
-							["502705", "0133234"],
-							["502547", "0133105"],
-							["502426", "0132941"],
-							["502303", "0132824"],
-							["502138", "0132713"],
-							["502010", "0132608"],
-							["501841", "0132509"],
-							["501710", "0132418"],
-							["501538", "0132332"],
-							["501405", "0132254"],
-							["501230", "0132222"],
-							["501055", "0132157"],
-							["501048", "0131651"],
-							["501315", "0131537"],
-							["502332", "0123800"],
-							["502557", "0124502"],
-							["503114", "0130033"]
-						]
-					}
-				]
-			},
-			{
-				"id":"KVY CTA",
+				"id":"Karlovy Vary (KV)",
 				"remark":"KVY_CTA_S",
-				"group":"KVY",
+				"group":"ACC",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -1576,87 +859,9 @@
 				]
 			},
 			{
-				"id":"KVY INFO",
-				"remark":"KVY_CTA_S_INFO",
-				"group":"KVY",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKKV_APP",
-					"LKAA_APP",
-					"LKAA_W_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":2,
-						"min":0,
-						"points":[
-							["495827", "0130207"],
-							["495608", "0130247"],
-							["495425", "0130324"],
-							["495244", "0130407"],
-							["495104", "0130455"],
-							["494925", "0130549"],
-							["494747", "0130648"],
-							["494610", "0130753"],
-							["494436", "0130903"],
-							["494303", "0131018"],
-							["494131", "0131139"],
-							["494002", "0131304"],
-							["493920", "0131347"],
-							["493838", "0131431"],
-							["493756", "0131517"],
-							["493715", "0131603"],
-							["493635", "0131651"],
-							["493555", "0131739"],
-							["493516", "0131829"],
-							["493437", "0131919"],
-							["493359", "0132011"],
-							["493321", "0132104"],
-							["493244", "0132157"],
-							["493208", "0132252"],
-							["493132", "0132348"],
-							["493057", "0132444"],
-							["493707", "0134444"],
-							["493633", "0134601"],
-							["493601", "0134719"],
-							["493453", "0135022"],
-							["493354", "0135330"],
-							["493302", "0135644"],
-							["493218", "0140002"],
-							["493142", "0140324"],
-							["493115", "0140650"],
-							["493100", "0140944"],
-							["493048", "0141321"],
-							["493047", "0141429"],
-							["493046", "0141624"],
-							["493050", "0141928"],
-							["493101", "0142231"],
-							["493119", "0142533"],
-							["493143", "0142832"],
-							["493214", "0143130"],
-							["490022", "0150713"],
-							["485344", "0151433"],
-							["485352", "0150658"],
-							["485130", "0145821"],
-							["484331", "0144633"],
-							["484352", "0140306"],
-							["484948", "0134711"],
-							["491511", "0130931"],
-							["492633", "0125222"],
-							["493810", "0123450"],
-							["494212", "0122821"],
-							["500756", "0122117"],
-							["500252", "0122523"],
-							["495756", "0124243"]
-						]
-					}
-				]
-			},
-			{
-				"id":"KVY CTA",
+				"id":"Karlovy Vary (KV)",
 				"remark":"KVY_CTA_U",
-				"group":"KVY",
+				"group":"ACC",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -1688,9 +893,9 @@
 				]
 			},
 			{
-				"id":"KVY CTA",
+				"id":"Karlovy Vary (KV)",
 				"remark":"KVY_CTA_W",
-				"group":"KVY",
+				"group":"ACC",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -1713,37 +918,9 @@
 				]
 			},
 			{
-				"id":"KVY INFO",
-				"remark":"KVY_CTA_W_INFO",
-				"group":"KVY",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKKV_APP",
-					"LKAA_APP",
-					"LKAA_W_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":2,
-						"min":0,
-						"points":[
-							["502031", "0122915"],
-							["501011", "0122039"],
-							["501126", "0122019"],
-							["501425", "0122106"],
-							["501807", "0122220"],
-							["501932", "0122624"]
-						]
-					}
-				]
-			},
-
-
-			{
-				"id":"LKCV CTR",
+				"id":"Čáslav",
 				"remark":"LKCV_MCTR",
-				"group":"LKCV",
+				"group":"TWR",
 				"owner":[
 					"LKCV_TWR",
 					"LKCV_APP",
@@ -1773,9 +950,9 @@
 				]
 			},
 			{
-				"id":"LKCV MTMA",
+				"id":"Čáslav",
 				"remark":"LKCV_MTMA1",
-				"group":"LKCV",
+				"group":"APP",
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
@@ -1822,9 +999,9 @@
 				]
 			},
 			{
-				"id":"LKCV MTMA",
+				"id":"Čáslav",
 				"remark":"LKCV_MTMA2",
-				"group":"LKCV",
+				"group":"APP",
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
@@ -1850,9 +1027,9 @@
 				]
 			},
 			{
-				"id":"LKCV MTMA",
+				"id":"Čáslav",
 				"remark":"LKCV_MTMA3",
-				"group":"LKCV",
+				"group":"APP",
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
@@ -1885,9 +1062,9 @@
 				]
 			},
 			{
-				"id":"LKCV MTMA",
+				"id":"Čáslav",
 				"remark":"LKCV_MTMA_MCTR",
-				"group":"LKCV",
+				"group":"APP",
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
@@ -1916,9 +1093,9 @@
 
 
 			{
-				"id":"LKKB CTR",
+				"id":"Praha Kbely",
 				"remark":"LKKB_CTR_06-12",
-				"group":"ACC",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -1956,9 +1133,9 @@
 				]
 			},
 			{
-				"id":"LKKB CTR",
+				"id":"Praha Kbely",
 				"remark":"LKKB_CTR_06-12",
-				"group":"LKKB CTR",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -1996,9 +1173,9 @@
 				]
 			},
 			{
-				"id":"LKKB CTR",
+				"id":"Praha Kbely",
 				"remark":"LKKB_CTR_24-30",
-				"group":"LKKB",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -2036,9 +1213,9 @@
 				]
 			},
 			{
-				"id":"LKKB CTR",
+				"id":"Praha Kbely",
 				"remark":"LKKB_CTR_24-30",
-				"group":"LKKB CTR",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -2078,9 +1255,9 @@
 
 
 			{
-				"id":"LKKB MTMA",
+				"id":"Praha Kbely",
 				"remark":"LKKB_MTMA1_06-12",
-				"group":"LKKB",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -2119,9 +1296,9 @@
 				]
 			},
 			{
-				"id":"LKKB MTMA",
+				"id":"Praha Kbely",
 				"remark":"LKKB_MTMA1_06-12",
-				"group":"LKKB MTMA",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -2160,9 +1337,9 @@
 				]
 			},
 			{
-				"id":"LKKB MTMA",
+				"id":"Praha Kbely",
 				"remark":"LKKB_MTMA1_24-30",
-				"group":"LKKB",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -2201,9 +1378,9 @@
 				]
 			},
 			{
-				"id":"LKKB MTMA",
+				"id":"Praha Kbely",
 				"remark":"LKKB_MTMA1_24-30",
-				"group":"LKKB MTMA",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -2244,9 +1421,9 @@
 
 
 			{
-				"id":"LKKB MTMA",
+				"id":"Praha Kbely",
 				"remark":"LKKB_MTMA2_06-12",
-				"group":"LKKB",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -2307,9 +1484,9 @@
 				]
 			},
 			{
-				"id":"LKKB MTMA",
+				"id":"Praha Kbely",
 				"remark":"LKKB_MTMA2_06-12",
-				"group":"LKKB MTMA",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -2370,9 +1547,9 @@
 				]
 			},
 			{
-				"id":"LKKB MTMA",
+				"id":"Praha Kbely",
 				"remark":"LKKB_MTMA2_24-30",
-				"group":"LKKB",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -2433,9 +1610,9 @@
 				]
 			},
 			{
-				"id":"LKKB MTMA",
+				"id":"Praha Kbely",
 				"remark":"LKKB_MTMA2_24-30",
-				"group":"LKKB MTMA",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -2496,9 +1673,9 @@
 				]
 			},
 			{
-				"id":"LKKU CTR",
+				"id":"Kunovice",
 				"remark":"LKKU_CTR",
-				"group":"LKKU",
+				"group":"TWR",
 				"owner":[
 					"LKKU_TWR",
 					"LKTB_APP",
@@ -2546,9 +1723,9 @@
 				]
 			},
 			{
-				"id":"LKKV CTR",
+				"id":"Karlovy Vary",
 				"remark":"LKKV_CTR",
-				"group":"LKKV",
+				"group":"TWR",
 				"owner":[
 					"LKKV_TWR",
 					"LKKV_APP",
@@ -2584,9 +1761,9 @@
 				]
 			},
 			{
-				"id":"LKKV TMA",
+				"id":"Karlovy Vary",
 				"remark":"LKKV_TMA1",
-				"group":"LKKV",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -2613,9 +1790,9 @@
 				]
 			},
 			{
-				"id":"LKKV TMA",
+				"id":"Karlovy Vary",
 				"remark":"LKKV_TMA2",
-				"group":"LKKV",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -2637,9 +1814,9 @@
 				]
 			},
 			{
-				"id":"LKKV TMA",
+				"id":"Karlovy Vary",
 				"remark":"LKKV_TMA3",
-				"group":"LKKV",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -2664,9 +1841,9 @@
 
 
 			{
-				"id":"LKMT CTR",
+				"id":"Ostrava Mošnov",
 				"remark":"LKMT_CTR",
-				"group":"LKMT",
+				"group":"TWR",
 				"owner":[
 					"LKMT_TWR",
 					"LKMT_APP",
@@ -2717,9 +1894,9 @@
 				]
 			},
 			{
-				"id":"LKMT TMA",
+				"id":"Ostrava Mošnov",
 				"remark":"LKMT_TMA1",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -2773,9 +1950,9 @@
 				]
 			},
 			{
-				"id":"LKMT TMA",
+				"id":"Ostrava Mošnov",
 				"remark":"LKMT_TMA2",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -2798,9 +1975,9 @@
 				]
 			},
 			{
-				"id":"LKMT TMA",
+				"id":"Ostrava Mošnov",
 				"remark":"LKMT_TMA3",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -2829,9 +2006,9 @@
 				]
 			},
 			{
-				"id":"LKMT TMA",
+				"id":"Ostrava Mošnov",
 				"remark":"LKMT_TMA4",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -2858,9 +2035,9 @@
 				]
 			},
 			{
-				"id":"LKMT TMA",
+				"id":"Ostrava Mošnov",
 				"remark":"LKMT_TMA5",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -2887,9 +2064,9 @@
 				]
 			},
 			{
-				"id":"LKMT TMA",
+				"id":"Ostrava Mošnov",
 				"remark":"LKMT_TMA6",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -2925,9 +2102,9 @@
 				]
 			},
 			{
-				"id":"LKMT TMA",
+				"id":"Ostrava Mošnov",
 				"remark":"LKMT_TMA7",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -2948,9 +2125,9 @@
 				]
 			},
 			{
-				"id":"LKNA MCTR",
+				"id":"Náměšť",
 				"remark":"LKNA_MCTR",
-				"group":"LKNA",
+				"group":"TWR",
 				"owner":[
 					"LKNA_TWR",
 					"LKNA_APP",
@@ -2978,9 +2155,9 @@
 				]
 			},
 			{
-				"id":"LKNA MTMA",
+				"id":"Náměšť",
 				"remark":"LKNA_MTMA1",
-				"group":"LKNA",
+				"group":"APP",
 				"owner":[
 					"LKNA_APP",
 					"LKTB_APP",
@@ -3009,9 +2186,9 @@
 				]
 			},
 			{
-				"id":"LKNA MTMA",
+				"id":"Náměšť",
 				"remark":"LKNA_MTMA2",
-				"group":"LKNA",
+				"group":"APP",
 				"owner":[
 					"LKNA_APP",
 					"LKTB_APP",
@@ -3037,9 +2214,9 @@
 				]
 			},
 			{
-				"id":"LKPD MCTR",
+				"id":"Pardubice",
 				"remark":"LKPD_MCTR",
-				"group":"LKPD",
+				"group":"TWR",
 				"owner":[
 					"LKPD_TWR",
 					"LKPD_APP",
@@ -3065,9 +2242,9 @@
 				]
 			},
 			{
-				"id":"LKPD MTMA",
+				"id":"Pardubice",
 				"remark":"LKPD_MTMA1",
-				"group":"LKPD",
+				"group":"APP",
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
@@ -3097,9 +2274,9 @@
 				]
 			},
 			{
-				"id":"LKPD MTMA",
+				"id":"Pardubice",
 				"remark":"LKPD_MTMA2",
-				"group":"LKPD",
+				"group":"APP",
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
@@ -3126,9 +2303,9 @@
 				]
 			},
 			{
-				"id":"LKPD MTMA",
+				"id":"Pardubice",
 				"remark":"LKPD_MTMA3",
-				"group":"LKPD",
+				"group":"APP",
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
@@ -3150,9 +2327,9 @@
 				]
 			},
 			{
-				"id":"LKPD MTMA",
+				"id":"Pardubice",
 				"remark":"LKPD_MTMA_CTR",
-				"group":"LKPD",
+				"group":"APP",
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
@@ -3179,9 +2356,9 @@
 
 
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA1_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -3270,9 +2447,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA1_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -3294,9 +2471,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA1_ARR_CTA_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -3328,9 +2505,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA1_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -3419,9 +2596,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA1_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -3443,9 +2620,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA1_ARR_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -3477,9 +2654,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA1_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -3509,9 +2686,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA1_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -3541,9 +2718,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA2_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -3605,9 +2782,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -3629,9 +2806,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_ARR_CTA_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -3653,9 +2830,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_ARR_CTA_P4",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -3684,9 +2861,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA2_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -3738,9 +2915,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -3785,9 +2962,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_ARR_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -3809,9 +2986,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -3848,9 +3025,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -3886,9 +3063,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_DEP_CTA_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -3919,9 +3096,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -3956,9 +3133,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -3991,9 +3168,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_DEP_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4026,9 +3203,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA2_DEP_P4",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4052,9 +3229,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA3_APP_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -4106,9 +3283,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA3_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4136,9 +3313,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA3_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4162,9 +3339,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA4_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -4195,9 +3372,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA4_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -4222,9 +3399,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA4_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -4255,9 +3432,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA4_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -4282,9 +3459,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA4_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4321,9 +3498,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA4_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4360,9 +3537,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA5_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -4414,9 +3591,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA5_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -4452,9 +3629,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA5_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -4506,9 +3683,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA5_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -4544,9 +3721,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA5_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4599,9 +3776,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA5_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4639,9 +3816,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA5_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4694,9 +3871,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA5_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4734,9 +3911,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA6_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -4779,9 +3956,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA6_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -4824,9 +4001,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA7_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -4850,9 +4027,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA7_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -4886,9 +4063,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA7_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -4912,9 +4089,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA7_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -4948,9 +4125,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA7_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -4986,9 +4163,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA7_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -5024,9 +4201,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR06_TMA9_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -5125,9 +4302,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -5160,9 +4337,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_ARR_CTA_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -5221,9 +4398,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_ARR_CTA_P4",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -5266,9 +4443,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -5400,9 +4577,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_CTA_N869_N",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -5428,9 +4605,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_CTA_N869_W",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -5458,9 +4635,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -5501,9 +4678,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -5553,9 +4730,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_DEP_CTA_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -5621,9 +4798,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -5670,9 +4847,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -5715,9 +4892,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_DEP_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -5777,9 +4954,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_N869_N",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKAA_N_CTR",
 					"LKAA_CTR",
@@ -5803,9 +4980,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_N869_NL",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -5828,9 +5005,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_N869_W",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKAA_W_CTR",
 					"LKAA_CTR",
@@ -5856,9 +5033,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR06_TMA9_N869_WL",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -5886,9 +5063,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR12_TMA1_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -5950,9 +5127,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA1_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -6015,9 +5192,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR12_TMA1_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -6079,9 +5256,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA1_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -6144,9 +5321,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR12_TMA2_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -6204,9 +5381,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA2_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -6252,9 +5429,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR12_TMA2_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -6309,9 +5486,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA2_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -6356,9 +5533,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA2_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -6386,9 +5563,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA2_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -6416,9 +5593,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA2_DEP_CTA_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -6462,9 +5639,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA2_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -6501,9 +5678,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA2_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -6531,9 +5708,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA2_DEP_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -6561,9 +5738,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA3_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -6592,9 +5769,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA3_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -6645,9 +5822,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA4_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -6677,9 +5854,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA4_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -6706,9 +5883,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA4_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -6738,9 +5915,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA4_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -6767,9 +5944,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA4_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -6804,9 +5981,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA4_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -6841,9 +6018,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR12_TMA5_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -6923,9 +6100,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR12_TMA5_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -7005,9 +6182,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA5_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7035,9 +6212,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA5_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7081,9 +6258,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA5_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7128,9 +6305,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA5_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7158,9 +6335,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR12_TMA6_ARR_CTA",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -7197,9 +6374,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR12_TMA6_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -7236,9 +6413,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA6_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7266,9 +6443,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA6_DEP_P1_CTA",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7296,9 +6473,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA7_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -7337,9 +6514,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA7_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -7378,9 +6555,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA7_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7413,9 +6590,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA7_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7448,9 +6625,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR12_TMA9_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -7544,9 +6721,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -7592,9 +6769,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_ARR_CTA_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -7632,9 +6809,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -7717,9 +6894,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -7779,9 +6956,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_CTA_N869_N",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -7806,9 +6983,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_CTA_N869_W",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -7835,9 +7012,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7893,9 +7070,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7948,9 +7125,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_DEP_CTA_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -7995,9 +7172,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_DEP_CTA_P4",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -8057,9 +7234,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -8120,9 +7297,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -8175,9 +7352,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_DEP_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -8222,9 +7399,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_DEP_P4",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -8282,9 +7459,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_N869_N",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKAA_N_CTR",
 					"LKAA_CTR",
@@ -8308,9 +7485,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_N869_N",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKAA_N_CTR",
 					"LKAA_CTR",
@@ -8333,9 +7510,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_N869_NL",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -8357,9 +7534,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_N869_W",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKAA_W_CTR",
 					"LKAA_CTR",
@@ -8384,9 +7561,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_N869_W",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKAA_W_CTR",
 					"LKAA_CTR",
@@ -8412,9 +7589,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR12_TMA9_N869_WL",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -8439,9 +7616,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA1_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -8508,9 +7685,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA1_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -8553,9 +7730,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA1_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -8622,9 +7799,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA1_ARR_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -8667,9 +7844,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA1_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -8705,9 +7882,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA1_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -8730,9 +7907,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA1_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -8768,9 +7945,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA1_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -8793,9 +7970,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA2_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -8839,9 +8016,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA2_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -8878,9 +8055,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA2_ARR_CTA_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -8905,9 +8082,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA2_ARR_CTA_P4",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -8941,9 +8118,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA2_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -8979,9 +8156,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA2_ARR_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -9033,9 +8210,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA2_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9064,9 +8241,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA2_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9107,9 +8284,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA2_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9150,9 +8327,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA2_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9181,9 +8358,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA2_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9215,9 +8392,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA2_DEP_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9249,9 +8426,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA3_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -9310,9 +8487,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA4_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -9347,9 +8524,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA4_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -9372,9 +8549,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA4_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -9409,9 +8586,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA4_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -9434,9 +8611,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA4_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9471,9 +8648,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA4_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9508,9 +8685,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA5_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -9563,9 +8740,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA5_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -9597,9 +8774,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA5_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -9652,9 +8829,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA5_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -9686,9 +8863,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA5_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9750,9 +8927,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA5_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9783,9 +8960,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA5_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9847,9 +9024,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA5_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9880,9 +9057,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA6_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -9916,9 +9093,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA6_ARR_P1_CTA",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -9952,9 +9129,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA6_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -9984,9 +9161,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA6_DEP_P1_CTA",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -10016,9 +9193,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA7_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -10060,9 +9237,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA7_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -10104,9 +9281,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA7_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -10139,9 +9316,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA7_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -10174,9 +9351,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA9_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -10222,9 +9399,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA9_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -10288,9 +9465,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_ARR_CTA_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -10323,9 +9500,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_ARR_CTA_P4",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -10365,9 +9542,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR24_TMA9_ARR_CTA_P5",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -10427,9 +9604,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -10550,9 +9727,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_CTA_N869_N",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -10578,9 +9755,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_CTA_N869_W",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -10608,9 +9785,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -10663,9 +9840,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -10713,9 +9890,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_DEP_CTA_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -10783,9 +9960,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -10846,9 +10023,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -10901,9 +10078,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_DEP_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -10948,9 +10125,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_N869_N",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKAA_N_CTR",
 					"LKAA_CTR",
@@ -10974,9 +10151,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_N869_NL",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -10999,9 +10176,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_N869_W",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKAA_W_CTR",
 					"LKAA_CTR",
@@ -11027,9 +10204,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR24_TMA9_N869_WL",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -11057,9 +10234,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA1_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -11140,9 +10317,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA1_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -11187,9 +10364,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA1_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -11270,9 +10447,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA1_ARR_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -11317,9 +10494,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA2_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -11359,9 +10536,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA2_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -11416,9 +10593,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA2_ARR_CTA_P3",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -11461,9 +10638,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA2_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -11510,9 +10687,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA2_ARR_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -11562,9 +10739,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA2_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -11594,9 +10771,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA2_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -11632,9 +10809,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA2_DEP_CTA_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -11660,9 +10837,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA2_DEP_CTA_P4",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -11685,9 +10862,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA2_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -11723,9 +10900,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA2_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -11750,9 +10927,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA2_DEP_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -11778,9 +10955,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA2_DEP_P4",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -11810,9 +10987,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA3_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -11871,9 +11048,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA4_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -11922,9 +11099,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA4_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -11950,9 +11127,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA4_ARR_CTA_P3",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -11985,9 +11162,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA4_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -12027,9 +11204,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA4_ARR_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -12055,9 +11232,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA4_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12092,9 +11269,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA4_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12122,9 +11299,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA4_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12157,9 +11334,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA5_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -12194,9 +11371,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA5_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -12231,9 +11408,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA5_ARR_CTA_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -12266,9 +11443,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA5_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -12303,9 +11480,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA5_ARR_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -12340,9 +11517,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA5_ARR_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -12375,9 +11552,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA5_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12432,9 +11609,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA5_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12470,9 +11647,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA5_DEP_CTA_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12504,9 +11681,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA5_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12561,9 +11738,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA5_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12599,9 +11776,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA5_DEP_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12633,9 +11810,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA6_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -12667,9 +11844,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA6_ARR_P1_CTA",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -12701,9 +11878,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA6_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12735,9 +11912,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA6_DEP_P1_CTA",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12769,9 +11946,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA7_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -12818,9 +11995,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA7_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -12844,9 +12021,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA7_ARR_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -12893,9 +12070,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA7_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12932,9 +12109,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA7_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12967,9 +12144,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA7_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -12999,9 +12176,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA9_ARR_CTA_P1",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -13047,9 +12224,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA9_ARR_CTA_P2",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -13089,9 +12266,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_ARR_CTA_P3",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -13126,9 +12303,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_ARR_CTA_P4",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -13168,9 +12345,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_ARR_CTA_P5",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -13200,9 +12377,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR30_TMA9_ARR_CTA_P6",
-				"group":"LKPR",
+				"group":"FIN",
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -13262,9 +12439,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_ARR_P1",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -13377,9 +12554,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_CTA_N869_N",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -13405,9 +12582,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_CTA_N869_W",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -13435,9 +12612,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_DEP_CTA_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13490,9 +12667,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_DEP_CTA_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13541,9 +12718,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_DEP_CTA_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13608,9 +12785,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_DEP_CTA_P4",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13647,9 +12824,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_DEP_P1",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13707,9 +12884,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_DEP_P2",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13747,9 +12924,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_DEP_P3",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13803,9 +12980,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_DEP_P4",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13850,9 +13027,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_N869_N",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKAA_N_CTR",
 					"LKAA_CTR",
@@ -13876,9 +13053,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_N869_NL",
-				"group":"LKPR",
+				"group":"DEP",
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13901,9 +13078,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_N869_W",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKAA_W_CTR",
 					"LKAA_CTR",
@@ -13929,9 +13106,9 @@
 				]
 			},
 			{
-				"id":"LKPR TMA",
+				"id":"Praha",
 				"remark":"LKPR30_TMA9_N869_WL",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKKV_APP",
 					"LKAA_APP",
@@ -13959,9 +13136,9 @@
 				]
 			},
 			{
-				"id":"LKPR CTR",
+				"id":"Praha Ruzyně",
 				"remark":"LKPR_CTR",
-				"group":"LKPR",
+				"group":"TWR",
 				"owner":[
 					"LKPR_TWR",
 					"LKPR_D_APP",
@@ -14043,9 +13220,9 @@
 				]
 			},
 			{
-				"id":"LKPR HDO",
+				"id":"Praha",
 				"remark":"LKPR_HDO",
-				"group":"LKPR",
+				"group":"APP",
 				"owner":[
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -14117,9 +13294,9 @@
 
 
 			{
-				"id":"LKTB CTR",
+				"id":"Brno Tuřany",
 				"remark":"LKTB_CTR",
-				"group":"LKTB",
+				"group":"TWR",
 				"owner":[
 					"LKTB_TWR",
 					"LKTB_APP",
@@ -14170,9 +13347,9 @@
 				]
 			},
 			{
-				"id":"LKTB TMA",
+				"id":"Brno Tuřany",
 				"remark":"LKTB_TMA1",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -14212,9 +13389,9 @@
 				]
 			},
 			{
-				"id":"LKTB TMA",
+				"id":"Brno Tuřany",
 				"remark":"LKTB_TMA2",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -14249,9 +13426,9 @@
 				]
 			},
 			{
-				"id":"LKTB TMA",
+				"id":"Brno Tuřany",
 				"remark":"LKTB_TMA3",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -14280,9 +13457,9 @@
 				]
 			},
 			{
-				"id":"LKTB TMA",
+				"id":"Brno Tuřany",
 				"remark":"LKTB_TMA4",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -14307,9 +13484,9 @@
 				]
 			},
 			{
-				"id":"LKTB TMA",
+				"id":"Brno Tuřany",
 				"remark":"LKTB_TMA5",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -14336,9 +13513,9 @@
 				]
 			},
 			{
-				"id":"LKTB TMA",
+				"id":"Brno Tuřany",
 				"remark":"LKTB_TMA6",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -14364,9 +13541,9 @@
 				]
 			},
 			{
-				"id":"LKTB TMA",
+				"id":"Brno Tuřany",
 				"remark":"LKTB_TMA7",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -14391,9 +13568,9 @@
 				]
 			},
 			{
-				"id":"LKTB TMA",
+				"id":"Brno Tuřany",
 				"remark":"LKTB_TMA8",
-				"group":"LKTB",
+				"group":"APP",
 				"owner":[
 					"LKTB_APP",
 					"LKAA_APP",
@@ -14416,9 +13593,9 @@
 
 
 			{
-				"id":"LKVO CTR",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_CTR_06-12",
-				"group":"LKVO",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14447,9 +13624,9 @@
 				]
 			},
 			{
-				"id":"LKVO CTR",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_CTR_06-12",
-				"group":"LKVO CTR",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14478,9 +13655,9 @@
 				]
 			},
 			{
-				"id":"LKVO CTR",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_CTR_24-30",
-				"group":"LKVO",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14509,9 +13686,9 @@
 				]
 			},
 			{
-				"id":"LKVO CTR",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_CTR_24-30",
-				"group":"LKVO CTR",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14542,9 +13719,9 @@
 
 
 			{
-				"id":"LKVO TMA",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_TMA1_06-12",
-				"group":"LKVO",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14600,9 +13777,9 @@
 				]
 			},
 			{
-				"id":"LKVO TMA",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_TMA1_06-12",
-				"group":"LKVO TMA",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14658,9 +13835,9 @@
 				]
 			},
 			{
-				"id":"LKVO TMA",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_TMA1_24-30",
-				"group":"LKVO",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14716,9 +13893,9 @@
 				]
 			},
 			{
-				"id":"LKVO TMA",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_TMA1_24-30",
-				"group":"LKVO TMA",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14776,9 +13953,9 @@
 
 
 			{
-				"id":"LKVO TMA",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_TMA2_06-12",
-				"group":"LKVO",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14807,9 +13984,9 @@
 				]
 			},
 			{
-				"id":"LKVO TMA",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_TMA2_06-12",
-				"group":"LKVO TMA",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14838,9 +14015,9 @@
 				]
 			},
 			{
-				"id":"LKVO TMA",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_TMA2_24-30",
-				"group":"LKVO",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14869,9 +14046,9 @@
 				]
 			},
 			{
-				"id":"LKVO TMA",
+				"id":"Praha Vodochody",
 				"remark":"LKVO_TMA2_24-30",
-				"group":"LKVO TMA",
+				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
 					"LKKB_TWR",
@@ -14900,8 +14077,8 @@
 				]
 			},
 			{
-				"id":"N1H",
-				"remark":"N1H",
+				"id":"North Top (NT)",
+				"remark":"N1T",
 				"group":"ACC",
 				"owner":[
 					"LKAA_U_CTR",
@@ -14913,6 +14090,158 @@
 				"sectors":[
 					{
 						"max":659,
+						"min":375,
+						"points":[
+							["504403", "0134603"],
+							["505957", "0144331"],
+							["505926", "0145501"],
+							["505900", "0150009"],
+							["505939", "0145819"],
+							["510120", "0150109"],
+							["505944", "0150802"],
+							["510111", "0151014"],
+							["505854", "0151108"],
+							["505952", "0151425"],
+							["505705", "0151726"],
+							["505432", "0151620"],
+							["504828", "0152227"],
+							["504636", "0152256"],
+							["504827", "0152640"],
+							["504718", "0152946"],
+							["504418", "0154439"],
+							["504513", "0154902"],
+							["504026", "0155155"],
+							["504122", "0155826"],
+							["503748", "0160116"],
+							["503649", "0155910"],
+							["503555", "0160127"],
+							["503948", "0160613"],
+							["503754", "0161206"],
+							["504017", "0161407"],
+							["503924", "0162040"],
+							["503519", "0162625"],
+							["503154", "0162357"],
+							["502606", "0161155"],
+							["502208", "0161719"],
+							["502257", "0161821"],
+							["502235", "0162149"],
+							["502123", "0162153"],
+							["501523", "0163013"],
+							["501533", "0170058"],
+							["501611", "0170102"],
+							["502453", "0165154"],
+							["502655", "0165421"],
+							["502230", "0171156"],
+							["501912", "0171642"],
+							["501931", "0172100"],
+							["501550", "0172056"],
+							["501657", "0172254"],
+							["501509", "0172635"],
+							["501523", "0172657"],
+							["500900", "0173531"],
+							["494904", "0162444"],
+							["495110", "0155418"],
+							["495212", "0154016"],
+							["495427", "0150726"],
+							["495732", "0142801"],
+							["495847", "0140344"],
+							["502827", "0135022"],
+							["503130", "0134900"],
+							["503548", "0134759"]
+						]
+					}
+				]
+			},
+			{
+				"id":"North High (NH)",
+				"remark":"N1H",
+				"group":"ACC",
+				"owner":[
+					"LKAA_U_CTR",
+					"LKAA_N_CTR",
+					"LKAA_CTR",
+					"EURE_FSS",
+					"EURM-E_CTR"
+				],
+				"sectors":[
+					{
+						"max":374,
+						"min":355,
+						"points":[
+							["504403", "0134603"],
+							["505957", "0144331"],
+							["505926", "0145501"],
+							["505900", "0150009"],
+							["505939", "0145819"],
+							["510120", "0150109"],
+							["505944", "0150802"],
+							["510111", "0151014"],
+							["505854", "0151108"],
+							["505952", "0151425"],
+							["505705", "0151726"],
+							["505432", "0151620"],
+							["504828", "0152227"],
+							["504636", "0152256"],
+							["504827", "0152640"],
+							["504718", "0152946"],
+							["504418", "0154439"],
+							["504513", "0154902"],
+							["504026", "0155155"],
+							["504122", "0155826"],
+							["503748", "0160116"],
+							["503649", "0155910"],
+							["503555", "0160127"],
+							["503948", "0160613"],
+							["503754", "0161206"],
+							["504017", "0161407"],
+							["503924", "0162040"],
+							["503519", "0162625"],
+							["503154", "0162357"],
+							["502606", "0161155"],
+							["502208", "0161719"],
+							["502257", "0161821"],
+							["502235", "0162149"],
+							["502123", "0162153"],
+							["501523", "0163013"],
+							["501533", "0170058"],
+							["501611", "0170102"],
+							["502453", "0165154"],
+							["502655", "0165421"],
+							["502230", "0171156"],
+							["501912", "0171642"],
+							["501931", "0172100"],
+							["501550", "0172056"],
+							["501657", "0172254"],
+							["501509", "0172635"],
+							["501523", "0172657"],
+							["500900", "0173531"],
+							["494904", "0162444"],
+							["495110", "0155418"],
+							["495212", "0154016"],
+							["495427", "0150726"],
+							["495732", "0142801"],
+							["495847", "0140344"],
+							["502827", "0135022"],
+							["503130", "0134900"],
+							["503548", "0134759"]
+						]
+					}
+				]
+			},
+			{
+				"id":"North Middle (NM)",
+				"remark":"N1M",
+				"group":"ACC",
+				"owner":[
+					"LKAA_U_CTR",
+					"LKAA_N_CTR",
+					"LKAA_CTR",
+					"EURE_FSS",
+					"EURM-E_CTR"
+				],
+				"sectors":[
+					{
+						"max":354,
 						"min":305,
 						"points":[
 							["504403", "0134603"],
@@ -14976,7 +14305,7 @@
 				]
 			},
 			{
-				"id":"N1L",
+				"id":"North Low (NL)",
 				"remark":"N1L",
 				"group":"ACC",
 				"owner":[
@@ -15083,7 +14412,7 @@
 				]
 			},
 			{
-				"id":"N1L",
+				"id":"North Low (NL)",
 				"remark":"N1L",
 				"group":"ACC",
 				"owner":[
@@ -15165,8 +14494,8 @@
 				]
 			},
 			{
-				"id":"N2H",
-				"remark":"N2H",
+				"id":"North Top (NT)",
+				"remark":"N2T",
 				"group":"ACC",
 				"owner":[
 					"LKAA_U_CTR",
@@ -15178,6 +14507,80 @@
 				"sectors":[
 					{
 						"max":659,
+						"min":375,
+						"points":[
+							["500900", "0173531"],
+							["500911", "0173615"],
+							["500354", "0174533"],
+							["500112", "0174705"],
+							["495834", "0175154"],
+							["495927", "0175556"],
+							["500057", "0180246"],
+							["500313", "0180021"],
+							["500333", "0180342"],
+							["500245", "0180509"],
+							["495949", "0180742"],
+							["495926", "0181241"],
+							["495505", "0181925"],
+							["495644", "0182035"],
+							["495447", "0182825"],
+							["494150", "0180222"],
+							["494904", "0162444"]
+						]
+					}
+				]
+			},
+			{
+				"id":"North High (NH)",
+				"remark":"N2H",
+				"group":"ACC",
+				"owner":[
+					"LKAA_U_CTR",
+					"LKAA_N_CTR",
+					"LKAA_CTR",
+					"EURE_FSS",
+					"EURM-E_CTR"
+				],
+				"sectors":[
+					{
+						"max":374,
+						"min":355,
+						"points":[
+							["500900", "0173531"],
+							["500911", "0173615"],
+							["500354", "0174533"],
+							["500112", "0174705"],
+							["495834", "0175154"],
+							["495927", "0175556"],
+							["500057", "0180246"],
+							["500313", "0180021"],
+							["500333", "0180342"],
+							["500245", "0180509"],
+							["495949", "0180742"],
+							["495926", "0181241"],
+							["495505", "0181925"],
+							["495644", "0182035"],
+							["495447", "0182825"],
+							["494150", "0180222"],
+							["494904", "0162444"]
+						]
+					}
+				]
+			},
+			{
+				"id":"North Middle (NM)",
+				"remark":"N2M",
+				"group":"ACC",
+				"owner":[
+					"LKAA_U_CTR",
+					"LKAA_N_CTR",
+					"LKAA_CTR",
+					"EURE_FSS",
+					"EURM-E_CTR"
+				],
+				"sectors":[
+					{
+						"max":354,
 						"min":305,
 						"points":[
 							["500900", "0173531"],
@@ -15202,7 +14605,7 @@
 				]
 			},
 			{
-				"id":"N2L",
+				"id":"North Low (NL)",
 				"remark":"N2L",
 				"group":"ACC",
 				"owner":[
@@ -15257,7 +14660,7 @@
 				]
 			},
 			{
-				"id":"N3L",
+				"id":"North Low (NL)",
 				"remark":"N3L",
 				"group":"ACC",
 				"owner":[
@@ -15285,7 +14688,7 @@
 				]
 			},
 			{
-				"id":"N4L",
+				"id":"North Low (NL)",
 				"remark":"N4L",
 				"group":"ACC",
 				"owner":[
@@ -15311,9 +14714,9 @@
 				]
 			},
 			{
-				"id":"OVA CTA",
+				"id":"Ostrava (MT)",
 				"remark":"OVA_CTA_CVPD",
-				"group":"OVA",
+				"group":"ACC",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -15349,9 +14752,9 @@
 				]
 			},
 			{
-				"id":"OVA CTA",
+				"id":"Ostrava (MT)",
 				"remark":"OVA_CTA_E",
-				"group":"OVA",
+				"group":"ACC",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -15383,44 +14786,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_E_INFO",
-				"group":"OVA",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":2,
-						"min":0,
-						"points":[
-							["494536", "0183627"],
-							["494320", "0183737"],
-							["493958", "0184825"],
-							["493102", "0185103"],
-							["492943", "0184335"],
-							["493024", "0183352"],
-							["492644", "0183046"],
-							["492335", "0182649"],
-							["492349", "0182510"],
-							["491936", "0182214"],
-							["491818", "0181616"],
-							["492217", "0174702"],
-							["492253", "0174757"],
-							["492639", "0175855"],
-							["492555", "0180432"]
-						]
-					}
-				]
-			},
-			{
-				"id":"OVA CTA",
+				"id":"Ostrava (MT)",
 				"remark":"OVA_CTA_HDO",
-				"group":"OVA",
+				"group":"ACC",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -15477,69 +14845,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_HDO_INFO",
-				"group":"OVA",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":2,
-						"min":0,
-						"points":[
-							["503548", "0134759"],
-							["504403", "0134603"],
-							["505957", "0144331"],
-							["505926", "0145501"],
-							["505213", "0144923"],
-							["505212", "0150007"],
-							["505848", "0150042"],
-							["505900", "0150009"],
-							["505939", "0145819"],
-							["510120", "0150109"],
-							["505944", "0150802"],
-							["510111", "0151014"],
-							["505854", "0151108"],
-							["505952", "0151425"],
-							["505705", "0151726"],
-							["505432", "0151620"],
-							["504828", "0152227"],
-							["504636", "0152256"],
-							["504827", "0152640"],
-							["504718", "0152946"],
-							["504418", "0154439"],
-							["504513", "0154902"],
-							["504026", "0155155"],
-							["502105", "0150503"],
-							["502208", "0150413"],
-							["502355", "0150239"],
-							["502538", "0150055"],
-							["502717", "0145902"],
-							["502851", "0145700"],
-							["503021", "0145449"],
-							["503146", "0145231"],
-							["503305", "0145004"],
-							["503440", "0144640"],
-							["503527", "0144450"],
-							["503554", "0144337"],
-							["503628", "0144203"],
-							["503610", "0141806"],
-							["503607", "0141310"],
-							["503605", "0141057"],
-							["503552", "0135355"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKCV MTMA",
+				"id":"Čáslav",
 				"remark":"OVA_CTA_LKCV_MTMA1_P1",
-				"group":"LKCV",
+				"group":"APP",
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
@@ -15567,40 +14875,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKCV_MTMA1_P1I",
-				"group":"LKCV",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKCV_APP",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["501108", "0150949"],
-							["501108", "0152255"],
-							["500906", "0152252"],
-							["500322", "0152425"],
-							["500610", "0151436"],
-							["500336", "0151018"],
-							["500426", "0151024"],
-							["500628", "0151026"],
-							["500830", "0151018"],
-							["501032", "0150958"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKCV MTMA",
+				"id":"Čáslav",
 				"remark":"OVA_CTA_LKCV_MTMA1_P2",
-				"group":"LKCV",
+				"group":"APP",
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
@@ -15622,34 +14899,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKCV_MTMA1_P2I",
-				"group":"LKCV",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKCV_APP",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["500016", "0151141"],
-							["495950", "0150935"],
-							["500022", "0150945"],
-							["500127", "0150958"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKCV MTMA",
+				"id":"Čáslav",
 				"remark":"OVA_CTA_LKCV_MTMA2",
-				"group":"LKCV",
+				"group":"APP",
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
@@ -15678,41 +14930,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKCV_MTMA2_INF",
-				"group":"LKCV",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKCV_APP",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["500016", "0151141"],
-							["495605", "0151204"],
-							["494931", "0152127"],
-							["494638", "0153113"],
-							["494421", "0152722"],
-							["495316", "0150645"],
-							["495337", "0150657"],
-							["495427", "0150726"],
-							["495624", "0150823"],
-							["495822", "0150909"],
-							["495950", "0150935"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKCV MTMA",
+				"id":"Čáslav",
 				"remark":"OVA_CTA_LKCV_MTMA3",
-				"group":"LKCV",
+				"group":"APP",
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
@@ -15743,43 +14963,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKCV_MTMA3_INF",
-				"group":"LKCV",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKCV_APP",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["494421", "0152722"],
-							["494638", "0153113"],
-							["495017", "0153723"],
-							["495547", "0153511"],
-							["495212", "0154016"],
-							["495038", "0154229"],
-							["494609", "0155058"],
-							["493632", "0153925"],
-							["494717", "0151430"],
-							["495110", "0150522"],
-							["495159", "0150556"],
-							["495248", "0150628"],
-							["495316", "0150645"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKMT MTMA",
+				"id":"Ostrava Mošnov",
 				"remark":"OVA_CTA_LKMT_TMA1",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -15836,69 +15022,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKMT_TMA1_INFO",
-				"group":"LKMT",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["495926", "0181241"],
-							["494519", "0174947"],
-							["493738", "0174904"],
-							["493500", "0174419"],
-							["493349", "0174510"],
-							["493132", "0174739"],
-							["492934", "0175042"],
-							["492758", "0175414"],
-							["492648", "0175807"],
-							["492639", "0175855"],
-							["492801", "0180106"],
-							["493219", "0175633"],
-							["493323", "0175813"],
-							["493658", "0175256"],
-							["493915", "0175635"],
-							["494025", "0175601"],
-							["494138", "0175549"],
-							["494251", "0175557"],
-							["494402", "0175624"],
-							["494509", "0175710"],
-							["494609", "0175813"],
-							["494702", "0175932"],
-							["494745", "0180103"],
-							["494817", "0180245"],
-							["494838", "0180434"],
-							["494845", "0180626"],
-							["494840", "0180819"],
-							["494811", "0181053"],
-							["495030", "0181445"],
-							["494637", "0182030"],
-							["494416", "0181642"],
-							["494104", "0182159"],
-							["494848", "0183447"],
-							["494955", "0183412"],
-							["495017", "0183432"],
-							["495522", "0183301"],
-							["495358", "0183142"],
-							["495447", "0182825"],
-							["495644", "0182035"],
-							["495505", "0181925"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKMT MTMA",
+				"id":"Ostrava Mošnov",
 				"remark":"OVA_CTA_LKMT_TMA2",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -15921,35 +15047,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKMT_TMA2_INFO",
-				"group":"LKMT",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["492639", "0175855"],
-							["492801", "0180106"],
-							["494104", "0182159"],
-							["494848", "0183447"],
-							["494536", "0183627"],
-							["492555", "0180432"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKMT MTMA",
+				"id":"Ostrava Mošnov",
 				"remark":"OVA_CTA_LKMT_TMA3",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -15978,41 +15078,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKMT_TMA3_INFO",
-				"group":"LKMT",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["500022", "0174700"],
-							["494224", "0174508"],
-							["494519", "0174947"],
-							["495926", "0181241"],
-							["495949", "0180742"],
-							["500245", "0180509"],
-							["500333", "0180342"],
-							["500313", "0180021"],
-							["500057", "0180246"],
-							["495927", "0175556"],
-							["495834", "0175154"],
-							["500112", "0174705"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKMT MTMA",
+				"id":"Ostrava Mošnov",
 				"remark":"OVA_CTA_LKMT_TMA4",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -16039,39 +15107,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKMT_TMA4_INFO",
-				"group":"LKMT",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["493500", "0174419"],
-							["493349", "0174510"],
-							["493132", "0174739"],
-							["492934", "0175042"],
-							["492758", "0175414"],
-							["492648", "0175807"],
-							["492639", "0175855"],
-							["492253", "0174757"],
-							["493123", "0173500"],
-							["493413", "0173740"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKMT MTMA",
+				"id":"Ostrava Mošnov",
 				"remark":"OVA_CTA_LKMT_TMA5",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -16098,39 +15136,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKMT_TMA5_INFO",
-				"group":"LKMT",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["492253", "0174757"],
-							["493123", "0173500"],
-							["493413", "0173740"],
-							["493322", "0173239"],
-							["493325", "0173151"],
-							["493339", "0172609"],
-							["492912", "0172558"],
-							["492729", "0172900"],
-							["492349", "0173529"],
-							["492217", "0174702"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKMT MTMA",
+				"id":"Ostrava Mošnov",
 				"remark":"OVA_CTA_LKMT_TMA6",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -16166,48 +15174,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKMT_TMA6_INFO",
-				"group":"LKMT",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["493305", "0175840"],
-							["493521", "0180219"],
-							["493451", "0180457"],
-							["493446", "0180650"],
-							["493453", "0180843"],
-							["493513", "0181031"],
-							["493546", "0181213"],
-							["493629", "0181345"],
-							["493721", "0181503"],
-							["493822", "0181606"],
-							["493929", "0181652"],
-							["494040", "0181720"],
-							["494153", "0181728"],
-							["494306", "0181716"],
-							["494416", "0181642"],
-							["494104", "0182159"],
-							["492801", "0180106"],
-							["493219", "0175633"],
-							["493323", "0175813"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKMT MTMA",
+				"id":"Ostrava Mošnov",
 				"remark":"OVA_CTA_LKMT_TMA7",
-				"group":"LKMT",
+				"group":"APP",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -16228,33 +15197,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKMT_TMA7_INFO",
-				"group":"LKMT",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["493738", "0174904"],
-							["493500", "0174419"],
-							["494224", "0174508"],
-							["494519", "0174947"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKPD MTMA",
+				"id":"Pardubice",
 				"remark":"OVA_CTA_LKPD_MTMA1",
-				"group":"LKPD",
+				"group":"APP",
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
@@ -16284,42 +15229,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKPD_MTMA1_INF",
-				"group":"LKPD",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKPD_APP",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["500906", "0152252"],
-							["500848", "0154424"],
-							["500815", "0155805"],
-							["500749", "0160359"],
-							["500110", "0160451"],
-							["495454", "0160231"],
-							["495516", "0155046"],
-							["495734", "0160052"],
-							["500258", "0160116"],
-							["500559", "0155133"],
-							["500620", "0153744"],
-							["500322", "0152425"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKPD MTMA",
+				"id":"Pardubice",
 				"remark":"OVA_CTA_LKPD_MTMA2",
-				"group":"LKPD",
+				"group":"APP",
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
@@ -16346,39 +15258,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKPD_MTMA2_INF",
-				"group":"LKPD",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKPD_APP",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["495055", "0154834"],
-							["495547", "0153511"],
-							["495516", "0155046"],
-							["495454", "0160231"],
-							["500110", "0160451"],
-							["500749", "0160359"],
-							["500631", "0162158"],
-							["495214", "0161847"],
-							["495110", "0155418"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKPD MTMA",
+				"id":"Pardubice",
 				"remark":"OVA_CTA_LKPD_MTMA3",
-				"group":"LKPD",
+				"group":"APP",
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
@@ -16400,34 +15282,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTA_LKPD_MTMA3_INF",
-				"group":"LKPD",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKPD_APP",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["495038", "0154229"],
-							["495055", "0154834"],
-							["495547", "0153511"],
-							["495212", "0154016"]
-						]
-					}
-				]
-			},
-			{
-				"id":"OVA CTA",
+				"id":"Ostrava (MT)",
 				"remark":"OVA_CTA_U",
-				"group":"OVA",
+				"group":"ACC",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -16476,9 +15333,9 @@
 				]
 			},
 			{
-				"id":"OVA CTA",
+				"id":"Ostrava (MT)",
 				"remark":"OVA_CTA_W",
-				"group":"OVA",
+				"group":"ACC",
 				"owner":[
 					"LKMT_APP",
 					"LKAA_APP",
@@ -16565,178 +15422,9 @@
 				]
 			},
 			{
-				"id":"OVA INFO",
-				"remark":"OVA_CTR_W_INFO",
-				"group":"OVA",
-				"owner":[
-					"LKAA_I_CTR",
-					"LKMT_APP",
-					"LKAA_APP",
-					"LKAA_N_CTR",
-					"LKAA_CTR"
-				],
-				"sectors":[
-					{
-						"max":2,
-						"min":0,
-						"points":[
-							["492912", "0172558"],
-							["494048", "0163737"],
-							["494231", "0163305"],
-							["494904", "0162444"],
-							["495110", "0155418"],
-							["495214", "0161847"],
-							["500631", "0162158"],
-							["500749", "0160359"],
-							["500815", "0155805"],
-							["500848", "0154424"],
-							["500906", "0152252"],
-							["501108", "0152255"],
-							["501108", "0150949"],
-							["501233", "0150928"],
-							["501432", "0150846"],
-							["501630", "0150754"],
-							["501825", "0150651"],
-							["502018", "0150537"],
-							["502105", "0150503"],
-							["504026", "0155155"],
-							["504122", "0155826"],
-							["503748", "0160116"],
-							["503649", "0155910"],
-							["503555", "0160127"],
-							["503948", "0160613"],
-							["503754", "0161206"],
-							["504017", "0161407"],
-							["503924", "0162040"],
-							["503519", "0162625"],
-							["503154", "0162357"],
-							["502606", "0161155"],
-							["502208", "0161719"],
-							["502257", "0161821"],
-							["502235", "0162149"],
-							["502123", "0162153"],
-							["501523", "0163013"],
-							["501303", "0163325"],
-							["500940", "0163402"],
-							["500748", "0163744"],
-							["500554", "0164130"],
-							["501214", "0165115"],
-							["501415", "0165851"],
-							["501307", "0170043"],
-							["501533", "0170058"],
-							["501611", "0170102"],
-							["502453", "0165154"],
-							["502655", "0165421"],
-							["502230", "0171156"],
-							["501912", "0171642"],
-							["501931", "0172100"],
-							["501550", "0172056"],
-							["501657", "0172254"],
-							["501509", "0172635"],
-							["501523", "0172657"],
-							["501608", "0172802"],
-							["501621", "0173804"],
-							["501933", "0174148"],
-							["501803", "0174442"],
-							["501218", "0174453"],
-							["500935", "0173533"],
-							["500911", "0173615"],
-							["500354", "0174533"],
-							["500112", "0174705"],
-							["500022", "0174700"],
-							["494224", "0174508"],
-							["493500", "0174419"],
-							["493413", "0173740"],
-							["493322", "0173239"],
-							["493325", "0173151"],
-							["493339", "0172609"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKKB_MTMA1_INF",
-				"group":"LKKB",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["500905", "0144943"],
-							["501328", "0144741"],
-							["501133", "0144117"],
-							["501313", "0144155"],
-							["501455", "0144702"],
-							["501433", "0145219"],
-							["501125", "0145050"],
-							["501104", "0145040"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKKB_MTMA2_INF",
-				"group":"LKKB",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["501433", "0145219"],
-							["501409", "0145728"],
-							["501325", "0145755"],
-							["501240", "0145814"],
-							["501154", "0145831"],
-							["501106", "0145845"],
-							["501022", "0145858"],
-							["500936", "0145909"],
-							["500850", "0145918"],
-							["500803", "0145924"],
-							["500716", "0145929"],
-							["500630", "0145932"],
-							["500543", "0145932"],
-							["500456", "0145931"],
-							["500410", "0145928"],
-							["500323", "0145922"],
-							["500236", "0145915"],
-							["500150", "0145905"],
-							["500104", "0145854"],
-							["500018", "0145840"],
-							["495932", "0145825"],
-							["495847", "0145807"],
-							["495802", "0145748"],
-							["495717", "0145726"],
-							["495633", "0145703"],
-							["495527", "0145624"],
-							["495503", "0145603"],
-							["495401", "0145527"],
-							["495302", "0145442"],
-							["495204", "0145354"],
-							["495109", "0145257"],
-							["495259", "0144915"],
-							["495419", "0144632"],
-							["495847", "0143727"],
-							["500147", "0144102"],
-							["500259", "0144227"],
-							["500905", "0144943"],
-							["501104", "0145040"],
-							["501125", "0145050"]
-						]
-					}
-				]
-			},
-			{
-				"id":"LKKB TMA",
+				"id":"Praha Kbely",
 				"remark":"PHA_CTA_LKKB_TMA2_0612",
-				"group":"LKKB",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -16797,9 +15485,9 @@
 				]
 			},
 			{
-				"id":"LKKB TMA",
+				"id":"Praha Kbely",
 				"remark":"PHA_CTA_LKKB_TMA2_0612",
-				"group":"LKKB TMA",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -16860,9 +15548,9 @@
 				]
 			},
 			{
-				"id":"LKKB TMA",
+				"id":"Praha Kbely",
 				"remark":"PHA_CTA_LKKB_TMA2_2430",
-				"group":"LKKB",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -16923,9 +15611,9 @@
 				]
 			},
 			{
-				"id":"LKKB TMA",
+				"id":"Praha Kbely",
 				"remark":"PHA_CTA_LKKB_TMA2_2430",
-				"group":"LKKB TMA",
+				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
 					"LKVO_TWR",
@@ -16986,806 +15674,7 @@
 				]
 			},
 			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKPR_TMA1_INFO",
-				"group":"LKPR",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["501502", "0140408"],
-							["501412", "0140934"],
-							["501402", "0141032"],
-							["501350", "0140950"],
-							["501335", "0140904"],
-							["501319", "0140822"],
-							["501301", "0140741"],
-							["501242", "0140702"],
-							["501222", "0140625"],
-							["501200", "0140550"],
-							["501155", "0140544"],
-							["501136", "0140517"],
-							["501112", "0140446"],
-							["501046", "0140418"],
-							["501020", "0140351"],
-							["500952", "0140328"],
-							["500924", "0140306"],
-							["500902", "0140254"],
-							["500637", "0140757"],
-							["500452", "0140158"],
-							["500422", "0140204"],
-							["500352", "0140213"],
-							["500322", "0140224"],
-							["500253", "0140238"],
-							["500225", "0140254"],
-							["500157", "0140313"],
-							["500130", "0140334"],
-							["500103", "0140358"],
-							["500038", "0140425"],
-							["500142", "0140801"],
-							["500120", "0140829"],
-							["500101", "0140859"],
-							["500043", "0140931"],
-							["500026", "0141005"],
-							["500011", "0141041"],
-							["495957", "0141119"],
-							["495946", "0141158"],
-							["495936", "0141238"],
-							["495928", "0141319"],
-							["495922", "0141400"],
-							["495917", "0141443"],
-							["495915", "0141526"],
-							["495915", "0141609"],
-							["495916", "0141651"],
-							["495920", "0141734"],
-							["495925", "0141816"],
-							["495933", "0141857"],
-							["495940", "0141930"],
-							["495942", "0141938"],
-							["495953", "0142017"],
-							["500006", "0142055"],
-							["500001", "0142131"],
-							["495933", "0142458"],
-							["495953", "0142530"],
-							["500017", "0142604"],
-							["500043", "0142636"],
-							["500110", "0142705"],
-							["500139", "0142731"],
-							["500208", "0142754"],
-							["500238", "0142815"],
-							["500310", "0142830"],
-							["500111", "0143233"],
-							["500058", "0143301"],
-							["500002", "0143221"],
-							["495909", "0143131"],
-							["495819", "0143035"],
-							["495732", "0142932"],
-							["495649", "0142822"],
-							["495703", "0142548"],
-							["495712", "0142357"],
-							["495734", "0141936"],
-							["495749", "0141641"],
-							["495902", "0140230"],
-							["495913", "0140017"],
-							["500045", "0135856"],
-							["500223", "0135759"],
-							["500406", "0135724"],
-							["500551", "0135714"],
-							["500736", "0135727"],
-							["500919", "0135804"],
-							["500955", "0135826"],
-							["501057", "0135904"],
-							["501228", "0140026"],
-							["501324", "0140133"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKPR_TMA2_P1_I",
-				"group":"LKPR",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["501433", "0145219"],
-							["501548", "0145138"],
-							["501701", "0145045"],
-							["501812", "0144945"],
-							["501920", "0144840"],
-							["502026", "0144730"],
-							["502128", "0144610"],
-							["502155", "0144355"],
-							["502308", "0143745"],
-							["502324", "0143620"],
-							["502251", "0143729"],
-							["502216", "0143835"],
-							["502139", "0143939"],
-							["502100", "0144040"],
-							["502019", "0144138"],
-							["501937", "0144234"],
-							["501853", "0144327"],
-							["501808", "0144417"],
-							["501722", "0144504"],
-							["501635", "0144548"],
-							["501546", "0144628"],
-							["501455", "0144702"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKPR_TMA2_P2_I",
-				"group":"LKPR",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["495259", "0144915"],
-							["495131", "0144750"],
-							["495118", "0144737"],
-							["494943", "0144544"],
-							["494832", "0144359"],
-							["494816", "0144337"],
-							["494828", "0143934"],
-							["494853", "0143027"],
-							["494855", "0142939"],
-							["494928", "0141759"],
-							["494933", "0141554"],
-							["494937", "0141433"],
-							["495008", "0140310"],
-							["495013", "0140125"],
-							["495014", "0140102"],
-							["495027", "0135549"],
-							["495218", "0135251"],
-							["495315", "0134221"],
-							["495323", "0134214"],
-							["495503", "0134047"],
-							["495509", "0134043"],
-							["495512", "0134041"],
-							["495656", "0133932"],
-							["495854", "0133837"],
-							["500536", "0134451"],
-							["500610", "0134452"],
-							["500629", "0134453"],
-							["500747", "0134455"],
-							["500958", "0134527"],
-							["501117", "0134559"],
-							["501235", "0134640"],
-							["501408", "0134737"],
-							["501605", "0134913"],
-							["501755", "0135109"],
-							["501935", "0135324"],
-							["502105", "0135555"],
-							["502224", "0135841"],
-							["502331", "0140140"],
-							["501741", "0140322"],
-							["501502", "0140408"],
-							["501324", "0140133"],
-							["501228", "0140026"],
-							["501057", "0135904"],
-							["500955", "0135826"],
-							["500919", "0135804"],
-							["500736", "0135727"],
-							["500551", "0135714"],
-							["500406", "0135724"],
-							["500223", "0135759"],
-							["500045", "0135856"],
-							["495913", "0140017"],
-							["495749", "0141641"],
-							["495712", "0142357"],
-							["495703", "0142548"],
-							["495649", "0142822"],
-							["495732", "0142932"],
-							["495819", "0143035"],
-							["495909", "0143131"],
-							["500002", "0143221"],
-							["500058", "0143301"],
-							["495847", "0143727"],
-							["495419", "0144632"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKPR_TMA4_INFO",
-				"group":"LKPR",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["494407", "0141811"],
-							["494330", "0143213"],
-							["494305", "0144122"],
-							["494318", "0144149"],
-							["494412", "0144339"],
-							["494511", "0144524"],
-							["494525", "0144548"],
-							["494542", "0144614"],
-							["494644", "0144749"],
-							["494757", "0144929"],
-							["494807", "0144942"],
-							["494935", "0145127"],
-							["495109", "0145257"],
-							["495259", "0144915"],
-							["495131", "0144750"],
-							["495118", "0144737"],
-							["494943", "0144544"],
-							["494832", "0144359"],
-							["494816", "0144337"],
-							["494828", "0143934"],
-							["494853", "0143027"],
-							["494855", "0142939"],
-							["494928", "0141759"],
-							["494933", "0141554"],
-							["494937", "0141433"],
-							["495008", "0140310"],
-							["494608", "0141308"],
-							["494557", "0141336"],
-							["494544", "0141410"],
-							["494500", "0141559"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKPR_TMA5_INFO",
-				"group":"LKPR",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["503157", "0140037"],
-							["503159", "0141402"],
-							["503159", "0141654"],
-							["503200", "0141950"],
-							["503201", "0143056"],
-							["503118", "0143343"],
-							["503028", "0143626"],
-							["502958", "0143748"],
-							["502930", "0143902"],
-							["502826", "0144132"],
-							["502716", "0144354"],
-							["502619", "0144533"],
-							["502559", "0144608"],
-							["502437", "0144814"],
-							["502418", "0144838"],
-							["502309", "0145010"],
-							["502137", "0145157"],
-							["502000", "0145333"],
-							["501819", "0145459"],
-							["501409", "0145728"],
-							["501433", "0145219"],
-							["501548", "0145138"],
-							["501701", "0145045"],
-							["501812", "0144945"],
-							["501920", "0144840"],
-							["502026", "0144730"],
-							["502128", "0144610"],
-							["502155", "0144355"],
-							["502308", "0143745"],
-							["502324", "0143620"],
-							["502325", "0143341"],
-							["502326", "0142435"],
-							["502327", "0142303"],
-							["502327", "0142111"],
-							["502329", "0140909"],
-							["502331", "0140140"],
-							["502224", "0135841"],
-							["502105", "0135555"],
-							["501935", "0135324"],
-							["501755", "0135109"],
-							["501605", "0134913"],
-							["501408", "0134737"],
-							["501235", "0134640"],
-							["501117", "0134559"],
-							["500958", "0134527"],
-							["500747", "0134455"],
-							["500629", "0134453"],
-							["500610", "0134452"],
-							["500536", "0134451"],
-							["495854", "0133837"],
-							["495656", "0133932"],
-							["495512", "0134041"],
-							["495509", "0134043"],
-							["495503", "0134047"],
-							["495323", "0134214"],
-							["495315", "0134221"],
-							["495218", "0135251"],
-							["495027", "0135549"],
-							["494647", "0134401"],
-							["494850", "0134116"],
-							["495104", "0133853"],
-							["495150", "0133813"],
-							["495312", "0133702"],
-							["495322", "0133654"],
-							["495326", "0133650"],
-							["495555", "0133509"],
-							["495829", "0133351"],
-							["500108", "0133256"],
-							["500254", "0133235"],
-							["500326", "0133230"],
-							["500347", "0133226"],
-							["500622", "0133219"],
-							["500722", "0133225"],
-							["500856", "0133234"],
-							["501129", "0133311"],
-							["501359", "0133411"],
-							["501625", "0133532"],
-							["501846", "0133714"],
-							["502100", "0133916"],
-							["502306", "0134137"],
-							["502504", "0134416"],
-							["502651", "0134711"],
-							["502827", "0135022"],
-							["502915", "0135210"],
-							["502958", "0135402"],
-							["503039", "0135557"],
-							["503115", "0135755"],
-							["503137", "0135916"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKPR_TMA6_INFO",
-				"group":"LKPR",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["494345", "0133348"],
-							["494530", "0133137"],
-							["494801", "0132904"],
-							["494813", "0132853"],
-							["494834", "0132836"],
-							["494912", "0132802"],
-							["495000", "0132722"],
-							["495202", "0132553"],
-							["495408", "0132435"],
-							["495617", "0132331"],
-							["495828", "0132239"],
-							["495958", "0132221"],
-							["500254", "0133235"],
-							["500108", "0133256"],
-							["495829", "0133351"],
-							["495555", "0133509"],
-							["495326", "0133650"],
-							["495322", "0133654"],
-							["495312", "0133702"],
-							["495150", "0133813"],
-							["495104", "0133853"],
-							["494850", "0134116"],
-							["494647", "0134401"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKPR_TMA7_INFO",
-				"group":"LKPR",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["494001", "0145242"],
-							["494014", "0145304"],
-							["494114", "0145440"],
-							["494231", "0145631"],
-							["494351", "0145817"],
-							["494514", "0145956"],
-							["494640", "0150129"],
-							["494742", "0150222"],
-							["495503", "0145603"],
-							["495401", "0145527"],
-							["495302", "0145442"],
-							["495204", "0145354"],
-							["495109", "0145257"],
-							["494935", "0145127"],
-							["494807", "0144942"],
-							["494757", "0144929"],
-							["494644", "0144749"],
-							["494542", "0144614"],
-							["494525", "0144548"],
-							["494511", "0144524"],
-							["494412", "0144339"],
-							["494318", "0144149"],
-							["494305", "0144122"],
-							["494330", "0143213"],
-							["494407", "0141811"],
-							["493958", "0142826"],
-							["493942", "0143401"],
-							["493854", "0145037"],
-							["493857", "0145043"],
-							["493916", "0145120"],
-							["493927", "0145139"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKPR_TMA9_P1_I",
-				"group":"LKPR",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":2,
-						"min":0,
-						"points":[
-							["503548", "0134759"],
-							["503552", "0135355"],
-							["503605", "0141057"],
-							["503607", "0141310"],
-							["503610", "0141806"],
-							["503628", "0144203"],
-							["503554", "0144337"],
-							["503527", "0144450"],
-							["503440", "0144640"],
-							["503305", "0145004"],
-							["503146", "0145231"],
-							["503021", "0145449"],
-							["502851", "0145700"],
-							["502717", "0145902"],
-							["502538", "0150055"],
-							["502355", "0150239"],
-							["502208", "0150413"],
-							["502105", "0150503"],
-							["502018", "0150537"],
-							["501825", "0150651"],
-							["501630", "0150754"],
-							["501432", "0150846"],
-							["501233", "0150928"],
-							["501108", "0150949"],
-							["501106", "0145845"],
-							["501154", "0145831"],
-							["501240", "0145814"],
-							["501325", "0145755"],
-							["501409", "0145728"],
-							["501819", "0145459"],
-							["502000", "0145333"],
-							["502137", "0145157"],
-							["502309", "0145010"],
-							["502418", "0144838"],
-							["502437", "0144814"],
-							["502559", "0144608"],
-							["502619", "0144533"],
-							["502640", "0144457"],
-							["502716", "0144354"],
-							["502826", "0144132"],
-							["502930", "0143902"],
-							["502958", "0143748"],
-							["503028", "0143626"],
-							["503118", "0143343"],
-							["503201", "0143056"],
-							["503200", "0141950"],
-							["503159", "0141654"],
-							["503159", "0141402"],
-							["503157", "0140037"],
-							["503137", "0135916"],
-							["503115", "0135755"],
-							["503039", "0135557"],
-							["502958", "0135402"],
-							["502915", "0135210"],
-							["502827", "0135022"],
-							["502651", "0134711"],
-							["502504", "0134416"],
-							["502306", "0134137"],
-							["502100", "0133916"],
-							["501846", "0133714"],
-							["501625", "0133532"],
-							["501359", "0133411"],
-							["501129", "0133311"],
-							["500856", "0133234"],
-							["500722", "0133225"],
-							["500654", "0133222"],
-							["500622", "0133219"],
-							["500347", "0133226"],
-							["500326", "0133230"],
-							["500254", "0133235"],
-							["495958", "0132221"],
-							["495828", "0132239"],
-							["495617", "0132331"],
-							["495408", "0132435"],
-							["495202", "0132553"],
-							["495000", "0132722"],
-							["494912", "0132802"],
-							["494834", "0132836"],
-							["494813", "0132853"],
-							["494801", "0132904"],
-							["494530", "0133137"],
-							["494345", "0133348"],
-							["494647", "0134401"],
-							["495027", "0135549"],
-							["495014", "0140102"],
-							["495013", "0140125"],
-							["495008", "0140310"],
-							["494608", "0141308"],
-							["494557", "0141336"],
-							["494544", "0141410"],
-							["494500", "0141559"],
-							["494407", "0141811"],
-							["493958", "0142826"],
-							["493942", "0143401"],
-							["493854", "0145037"],
-							["493857", "0145043"],
-							["493916", "0145120"],
-							["493927", "0145139"],
-							["494001", "0145242"],
-							["494014", "0145304"],
-							["494114", "0145440"],
-							["494231", "0145631"],
-							["494351", "0145817"],
-							["494514", "0145956"],
-							["494640", "0150129"],
-							["494742", "0150222"],
-							["495503", "0145603"],
-							["495110", "0150522"],
-							["494717", "0151430"],
-							["494606", "0151333"],
-							["494456", "0151232"],
-							["494347", "0151129"],
-							["494240", "0151021"],
-							["494134", "0150911"],
-							["494029", "0150757"],
-							["493926", "0150641"],
-							["493825", "0150521"],
-							["493725", "0150359"],
-							["493627", "0150233"],
-							["493531", "0150105"],
-							["493436", "0145934"],
-							["493403", "0145835"],
-							["493321", "0145717"],
-							["493229", "0145536"],
-							["493205", "0145447"],
-							["493141", "0145357"],
-							["493118", "0145306"],
-							["493056", "0145215"],
-							["493034", "0145124"],
-							["493447", "0144109"],
-							["493426", "0144007"],
-							["493407", "0143904"],
-							["493348", "0143801"],
-							["493330", "0143657"],
-							["493313", "0143553"],
-							["493257", "0143448"],
-							["493242", "0143342"],
-							["493228", "0143236"],
-							["493214", "0143130"],
-							["493143", "0142832"],
-							["493119", "0142533"],
-							["493101", "0142231"],
-							["493050", "0141928"],
-							["493046", "0141624"],
-							["493047", "0141429"],
-							["493048", "0141321"],
-							["493100", "0140944"],
-							["493115", "0140650"],
-							["493142", "0140324"],
-							["493218", "0140002"],
-							["493302", "0135644"],
-							["493354", "0135330"],
-							["493453", "0135022"],
-							["493601", "0134719"],
-							["493633", "0134601"],
-							["493707", "0134444"],
-							["493057", "0132444"],
-							["493132", "0132348"],
-							["493208", "0132252"],
-							["493244", "0132157"],
-							["493321", "0132104"],
-							["493359", "0132011"],
-							["493437", "0131919"],
-							["493516", "0131829"],
-							["493555", "0131739"],
-							["493635", "0131651"],
-							["493715", "0131603"],
-							["493756", "0131517"],
-							["493838", "0131431"],
-							["493920", "0131347"],
-							["494002", "0131304"],
-							["494131", "0131139"],
-							["494303", "0131018"],
-							["494436", "0130903"],
-							["494610", "0130753"],
-							["494747", "0130648"],
-							["494925", "0130549"],
-							["495104", "0130455"],
-							["495244", "0130407"],
-							["495425", "0130324"],
-							["495608", "0130247"],
-							["495827", "0130207"],
-							["495843", "0131316"],
-							["500522", "0131935"],
-							["501048", "0131651"],
-							["501055", "0132157"],
-							["501230", "0132222"],
-							["501405", "0132254"],
-							["501538", "0132332"],
-							["501710", "0132418"],
-							["501841", "0132509"],
-							["502010", "0132608"],
-							["502138", "0132713"],
-							["502303", "0132824"],
-							["502426", "0132941"],
-							["502547", "0133105"],
-							["502705", "0133234"],
-							["502820", "0133409"],
-							["502933", "0133549"],
-							["503043", "0133735"],
-							["503149", "0133925"],
-							["503252", "0134121"],
-							["503352", "0134320"],
-							["503447", "0134525"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKPR_TMA9_P2_I",
-				"group":"LKPR",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":1,
-						"min":0,
-						"points":[
-							["501108", "0150949"],
-							["501032", "0150958"],
-							["500830", "0151018"],
-							["500628", "0151026"],
-							["500426", "0151024"],
-							["500336", "0151018"],
-							["500229", "0150826"],
-							["500127", "0150958"],
-							["500022", "0150945"],
-							["495950", "0150935"],
-							["495822", "0150909"],
-							["495624", "0150823"],
-							["495427", "0150726"],
-							["495337", "0150657"],
-							["495316", "0150645"],
-							["495248", "0150628"],
-							["495159", "0150556"],
-							["495110", "0150522"],
-							["495503", "0145603"],
-							["495527", "0145624"],
-							["495633", "0145703"],
-							["495717", "0145726"],
-							["495802", "0145748"],
-							["495847", "0145807"],
-							["495932", "0145825"],
-							["500018", "0145840"],
-							["500104", "0145854"],
-							["500150", "0145905"],
-							["500236", "0145915"],
-							["500323", "0145922"],
-							["500410", "0145928"],
-							["500456", "0145931"],
-							["500543", "0145932"],
-							["500630", "0145932"],
-							["500716", "0145929"],
-							["500803", "0145924"],
-							["500850", "0145918"],
-							["500936", "0145909"],
-							["501022", "0145858"],
-							["501106", "0145845"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKVO_TMA1_INFO",
-				"group":"LKVO",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":19,
-						"min":0,
-						"points":[
-							["501412", "0140934"],
-							["501402", "0141032"],
-							["501322", "0141452"],
-							["501712", "0141620"],
-							["501846", "0142007"],
-							["501644", "0142610"],
-							["501404", "0143408"],
-							["501313", "0144155"],
-							["501455", "0144702"],
-							["501546", "0144628"],
-							["501635", "0144548"],
-							["501722", "0144504"],
-							["501808", "0144417"],
-							["501853", "0144327"],
-							["501937", "0144234"],
-							["501959", "0144205"],
-							["502019", "0144138"],
-							["502100", "0144040"],
-							["502139", "0143939"],
-							["502216", "0143835"],
-							["502251", "0143729"],
-							["502303", "0143705"],
-							["502324", "0143620"],
-							["502325", "0143341"],
-							["502326", "0142435"],
-							["502327", "0142303"],
-							["502327", "0142111"],
-							["502329", "0140909"],
-							["502331", "0140140"],
-							["502237", "0140155"],
-							["501741", "0140322"],
-							["501502", "0140408"]
-						]
-					}
-				]
-			},
-			{
-				"id":"PHA INFO",
-				"remark":"PHA_CTA_LKVO_TMA2_INFO",
-				"group":"LKVO",
-				"owner":[
-					"LKAA_I_CTR"
-				],
-				"sectors":[
-					{
-						"max":0,
-						"min":0,
-						"points":[
-							["501133", "0144117"],
-							["501058", "0143921"],
-							["501203", "0143827"],
-							["501013", "0143300"],
-							["501032", "0143247"],
-							["501404", "0143408"],
-							["501313", "0144155"]
-						]
-					}
-				]
-			},
-			{
-				"id":"S1L",
+				"id":"South Low (SL)",
 				"remark":"S1L",
 				"group":"ACC",
 				"owner":[
@@ -17872,7 +15761,7 @@
 				]
 			},
 			{
-				"id":"S1L",
+				"id":"South Low (SL)",
 				"remark":"S1L",
 				"group":"ACC",
 				"owner":[
@@ -17989,7 +15878,7 @@
 				]
 			},
 			{
-				"id":"S2L",
+				"id":"South Low (SL)",
 				"remark":"S2L",
 				"group":"ACC",
 				"owner":[
@@ -18044,8 +15933,8 @@
 				]
 			},
 			{
-				"id":"SH",
-				"remark":"SH",
+				"id":"South Middle (SM)",
+				"remark":"SM",
 				"group":"ACC",
 				"owner":[
 					"LKAA_U_CTR",
@@ -18056,7 +15945,7 @@
 				],
 				"sectors":[
 					{
-						"max":659,
+						"max":354,
 						"min":305,
 						"points":[
 							["495447", "0182825"],
@@ -18118,7 +16007,155 @@
 				]
 			},
 			{
-				"id":"W1L",
+				"id":"South High (SH)",
+				"remark":"SH",
+				"group":"ACC",
+				"owner":[
+					"LKAA_U_CTR",
+					"LKAA_S_CTR",
+					"LKAA_CTR",
+					"EURE_FSS",
+					"EURM-E_CTR"
+				],
+				"sectors":[
+					{
+						"max":374,
+						"min":355,
+						"points":[
+							["495447", "0182825"],
+							["495358", "0183142"],
+							["495522", "0183301"],
+							["495017", "0183432"],
+							["494955", "0183412"],
+							["494848", "0183447"],
+							["494536", "0183627"],
+							["494320", "0183737"],
+							["493958", "0184825"],
+							["493102", "0185103"],
+							["492943", "0184335"],
+							["493024", "0183352"],
+							["492644", "0183046"],
+							["492335", "0182649"],
+							["492349", "0182510"],
+							["491936", "0182214"],
+							["491818", "0181616"],
+							["491710", "0181103"],
+							["491156", "0180837"],
+							["491044", "0180751"],
+							["490358", "0180528"],
+							["490214", "0180411"],
+							["490104", "0175520"],
+							["485536", "0175243"],
+							["485531", "0174734"],
+							["485142", "0174217"],
+							["485116", "0174029"],
+							["484859", "0173101"],
+							["485037", "0172758"],
+							["484849", "0172152"],
+							["485240", "0171209"],
+							["484622", "0170344"],
+							["483656", "0165627"],
+							["484301", "0165410"],
+							["484402", "0164413"],
+							["484409", "0164310"],
+							["484705", "0163715"],
+							["484646", "0162849"],
+							["484622", "0161737"],
+							["484610", "0161218"],
+							["484517", "0160350"],
+							["485228", "0155005"],
+							["485317", "0153656"],
+							["485334", "0152313"],
+							["485344", "0151433"],
+							["490022", "0150713"],
+							["493214", "0143130"],
+							["494407", "0141811"],
+							["495732", "0142801"],
+							["495427", "0150726"],
+							["495212", "0154016"],
+							["495110", "0155418"],
+							["494904", "0162444"],
+							["494150", "0180222"]
+						]
+					}
+				]
+			},
+			{
+				"id":"South Top (ST)",
+				"remark":"ST",
+				"group":"ACC",
+				"owner":[
+					"LKAA_U_CTR",
+					"LKAA_S_CTR",
+					"LKAA_CTR",
+					"EURE_FSS",
+					"EURM-E_CTR"
+				],
+				"sectors":[
+					{
+						"max":659,
+						"min":375,
+						"points":[
+							["495447", "0182825"],
+							["495358", "0183142"],
+							["495522", "0183301"],
+							["495017", "0183432"],
+							["494955", "0183412"],
+							["494848", "0183447"],
+							["494536", "0183627"],
+							["494320", "0183737"],
+							["493958", "0184825"],
+							["493102", "0185103"],
+							["492943", "0184335"],
+							["493024", "0183352"],
+							["492644", "0183046"],
+							["492335", "0182649"],
+							["492349", "0182510"],
+							["491936", "0182214"],
+							["491818", "0181616"],
+							["491710", "0181103"],
+							["491156", "0180837"],
+							["491044", "0180751"],
+							["490358", "0180528"],
+							["490214", "0180411"],
+							["490104", "0175520"],
+							["485536", "0175243"],
+							["485531", "0174734"],
+							["485142", "0174217"],
+							["485116", "0174029"],
+							["484859", "0173101"],
+							["485037", "0172758"],
+							["484849", "0172152"],
+							["485240", "0171209"],
+							["484622", "0170344"],
+							["483656", "0165627"],
+							["484301", "0165410"],
+							["484402", "0164413"],
+							["484409", "0164310"],
+							["484705", "0163715"],
+							["484646", "0162849"],
+							["484622", "0161737"],
+							["484610", "0161218"],
+							["484517", "0160350"],
+							["485228", "0155005"],
+							["485317", "0153656"],
+							["485334", "0152313"],
+							["485344", "0151433"],
+							["490022", "0150713"],
+							["493214", "0143130"],
+							["494407", "0141811"],
+							["495732", "0142801"],
+							["495427", "0150726"],
+							["495212", "0154016"],
+							["495110", "0155418"],
+							["494904", "0162444"],
+							["494150", "0180222"]
+						]
+					}
+				]
+			},
+			{
+				"id":"West Low (WL)",
 				"remark":"W1L",
 				"group":"ACC",
 				"owner":[
@@ -18165,7 +16202,7 @@
 				]
 			},
 			{
-				"id":"W1L",
+				"id":"West Low (WL)",
 				"remark":"W1L",
 				"group":"ACC",
 				"owner":[
@@ -18274,7 +16311,7 @@
 				]
 			},
 			{
-				"id":"W2L",
+				"id":"West Low (WL)",
 				"remark":"W2L",
 				"group":"ACC",
 				"owner":[
@@ -18368,7 +16405,55 @@
 				]
 			},
 			{
-				"id":"WH",
+				"id":"West Middle (WM)",
+				"remark":"WM",
+				"group":"ACC",
+				"owner":[
+					"LKAA_U_CTR",
+					"LKAA_W_CTR",
+					"LKAA_CTR",
+					"EURE_FSS",
+					"EURM-E_CTR"
+				],
+				"sectors":[
+					{
+						"max":354,
+						"min":305,
+						"points":[
+							["502557", "0124502"],
+							["503114", "0130033"],
+							["504403", "0134603"],
+							["503548", "0134759"],
+							["503130", "0134900"],
+							["502827", "0135022"],
+							["495847", "0140344"],
+							["495732", "0142801"],
+							["494407", "0141811"],
+							["493214", "0143130"],
+							["490022", "0150713"],
+							["485344", "0151433"],
+							["485352", "0150658"],
+							["485130", "0145821"],
+							["485819", "0142651"],
+							["484948", "0134711"],
+							["491511", "0130931"],
+							["492633", "0125222"],
+							["493810", "0123450"],
+							["494212", "0122821"],
+							["500756", "0122117"],
+							["501011", "0122039"],
+							["501126", "0122019"],
+							["501425", "0122106"],
+							["501807", "0122220"],
+							["501932", "0122624"],
+							["502031", "0122915"],
+							["502332", "0123800"]
+						]
+					}
+				]
+			},
+			{
+				"id":"West High (WH)",
 				"remark":"WH",
 				"group":"ACC",
 				"owner":[
@@ -18380,8 +16465,56 @@
 				],
 				"sectors":[
 					{
+						"max":374,
+						"min":355,
+						"points":[
+							["502557", "0124502"],
+							["503114", "0130033"],
+							["504403", "0134603"],
+							["503548", "0134759"],
+							["503130", "0134900"],
+							["502827", "0135022"],
+							["495847", "0140344"],
+							["495732", "0142801"],
+							["494407", "0141811"],
+							["493214", "0143130"],
+							["490022", "0150713"],
+							["485344", "0151433"],
+							["485352", "0150658"],
+							["485130", "0145821"],
+							["485819", "0142651"],
+							["484948", "0134711"],
+							["491511", "0130931"],
+							["492633", "0125222"],
+							["493810", "0123450"],
+							["494212", "0122821"],
+							["500756", "0122117"],
+							["501011", "0122039"],
+							["501126", "0122019"],
+							["501425", "0122106"],
+							["501807", "0122220"],
+							["501932", "0122624"],
+							["502031", "0122915"],
+							["502332", "0123800"]
+						]
+					}
+				]
+			},
+			{
+				"id":"West Top (WT)",
+				"remark":"WT",
+				"group":"ACC",
+				"owner":[
+					"LKAA_U_CTR",
+					"LKAA_W_CTR",
+					"LKAA_CTR",
+					"EURE_FSS",
+					"EURM-E_CTR"
+				],
+				"sectors":[
+					{
 						"max":659,
-						"min":305,
+						"min":375,
 						"points":[
 							["502557", "0124502"],
 							["503114", "0130033"],
@@ -18418,22 +16551,10 @@
 	],
 	"groups":{
 		"ACC":{"name":"Praha"},
-		"BNO":{"name":"Brno"},
-		"INFO":{"name":"Information"},
-		"KVY":{"name":"Karlovy Vary"},
-		"LKCV":{"name":"Čáslav"},
-		"LKKB":{"name":"Kbely"},
-		"LKKU":{"name":"Kunovice"},
-		"LKKV":{"name":"Karlovy Vary Olsova Vrata"},
-		"LKMH":{"name":"Mnichovo Hradiste"},
-		"LKMT":{"name":"Ostrava Mosnov"},
-		"LKNA":{"name":"Namest nad Oslavou"},
-		"LKPD":{"name":"Pardubice"},
-		"LKPM":{"name":"Pribram"},
-		"LKPR":{"name":"Praha Ruzyně"},
-		"LKTB":{"name":"Brno Turany"},
-		"LKVO":{"name":"Vodochody"},
-		"OVA":{"name":"Ostrava"}
+		"APP":{"name":"Approach"},
+		"FIN":{"name":"Final Approach"},
+		"DEP":{"name":"Departure"},
+		"TWR":{"name":"Tower"}
 	},
 	"positions":{
 		"LKAA_CTR": {"colours": [{"hex": "#bf9000"}], "pre": ["LKAA"], "type": "CTR", "frequency": "118.375", "callsign": "Praha Radar"},
@@ -18443,24 +16564,24 @@
 		"LKAA_W_CTR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKAA"], "type": "CTR", "frequency": "120.275", "callsign": "Praha Radar"},
 		"LKAA_S_CTR": {"colours": [{"hex": "#40E0D0"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.125", "callsign": "Praha Radar"},
 		"LKAA_APP": {"colours": [{"hex": "#008080"}], "pre": ["LKAA"], "type": "APP", "frequency": "125.375", "callsign": "Praha Radar"},
-		"LKCV_APP": {"colours": [{"hex": "#247513"}], "pre": ["LKCV"], "type": "APP", "frequency": "130.275", "callsign": "Caslav Approach"},
-		"LKCV_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKCV"], "type": "TWR", "frequency": "136.650", "callsign": "Caslav Tower"},
+		"LKCV_APP": {"colours": [{"hex": "#247513"}], "pre": ["LKCV"], "type": "APP", "frequency": "130.275", "callsign": "Čáslav Approach"},
+		"LKCV_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKCV"], "type": "TWR", "frequency": "136.650", "callsign": "Čáslav Tower"},
 		"LKKB_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKKB"], "type": "TWR", "frequency": "120.875", "callsign": "Kbely Tower"},
 		"LKKU_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKKU"], "type": "TWR", "frequency": "120.100", "callsign": "Kunovice Tower"},
 		"LKKV_APP": {"colours": [{"hex": "#ffbf00"}], "pre": ["LKKV"], "type": "APP", "frequency": "118.650", "callsign": "Praha Radar"},
 		"LKKV_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKKV"], "type": "TWR", "frequency": "121.225", "callsign": "Vary Tower"},
 		"LKMT_APP": {"colours": [{"hex": "#8e7cc3"}], "pre": ["LKMT"], "type": "APP", "frequency": "119.375", "callsign": "Praha Radar"},
-		"LKMT_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKMT"], "type": "TWR", "frequency": "120.800", "callsign": "Mosnov Tower"},
-		"LKNA_APP": {"colours": [{"hex": "#93c47d"}], "pre": ["LKNA"], "type": "APP", "frequency": "118.150", "callsign": "Namest Approach"},
-		"LKNA_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKNA"], "type": "TWR", "frequency": "126.500", "callsign": "Namest Tower"},
+		"LKMT_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKMT"], "type": "TWR", "frequency": "120.800", "callsign": "Mošnov Tower"},
+		"LKNA_APP": {"colours": [{"hex": "#93c47d"}], "pre": ["LKNA"], "type": "APP", "frequency": "118.150", "callsign": "Náměšť Approach"},
+		"LKNA_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKNA"], "type": "TWR", "frequency": "126.500", "callsign": "Náměšť Tower"},
 		"LKPD_APP": {"colours": [{"hex": "#073763"}], "pre": ["LKPD"], "type": "APP", "frequency": "128.375", "callsign": "Pardubice Approach"},
 		"LKPD_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKPD"], "type": "TWR", "frequency": "120.150", "callsign": "Pardubice Tower"},
 		"LKPR_APP": {"colours": [{"hex": "#9900ff"}], "pre": ["LKPR"], "type": "APP", "frequency": "127.575", "callsign": "Praha Radar"},
-		"LKPR_D_APP": {"colours":  [{"hex": "#ff00ff"}], "pre": ["LKPR"], "type": "APP", "frequency": "119.000", "callsign": "Ruzyne Radar"}
-		"LKPR_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKPR"], "type": "TWR", "frequency": "134.550", "callsign": "Ruzyne Tower"},
+		"LKPR_D_APP": {"colours":  [{"hex": "#ff00ff"}], "pre": ["LKPR"], "type": "APP", "frequency": "119.000", "callsign": "Ruzyně Radar"},
+		"LKPR_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKPR"], "type": "TWR", "frequency": "134.550", "callsign": "Ruzyně Tower"},
 		"LKPR_DEP": {"colours": [{"hex": "#cfe2f3"}], "pre": ["LKPR"], "type": "DEP", "frequency": "120.525", "callsign": "Praha Radar"},
 		"LKTB_APP": {"colours": [{"hex": "#cc0000"}], "pre": ["LKTB"], "type": "APP", "frequency": "127.350", "callsign": "Praha Radar"},
-		"LKTB_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKTB"], "type": "TWR", "frequency": "119.600", "callsign": "Turany Tower"},
+		"LKTB_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKTB"], "type": "TWR", "frequency": "119.600", "callsign": "Tuřany Tower"},
 		"LKVO_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKVO"], "type": "TWR", "frequency": "133.075", "callsign": "Vodochody Tower"}
 	},
 	"callsigns":{
@@ -18487,7 +16608,7 @@
 	},
 	"airports":{
 		"LKPR": {
-			"callsign": "PRAHA/RUZYNE",
+			"callsign": "Ruzyně",
 			"coord": [50.10083278, 14.25999972],
 			"runways": [
 				"06",
@@ -18503,7 +16624,7 @@
 			]
 		},
 		"LKCV": {
-			"callsign": "CASLAV",
+			"callsign": "Čáslav",
 			"coord": [49.93956389, 15.38193278],
 			"topdown": [
 				"LKCV_TWR",
@@ -18515,7 +16636,7 @@
 			]
 		},
 		"LKKB": {
-			"callsign": "KBELY",
+			"callsign": "Kbely",
 			"coord": [50.12136694, 14.54363889],
 			"topdown": [
 				"LKKB_TWR",
@@ -18527,7 +16648,7 @@
 			]
 		},
 		"LKKU": {
-			"callsign": "KUNOVICE",
+			"callsign": "Kunovice",
 			"coord": [49.02944389, 17.43972194],
 			"topdown": [
 				"LKKU_TWR",
@@ -18538,7 +16659,7 @@
 			]
 		},
 		"LKKV": {
-			"callsign": "KARLOVY VARY",
+			"callsign": "Vary",
 			"coord": [50.20305583, 12.91499972],
 			"topdown": [
 				"LKKV_TWR",
@@ -18549,7 +16670,7 @@
 			]
 		},
 		"LKMT": {
-			"callsign": "OSTRAVA/MOSNOV",
+			"callsign": "Mošnov",
 			"coord": [49.69611083, 18.11083278],
 			"topdown": [
 				"LKMT_TWR",
@@ -18560,7 +16681,7 @@
 			]
 		},
 		"LKNA": {
-			"callsign": "NAMEST",
+			"callsign": "Náměšť",
 			"coord": [49.16620778, 16.12438278],
 			"topdown": [
 				"LKNA_TWR",
@@ -18572,7 +16693,7 @@
 			]
 		},
 		"LKPD": {
-			"callsign": "PARDUBICE",
+			"callsign": "Pardubice",
 			"coord": [50.01345778, 15.73857194],
 			"topdown": [
 				"LKPD_TWR",
@@ -18584,7 +16705,7 @@
 			]
 		},
 		"LKTB": {
-			"callsign": "BRNO/TURANY",
+			"callsign": "Tuřany",
 			"coord": [49.15138889, 16.69388889],
 			"topdown": [
 				"LKTB_TWR",
@@ -18595,7 +16716,7 @@
 			]
 		},
 		"LKVO": {
-			"callsign": "VODOCHODY",
+			"callsign": "Vodochody",
 			"coord": [50.21666694, 14.39555583],
 			"topdown": [
 				"LKVO_TWR",
