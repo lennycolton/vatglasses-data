@@ -18456,7 +18456,7 @@
 		"LKPD_APP": {"colours": [{"hex": "#073763"}], "pre": ["LKPD"], "type": "APP", "frequency": "128.375", "callsign": "Pardubice Approach"},
 		"LKPD_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKPD"], "type": "TWR", "frequency": "120.150", "callsign": "Pardubice Tower"},
 		"LKPR_APP": {"colours": [{"hex": "#9900ff"}], "pre": ["LKPR"], "type": "APP", "frequency": "127.575", "callsign": "Praha Radar"},
-		"LKPR_D_APP": {"pre": ["LKPR"], "type": "APP", "frequency": "119.000", "callsign": "Ruzyne Radar"},
+		"LKPR_D_APP": {"colours":  [{"hex": "#ff00ff"}], "pre": ["LKPR"], "type": "APP", "frequency": "119.000", "callsign": "Ruzyne Radar"}
 		"LKPR_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKPR"], "type": "TWR", "frequency": "134.550", "callsign": "Ruzyne Tower"},
 		"LKPR_DEP": {"colours": [{"hex": "#cfe2f3"}], "pre": ["LKPR"], "type": "DEP", "frequency": "120.525", "callsign": "Praha Radar"},
 		"LKTB_APP": {"colours": [{"hex": "#cc0000"}], "pre": ["LKTB"], "type": "APP", "frequency": "127.350", "callsign": "Praha Radar"},
