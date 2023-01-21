@@ -4575,7 +4575,18 @@
 			"group":"APP",
  			"owner":[
             	"LOXT_APP",
-            	"LOVV_M_CTR"
+            	"LOVV_M_CTR",
+				"LOXT_APP",
+				"LOVV_M_CTR",
+				"LOWW_N_APP",
+				"LOWW_M_APP",
+				"LOWW_APP",
+				"LOWW_P_APP",
+				"LOVV_L_CTR",
+				"LOVV_E_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR"
             ],
 			"sectors":[
 				{
@@ -4865,7 +4876,18 @@
  			"owner":[
 			"LOXT_TWR",
             	"LOXT_APP",
-            	"LOVV_M_CTR"
+            	"LOVV_M_CTR",
+				"LOXT_APP",
+				"LOVV_M_CTR",
+				"LOWW_N_APP",
+				"LOWW_M_APP",
+				"LOWW_APP",
+				"LOWW_P_APP",
+				"LOVV_L_CTR",
+				"LOVV_E_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
