@@ -16553,6 +16553,8 @@
 		"TWR":{"name":"Tower"}
 	},
 	"positions":{
+		"EURM_E_CTR": { "pre": ["EURM", "EURM-E"], "type": "CTR", "frequency": "135.450", "callsign": "Maastricht Radar"},
+		"EURE_FSS": { "pre": ["EURE"], "type": "FSS", "frequency": "135.300", "callsign": "Eurocontrol East"},
 		"LKAA_CTR": {"colours": [{"hex": "#bf9000"}], "pre": ["LKAA"], "type": "CTR", "frequency": "118.375", "callsign": "Praha Radar"},
 		"LKAA_I_CTR": {"colours": [{"hex": "#ffbf00"}], "pre": ["LKAA"], "type": "CTR", "frequency": "126.100", "callsign": "Praha Information"},
 		"LKAA_N_CTR": {"colours": [{"hex": "#6495ed"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.825", "callsign": "Praha Radar"},
