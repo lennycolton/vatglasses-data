@@ -18,6 +18,8 @@ If you're a member of local staff looking to add your local vACC to the platform
 If you're not a member of local staff but you'd still like to contribute, please consider contacting the vACC directly - they may be very keen to have you on board! Alternatively, you could propose some improvements to an existing data set.
 
 ## Contribution Guide
+Feel free to contribute to any of the data sets included in this repository. Please be aware that local vACC staff may perform bulk updates to data sets that they manage. VATGlasses-managed data sets rely on the community to keep them up-to-date and won't see bulk changes like this.
+
 Please ensure that you provide a source for your issues and pull-requests! Issues and pull requests without a valid source will be automatically closed.
 
 By committing changes to this repository, you acknowledge that the copyright ownership of any contributions you make transfers to @lennycolton in its entirety.
