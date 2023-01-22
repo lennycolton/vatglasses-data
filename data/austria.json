@@ -789,7 +789,7 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
       			{
 					"max":364,
@@ -914,9 +914,9 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR"
-            ],
+           		],
 			"sectors":[
-      			{
+      				{
 					"max":244,
 					"min":165,
 					"points":[
@@ -1002,7 +1002,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR"
-            ],
+            		],
 			"sectors":[
       			{
 					"max":244,
@@ -1215,9 +1215,9 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":304,
 					"min":245,
 					"points":[
@@ -1307,9 +1307,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":344,
 					"min":305,
 					"points":[
@@ -1397,9 +1397,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":344,
 					"min":305,
 					"points":[
@@ -1512,9 +1512,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":364,
 					"min":345,
 					"points":[
@@ -1602,9 +1602,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":364,
 					"min":345,
 					"points":[
@@ -1717,9 +1717,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":384,
 					"min":365,
 					"points":[
@@ -1807,9 +1807,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":384,
 					"min":365,
 					"points":[
@@ -1922,9 +1922,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":660,
 					"min":385,
 					"points":[
@@ -2012,9 +2012,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":660,
 					"min":385,
 					"points":[
@@ -2125,9 +2125,9 @@
 				"LOVV_B_CTR",
 				"LOVV_C_CTR",
 				"LOVV_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":244,
 					"min":165,
 					"points":[
@@ -2171,7 +2171,7 @@
 						["473758","0120953"]
 					]
 				},
-      			{
+      				{
 					"max":304,
 					"min":245,
 					"points":[
@@ -2228,9 +2228,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":344,
 					"min":305,
 					"points":[
@@ -2287,9 +2287,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":364,
 					"min":345,
 					"points":[
@@ -2346,9 +2346,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":384,
 					"min":365,
 					"points":[
@@ -2405,9 +2405,9 @@
 				"LOVV_CTR",
 				"LOVV_C_CTR",
 				"EURM_E_CTR"
-            ],
+           		],
 			"sectors":[
-      			{
+      				{
 					"max":660,
 					"min":385,
 					"points":[
@@ -2465,7 +2465,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR"
-            ],
+            		],
 			"sectors":[
 				{
 					"max":164,
@@ -2558,7 +2558,7 @@
 						["474213","0141802"]
 					]
 				},
-      	{
+      				{
 					"max":124,
 					"min":45,
 					"points":[
@@ -2760,9 +2760,9 @@
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
 				"LOVV_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":164,
 					"min":125,
 					"points":[
@@ -2790,9 +2790,9 @@
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
 				"LOVV_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":164,
 					"min":125,
 					"points":[
@@ -2828,7 +2828,7 @@
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
 				"LOVV_CTR"
-            ],
+            		],
 			"sectors":[
       			{
 					"max":164,
@@ -2856,9 +2856,9 @@
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
 				"LOVV_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":164,
 					"min":125,
 					"points":[
@@ -2894,34 +2894,34 @@
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
 				"LOVV_CTR"
-            ],
+            		],
 			"sectors":[
-									{
-										"runways":[
-											{
-													"icao":"LOWI",
-													"runway":"08"
-									}
-									],
-							"max":124,
-							"min":70,
-							"points":[
-								["471515","0113324"],
-								["471348","0112406"],
-								["472107","0112022"],
-								["472912","0112946"],
-								["473453","0113624"],
-								["474108","0120141"],
-								["473904","0120659"],
-								["473758","0120953"]
-							]
-						},
-      			{
-               "runways":[
-            			{
-                     "icao":"LOWI",
-                     "runway":"08"
-      				}
+				{
+					"runways":[
+						{
+							"icao":"LOWI",
+							"runway":"08"
+						}
+					],
+					"max":124,
+					"min":70,
+					"points":[
+						["471515","0113324"],
+						["471348","0112406"],
+						["472107","0112022"],
+						["472912","0112946"],
+						["473453","0113624"],
+						["474108","0120141"],
+						["473904","0120659"],
+						["473758","0120953"]
+					]
+				},
+      				{
+               				"runways":[
+            					{
+                     					"icao":"LOWI",
+                     					"runway":"08"
+      						}
     					],
 					"max":69,
 					"points":[
@@ -2953,34 +2953,34 @@
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
 				"LOVV_CTR"
-            ],
+           		],
 			"sectors":[
-									{
-										"runways":[
-											{
-													"icao":"LOWI",
-													"runway":"26"
-									}
-									],
-							"max":124,
-							"min":70,
-							"points":[
-								["471515","0113324"],
-								["471348","0112406"],
-								["472107","0112022"],
-								["472912","0112946"],
-								["473453","0113624"],
-								["474108","0120141"],
-								["473904","0120659"],
-								["473758","0120953"]
-							]
-						},
-      			{
-               "runways":[
-            			{
-                     "icao":"LOWI",
-                     "runway":"26"
-      				}
+				{
+					"runways":[
+						{
+								"icao":"LOWI",
+								"runway":"26"
+						}
+					],
+					"max":124,
+					"min":70,
+					"points":[
+						["471515","0113324"],
+						["471348","0112406"],
+						["472107","0112022"],
+						["472912","0112946"],
+						["473453","0113624"],
+						["474108","0120141"],
+						["473904","0120659"],
+						["473758","0120953"]
+					]
+				},
+      				{
+              				"runways":[
+            					{
+                     					"icao":"LOWI",
+                     					"runway":"26"
+      						}
     					],
 					"max":69,
 					"points":[
@@ -3011,91 +3011,15 @@
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
 				"LOVV_CTR"
-            ],
-						"sectors":[
-							{
-								 "runways":[
-										{
-											 "icao":"LOWI",
-											 "runway":"08"
-								}
-								],
-						"max":124,
-						"min":70,
-						"points":[
-							["471515","0113324"],
-							["471348","0112406"],
-							["471143","0112353"],
-							["465847","0112236"],
-							["465826","0113939"],
-							["465604","0115030"],
-							["470010","0115118"],
-							["470058","0115127"],
-							["470205","0115457"],
-							["470526","0121049"],
-							["470409","0121428"],
-							["465319","0121458"],
-							["470950","0123505"],
-							["471639","0130932"],
-							["474329","0123945"],
-							["474039","0123043"],
-							["473758","0120953"],	
-							["472250","0114534"]
-						]
-					},
-					{
-						"runways":[
-							 {
-									"icao":"LOWI",
-									"runway":"08"
-								 }
-						],
-						"max":69,
-							"points":[
-							["471820","0114810"],
-							["471230","0112645"],
-							["471143","0112353"],
-							["465847","0112236"],
-							["465826","0113939"],
-							["465604","0115030"],
-							["470010","0115118"],
-							["470058","0115127"],
-							["470205","0115457"],
-							["470526","0121049"],
-							["470409","0121428"],
-							["465319","0121458"],
-							["470950","0123505"],
-							["471639","0130932"],
-							["474329","0123945"],
-							["474039","0123043"],
-							["473758","0120953"],	
-							["472250","0114534"]
-						]
-					}
-				]
-		},
-		{
-			"id":"Innsbruck - SE Low",
-			"group":"APP",
- 			"owner":[
-				"LOWI_F_APP",
-				"LOWI_S_APP",
-				"LOWI_E_APP",
-				"LOWI_S_APP",
-				"LOVV_L_CTR",
-				"LOVV_W_CTR",
-				"LOVV_S_CTR",
-				"LOVV_B_CTR",
-				"LOVV_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
-               "runways":[
-            			{
-                     "icao":"LOWI",
-                     "runway":"26"
-      				}
-    					],
+				{
+					"runways":[
+						{
+							"icao":"LOWI",
+							 "runway":"08"
+						}
+					],
 					"max":124,
 					"min":70,
 					"points":[
@@ -3122,9 +3046,85 @@
 				{
 					"runways":[
 						 {
-								"icao":"LOWI",
-								"runway":"26"
-				 			}
+							"icao":"LOWI",
+							"runway":"08"
+						}
+					],
+					"max":69,
+					"points":[
+						["471820","0114810"],
+						["471230","0112645"],
+						["471143","0112353"],
+						["465847","0112236"],
+						["465826","0113939"],
+						["465604","0115030"],
+						["470010","0115118"],
+						["470058","0115127"],
+						["470205","0115457"],
+						["470526","0121049"],
+						["470409","0121428"],
+						["465319","0121458"],
+						["470950","0123505"],
+						["471639","0130932"],
+						["474329","0123945"],
+						["474039","0123043"],
+						["473758","0120953"],	
+						["472250","0114534"]
+					]
+				}
+			]
+		},
+		{
+			"id":"Innsbruck - SE Low",
+			"group":"APP",
+ 			"owner":[
+				"LOWI_F_APP",
+				"LOWI_S_APP",
+				"LOWI_E_APP",
+				"LOWI_S_APP",
+				"LOVV_L_CTR",
+				"LOVV_W_CTR",
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_CTR"
+            		],
+			"sectors":[
+      				{
+               				"runways":[
+            					{
+                     					"icao":"LOWI",
+                     					"runway":"26"
+      						}
+    					],
+					"max":124,
+					"min":70,
+					"points":[
+						["471515","0113324"],
+						["471348","0112406"],
+						["471143","0112353"],
+						["465847","0112236"],
+						["465826","0113939"],
+						["465604","0115030"],
+						["470010","0115118"],
+						["470058","0115127"],
+						["470205","0115457"],
+						["470526","0121049"],
+						["470409","0121428"],
+						["465319","0121458"],
+						["470950","0123505"],
+						["471639","0130932"],
+						["474329","0123945"],
+						["474039","0123043"],
+						["473758","0120953"],	
+						["472250","0114534"]
+					]
+				},
+				{
+					"runways":[
+						{
+							"icao":"LOWI",
+							"runway":"26"
+				 		}
 					],
 					"max":69,
 					"points":[
@@ -3163,72 +3163,72 @@
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
 				"LOVV_CTR"
-            ],
+            		],
 			"sectors":[
-								{
-									"runways":[
-										{
-												"icao":"LOWI",
-												"runway":"08"
-								}
-								],
-						"max":124,
-						"min":70,
-						"points":[
-							["471348","0112406"],
-							["471607","0110043"],
-							["472042","0101444"],
-							["473005","0105042"],
-							["472520","0105901"],
-							["472107","0110621"],
-							["472107","0112022"],
-							["471921","0112116"]
-						]
-					},
-					{
-						"runways":[
-								{
-									"icao":"LOWI",
-									"runway":"08"
+				{
+					"runways":[
+						{
+							"icao":"LOWI",
+							"runway":"08"
 						}
-						],
-						"max":69,
-							"points":[
-							["471723","0111314"],
-							["471930","0110430"],
-							["471917","0110125"],
-							["471809","0110006"],
-							["471607","0110043"],
-							["472042","0101444"],
-							["473005","0105042"],
-							["472520","0105901"],
-							["472107","0110621"],
-							["472107","0112022"],
-							["471921","0112116"]
-						]
-					}
-         ]
-      },
+					],
+					"max":124,
+					"min":70,
+					"points":[
+						["471348","0112406"],
+						["471607","0110043"],
+						["472042","0101444"],
+						["473005","0105042"],
+						["472520","0105901"],
+						["472107","0110621"],
+						["472107","0112022"],
+						["471921","0112116"]
+					]
+				},
+				{
+					"runways":[
+						{
+							"icao":"LOWI",
+							"runway":"08"
+						}
+					],
+					"max":69,
+					"points":[
+						["471723","0111314"],
+						["471930","0110430"],
+						["471917","0110125"],
+						["471809","0110006"],
+						["471607","0110043"],
+						["472042","0101444"],
+						["473005","0105042"],
+						["472520","0105901"],
+						["472107","0110621"],
+						["472107","0112022"],
+						["471921","0112116"]
+					]
+				}
+         		]
+      		},
 		{
 			"id":"Innsbruck - NW Low",
 			"group":"APP",
  			"owner":[
-            	"LOWI_APP",
-            	"LOWI_E_APP",
-            	"LOWI_S_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_W_CTR",
-            	"LOVV_S_CTR",
-            	"LOVV_B_CTR",
-            	"LOVV_CTR"
-            ],
+            			"LOWI_APP",
+            			"LOWI_E_APP",
+            			"LOWI_S_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_W_CTR",
+            			"LOVV_S_CTR",
+            			"LOVV_B_CTR",
+            			"LOVV_CTR"
+            		],
 			"sectors":[
-      			{
-               "runways":[
-            			{
-                     "icao":"LOWI",
-                     "runway":"26"
-      				}
+      				{
+               				"runways":[
+            					{
+                    					"icao":"LOWI",
+                     					"runway":"26"
+      						}
     					],
 					"max":124,
 					"min":70,
@@ -3246,10 +3246,10 @@
 				{
 					"runways":[
 						 {
-								"icao":"LOWI",
-								"runway":"26"
-				 }
-				 ],
+							"icao":"LOWI",
+							"runway":"26"
+				 		}
+				 	],
 					"max":69,
 					"points":[
 						["471723","0111314"],
@@ -3271,23 +3271,23 @@
 			"id":"Innsbruck - SW Low",
 			"group":"APP",
  			"owner":[
-            	"LOWI_F_APP",
-            	"LOWI_S_APP",
-            	"LOWI_APP",
-            	"LOWI_E_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_W_CTR",
-            	"LOVV_S_CTR",
-            	"LOVV_B_CTR",
-            	"LOVV_CTR"
-            ],
+            			"LOWI_F_APP",
+            			"LOWI_S_APP",
+            			"LOWI_APP",
+            			"LOWI_E_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_W_CTR",
+            			"LOVV_S_CTR",
+            			"LOVV_B_CTR",
+            			"LOVV_CTR"
+            		],
 			"sectors":[
-      			{
-               "runways":[
-            			{
-                     "icao":"LOWI",
-                     "runway":"08"
-      				}
+      				{
+               				"runways":[
+            					{
+                     					"icao":"LOWI",
+                     					"runway":"08"
+      						}
     					],
 					"max":124,
 					"min":70,
@@ -3316,10 +3316,10 @@
 				{
 					"runways":[
 						 {
-								"icao":"LOWI",
-								"runway":"08"
-				 }
-				 ],
+							"icao":"LOWI",
+							"runway":"08"
+				 		}
+				 	],
 					"max":69,
 					"points":[
 						["471143","0112353"],
@@ -3353,23 +3353,23 @@
 			"id":"Innsbruck - SW Low",
 			"group":"APP",
  			"owner":[
-            	"LOWI_S_APP",
-            	"LOWI_APP",
-            	"LOWI_E_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_W_CTR",
-            	"LOVV_S_CTR",
-            	"LOVV_B_CTR",
-            	"LOVV_CTR"
+            			"LOWI_S_APP",
+            			"LOWI_APP",
+            			"LOWI_E_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_W_CTR",
+            			"LOVV_S_CTR",
+            			"LOVV_B_CTR",
+            			"LOVV_CTR"
             ],
 			"sectors":[
 				{
 					"runways":[
 						 {
-								"icao":"LOWI",
-								"runway":"26"
-				 }
-				 ],
+							"icao":"LOWI",
+							"runway":"26"
+				 		}
+					],
 					"max":124,
 					"min":70,
 					"points":[
@@ -3399,7 +3399,7 @@
 							{
 								"icao":"LOWI",
 								"runway":"26"
-					}
+							}
 					],
 					"max":69,
 					"points":[
@@ -3434,17 +3434,17 @@
 			"id":"Innsbruck - SE High",
 			"group":"APP",
  			"owner":[
-            	"LOWI_S_APP",
-            	"LOWI_E_APP",
-            	"LOWI_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_W_CTR",
-            	"LOVV_S_CTR",
-            	"LOVV_B_CTR",
-            	"LOVV_CTR"
-            ],
+            			"LOWI_S_APP",
+            			"LOWI_E_APP",
+            			"LOWI_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_W_CTR",
+            			"LOVV_S_CTR",
+            			"LOVV_B_CTR",
+            			"LOVV_CTR"
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":164,
 					"min":125,
 					"points":[
@@ -3462,15 +3462,15 @@
 			"id":"Klagenfurt",
 			"group":"APP",
  			"owner":[
-            	"LOWK_APP",
-            	"LOVV_S_APP",
-            	"LOVV_L_CTR",
-			"LOVV_W_CTR",
-            	"LOVV_S_CTR",
-            	"LOVV_B_CTR",
-            	"LOVV_C_CTR",
-            	"LOVV_CTR"
-            ],
+            			"LOWK_APP",
+            			"LOVV_S_APP",
+            			"LOVV_L_CTR",
+				"LOVV_W_CTR",
+            			"LOVV_S_CTR",
+            			"LOVV_B_CTR",
+            			"LOVV_C_CTR",
+            			"LOVV_CTR"
+            		],
 			"sectors":[
 				{
 					"max":164,
@@ -3564,7 +3564,7 @@
 						["471639","0130932"]
 					]
 				},
-      			{
+      				{
 					"max":164,
 					"min":45,
 					"points":[
@@ -3579,7 +3579,7 @@
 						["463826","0144311"]
 					]
 				},
-      			{
+      				{
 					"max":44,
 					"points":[
 						["472658","0131958"],
@@ -3633,7 +3633,7 @@
 						["471639","0130932"]
 					]
 				},
-      			{
+      				{
 					"max":44,
 					"points":[
 						["464312","0150033"],
@@ -3651,7 +3651,7 @@
 						["463826","0144311"]
 					]
 				},
-      			{
+      				{
 					"max":124,
 					"points":[
 						["463459","0135000"],
@@ -3694,16 +3694,16 @@
 			"id":"Linz",
 			"group":"APP",
  			"owner":[
-            	"LOWL_APP",
-            	"LOVV_N_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_N_CTR",
-            	"LOVV_E_CTR",
-            	"LOVV_CTR",
-            	"LOVV_C_CTR"
-            ],
+            			"LOWL_APP",
+            			"LOVV_N_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_N_CTR",
+            			"LOVV_E_CTR",
+            			"LOVV_CTR",
+            			"LOVV_C_CTR"
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":164,
 					"min":25,
 					"points":[
@@ -3781,7 +3781,7 @@
 						["482158","0131533"]
 					]
 				},
-      			{
+      				{
 					"max":124,
 					"points":[
 						["481036","0132351"],
@@ -3791,7 +3791,7 @@
 						["480654","0133629"]
 					]
 				},
-      			{
+      				{
 					"max":164,
 					"min":125,
 					"points":[
@@ -3808,17 +3808,17 @@
 			"id":"Salzburg",
 			"group":"APP",
  			"owner":[
-            	"LOWS_APP",
-            	"LOVV_N_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_B_CTR",
-            	"LOVV_W_CTR",
-            	"LOVV_N_CTR",
-            	"LOVV_CTR",
-            	"LOVV_C_CTR"
-            ],
+            			"LOWS_APP",
+            			"LOVV_N_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_B_CTR",
+            			"LOVV_W_CTR",
+            			"LOVV_N_CTR",
+            			"LOVV_CTR",
+            			"LOVV_C_CTR"
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":124,
 					"min":70,
 					"points":[
@@ -3891,16 +3891,16 @@
 			"id":"Wien - BALAD",
 			"group":"APP",
  			"owner":[
-            	"LOWW_APP",
-            	"LOWW_P_APP",
-            	"LOWW_N_APP",
-            	"LOWW_M_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_E_CTR",
-            	"LOVV_N_CTR",
-            	"LOVV_CTR",
-            	"LOVV_C_CTR"
-            ],
+            			"LOWW_APP",
+            			"LOWW_P_APP",
+            			"LOWW_N_APP",
+            			"LOWW_M_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_E_CTR",
+            			"LOVV_N_CTR",
+            			"LOVV_CTR",
+            			"LOVV_C_CTR"
+            		],
 			"sectors":[
 				{
 					"max":244,
@@ -3962,7 +3962,7 @@
 						["475519","0164021"]
 					]
 				},
-      			{
+      				{
 					"max":44,
 					"min":35,
 					"points":[
@@ -4059,16 +4059,16 @@
 			"id":"Wien - NERDU",
 			"group":"APP",
  			"owner":[
-            	"LOWW_N_APP",
-            	"LOWW_M_APP",
-            	"LOWW_APP",
-            	"LOWW_P_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_E_CTR",
-            	"LOVV_N_CTR",
-            	"LOVV_CTR",
-            	"LOVV_C_CTR"
-            ],
+            			"LOWW_N_APP",
+            			"LOWW_M_APP",
+            			"LOWW_APP",
+            			"LOWW_P_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_E_CTR",
+            			"LOVV_N_CTR",
+            			"LOVV_CTR",
+            			"LOVV_C_CTR"
+            		],
 			"sectors":[
 				{
 					"max":244,
@@ -4102,7 +4102,7 @@
 						["481247","0161515"]
 					]
 				},
-      			{
+      				{
 					"max":64,
 					"min":45,
 					"points":[
@@ -4206,16 +4206,16 @@
 			"id":"Wien - PESAT",
 			"group":"APP",
  			"owner":[
-            	"LOWW_P_APP",
-            	"LOWW_M_APP",
-            	"LOWW_APP",
-            	"LOWW_N_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_E_CTR",
-            	"LOVV_N_CTR",
-            	"LOVV_CTR",
-            	"LOVV_C_CTR"
-            ],
+            			"LOWW_P_APP",
+            			"LOWW_M_APP",
+            			"LOWW_APP",
+            			"LOWW_N_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_E_CTR",
+            			"LOVV_N_CTR",
+            			"LOVV_CTR",
+            			"LOVV_C_CTR"
+           		],
 			"sectors":[
       			{
 					"max":244,
@@ -4240,7 +4240,7 @@
 						["480155","0164826"]
 					]
 				},
-      			{
+      				{
 					"max":245,
 					"min":55,
 					"points":[
@@ -4261,16 +4261,16 @@
 			"id":"Wien - MABOD",
 			"group":"APP",
  			"owner":[
-            	"LOWW_M_APP",
-            	"LOWW_P_APP",
-            	"LOWW_N_APP",
-            	"LOWW_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_E_CTR",
-            	"LOVV_N_CTR",
-            	"LOVV_CTR",
-            	"LOVV_C_CTR"
-            ],
+            			"LOWW_M_APP",
+            			"LOWW_P_APP",
+            			"LOWW_N_APP",
+            			"LOWW_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_E_CTR",
+            			"LOVV_N_CTR",
+            			"LOVV_CTR",
+            			"LOVV_C_CTR"
+            		],
 			"sectors":[
 				{
 					"max":244,
@@ -4518,7 +4518,7 @@
 						["483906","0162046"]
 					]
 				},
-      			{
+      				{
 					"max":24,
 					"points":[
 						["484622","0161737"],
@@ -4580,7 +4580,7 @@
 						["483906","0162046"]
 					]
 				},
-      			{
+      				{
 					"max":244,
 					"min":55,
 					"points":[
@@ -4598,8 +4598,8 @@
 			"id":"Tulln",
 			"group":"APP",
  			"owner":[
-            	"LOXT_APP",
-            	"LOVV_M_CTR",
+            			"LOXT_APP",
+            			"LOVV_M_CTR",
 				"LOXT_APP",
 				"LOVV_M_CTR",
 				"LOWW_N_APP",
@@ -4641,7 +4641,7 @@
 						["482319","0161018"]
 					]
 				},
-      			{
+      				{
 					"max":24,
 					"points":[
 						["482434","0161651"],
@@ -4668,7 +4668,7 @@
 						["481512","0160420"]
 					]
 				},
-      			{
+      				{
 					"max":44,
 					"min":25,
 					"points":[
@@ -4723,7 +4723,7 @@
 						["481534","0155308"]
 					]
 				},
-      			{
+      				{
 					"max":64,
 					"min":25,
 					"points":[
@@ -4746,7 +4746,7 @@
 						["481907","0153734"]
 					]
 				},
-						{
+				{
 					"max":24,
 					"points":[
 						["484012","0155235"],
@@ -4774,19 +4774,19 @@
 			"id":"Zeltweg",
 			"group":"APP",
  			"owner":[
-            	"LOXZ_APP",
-            	"LOVV_M_CTR",
-							"LOWG_APP",
-							"LOVV_S_APP",
-							"LOVV_L_CTR",
-							"LOVV_S_CTR",
-							"LOVV_B_CTR",
-							"LOVV_E_CTR",
-							"LOVV_CTR",
-							"LOVV_C_CTR"
-            ],
+            			"LOXZ_APP",
+            			"LOVV_M_CTR",
+				"LOWG_APP",
+				"LOVV_S_APP",
+				"LOVV_L_CTR",
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_E_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR"
+            		],
 			"sectors":[
-      	{
+      				{
 					"max":124,
 					"min":80,
 					"points":[
@@ -4865,19 +4865,20 @@
 			"id":"Zeltweg",
 			"group":"APP",
  			"owner":[
-            	"LOXZ_APP",
-            	"LOVV_M_CTR",
-							"LOWK_APP",
-            	"LOVV_S_APP",
-            	"LOVV_L_CTR",
-							"LOVV_W_CTR",
-            	"LOVV_S_CTR",
-            	"LOVV_B_CTR",
-            	"LOVV_C_CTR",
-            	"LOVV_CTR"
-            ],
+            			"LOXZ_APP",
+            			"LOVV_M_CTR",
+				"LOWK_APP",
+            			"LOVV_S_APP",
+            			"LOVV_L_CTR",
+				"LOVV_W_CTR",
+            			"LOVV_S_CTR",
+            			"LOVV_B_CTR",
+				"LOVV_E_CTR",
+            			"LOVV_C_CTR",
+            			"LOVV_CTR"
+            		],
 			"sectors":[
-      	{
+      				{
 					"max":124,
 					"points":[
 						["465053","0144717"],
@@ -4899,8 +4900,8 @@
 			"group":"TWR",
  			"owner":[
 			"LOXT_TWR",
-            	"LOXT_APP",
-            	"LOVV_M_CTR",
+            			"LOXT_APP",
+            			"LOVV_M_CTR",
 				"LOXT_APP",
 				"LOVV_M_CTR",
 				"LOWW_N_APP",
@@ -4912,9 +4913,9 @@
 				"LOVV_N_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR"
-            ],
+            			],
 			"sectors":[
-      			{
+      				{
 					"max":24,
 					"points":[
 						["482400","0155930"],
@@ -4940,21 +4941,22 @@
 			"id":"Zeltweg",
 			"group":"TWR",
  			"owner":[
-			"LOXZ_TWR",
-            	"LOXZ_APP",
-            	"LOVV_M_CTR",
-							"LOWG_APP",
-							"LOVV_S_APP",
-							"LOWK_APP",
-							"LOVV_L_CTR",
-							"LOVV_W_CTR",
-							"LOVV_S_CTR",
-							"LOVV_B_CTR",
-							"LOVV_C_CTR",
-							"LOVV_CTR"
-            ],
+				"LOXZ_TWR",
+            			"LOXZ_APP",
+            			"LOVV_M_CTR",
+				"LOWG_APP",
+				"LOVV_S_APP",
+				"LOWK_APP",
+				"LOVV_L_CTR",
+				"LOVV_W_CTR",
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_E_CTR",
+				"LOVV_C_CTR",
+				"LOVV_CTR"
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":79,
 					"points":[
 						["471437","0142205"],
@@ -4974,19 +4976,20 @@
 			"id":"Graz",
 			"group":"TWR",
  			"owner":[
-            	"LOWG_TWR",
-							"LOWG_APP",
-            	"LOVV_S_APP",
+            			"LOWG_TWR",
+				"LOWG_APP",
+            			"LOVV_S_APP",
 				"LOWK_APP",
 				"LOVV_L_CTR",
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_E_CTR",
 				"LOVV_C_CTR",
 				"LOVV_CTR"
-            ],
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":44,
 					"points":[
 						["470552","0151456"],
@@ -5005,17 +5008,17 @@
 			"id":"Innsbruck",
 			"group":"TWR",
  			"owner":[
-            	"LOWI_TWR",
-            	"LOWI_APP",
-            	"LOWI_E_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_W_CTR",
-            	"LOVV_S_CTR",
-            	"LOVV_B_CTR",
-            	"LOVV_CTR"
-            ],
+            			"LOWI_TWR",
+            			"LOWI_APP",
+            			"LOWI_E_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_W_CTR",
+            			"LOVV_S_CTR",
+            			"LOVV_B_CTR",
+            			"LOVV_CTR"
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":69,
 					"points":[
 						["472500","0114420"],
@@ -5044,17 +5047,17 @@
 			"id":"Linz",
 			"group":"TWR",
  			"owner":[
-            	"LOWL_TWR",
-            	"LOWL_APP",
-            	"LOVV_N_CTR",
-            	"LOVV_L_CTR",
-            	"LOVV_N_CTR",
-            	"LOVV_E_CTR",
-            	"LOVV_CTR",
-            	"LOVV_C_CTR"
-            ],
+            			"LOWL_TWR",
+            			"LOWL_APP",
+            			"LOVV_N_CTR",
+            			"LOVV_L_CTR",
+            			"LOVV_N_CTR",
+            			"LOVV_E_CTR",
+            			"LOVV_CTR",
+            			"LOVV_C_CTR"
+           		],
 			"sectors":[
-      			{
+      				{
 					"max":25,
 					"points":[
 						["481717","0141930"],
@@ -5075,18 +5078,18 @@
 			"id":"Klagenfurt",
 			"group":"TWR",
  			"owner":[
-            	"LOWK_TWR",
-            	"LOWK_APP",
-            	"LOVV_S_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_W_CTR",
-            	"LOVV_S_CTR",
-            	"LOVV_B_CTR",
-            	"LOVV_C_CTR",
-            	"LOVV_CTR"
-            ],
+            			"LOWK_TWR",
+            			"LOWK_APP",
+            			"LOVV_S_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_W_CTR",
+            			"LOVV_S_CTR",
+            			"LOVV_B_CTR",
+            			"LOVV_C_CTR",
+            			"LOVV_CTR"
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":44,
 					"points":[
 						["464550","0140959"],
@@ -5109,18 +5112,18 @@
 			"id":"Salzburg",
 			"group":"TWR",
  			"owner":[
-            	"LOWS_TWR",
-            	"LOWS_APP",
-            	"LOVV_N_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_B_CTR",
-            	"LOVV_W_CTR",
-            	"LOVV_N_CTR",
-            	"LOVV_CTR",
-            	"LOVV_C_CTR"
-            ],
+            			"LOWS_TWR",
+            			"LOWS_APP",
+            			"LOVV_N_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_B_CTR",
+            			"LOVV_W_CTR",
+            			"LOVV_N_CTR",
+            			"LOVV_CTR",
+            			"LOVV_C_CTR"
+           		],
 			"sectors":[
-      			{
+      				{
 					"max":69,
 					"points":[
 						["480112","0124606"],
@@ -5140,20 +5143,20 @@
 			"id":"Wien",
 			"group":"TWR",
  			"owner":[
-            	"LOWW_TWR",
-            	"LOWW_E_TWR",
-            	"LOWW_APP",
-            	"LOWW_P_APP",
-            	"LOWW_N_APP",
-            	"LOWW_M_APP",
-            	"LOVV_L_CTR",
-            	"LOVV_E_CTR",
-            	"LOVV_N_CTR",
-            	"LOVV_CTR",
-            	"LOVV_C_CTR"
-            ],
+            			"LOWW_TWR",
+            			"LOWW_E_TWR",
+            			"LOWW_APP",
+            			"LOWW_P_APP",
+            			"LOWW_N_APP",
+            			"LOWW_M_APP",
+            			"LOVV_L_CTR",
+            			"LOVV_E_CTR",
+            			"LOVV_N_CTR",
+            			"LOVV_CTR",
+            			"LOVV_C_CTR"
+            		],
 			"sectors":[
-      			{
+      				{
 					"max":24,
 					"points":[
 						["481822","0163611"],
