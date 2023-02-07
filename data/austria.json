@@ -4946,14 +4946,12 @@
             			"LOVV_M_CTR",
 				"LOWG_APP",
 				"LOVV_S_APP",
-				"LOWK_APP",
 				"LOVV_L_CTR",
-				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
 				"LOVV_E_CTR",
-				"LOVV_C_CTR",
-				"LOVV_CTR"
+				"LOVV_CTR",
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
