@@ -2052,7 +2052,7 @@
                 "TRU",
                 "RDG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2127,7 +2127,7 @@
                 "TRU",
                 "RDG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2202,7 +2202,7 @@
                 "TRU",
                 "RDG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2278,7 +2278,7 @@
                 "ZUG",
                 "RDG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2339,7 +2339,7 @@
                 "ZUG",
                 "RDG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2400,7 +2400,7 @@
                 "ZUG",
                 "RDG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2458,7 +2458,7 @@
                 "EGG",
                 "ZUG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2519,7 +2519,7 @@
                 "EGG",
                 "ZUG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2580,7 +2580,7 @@
                 "EGG",
                 "ZUG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2640,7 +2640,7 @@
                 "RDG",
                 "EGG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2709,7 +2709,7 @@
                 "RDG",
                 "EGG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2778,7 +2778,7 @@
                 "ZUG",
                 "RDG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2830,7 +2830,7 @@
                 "ZUG",
                 "RDG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2882,7 +2882,7 @@
                 "ZUG",
                 "RDG",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -2934,7 +2934,7 @@
                 "HOF",
                 "BOR",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -3012,7 +3012,7 @@
                 "HOF",
                 "BOR",
                 "MMC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -3848,7 +3848,7 @@
                 "RUD",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -3919,7 +3919,7 @@
                 "RUD",
                 "KTG",
                 "GGC",
-"EURMW"            
+                "EMW"            
             ],
             "sectors":[
                 {
@@ -3957,7 +3957,7 @@
                 "RUD",
                 "KTG",
                 "GGC",
-"EURMW"            
+                "EMW"            
             ],
             "sectors":[
                 {
@@ -3995,7 +3995,7 @@
                 "RUD",
                 "KTG",
                 "GGC",
-"EURMW"            
+                "EMW"            
             ],
             "sectors":[
                 {
@@ -4031,7 +4031,7 @@
                 "RUD",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -4108,7 +4108,7 @@
                 "RUD",
                 "KTG",
                 "GGC",
-"EURMW"                           
+                "EMW"                           
             ],
             "sectors":[
                 {
@@ -4167,7 +4167,7 @@
                 "RUD",
                 "KTG",
                 "GGC",
-"EURMW"                           
+                "EMW"                           
             ],
             "sectors":[
                 {
@@ -6125,7 +6125,7 @@
                 "GIN",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -6330,7 +6330,7 @@
                 "GIN",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -6433,7 +6433,7 @@
                 "GIN",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -6536,7 +6536,7 @@
                 "GIN",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -7680,7 +7680,7 @@
                 "DKB",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -7913,7 +7913,7 @@
                 "DKB",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -8146,7 +8146,7 @@
                 "DKB",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -8707,7 +8707,7 @@
                 "DKB",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -8790,7 +8790,7 @@
                 "DKB",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -8845,7 +8845,7 @@
                 "DKB",
                 "KTG",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -8899,7 +8899,7 @@
                 "KTG",
                 "BAD",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -8988,7 +8988,7 @@
                 "KTG",
                 "BAD",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -9039,7 +9039,7 @@
                 "KTG",
                 "BAD",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -9090,7 +9090,7 @@
                 "KTG",
                 "BAD",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -9137,14 +9137,13 @@
                 "HMMH",
                 "PADH",
                 "GGC",
-"EURMW",
                 "CEL",
                 "SOL",
                 "EMS",
                 "DST",
                 "ALR",
                 "WWC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -9197,14 +9196,13 @@
                 "HMMH",
                 "PADH",
                 "GGC",
-"EURMW",
                 "CEL",
                 "SOL",
                 "EMS",
                 "DST",
                 "ALR",
                 "WWC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -9329,7 +9327,7 @@
                 "PADH",
                 "HMMH",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -9375,7 +9373,7 @@
                 "PADH",
                 "HMMH",
                 "GGC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -12252,7 +12250,7 @@
                 "MRZ",
                 "BOR",
                 "WWC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -12355,7 +12353,7 @@
                 "BOR",
                 "MRZ",
                 "WWC",
-"EURME"
+                "EME"
             ],
             "sectors":[
                 {
@@ -12434,8 +12432,8 @@
                 "DST",
                 "ALR",
                 "WWC",
-"EURMW",
-                "MNS"
+                "MNS",
+                "EMW"
             ],
             "sectors":[
                 {
@@ -12509,8 +12507,8 @@
                 "DST",
                 "ALR",
                 "WWC",
-"EURMW",
-                "MNS"
+                "MNS",
+                "EMW"
             ],
             "sectors":[
                 {
@@ -12562,7 +12560,7 @@
                 "EIDE",
                 "ALR",
                 "WWC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -12658,7 +12656,7 @@
                 "EIDE",
                 "ALR",
                 "WWC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -12722,7 +12720,7 @@
                 "EIDE",
                 "ALR",
                 "WWC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -12799,7 +12797,7 @@
                 "EIDE",
                 "ALR",
                 "WWC",
-"EURMW"
+                "EMW"
             ],
             "sectors":[
                 {
@@ -12872,8 +12870,8 @@
                 "DST",
                 "ALR",
                 "WWC",
-"EURMW",
-                "MNS"
+                "MNS",
+                "EMW"
             ],
             "sectors":[
                 {
@@ -12955,8 +12953,8 @@
                 "DST",
                 "ALR",
                 "WWC",
-"EURMW",
-                "MNS"
+                "MNS",
+                "EMW"
             ],
             "sectors":[
                 {
@@ -13171,10 +13169,9 @@
         "EIF": {"colours": [{"hex": "#d69277"}], "pre": ["EDFH"], "type": "APP", "frequency": "125.600", "callsign": "Langen Radar"},
         "NKRL": {"colours": [{"hex": "#30d12f"}], "pre": ["EDFM"], "type": "APP", "frequency": "129.350", "callsign": "Langen Radar"},
         "PADL": {"colours": [{"hex": "#5e8e5c"}], "pre": ["EDLP"], "type": "APP", "frequency": "125.225", "callsign": "Langen Radar"},
-    
-        "EURMW": { "pre": ["EURM", "EURM-W"], "type": "CTR", "frequency": "135.750", "callsign": "Maastricht Radar"},
-		"EURME": { "pre": ["EURM", "EURM-E"], "type": "CTR", "frequency": "135.450", "callsign": "Maastricht Radar"}
-		
+
+        "EMW": {"pre": ["EURM", "EURM-W"], "type": "CTR", "frequency": "135.450", "callsign": "Maastricht Radar"},
+        "EME": {"pre": ["EURM", "EURM-E"], "type": "CTR", "frequency": "135.750", "callsign": "Maastricht Radar"}
     },
 
     "callsigns": {
