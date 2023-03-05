@@ -776,6 +776,7 @@
             "group": "APP",
             "owner": [
                 "ILR",
+                "SWA",
                 "WLD",
                 "ZUG",
                 "TRU",
@@ -1246,7 +1247,7 @@
             ]
         },
         {
-            "id": "Schwaben (München West)",
+            "id": "Schwaben",
             "group": "APP",
             "owner": [
                 "SWA",
@@ -13127,7 +13128,7 @@
         "TRN": {"colours": [{"hex": "#43563b"}], "pre": ["EDDP"], "type": "APP", "frequency": "126.075","callsign": "München Radar"},
         "DPSAT": {"colours": [{"hex": "#c062c7"}], "pre": ["EDDP"], "type": "APP", "frequency": "129.750","callsign": "Leipzig Director"},
         "ILR": {"colours": [{"hex": "#bff2fc"}], "pre": ["EDJA"], "type": "APP", "frequency": "129.450","callsign": "München Radar"},
-        "SWA": {"colours": [{"hex": "#f71a9b"}], "pre": ["EDDM"], "type": "APP", "frequency": "136.525","callsign": "München Radar"},
+        "SWA": {"colours": [{"hex": "#f71a9b"}], "pre": ["EDMM"], "type": "APP", "frequency": "136.525","callsign": "München Radar"},
         "ARFA": {"colours": [{"hex": "#a15fc8"}], "pre": ["LSFA"], "type": "APP", "frequency": "119.925", "callsign": "Alps Radar"},
 
         "DBAN": {"colours": [{"hex": "#d5e57d"}], "pre": ["EDDB"], "type": "APP", "frequency": "119.625", "callsign": "Bremen Radar"},
