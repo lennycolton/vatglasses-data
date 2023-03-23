@@ -13365,8 +13365,8 @@
         "NKRL": {"colours": [{"hex": "#30d12f"}], "pre": ["EDFM"], "type": "APP", "frequency": "129.350", "callsign": "Langen Radar"},
         "PADL": {"colours": [{"hex": "#5e8e5c"}], "pre": ["EDLP"], "type": "APP", "frequency": "125.225", "callsign": "Langen Radar"},
 
-        "EMW": {"pre": ["EURM", "EURM-W"], "type": "CTR", "frequency": "135.450", "callsign": "Maastricht Radar"},
-        "EME": {"pre": ["EURM", "EURM-E"], "type": "CTR", "frequency": "135.750", "callsign": "Maastricht Radar"}
+        "EMW": {"pre": ["EURM", "EURM-W"], "type": "CTR", "frequency": "135.750", "callsign": "Maastricht Radar"},
+        "EME": {"pre": ["EURM", "EURM-E"], "type": "CTR", "frequency": "135.450", "callsign": "Maastricht Radar"}
     },
 
     "callsigns": {
