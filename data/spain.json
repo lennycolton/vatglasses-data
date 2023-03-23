@@ -26826,7 +26826,7 @@
         },
         {
             "id": "LECM-LEST_APP_COT (025-035)",
-            "group": "M",
+            "group": "G",
             "owner": [
                 "STA",
                 "SAI",
@@ -26853,7 +26853,7 @@
         },
         {
             "id": "LECM-LEST_APP_E (000-035)",
-            "group": "M",
+            "group": "G",
             "owner": [
                 "STA",
                 "SAI",
@@ -26912,7 +26912,7 @@
         },
         {
             "id": "LECM-LEST_APP_W (000-035)",
-            "group": "M",
+            "group": "G",
             "owner": [
                 "STA",
                 "SAI",
@@ -27008,7 +27008,7 @@
         },
         {
             "id": "LECM-LEST_TMA (035-245)",
-            "group": "M",
+            "group": "G",
             "owner": [
                 "STA",
                 "SAI",
@@ -27193,7 +27193,7 @@
         },
         {
             "id": "LECM-LEST_TMA_E (000-035)",
-            "group": "M",
+            "group": "G",
             "owner": [
                 "STA"
             ],
@@ -27376,7 +27376,7 @@
         },
         {
             "id": "LECM-LEST_TMA_W (000-035)",
-            "group": "M",
+            "group": "G",
             "owner": [
                 "STA"
             ],
@@ -30406,13 +30406,17 @@
       "name": "Barcelona",
       "colour": "#309df0"
     },
-    "M": {
-      "name": "Madrid",
+    "G": {
+      "name": "Galicia",
       "colour": "#309df0"
     },
     "L": {
         "name": "Valencia",
         "colour": "#309df0"
+    },
+    "M": {
+      "name": "Madrid",
+      "colour": "#309df0"
     },
     "P": {
         "name": "Palma",
