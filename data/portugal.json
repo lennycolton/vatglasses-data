@@ -3032,7 +3032,7 @@
     "LPMR": {
       "callsign": "Monte Real",
       "coord": [39.828385, -8.887375],
-      "topdown": ["MRA", "APPLI", "NORL", "ESTL", "C"]
+      "topdown": ["MRA", "ZFIS", "NORL", "ESTL", "C"]
     },
     "LPMT": {
       "callsign": "Montijo",
@@ -3062,7 +3062,7 @@
     "LPST": {
       "callsign": "Sintra",
       "coord": [38.831, -9.3395],
-      "topdown": ["STA", "APPLI", "CENL", "ESTL", "C"]
+      "topdown": ["STA", "ZFIS", "CENL", "ESTL", "C"]
     }
   },
   "LPAV": { "callsign": "Aveiro", "coord": [40.657166, -8.741666] },
