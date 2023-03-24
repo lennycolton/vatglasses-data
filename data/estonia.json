@@ -878,7 +878,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTE1",
+			"id": "E1",
 			"group": "EETT",
 			"owner": ["E", "S", "W", "N"],
 			"sectors": [{
@@ -1111,7 +1111,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTE1",
+			"id": "E1",
 			"group": "EETT",
 			"owner": ["E", "S", "W", "N"],
 			"sectors": [{
@@ -1127,7 +1127,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTE1",
+			"id": "E1",
 			"group": "EETT",
 			"owner": ["E", "S", "W", "N"],
 			"sectors": [{
@@ -1360,7 +1360,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTE2",
+			"id": "E2",
 			"group": "EETT",
 			"owner": ["S", "E", "W", "N"],
 			"sectors": [{
@@ -1430,7 +1430,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTE2",
+			"id": "E2",
 			"group": "EETT",
 			"owner": ["S", "E", "W", "N"],
 			"sectors": [{
@@ -1497,7 +1497,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW11",
+			"id": "W11",
 			"group": "EETT",
 			"owner": ["W", "N", "E", "S"],
 			"sectors": [{
@@ -1522,7 +1522,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW11",
+			"id": "W11",
 			"group": "EETT",
 			"owner": ["W", "N", "E", "S"],
 			"sectors": [{
@@ -1541,7 +1541,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW11",
+			"id": "W11",
 			"group": "EETT",
 			"owner": ["W", "N", "E", "S"],
 			"sectors": [{
@@ -1569,7 +1569,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW12",
+			"id": "W12",
 			"group": "EETT",
 			"owner": ["N", "W", "E", "S"],
 			"sectors": [{
@@ -1585,7 +1585,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW12",
+			"id": "W12",
 			"group": "EETT",
 			"owner": ["N", "W", "E", "S"],
 			"sectors": [{
@@ -1601,7 +1601,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW21",
+			"id": "W21",
 			"group": "EETT",
 			"owner": ["N", "W", "E", "S"],
 			"sectors": [{
@@ -1627,7 +1627,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW21",
+			"id": "W21",
 			"group": "EETT",
 			"owner": ["N", "W", "E", "S"],
 			"sectors": [{
@@ -1656,7 +1656,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW21",
+			"id": "W21",
 			"group": "EETT",
 			"owner": ["N", "W", "E", "S"],
 			"sectors": [{
@@ -1684,7 +1684,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTFED",
+			"id": "Feeder",
 			"group": "EETT",
 			"owner": ["FED", "N", "W", "E", "S"],
 			"sectors": [{
@@ -1704,7 +1704,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW23",
+			"id": "W23",
 			"group": "EETT",
 			"owner": ["N", "W", "E", "S"],
 			"sectors": [{
@@ -1723,7 +1723,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW23",
+			"id": "W23",
 			"group": "EETT",
 			"owner": ["N", "W", "E", "S"],
 			"sectors": [{
@@ -1744,7 +1744,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW31",
+			"id": "W31",
 			"group": "EETT",
 			"owner": ["W", "N", "E", "S"],
 			"sectors": [{
@@ -1766,7 +1766,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW31",
+			"id": "W31",
 			"group": "EETT",
 			"owner": ["W", "N", "E", "S"],
 			"sectors": [{
@@ -1792,7 +1792,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW32",
+			"id": "W32",
 			"group": "EETT",
 			"owner": ["W", "N", "E", "S"],
 			"sectors": [{
@@ -1822,7 +1822,7 @@
 				]
 			}]
 		}, {
-			"id": "EETTW32",
+			"id": "W32",
 			"group": "EETT",
 			"owner": ["W", "N", "E", "S"],
 			"sectors": [{
