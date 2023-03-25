@@ -27195,7 +27195,11 @@
             "id": "LECM-LEST_TMA_E (000-035)",
             "group": "G",
             "owner": [
-                "STA"
+                "STA",
+                "SAI",
+                "R1",
+                "CM",
+                "CMA"
             ],
             "sectors": [
                 {
@@ -27378,7 +27382,11 @@
             "id": "LECM-LEST_TMA_W (000-035)",
             "group": "G",
             "owner": [
-                "STA"
+                "STA",
+                "SAI",
+                "R1",
+                "CM",
+                "CMA"
             ],
             "sectors": [
                 {
