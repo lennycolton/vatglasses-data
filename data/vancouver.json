@@ -1310,7 +1310,7 @@
                     "max": 159,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "08"
                         }
                     ],
@@ -1381,7 +1381,7 @@
                     "max": 99,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "26"
                         }
                     ],
@@ -1416,7 +1416,7 @@
                     "max": 59,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "08"
                         }
                     ],
@@ -1454,7 +1454,7 @@
                     "max": 29,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "26"
                         }
                     ],
@@ -1488,7 +1488,7 @@
                     "max": 99,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "08"
                         }
                     ],
@@ -1529,7 +1529,7 @@
                     "max": 79,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "26"
                         }
                     ],
@@ -1570,7 +1570,7 @@
                     "max": 159,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "08"
                         }
                     ],
@@ -1648,7 +1648,7 @@
                     "max": 159,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "26"
                         }
                     ],
@@ -1731,7 +1731,7 @@
                     "max": 159,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "26"
                         }
                     ],
@@ -1798,7 +1798,7 @@
                     "max": 159,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "26"
                         }
                     ],
@@ -1841,7 +1841,7 @@
                     "max": 29,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "26"
                         }
                     ],
@@ -1874,7 +1874,7 @@
                     "max": 159,
                     "runways": [
                         {
-                            "icao": "CYYJ",
+                            "icao": "CYVR",
                             "runway": "26"
                         }
                     ],
@@ -3126,12 +3126,7 @@
             "comment": "CZVR_BLI_TWR",
             "group": "TWR",
             "owner": [
-                "BT",
-                "AJ",
-                "DS",
-                "DN",
-                "AO",
-                "CV"
+                "BT"
             ],
             "sectors": [
                 {
@@ -6189,7 +6184,6 @@
         "CYYJ": {
             "callsign": "Victoria",
             "coord": ["48.646944","-123.425833"],
-            "runways": ["26", "08"],
             "topdown": [
                 "DS",
                 "DN",
@@ -6219,14 +6213,7 @@
         "CZST": {"callsign": "Stewart", "coord": ["55.93306","-129.98306"]},
         "KBLI": {
             "callsign": "Bellingham",
-            "coord": ["48.79275","-122.537528"],
-            "topdown": [
-                "AJ",
-                "DS",
-                "DN",
-                "AO",
-                "CV"
-            ]
+            "coord": ["48.79275","-122.537528"]
         }
     }
 }
