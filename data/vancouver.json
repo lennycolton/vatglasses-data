@@ -6,6 +6,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -40,6 +41,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -95,6 +97,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -171,6 +174,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -315,6 +319,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -364,6 +369,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -413,6 +419,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -446,6 +453,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -482,6 +490,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -514,6 +523,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -547,6 +557,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -632,6 +643,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -687,6 +699,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -728,6 +741,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -785,6 +799,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -842,6 +857,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -878,6 +894,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -911,6 +928,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -943,6 +961,7 @@
             "group": "DEP",
             "owner": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1281,6 +1300,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1351,6 +1371,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1385,6 +1406,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1422,6 +1444,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1455,6 +1478,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1495,6 +1519,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1535,6 +1560,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1612,6 +1638,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1694,6 +1721,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1760,6 +1788,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1802,6 +1831,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1834,6 +1864,7 @@
             "owner": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -1919,7 +1950,7 @@
             ]
         },
         {
-            "id": "C",
+            "id": "Castlegar",
             "group": "CZVR",
             "owner": [
                 "CC",
@@ -1979,7 +2010,7 @@
             ]
         },
         {
-            "id": "E",
+            "id": "East",
             "group": "CZVR",
             "owner": [
                 "CE",
@@ -2020,7 +2051,7 @@
             ]
         },
         {
-            "id": "E",
+            "id": "East",
             "group": "CZVR",
             "owner": [
                 "CE",
@@ -2058,7 +2089,7 @@
             ]
         },
         {
-            "id": "HE",
+            "id": "Haida",
             "group": "CZVR",
             "owner": [
                 "CH",
@@ -2092,7 +2123,7 @@
             ]
         },
         {
-            "id": "HE",
+            "id": "Haida",
             "group": "CZVR",
             "owner": [
                 "CH",
@@ -2128,7 +2159,7 @@
             ]
         },
         {
-            "id": "HW",
+            "id": "Haida",
             "group": "CZVR",
             "owner": [
                 "CH",
@@ -2188,7 +2219,7 @@
             ]
         },
         {
-            "id": "K",
+            "id": "Holberg",
             "group": "CZVR",
             "owner": [
                 "CK",
@@ -2219,7 +2250,7 @@
             ]
         },
         {
-            "id": "K",
+            "id": "Holberg",
             "group": "CZVR",
             "owner": [
                 "CK",
@@ -2254,7 +2285,7 @@
             ]
         },
         {
-            "id": "N",
+            "id": "North",
             "group": "CZVR",
             "owner": [
                 "CN",
@@ -2312,7 +2343,7 @@
             ]
         },
         {
-            "id": "N",
+            "id": "North",
             "group": "CZVR",
             "owner": [
                 "CN",
@@ -2351,7 +2382,7 @@
             ]
         },
         {
-            "id": "N",
+            "id": "North",
             "group": "CZVR",
             "owner": [
                 "CN",
@@ -2393,7 +2424,7 @@
             ]
         },
         {
-            "id": "S",
+            "id": "South",
             "group": "CZVR",
             "owner": [
                 "CS",
@@ -2425,7 +2456,7 @@
             ]
         },
         {
-            "id": "S",
+            "id": "South",
             "group": "CZVR",
             "owner": [
                 "CS",
@@ -2467,7 +2498,7 @@
             ]
         },
         {
-            "id": "W",
+            "id": "West",
             "group": "CZVR",
             "owner": [
                 "CW",
@@ -2553,7 +2584,7 @@
             ]
         },
         {
-            "id": "W",
+            "id": "West",
             "group": "CZVR",
             "owner": [
                 "CW",
@@ -2620,7 +2651,7 @@
             ]
         },
         {
-            "id": "W",
+            "id": "West",
             "group": "CZVR",
             "owner": [
                 "CW",
@@ -2668,7 +2699,7 @@
             ]
         },
         {
-            "id": "XN",
+            "id": "Prince George",
             "group": "CZVR",
             "owner": [
                 "CX",
@@ -2702,7 +2733,7 @@
             ]
         },
         {
-            "id": "XS",
+            "id": "Prince George",
             "group": "CZVR",
             "owner": [
                 "CX",
@@ -2739,7 +2770,7 @@
             ]
         },
         {
-            "id": "Y",
+            "id": "Enderby",
             "group": "CZVR",
             "owner": [
                 "CY",
@@ -2775,7 +2806,7 @@
             ]
         },
         {
-            "id": "ZE",
+            "id": "Sandspit",
             "group": "CZVR",
             "owner": [
                 "CZ",
@@ -2834,7 +2865,7 @@
             ]
         },
         {
-            "id": "ZW",
+            "id": "Sandspit",
             "group": "CZVR",
             "owner": [
                 "CZ",
@@ -2878,6 +2909,7 @@
                 "OJ",
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -2952,6 +2984,7 @@
             "owner": [
                 "OJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -3001,6 +3034,7 @@
                 "TJ",
                 "OJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -3094,6 +3128,7 @@
                 "BT",
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -3178,6 +3213,7 @@
             "owner": [
                 "HT",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -3259,6 +3295,7 @@
             "owner": [
                 "TL",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -3351,6 +3388,7 @@
             "owner": [
                 "TK",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -3469,6 +3507,7 @@
                 "TS",
                 "TO",
                 "DS",
+                "DN",
                 "AO",
                 "CV",
                 "AL"
@@ -3514,6 +3553,7 @@
                 "TS",
                 "TN",
                 "DS",
+                "DN",
                 "AO",
                 "CV",
                 "AL"
@@ -3605,6 +3645,7 @@
                 "TS",
                 "TN",
                 "DS",
+                "DN",
                 "AO",
                 "CV",
                 "AL"
@@ -3653,6 +3694,7 @@
                 "TS",
                 "TN",
                 "DS",
+                "DN",
                 "AO",
                 "CV",
                 "AL"
@@ -3699,6 +3741,7 @@
                 "TS",
                 "TN",
                 "DS",
+                "DN",
                 "AO",
                 "CV",
                 "AL"
@@ -3863,6 +3906,7 @@
                 "TX",
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -3940,6 +3984,7 @@
                 "TB",
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -3978,6 +4023,7 @@
                 "OB",
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ],
@@ -6035,7 +6081,9 @@
             "coord": ["49.294444","-123.111389"],
             "topdown": [
                 "DS",
+                "DN",
                 "AO",
+                "AL",
                 "CV"
             ]
         },
@@ -6059,7 +6107,9 @@
             "coord": ["49.100945","-122.630736"],
             "topdown": [
                 "DS",
+                "DN",
                 "AO",
+                "AL",
                 "CV"
             ]
         },
@@ -6068,7 +6118,9 @@
             "coord": ["49.216088","-122.713397"],
             "topdown": [
                 "DS",
+                "DN",
                 "AO",
+                "AL",
                 "CV"
             ]
         },
@@ -6096,9 +6148,10 @@
             "runways": ["26", "08"],
             "topdown": [
                 "DS",
+                "DN",
                 "AO",
-                "CV",
-                "AL"
+                "AL",
+                "CV"
             ]
         },
         "CYWH": {"callsign": "Victoria Harbour", "coord": ["48.41667","-123.33306"]},
@@ -6121,6 +6174,7 @@
             "topdown": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ]
@@ -6133,6 +6187,7 @@
             "runways": ["26", "08"],
             "topdown": [
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ]
@@ -6146,7 +6201,9 @@
             "coord": ["49.073468","-123.008396"],
             "topdown": [
                 "DS",
+                "DN",
                 "AO",
+                "AL",
                 "CV"
             ]
         },
@@ -6161,6 +6218,7 @@
             "topdown": [
                 "AJ",
                 "DS",
+                "DN",
                 "AO",
                 "CV"
             ]
