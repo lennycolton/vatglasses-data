@@ -1296,7 +1296,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (1) 08",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1367,7 +1367,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (1) 26",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1402,7 +1402,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (2) 08",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1440,7 +1440,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (2) 26",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1474,7 +1474,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (3) 08",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1515,7 +1515,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (3) 26",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1556,7 +1556,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (4) 08",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1634,7 +1634,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (4) 26",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1717,7 +1717,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (5) 26",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1784,7 +1784,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (6) 26",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1827,7 +1827,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (7) 26",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1860,7 +1860,7 @@
         {
             "id": "Victoria",
             "comment": "CYYJ_APP (8) 26",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AJ",
                 "DS",
@@ -1892,9 +1892,10 @@
         },
         {
             "id": "Comox",
-            "group": "APP",
+            "group": "TCA",
             "owner": [
                 "AQ",
+                "DQ",
                 "CW",
                 "CV"
             ],
@@ -3480,6 +3481,7 @@
             "group": "TWR",
             "owner": [
                 "TQ",
+                "DQ",
                 "AQ",
                 "CW",
                 "CV"
@@ -6057,6 +6059,9 @@
         },
         "TWR": {
             "": "Tower"
+        },
+        "TCA": {
+            "": "Approach"
         },
         "APP": {
             "": "Arrival"
