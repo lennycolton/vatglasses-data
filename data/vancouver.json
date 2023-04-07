@@ -1919,7 +1919,7 @@
             ]
         },
         {
-            "id": "CZVR_C_CTR",
+            "id": "C",
             "group": "CZVR",
             "owner": [
                 "CC",
@@ -1979,7 +1979,7 @@
             ]
         },
         {
-            "id": "CZVR_E_CTR",
+            "id": "E",
             "group": "CZVR",
             "owner": [
                 "CE",
@@ -2020,7 +2020,7 @@
             ]
         },
         {
-            "id": "CZVR_E_CTR",
+            "id": "E",
             "group": "CZVR",
             "owner": [
                 "CE",
@@ -2058,7 +2058,7 @@
             ]
         },
         {
-            "id": "CZVR_HE_CTR",
+            "id": "HE",
             "group": "CZVR",
             "owner": [
                 "CH",
@@ -2092,7 +2092,7 @@
             ]
         },
         {
-            "id": "CZVR_HE_CTR",
+            "id": "HE",
             "group": "CZVR",
             "owner": [
                 "CH",
@@ -2128,7 +2128,7 @@
             ]
         },
         {
-            "id": "CZVR_HW_CTR",
+            "id": "HW",
             "group": "CZVR",
             "owner": [
                 "CH",
@@ -2188,7 +2188,7 @@
             ]
         },
         {
-            "id": "CZVR_K_CTR",
+            "id": "K",
             "group": "CZVR",
             "owner": [
                 "CK",
@@ -2219,7 +2219,7 @@
             ]
         },
         {
-            "id": "CZVR_K_CTR",
+            "id": "K",
             "group": "CZVR",
             "owner": [
                 "CK",
@@ -2254,7 +2254,7 @@
             ]
         },
         {
-            "id": "CZVR_N_CTR",
+            "id": "N",
             "group": "CZVR",
             "owner": [
                 "CN",
@@ -2312,7 +2312,7 @@
             ]
         },
         {
-            "id": "CZVR_N_CTR",
+            "id": "N",
             "group": "CZVR",
             "owner": [
                 "CN",
@@ -2351,7 +2351,7 @@
             ]
         },
         {
-            "id": "CZVR_N_CTR",
+            "id": "N",
             "group": "CZVR",
             "owner": [
                 "CN",
@@ -2393,7 +2393,7 @@
             ]
         },
         {
-            "id": "CZVR_S_CTR",
+            "id": "S",
             "group": "CZVR",
             "owner": [
                 "CS",
@@ -2425,7 +2425,7 @@
             ]
         },
         {
-            "id": "CZVR_S_CTR",
+            "id": "S",
             "group": "CZVR",
             "owner": [
                 "CS",
@@ -2467,7 +2467,7 @@
             ]
         },
         {
-            "id": "CZVR_W_CTR",
+            "id": "W",
             "group": "CZVR",
             "owner": [
                 "CW",
@@ -2553,7 +2553,7 @@
             ]
         },
         {
-            "id": "CZVR_W_CTR",
+            "id": "W",
             "group": "CZVR",
             "owner": [
                 "CW",
@@ -2620,7 +2620,7 @@
             ]
         },
         {
-            "id": "CZVR_W_CTR",
+            "id": "W",
             "group": "CZVR",
             "owner": [
                 "CW",
@@ -2668,7 +2668,7 @@
             ]
         },
         {
-            "id": "CZVR_XN_CTR",
+            "id": "XN",
             "group": "CZVR",
             "owner": [
                 "CX",
@@ -2702,7 +2702,7 @@
             ]
         },
         {
-            "id": "CZVR_XS_CTR",
+            "id": "XS",
             "group": "CZVR",
             "owner": [
                 "CX",
@@ -2739,7 +2739,7 @@
             ]
         },
         {
-            "id": "CZVR_Y_CTR",
+            "id": "Y",
             "group": "CZVR",
             "owner": [
                 "CY",
@@ -2775,7 +2775,7 @@
             ]
         },
         {
-            "id": "CZVR_ZE_CTR",
+            "id": "ZE",
             "group": "CZVR",
             "owner": [
                 "CZ",
@@ -2834,7 +2834,7 @@
             ]
         },
         {
-            "id": "CZVR_ZW_CTR",
+            "id": "ZW",
             "group": "CZVR",
             "owner": [
                 "CZ",
