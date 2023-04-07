@@ -5356,6 +5356,10 @@
             "name": "Vancouver",
             "colour": "#ffffff"
         },
+        "TCA": {
+            "name": "Approach",
+            "colour": "#ffffff"
+        },
         "APP": {
             "name": "Arrival",
             "colour": "#ffffff"
