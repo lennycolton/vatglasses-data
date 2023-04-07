@@ -3864,6 +3864,7 @@
     "CYEG": {
 		"callsign": "Edmonton", 
 		"coord": ["53.309722","-113.579722"],
+		"default": false,
 		"topdown": [
 		"DP",
 		"AR",
@@ -3993,6 +3994,7 @@
     "CYYC": {
 		"callsign": "Calgary", 
 		"coord": ["51.113889","-114.020278"],
+		"default": false,
 		"topdown": [
 		"DE",
 		"AW",
@@ -4026,7 +4028,7 @@
     "CZPC": {"callsign": "Pincher Creek", "coord": ["49.520556","-113.997222"]},
     "CZUE": {"callsign": "Cape Parry ", "coord": ["70.16667","-124.7"]},
     "CZVL": {
-		"callsign": "Edmonton-Villeneuve", 
+		"callsign": "Villeneuve", 
 		"coord": ["53.66667","-113.86639"],
 		"topdown": [
 		"DP",
