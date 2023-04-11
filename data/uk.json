@@ -28902,31 +28902,31 @@
   ],
   "groups": {
     "LS": {
-      "name": "London Area",
+      "name": "London",
       "colour": "#309df0"
     },
     "LD": {
-      "name": "London Area",
+      "name": "London",
       "colour": "#3063f0"
     },
     "LM": {
-      "name": "London Area",
+      "name": "London",
       "colour": "#ded123"
     },
     "LE": {
-      "name": "London Area",
+      "name": "London",
       "colour": "#deaf23"
     },
     "LL": {
-      "name": "London Area",
+      "name": "London",
       "colour": "#e34b29"
     },
     "LN": {
-      "name": "London Area",
+      "name": "London",
       "colour": "#702716"
     },
     "LW": {
-      "name": "London Area",
+      "name": "London",
       "colour": "#368524"
     },
     "TNW": {
@@ -28962,39 +28962,39 @@
       "colour": "#3063f0"
     },
     "SS": {
-      "name": "Scottish Area",
+      "name": "Scottish",
       "colour": "#ded123"
     },
     "SN": {
-      "name": "Scottish Area",
+      "name": "Scottish",
       "colour": "#deaf23"
     },
     "SW": {
-      "name": "Scottish Area",
+      "name": "Scottish",
       "colour": "#3063f0"
     },
     "SD": {
-      "name": "Scottish Area",
+      "name": "Scottish",
       "colour": "#309df0"
     },
     "ST": {
-      "name": "Scottish Terminal",
+      "name": "Scottish",
       "colour": "#309df0"
     },
     "SA": {
-      "name": "Scottish Terminal",
+      "name": "Scottish",
       "colour": "#3063f0"
     },
     "MNE": {
-      "name": "Scottish Manchester",
+      "name": "Scottish (Manchester)",
       "colour": "#702716"
     },
     "MSE": {
-      "name": "Scottish Manchester",
+      "name": "Scottish (Manchester)",
       "colour": "#e34b29"
     },
     "MW": {
-      "name": "Scottish Manchester",
+      "name": "Scottish (Manchester)",
       "colour": "#e34b29"
     },
     "J": {
