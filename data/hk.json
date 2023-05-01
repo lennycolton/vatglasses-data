@@ -1,4 +1,10 @@
 {
+ "bounds": [
+    [24, 110],
+    [24, 118],
+    [16, 118],
+    [16, 110]
+  ],
   "airspace": [
     {
         "id": "East (Lower)",
@@ -646,88 +652,6 @@
         ]
     },
     {
-        "id": "Macau (Special Agreement Area)",
-        "group": "APP",
-        "owner": [
-            "ZUH",
-            "GGG",
-            "GZU",
-            "MCR",
-            "DEP",
-            "DEH",
-            "APP",
-            "FAD",
-            "TRE"
-        ],
-        "sectors": [
-            {
-                "runways": [
-                    {
-                      "icao": "VMMC",
-                      "runway": "34"
-                    }
-                  ],
-                "min": 20,
-                "max": 60,
-                "points": [
-                    ["215956","1133420"],
-                    ["215957","1133421"],
-                    ["221321","1132525"],
-                    ["222500","1133351"],
-                    ["222452","1133816"],
-                    ["222051","1133939"],
-                    ["222434","1134944"],
-                    ["222000","1134536"],
-                    ["221344","1133957"],
-                    ["221042","1133758"],
-                    ["221252","1133258"],
-                    ["221211","1133145"]
-                ]
-            }
-        ]
-    },
-    {
-        "id": "Macau (Special Agreement Area)",
-        "group": "APP",
-        "owner": [
-            "ZUH",
-            "GGG",
-            "GZU",
-            "MCR",
-            "APP",
-            "FAD",
-            "DEP",
-            "DEH",
-            "TRE"
-        ],
-        "sectors": [
-            {
-                "runways": [
-                    {
-                      "icao": "VMMC",
-                      "runway": "16"
-                    }
-                  ],
-                "min": 20,
-                "max": 60,
-                "points": [
-                    ["215956","1133420"],
-                    ["215957","1133421"],
-                    ["221321","1132525"],
-                    ["222500","1133351"],
-                    ["222452","1133816"],
-                    ["222051","1133939"],
-                    ["222434","1134944"],
-                    ["222000","1134536"],
-                    ["221344","1133957"],
-                    ["221042","1133758"],
-                    ["221252","1133258"],
-                    ["221211","1133145"]
-                ]
-            }
-        ]
-    },
-    {
         "id": "Hong Kong",
         "group": "FIN",
         "owner": [
@@ -1367,13 +1291,13 @@
 
   "positions": {
     "SEA": {"colours": [{"hex": "#0094ff"}], "pre": ["ASEA"], "type": "FSS", "frequency": "135.350","callsign": "South East Asia Control"},
-    "TRE": {"colours": [{"hex": "#b2af4d"}],    "pre": ["HKG"], "type": "CTR", "frequency": "121.300","callsign": "Hong Kong Radar"},
-    "TR1": {"colours": [{"hex": "#3b9b02"}], "pre": ["HKG"], "type": "CTR", "frequency": "118.925","callsign": "Hong Kong Radar"},
-    "TRS": {"colours": [{"hex": "#ad8405"}], "pre": ["HKG"], "type": "CTR", "frequency": "132.150","callsign": "Hong Kong Radar"},
-    "TS1": {"colours": [{"hex": "#6c05ad"}], "pre": ["HKG"], "type": "CTR", "frequency": "128.125","callsign": "Hong Kong Radar"},
-    "TRW": {"colours": [{"hex": "#ad0e05"}], "pre": ["HKG"], "type": "CTR", "frequency": "127.100","callsign": "Hong Kong Radar"},
-    "TW1": {"colours": [{"hex": "#71474e"}], "pre": ["HKG"], "type": "CTR", "frequency": "125.325","callsign": "Hong Kong Radar"},
-    "TW2": {"colours": [{"hex": "#59686b"}], "pre": ["HKG"], "type": "CTR", "frequency": "122.950","callsign": "Hong Kong Radar"},
+    "TRE": {"colours": [{"hex": "#309df0"}],    "pre": ["HKG"], "type": "CTR", "frequency": "121.300","callsign": "Hong Kong Radar"},
+    "TR1": {"colours": [{"hex": "#e34b29"}], "pre": ["HKG"], "type": "CTR", "frequency": "118.925","callsign": "Hong Kong Radar"},
+    "TRS": {"colours": [{"hex": "#ded123"}], "pre": ["HKG"], "type": "CTR", "frequency": "132.150","callsign": "Hong Kong Radar"},
+    "TS1": {"colours": [{"hex": "#36d6d9"}], "pre": ["HKG"], "type": "CTR", "frequency": "128.125","callsign": "Hong Kong Radar"},
+    "TRW": {"colours": [{"hex": "#56de37"}], "pre": ["HKG"], "type": "CTR", "frequency": "127.100","callsign": "Hong Kong Radar"},
+    "TW1": {"colours": [{"hex": "#db0d9d"}], "pre": ["HKG"], "type": "CTR", "frequency": "125.325","callsign": "Hong Kong Radar"},
+    "TW2": {"colours": [{"hex": "#e54a89"}], "pre": ["HKG"], "type": "CTR", "frequency": "122.950","callsign": "Hong Kong Radar"},
     "TME": {"colours": [{"hex": "#3c8e5c"}], "pre": ["VHHH"], "type": "APP", "frequency": "126.500","callsign": "Hong Kong Radar"},
     "TMS": {"colours": [{"hex": "#362420"}], "pre": ["VHHH"], "type": "APP", "frequency": "126.300","callsign": "Hong Kong Radar"},
     "TM1": {"colours": [{"hex": "#595c43"}], "pre": ["VHHH"], "type": "APP", "frequency": "123.475","callsign": "Hong Kong Radar"},
@@ -1383,10 +1307,7 @@
     "DEP": {"colours": [{"hex": "#a06e26"}], "pre": ["VHHH"], "type": "DEP", "frequency": "123.800","callsign": "Hong Kong Departure"},
     "DEH": {"colours": [{"hex": "#a06e26"}], "pre": ["VHHH"], "type": "DEP", "frequency": "122.000","callsign": "Hong Kong Departure"},
     "FAD": {"colours": [{"hex": "#a06e26"}], "pre": ["VHHH"], "type": "APP", "frequency": "119.500","callsign": "Hong Kong Director"},
-    "PAR": {"colours": [{"hex": "#a06e26"}], "pre": ["VHHH"], "type": "APP", "frequency": "133.700","callsign": "Hong Kong Precision"},
-    "ZUH": {"colours": [{"hex": "#485869"}], "pre": ["ZGJD"], "type": "APP", "frequency": "120.350","callsign": "Zhuhai Approach"},
-    "GGG": {"colours": [{"hex": "#083b13"}], "pre": ["ZGGG"], "type": "CTR", "frequency": "128.350","callsign": "Guangzhou Control"},
-    "GZU": {"colours": [{"hex": "#0b3eb3"}], "pre": ["ZGZU"], "type": "CTR", "frequency": "132.750","callsign": "Guangzhou Control"}
+    "PAR": {"colours": [{"hex": "#a06e26"}], "pre": ["VHHH"], "type": "APP", "frequency": "133.700","callsign": "Hong Kong Precision"}
   },
 
   "callsigns": {
