@@ -29099,7 +29099,7 @@
     "LAM": { "colours": [{ "hex": "#a15c1d" }], "pre": [ "LTC","LTC-N2" ], "type": "CTR","frequency": "123.900","callsign": "London Control", "comment": "LAM" },
     "TIMBA": { "colours": [{ "hex": "#ab713c" }], "pre": [ "LTC","LTC-ST" ], "type": "CTR","frequency": "120.175","callsign": "London Control", "comment": "TIMBA" },
     "GODLU": { "colours": [{ "hex": "#ab713c" }], "pre": [ "LTC","LTC-SG" ], "type": "CTR","frequency": "135.325","callsign": "London Control", "comment": "GODLU" },
-    "OCK": { "colours": [{ "hex": "#ab713c" }], "pre": [ "LTC","LTC-SO" ], "type": "CTR","frequency": "129.075","callsign": "London Control", "comment": "OCK" },
+    "OCK": { "colours": [{ "hex": "#82057a" }], "pre": [ "LTC","LTC-SO" ], "type": "CTR","frequency": "129.075","callsign": "London Control", "comment": "OCK" },
     "SABER": { "colours": [{ "hex": "#a98827" }], "pre": [ "LTC","LTC-ES" ], "type": "CTR","frequency": "129.600","callsign": "London Control", "comment": "SABER" },
     "JACKO": { "colours": [{ "hex": "#a98827" }], "pre": [ "LTC","LTC-EJ" ], "type": "CTR","frequency": "135.425","callsign": "London Control", "comment": "JACKO" },
     "REDFA": { "colours": [{ "hex": "#a98827" }], "pre": [ "LTC","LTC-ER" ], "type": "CTR","frequency": "133.525","callsign": "London Control", "comment": "East Sby" },
