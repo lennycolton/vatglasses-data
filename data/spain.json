@@ -30448,7 +30448,7 @@
     "ALAD": { "colours": [{ "hex": "#d69277" }], "pre": [ "LEAL" ], "type": "DEP", "frequency": "118.800", "callsign": "Valencia Control" },
     "ALG": { "colours": [{ "hex": "#836887" }], "pre": [ "LEAL" ], "type": "GND", "frequency": "130.650", "callsign": "Alicante Ground" },
     "ALT": { "colours": [{ "hex": "#7f3beb" }], "pre": [ "LEAL" ], "type": "TWR", "frequency": "118.150", "callsign": "Alicante Tower" },
-    "BBA": { "colours": [{ "hex": "#227c8" }], "pre": [ "LEBB" ], "type": "APP", "frequency": "127.450", "callsign": "Bilbao Approach" },
+    "BBA": { "colours": [{ "hex": "#c3bf68" }], "pre": [ "LEBB" ], "type": "APP", "frequency": "127.450", "callsign": "Bilbao Approach" },
     "BLA2": { "colours": [{ "hex": "#30d12f" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "121.150", "callsign": "Barcelona Approach" },
     "BLA3": { "colours": [{ "hex": "#227c8" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "126.500", "callsign": "Barcelona Approach" },
     "BLA4": { "colours": [{ "hex": "#493887" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "127.700", "callsign": "Barcelona Approach" },
