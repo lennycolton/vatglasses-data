@@ -3025,6 +3025,7 @@
 		"TWR":{"name":"Tower"}
 	},
 	"positions":{
+		"EURE_FSS": { "pre": ["EURE"], "type": "FSS", "frequency": "135.300", "callsign": "Eurocontrol East"},
 		"LHBP_APP": {"colours": [{"hex": "#DFFF00"}], "pre": ["LHBP"], "type": "APP", "frequency": "122.975", "callsign": "Budapest Approach"},
 		"LHBP_U_APP": {"colours": [{"hex": "#ffbf00"}], "pre": ["LHBP"], "type": "APP", "frequency": "123.850", "callsign": "Budapest Approach"},
 		"LHBP_TWR": {"colours": [{"hex": "#6495ed"}], "pre": ["LHBP"], "type": "TWR", "frequency": "118.100", "callsign": "Budapest Tower"},
