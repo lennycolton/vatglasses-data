@@ -12248,6 +12248,7 @@
                 "OSE",
                 "HVL",
                 "MRZ",
+                "MAR",
                 "BOR",
                 "WWC",
                 "EME"
@@ -12355,7 +12356,8 @@
                 "MRZ",
                 "MAR",
                 "BOR",
-                "WWC"
+                "WWC",
+                "EME"
             ],
             "sectors":[
                 {
@@ -12456,6 +12458,8 @@
                 "HVL",
                 "OSE",
                 "BOR",
+                "FLG",
+                "MAR",
                 "MRZ",
                 "WWC",
                 "EME"
@@ -12537,6 +12541,8 @@
             "HVL",
             "OSE",
             "BOR",
+            "FLG",
+            "MAR",
             "MRZ",
             "WWC",
             "EME"
