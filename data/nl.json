@@ -3201,11 +3201,11 @@
       "colours": [{ "hex": "#004300" }]
     },
     "EMW": {
-      "callsign": "Maastricht",
+      "callsign": "Maastricht Radar",
       "frequency": "135.750",
       "type": "CTR",
-      "pre": ["EURM-W"],
-      "colours": [{ "hex": "#a5ffff" }]
+      "pre": ["EURM", "EURM-W"],
+      "colours": [{ "hex": "#ffffff" }]
     }
   },
 

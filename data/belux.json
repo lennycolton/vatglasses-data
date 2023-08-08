@@ -7292,7 +7292,8 @@
           "frequency":"135.750",
           "type":"CTR",
           "pre":[
-             "EURM-W"
+            "EURM",
+            "EURM-W"
           ]
        }
     },

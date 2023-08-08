@@ -73,7 +73,7 @@
 				"LOVV_N_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
 			],
 			"sectors":[
 				{
@@ -113,7 +113,7 @@
 				"LOVV_N_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
 			],
 			"sectors":[
 				{
@@ -153,7 +153,7 @@
 				"LOVV_N_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
 			],
 			"sectors":[
 				{
@@ -193,7 +193,7 @@
             "LOVV_N_CTR",
             "LOVV_CTR",
             "LOVV_C_CTR",
-			"EURM_E_CTR"
+			"EME"
 			],
 			"sectors":[
 				{
@@ -316,7 +316,7 @@
 				"LOVV_N_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             ],
 			"sectors":[
       			{
@@ -406,7 +406,7 @@
 				"LOVV_N_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             ],
 			"sectors":[
       			{
@@ -496,7 +496,7 @@
 				"LOVV_N_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             ],
 			"sectors":[
       			{
@@ -586,7 +586,7 @@
 				"LOVV_N_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             ],
 			"sectors":[
       			{
@@ -745,7 +745,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             ],
 			"sectors":[
       			{
@@ -787,7 +787,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       			{
@@ -829,7 +829,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             ],
 			"sectors":[
       			{
@@ -871,7 +871,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             ],
 			"sectors":[
       			{
@@ -1304,7 +1304,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -1394,7 +1394,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -1509,7 +1509,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -1599,7 +1599,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -1714,7 +1714,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -1804,7 +1804,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -1919,7 +1919,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -2008,7 +2008,7 @@
 				"LOVV_E_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -2223,7 +2223,7 @@
 				"LOVV_B_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -2282,7 +2282,7 @@
 				"LOVV_B_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -2341,7 +2341,7 @@
 				"LOVV_B_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
             		],
 			"sectors":[
       				{
@@ -2400,7 +2400,7 @@
 				"LOVV_B_CTR",
 				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"EURM_E_CTR"
+				"EME"
            		],
 			"sectors":[
       				{
@@ -5181,7 +5181,7 @@
 		}
 	},
 	"positions":{
-		"EURM_E_CTR": { "pre": ["EURM", "EURM-E"], "type": "CTR", "frequency": "135.450", "callsign": "Maastricht Radar"},
+		"EME": { "pre": ["EURM", "EURM-E"], "type": "CTR", "frequency": "135.450", "callsign": "Maastricht Radar"},
 		"LOVV_CTR":		{"colours":[{"hex":"#DFFF00"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"132.600",	"callsign":"Wien Radar"},
 		"LOVV_F_CTR":		{"colours":[{"hex":"#ffbf00"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"128.700",	"callsign":"Wien Radar"},
 		"LOVV_I_CTR":		{"colours":[{"hex":"#6495ed"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"124.400",	"callsign":"Vienna Info"},	
