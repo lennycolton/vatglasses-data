@@ -9,7 +9,7 @@
             "V",
             "B",
             "D",
-            "EURN"
+            "EN"
         ],
         "sectors": [
             {
@@ -66,7 +66,7 @@
           "B",
           "D",
           "V",
-          "EURN"
+          "EN"
       ],
       "sectors": [
           {
@@ -250,7 +250,7 @@
             "V",
             "D",
             "B",
-            "EURN"
+            "EN"
         ],
         "sectors": [
             {
@@ -296,7 +296,7 @@
             "D",
             "B",
             "V",
-            "EURN"
+            "EN"
         ],
         "sectors": [
             {
@@ -666,7 +666,7 @@
             "B",
             "D",
             "V",
-            "EURN"
+            "EN"
         ],
         "sectors": [
             {
@@ -845,7 +845,7 @@
             "V",
             "D",
             "B",
-            "EURN"
+            "EN"
         ],
         "sectors": [
             {
@@ -1043,7 +1043,7 @@
             "V",
             "D",
             "B",
-            "EURN"
+            "EN"
         ],
         "sectors": [
             {
@@ -1249,7 +1249,7 @@
             "V",
             "D",
             "B",
-            "EURN"
+            "EN"
         ],
         "sectors": [
             {
@@ -1288,7 +1288,7 @@
             "V",
             "D",
             "B",
-            "EURN"
+            "EN"
         ],
         "sectors": [
             {
@@ -4667,8 +4667,8 @@
               }
           ]
       },
-      "EURN": {
-          "callsign": "Eurocontrol",
+      "EN": {
+          "callsign": "Eurocontrol North",
           "frequency": "133.450",
           "type": "FSS",
           "pre": [
