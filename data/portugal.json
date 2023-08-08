@@ -1456,7 +1456,7 @@
       "id": "Centre Low",
       "comment": "CENTRE_LOWER",
       "group": "LPPC",
-      "owner": ["CENL", "ESTL", "C", "EURO"],
+      "owner": ["CENL", "ESTL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -1500,7 +1500,7 @@
       "id": "Centre Mid",
       "comment": "CENTRE_MID",
       "group": "LPPC",
-      "owner": ["CENU", "NORU", "CENL", "ESTL", "C", "EURO"],
+      "owner": ["CENU", "NORU", "CENL", "ESTL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 345,
@@ -1544,7 +1544,7 @@
       "id": "Centre Top",
       "comment": "CENTRE_TOP",
       "group": "LPPC",
-      "owner": ["CENU", "NORU", "CENL", "ESTL", "C", "EURO"],
+      "owner": ["CENU", "NORU", "CENL", "ESTL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 365,
@@ -1780,7 +1780,7 @@
       "id": "DEMOS Low",
       "comment": "DEMOS_LOWER",
       "group": "LPPC",
-      "owner": ["DEML", "OESL", "C", "EURO"],
+      "owner": ["DEML", "OESL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -1821,7 +1821,7 @@
       "id": "DEMOS Upper",
       "comment": "DEMOS_UPPER",
       "group": "LPPC",
-      "owner": ["OESU", "DEML", "OESL", "C", "EURO"],
+      "owner": ["OESU", "DEML", "OESL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 365,
@@ -1861,7 +1861,7 @@
       "id": "Madeira",
       "comment": "MADEIRA",
       "group": "LPPC",
-      "owner": ["MADL", "OESL", "C", "EURO"],
+      "owner": ["MADL", "OESL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -2239,7 +2239,7 @@
       "id": "North Low",
       "comment": "NORTH_LOWER",
       "group": "LPPC",
-      "owner": ["NORL", "ESTL", "C", "EURO"],
+      "owner": ["NORL", "ESTL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -2283,7 +2283,7 @@
       "id": "North Mid",
       "comment": "NORTH_MID",
       "group": "LPPC",
-      "owner": ["NORU", "NORL", "ESTL", "C", "EURO"],
+      "owner": ["NORU", "NORL", "ESTL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 345,
@@ -2327,7 +2327,7 @@
       "id": "North Top",
       "comment": "NORTH_TOP",
       "group": "LPPC",
-      "owner": ["NORU", "NORL", "ESTL", "C", "EURO"],
+      "owner": ["NORU", "NORL", "ESTL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 365,
@@ -2514,7 +2514,7 @@
       "id": "South Low",
       "comment": "SOUTH_LOWER",
       "group": "LPPC",
-      "owner": ["SULL", "ESTL", "C", "EURO"],
+      "owner": ["SULL", "ESTL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -2548,7 +2548,7 @@
       "id": "South Upper",
       "comment": "SOUTH_UPPER",
       "group": "LPPC",
-      "owner": ["SULL", "ESTL", "C", "EURO"],
+      "owner": ["SULL", "ESTL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 365,
@@ -2616,7 +2616,7 @@
       "id": "VERAM Low",
       "comment": "VERAM_LOWER",
       "group": "LPPC",
-      "owner": ["OESL", "C", "EURO"],
+      "owner": ["OESL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -2651,7 +2651,7 @@
       "id": "VERAM Upper",
       "comment": "VERAM_UPPER",
       "group": "LPPC",
-      "owner": ["OESU", "OESL", "C", "EURO"],
+      "owner": ["OESU", "OESL", "C", "EWS", "EW"],
       "sectors": [
         {
           "min": 365,
@@ -2700,6 +2700,20 @@
     }
   },
   "positions": {
+    "EWS": {
+      "callsign": "Eurocontrol West",
+      "frequency": "135.075",
+      "type": "CTR",
+      "pre": ["EURW-S"],
+      "colours": [{ "hex": "#ffffff" }]
+    },
+    "EW": {
+      "callsign": "Eurocontrol West",
+      "frequency": "135.250",
+      "type": "FSS",
+      "pre": ["EURW"],
+      "colours": [{ "hex": "#ffffff" }]
+    },
     "ZFIS": {
       "callsign": "Lisboa Information",
       "frequency": "123.750",
