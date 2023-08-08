@@ -22,6 +22,8 @@ Feel free to contribute to any of the data sets included in this repository. Ple
 
 Please ensure that you provide a source for your issues and pull-requests! Issues and pull requests without a valid source will be automatically closed.
 
-By committing changes to this repository, you acknowledge that the copyright ownership of any contributions you make transfers to @lennycolton in its entirety.
+By committing changes to this repository, you acknowledge that the copyright ownership of any contributions you make transfers to Lenny Colton in its entirety.
+
+All data held in this repository is owned by Lenny Colton and is for exclusive use by the VATGlasses project. The data in this repository is not to be used for any other purposes without express, written permission.
 
 **N.B.** Data committed to this repository is immediately deployed to the VATGlasses site - please expect the project collaborators to be picky and test things thoroughly before we approve them!
