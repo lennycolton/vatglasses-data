@@ -6621,7 +6621,7 @@
     {
       "id": "LFBB_N UIR",
       "group": "LFBB",
-      "owner": ["BBN", "BB","EWN"],
+      "owner": ["BBN", "BB", "EWN", "EW"],
       "sectors": [
         {
           "min": 295,
@@ -6671,7 +6671,7 @@
     {
       "id": "LFBB_N_UIR",
       "group": "LFBB",
-      "owner": ["BBN", "BB","EWN"],
+      "owner": ["BBN", "BB", "EWN", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -6816,7 +6816,7 @@
     {
       "id": "LFBB_S UIR",
       "group": "LFBB",
-      "owner": ["BBS", "BB","EWN"],
+      "owner": ["BBS", "BB", "EWN", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -6911,7 +6911,7 @@
     {
       "id": "LFBB_S UIR",
       "group": "LFBB",
-      "owner": ["BBS", "BB","EWN"],
+      "owner": ["BBS", "BB", "EWN", "EW"],
       "sectors": [
         {
           "min": 295,
@@ -7006,7 +7006,7 @@
     {
       "id": "LFXX-P-H_UIR",
       "group": "LFBB",
-      "owner": ["BBN", "BB","EWN"],
+      "owner": ["BBN", "BB", "EWN", "EW"],
       "sectors": [
         {
           "min": 295,
@@ -7045,7 +7045,7 @@
     {
       "id": "LFEE-H_UIR",
       "group": "LFEE",
-      "owner": ["EE", "FF","EWN"],
+      "owner": ["EE", "FF", "EWN", "EW"],
       "sectors": [
         {
           "min": 295,
@@ -7339,7 +7339,7 @@
     {
       "id": "LFEE-L_UIR",
       "group": "LFEE",
-      "owner": ["EES", "EE", "FF","EWN"],
+      "owner": ["EES", "EE", "FF", "EWN", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -8379,7 +8379,7 @@
     {
       "id": "UIR_HD",
       "group": "LFEE",
-      "owner": ["EE", "FF","EWN"],
+      "owner": ["EE", "FF", "EWN", "EW"],
       "sectors": [
         {
           "min": 295,
@@ -8406,7 +8406,7 @@
     {
       "id": "UIR_KF",
       "group": "LFEE",
-      "owner": ["EE", "FF","EWN"],
+      "owner": ["EE", "FF", "EWN", "EW"],
       "sectors": [
         {
           "min": 295,
@@ -8436,7 +8436,7 @@
     {
       "id": "UIR_NR",
       "group": "LFEE",
-      "owner": ["EEN", "EE", "FF","EWN"],
+      "owner": ["EEN", "EE", "FF", "EWN", "EW"],
       "sectors": [
         {
           "min": 295,
@@ -10136,7 +10136,7 @@
     {
       "id": "LFFF-H_UIR",
       "group": "LFFF",
-      "owner": ["FFS", "FF","EWN"],
+      "owner": ["FFS", "FF", "EWN", "EW"],
       "sectors": [
         {
           "min": 295,
@@ -11306,7 +11306,7 @@
     {
       "id": "UIR_RAE",
       "group": "LFMM",
-      "owner": ["MME", "MM","EWN"],
+      "owner": ["MME", "MM", "EWN", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -11403,7 +11403,7 @@
     {
       "id": "UIR_RAW",
       "group": "LFMM",
-      "owner": ["MM","EWN"],
+      "owner": ["MM", "EWN", "EW"],
       "sectors": [
         {
           "min": 245,
@@ -11765,7 +11765,7 @@
     {
       "id": "UIR_AS",
       "group": "LFRR",
-      "owner": ["RRS", "RR","EWN"],
+      "owner": ["RRS", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 255,
@@ -11794,7 +11794,7 @@
     {
       "id": "UIR_AU",
       "group": "LFRR",
-      "owner": ["RRA", "RRS", "RR","EWN"],
+      "owner": ["RRA", "RRS", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 355,
@@ -11823,7 +11823,7 @@
     {
       "id": "UIR_EASTS",
       "group": "LFRR",
-      "owner": ["RRE", "RR", "FFW", "FFN", "FF","EWN"],
+      "owner": ["RRE", "RR", "FFW", "FFN", "FF", "EWN", "EW"],
       "sectors": [
         {
           "min": 295,
@@ -11880,7 +11880,7 @@
     {
       "id": "UIR_EASTU",
       "group": "LFRR",
-      "owner": ["RRQ", "RRE", "RR", "FFW", "FFN", "FF","EWN"],
+      "owner": ["RRQ", "RRE", "RR", "FFW", "FFN", "FF", "EWN", "EW"],
       "sectors": [
         {
           "min": 355,
@@ -11937,7 +11937,7 @@
     {
       "id": "UIR_GS",
       "group": "LFRR",
-      "owner": ["RRS", "RR","EWN"],
+      "owner": ["RRS", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 255,
@@ -11965,7 +11965,7 @@
     {
       "id": "UIR_GU",
       "group": "LFRR",
-      "owner": ["RRA", "RRS", "RR","EWN"],
+      "owner": ["RRA", "RRS", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 355,
@@ -11993,7 +11993,7 @@
     {
       "id": "UIR_JS",
       "group": "LFRR",
-      "owner": ["RRJ", "RRW", "RR","EWN"],
+      "owner": ["RRJ", "RRW", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 255,
@@ -12028,7 +12028,7 @@
     {
       "id": "UIR_JU",
       "group": "LFRR",
-      "owner": ["RRJ", "RRW", "RR","EWN"],
+      "owner": ["RRJ", "RRW", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 355,
@@ -12063,7 +12063,7 @@
     {
       "id": "UIR_KS",
       "group": "LFRR",
-      "owner": ["RRV", "RRW", "RR","EWN"],
+      "owner": ["RRV", "RRW", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 255,
@@ -12088,7 +12088,7 @@
     {
       "id": "UIR_KU",
       "group": "LFRR",
-      "owner": ["RRV", "RRW", "RR","EWN"],
+      "owner": ["RRV", "RRW", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 355,
@@ -12113,7 +12113,7 @@
     {
       "id": "UIR_NS",
       "group": "LFRR",
-      "owner": ["RRN", "RRS", "RR","EWN"],
+      "owner": ["RRN", "RRS", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 255,
@@ -12149,7 +12149,7 @@
     {
       "id": "UIR_NU",
       "group": "LFRR",
-      "owner": ["RRN", "RRA", "RRS", "RR","EWN"],
+      "owner": ["RRN", "RRA", "RRS", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 355,
@@ -12185,7 +12185,7 @@
     {
       "id": "UIR_VS",
       "group": "LFRR",
-      "owner": ["RRV", "RRJ", "RRW", "RR","EWN"],
+      "owner": ["RRV", "RRJ", "RRW", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 255,
@@ -12215,7 +12215,7 @@
     {
       "id": "UIR_VU",
       "group": "LFRR",
-      "owner": ["RRV", "RRJ", "RRW", "RR","EWN"],
+      "owner": ["RRV", "RRJ", "RRW", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 355,
@@ -12245,7 +12245,7 @@
     {
       "id": "UIR_WS",
       "group": "LFRR",
-      "owner": ["RRW", "RR","EWN"],
+      "owner": ["RRW", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 255,
@@ -12277,7 +12277,7 @@
     {
       "id": "UIR_WU",
       "group": "LFRR",
-      "owner": ["RRW", "RR","EWN"],
+      "owner": ["RRW", "RR", "EWN", "EW"],
       "sectors": [
         {
           "min": 355,
@@ -13850,7 +13850,14 @@
       "frequency": "135.125",
       "type": "CTR", 
       "pre": ["EURW-N"], 
-      "colours": [{ "hex": "#71807b" }]
+      "colours": [{ "hex": "#ffffff" }]
+    },
+    "EW": {
+      "callsign": "Eurocontrol West",
+      "frequency": "135.250",
+      "type": "FSS", 
+      "pre": ["EURW"], 
+      "colours": [{ "hex": "#ffffff" }]
     },
     "FM": {
       "callsign": "France Military Control",
