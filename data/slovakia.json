@@ -450,7 +450,7 @@
 			"group":"ACC",
 			"owner":[
 				"LZBB_CTR",
-				"EE"
+				"euro/EE"
 			],
 			"sectors":[
 				{
@@ -550,7 +550,7 @@
 			"owner":[
 				"LZBB_U_CTR",
 				"LZBB_CTR",
-"EE"
+"euro/EE"
 			],
 			"sectors":[
 				{
@@ -990,7 +990,7 @@
 			"group":"ACC",
 			"owner":[
 				"LZBB_CTR",
-				"EE"
+				"euro/EE"
 			],
 			"sectors":[
 				{
@@ -1123,7 +1123,7 @@
 			"owner":[
 				"LZBB_U_CTR",
 				"LZBB_CTR",
-"EE"
+"euro/EE"
 			],
 			"sectors":[
 				{
@@ -2072,7 +2072,6 @@
       "ACC":{"name":"Bratislava"}
 	},
 	"positions":{
-		"EE": { "pre": ["EURE"], "type": "FSS", "frequency": "135.300", "callsign": "Eurocontrol East"},
 		"LZBB_CTR":	{"colours":  [{"hex": "#37fbd2"}], "pre": ["LZBB"], "type": "CTR", "frequency": "134.475", "callsign": "Bratislava Radar"},
 		"LZBB_U_CTR": 	{"colours":  [{"hex": "#ffbf00"}], "pre": ["LZBB"], "type": "CTR", "frequency": "126.475", "callsign": "Bratislava Radar"},
 		"LZBB_I_CTR": 	{"colours":  [{"hex": "#6495ed"}], "pre": ["LZBB"], "type": "CTR", "frequency": "124.300", "callsign": "Bratislava Info"},

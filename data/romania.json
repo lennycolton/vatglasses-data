@@ -2083,7 +2083,7 @@
             "owner": [
                 "ARG",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -2173,7 +2173,7 @@
                 "LRUP",
                 "ARG",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -2446,7 +2446,7 @@
             "owner": [
                 "ARG",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -2514,7 +2514,7 @@
                 "LRUP",
                 "ARG",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -2677,7 +2677,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -2774,7 +2774,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -3038,7 +3038,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -3113,7 +3113,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -3480,7 +3480,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -3607,7 +3607,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -3955,7 +3955,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -4100,7 +4100,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -4320,7 +4320,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -4357,7 +4357,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -4899,7 +4899,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -5154,7 +5154,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -5802,7 +5802,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -5913,7 +5913,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -6032,8 +6032,6 @@
         "ARG": {"colours": [{"hex": "#402f66"}], "pre": ["LRBB"], "type": "CTR", "frequency": "121.175","callsign": "Bucharest Radar"},
         "NAP": {"colours": [{"hex": "#076cf7"}], "pre": ["LRBB"], "type": "CTR", "frequency": "127.075","callsign": "Bucharest Radar"},
         "LRUP": {"colours": [{"hex": "#5762b3"}], "pre": ["LRBB"], "type": "CTR", "frequency": "132.875","callsign": "Bucharest Radar"},
-
-        "EE": {"colours": [{"hex": "#ffffff"}], "pre": ["EURE"], "type": "FSS", "frequency": "135.300","callsign": "Eurocontrol East"},
 
         "APA": {"colours": [{"hex": "#c2e89e"}], "pre": ["LRAR"], "type": "APP", "frequency": "133.300","callsign": "Arad Approach"},
         "APB": {"colours": [{"hex": "#a9fa5c"}], "pre": ["LROP"], "type": "APP", "frequency": "118.250","callsign": "Bucharest Approach"},
