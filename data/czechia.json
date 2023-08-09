@@ -14084,8 +14084,8 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -14159,8 +14159,8 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -14235,8 +14235,8 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -14417,8 +14417,8 @@
 				"owner":[
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -14500,8 +14500,8 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -14536,8 +14536,8 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -14573,8 +14573,8 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -14664,8 +14664,8 @@
 				"owner":[
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -15678,8 +15678,8 @@
 				"owner":[
 					"LKAA_S_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -15938,8 +15938,8 @@
 					"LKAA_U_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -16012,8 +16012,8 @@
 					"LKAA_U_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -16086,8 +16086,8 @@
 					"LKAA_U_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -16158,8 +16158,8 @@
 				"owner":[
 					"LKAA_W_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -16409,8 +16409,8 @@
 					"LKAA_U_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -16457,8 +16457,8 @@
 					"LKAA_U_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -16505,8 +16505,8 @@
 					"LKAA_U_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
-					"EE",
-					"EME"
+					"euro/EE",
+					"euro/EME"
 				],
 				"sectors":[
 					{
@@ -16553,8 +16553,6 @@
 		"TWR":{"name":"Tower"}
 	},
 	"positions":{
-		"EME": { "pre": ["EURM", "EURM-E"], "type": "CTR", "frequency": "135.450", "callsign": "Maastricht Radar"},
-		"EE": { "pre": ["EURE"], "type": "FSS", "frequency": "135.300", "callsign": "Eurocontrol East"},
 		"LKAA_CTR": {"colours": [{"hex": "#bf9000"}], "pre": ["LKAA"], "type": "CTR", "frequency": "118.375", "callsign": "Praha Radar"},
 		"LKAA_I_CTR": {"colours": [{"hex": "#ffbf00"}], "pre": ["LKAA"], "type": "CTR", "frequency": "126.100", "callsign": "Praha Information"},
 		"LKAA_N_CTR": {"colours": [{"hex": "#6495ed"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.825", "callsign": "Praha Radar"},

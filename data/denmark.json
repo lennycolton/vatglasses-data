@@ -9,7 +9,7 @@
             "V",
             "B",
             "D",
-            "EN"
+            "euro/EN"
         ],
         "sectors": [
             {
@@ -66,7 +66,7 @@
           "B",
           "D",
           "V",
-          "EN"
+          "euro/EN"
       ],
       "sectors": [
           {
@@ -250,7 +250,7 @@
             "V",
             "D",
             "B",
-            "EN"
+            "euro/EN"
         ],
         "sectors": [
             {
@@ -296,7 +296,7 @@
             "D",
             "B",
             "V",
-            "EN"
+            "euro/EN"
         ],
         "sectors": [
             {
@@ -666,7 +666,7 @@
             "B",
             "D",
             "V",
-            "EN"
+            "euro/EN"
         ],
         "sectors": [
             {
@@ -845,7 +845,7 @@
             "V",
             "D",
             "B",
-            "EN"
+            "euro/EN"
         ],
         "sectors": [
             {
@@ -1043,7 +1043,7 @@
             "V",
             "D",
             "B",
-            "EN"
+            "euro/EN"
         ],
         "sectors": [
             {
@@ -1249,7 +1249,7 @@
             "V",
             "D",
             "B",
-            "EN"
+            "euro/EN"
         ],
         "sectors": [
             {
@@ -1288,7 +1288,7 @@
             "V",
             "D",
             "B",
-            "EN"
+            "euro/EN"
         ],
         "sectors": [
             {
@@ -4664,19 +4664,6 @@
           "colours": [
               {
                   "hex": "#002100"
-              }
-          ]
-      },
-      "EN": {
-          "callsign": "Eurocontrol North",
-          "frequency": "133.450",
-          "type": "FSS",
-          "pre": [
-              "EURN"
-          ],
-          "colours": [
-              {
-                  "hex": "#009d00"
               }
           ]
       }
