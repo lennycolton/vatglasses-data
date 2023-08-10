@@ -1923,7 +1923,7 @@
         "YYD",
         "ACE",
         "ACW",
-        "EMW"
+        "euro/EMW"
     ],
       "sectors": [
         {
@@ -1957,7 +1957,7 @@
         "ACE",
         "ACS",
         "ACW",
-        "EMW"
+        "euro/EMW"
     ],
       "sectors": [
         {
@@ -1990,7 +1990,7 @@
         "ACE",
         "ACS",
         "ACW",
-        "EMW"
+        "euro/EMW"
     ],
       "sectors": [
         {
@@ -2023,7 +2023,7 @@
         "ACE",
         "ACS",
         "ACW",
-        "EMW"
+        "euro/EMW"
     ],
       "sectors": [
         {
@@ -2055,7 +2055,7 @@
         "ACW",
         "ACS",
         "ACE",
-        "EMW"
+        "euro/EMW"
     ],
       "sectors": [
         {
@@ -2081,7 +2081,7 @@
         "ACW",
         "ACS",
         "ACE",
-        "EMW"
+        "euro/EMW"
     ],
       "sectors": [
         {
@@ -2107,7 +2107,7 @@
         "ACW",
         "ACS",
         "ACE",
-        "EMW"
+        "euro/EMW"
     ],
       "sectors": [
         {
@@ -3199,13 +3199,6 @@
       "type": "TWR",
       "pre": ["EHWO"],
       "colours": [{ "hex": "#004300" }]
-    },
-    "EMW": {
-      "callsign": "Maastricht",
-      "frequency": "135.750",
-      "type": "CTR",
-      "pre": ["EURM-W"],
-      "colours": [{ "hex": "#a5ffff" }]
     }
   },
 

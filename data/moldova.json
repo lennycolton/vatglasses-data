@@ -352,7 +352,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -552,7 +552,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "EE"
+                "euro/EE"
             ],
             "sectors": [
                 {
@@ -753,7 +753,6 @@
 
     "positions": {
         "UU": {"colours": [{"hex": "#576073"}], "pre": ["LUUU"], "type": "CTR", "frequency": "130.975","callsign": "Chisinau Control"},
-        "EE": {"colours": [{"hex": "#cccccc"}], "pre": ["EURE"], "type": "FSS", "frequency": "135.300","callsign": "Eurocontrol"},
         "APK": {"colours": [{"hex": "#e6ed58"}], "pre": ["LUKK"], "type": "APP", "frequency": "133.300","callsign": "Chisinau Approach"},
         "TKK": {"colours": [{"hex": "#81738c"}], "pre": ["LUKK"], "type": "TWR", "frequency": "118.100","callsign": "Chisinau Tower"},
         "NAP": {"colours": [{"hex": "#076cf7"}], "pre": ["LRBB"], "type": "CTR", "frequency": "127.075","callsign": "Bucharest Radar"},
