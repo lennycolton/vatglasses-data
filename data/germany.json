@@ -3076,8 +3076,7 @@
             "owner": [   
                 "BAD",
                 "DKB",
-                "KTG",
-                "GGC"     
+                "KTG"     
             ],
             "sectors":[
                 {
@@ -3236,9 +3235,7 @@
                 "DLD",
                 "DUS",
                 "DLF",
-                "HMMH",
                 "PADH",
-                "GGC",
                 "RHR"
             ],
             "sectors":[
@@ -3478,8 +3475,6 @@
                 "DKF",
                 "NOR",
                 "PADH",
-                "HMMH",
-                "GGC",
                 "RHR"
             ],
             "sectors":[
@@ -3615,8 +3610,7 @@
             "owner": [
                 "DKB",
                 "KTG",
-                "BAD",
-                "GGC"
+                "BAD"
             ],
             "sectors":[
                 {
@@ -3718,8 +3712,7 @@
                 "EIF",
                 "RUD",
                 "GIN",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -3847,7 +3840,6 @@
                 "GIN",
                 "RUD",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -3918,7 +3910,6 @@
                 "GIN",
                 "RUD",
                 "KTG",
-                "GGC",
                 "euro/EME"            
             ],
             "sectors":[
@@ -3956,7 +3947,6 @@
                 "GIN",
                 "RUD",
                 "KTG",
-                "GGC",
                 "euro/EME"            
             ],
             "sectors":[
@@ -3994,8 +3984,7 @@
                 "GIN",
                 "RUD",
                 "KTG",
-                "GGC",
-                "euro/EME"            
+                "euro/EME"
             ],
             "sectors":[
                 {
@@ -4030,7 +4019,6 @@
                 "GIN",
                 "RUD",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -4107,7 +4095,6 @@
                 "GIN",
                 "RUD",
                 "KTG",
-                "GGC",
                 "euro/EME"                           
             ],
             "sectors":[
@@ -4166,7 +4153,6 @@
                 "GIN",
                 "RUD",
                 "KTG",
-                "GGC",
                 "euro/EME"                           
             ],
             "sectors":[
@@ -4221,8 +4207,7 @@
                 "HEF",
                 "GIN",
                 "RUD",
-                "KTG",
-                "GGC"            
+                "KTG"          
             ],
             "sectors":[
                 {
@@ -4379,8 +4364,7 @@
             "owner": [
                 "GIN",
                 "RUD",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -4616,8 +4600,7 @@
                 "HAB",
                 "DKB",
                 "KTG",
-                "BAD",
-                "GGC"
+                "BAD"
             ],
             "sectors":[
                 {
@@ -4731,8 +4714,7 @@
                 "HEF",
                 "GIN",
                 "RUD",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -4990,10 +4972,8 @@
             "group": "APP",
             "owner": [
                 "HMM",
-                "HMMH",
                 "PADL",
                 "PADH",
-                "GGC",
                 "MNS",
                 "RHR"
             ],
@@ -5111,8 +5091,7 @@
                 "KIR",
                 "RUD",
                 "GIN",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -5252,8 +5231,7 @@
                 "KNG",
                 "DKB",
                 "KTG",
-                "BAD",
-                "GGC"
+                "BAD"
             ],
             "sectors":[
                 {
@@ -5400,8 +5378,7 @@
             "owner": [
                 "KTG",
                 "DKB",
-                "BAD",
-                "GGC"
+                "BAD"
             ],
             "sectors":[
                 {
@@ -5515,8 +5492,7 @@
                 "LBU",
                 "BAD",
                 "DKB",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -5589,8 +5565,7 @@
                 "NKRH",
                 "BAD",
                 "DKB",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -5696,8 +5671,7 @@
                 "NKRH",
                 "BAD",
                 "DKB",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -5812,8 +5786,7 @@
                 "NKRH",
                 "BAD",
                 "DKB",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -5890,8 +5863,6 @@
                 "DKA",
                 "DKF",
                 "PADH",
-                "HMMH",
-                "GGC",
                 "RHR"            
             ],
             "sectors":[
@@ -6124,7 +6095,6 @@
                 "RUD",
                 "GIN",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -6329,7 +6299,6 @@
                 "RUD",
                 "GIN",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -6432,7 +6401,6 @@
                 "RUD",
                 "GIN",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -6535,7 +6503,6 @@
                 "RUD",
                 "GIN",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -6631,8 +6598,6 @@
             "group": "EDGG",
             "owner": [
                 "PADH",
-                "HMMH",
-                "GGC",
                 "MNS",
                 "RHR"
             ],
@@ -6712,8 +6677,6 @@
                 "PADL",
                 "HMM",
                 "PADH",
-                "HMMH",
-                "GGC",
                 "MNS",
                 "RHR"
             ],
@@ -6858,8 +6821,7 @@
                 "EIF",
                 "RUD",
                 "GIN",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -7186,8 +7148,7 @@
                 "HAB",
                 "DKB",
                 "KTG",
-                "BAD",
-                "GGC"
+                "BAD"
             ],
             "sectors":[
                 {
@@ -7256,8 +7217,7 @@
                 "STG",
                 "BAD",
                 "DKB",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -7428,8 +7388,7 @@
             "owner": [
                 "RUD",
                 "GIN",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -7544,8 +7503,7 @@
                 "TAU",
                 "GIN",
                 "RUD",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -7679,7 +7637,6 @@
                 "BAD",
                 "DKB",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -7912,7 +7869,6 @@
                 "BAD",
                 "DKB",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -8145,7 +8101,6 @@
                 "BAD",
                 "DKB",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -8374,8 +8329,7 @@
               "REU",
               "BAD",
               "DKB",
-              "KTG",
-              "GGC"  
+              "KTG" 
             ],
             "sectors":[
                 {
@@ -8545,8 +8499,7 @@
                "TAU",
                "GIN",
                "RUD",
-               "KTG",
-               "GGC" 
+               "KTG"
             ],
             "sectors":[
                 {
@@ -8706,7 +8659,6 @@
                 "BAD",
                 "DKB",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -8789,7 +8741,6 @@
                 "BAD",
                 "DKB",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -8844,7 +8795,6 @@
                 "BAD",
                 "DKB",
                 "KTG",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -8896,7 +8846,6 @@
                 "DKB",
                 "KTG",
                 "BAD",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -8983,7 +8932,6 @@
                 "DKB",
                 "KTG",
                 "BAD",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -9032,7 +8980,6 @@
                 "DKB",
                 "KTG",
                 "BAD",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -9081,7 +9028,6 @@
                 "DKB",
                 "KTG",
                 "BAD",
-                "GGC",
                 "euro/EME"
             ],
             "sectors":[
@@ -9126,9 +9072,7 @@
             "owner": [
                 "MNS",
                 "RHR",
-                "HMMH",
                 "PADH",
-                "GGC",
                 "CEL",
                 "SOL",
                 "EMS",
@@ -9185,9 +9129,7 @@
             "owner": [
                 "MNS",
                 "RHR",
-                "HMMH",
                 "PADH",
-                "GGC",
                 "CEL",
                 "SOL",
                 "EMS",
@@ -9317,8 +9259,6 @@
             "owner": [
                 "RHR",
                 "PADH",
-                "HMMH",
-                "GGC",
                 "euro/EMW"
             ],
             "sectors":[
@@ -9363,8 +9303,6 @@
             "owner": [
                 "RHR",
                 "PADH",
-                "HMMH",
-                "GGC",
                 "euro/EMW"
             ],
             "sectors":[
@@ -9498,8 +9436,7 @@
                 "RUD",
                 "DKB",
                 "BAD",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -9642,8 +9579,7 @@
                 "RUD",
                 "DKB",
                 "BAD",
-                "KTG",
-                "GGC"
+                "KTG"
             ],
             "sectors":[
                 {
@@ -9811,9 +9747,7 @@
                 "BOT",
                 "DLD",
                 "DLF",
-                "HMMH",
-                "PADH",
-                "GGC"
+                "PADH"
             ],
             "sectors":[
                 {
@@ -13260,14 +13194,12 @@
         "MAR": {"colours": [{"hex": "#52D876"}], "pre": ["EDWW"], "type": "CTR", "frequency": "136.050", "callsign": "Bremen Radar"},
         "MRZ": {"colours": [{"hex": "#71d9a4"}], "pre": ["EDWW"], "type": "CTR", "frequency": "124.175", "callsign": "Bremen Radar"},
 
-        "GGC": {"colours": [{"hex": "#898768"}], "pre": ["EDGG"], "type": "CTR", "frequency": "135.725", "callsign": "Langen Radar"},
         "BAD": {"colours": [{"hex": "#9ebb98"}], "pre": ["EDGG"], "type": "CTR", "frequency": "131.300", "callsign": "Langen Radar"},
         "DKB": {"colours": [{"hex": "#6edd87"}], "pre": ["EDGG"], "type": "CTR", "frequency": "125.200", "callsign": "Langen Radar"},
         "GED": {"colours": [{"hex": "#ce0f8f"}], "pre": ["EDGG"], "type": "CTR", "frequency": "124.430", "callsign": "Langen Radar"},
         "GIN": {"colours": [{"hex": "#8b26aa"}], "pre": ["EDGG"], "type": "CTR", "frequency": "124.730", "callsign": "Langen Radar"},
         "HAB": {"colours": [{"hex": "#1bee9f"}], "pre": ["EDGG"], "type": "CTR", "frequency": "134.800", "callsign": "Langen Radar"},
         "HEF": {"colours": [{"hex": "#4b403a"}], "pre": ["EDGG"], "type": "CTR", "frequency": "127.725", "callsign": "Langen Radar"},
-        "HMMH": {"colours": [{"hex": "#8cc64b"}], "pre": ["EDGG"], "type": "CTR", "frequency": "129.300", "callsign": "Langen Radar"},
         "KIR": {"colours": [{"hex": "#510d8b"}], "pre": ["EDGG"], "type": "CTR", "frequency": "133.460", "callsign": "Langen Radar"},
         "KNG": {"colours": [{"hex": "#1270BC"}], "pre": ["EDGG"], "type": "CTR", "frequency": "125.680", "callsign": "Langen Radar"},
         "KTG": {"colours": [{"hex": "#678953"}], "pre": ["EDGG"], "type": "CTR", "frequency": "123.280", "callsign": "Langen Radar"},
@@ -13533,8 +13465,7 @@
                 "RUD",
                 "DKB",
                 "BAD",
-                "KTG",
-                "GGC"
+                "KTG"
             ]
         },
         "EDDG": {
@@ -13543,9 +13474,7 @@
             "topdown": [
                 "HMM",
                 "PAD",
-                "HMMH",
                 "PADH",
-                "GGC",
                 "MNS",
                 "RHR"
             ]
@@ -13558,8 +13487,6 @@
                 "DKA",
                 "NOR",
                 "PADH",
-                "HMMH",
-                "GGC",
                 "RHR"
             ]
         },
@@ -13571,9 +13498,7 @@
                 "DLD",
                 "BOT",
                 "DUS",
-                "HMMH",
                 "PADH",
-                "GGC",
                 "RHR"
             ]
         },
@@ -13585,8 +13510,7 @@
                 "REU",
                 "BAD",
                 "DKB",
-                "KTG",
-                "GGC"
+                "KTG"
             ]
         },
         "EDFH": {
@@ -13596,8 +13520,7 @@
                 "EIF",
                 "RUD",
                 "GIN",
-                "KTG",
-                "GGC"
+                "KTG"
             ]
         },
         "EDFM": {
@@ -13608,8 +13531,7 @@
                 "NKRH",
                 "BAD",
                 "DKB",
-                "KTG",
-                "GGC"
+                "KTG"
             ]
         },
         "EDLN": {
@@ -13620,9 +13542,7 @@
                 "DUS",
                 "DLD",
                 "BOT",
-                "HMMH",
                 "PADH",
-                "GGC",
                 "RHR"
             ]
         },
@@ -13633,8 +13553,6 @@
                 "PADL",
                 "HMML",
                 "PADH",
-                "HMMH",
-                "GGC",
                 "MNS",
                 "RHR"
             ]
@@ -13647,9 +13565,7 @@
                 "DLD",
                 "DUS",
                 "DLF",
-                "HMMH",
                 "PADH",
-                "GGC",
                 "RHR"
             ]
         },
@@ -13660,8 +13576,6 @@
                 "PADL",
                 "HMML",
                 "PADH",
-                "HMMH",
-                "GGC",
                 "MNS",
                 "RHR"
             ]
@@ -13674,8 +13588,7 @@
                 "STG",
                 "BAD",
                 "DKB",
-                "KTG",
-                "GGC"
+                "KTG"
             ]
         },
         "EDTL": {
@@ -13686,8 +13599,7 @@
                 "STG",
                 "BAD",
                 "DKB",
-                "KTG",
-                "GGC"        
+                "KTG"      
             ]
         },
         "EDAH": {
