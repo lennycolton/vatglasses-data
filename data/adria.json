@@ -210,7 +210,7 @@
     {
       "id": "Area",
       "group": "LAAA",
-      "owner": ["LAC", "ADE", "AD", "euro/EE"],
+      "owner": ["LAC", "ADE", "AD", "euro/ESW"],
       "sectors": [
         {
           "min": 245,
@@ -318,7 +318,7 @@
     {
       "id": "Area",
       "group": "LAAA",
-      "owner": ["LAC", "ADU", "ADE", "AD", "euro/EE"],
+      "owner": ["LAC", "ADU", "ADE", "AD", "euro/ESW"],
       "sectors": [
         {
           "min": 325,
@@ -936,7 +936,7 @@
     {
       "id": "North",
       "group": "LDZO",
-      "owner": ["LDCE", "LDC", "ADW", "AD", "euro/EE"],
+      "owner": ["LDCE", "LDC", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 245,
@@ -1222,7 +1222,7 @@
     {
       "id": "North",
       "group": "LDZO",
-      "owner": ["LDCE", "LDC", "ADU", "ADW", "AD", "euro/EE"],
+      "owner": ["LDCE", "LDC", "ADU", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 325,
@@ -1704,7 +1704,7 @@
     {
       "id": "South",
       "group": "LDZO",
-      "owner": ["LDCS", "LDC", "ADW", "AD", "euro/EE"],
+      "owner": ["LDCS", "LDC", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 245,
@@ -1788,7 +1788,7 @@
     {
       "id": "South",
       "group": "LDZO",
-      "owner": ["LDCS", "LDC", "ADU", "ADW", "AD", "euro/EE"],
+      "owner": ["LDCS", "LDC", "ADU", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 325,
@@ -2137,7 +2137,7 @@
     {
       "id": "West",
       "group": "LDZO",
-      "owner": ["LDC", "ADW", "AD", "euro/EE"],
+      "owner": ["LDC", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 245,
@@ -2212,7 +2212,7 @@
     {
       "id": "West",
       "group": "LDZO",
-      "owner": ["LDC", "ADU", "ADW", "AD", "euro/EE"],
+      "owner": ["LDC", "ADU", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 325,
@@ -2429,7 +2429,7 @@
     {
       "id": "Bosnia",
       "group": "LDZO",
-      "owner": ["LDC", "ADW", "AD", "euro/EE"],
+      "owner": ["LDC", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 245,
@@ -2509,7 +2509,7 @@
     {
       "id": "Bosnia",
       "group": "LDZO",
-      "owner": ["LDC", "ADU", "ADW", "AD", "euro/EE"],
+      "owner": ["LDC", "ADU", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 325,
@@ -2589,7 +2589,7 @@
     {
       "id": "Area",
       "group": "LJLA",
-      "owner": ["LJC", "ADW", "AD", "euro/EE"],
+      "owner": ["LJC", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 245,
@@ -2685,7 +2685,7 @@
     {
       "id": "Area",
       "group": "LJLA",
-      "owner": ["LJCU", "LJC", "ADU", "ADW", "AD", "euro/EE"],
+      "owner": ["LJCU", "LJC", "ADU", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 325,
@@ -3242,7 +3242,7 @@
     {
       "id": "Area",
       "group": "LQSB",
-      "owner": ["LQC", "ADW", "AD", "euro/EE"],
+      "owner": ["LQC", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 245,
@@ -3554,7 +3554,7 @@
     {
       "id": "Area",
       "group": "LQSB",
-      "owner": ["LQC", "ADU", "ADW", "AD", "euro/EE"],
+      "owner": ["LQC", "ADU", "ADW", "AD", "euro/EES"],
       "sectors": [
         {
           "min": 325,
@@ -4595,7 +4595,7 @@
     {
       "id": "Area",
       "group": "LWSS",
-      "owner": ["LWC", "ADE", "AD", "euro/EE"],
+      "owner": ["LWC", "ADE", "AD", "euro/ESW"],
       "sectors": [
         {
           "min": 245,
@@ -4720,7 +4720,7 @@
     {
       "id": "Area",
       "group": "LWSS",
-      "owner": ["LWC", "ADU", "ADE", "AD", "euro/EE"],
+      "owner": ["LWC", "ADU", "ADE", "AD", "euro/ESW"],
       "sectors": [
         {
           "min": 325,
@@ -5060,7 +5060,7 @@
     {
       "id": "Area",
       "group": "KFOR",
-      "owner": ["LYC", "ADE", "AD", "euro/EE"],
+      "owner": ["LYC", "ADE", "AD", "euro/ESW"],
       "sectors": [
         {
           "min": 245,
@@ -5275,7 +5275,7 @@
     {
       "id": "Area",
       "group": "KFOR",
-      "owner": ["LYC", "ADU", "ADE", "AD", "euro/EE"],
+      "owner": ["LYC", "ADU", "ADE", "AD", "euro/ESW"],
       "sectors": [
         {
           "min": 325,
@@ -7288,7 +7288,7 @@
     {
       "id": "Area",
       "group": "LYBA",
-      "owner": ["LYC", "ADE", "AD", "euro/EE"],
+      "owner": ["LYC", "ADE", "AD", "euro/ESW"],
       "sectors": [
         {
           "min": 245,
@@ -8026,7 +8026,7 @@
     {
       "id": "Area",
       "group": "LYBA",
-      "owner": ["LYC", "ADU", "ADE", "AD", "euro/EE"],
+      "owner": ["LYC", "ADU", "ADE", "AD", "euro/ESW"],
       "sectors": [
         {
           "min": 325,

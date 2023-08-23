@@ -450,7 +450,7 @@
 			"group":"ACC",
 			"owner":[
 				"LZBB_CTR",
-				"euro/EE"
+				"euro/EEN"
 			],
 			"sectors":[
 				{
@@ -550,7 +550,7 @@
 			"owner":[
 				"LZBB_U_CTR",
 				"LZBB_CTR",
-"euro/EE"
+"euro/EEN"
 			],
 			"sectors":[
 				{
@@ -990,7 +990,7 @@
 			"group":"ACC",
 			"owner":[
 				"LZBB_CTR",
-				"euro/EE"
+				"euro/EEN"
 			],
 			"sectors":[
 				{
@@ -1123,7 +1123,7 @@
 			"owner":[
 				"LZBB_U_CTR",
 				"LZBB_CTR",
-"euro/EE"
+"euro/EEN"
 			],
 			"sectors":[
 				{
