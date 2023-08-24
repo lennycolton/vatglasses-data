@@ -6091,7 +6091,6 @@
             "callsign": "Otopeni",
             "coord": [44.57111, 26.085],
             "topdown": [
-                "TOP",
                 "APB",
                 "ARG",
                 "LOM",
@@ -6102,7 +6101,6 @@
             "callsign": "Suceava",
             "coord": [47.686388888889, 26.354443888889],
             "topdown": [
-                "TSV",
                 "NAP",
                 "ARG",
                 "LOM",
@@ -6113,7 +6111,6 @@
             "callsign": "Bacau",
             "coord": [46.521943888889, 26.910277777778],
             "topdown": [
-                "TBC",
                 "NAP",
                 "ARG",
                 "LOM",
@@ -6124,7 +6121,6 @@
             "callsign": "Iasi",
             "coord": [47.180277777778, 27.620832777778],
             "topdown": [
-                "TIA",
                 "NAP",
                 "ARG",
                 "LOM",
@@ -6135,7 +6131,6 @@
             "callsign": "Baneasa",
             "coord": [44.503610833333, 26.103610833333],
             "topdown": [
-                "TBS",
                 "APB",
                 "ARG",
                 "LOM",
@@ -6146,7 +6141,6 @@
             "callsign": "Tulcea",
             "coord": [45.062777777778, 28.714443888889],
             "topdown": [
-                "TTC",
                 "ARG",
                 "LOM",
                 "BSW"
@@ -6156,7 +6150,6 @@
             "callsign": "Constanta",
             "coord": [44.362221944444, 28.488332777778],
             "topdown": [
-                "TCK",
                 "APC",
                 "ARG",
                 "LOM",
@@ -6167,7 +6160,6 @@
             "callsign": "Craiova",
             "coord": [44.318055833333, 23.888610833333],
             "topdown": [
-                "TCV",
                 "LOM",
                 "BSW"
             ]
@@ -6176,7 +6168,6 @@
             "callsign": "Oradea",
             "coord": [47.025277777778, 21.902499722222],
             "topdown": [
-                "TOD",
                 "LOM",
                 "BSW"
             ]
@@ -6185,7 +6176,6 @@
             "callsign": "Satu Mare",
             "coord": [47.703332777778, 22.885555833333],
             "topdown": [
-                "TSM",
                 "LOM",
                 "BSW"
             ]
@@ -6194,7 +6184,6 @@
             "callsign": "Baia Mare",
             "coord": [47.658332777778, 23.466110833333],
             "topdown": [
-                "TBM",
                 "NAP",
                 "LOM",
                 "BSW"
@@ -6204,7 +6193,6 @@
             "callsign": "Cluj",
             "coord": [46.789166944444, 23.692221944444],
             "topdown": [
-                "TCL",
                 "APN",
                 "NAP",
                 "LOM",
@@ -6215,7 +6203,6 @@
             "callsign": "Targu Mures",
             "coord": [46.467777777778, 24.4125],
             "topdown": [
-                "TTM",
                 "APN",
                 "NAP",
                 "LOM",
@@ -6226,7 +6213,6 @@
             "callsign": "Sibiu",
             "coord": [45.785832777778, 24.085555833333],
             "topdown": [
-                "TSB",
                 "APN",
                 "NAP",
                 "LOM",
@@ -6237,7 +6223,6 @@
             "callsign": "Arad",
             "coord": [46.176666944444, 21.261943888889],
             "topdown": [
-                "TAR",
                 "APA",
                 "LOM",
                 "BSW"
@@ -6247,7 +6232,6 @@
             "callsign": "Timisoara",
             "coord": [45.809721944444, 21.337777777778],
             "topdown": [
-                "TTR",
                 "APA",
                 "LOM",
                 "BSW"
@@ -6257,7 +6241,6 @@
             "callsign": "Brasov",
             "coord": [45.707278, 25.521528],
             "topdown": [
-                "TBV",
                 "ARG",
                 "LOM",
                 "BSW"
