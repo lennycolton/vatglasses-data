@@ -8,7 +8,7 @@
       ],
       "sectors": [
         {
-          "min": 0,
+          "min": 155,
           "max": 284,
           "points": [
             ["354945", "-1000000"], 
@@ -24,6 +24,51 @@
             ["350815", "-1025859"], 
             ["344829", "-1024900"], 
             ["343259", "-1021930"], 
+            ["343600", "-1020000"], 
+            ["342930", "-1010000"], 
+            ["342800", "-1004500"], 
+            ["345200", "-1001900"], 
+            ["350745", "-1000830"], 
+            ["351500", "-1000339"], 
+            ["351959", "-1000000"], 
+            ["354945", "-1000000"]
+          ]
+        },
+        {
+          "min": 0,
+          "max": 154,
+          "points": [
+            ["354945", "-1000000"], 
+            ["362349", "-1012819"], 
+            ["363000", "-1014500"], 
+            ["370230", "-1021059"], 
+            ["373000", "-1023259"], 
+            ["370945", "-1033709"], 
+            ["370243", "-1040000"], 
+            ["365559", "-1040000"], 
+            ["352030", "-1040000"], 
+            ["352100", "-1025859"], 
+            ["350815", "-1025859"], 
+            ["344829", "-1024900"], 
+            ["343259", "-1021930"], 
+            ["343600", "-1020000"], 
+            ["344241", "-1020235"], 
+            ["344955", "-1021349"], 
+            ["350250", "-1022312"], 
+            ["351427", "-1022523"], 
+            ["352636", "-1022221"], 
+            ["353612", "-1021528"], 
+            ["354453", "-1020200"], 
+            ["354836", "-1014709"], 
+            ["354748", "-1013247"], 
+            ["354242", "-1011833"], 
+            ["353124", "-1010538"], 
+            ["352030", "-1010041"], 
+            ["350317", "-1010151"], 
+            ["344820", "-1011303"], 
+            ["344004", "-1013029"], 
+            ["343905", "-1014911"], 
+            ["344241", "-1020235"], 
             ["343600", "-1020000"], 
             ["342930", "-1010000"], 
             ["342800", "-1004500"], 
@@ -2441,7 +2486,7 @@
         }
       ]
     },
-    {"id": "Albuquerque TRACON - North",
+    {"id": "Albuquerque - North",
       "group": "APP",
       "owner": [
         "A1N",
@@ -2586,7 +2631,7 @@
         }
       ]
     },
-    {"id": "Albuquerque TRACON - South",
+    {"id": "Albuquerque - South",
       "group": "APP",
       "owner": [
         "A1S",
@@ -2738,7 +2783,7 @@
         }
       ]
     },
-    {"id": "Albuquerque TRACON - Finals North",
+    {"id": "Albuquerque - Finals North",
       "group": "APP",
       "owner": [
         "A1F",
@@ -2808,7 +2853,7 @@
         }
       ]
     },
-    {"id": "Albuquerque TRACON - Finals South",
+    {"id": "Albuquerque - Finals South",
       "group": "APP",
       "owner": [
         "A1F",
@@ -2888,7 +2933,7 @@
         }
       ]
     },
-    {"id": "Amarillo TRACON",
+    {"id": "Amarillo",
       "group": "APP",
       "owner": [
         "M1A",
@@ -2922,8 +2967,8 @@
         }
       ]
     },
-    {"id": "Cannon RAPCON",
-      "group": "APP",
+    {"id": "Cannon",
+      "group": "RAP",
       "owner": [
         "C1A",
         "49",
@@ -2955,7 +3000,7 @@
         }
       ]
     },
-    {"id": "El Paso TRACON - North",
+    {"id": "El Paso - North",
       "group": "APP",
       "owner": [
         "E1N",
@@ -3072,7 +3117,7 @@
         }
       ]
     },
-    {"id": "El Paso TRACON - South",
+    {"id": "El Paso - South",
       "group": "APP",
       "owner": [
         "E1S",
@@ -3156,8 +3201,8 @@
         }
       ]
     },
-    {"id": "Fort Huachuca RAPCON",
-      "group": "APP",
+    {"id": "Fort Huachuca",
+      "group": "RAP",
       "owner": [
         "FA",
         "49",
@@ -3185,8 +3230,8 @@
         }
       ]
     },
-    {"id": "Holloman RAPCON/White Sands Missile Range",
-      "group": "APP",
+    {"id": "Holloman/White Sands Missile Range",
+      "group": "RAP",
       "owner": [
         "H1A",
         "H1D",
@@ -3221,7 +3266,7 @@
         }
       ]
     },
-    {"id": "Roswell TRACON - East",
+    {"id": "Roswell - East",
       "group": "APP",
       "owner": [
         "R1E",
@@ -3256,7 +3301,7 @@
         }
       ]
     },
-    {"id": "Roswell TRACON - West",
+    {"id": "Roswell - West",
       "group": "APP",
       "owner": [
         "R1W",
@@ -3290,7 +3335,7 @@
         }
       ]
     },
-    {"id": "U90 TRACON",
+    {"id": "Tucson (U90)",
       "group": "APP",
       "owner": [
         "U1A",
@@ -4029,7 +4074,7 @@
       ]
     },
     {"id": "P50 Apache",
-      "group": "P50",
+      "group": "APP",
       "owner": [
         "P1A",
         "49",
@@ -4385,7 +4430,7 @@
       ]
     },
     {"id": "P50 Quartz",
-      "group": "P50",
+      "group": "APP",
       "owner": [
         "P1Q",
         "P1A",
@@ -4729,7 +4774,7 @@
       ]
     },
     {"id": "P50 Freeway",
-      "group": "P50",
+      "group": "APP",
       "owner": [
         "P1F",
         "P1A",
@@ -4883,7 +4928,7 @@
       ]
     },
     {"id": "P50 Verde",
-      "group": "P50",
+      "group": "APP",
       "owner": [
         "P1V",
         "P1Q",
@@ -5040,7 +5085,7 @@
       ]
     },
     {"id": "P50 Navajo",
-      "group": "P50",
+      "group": "APP",
       "owner": [
         "P1N",
         "P1A",
@@ -6165,7 +6210,7 @@
       ]
     },
     {"id": "P50 Santan",
-      "group": "P50",
+      "group": "APP",
       "owner": [
         "P1S",
         "P1N",
@@ -7164,7 +7209,7 @@
       ]
     },
     {"id": "P50 Biltmore",
-      "group": "P50",
+      "group": "APP",
       "owner": [
         "P1B",
         "P1N",
@@ -7881,7 +7926,7 @@
       ]
     },
     {"id": "P50 Willie",
-      "group": "P50",
+      "group": "APP",
       "owner": [
         "P1W",
         "P1P",
@@ -8196,7 +8241,7 @@
       ]
     },
     {"id": "P50 Pima",
-      "group": "P50",
+      "group": "APP",
       "owner": [
         "P1P",
         "P1B",
@@ -8472,8 +8517,8 @@
         }
       ]
     },
-    {"id": "Luke RAPCON North Biltmore",
-      "group": "APP",
+    {"id": "Luke - North Biltmore",
+      "group": "RAP",
       "owner": [
         "L1N",
         "P1B",
@@ -8647,8 +8692,8 @@
         }
       ]
     },
-    {"id": "Luke RAPCON North Navajo",
-      "group": "APP",
+    {"id": "Luke - North Navajo",
+      "group": "RAP",
       "owner": [
         "L1N",
         "P1N",
@@ -8792,8 +8837,8 @@
         }
       ]
     },
-    {"id": "Luke RAPCON South Freeway",
-      "group": "APP",
+    {"id": "Luke - South Freeway",
+      "group": "RAP",
       "owner": [
         "L1S",
         "L1N",
@@ -8825,8 +8870,8 @@
         }
       ]
     },
-    {"id": "Luke RAPCON South Santan",
-      "group": "APP",
+    {"id": "Luke - South Santan",
+      "group": "RAP",
       "owner": [
         "L1S",
         "L1N",
@@ -9015,8 +9060,8 @@
         }
       ]
     },
-    {"id": "Luke RAPCON South Quartz",
-      "group": "APP",
+    {"id": "Luke - South Quartz",
+      "group": "RAP",
       "owner": [
         "L1S",
         "L1N",
@@ -9099,8 +9144,8 @@
         }
       ]
     },
-    {"id": "Luke RAPCON South Verde",
-      "group": "APP",
+    {"id": "Luke - South Verde",
+      "group": "RAP",
       "owner": [
         "L1S",
         "L1N",
@@ -9175,31 +9220,31 @@
   ],
   "groups": {
     "ZAB N": {
-      "name": "Albuquerque North",
+      "name": "Albuquerque",
       "colour": "#ffffff"
     },
     "ZAB E": {
-      "name": "Albuquerque East",
+      "name": "Albuquerque",
       "colour": "#ffffff"
     },
     "ZAB SE": {
-      "name": "Albuquerque Southeast",
+      "name": "Albuquerque",
       "colour": "#ffffff"
     },
     "ZAB SW": {
-      "name": "Albuquerque Southwest",
+      "name": "Albuquerque",
       "colour": "#ffffff"
     },
     "ZAB NW": {
-      "name": "Albuquerque Northwest",
+      "name": "Albuquerque",
       "colour": "#ffffff"
     },
-    "P50": {
-      "name": "P50 TRACON",
-      "colour": "#ffffff"
+    "RAP": {
+        "name": "RAPCON",
+        "colour": "#ffffff"
     },
     "APP": {
-        "name": "Approach/Departure",
+        "name": "TRACON",
         "colour": "#ffffff"
     },
     "TWR": {
@@ -9384,14 +9429,13 @@
   "KVHN": {"callsign": "Culberson County", "coord": ["31.05783333","-104.78380556"]},
   "KXNI": {"callsign": "Andrew Othole Memorial", "coord": ["35.060675","-108.9376"]},
   "KABQ": {
-    "callsign": "Albuquerque International Sunport", 
+    "callsign": "Albuquerque", 
     "coord": ["35.03893056","-106.60826111"],
     "runways": [
       "3, 8",
       "21, 26"
     ],
     "topdown": [
-      "AT",
       "AN",
       "AS",
       "AF",
@@ -9401,10 +9445,9 @@
     ]
   },
   "KAEG": {
-    "callsign": "Double Eagle II", 
+    "callsign": "Double Eagle", 
     "coord": ["35.14490833","-106.795175"],
     "topdown": [
-      "AE",
       "AN",
       "AS",
       "AF",
@@ -9414,10 +9457,9 @@
     ]
   },
   "KAMA": {
-    "callsign": "Rick Husband Amarillo International", 
+    "callsign": "Amarillo", 
     "coord": ["35.21936111","-101.70591667"],
     "topdown": [
-      "MT",
       "MA",
       "MF",
       "49",
@@ -9426,10 +9468,9 @@
     ]
   },
   "KBIF": {
-    "callsign": "Biggs Army Airfield", 
+    "callsign": "Biggs", 
     "coord": ["31.84952778","-106.38002778"],
     "topdown": [
-      "BT",
       "E1N",
       "E1S",
       "49",
@@ -9439,11 +9480,9 @@
     ]
   },
   "KCHD": {
-    "callsign": "Chandler Municipal", 
+    "callsign": "Chandler", 
     "coord": ["33.26909722","-111.81112222"],
     "topdown": [
-      "P3H",
-      "P3I",
       "P1P",
       "P1B",
       "P1N",
@@ -9456,10 +9495,9 @@
     ]
   },
   "KCVS": {
-    "callsign": "Cannon AFB", 
+    "callsign": "Cannon", 
     "coord": ["34.38236944","-103.32236667"],
     "topdown": [
-      "CT",
       "C1A",
       "49",
       "21",
@@ -9469,10 +9507,9 @@
     ]
   },
   "KDMA": {
-    "callsign": "Davis Monthan AFB", 
+    "callsign": "D-M", 
     "coord": ["32.16636389","-110.88317222"],
     "topdown": [
-      "DT",
       "U1A",
       "U1D",
       "49",
@@ -9483,11 +9520,9 @@
     ]
   },
   "KDVT": {
-    "callsign": "Phoenix Deer Valley", 
+    "callsign": "Deer Valley", 
     "coord": ["33.68830556","-112.08255556"],
     "topdown": [
-      "P3M",
-      "P3N",
       "P1B",
       "P1N",
       "P1A",
@@ -9499,7 +9534,7 @@
     ]
   },
   "KELP": {
-    "callsign": "El Paso International", 
+    "callsign": "El Paso", 
     "coord": ["31.80733333","-106.37636111"],
     "runways": [
       "4, 8L/R",
@@ -9507,7 +9542,6 @@
       "22, 26L/R"
     ],
     "topdown": [
-      "ET",
       "E1N",
       "E1S",
       "49",
@@ -9517,10 +9551,9 @@
     ]
   },
   "KFFZ": {
-    "callsign": "Falcon Field", 
+    "callsign": "Falcon", 
     "coord": ["33.46084167","-111.728325"],
     "topdown": [
-      "P3Z",
       "P1B",
       "P1N",
       "P1A",
@@ -9532,10 +9565,9 @@
     ]
   },
   "KFHU": {
-    "callsign": "Sierra Vista Municipal-Libby Army Airfield", 
+    "callsign": "Libby", 
     "coord": ["31.58847222","-110.34438889"],
     "topdown": [
-      "FT",
       "F1A",
       "49",
       "47",
@@ -9545,7 +9577,7 @@
     ]
   },
   "KFLG": {
-    "callsign": "Flagstaff Pulliam", 
+    "callsign": "Flagstaff", 
     "coord": ["35.14031667","-111.66924167"],
     "topdown": [
       "P1K",
@@ -9561,10 +9593,9 @@
     ]
   },
   "KGEU": {
-    "callsign": "Glendale Municipal", 
+    "callsign": "Glendale", 
     "coord": ["33.52691667","-112.29513889"],
     "topdown": [
-      "GT",
       "L1N",
       "L1S",
       "P1B",
@@ -9578,10 +9609,9 @@
     ]
   },
   "KGYR": {
-    "callsign": "Phoenix Goodyear", 
+    "callsign": "Goodyear", 
     "coord": ["33.42327778","-112.37536111"],
     "topdown": [
-      "YT",
       "L1S",
       "L1N",
       "P1S",
@@ -9595,10 +9625,9 @@
     ]
   },
   "KGXF": {
-    "callsign": "Gila Bend AF Auxiliary", 
+    "callsign": "Gila Bend", 
     "coord": ["32.885","-112.72055556"],
     "topdown": [
-      "XT",
       "L1S",
       "L1N",
       "P1S",
@@ -9612,10 +9641,9 @@
     ]
   },
   "KHMN": {
-    "callsign": "Holloman AFB", 
+    "callsign": "Holloman", 
     "coord": ["32.85185833","-106.10854167"],
     "topdown": [
-      "HT",
       "H1A",
       "H1D",
       "H1R",
@@ -9627,10 +9655,9 @@
     ]
   },
   "KIWA": {
-    "callsign": "Phoenix Mesa Gateway", 
+    "callsign": "Gateway", 
     "coord": ["33.307825","-111.65545833"],
     "topdown": [
-      "P3K",
       "P1W",
       "P1P",
       "P1B",
@@ -9644,10 +9671,9 @@
     ]
   },
   "KLUF": {
-    "callsign": "Luke AFB", 
+    "callsign": "Luke", 
     "coord": ["33.53496111","-112.38320556"],
     "topdown": [
-      "L2T",
       "L1N",
       "L1S",
       "P1N",
@@ -9660,10 +9686,9 @@
     ]
   },
   "KPCA": {
-    "callsign": "Picacho ANG", 
+    "callsign": "Picacho", 
     "coord": ["32.663","-111.487"],
     "topdown": [
-      "PCA",
       "49",
       "46",
       "91",
@@ -9671,15 +9696,13 @@
     ]
   },
   "KPHX": {
-    "callsign": "Phoenix Sky-Harbor International", 
+    "callsign": "Phoenix", 
     "coord": ["33.43427778","-112.01158333"],
     "runways": [
       "26",
       "08"
     ],
     "topdown": [
-      "P2E",
-      "P2Z",
       "P1N",
       "P1A",
       "49",
@@ -9690,11 +9713,9 @@
     ]
   },
   "KPRC": {
-    "callsign": "Prescott Regional - Ernest A Love Field", 
+    "callsign": "Prescott", 
     "coord": ["34.65483333","-112.41922222"],
     "topdown": [
-      "P3Q",
-      "P3P",
       "P1J",
       "P1B",
       "P1N",
@@ -9707,10 +9728,9 @@
     ]
   },
   "KROW": {
-    "callsign": "Roswell Air Center", 
+    "callsign": "Roswell", 
     "coord": ["33.29987778","-104.52940278"],
     "topdown": [
-      "RT",
       "R1W",
       "R1E",
       "49",
@@ -9721,10 +9741,9 @@
     ]
   },
   "KRYN": {
-    "callsign": "Ryan Field", 
+    "callsign": "Ryan", 
     "coord": ["32.14221111","-111.17458056"],
     "topdown": [
-      "NT",
       "U1D",
       "U1A",
       "49",
@@ -9735,10 +9754,9 @@
     ]
   },
   "KSAF": {
-    "callsign": "Santa Fe Regional", 
+    "callsign": "Santa Fe", 
     "coord": ["35.61711111","-106.08941667"],
     "topdown": [
-      "ST",
       "49",
       "16"
     ]
@@ -9747,7 +9765,6 @@
     "callsign": "Scottsdale", 
     "coord": ["33.62288889","-111.91052778"],
     "topdown": [
-      "P3D",
       "P1B",
       "P1N",
       "P1A",
@@ -9759,10 +9776,9 @@
     ]
   },
   "KTUS": {
-    "callsign": "Tucson International", 
+    "callsign": "Tucson", 
     "coord": ["32.11606944","-110.94101389"],
     "topdown": [
-      "U2T",
       "U1D",
       "U1A",
       "49",
