@@ -96,9 +96,10 @@
                 "CP",
                 "TH",
                 "GR",
-                "SI",
-                "ZG",
-                "PI"
+                "toronto/SI",
+                "toronto/GR",
+                "toronto/PI",
+                "toronto/CE"
             ],
             "sectors": [
                 {
@@ -171,9 +172,10 @@
                 "CP",
                 "TH",
                 "GR",
-                "SI",
-                "ZG",
-                "PI"
+                "toronto/SI",
+                "toronto/GR",
+                "toronto/PI",
+                "toronto/CE"
             ],
             "sectors": [
                 {
@@ -2130,10 +2132,10 @@
                 "CN",
                 "TH",
                 "GR",
-                "SI",
-                "ZG",
-                "PI",
-                "YZ"
+                "toronto/SI",
+                "toronto/GR",
+                "toronto/PI",
+                "toronto/CE"
             ],
             "sectors": [
                 {
@@ -2625,9 +2627,10 @@
                 "TH",
                 "RW",
                 "GR",
-                "SI",
-                "ZG",
-                "PI"
+                "toronto/SI",
+                "toronto/GR",
+                "toronto/PI",
+                "toronto/CE"
             ],
             "sectors": [
                 {
@@ -3078,10 +3081,10 @@
                 "RW",
                 "LA",
                 "TH",
-                "YB",
-                "SH",
-                "PI",
-                "YZ"
+                "toronto/YB",
+                "toronto/SH",
+                "toronto/PI",
+                "toronto/CE"
             ],
             "sectors": [
                 {
@@ -3219,9 +3222,9 @@
                 "RW",
                 "LA",
                 "TH",
-                "XI",
-                "PI",
-                "YZ"
+                "toronto/XI",
+                "toronto/PI",
+                "toronto/CE"
             ],
             "sectors": [
                 {
@@ -3607,9 +3610,10 @@
             "owner": [
                 "TH",
                 "GR",
-                "SI",
-                "ZG",
-                "PI"
+                "toronto/SI",
+                "toronto/GR",
+                "toronto/PI",
+                "toronto/CE"
             ],
             "sectors": [
                 {
@@ -3954,9 +3958,10 @@
                 "CP",
                 "TH",
                 "GR",
-                "SI",
-                "ZG",
-                "PI"
+                "toronto/SI",
+                "toronto/GR",
+                "toronto/PI",
+                "toronto/CE"
             ],
             "sectors": [
                 {
@@ -4829,99 +4834,6 @@
                 "hex": "#cb8c00"
             }
         ]
-    },
-    "YZ": {
-        "callsign": "Toronto Centre",
-        "comment": "Toronto CE",
-        "frequency": "125.775",
-        "type": "CTR",
-        "pre": [
-            "TOR"
-        ],
-        "colours": [
-            {
-                "hex": "#d18c00"
-            }
-        ]
-    },
-    "ZG": {
-        "callsign": "Toronto Centre",
-        "comment": "Toronto GR",
-        "frequency": "133.300",
-        "type": "CTR",
-        "pre": [
-            "TOR"
-        ],
-        "colours": [
-            {
-                "hex": "#5a8c00"
-            }
-        ]
-    },
-    "PI": {
-        "callsign": "Toronto Centre",
-        "frequency": "124.670",
-        "type": "CTR",
-        "pre": [
-            "TOR"
-        ],
-        "colours": [
-            {
-                "hex": "#dd8c00"
-            }
-        ]
-    },
-    "SH": {
-        "callsign": "Toronto Centre",
-        "frequency": "134.420",
-        "type": "CTR",
-        "pre": [
-            "TOR"
-        ],
-        "colours": [
-            {
-                "hex": "#fe8c00"
-            }
-        ]
-    },
-    "SI": {
-        "callsign": "Toronto Centre",
-        "frequency": "127.000",
-        "type": "CTR",
-        "pre": [
-            "TOR"
-        ],
-        "colours": [
-            {
-                "hex": "#488c00"
-            }
-        ]
-    },
-    "XI": {
-        "callsign": "Toronto Centre",
-        "frequency": "121.220",
-        "type": "CTR",
-        "pre": [
-            "TOR"
-        ],
-        "colours": [
-            {
-                "hex": "#678c00"
-            }
-        ]
-    },
-    "YB": {
-        "callsign": "Toronto Centre",
-        "frequency": "127.250", 
-        "type": "CTR",
-        "pre": [
-            "TOR"
-        ],
-        "colours": [
-            {
-                "hex": "#4b8c00"
-            }
-        ]
     }
 },
   "callsigns": {
@@ -5053,9 +4965,10 @@
             "CP",
             "TH",
             "GR",
-            "SI",
-            "ZG",
-            "PI"
+            "toronto/SI",
+            "toronto/GR",
+            "toronto/PI",
+            "toronto/CE"
         ]
     },
     "CYOY": {"callsign": "Valcartier", "coord": ["46.89972","-71.5"]},
