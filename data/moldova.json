@@ -349,9 +349,9 @@
             "group": "ACC",
             "owner": [
                 "UU",
-                "NAP",
-                "ARG",
-                "LOM",
+                "romania/NAP",
+                "romania/ARG",
+                "romania/LOM",
                 "euro/ESW"
             ],
             "sectors": [
@@ -548,10 +548,10 @@
             "group": "ACC",
             "owner": [
                 "UU",
-                "LRUP",
-                "NAP",
-                "ARG",
-                "LOM",
+                "romania/LRUP",
+                "romania/NAP",
+                "romania/ARG",
+                "romania/LOM",
                 "euro/ESW"
             ],
             "sectors": [
@@ -754,11 +754,7 @@
     "positions": {
         "UU": {"colours": [{"hex": "#576073"}], "pre": ["LUUU"], "type": "CTR", "frequency": "130.975","callsign": "Chisinau Control"},
         "APK": {"colours": [{"hex": "#e6ed58"}], "pre": ["LUKK"], "type": "APP", "frequency": "133.300","callsign": "Chisinau Approach"},
-        "TKK": {"colours": [{"hex": "#81738c"}], "pre": ["LUKK"], "type": "TWR", "frequency": "118.100","callsign": "Chisinau Tower"},
-        "NAP": {"colours": [{"hex": "#076cf7"}], "pre": ["LRBB"], "type": "CTR", "frequency": "127.075","callsign": "Bucharest Radar"},
-        "ARG": {"colours": [{"hex": "#402f66"}], "pre": ["LRBB"], "type": "CTR", "frequency": "121.700","callsign": "Bucharest Radar"},
-        "LOM": {"colours": [{"hex": "#021e45"}], "pre": ["LRBB"], "type": "CTR", "frequency": "122.025","callsign": "Bucharest Radar"},
-        "LRUP": {"colours": [{"hex": "#5762b3"}], "pre": ["LRBB"], "type": "CTR", "frequency": "132.875","callsign": "Bucharest Radar"}
+        "TKK": {"colours": [{"hex": "#81738c"}], "pre": ["LUKK"], "type": "TWR", "frequency": "118.100","callsign": "Chisinau Tower"}
     },
 
     "callsigns": {
