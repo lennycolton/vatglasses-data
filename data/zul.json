@@ -96,10 +96,10 @@
                 "CP",
                 "TH",
                 "GR",
-                "toronto/SI",
-                "toronto/GR",
-                "toronto/PI",
-                "toronto/CE"
+                "zyz/SI",
+                "zyz/GR",
+                "zyz/PI",
+                "zyz/CE"
             ],
             "sectors": [
                 {
@@ -172,10 +172,10 @@
                 "CP",
                 "TH",
                 "GR",
-                "toronto/SI",
-                "toronto/GR",
-                "toronto/PI",
-                "toronto/CE"
+                "zyz/SI",
+                "zyz/GR",
+                "zyz/PI",
+                "zyz/CE"
             ],
             "sectors": [
                 {
@@ -2132,10 +2132,10 @@
                 "CN",
                 "TH",
                 "GR",
-                "toronto/SI",
-                "toronto/GR",
-                "toronto/PI",
-                "toronto/CE"
+                "zyz/SI",
+                "zyz/GR",
+                "zyz/PI",
+                "zyz/CE"
             ],
             "sectors": [
                 {
@@ -2627,10 +2627,10 @@
                 "TH",
                 "RW",
                 "GR",
-                "toronto/SI",
-                "toronto/GR",
-                "toronto/PI",
-                "toronto/CE"
+                "zyz/SI",
+                "zyz/GR",
+                "zyz/PI",
+                "zyz/CE"
             ],
             "sectors": [
                 {
@@ -3081,10 +3081,10 @@
                 "RW",
                 "LA",
                 "TH",
-                "toronto/YB",
-                "toronto/SH",
-                "toronto/PI",
-                "toronto/CE"
+                "zyz/YB",
+                "zyz/SH",
+                "zyz/PI",
+                "zyz/CE"
             ],
             "sectors": [
                 {
@@ -3222,9 +3222,9 @@
                 "RW",
                 "LA",
                 "TH",
-                "toronto/XI",
-                "toronto/PI",
-                "toronto/CE"
+                "zyz/XI",
+                "zyz/PI",
+                "zyz/CE"
             ],
             "sectors": [
                 {
@@ -3610,10 +3610,10 @@
             "owner": [
                 "TH",
                 "GR",
-                "toronto/SI",
-                "toronto/GR",
-                "toronto/PI",
-                "toronto/CE"
+                "zyz/SI",
+                "zyz/GR",
+                "zyz/PI",
+                "zyz/CE"
             ],
             "sectors": [
                 {
@@ -3958,10 +3958,10 @@
                 "CP",
                 "TH",
                 "GR",
-                "toronto/SI",
-                "toronto/GR",
-                "toronto/PI",
-                "toronto/CE"
+                "zyz/SI",
+                "zyz/GR",
+                "zyz/PI",
+                "zyz/CE"
             ],
             "sectors": [
                 {
@@ -4965,10 +4965,10 @@
             "CP",
             "TH",
             "GR",
-            "toronto/SI",
-            "toronto/GR",
-            "toronto/PI",
-            "toronto/CE"
+            "zyz/SI",
+            "zyz/GR",
+            "zyz/PI",
+            "zyz/CE"
         ]
     },
     "CYOY": {"callsign": "Valcartier", "coord": ["46.89972","-71.5"]},

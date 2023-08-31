@@ -608,8 +608,7 @@
             "owner": [
                 "HU",
                 "MI",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -704,8 +703,7 @@
                 "KF",
                 "HM",
                 "GR",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -753,8 +751,7 @@
             "owner": [
                 "LU",
                 "OV",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -834,8 +831,7 @@
             "group": "TOR",
             "owner": [
                 "MI",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -877,8 +873,7 @@
             "group": "TOR",
             "owner": [
                 "OV",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -1297,7 +1292,7 @@
                 "GR",
                 "PI",
                 "CE",
-                "TH"
+                "zul/TH"
             ],
             "sectors": [
                 {
@@ -1736,8 +1731,7 @@
                 "KF",
                 "HM",
                 "GR",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -1764,8 +1758,7 @@
                 "KF",
                 "HM",
                 "GR",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -1814,8 +1807,7 @@
                 "KF",
                 "HM",
                 "GR",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -1842,8 +1834,7 @@
                 "KF",
                 "HM",
                 "GR",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -1869,8 +1860,7 @@
                 "KF",
                 "HM",
                 "GR",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -1926,8 +1916,7 @@
                 "KF",
                 "HM",
                 "GR",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -2014,8 +2003,7 @@
                 "ND",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -5882,8 +5870,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -5911,8 +5898,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -5945,8 +5931,7 @@
                 "WS",
                 "VV",
                 "SH",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -5998,8 +5983,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6035,8 +6019,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6106,8 +6089,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6169,8 +6151,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6330,8 +6311,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6373,8 +6353,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6448,8 +6427,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6486,8 +6464,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6569,8 +6546,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6742,8 +6718,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6782,8 +6757,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6819,8 +6793,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6866,8 +6839,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -6929,8 +6901,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7032,8 +7003,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7087,8 +7057,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7137,8 +7106,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7183,8 +7151,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7227,8 +7194,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7287,8 +7253,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7413,8 +7378,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7462,8 +7426,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7550,8 +7513,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7622,8 +7584,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7671,8 +7632,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7712,8 +7672,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7753,8 +7712,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7789,8 +7747,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7876,8 +7833,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7912,8 +7868,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -7951,8 +7906,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8014,8 +7968,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8066,8 +8019,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8110,8 +8062,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8210,8 +8161,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8283,8 +8233,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8346,8 +8295,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8422,8 +8370,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8485,8 +8432,7 @@
                 "SD",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8604,8 +8550,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8638,8 +8583,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8672,8 +8616,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8710,8 +8653,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8759,8 +8701,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8801,8 +8742,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8867,8 +8807,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8933,8 +8872,7 @@
                 "YT",
                 "SD",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -8996,8 +8934,7 @@
                 "WS",
                 "HM",
                 "GR",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9041,8 +8978,7 @@
             "group": "TOR",
             "owner": [
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9090,8 +9026,7 @@
             "group": "TOR",
             "owner": [
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9132,8 +9067,7 @@
             "group": "TOR",
             "owner": [
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9167,8 +9101,7 @@
             "group": "TOR",
             "owner": [
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9202,8 +9135,7 @@
             "group": "TOR",
             "owner": [
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9265,8 +9197,7 @@
             "group": "TOR",
             "owner": [
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9351,8 +9282,7 @@
             "group": "TOR",
             "owner": [
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9431,8 +9361,7 @@
             "owner": [
                 "AB",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9467,8 +9396,7 @@
             "owner": [
                 "AB",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9506,8 +9434,7 @@
             "owner": [
                 "AC",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9542,8 +9469,7 @@
             "owner": [
                 "AC",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9605,8 +9531,7 @@
             "owner": [
                 "AC",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9642,8 +9567,7 @@
             "owner": [
                 "AB",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9676,8 +9600,7 @@
             "owner": [
                 "AB",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9733,8 +9656,7 @@
             "owner": [
                 "AC",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9767,8 +9689,7 @@
             "owner": [
                 "AC",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9799,8 +9720,7 @@
             "owner": [
                 "AC",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9831,8 +9751,7 @@
             "owner": [
                 "AB",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9865,8 +9784,7 @@
             "owner": [
                 "AB",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9907,8 +9825,7 @@
             "owner": [
                 "AB",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9941,8 +9858,7 @@
             "owner": [
                 "AB",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -9982,8 +9898,7 @@
             "owner": [
                 "AC",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -10028,8 +9943,7 @@
             "owner": [
                 "AC",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -10074,8 +9988,7 @@
             "owner": [
                 "AC",
                 "AA",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -10120,8 +10033,7 @@
                 "KF",
                 "HM",
                 "GR",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -10193,7 +10105,14 @@
             "id": "CYTZ_TWR",
             "group": "TOR",
             "owner": [
-                "TZ"
+                "TZ",
+                "YT",
+                "SD",
+                "ND",
+                "AA",
+                "AB",
+                "AC",
+                "CE"
             ],
             "sectors": [
                 {
@@ -10253,8 +10172,7 @@
                 "AA",
                 "AB",
                 "AC",
-                "CE",
-                "YZ"
+                "CE"
             ],
             "sectors": [
                 {
@@ -10970,50 +10888,253 @@
     "CPF2": { "callsign": "Bar River", "coord": ["46.420278", "-84.092222"] },
     "CPN4": { "callsign": "Hanover", "coord": ["44.158333", "-81.062778"] },
     "CPR7": { "callsign": "Wingham", "coord": ["43.8675", "-81.298611"] },
-    "CYAM": { "callsign": "Sault Ste Marie", "coord": ["46.485", "-84.509444"] },
+    "CYAM": {
+        "callsign": "Sault",
+        "coord": ["46.485", "-84.509444"],
+        "topdown": [
+            "SL",
+            "RA",
+            "SH",
+            "CE"
+        ]
+    },
     "CYCE": { "callsign": "Centralia", "coord": ["43.285556", "-81.508333"] },
     "CYCK": { "callsign": "Chatham-Kent", "coord": ["42.306232", "-82.081749"] },
     "CYCN": { "callsign": "Cochrane", "coord": ["49.105556", "-81.013611"] },
     "CYEE": { "callsign": "Midland", "coord": ["44.684722", "-79.929444"] },
-    "CYEL": { "callsign": "Elliot Lake", "coord": ["46.351389", "-82.561389"] },
+    "CYEL": {
+        "callsign": "Elliot Lake",
+        "coord": ["46.351389", "-82.561389"],
+        "topdown": [
+            "SL",
+            "RA",
+            "SH",
+            "CE"
+        ]
+    },
     "CYEM": { "callsign": "Manitowaning-East Manitoulin", "coord": ["45.8425", "-81.8575"] },
     "CYFA": { "callsign": "Fort Albany", "coord": ["52.203611", "-81.695833"] },
     "CYFD": { "callsign": "Brantford", "coord": ["43.131389", "-80.3425"] },
     "CYGD": { "callsign": "Goderich", "coord": ["43.766944", "-81.710556"] },
     "CYHF": { "callsign": "Hearst", "coord": ["49.713889", "-83.686944"] },
-    "CYHM": { "callsign": "Hamilton", "coord": ["43.173056", "-79.935"] },
+    "CYHM": {
+        "callsign": "Hamilton",
+        "coord": ["43.173056", "-79.935"],
+        "topdown": [
+            "WS",
+            "HM",
+            "GR",
+            "CE"
+        ]
+    },
     "CYHN": { "callsign": "Hornepayne", "coord": ["49.193056", "-84.758889"] },
     "CYHS": { "callsign": "Saugeen Municipality", "coord": ["44.158013", "-81.063203"] },
-    "CYKF": { "callsign": "Kitchener/Waterloo", "coord": ["43.458889", "-80.384444"] },
+    "CYKF": {
+        "callsign": "Waterloo",
+        "coord": ["43.458889", "-80.384444"],
+        "topdown": [
+            "XU",
+            "WS",
+            "KF",
+            "HM",
+            "GR",
+            "CE"
+        ]
+    },
     "CYKM": { "callsign": "Kincardine", "coord": ["44.201408", "-81.605692"] },
     "CYKX": { "callsign": "Kirkland Lake", "coord": ["48.210278", "-79.981389"] },
-    "CYKZ": { "callsign": "Toronto-Buttonville", "coord": ["43.862222", "-79.37"] },
+    "CYKZ": {
+        "callsign": "Buttonville",
+        "coord": ["43.862222", "-79.37"],
+        "topdown": [
+            "ES",
+            "WS",
+            "GR",
+            "YT",
+            "SD",
+            "AA",
+            "CE"
+        ]
+    },
     "CYLD": { "callsign": "Chapleau", "coord": ["47.82", "-83.346667"] },
     "CYLS": { "callsign": "Barrie-Orillia (Lake Simcoe Regional)", "coord": ["44.486111", "-79.555556"] },
     "CYMG": { "callsign": "Manitouwadge", "coord": ["49.083889", "-85.860556"] },
-    "CYMO": { "callsign": "Moosonee", "coord": ["51.291111", "-80.607778"] },
-    "CYOO": { "callsign": "Oshawa", "coord": ["43.922778", "-78.895"] },
+    "CYMO": {
+        "callsign": "Moosonee",
+        "coord": ["51.291111", "-80.607778"],
+        "topdown": [
+            "TS",
+            "YB",
+            "SH",
+            "PI",
+            "CE"
+        ]
+    },
+    "CYOO": {
+        "callsign": "Oshawa",
+        "coord": ["43.922778", "-78.895"],
+        "topdown": [
+            "ES",
+            "WS",
+            "ER",
+            "SI",
+            "GR",
+            "BA",
+            "PI",
+            "CE"
+        ]
+    },
     "CYOS": { "callsign": "Owen Sound", "coord": ["44.590278", "-80.8375"] },
-    "CYPQ": { "callsign": "Peterborough", "coord": ["44.23", "-78.363333"] },
-    "CYQA": { "callsign": "Muskoka", "coord": ["44.974722", "-79.303333"] },
+    "CYPQ": {
+        "callsign": "Peterborough",
+        "coord": ["44.23", "-78.363333"],
+        "topdown": [
+            "ER",
+            "SI",
+            "GR",
+            "BA",
+            "PI",
+            "CE"
+        ]
+    },
+    "CYQA": {
+        "callsign": "Muskoka",
+        "coord": ["44.974722", "-79.303333"],
+        "topdown": [  
+            "SI",
+            "GR",
+            "PI",
+            "CE"
+        ]
+    },
     "CYQG": { "callsign": "Windsor", "coord": ["42.274722", "-82.958333"] },
     "CYQN": { "callsign": "Nakina", "coord": ["50.182778", "-86.696389"] },
-    "CYSB": { "callsign": "Sudbury", "coord": ["46.625", "-80.798889"] },
-    "CYSN": { "callsign": "Saint Catharines", "coord": ["43.191667", "-79.171667"] },
+    "CYSB": {
+        "callsign": "Sudbury",
+        "coord": ["46.625", "-80.798889"],
+        "topdown": [ 
+            "YB",
+            "SH",
+            "PI",
+            "CE"
+        ]
+    },
+    "CYSN": {
+        "callsign": "Saint Catharines",
+        "coord": ["43.191667", "-79.171667"],
+        "topdown": [  
+            "ES",
+            "WS",
+            "GR",
+            "HM",
+            "KF",
+            "CE"
+        ]
+    },
     "CYTA": { "callsign": "Pembroke", "coord": ["45.864444", "-77.251667"] },
     "CYTB": { "callsign": "Tillsonburg", "coord": ["42.926488", "-80.747071"] },
-    "CYTR": { "callsign": "Trenton", "coord": ["44.118889", "-77.528056"] },
-    "CYTS": { "callsign": "Timmins", "coord": ["48.569722", "-81.376667"] },
-    "CYTZ": { "callsign": "Toronto-Billy Bishop", "coord": ["43.6275", "-79.396111"] },
-    "CYVV": { "callsign": "Wiarton", "coord": ["44.745833", "-81.107222"] },
+    "CYTR": {
+        "callsign": "Trenton",
+        "coord": ["44.118889", "-77.528056"],
+        "topdown": [    
+            "CN",
+            "SI",
+            "GR",
+            "PI",
+            "CE",
+            "zul/TH"
+        ]
+    },
+    "CYTS": {
+        "callsign": "Timmins",
+        "coord": ["48.569722", "-81.376667"],
+        "topdown": [
+            "TS",
+            "YB",
+            "SH",
+            "PI",
+            "CE"
+        ]
+    },
+    "CYTZ": {
+        "callsign": "City",
+        "coord": ["43.6275", "-79.396111"],
+        "topdown": [
+            "YT",
+            "SD",
+            "ND",
+            "AA",
+            "AB",
+            "AC",
+            "CE"
+        ]
+    },
+    "CYVV": {
+        "callsign": "Wiarton",
+        "coord": ["44.745833", "-81.107222"],
+        "topdown": [
+            "VV",
+            "SH",
+            "CE"
+        ]
+    },
     "CYWA": { "callsign": "Petawawa", "coord": ["45.95", "-77.31639"] },
-    "CYXR": { "callsign": "Earlton", "coord": ["47.695", "-79.848889"] },
-    "CYXU": { "callsign": "London", "coord": ["43.035556", "-81.153889"] },
-    "CYXZ": { "callsign": "Wawa", "coord": ["47.966667", "-84.786667"] },
-    "CYYB": { "callsign": "North Bay", "coord": ["46.363611", "-79.422778"] },
-    "CYYU": { "callsign": "Kapuskasing", "coord": ["49.411667", "-82.468889"] },
+    "CYXR": {
+        "callsign": "Earlton",
+        "coord": ["47.695", "-79.848889"],
+        "topdown": [
+            "TS",
+            "YB",
+            "SH",
+            "PI",
+            "CE"
+        ]
+    },
+    "CYXU": {
+        "callsign": "London",
+        "coord": ["43.035556", "-81.153889"],
+        "topdown": [
+            "XU",
+            "WS",
+            "KF",
+            "HM",
+            "GR",
+            "CE"
+        ]
+    },
+    "CYXZ": {
+        "callsign": "Wawa",
+        "coord": ["47.966667", "-84.786667"],
+        "topdown": [
+            "SL",
+            "RA",
+            "SH",
+            "CE"
+        ]
+    },
+    "CYYB": {
+        "callsign": "North Bay",
+        "coord": ["46.363611", "-79.422778"],
+        "topdown": [
+            "YB",
+            "SH",
+            "PI",
+            "CE"
+        ]
+    },
+    "CYYU": {
+        "callsign": "Kapuskasing",
+        "coord": ["49.411667", "-82.468889"],
+        "topdown": [
+            "TS",
+            "YB",
+            "SH",
+            "PI",
+            "CE"
+        ]
+    },
     "CYYZ": {
-        "callsign": "Toronto-Pearson Intl",
+        "callsign": "Toronto",
         "coord": ["43.677222", "-79.630556"],
         "runways": ["23/24", "05/06", "33", "15"],
         "topdown": [
@@ -11026,9 +11147,41 @@
             "CE"
         ]
     },
-    "CYZD": { "callsign": "Toronto-Downsview", "coord": ["43.742778", "-79.465556"] },
-    "CYZE": { "callsign": "Gore Bay-Manitoulin", "coord": ["45.885278", "-82.567778"] },
-    "CYZR": { "callsign": "Sarnia", "coord": ["42.999444", "-82.308889"] },
+    "CYZD": {
+        "callsign": "Downsview",
+        "coord": ["43.742778", "-79.465556"],
+        "topdown": [
+            "YT",
+            "SD",
+            "ND",
+            "AA",
+            "AB",
+            "AC",
+            "CE"
+        ]
+    },
+    "CYZE": {
+        "callsign": "Gore Bay-Manitoulin",
+        "coord": ["45.885278", "-82.567778"],
+        "topdown": [
+            "SL",
+            "RA",
+            "SH",
+            "CE"
+        ]
+    },
+    "CYZR": {
+        "callsign": "Sarnia",
+        "coord": ["42.999444", "-82.308889"],
+        "topdown": [
+            "XU",
+            "WS",
+            "KF",
+            "HM",
+            "GR",
+            "CE"
+        ]
+    },
     "CZBA": { "callsign": "Burlington", "coord": ["43.441667", "-79.850278"] },
     "CZKE": { "callsign": "Kaschechewan", "coord": ["52.2825", "-81.677778"] }
   }
