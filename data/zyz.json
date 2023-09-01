@@ -1,7 +1,7 @@
 {
     "airspace": [
         {
-            "id": "CZYZ_BA 240-600",
+            "id": "Barrie",
             "group": "TOR",
             "owner": [
                 "BA",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "id": "CZYZ_CE 240-320",
+            "id": "Centralia",
             "group": "TOR",
             "owner": [
                 "CE",
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "id": "CZYZ_CE 280-320",
+            "id": "Centralia",
             "group": "TOR",
             "owner": [
                 "CE",
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "id": "CZYZ_ER 0-230",
+            "id": "East Radar",
             "group": "TOR",
             "owner": [
                 "ER",
@@ -245,7 +245,7 @@
             ]
         },
         {
-            "id": "CZYZ_ER 0-60",
+            "id": "East Radar",
             "group": "TOR",
             "owner": [
                 "ER",
@@ -274,7 +274,7 @@
             ]
         },
         {
-            "id": "CZYZ_ER 140-230",
+            "id": "East Radar",
             "group": "TOR",
             "owner": [
                 "ER",
@@ -351,7 +351,7 @@
             ]
         },
         {
-            "id": "CZYZ_ER 60-230 OO",
+            "id": "East Radar",
             "group": "TOR",
             "owner": [
                 "ER",
@@ -399,7 +399,7 @@
             ]
         },
         {
-            "id": "CZYZ_GR 110-230",
+            "id": "Grimsby",
             "group": "TOR",
             "owner": [
                 "GR",
@@ -464,7 +464,7 @@
             ]
         },
         {
-            "id": "CZYZ_GR 70-110",
+            "id": "Grimsby",
             "group": "TOR",
             "owner": [
                 "GR",
@@ -524,7 +524,7 @@
             ]
         },
         {
-            "id": "CZYZ_HM 120-230",
+            "id": "Hamilton",
             "group": "TOR",
             "owner": [
                 "HM",
@@ -550,7 +550,7 @@
             ]
         },
         {
-            "id": "CZYZ_HM 70-230",
+            "id": "Hamilton",
             "group": "TOR",
             "owner": [
                 "HM",
@@ -583,7 +583,6 @@
                         ["432515","-0800647"],
                         ["432515","-0800647"],
                         ["432347","-0800513"],
-                        ["432208","-0800305"],
                         ["432036","-0800045"],
                         ["431914","-0795815"],
                         ["431802","-0795536"],
@@ -603,7 +602,7 @@
             ]
         },
         {
-            "id": "CZYZ_HU 370-600",
+            "id": "Mitchell High",
             "group": "TOR",
             "owner": [
                 "HU",
@@ -646,7 +645,7 @@
             ]
         },
         {
-            "id": "CZYZ_KF 120-230",
+            "id": "Kitchener",
             "group": "TOR",
             "owner": [
                 "KF",
@@ -697,7 +696,7 @@
             ]
         },
         {
-            "id": "CZYZ_KF 70-230",
+            "id": "Kitchener",
             "group": "TOR",
             "owner": [
                 "KF",
@@ -746,7 +745,7 @@
             ]
         },
         {
-            "id": "CZYZ_LU 370-600",
+            "id": "Lucan",
             "group": "TOR",
             "owner": [
                 "LU",
@@ -827,7 +826,7 @@
             ]
         },
         {
-            "id": "CZYZ_MI 280-360",
+            "id": "Mitchell",
             "group": "TOR",
             "owner": [
                 "MI",
@@ -869,7 +868,7 @@
             ]
         },
         {
-            "id": "CZYZ_OV 330-360",
+            "id": "Oakville",
             "group": "TOR",
             "owner": [
                 "OV",
@@ -949,7 +948,7 @@
             ]
         },
         {
-            "id": "CZYZ_PI 240-600",
+            "id": "Picton",
             "group": "TOR",
             "owner": [
                 "PI",
@@ -990,7 +989,7 @@
             ]
         },
         {
-            "id": "CZYZ_RA 240-280",
+            "id": "Elliot Lake",
             "group": "TOR",
             "owner": [
                 "RA",
@@ -1013,7 +1012,7 @@
             ]
         },
         {
-            "id": "CZYZ_RA 240-350",
+            "id": "Elliot Lake",
             "group": "TOR",
             "owner": [
                 "RA",
@@ -1060,7 +1059,7 @@
             ]
         },
         {
-            "id": "CZYZ_SH 350-600",
+            "id": "Sault High",
             "group": "TOR",
             "owner": [
                 "SH",
@@ -1106,7 +1105,7 @@
             ]
         },
         {
-            "id": "CZYZ_SI 0-230",
+            "id": "Simcoe",
             "group": "TOR",
             "owner": [
                 "SI",
@@ -1143,7 +1142,7 @@
             ]
         },
         {
-            "id": "CZYZ_SI 60-230",
+            "id": "Simcoe",
             "group": "TOR",
             "owner": [
                 "SI",
@@ -1203,7 +1202,7 @@
             ]
         },
         {
-            "id": "CZYZ_SI 70-230",
+            "id": "Simcoe",
             "group": "TOR",
             "owner": [
                 "SI",
@@ -1230,7 +1229,7 @@
             ]
         },
         {
-            "id": "CZYZ_SL 0-230",
+            "id": "Sault Low",
             "group": "TOR",
             "owner": [
                 "SL",
@@ -1284,7 +1283,7 @@
             ]
         },
         {
-            "id": "CZYZ_TR 0-140",
+            "id": "Trenton",
             "group": "TOR",
             "owner": [
                 "CN",
@@ -1319,7 +1318,7 @@
             ]
         },
         {
-            "id": "CZYZ_TS 0-230",
+            "id": "Timmins",
             "group": "TOR",
             "owner": [
                 "TS",
@@ -1355,7 +1354,7 @@
             ]
         },
         {
-            "id": "CZYZ_TS 0-280",
+            "id": "Timmins",
             "group": "TOR",
             "owner": [
                 "TS",
@@ -1432,7 +1431,7 @@
             ]
         },
         {
-            "id": "CZYZ_VV 0-270",
+            "id": "Wiarton",
             "group": "TOR",
             "owner": [
                 "VV",
@@ -1481,7 +1480,7 @@
             ]
         },
         {
-            "id": "CZYZ_VV 06-230",
+            "id": "Wiarton",
             "group": "TOR",
             "owner": [
                 "VV",
@@ -1509,7 +1508,7 @@
             ]
         },
         {
-            "id": "CZYZ_VV 06-270",
+            "id": "Wiarton",
             "group": "TOR",
             "owner": [
                 "VV",
@@ -1564,7 +1563,7 @@
             ]
         },
         {
-            "id": "CZYZ_VV 240-270",
+            "id": "Wiarton",
             "group": "TOR",
             "owner": [
                 "VV",
@@ -1613,7 +1612,7 @@
             ]
         },
         {
-            "id": "CZYZ_XI 240-290",
+            "id": "Killaloe",
             "group": "TOR",
             "owner": [
                 "XI",
@@ -1651,7 +1650,7 @@
             ]
         },
         {
-            "id": "CZYZ_XI 240-600",
+            "id": "Killaloe",
             "group": "TOR",
             "owner": [
                 "XI",
@@ -1698,7 +1697,7 @@
             ]
         },
         {
-            "id": "CZYZ_XI 280-600",
+            "id": "Killaloe",
             "group": "TOR",
             "owner": [
                 "XI",
@@ -1723,8 +1722,8 @@
             ]
         },
         {
-            "id": "CZYZ_XU 100-110",
-            "group": "TOR",
+            "id": "London",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -1750,8 +1749,8 @@
             ]
         },
         {
-            "id": "CZYZ_XU 110",
-            "group": "TOR",
+            "id": "London",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -1799,8 +1798,8 @@
             ]
         },
         {
-            "id": "CZYZ_XU 50 EXT",
-            "group": "TOR",
+            "id": "London",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -1826,8 +1825,8 @@
             ]
         },
         {
-            "id": "CZYZ_XU 50 EXT-2",
-            "group": "TOR",
+            "id": "London",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -1852,8 +1851,8 @@
             ]
         },
         {
-            "id": "CZYZ_XU 60 KF",
-            "group": "TOR",
+            "id": "Kitchener",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -1908,8 +1907,8 @@
             ]
         },
         {
-            "id": "CZYZ_XU 60 TB",
-            "group": "TOR",
+            "id": "London",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -1935,7 +1934,7 @@
             ]
         },
         {
-            "id": "CZYZ_YB 0-230",
+            "id": "North Bay",
             "group": "TOR",
             "owner": [
                 "YB",
@@ -1994,10 +1993,9 @@
                 }
             ]
         },
-        
         {
-            "id": "CYYZ_TMA",
-            "group": "TOR",
+            "id": "Toronto",
+            "group": "TCA",
             "owner": [
                 "YT",
                 "ND",
@@ -5656,8 +5654,8 @@
             ]
         },
         {
-            "id": "CYYZ_ES 0-60 SN",
-            "group": "TOR",
+            "id": "St. Catharines",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -5718,56 +5716,8 @@
             ]
         },
         {
-            "id": "CYYZ_ES 15 40",
-            "group": "TOR",
-            "owner": [
-                "SD",
-                "AA",
-                "CE"
-            ],
-            "sectors": [
-                {
-                    "min": 0,
-                    "max": 44,
-                    "points": [
-                        ["440143","-0795702"],
-                        ["440350","-0795357"],
-                        ["440350","-0795357"],
-                        ["440007","-0794905"],
-                        ["440007","-0794905"],
-                        ["440143","-0795702"]
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "CYYZ_ES 15 50",
-            "group": "TOR",
-            "owner": [
-                "SD",
-                "AA",
-                "CE"
-            ],
-            "sectors": [
-                {
-                    "min": 0,
-                    "max": 54,
-                    "points": [
-                        ["440143","-0795702"],
-                        ["440350","-0795357"],
-                        ["440350","-0795357"],
-                        ["440303","-0795600"],
-                        ["440303","-0795600"],
-                        ["440158","-0795818"],
-                        ["440158","-0795818"],
-                        ["440143","-0795702"]
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "CYYZ_ES 50 OO",
-            "group": "TOR",
+            "id": "Oshawa",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -5864,69 +5814,8 @@
             ]
         },
         {
-            "id": "CYYZ_WS 15 40",
-            "group": "TOR",
-            "owner": [
-                "YT",
-                "SD",
-                "AA",
-                "CE"
-            ],
-            "sectors": [
-                {
-                    "min": 0,
-                    "max": 44,
-                    "points": [
-                        ["440007","-0794905"],
-                        ["435457","-0795637"],
-                        ["434944","-0800411"],
-                        ["434944","-0800411"],
-                        ["435330","-0800903"],
-                        ["435330","-0800903"],
-                        ["435840","-0800130"],
-                        ["440143","-0795702"],
-                        ["440143","-0795702"],
-                        ["440007","-0794905"]
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "CYYZ_WS 15 50",
-            "group": "TOR",
-            "owner": [
-                "YT",
-                "SD",
-                "AA",
-                "CE"
-            ],
-            "sectors": [
-                {
-                    "min": 0,
-                    "max": 54,
-                    "points": [
-                        ["440143","-0795702"],
-                        ["440158","-0795818"],
-                        ["440158","-0795818"],
-                        ["440149","-0795838"],
-                        ["440026","-0800106"],
-                        ["440026","-0800106"],
-                        ["435853","-0800324"],
-                        ["435853","-0800324"],
-                        ["435712","-0800530"],
-                        ["435524","-0800724"],
-                        ["435524","-0800724"],
-                        ["435330","-0800903"],
-                        ["435330","-0800903"],
-                        ["435840","-0800130"],
-                        ["440143","-0795702"]
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "CYYZ_WS 50",
-            "group": "TOR",
+            "id": "West Satellite",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "VV",
@@ -5974,8 +5863,8 @@
             ]
         },
         {
-            "id": "TMA_ES_05/06-1",
-            "group": "TOR",
+            "id": "East Satellite",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6010,8 +5899,9 @@
             ]
         },
         {
-            "id": "TMA_ES_05/06-2",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_05/06-2",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6080,8 +5970,9 @@
             ]
         },
         {
-            "id": "TMA_ES_05/06-3",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_05/06-3",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6142,8 +6033,9 @@
             ]
         },
         {
-            "id": "TMA_ES_05/06-4",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_05/06-4",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6302,8 +6194,9 @@
             ]
         },
         {
-            "id": "TMA_ES_15-1",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_15-1",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6344,8 +6237,9 @@
             ]
         },
         {
-            "id": "TMA_ES_15-2",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_15-2",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6418,8 +6312,9 @@
             ]
         },
         {
-            "id": "TMA_ES_15-3",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_15-3",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6455,8 +6350,9 @@
             ]
         },
         {
-            "id": "TMA_ES_15-4",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_15-4",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6537,8 +6433,9 @@
             ]
         },
         {
-            "id": "TMA_ES_15-5",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_15-5",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6709,8 +6606,9 @@
             ]
         },
         {
-            "id": "TMA_ES_23/24-1",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_23/24-1",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6748,8 +6646,9 @@
             ]
         },
         {
-            "id": "TMA_ES_23/24-2",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_23/24-2",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6784,8 +6683,9 @@
             ]
         },
         {
-            "id": "TMA_ES_23/24-3",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_23/24-3",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6830,8 +6730,9 @@
             ]
         },
         {
-            "id": "TMA_ES_23/24-4",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_23/24-4",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6892,8 +6793,9 @@
             ]
         },
         {
-            "id": "TMA_ES_23/24-5",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_23/24-5",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -6994,8 +6896,9 @@
             ]
         },
         {
-            "id": "TMA_ES_23/24-6",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_23/24-6",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -7048,8 +6951,9 @@
             ]
         },
         {
-            "id": "TMA_ES_33-1",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_33-1",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -7097,8 +7001,9 @@
             ]
         },
         {
-            "id": "TMA_ES_33-2",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_33-2",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -7142,8 +7047,9 @@
             ]
         },
         {
-            "id": "TMA_ES_33-3",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_33-3",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -7185,8 +7091,9 @@
             ]
         },
         {
-            "id": "TMA_ES_33-4",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_33-4",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -7244,8 +7151,9 @@
             ]
         },
         {
-            "id": "TMA_ES_33-5",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_33-5",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -7369,8 +7277,9 @@
             ]
         },
         {
-            "id": "TMA_ES_33-6",
-            "group": "TOR",
+            "id": "East Satellite",
+            "comment": "TMA_ES_33-6",
+            "group": "TCA",
             "owner": [
                 "ES",
                 "WS",
@@ -7417,8 +7326,9 @@
             ]
         },
         {
-            "id": "TMA_WS_05/06-1",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_05/06-1",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -7504,8 +7414,9 @@
             ]
         },
         {
-            "id": "TMA_WS_05/06-2",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_05/06-2",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -7575,8 +7486,9 @@
             ]
         },
         {
-            "id": "TMA_WS_05/06-3",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_05/06-3",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -7623,8 +7535,9 @@
             ]
         },
         {
-            "id": "TMA_WS_05/06-4",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_05/06-4",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -7663,8 +7576,9 @@
             ]
         },
         {
-            "id": "TMA_WS_05/06-5",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_05/06-5",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -7703,8 +7617,9 @@
             ]
         },
         {
-            "id": "TMA_WS_15-1",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_15-1",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -7738,8 +7653,9 @@
             ]
         },
         {
-            "id": "TMA_WS_15-2",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_15-2",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -7824,8 +7740,9 @@
             ]
         },
         {
-            "id": "TMA_WS_15-3",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_15-3",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -7859,8 +7776,9 @@
             ]
         },
         {
-            "id": "TMA_WS_15-4",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_15-4",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -7897,8 +7815,9 @@
             ]
         },
         {
-            "id": "TMA_WS_15-5",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_15-5",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -7959,8 +7878,9 @@
             ]
         },
         {
-            "id": "TMA_WS_15-6",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_15-6",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -8010,8 +7930,9 @@
             ]
         },
         {
-            "id": "TMA_WS_15-7",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_15-7",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -8053,8 +7974,9 @@
             ]
         },
         {
-            "id": "TMA_WS_23/24-1",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_23/24-1",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -8152,8 +8074,9 @@
             ]
         },
         {
-            "id": "TMA_WS_23/24-2",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_23/24-2",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -8224,8 +8147,9 @@
             ]
         },
         {
-            "id": "TMA_WS_23/24-3",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_23/24-3",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -8286,8 +8210,9 @@
             ]
         },
         {
-            "id": "TMA_WS_33-2",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_33-2",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -8361,8 +8286,9 @@
             ]
         },
         {
-            "id": "TMA_WS_33-3",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_33-3",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -8423,8 +8349,9 @@
             ]
         },
         {
-            "id": "TMA_WS_33-4",
-            "group": "TOR",
+            "id": "West Satellite",
+            "comment": "TMA_WS_33-4",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "GR",
@@ -8541,8 +8468,9 @@
             ]
         },
         {
-            "id": "TMA_XU_05/06-1",
-            "group": "TOR",
+            "id": "London",
+            "comment": "TMA_XU_05/06-1",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -8574,8 +8502,9 @@
             ]
         },
         {
-            "id": "TMA_XU_05/06-2",
-            "group": "TOR",
+            "id": "London",
+            "comment": "TMA_XU_05/06-2",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -8607,8 +8536,9 @@
             ]
         },
         {
-            "id": "TMA_XU_05/06-3",
-            "group": "TOR",
+            "id": "London",
+            "comment": "TMA_XU_05/06-3",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -8644,8 +8574,9 @@
             ]
         },
         {
-            "id": "TMA_XU_05/06-4",
-            "group": "TOR",
+            "id": "London",
+            "comment": "TMA_XU_05/06-4",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -8692,8 +8623,9 @@
             ]
         },
         {
-            "id": "TMA_XU_05/06-5",
-            "group": "TOR",
+            "id": "London",
+            "comment": "TMA_XU_05/06-5",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -8733,8 +8665,9 @@
             ]
         },
         {
-            "id": "TMA_XU_15-1",
-            "group": "TOR",
+            "id": "London",
+            "comment": "TMA_XU_15-1",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -8798,8 +8731,9 @@
             ]
         },
         {
-            "id": "TMA_XU_23/24-1",
-            "group": "TOR",
+            "id": "London",
+            "comment": "TMA_XU_23/24-1",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -8863,8 +8797,9 @@
             ]
         },
         {
-            "id": "TMA_XU_33-1",
-            "group": "TOR",
+            "id": "London",
+            "comment": "TMA_XU_33-1",
+            "group": "TCA",
             "owner": [
                 "XU",
                 "WS",
@@ -8928,8 +8863,8 @@
             ]
         },
         {
-            "id": "CYYZ_WS 60 HM",
-            "group": "TOR",
+            "id": "Hamilton",
+            "group": "TCA",
             "owner": [
                 "WS",
                 "HM",
@@ -8974,8 +8909,9 @@
             ]
         },
         {
-            "id": "CYYZ_1_APP-05/06",
-            "group": "TOR",
+            "id": "Toronto 1",
+            "comment": "CYYZ_1_APP-05/06",
+            "group": "APP",
             "owner": [
                 "AA",
                 "CE"
@@ -9022,8 +8958,9 @@
             ]
         },
         {
-            "id": "CYYZ_1_APP-05/06-1",
-            "group": "TOR",
+            "id": "Toronto 1",
+            "comment": "CYYZ_1_APP-05/06-1",
+            "group": "APP",
             "owner": [
                 "AA",
                 "CE"
@@ -9063,8 +9000,9 @@
             ]
         },
         {
-            "id": "CYYZ_1_APP-05/06-2",
-            "group": "TOR",
+            "id": "Toronto 1",
+            "comment": "CYYZ_1_APP-05/06-2",
+            "group": "APP",
             "owner": [
                 "AA",
                 "CE"
@@ -9097,8 +9035,9 @@
             ]
         },
         {
-            "id": "CYYZ_1_APP-05/06-3",
-            "group": "TOR",
+            "id": "Toronto 1",
+            "comment": "CYYZ_1_APP-05/06-3",
+            "group": "APP",
             "owner": [
                 "AA",
                 "CE"
@@ -9131,8 +9070,9 @@
             ]
         },
         {
-            "id": "CYYZ_1_APP-15",
-            "group": "TOR",
+            "id": "Toronto 1",
+            "comment": "CYYZ_1_APP-15",
+            "group": "APP",
             "owner": [
                 "AA",
                 "CE"
@@ -9193,8 +9133,9 @@
             ]
         },
         {
-            "id": "CYYZ_1_APP-23/24",
-            "group": "TOR",
+            "id": "Toronto 1",
+            "comment": "CYYZ_1_APP-23/24",
+            "group": "APP",
             "owner": [
                 "AA",
                 "CE"
@@ -9278,8 +9219,9 @@
             ]
         },
         {
-            "id": "CYYZ_1_APP-33",
-            "group": "TOR",
+            "id": "Toronto 1",
+            "comment": "CYYZ_1_APP-33",
+            "group": "APP",
             "owner": [
                 "AA",
                 "CE"
@@ -9356,8 +9298,9 @@
             ]
         },
         {
-            "id": "CYYZ_2_APP-15",
-            "group": "TOR",
+            "id": "Toronto 2",
+            "comment": "CYYZ_2_APP-15",
+            "group": "APP",
             "owner": [
                 "AB",
                 "AA",
@@ -9391,8 +9334,9 @@
             ]
         },
         {
-            "id": "CYYZ_2_APP-33",
-            "group": "TOR",
+            "id": "Toronto 2",
+            "comment": "CYYZ_2_APP-33",
+            "group": "APP",
             "owner": [
                 "AB",
                 "AA",
@@ -9429,8 +9373,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-05",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-05",
+            "group": "APP",
             "owner": [
                 "AC",
                 "AA",
@@ -9464,8 +9409,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-05",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-05",
+            "group": "APP",
             "owner": [
                 "AC",
                 "AA",
@@ -9526,8 +9472,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-05",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-05",
+            "group": "APP",
             "owner": [
                 "AC",
                 "AA",
@@ -9562,8 +9509,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-06",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-06",
+            "group": "APP",
             "owner": [
                 "AB",
                 "AA",
@@ -9595,8 +9543,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-06",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-06",
+            "group": "APP",
             "owner": [
                 "AB",
                 "AA",
@@ -9651,8 +9600,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-15",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-15",
+            "group": "APP",
             "owner": [
                 "AC",
                 "AA",
@@ -9684,8 +9634,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-15",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-15",
+            "group": "APP",
             "owner": [
                 "AC",
                 "AA",
@@ -9715,8 +9666,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-15",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-15",
+            "group": "APP",
             "owner": [
                 "AC",
                 "AA",
@@ -9746,8 +9698,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-23",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-23",
+            "group": "APP",
             "owner": [
                 "AB",
                 "AA",
@@ -9779,8 +9732,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-23",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-23",
+            "group": "APP",
             "owner": [
                 "AB",
                 "AA",
@@ -9820,8 +9774,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-24",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-24",
+            "group": "APP",
             "owner": [
                 "AB",
                 "AA",
@@ -9853,8 +9808,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-24",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-24",
+            "group": "APP",
             "owner": [
                 "AB",
                 "AA",
@@ -9893,8 +9849,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-33",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-33",
+            "group": "APP",
             "owner": [
                 "AC",
                 "AA",
@@ -9938,8 +9895,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-33",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-33",
+            "group": "APP",
             "owner": [
                 "AC",
                 "AA",
@@ -9983,8 +9941,9 @@
             ]
         },
         {
-            "id": "CYYZ_3_APP-33",
-            "group": "TOR",
+            "id": "Toronto 3",
+            "comment": "CYYZ_3_APP-33",
+            "group": "APP",
             "owner": [
                 "AC",
                 "AA",
@@ -10024,8 +9983,9 @@
             ]
         },
         {
-            "id": "CYQG_TWR",
-            "group": "TOR",
+            "id": "Windsor",
+            "comment": "CYQG",
+            "group": "TWR",
             "owner": [
                 "WT",
                 "XU",
@@ -10102,8 +10062,9 @@
             ]
         },
         {
-            "id": "CYTZ_TWR",
-            "group": "TOR",
+            "id": "City",
+            "comment": "CYTZ",
+            "group": "TWR",
             "owner": [
                 "TZ",
                 "YT",
@@ -10160,8 +10121,9 @@
             ]
         },
         {
-            "id": "CYYZ_TWR",
-            "group": "TOR",
+            "id": "Toronto",
+            "comment": "CYYZ",
+            "group": "TWR",
             "owner": [
                 "ST",
                 "NT",
@@ -10451,7 +10413,7 @@
         ]
     },
     "SD": {
-        "callsign": "Toronto Depature",
+        "callsign": "Toronto Departure",
         "frequency": "128.800",
         "type": "DEP",
         "pre": [
@@ -10543,10 +10505,10 @@
     },
     "CE": {
         "callsign": "Toronto Centre",
-        "frequency": "125.775",
+        "frequency": "124.175",
         "type": "CTR",
         "pre": [
-            "TOR"
+            "EDWW"
         ],
         "colours": [
             {
@@ -10865,10 +10827,10 @@
       "": "Tower"
     },
     "APP": {
-      "": "Arrivals"
+      "": "Arrival"
     },
     "DEP": {
-      "": "Departures"
+      "": "Departure"
     }
   },
   "airports": {
@@ -11007,7 +10969,18 @@
             "CE"
         ]
     },
-    "CYQG": { "callsign": "Windsor", "coord": ["42.274722", "-82.958333"] },
+    "CYQG": {
+        "callsign": "Windsor",
+        "coord": ["42.274722", "-82.958333"],
+        "topdown": [ 
+            "XU",
+            "WS",
+            "KF",
+            "HM",
+            "GR",
+            "CE"
+        ]
+    },
     "CYQN": { "callsign": "Nakina", "coord": ["50.182778", "-86.696389"] },
     "CYSB": {
         "callsign": "Sudbury",
