@@ -10505,10 +10505,10 @@
     },
     "CE": {
         "callsign": "Toronto Centre",
-        "frequency": "124.175",
+        "frequency": "125.775",
         "type": "CTR",
         "pre": [
-            "EDWW"
+            "TOR"
         ],
         "colours": [
             {
