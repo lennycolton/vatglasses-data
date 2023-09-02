@@ -9422,67 +9422,68 @@
     }
   },
   "airports": {
-  "KALM": {"callsign": "Alamogordo", "coord": ["32.83941667","-105.99113889"]},
-  "KATS": {"callsign": "Artesia Municipal", "coord": ["32.85194444","-104.46758333"]},
-  "KAVQ": {"callsign": "Marana Regional", "coord": ["32.40955556","-111.21838889"]},
-  "KAXX": {"callsign": "Angel Fire", "coord": ["36.422","-105.28990556"]},
-  "KBGD": {"callsign": "Hutchinson County", "coord": ["35.70088889","-101.39366667"]},
-  "KBRG": {"callsign": "Belen Regional", "coord": ["34.64586111","-106.83633889"]},
-  "KBXK": {"callsign": "Buckeye Municipal", "coord": ["33.42253333","-112.68623333"]},
-  "KCAO": {"callsign": "Clayton Municipal", "coord": ["36.44627778","-103.14994444"]},
-  "KCFT": {"callsign": "Greenlee County", "coord": ["32.95703889","-109.21116111"]},
-  "KCGZ": {"callsign": "Casa Grande Municipal", "coord": ["32.95488889","-111.76683333"]},
-  "KCMR": {"callsign": "H A Clark Memorial", "coord": ["35.30549444","-112.19434722"]},
-  "KCNM": {"callsign": "Cavern City", "coord": ["32.33744444","-104.26336111"]},
-  "KCVN": {"callsign": "Clovis Regional", "coord": ["34.42658889","-103.07758056"]},
-  "KDGL": {"callsign": "Douglas Municipal", "coord": ["31.34260278","-109.50645556"]},
-  "KDHT": {"callsign": "Dalhart Municipal", "coord": ["36.02247222","-102.54738889"]},
-  "KDMN": {"callsign": "Deming Municipal", "coord": ["32.26238889","-107.719"]},
-  "KDNA": {"callsign": "Dona Ana County International Jetport", "coord": ["31.88044444","-106.70325"]},
-  "KDUG": {"callsign": "Bisbee Douglas International", "coord": ["31.46894444","-109.60375"]},
-  "KDUX": {"callsign": "Moore County", "coord": ["35.85743056","-102.01330833"]},
-  "KFST": {"callsign": "Fort Stockton-Pecos County", "coord": ["30.91525","-102.91277778"]},
-  "KFSU": {"callsign": "Fort Sumner Municipal", "coord": ["34.48875","-104.21641944"]},
-  "KGAX": {"callsign": "Williams Auxiliary Airfield 6", "coord": ["32.885","-112.816"]},
-  "KGNT": {"callsign": "Grants Municipal", "coord": ["35.16727778","-107.90205556"]},
-  "KGUP": {"callsign": "Gallup Municipal", "coord": ["35.51105833","-108.78930833"]},
-  "KHHF": {"callsign": "Hemphill County", "coord": ["35.89512222","-100.403875"]},
-  "KHRX": {"callsign": "Hereford Municipal", "coord": ["34.8607","-102.32588333"]},
-  "KINW": {"callsign": "Winslow-Lindbergh Regional", "coord": ["35.02191111","-110.72251667"]},
-  "KJTC": {"callsign": "Springerville Municipal", "coord": ["34.12941667","-109.31086111"]},
-  "KLAM": {"callsign": "Los Alamos", "coord": ["35.87968611","-106.26868611"]},
-  "KLRU": {"callsign": "Las Cruces International", "coord": ["32.28941667","-106.92197222"]},
-  "KLSB": {"callsign": "Lourdsburg Municipal", "coord": ["32.33346389","-108.69173333"]},
-  "KLVS": {"callsign": "Las Vegas Municipal", "coord": ["35.65422222","-105.14238889"]},
-  "KMRF": {"callsign": "Marfa Municipal", "coord": ["30.37111111","-104.01752778"]},
-  "KMZJ": {"callsign": "Pinal Airpark", "coord": ["32.50983333","-111.32533333"]},
-  "KOLS": {"callsign": "Nogales International", "coord": ["31.41772222","-110.84788889"]},
-  "KONM": {"callsign": "Socorro Municipal", "coord": ["34.02247222","-106.90313889"]},
-  "KP18": {"callsign": "Papago Ahp", "coord": ["33.472","-111.964"]},
-  "KP19": {"callsign": "Stellar Airpark", "coord": ["33.29877222","-111.91578889"]},
-  "KP52": {"callsign": "Cottonwood", "coord": ["34.73005556","-112.03513611"]},
-  "KPAN": {"callsign": "Payson Municipal", "coord": ["34.25683611","-111.33925556"]},
-  "KPEQ": {"callsign": "Pecos Municipal", "coord": ["31.38238889","-103.51072222"]},
-  "KPPA": {"callsign": "Perry Lefors Field", "coord": ["35.613","-100.99625"]},
-  "KPRS": {"callsign": "Presidio Lely International", "coord": ["29.63421389","-104.36149444"]},
-  "KPRZ": {"callsign": "Portales Municipal", "coord": ["34.14547222","-103.41033333"]},
-  "KRQE": {"callsign": "Window Rock", "coord": ["35.65205556","-109.06738889"]},
-  "KRTN": {"callsign": "Raton Municipal/Crews Field", "coord": ["36.74243889","-104.50172778"]},
-  "KSAD": {"callsign": "Safford Regional", "coord": ["32.85334167","-109.63508333"]},
-  "KSEZ": {"callsign": "Sedona", "coord": ["34.84858889","-111.78844722"]},
-  "KSJN": {"callsign": "St. Johns Industrial Air Park", "coord": ["34.51855556","-109.37875"]},
-  "KSKX": {"callsign": "Taos Regional", "coord": ["36.45169444","-105.67308333"]},
-  "KSOW": {"callsign": "Show Low Regional", "coord": ["34.26547222","-110.00566389"]},
-  "KSRR": {"callsign": "Sierra Blanca Regional", "coord": ["33.46094444","-105.53013889"]},
-  "KSVC": {"callsign": "Grant County", "coord": ["32.63654722","-108.15638611"]},
-  "KSXU": {"callsign": "Santa Rosa Route 66", "coord": ["34.93567222","-104.64256389"]},
-  "KTCC": {"callsign": "Tucumcari Municipal", "coord": ["35.18277778","-103.60318611"]},
-  "KTCS": {"callsign": "Truth or Consequences Municipal", "coord": ["33.23536111","-107.26988889"]},
-  "KTDW": {"callsign": "Tradewind", "coord": ["35.16988889","-101.82586111"]},
-  "KTYL": {"callsign": "Taylor", "coord": ["34.45273333","-110.11503611"]},
-  "KVHN": {"callsign": "Culberson County", "coord": ["31.05783333","-104.78380556"]},
-  "KXNI": {"callsign": "Andrew Othole Memorial", "coord": ["35.060675","-108.9376"]},
+  "KALM": {"pre": ["ALM"], "callsign": "Alamogordo", "coord": ["32.83941667","-105.99113889"]},
+  "KATS": {"pre": ["ATS"], "callsign": "Artesia Municipal", "coord": ["32.85194444","-104.46758333"]},
+  "KAVQ": {"pre": ["AVQ"], "callsign": "Marana Regional", "coord": ["32.40955556","-111.21838889"]},
+  "KAXX": {"pre": ["AXX"], "callsign": "Angel Fire", "coord": ["36.422","-105.28990556"]},
+  "KBGD": {"pre": ["BGD"], "callsign": "Hutchinson County", "coord": ["35.70088889","-101.39366667"]},
+  "KBRG": {"pre": ["BRG"], "callsign": "Belen Regional", "coord": ["34.64586111","-106.83633889"]},
+  "KBXK": {"pre": ["BXK"], "callsign": "Buckeye Municipal", "coord": ["33.42253333","-112.68623333"]},
+  "KCAO": {"pre": ["CAO"], "callsign": "Clayton Municipal", "coord": ["36.44627778","-103.14994444"]},
+  "KCFT": {"pre": ["CFT"], "callsign": "Greenlee County", "coord": ["32.95703889","-109.21116111"]},
+  "KCGZ": {"pre": ["CGZ"], "callsign": "Casa Grande Municipal", "coord": ["32.95488889","-111.76683333"]},
+  "KCMR": {"pre": ["CMR"], "callsign": "H A Clark Memorial", "coord": ["35.30549444","-112.19434722"]},
+  "KCNM": {"pre": ["CNM"], "callsign": "Cavern City", "coord": ["32.33744444","-104.26336111"]},
+  "KCVN": {"pre": ["CVN"], "callsign": "Clovis Regional", "coord": ["34.42658889","-103.07758056"]},
+  "KDGL": {"pre": ["DGL"], "callsign": "Douglas Municipal", "coord": ["31.34260278","-109.50645556"]},
+  "KDHT": {"pre": ["DHT"], "callsign": "Dalhart Municipal", "coord": ["36.02247222","-102.54738889"]},
+  "KDMN": {"pre": ["DMN"], "callsign": "Deming Municipal", "coord": ["32.26238889","-107.719"]},
+  "KDNA": {"pre": ["DNA"], "callsign": "Dona Ana County International Jetport", "coord": ["31.88044444","-106.70325"]},
+  "KDUG": {"pre": ["DUG"], "callsign": "Bisbee Douglas International", "coord": ["31.46894444","-109.60375"]},
+  "KDUX": {"pre": ["DUX"], "callsign": "Moore County", "coord": ["35.85743056","-102.01330833"]},
+  "KFST": {"pre": ["FST"], "callsign": "Fort Stockton-Pecos County", "coord": ["30.91525","-102.91277778"]},
+  "KFSU": {"pre": ["FSU"], "callsign": "Fort Sumner Municipal", "coord": ["34.48875","-104.21641944"]},
+  "KGAX": {"pre": ["GAX"], "callsign": "Williams Auxiliary Airfield 6", "coord": ["32.885","-112.816"]},
+  "KGNT": {"pre": ["GNT"], "callsign": "Grants Municipal", "coord": ["35.16727778","-107.90205556"]},
+  "KGUP": {"pre": ["GUP"], "callsign": "Gallup Municipal", "coord": ["35.51105833","-108.78930833"]},
+  "KHHF": {"pre": ["HHF"], "callsign": "Hemphill County", "coord": ["35.89512222","-100.403875"]},
+  "KHRX": {"pre": ["HRX"], "callsign": "Hereford Municipal", "coord": ["34.8607","-102.32588333"]},
+  "KINW": {"pre": ["INW"], "callsign": "Winslow-Lindbergh Regional", "coord": ["35.02191111","-110.72251667"]},
+  "KJTC": {"pre": ["JTC"], "callsign": "Springerville Municipal", "coord": ["34.12941667","-109.31086111"]},
+  "KLAM": {"pre": ["LAM"], "callsign": "Los Alamos", "coord": ["35.87968611","-106.26868611"]},
+  "KLRU": {"pre": ["LRU"], "callsign": "Las Cruces International", "coord": ["32.28941667","-106.92197222"]},
+  "KLSB": {"pre": ["LSB"], "callsign": "Lourdsburg Municipal", "coord": ["32.33346389","-108.69173333"]},
+  "KLVS": {"pre": ["LVS"], "callsign": "Las Vegas Municipal", "coord": ["35.65422222","-105.14238889"]},
+  "KMRF": {"pre": ["MRF"], "callsign": "Marfa Municipal", "coord": ["30.37111111","-104.01752778"]},
+  "KMZJ": {"pre": ["MZJ"], "callsign": "Pinal Airpark", "coord": ["32.50983333","-111.32533333"]},
+  "KOLS": {"pre": ["OLS"], "callsign": "Nogales International", "coord": ["31.41772222","-110.84788889"]},
+  "KONM": {"pre": ["ONM"], "callsign": "Socorro Municipal", "coord": ["34.02247222","-106.90313889"]},
+  "KP18": {"pre": ["P18"], "callsign": "Papago Ahp", "coord": ["33.472","-111.964"]},
+  "KP19": {"pre": ["P19"], "callsign": "Stellar Airpark", "coord": ["33.29877222","-111.91578889"]},
+  "KP52": {"pre": ["P52"], "callsign": "Cottonwood", "coord": ["34.73005556","-112.03513611"]},
+  "KPAN": {"pre": ["PAN"], "callsign": "Payson Municipal", "coord": ["34.25683611","-111.33925556"]},
+  "KPEQ": {"pre": ["PEQ"], "callsign": "Pecos Municipal", "coord": ["31.38238889","-103.51072222"]},
+  "KPPA": {"pre": ["PPA"], "callsign": "Perry Lefors Field", "coord": ["35.613","-100.99625"]},
+  "KPRS": {"pre": ["PRS"], "callsign": "Presidio Lely International", "coord": ["29.63421389","-104.36149444"]},
+  "KPRZ": {"pre": ["PRZ"], "callsign": "Portales Municipal", "coord": ["34.14547222","-103.41033333"]},
+  "KRQE": {"pre": ["RQE"], "callsign": "Window Rock", "coord": ["35.65205556","-109.06738889"]},
+  "KRTN": {"pre": ["RTN"], "callsign": "Raton Municipal/Crews Field", "coord": ["36.74243889","-104.50172778"]},
+  "KSAD": {"pre": ["SAD"], "callsign": "Safford Regional", "coord": ["32.85334167","-109.63508333"]},
+  "KSEZ": {"pre": ["SEZ"], "callsign": "Sedona", "coord": ["34.84858889","-111.78844722"]},
+  "KSJN": {"pre": ["SJN"], "callsign": "St. Johns Industrial Air Park", "coord": ["34.51855556","-109.37875"]},
+  "KSKX": {"pre": ["SKX"], "callsign": "Taos Regional", "coord": ["36.45169444","-105.67308333"]},
+  "KSOW": {"pre": ["SOW"], "callsign": "Show Low Regional", "coord": ["34.26547222","-110.00566389"]},
+  "KSRR": {"pre": ["SRR"], "callsign": "Sierra Blanca Regional", "coord": ["33.46094444","-105.53013889"]},
+  "KSVC": {"pre": ["SVC"], "callsign": "Grant County", "coord": ["32.63654722","-108.15638611"]},
+  "KSXU": {"pre": ["SXU"], "callsign": "Santa Rosa Route 66", "coord": ["34.93567222","-104.64256389"]},
+  "KTCC": {"pre": ["TCC"], "callsign": "Tucumcari Municipal", "coord": ["35.18277778","-103.60318611"]},
+  "KTCS": {"pre": ["TCS"], "callsign": "Truth or Consequences Municipal", "coord": ["33.23536111","-107.26988889"]},
+  "KTDW": {"pre": ["TDW"], "callsign": "Tradewind", "coord": ["35.16988889","-101.82586111"]},
+  "KTYL": {"pre": ["TYL"], "callsign": "Taylor", "coord": ["34.45273333","-110.11503611"]},
+  "KVHN": {"pre": ["VHN"], "callsign": "Culberson County", "coord": ["31.05783333","-104.78380556"]},
+  "KXNI": {"pre": ["XNI"], "callsign": "Andrew Othole Memorial", "coord": ["35.060675","-108.9376"]},
   "KABQ": {
+    "pre": ["ABQ"],
     "callsign": "Albuquerque", 
     "coord": ["35.03893056","-106.60826111"],
     "runways": [
@@ -9499,6 +9500,7 @@
     ]
   },
   "KAEG": {
+    "pre": ["AEG"],
     "callsign": "Double Eagle", 
     "coord": ["35.14490833","-106.795175"],
     "topdown": [
@@ -9511,6 +9513,7 @@
     ]
   },
   "KAMA": {
+    "pre": ["AMA"],
     "callsign": "Amarillo", 
     "coord": ["35.21936111","-101.70591667"],
     "topdown": [
@@ -9522,6 +9525,7 @@
     ]
   },
   "KBIF": {
+    "pre": ["BIF"],
     "callsign": "Biggs", 
     "coord": ["31.84952778","-106.38002778"],
     "topdown": [
@@ -9535,6 +9539,7 @@
     ]
   },
   "KCHD": {
+    "pre": ["CHD"],
     "callsign": "Chandler", 
     "coord": ["33.26909722","-111.81112222"],
     "topdown": [
@@ -9552,6 +9557,7 @@
     ]
   },
   "KCVS": {
+    "pre": ["CVS"],
     "callsign": "Cannon", 
     "coord": ["34.38236944","-103.32236667"],
     "topdown": [
@@ -9564,6 +9570,7 @@
     ]
   },
   "KDMA": {
+    "pre": ["DMA"],
     "callsign": "D-M", 
     "coord": ["32.16636389","-110.88317222"],
     "topdown": [
@@ -9579,6 +9586,7 @@
     ]
   },
   "KDVT": {
+    "pre": ["DVT"],
     "callsign": "Deer Valley", 
     "coord": ["33.68830556","-112.08255556"],
     "topdown": [
@@ -9595,6 +9603,7 @@
     ]
   },
   "KELP": {
+    "pre": ["ELP"],
     "callsign": "El Paso", 
     "coord": ["31.80733333","-106.37636111"],
     "runways": [
@@ -9612,6 +9621,7 @@
     ]
   },
   "KFFZ": {
+    "pre": ["FFZ"],
     "callsign": "Falcon", 
     "coord": ["33.46084167","-111.728325"],
     "topdown": [
@@ -9628,6 +9638,7 @@
     ]
   },
   "KFHU": {
+    "pre": ["FHU"],
     "callsign": "Libby", 
     "coord": ["31.58847222","-110.34438889"],
     "topdown": [
@@ -9642,6 +9653,7 @@
     ]
   },
   "KFLG": {
+    "pre": ["FLG"],
     "callsign": "Flagstaff", 
     "coord": ["35.14031667","-111.66924167"],
     "topdown": [
@@ -9657,6 +9669,7 @@
     ]
   },
   "KGEU": {
+    "pre": ["GEU"],
     "callsign": "Glendale", 
     "coord": ["33.52691667","-112.29513889"],
     "topdown": [
@@ -9675,6 +9688,7 @@
     ]
   },
   "KGYR": {
+    "pre": ["GYR"],
     "callsign": "Goodyear", 
     "coord": ["33.42327778","-112.37536111"],
     "topdown": [
@@ -9693,6 +9707,7 @@
     ]
   },
   "KGXF": {
+    "pre": ["GXF"],
     "callsign": "Gila Bend", 
     "coord": ["32.885","-112.72055556"],
     "topdown": [
@@ -9711,6 +9726,7 @@
     ]
   },
   "KHMN": {
+    "pre": ["HMN"],
     "callsign": "Holloman", 
     "coord": ["32.85185833","-106.10854167"],
     "topdown": [
@@ -9726,6 +9742,7 @@
     ]
   },
   "KIWA": {
+    "pre": ["IWA"],
     "callsign": "Gateway", 
     "coord": ["33.307825","-111.65545833"],
     "topdown": [
@@ -9744,6 +9761,7 @@
     ]
   },
   "KLUF": {
+    "pre": ["LUF"],
     "callsign": "Luke", 
     "coord": ["33.53496111","-112.38320556"],
     "topdown": [
@@ -9761,6 +9779,7 @@
     ]
   },
   "KPCA": {
+    "pre": ["PCA"],
     "callsign": "Picacho", 
     "coord": ["32.663","-111.487"],
     "topdown": [
@@ -9773,6 +9792,7 @@
     ]
   },
   "KPHX": {
+    "pre": ["PHX"],
     "callsign": "Phoenix", 
     "coord": ["33.43427778","-112.01158333"],
     "runways": [
@@ -9792,6 +9812,7 @@
     ]
   },
   "KPRC": {
+    "pre": ["PRC"],
     "callsign": "Prescott", 
     "coord": ["34.65483333","-112.41922222"],
     "topdown": [
@@ -9805,6 +9826,7 @@
     ]
   },
   "KROW": {
+    "pre": ["ROW"],
     "callsign": "Roswell", 
     "coord": ["33.29987778","-104.52940278"],
     "topdown": [
@@ -9819,6 +9841,7 @@
     ]
   },
   "KRYN": {
+    "pre": ["RYN"],
     "callsign": "Ryan", 
     "coord": ["32.14221111","-111.17458056"],
     "topdown": [
@@ -9834,6 +9857,7 @@
     ]
   },
   "KSAF": {
+    "pre": ["SAF"],
     "callsign": "Santa Fe", 
     "coord": ["35.61711111","-106.08941667"],
     "topdown": [
@@ -9842,6 +9866,7 @@
     ]
   },
   "KSDL": {
+    "pre": ["SDL"],
     "callsign": "Scottsdale", 
     "coord": ["33.62288889","-111.91052778"],
     "topdown": [
@@ -9858,6 +9883,7 @@
     ]
   },
   "KTUS": {
+    "pre": ["TUS"],
     "callsign": "Tucson", 
     "coord": ["32.11606944","-110.94101389"],
     "topdown": [
