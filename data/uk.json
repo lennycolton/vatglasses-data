@@ -29294,7 +29294,10 @@
             53.865897,
             -1.660569
         ],
+        "default": false,
         "topdown": [
+            "NMF",
+            "NMR",
             "PCNE",
             "PCE",
             "PC",
@@ -29324,7 +29327,10 @@
             55.0375,
             -1.691667
         ],
+        "default": false,
         "topdown": [
+            "NTF",
+            "NTR",
             "PCNE",
             "PCE",
             "PC",
@@ -29339,7 +29345,12 @@
             54.509189,
             -1.429406
         ],
-        "major": "EGNT"
+        "major": "EGNT",
+        "default": false,
+        "topdown": [
+          "NVF",
+          "NVR"
+        ]
     },
     "EGGP": {
         "callsign": "Liverpool",
@@ -29347,7 +29358,10 @@
             53.333611,
             -2.849722
         ],
+        "default": false,
         "topdown": [
+            "GPF",
+            "GPR",
             "WAL",
             "PCP",
             "PCW",
@@ -29371,7 +29385,10 @@
             54.083333,
             -4.623889
         ],
+        "default": false,
         "topdown": [
+            "NSF",
+            "NSR",
             "IOM",
             "PCP",
             "PCW",
@@ -29389,7 +29406,6 @@
         ],
         "topdown": [
             "NOR",
-            "NOP",
             "VVW",
             "VV",
             "WAL",
@@ -29410,7 +29426,6 @@
         "default": false,
         "topdown": [
             "NOR",
-            "NOP",
             "VVW",
             "VV"
         ]
@@ -29421,7 +29436,10 @@
             52.675833,
             1.282778
         ],
+        "default": false,
         "topdown": [
+            "SHF",
+            "SHR",
             "LNE",
             "LN",
             "L"
@@ -29437,7 +29455,10 @@
           "33",
           "15"
         ],
+        "default": false,
         "topdown": [
+            "BBF",
+            "BBR",
             "COWLY",
             "TCM",
             "LMW",
@@ -29481,7 +29502,10 @@
           "27",
           "09"
         ],
-        "topdown": [        
+        "default": false,
+        "topdown": [
+            "NXF",  
+            "NXR",        
             "WELIN",
             "TCM",
             "LML",
@@ -29498,7 +29522,10 @@
           51.874444,
           -0.368333
       ],
+      "default": false,
       "topdown": [
+          "GWF",
+          "GWR",
           "ESS",
           "TCNW",
           "TCN",
@@ -29518,7 +29545,10 @@
             51.885,
             0.235
         ],
+        "default": false,
         "topdown": [
+            "SSF",
+            "SSR",
             "ESS",
             "LOREL",
             "TCNE",
@@ -29580,6 +29610,7 @@
             51.553,
             -0.418167
         ],
+        "default": false,
         "topdown": [
           "WUF",
           "WUR",
@@ -29619,7 +29650,9 @@
             51.505256,
             0.054369
         ],
+        "default": false,
         "topdown": [
+            "LCR",
             "TMS",
             "TCSE",
             "TCS",
@@ -29668,7 +29701,9 @@
             51.571389,
             0.695556
         ],
+        "default": false,
         "topdown": [
+            "MCR",
             "TMS",
             "TCSE",
             "TCS",
@@ -29727,7 +29762,10 @@
           "26",
           "08"
         ],
+        "default": false,
         "topdown": [
+            "KKF",
+            "KKR",
             "TCSW",
             "TCS",
             "TC",
@@ -29743,7 +29781,9 @@
             51.275833,
             -0.776389
         ],
+        "default": false,
         "topdown": [
+            "LFR",
             "TCSW",
             "TCS",
             "TC",
@@ -29759,7 +29799,9 @@
             50.950261,
             -1.356803
         ],
+        "default": false,
         "topdown": [
+            "HIR",
             "SOL",
             "LSH",
             "OTMET",
@@ -29774,7 +29816,9 @@
             50.78,
             -1.8425
         ],
+        "default": false,
         "topdown": [
+            "HHR",
             "SOL",
             "LSH",
             "OTMET",
@@ -29803,7 +29847,10 @@
             51.396667,
             -3.343333
         ],
+        "default": false,
         "topdown": [
+            "FFR",
+            "FFL",
             "L23",
             "LWL",
             "LWB",
@@ -29817,7 +29864,10 @@
           51.382669,
           -2.719089
       ],
+      "default": false,
       "topdown": [
+          "GDF",
+          "GDR",
           "L23",
           "LWL",
           "LWB",
@@ -29866,7 +29916,9 @@
           49.434956,
           -2.601969
       ],
+      "default": false,
       "topdown": [
+          "JBR",
           "JS",
           "J",
           "LWX",
@@ -29887,7 +29939,10 @@
           49.207947,
           -2.195508
       ],
+      "default": false,
       "topdown": [
+          "JJF",
+          "JJR",
           "J",
           "JS",
           "LWX",
@@ -29943,7 +29998,10 @@
             55.95,
             -3.3725
         ],
+        "default": false,
         "topdown": [
+            "PHF",
+            "PHR",
             "STE",
             "ST",
             "SL",
@@ -29959,7 +30017,10 @@
             55.871944,
             -4.433333
         ],
+        "default": false,
         "topdown": [
+            "PFF",
+            "PFR",
             "STW",
             "ST",
             "SL",
@@ -29975,7 +30036,10 @@
             55.507778,
             -4.586667
         ],
+        "default": false,
         "topdown": [
+            "PKF",
+            "PKR",
             "STW",
             "ST",
             "SL",
@@ -30019,7 +30083,10 @@
             54.6575,
             -6.215833
         ],
+        "default": false,
         "topdown": [
+            "AAF",
+            "AAR",
             "SA",
             "SL",
             "SRE",
@@ -30035,7 +30102,12 @@
             54.618056,
             -5.8725
         ],
-        "major": "EGAA"
+        "default": false,
+        "major": "EGAA",
+        "topdown": [
+            "ACF",
+            "ACR"
+        ]
     },
     "EGPD": {
         "callsign": "Aberdeen",
@@ -30043,7 +30115,10 @@
             57.204167,
             -2.200278
         ],
+        "default": false,
         "topdown": [
+            "PDF",
+            "PDR",
             "SL",
             "SS",
             "SE",
@@ -30336,7 +30411,11 @@
             "": "Approach"
         }
       },
+      "default": false,
       "topdown": [
+        "VNF",
+        "VNR",
+        "VNZ", 
         "VVC",
         "VVW",
         "VV"
