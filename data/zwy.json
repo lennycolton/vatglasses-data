@@ -994,6 +994,7 @@
   "airports": {
     "TXKF": {
       "callsign": "Bermuda",
+      "pre": ["BDA"],
       "coord": [ 32.364167, -64.678611 ],
       "topdown": [
         "80",
