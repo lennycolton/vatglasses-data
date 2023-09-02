@@ -30588,9 +30588,10 @@
             "": "Approach"
         }
       },
+      "default": false,
       "topdown": [
-        "ISLAND",
-        "EGYP"
+        "YPR",
+        "ISLAND"
       ]
     },
     "EG19": { "callsign": "Chirk Farm", "coord": [ 52.94819, -3.045316 ] },
