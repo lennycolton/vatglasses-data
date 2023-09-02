@@ -391,7 +391,11 @@
               "G",
               "GSH",
               "GNH",
-              "NAT"
+              "NAT",
+              "zwy/21-24L",
+              "zwy/21-24H",
+              "zwy/87L",
+              "zwy/87H"
           ],
           "sectors": [
               {
@@ -414,7 +418,11 @@
               "GSH",
               "GNH",
               "G",
-              "NAT"
+              "NAT",
+              "zwy/21-24H",
+              "zwy/21-24L",
+              "zwy/87H",
+              "zwy/87L"
           ],
           "sectors": [
               {
