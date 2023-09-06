@@ -2,13 +2,13 @@
     "airspace": [],
     "groups": {},
     "positions": {
-		  "EEN": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-EN"], "type": "FSS", "frequency": "135.300", "callsign": "EuroEast"},
-		  "EES": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-ES"], "type": "FSS", "frequency": "135.775", "callsign": "EuroEast"},
+		  "EEN": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-EN"], "type": "FSS", "frequency": "135.775", "callsign": "EuroEast"},
+		  "EES": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-ES"], "type": "FSS", "frequency": "135.300", "callsign": "EuroEast"},
       "EME": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-ME"], "type": "CTR", "frequency": "135.450", "callsign": "Maastricht Radar" },
       "EMW": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-MW"], "type": "CTR", "frequency": "135.750", "callsign": "Maastricht Radar" },
       "EN": { "colours": [{ "hex": "#ffffff" }], "pre": ["EURN"], "type": "FSS", "frequency": "133.450", "callsign": "EuroNorth" },
-      "ESE": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-SE"], "type": "FSS", "frequency": "135.250", "callsign": "EuroSouth" },
-      "ESW": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-SW"], "type": "FSS", "frequency": "135.550", "callsign": "EuroSouth" },
+      "ESE": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-SE"], "type": "FSS", "frequency": "135.500", "callsign": "EuroSouth" },
+      "ESW": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-SW"], "type": "FSS", "frequency": "135.250", "callsign": "EuroSouth" },
       "EWN": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-WN"], "type": "CTR", "frequency": "135.125", "callsign": "EuroWest" },
       "EWS": { "colours": [{ "hex": "#ffffff" }], "pre": [ "EUC-WS" ], "type": "CTR", "frequency": "135.075", "callsign": "EuroWest" }
     },
