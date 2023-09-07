@@ -12713,13 +12713,6 @@
       "callsign": "Bremen Radar"
     },
 
-    "GGC": {
-      "colours": [{ "hex": "#898768" }],
-      "pre": ["EDGG"],
-      "type": "CTR",
-      "frequency": "135.725",
-      "callsign": "Langen Radar"
-    },
     "BAD": {
       "colours": [{ "hex": "#9ebb98" }],
       "pre": ["EDGG"],
@@ -12760,13 +12753,6 @@
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "127.725",
-      "callsign": "Langen Radar"
-    },
-    "HMMH": {
-      "colours": [{ "hex": "#8cc64b" }],
-      "pre": ["EDGG"],
-      "type": "CTR",
-      "frequency": "118.750",
       "callsign": "Langen Radar"
     },
     "KIR": {
