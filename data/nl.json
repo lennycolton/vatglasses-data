@@ -3023,7 +3023,7 @@
       "frequency": "118.700",
       "type": "TWR",
       "pre": ["EHGG"],
-      "colours": [{ "hex": "#005300" }]
+      "colours": [{ "hex": "#005301" }]
     },
     "CRW": {
       "callsign": "RAPCON West",
