@@ -2782,42 +2782,42 @@
   "positions": {
     "YCH": {
       "callsign": "Maastricht Radar",
-      "frequency": "128.775",
+      "frequency": "128.810",
       "type": "CTR",
       "pre": ["EDYY"],
       "colours": [{ "hex": "#88ffff" }]
     },
     "YYC": {
       "callsign": "Maastricht Radar",
-      "frequency": "133.950",
+      "frequency": "133.955",
       "type": "CTR",
       "pre": ["EDYY"],
       "colours": [{ "hex": "#88ffff" }]
     },
     "YYD": {
       "callsign": "Maastricht Radar",
-      "frequency": "135.500",
+      "frequency": "135.960",
       "type": "CTR",
       "pre": ["EDYY"],
       "colours": [{ "hex": "#47ffff" }]
     },
     "YYH": {
       "callsign": "Maastricht Radar",
-      "frequency": "120.950",
+      "frequency": "120.860",
       "type": "CTR",
       "pre": ["EDYY"],
       "colours": [{ "hex": "#3bffff" }]
     },
     "YJH": {
       "callsign": "Maastricht Radar",
-      "frequency": "132.800",
+      "frequency": "129.735",
       "type": "CTR",
       "pre": ["EDYY"],
       "colours": [{ "hex": "#09ffff" }]
     },
     "YYJ": {
       "callsign": "Maastricht Radar",
-      "frequency": "134.700",
+      "frequency": "136.465",
       "type": "CTR",
       "pre": ["EDYY"],
       "colours": [{ "hex": "#b6ffff" }]
@@ -2831,7 +2831,7 @@
     },
     "YYM": {
       "callsign": "Maastricht Radar",
-      "frequency": "133.850",
+      "frequency": "122.185",
       "type": "CTR",
       "pre": ["EDYY"],
       "colours": [{ "hex": "#a8ffff" }]
@@ -2852,7 +2852,7 @@
     },
     "YYR": {
       "callsign": "Maastricht Radar",
-      "frequency": "132.625",
+      "frequency": "124.435",
       "type": "CTR",
       "pre": ["EDYY"],
       "colours": [{ "hex": "#10ffff" }]
@@ -2866,14 +2866,14 @@
     },
     "ACE": {
       "callsign": "Amsterdam Radar",
-      "frequency": "124.875",
+      "frequency": "124.880",
       "type": "CTR",
       "pre": ["EHAA"],
       "colours": [{ "hex": "#f2ffff" }]
     },
     "ACH": {
       "callsign": "Amsterdam Radar",
-      "frequency": "118.800",
+      "frequency": "118.805",
       "type": "CTR",
       "pre": ["EHAA"],
       "colours": [{ "hex": "#77ffff" }]
@@ -2901,301 +2901,308 @@
     },
     "RAL": {
       "callsign": "Ameland Radio",
-      "frequency": "118.350",
+      "frequency": "118.355",
       "type": "TWR",
       "pre": ["EHAL"],
       "colours": [{ "hex": "#00f600" }]
     },
     "AR1": {
       "callsign": "Schiphol Arrival",
-      "frequency": "118.400",
+      "frequency": "118.405",
       "type": "APP",
       "pre": ["EHAM"],
       "colours": [{ "hex": "#000007" }]
     },
     "AR3": {
       "callsign": "Schiphol Arrival",
-      "frequency": "131.150",
+      "frequency": "131.155",
       "type": "APP",
       "pre": ["EHAM"],
       "colours": [{ "hex": "#00001d" }]
     },
     "FD2": {
       "callsign": "Schiphol Approach",
-      "frequency": "119.050",
+      "frequency": "119.055",
       "type": "APP",
       "pre": ["EHAM"],
       "colours": [{ "hex": "#000031" }]
     },
     "TW1": {
       "callsign": "Schiphol Tower",
-      "frequency": "119.225",
+      "frequency": "119.230",
       "type": "TWR",
       "pre": ["EHAM"],
       "colours": [{ "hex": "#006300" }]
     },
     "TWW": {
       "callsign": "Schiphol Tower",
-      "frequency": "118.275",
+      "frequency": "118.280",
       "type": "TWR",
       "pre": ["EHAM"],
       "colours": [{ "hex": "#002a00" }]
     },
     "AR2": {
       "callsign": "Schiphol Arrival",
-      "frequency": "126.675",
+      "frequency": "126.680",
       "type": "APP",
       "pre": ["EHAM"],
       "colours": [{ "hex": "#00002d" }]
     },
     "TW2": {
       "callsign": "Schiphol Tower",
-      "frequency": "118.100",
+      "frequency": "118.105",
       "type": "TWR",
       "pre": ["EHAM"],
       "colours": [{ "hex": "#00a000" }]
     },
     "FD1": {
       "callsign": "Schiphol Approach",
-      "frequency": "121.200",
+      "frequency": "121.205",
       "type": "APP",
       "pre": ["EHAM"],
       "colours": [{ "hex": "#0000ff" }]
     },
     "RBD": {
       "callsign": "Budel Radio",
-      "frequency": "122.150",
+      "frequency": "122.155",
       "type": "TWR",
       "pre": ["EHBD"],
       "colours": [{ "hex": "#003b00" }]
     },
     "ABK": {
       "callsign": "Beek Approach",
-      "frequency": "123.975",
+      "frequency": "123.980",
       "type": "APP",
       "pre": ["EHBK"],
       "colours": [{ "hex": "#000005" }]
     },
     "TBK": {
       "callsign": "Beek Tower",
-      "frequency": "119.475",
+      "frequency": "119.480",
       "type": "TWR",
       "pre": ["EHBK"],
       "colours": [{ "hex": "#00b000" }]
     },
     "TDL": {
       "callsign": "Deelen Tower",
-      "frequency": "129.925",
+      "frequency": "129.930",
       "type": "TWR",
       "pre": ["EHDL"],
       "colours": [{ "hex": "#002100" }]
     },
     "RDR": {
       "callsign": "Drachten Radio",
-      "frequency": "119.650",
+      "frequency": "119.655",
       "type": "TWR",
       "pre": ["EHDR"],
       "colours": [{ "hex": "#00cc00" }]
     },
     "CEA": {
       "callsign": "Eindhoven Arrival",
-      "frequency": "124.525",
+      "frequency": "124.530",
       "type": "APP",
       "pre": ["EHEH"],
       "colours": [{ "hex": "#000010" }]
     },
     "CET": {
       "callsign": "Eindhoven Tower",
-      "frequency": "131.000",
+      "frequency": "131.005",
       "type": "TWR",
       "pre": ["EHEH"],
       "colours": [{ "hex": "#008000" }]
     },
     "AGG": {
       "callsign": "Eelde Approach",
-      "frequency": "120.300",
+      "frequency": "120.305",
       "type": "APP",
       "pre": ["EHGG"],
-      "colours": [{ "hex": "#000014" }]
+      "colours": [{ "hex": "#006300" }]
     },
     "TGG": {
       "callsign": "Eelde Tower",
-      "frequency": "118.700",
+      "frequency": "118.705",
       "type": "TWR",
       "pre": ["EHGG"],
       "colours": [{ "hex": "#005301" }]
     },
     "CRW": {
       "callsign": "RAPCON West",
-      "frequency": "123.575",
+      "frequency": "123.580",
       "type": "APP",
       "pre": ["EHGR"],
       "colours": [{ "hex": "#000021" }]
     },
     "CGT": {
       "callsign": "Gilze Rijen Tower",
-      "frequency": "125.325",
+      "frequency": "125.330",
       "type": "TWR",
       "pre": ["EHGR"],
       "colours": [{ "hex": "#001f00" }]
     },
     "RHO": {
       "callsign": "Hoogeveen Radio",
-      "frequency": "127.350",
+      "frequency": "127.355",
       "type": "TWR",
       "pre": ["EHHO"],
       "colours": [{ "hex": "#004800" }]
     },
     "RHV": {
       "callsign": "Hilversum Radio",
-      "frequency": "131.025",
+      "frequency": "131.030",
       "type": "TWR",
       "pre": ["EHHV"],
       "colours": [{ "hex": "#00ca00" }]
     },
     "CKA": {
       "callsign": "De Kooy Arrival",
-      "frequency": "124.225",
+      "frequency": "124.230",
       "type": "APP",
       "pre": ["EHKD"],
       "colours": [{ "hex": "#00002f" }]
     },
     "CKT": {
       "callsign": "De Kooy Tower",
-      "frequency": "120.125",
+      "frequency": "120.130",
       "type": "TWR",
       "pre": ["EHKD"],
       "colours": [{ "hex": "#003100" }]
     },
     "CLE": {
       "callsign": "Lelystad Arrival",
-      "frequency": "134.525",
+      "frequency": "134.530",
       "type": "APP",
       "pre": ["EHLE"],
       "colours": [{ "hex": "#00002e" }]
     },
     "TLE": {
       "callsign": "Lelystad Tower",
-      "frequency": "135.175",
+      "frequency": "135.180",
       "type": "TWR",
       "pre": ["EHLE"],
       "colours": [{ "hex": "#008300" }]
     },
     "CRN": {
       "callsign": "RAPCON North",
-      "frequency": "122.100",
+      "frequency": "132.030",
       "type": "APP",
       "pre": ["EHLW"],
       "colours": [{ "hex": "#000001" }]
     },
     "CLT": {
       "callsign": "Leeuwarden Tower",
-      "frequency": "120.700",
+      "frequency": "120.705",
       "type": "TWR",
       "pre": ["EHLW"],
       "colours": [{ "hex": "#004f00" }]
     },
     "MIL": {
       "callsign": "Dutch Mil",
-      "frequency": "128.350",
+      "frequency": "128.355",
       "type": "CTR",
       "pre": ["EHMC"],
       "colours": [{ "hex": "#73ffff" }]
     },
     "ML1": {
       "callsign": "Bandbox",
-      "frequency": "123.175",
+      "frequency": "123.180",
       "type": "CTR",
       "pre": ["EHML"],
       "colours": [{ "hex": "#51ffff" }]
     },
     "ML2": {
       "callsign": "Bandbox",
-      "frequency": "124.925",
+      "frequency": "124.930",
       "type": "CTR",
       "pre": ["EHML"],
       "colours": [{ "hex": "#66ffff" }]
     },
     "RMZ": {
       "callsign": "Midden Zeeland Radio",
-      "frequency": "119.250",
+      "frequency": "119.255",
       "type": "TWR",
       "pre": ["EHMZ"],
       "colours": [{ "hex": "#008500" }]
     },
+	"ROW": {
+		"callsign": "Oostwold",
+		"frequency": "118.3330",
+		"type": "TWR",
+		"pre": ["EHOW"],
+		"colours": [{ "hex": "#000064" }]
+	},
     "RAP": {
       "callsign": "Rotterdam Approach",
-      "frequency": "122.975",
+      "frequency": "122.990",
       "type": "APP",
       "pre": ["EHRD"],
       "colours": [{ "hex": "#000012" }]
     },
     "TRD": {
       "callsign": "Rotterdam Tower",
-      "frequency": "118.200",
+      "frequency": "118.205",
       "type": "TWR",
       "pre": ["EHRD"],
       "colours": [{ "hex": "#000a00" }]
     },
     "RSE": {
       "callsign": "Seppe Radio",
-      "frequency": "120.650",
+      "frequency": "120.655",
       "type": "TWR",
       "pre": ["EHSE"],
       "colours": [{ "hex": "#001e00" }]
     },
     "RST": {
       "callsign": "Stadskanaal Radio",
-      "frequency": "123.425",
+      "frequency": "128.960",
       "type": "TWR",
       "pre": ["EHST"],
       "colours": [{ "hex": "#007a00" }]
     },
     "RTE": {
       "callsign": "Teuge Radio",
-      "frequency": "121.000",
+      "frequency": "121.005",
       "type": "TWR",
       "pre": ["EHTE"],
       "colours": [{ "hex": "#00e200" }]
     },
     "RTL": {
       "callsign": "Terlet Radio",
-      "frequency": "130.125",
+      "frequency": "130.130",
       "type": "TWR",
       "pre": ["EHTL"],
       "colours": [{ "hex": "#00c500" }]
     },
     "RTW": {
       "callsign": "Twente Radio",
-      "frequency": "119.950",
+      "frequency": "119.955",
       "type": "TWR",
       "pre": ["EHTW"],
       "colours": [{ "hex": "#006800" }]
     },
     "RTX": {
       "callsign": "Texel Radio",
-      "frequency": "119.300",
+      "frequency": "119.305",
       "type": "TWR",
       "pre": ["EHTX"],
       "colours": [{ "hex": "#00c300" }]
     },
     "CRS": {
       "callsign": "RAPCON South",
-      "frequency": "123.175",
+      "frequency": "123.180",
       "type": "APP",
       "pre": ["EHVK"],
       "colours": [{ "hex": "#00001d" }]
     },
     "CVT": {
       "callsign": "Volkel Tower",
-      "frequency": "136.075",
+      "frequency": "136.080",
       "type": "TWR",
       "pre": ["EHVK"],
       "colours": [{ "hex": "#002900" }]
     },
     "CWT": {
       "callsign": "Woensdrecht Tower",
-      "frequency": "120.425",
+      "frequency": "120.430",
       "type": "TWR",
       "pre": ["EHWO"],
       "colours": [{ "hex": "#004300" }]
@@ -3205,7 +3212,8 @@
   "callsigns": {
     "DEL": {
       "": "Delivery",
-      "C": "Coordinator"
+      "C": "Coordinator",
+	  "P": "Planner"
     },
     "GND": {
       "": "Ground"
@@ -3217,7 +3225,8 @@
     "APP": {
       "": "Approach",
       "U": "Control",
-      "F": "Arrival"
+      "A": "Arrival",
+	  "S": "Arrival"
     },
     "DEP": {
       "": "Departure"
@@ -3244,7 +3253,8 @@
       "callsign": "Beek",
       "coord": [50.916667, 5.776667],
       "topdown": [
-        "ACS",
+        "ABK",
+		"ACS",
         "ACE",
         "ACW"
       ]
@@ -3256,7 +3266,8 @@
       "callsign": "Eindhoven",
       "coord": [51.45, 5.375],
       "topdown": [
-        "MIL",
+        "CEA",
+		"MIL",
         "ACS",
         "ACE",
         "ACW"
@@ -3266,7 +3277,8 @@
       "callsign": "Eelde",
       "coord": [53.125, 6.583333],
       "topdown": [
-        "ACE",
+        "AGG",
+		"ACE",
         "ACW"
       ]
     },
@@ -3279,7 +3291,8 @@
       "callsign": "Lelystad",
       "coord": [52.46, 5.526667],
       "topdown": [
-        "FD2",
+        "CLE",
+		"FD2",
         "FD1",
         "ACE",
         "ACW"
@@ -3292,7 +3305,8 @@
       "callsign": "Rotterdam",
       "coord": [51.956667, 4.436667],
       "topdown": [
-        "FD1",
+        "RAP",
+		"FD1",
         "FD2",
         "ACS",
         "ACW"
