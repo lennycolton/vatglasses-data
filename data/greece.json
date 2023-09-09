@@ -6387,7 +6387,7 @@
       "frequency": "132.375",
       "type": "CTR",
       "pre": ["LGMD"],
-      "colours": [{ "hex": "#38d936" }]
+      "colours": [{ "hex": "#607568" }]
     },
     "TMG": {
       "callsign": "Megara Tower",
