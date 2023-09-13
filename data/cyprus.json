@@ -806,8 +806,11 @@
     "LCCC": {
       "name": "Nicosia"
     },
-    "APS": {
+    "APP": {
       "name": "Approach"
+    },
+    "TWR": {
+      "name": "Tower"
     }
   },
   "positions": {
