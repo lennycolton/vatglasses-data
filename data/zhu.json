@@ -3788,8 +3788,6 @@
     },
 
     "callsigns": {
-        "CTR": { "": "Center" },
-        "FSS": { "": "Radio" },
         "APP": { "": "Approach" },
         "DEP": { "": "Departure" },
         "TWR": { "": "Tower" },
