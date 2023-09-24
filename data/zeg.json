@@ -3870,7 +3870,6 @@
     "CYCY": {"callsign": "Clyde", "coord": ["70.48306","-68.51639"]},
     "CYDA": {"callsign": "Dawson", "coord": ["64.04972","-139.13306"]},
     "CYDB": {"callsign": "Burwash", "coord": ["61.36667","-139.03306"]},
-    "CYDC": {"callsign": "Princeton", "coord": ["49.4675","-120.511944"]},
     "CYDL": {"callsign": "Dease Lake", "coord": ["58.422312","-130.031506"]},
     "CYDM": {"callsign": "Ross River", "coord": ["61.96667","-132.43306"]},
     "CYDQ": {"callsign": "Dawson Creek", "coord": ["55.741667","-120.181944"]},

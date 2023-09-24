@@ -4061,8 +4061,10 @@
               "comment": "CZVR_CYAZ_MF",
               "group": "MF",
               "owner": [
-                  "ZT",
-                  "CF"
+                  "AZ",
+                  "CF",
+                  "CW",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -4149,9 +4151,13 @@
               "id": "Campbell River",
               "comment": "CZVR_CYBL_MF",
               "group": "MF",
-              "owner": [
-                  "BL",
-                  "CF"
+                    "owner": [
+                        "BL",
+                        "CF",
+                        "AQ",
+                        "DQ",
+                        "CW",
+                        "CV"
               ],
               "sectors": [
                   {
@@ -4241,7 +4247,12 @@
               "group": "MF",
               "owner": [
                   "YC",
-                  "CF"
+                  "CF",
+                  "AJ",
+                  "DS",
+                  "DN",
+                  "AO",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -4320,7 +4331,10 @@
               "group": "MF",
               "owner": [
                   "CG",
-                  "CF"
+                  "CF",
+                  "CC",
+                  "CE",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -4409,7 +4423,11 @@
               "group": "MF",
               "owner": [
                   "KA",
-                  "CF"
+                  "CF",
+                  "CX",
+                  "CN",
+                  "CE",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -4497,7 +4515,10 @@
               "comment": "CZVR_CYPR_MF",
               "group": "MF",
               "owner": [
-                "CF"
+                "CF",
+                "CZ",
+                "CW",
+                "CV"
               ],
               "sectors": [
                   {
@@ -4587,7 +4608,11 @@
               "group": "MF",
               "owner": [
                   "WL",
-                  "CF"
+                  "CF",
+                  "CX",
+                  "CN",
+                  "CE",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -4676,7 +4701,12 @@
               "group": "MF",
               "owner": [
                   "WH",
-                  "CF"
+                  "CF",
+                  "AJ",
+                  "DS",
+                  "DN",
+                  "AO",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -4767,7 +4797,11 @@
               "group": "MF",
               "owner": [
                   "WL",
-                  "CF"
+                  "CF",
+                  "CX",
+                  "CN",
+                  "CE",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -4856,7 +4890,10 @@
               "group": "MF",
               "owner": [
                   "XC",
-                  "CF"
+                  "CF",
+                  "CC",
+                  "CE",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -4945,7 +4982,11 @@
               "group": "MF",
               "owner": [
                   "XT",
-                  "CF"
+                  "CF",
+                  "CH",
+                  "CN",
+                  "CE",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -5034,7 +5075,11 @@
               "group": "MF",
               "owner": [
                   "YD",
-                  "CF"
+                  "CF",
+                  "CH",
+                  "CN",
+                  "CE",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -5123,7 +5168,10 @@
               "group": "MF",
               "owner": [
                   "YF",
-                  "CF"
+                  "CF",
+                  "CC",
+                  "CE",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -5211,8 +5259,11 @@
               "comment": "CZVR_CYZP_MF",
               "group": "MF",
               "owner": [
-                  "XT",
-                  "CF"
+                    "XT",
+                    "CF",
+                    "CZ",
+                    "CW",
+                    "CV"
               ],
               "sectors": [
                   {
@@ -5266,7 +5317,10 @@
               "group": "MF",
               "owner": [
                   "ZT",
-                  "CF"
+                  "CF",
+                  "CK",
+                  "CW",
+                  "CV"
               ],
               "sectors": [
                   {
@@ -6077,14 +6131,63 @@
     },
     "airports": {
         "CYAL": {"callsign": "Alert Bay", "coord": ["50.582318","-126.915785"]},
-        "CYAZ": {"callsign": "Tofino", "coord": ["49.082222","-125.7725"]},
+        "CYAZ": {
+            "callsign": "Tofino",
+            "coord": ["49.082222","-125.7725"],
+            "topdown": [
+                "CF",
+                "CW",
+                "CV"
+            ]
+        },
         "CYBD": {"callsign": "Bella Coola", "coord": ["52.38306","-126.58306"]},
-        "CYBL": {"callsign": "Campbell River", "coord": ["49.950833","-125.270833"]},
-        "CYCD": {"callsign": "Nanaimo", "coord": ["49.052222","-123.87"]},
-        "CYCG": {"callsign": "Castlegar", "coord": ["49.296389","-117.6325"]},
+        "CYBL": {
+            "callsign": "Campbell River",
+            "coord": ["49.950833","-125.270833"],
+            "topdown": [
+                "CF",
+                "AQ",
+                "DQ",
+                "CW",
+                "CV"
+            ]
+        },
+        "CYCD": {
+            "callsign": "Nanaimo",
+            "coord": ["49.052222","-123.87"],
+            "topdown": [
+                "CF",
+                "AJ",
+                "DS",
+                "DN",
+                "AO",
+                "CV"
+            ]
+        },
+        "CYCG": {
+            "callsign": "Castlegar",
+            "coord": ["49.296389","-117.6325"],
+            "topdown": [
+                "CF",
+                "CC",
+                "CE",
+                "CV"
+            ]
+
+        },
         "CYCP": {"callsign": "Blue River", "coord": ["52.13306","-119.29972"]},
         "CYCW": {"callsign": "Chilliwack", "coord": ["49.153194","-121.939056"]},
         "CYCZ": {"callsign": "Fairmont Hot Springs", "coord": ["50.330164","-115.873453"]},
+        "CYDC": {
+            "callsign": "Princeton",
+            "coord": ["49.4675","-120.511944"],
+            "topdown": [
+                "CF",
+                "CC",
+                "CE",
+                "CV"
+            ]
+        },
         "CYGB": {"callsign": "Gillies Bay", "coord": ["49.694167","-124.517778"]},
         "CYHC": {
             "callsign": "Vancouver Harbour",
@@ -6100,7 +6203,17 @@
         "CYHE": {"callsign": "Hope", "coord": ["49.36667","-121.48306"]},
         "CYJM": {"callsign": "Fort St. James (Perison)", "coord": ["54.397222","-124.262778"]},
         "CYJQ": {"callsign": "Denny Island", "coord": ["52.139819","-128.063586"]},
-        "CYKA": {"callsign": "Kamloops", "coord": ["50.702222","-120.441944"]},
+        "CYKA": {
+            "callsign": "Kamloops",
+            "coord": ["50.702222","-120.441944"],
+            "topdown": [
+                "CF",
+                "CX",
+                "CN",
+                "CE",
+                "CV"
+            ]
+        },
         "CYLI": {"callsign": "Lillooet", "coord": ["50.674722","-121.893611"]},
         "CYLW": {
             "callsign": "Kelowna",
@@ -6134,7 +6247,16 @@
                 "CV"
             ]
         },
-        "CYPR": {"callsign": "Prince Rupert", "coord": ["54.286111","-130.444722"]},
+        "CYPR": {
+            "callsign": "Prince Rupert",
+            "coord": ["54.286111","-130.444722"],
+            "topdown": [
+                "CF",
+                "CZ",
+                "CW",
+                "CV"
+            ]
+        },
         "CYPS": {"callsign": "Pemberton", "coord": ["50.3025","-122.737778"]},
         "CYPU": {"callsign": "Puntzi Mountain", "coord": ["52.112833","-124.144767"]},
         "CYPW": {"callsign": "Powell River", "coord": ["49.834167","-124.5"]},
@@ -6148,7 +6270,17 @@
                 "CV"
             ]
         },
-        "CYQZ": {"callsign": "Quesnel", "coord": ["53.026111","-122.51"]},
+        "CYQZ": {
+            "callsign": "Quesnel",
+            "coord": ["53.026111","-122.51"],
+            "topdown": [
+                "CF",
+                "CX",
+                "CN",
+                "CE",
+                "CV"
+            ]
+        },
         "CYRV": {"callsign": "Revelstoke", "coord": ["50.96667","-118.18306"]},
         "CYSE": {"callsign": "Squamish", "coord": ["49.781786","-123.161903"]},
         "CYVK": {"callsign": "Vernon", "coord": ["50.246177","-119.330866"]},
@@ -6164,9 +6296,39 @@
                 "CV"
             ]
         },
-        "CYWH": {"callsign": "Victoria Harbour", "coord": ["48.41667","-123.33306"]},
-        "CYWL": {"callsign": "Williams Lake", "coord": ["52.183056","-122.054167"]},
-        "CYXC": {"callsign": "Cranbrook", "coord": ["49.610278","-115.7825"]},
+        "CYWH": {
+            "callsign": "Victoria Harbour",
+            "coord": ["48.41667","-123.33306"],
+            "topdown": [
+                "CF",
+                "AJ",
+                "DS",
+                "DN",
+                "AO",
+                "CV"
+            ]
+        },
+        "CYWL": {
+            "callsign": "Williams Lake",
+            "coord": ["52.183056","-122.054167"],
+            "topdown": [
+                "CF",
+                "CX",
+                "CN",
+                "CE",
+                "CV"
+            ]
+        },
+        "CYXC": {
+            "callsign": "Cranbrook",
+            "coord": ["49.610278","-115.7825"],
+            "topdown": [
+                  "CF",
+                  "CC",
+                  "CE",
+                  "CV"
+            ]
+        },
         "CYXS": {
             "callsign": "Prince George",
             "coord": ["53.889444","-122.678889"],
@@ -6177,7 +6339,17 @@
                 "CV"
             ]
         },
-        "CYXT": {"callsign": "Terrace", "coord": ["54.466389","-128.5775"]},
+        "CYXT": {
+            "callsign": "Terrace",
+            "coord": ["54.466389","-128.5775"],
+            "topdown": [
+                "CF",
+                "CH",
+                "CN",
+                "CE",
+                "CV"
+            ]
+        },
         "CYXX": {
             "callsign": "Abbotsford",
             "coord": ["49.025278","-122.363333"],
@@ -6189,8 +6361,27 @@
                 "CV"
             ]
         },
-        "CYYD": {"callsign": "Smithers", "coord": ["54.824722","-127.182778"]},
-        "CYYF": {"callsign": "Penticton", "coord": ["49.463056","-119.601667"]},
+        "CYYD": {
+            "callsign": "Smithers",
+            "coord": ["54.824722","-127.182778"],
+            "topdown": [
+                "CF",
+                "CH",
+                "CN",
+                "CE",
+                "CV"
+            ]
+        },
+        "CYYF": {
+            "callsign": "Penticton",
+            "coord": ["49.463056","-119.601667"],
+            "topdown": [
+                "CF",
+                "CC",
+                "CE",
+                "CV"
+            ]
+        },
         "CYYJ": {
             "callsign": "Victoria",
             "coord": ["48.646944","-123.425833"],
@@ -6201,8 +6392,26 @@
                 "CV"
             ]
         },
-        "CYZP": {"callsign": "Sandspit", "coord": ["53.254167","-131.813889"]},
-        "CYZT": {"callsign": "Port Hardy", "coord": ["50.680278","-127.366111"]},
+        "CYZP": {
+            "callsign": "Sandspit",
+            "coord": ["53.254167","-131.813889"],
+            "topdown": [
+                "CF",
+                "CZ",
+                "CW",
+                "CV"
+            ]
+        },
+        "CYZT": {
+            "callsign": "Port Hardy",
+            "coord": ["50.680278","-127.366111"],
+            "topdown": [
+                "CF",
+                "CK",
+                "CW",
+                "CV"
+            ]
+        },
         "CYZY": {"callsign": "Mackenzie", "coord": ["55.29972","-123.13306"]},
         "CZAM": {"callsign": "Salmon Arm", "coord": ["50.682533","-119.228625"]},
         "CZBB": {
