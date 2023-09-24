@@ -3843,25 +3843,31 @@
     "CYBB": {"callsign": "Pelly Bay", "coord": ["68.53306","-89.81639"]},
     "CYBE": {"callsign": "Uranium City", "coord": ["59.561378","-108.481269"]},
     "CYBF": {"callsign": "Bonnyville", "coord": ["54.304778","-110.741232"]},
-    "CYBK": {"callsign": "Baker Lake ", "coord": ["64.29972","-96.08306"]},
+    "CYBK": {"callsign": "Baker Lake", "coord": ["64.29972","-96.08306"]},
     "CYBP": {"callsign": "Brooks", "coord": ["50.63405","-111.926309"]},
     "CYBW": {
 		"callsign": "Springbank", 
 		"coord": ["51.1","-114.36639"],
 		"topdown": [
-		"DE",
-		"AW",
-		"CE",
-		"QC",
-		"ZFS"
+            "CT",
+            "AW",
+            "AE",
+            "DE",
+            "D1",
+            "CE",
+            "BA",
+            "ZU",
+            "QL",
+            "QC",
+            "ZFS"
 		]
-		},
-    "CYCB": {"callsign": "Cambridge Bay ", "coord": ["69.09972","-105.11639"]},
+	},
+    "CYCB": {"callsign": "Cambridge Bay", "coord": ["69.09972","-105.11639"]},
     "CYCO": {"callsign": "Coppermine", "coord": ["67.81667","-115.13306"]},
     "CYCQ": {"callsign": "Chetwynd", "coord": ["55.7","-121.63306"]},
     "CYCS": {"callsign": "Chesterfield Inlet", "coord": ["63.33306","-90.71639"]},
     "CYCT": {"callsign": "Coronation", "coord": ["52.075056","-111.445306"]},
-    "CYCY": {"callsign": "Clyde ", "coord": ["70.48306","-68.51639"]},
+    "CYCY": {"callsign": "Clyde", "coord": ["70.48306","-68.51639"]},
     "CYDA": {"callsign": "Dawson", "coord": ["64.04972","-139.13306"]},
     "CYDB": {"callsign": "Burwash", "coord": ["61.36667","-139.03306"]},
     "CYDC": {"callsign": "Princeton", "coord": ["49.4675","-120.511944"]},
@@ -3869,26 +3875,59 @@
     "CYDM": {"callsign": "Ross River", "coord": ["61.96667","-132.43306"]},
     "CYDQ": {"callsign": "Dawson Creek", "coord": ["55.741667","-120.181944"]},
     "CYEA": {"callsign": "Empress", "coord": ["50.933517","-110.013503"]},
-    "CYED": {"callsign": "Namao", "coord": ["53.66667","-113.46639"]},
+    "CYED": {
+        "callsign": "Namao",
+        "coord": ["53.66667","-113.46639"],
+		"topdown": [
+            "V1",
+            "AR",
+            "DP",
+            "CE",
+            "LB",
+            "ZU",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYEG": {
 		"callsign": "Edmonton", 
 		"coord": ["53.309722","-113.579722"],
 		"default": false,
 		"topdown": [
-		"DP",
-		"AR",
-		"CE",
-		"QC",
-		"ZFS"
+            "DP",
+            "AR",
+            "CE",
+            "QC",
+            "ZFS"
 		]
-		},
+	},
     "CYEK": {"callsign": "Arviat", "coord": ["61.1","-94.06639"]},
     "CYET": {"callsign": "Edson", "coord": ["53.578889","-116.465"]},
     "CYEU": {"callsign": "Eureka Man", "coord": ["80","-85.81639"]},
-    "CYEV": {"callsign": "Inuvik", "coord": ["68.304167","-133.482778"]},
+    "CYEV": {
+        "callsign": "Inuvik",
+        "coord": ["68.304167","-133.482778"],
+		"topdown": [
+            "EV",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYFI": {"callsign": "Firebag", "coord": ["57.275723","-110.976675"]},
     "CYFR": {"callsign": "Fort Resolution", "coord": ["61.18306","-113.68306"]},
-    "CYFS": {"callsign": "Fort Simpson", "coord": ["61.760278","-121.236667"]},
+    "CYFS": {
+        "callsign": "Fort Simpson",
+        "coord": ["61.760278","-121.236667"],
+		"topdown": [
+            "XY",
+            "KM",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYGE": {"callsign": "Golden", "coord": ["51.29972","-116.98306"]},
     "CYGH": {"callsign": "Fort Good Hope", "coord": ["66.26667","-128.61639"]},
     "CYGT": {"callsign": "Igloolik", "coord": ["69.36667","-81.81639"]},
@@ -3896,8 +3935,17 @@
     "CYHI": {"callsign": "Holman Island", "coord": ["70.76667","-117.79972"]},
     "CYHK": {"callsign": "Gjoa Haven", "coord": ["68.63306","-95.84972"]},
     "CYHT": {"callsign": "Haines Junction", "coord": ["60.789491","-137.545235"]},
-    "CYHY": {"callsign": "Hay River ", "coord": ["60.838889","-115.776667"]},
-    "CYIO": {"callsign": "Pond Inlet ", "coord": ["72.7","-77.96639"]},
+    "CYHY": {
+        "callsign": "Hay River",
+        "coord": ["60.838889","-115.776667"],
+		"topdown": [
+            "ZF",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
+    "CYIO": {"callsign": "Pond Inlet", "coord": ["72.7","-77.96639"]},
     "CYJA": {"callsign": "Jasper", "coord": ["52.996667","-118.059444"]},
     "CYJF": {"callsign": "Fort Liard", "coord": ["60.23306","-123.48306"]},
     "CYJP": {"callsign": "Fort Providence", "coord": ["61.31908","-117.606078"]},
@@ -3907,7 +3955,17 @@
     "CYLB": {"callsign": "Lac La Biche", "coord": ["54.770414","-112.031778"]},
     "CYLC": {"callsign": "Kimmirut A Nwt", "coord": ["62.85","-69.88306"]},
     "CYLK": {"callsign": "Lutselk'E", "coord": ["62.418195","-110.68224"]},
-    "CYLL": {"callsign": "Lloydminister", "coord": ["53.309167","-110.0725"]},
+    "CYLL": {
+        "callsign": "Lloydminister",
+        "coord": ["53.309167","-110.0725"],
+		"topdown": [
+            "LL",
+            "ZU",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYLT": {"callsign": "Alert", "coord": ["82.51667","-62.28306"]},
     "CYMA": {"callsign": "Mayo", "coord": ["63.61667","-135.86639"]},
     "CYMD": {"callsign": "Mould Bay", "coord": ["76.23306","-119.33306"]},
@@ -3915,10 +3973,13 @@
 		"callsign": "Fort Mcmurray", 
 		"coord": ["56.652778","-111.221667"],
 		"topdown": [
-		"QC",
-		"ZFS"
+            "MM",
+            "ZU",
+            "QL",
+            "QC",
+            "ZFS"
 		]
-		},
+	},
     "CYNH": {"callsign": "Hudsons Hope", "coord": ["56.035511","-121.9757"]},
     "CYNL": {"callsign": "Points North Landing", "coord": ["58.276659","-104.082604"]},
     "CYNR": {"callsign": "Horizon", "coord": ["57.381553","-111.701117"]},
@@ -3928,53 +3989,123 @@
 		"callsign": "Cold Lake", 
 		"coord": ["54.405","-110.279444"],
 		"topdown": [
-		"QC",
-		"ZFS"
+            "OD",
+            "LL",
+            "ZU",
+            "QL",
+            "QC",
+            "ZFS"
 		]
-		},
-    "CYOJ": {"callsign": "High Level", "coord": ["58.621389","-117.164722"]},
+	},
+    "CYOJ": {
+        "callsign": "High Level",
+        "coord": ["58.621389","-117.164722"],
+		"topdown": [
+            "PR1",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYOP": {"callsign": "Rainbow Lake", "coord": ["58.491094","-119.406641"]},
     "CYPC": {"callsign": "Paulatuk", "coord": ["69.34972","-124.03306"]},
-    "CYPE": {"callsign": "Peace River", "coord": ["56.226944","-117.447222"]},
+    "CYPE": {
+        "callsign": "Peace River",
+        "coord": ["56.226944","-117.447222"],
+		"topdown": [
+            "PR1",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYPY": {"callsign": "Fort Chipewyan", "coord": ["58.767222","-111.117222"]},
     "CYQF": {
 		"callsign": "Red Deer", 
 		"coord": ["52.178611","-113.893056"],
 		"topdown": [
-		"CE",
-		"QC",
-		"ZFS"
+            "ZU",
+            "QL",
+            "QC",
+            "ZFS"
 		]
-		},
-    "CYQH": {"callsign": "Watson Lake", "coord": ["60.117778","-128.821944"]},
-    "CYQL": {"callsign": "Lethbridge", "coord": ["49.630278","-112.799722"]},
-    "CYQU": {"callsign": "Grande Prairie", "coord": ["55.179722","-118.885"]},
+	},
+    "CYQH": {
+        "callsign": "Watson Lake",
+        "coord": ["60.117778","-128.821944"],
+		"topdown": [
+            "XY",
+            "KM",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
+    "CYQL": {
+        "callsign": "Lethbridge",
+        "coord": ["49.630278","-112.799722"],
+		"topdown": [
+            "FH",
+            "ZU",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
+    "CYQU": {
+        "callsign": "Grande Prairie",
+        "coord": ["55.179722","-118.885"],
+		"topdown": [
+            "QU",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYRA": {"callsign": "Rae Lakes", "coord": ["64.116152","-117.309752"]},
-    "CYRB": {"callsign": "Resolute ", "coord": ["74.71667","-94.98306"]},
+    "CYRB": {"callsign": "Resolute", "coord": ["74.71667","-94.98306"]},
     "CYRM": {"callsign": "Rocky Mountain House", "coord": ["52.429722","-114.904444"]},
-    "CYRT": {"callsign": "Rankin Inlet ", "coord": ["62.811389","-92.115833"]},
+    "CYRT": {"callsign": "Rankin Inlet", "coord": ["62.811389","-92.115833"]},
     "CYSD": {"callsign": "Suffield", "coord": ["50.26667","-111.18306"]},
     "CYSF": {"callsign": "Stony Rapids", "coord": ["59.25","-105.83306"]},
-    "CYSM": {"callsign": "Fort Smith ", "coord": ["60.022222","-111.960278"]},
+    "CYSM": {
+        "callsign": "Fort Smith",
+        "coord": ["60.022222","-111.960278"],
+		"topdown": [
+            "ZF",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYSQ": {"callsign": "Atlin", "coord": ["59.576441","-133.671372"]},
     "CYSR": {"callsign": "Nanisivik", "coord": ["72.98306","-84.63306"]},
     "CYSW": {"callsign": "Elk Valley", "coord": ["49.833356","-114.884353"]},
     "CYSY": {"callsign": "Sachs Harbour", "coord": ["72","-125.28306"]},
-    "CYTE": {"callsign": "Cape Dorset ", "coord": ["64.21667","-76.53306"]},
+    "CYTE": {"callsign": "Cape Dorset", "coord": ["64.21667","-76.53306"]},
     "CYUA": {"callsign": "Shingle Point", "coord": ["68.95","-137.21639"]},
     "CYUB": {"callsign": "Tuktoyaktuk", "coord": ["69.45","-133.01639"]},
     "CYUI": {"callsign": "Cape Young", "coord": ["68.93306","-116.91639"]},
-    "CYUJ": {"callsign": "Lady Franklin Point ", "coord": ["68.5","-113.21639"]},
+    "CYUJ": {"callsign": "Lady Franklin Point", "coord": ["68.5","-113.21639"]},
     "CYUK": {"callsign": "Byron Bay", "coord": ["68.75","-109.06639"]},
     "CYUQ": {"callsign": "Jenny Lind Island", "coord": ["68.65","-101.73306"]},
-    "CYUS": {"callsign": "Shepherd Bay ", "coord": ["68.81667","-93.43306"]},
+    "CYUS": {"callsign": "Shepherd Bay", "coord": ["68.81667","-93.43306"]},
     "CYUT": {"callsign": "Repulse Bay", "coord": ["66.53306","-86.25"]},
     "CYUV": {"callsign": "Longstaff", "coord": ["68.93306","-75.28306"]},
-    "CYUX": {"callsign": "Hall Beach ", "coord": ["68.78306","-81.25"]},
+    "CYUX": {"callsign": "Hall Beach", "coord": ["68.78306","-81.25"]},
     "CYVG": {"callsign": "Vermilion", "coord": ["53.356869","-110.824828"]},
     "CYVL": {"callsign": "Tommy Kochon", "coord": ["67.02118","-126.128621"]},
     "CYVM": {"callsign": "Broughton Island", "coord": ["67.54972","-64.03306"]},
-    "CYVQ": {"callsign": "Norman Wells ", "coord": ["65.2825","-126.800278"]},
+    "CYVQ": {
+        "callsign": "Norman Wells",
+        "coord": ["65.2825","-126.800278"],
+		"topdown": [
+            "EV",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYVT": {"callsign": "Buffalo Narrows", "coord": ["55.838889","-108.425833"]},
     "CYWE": {"callsign": "Wekweeti", "coord": ["64.190756","-114.076804"]},
     "CYWJ": {"callsign": "Fort Franklin", "coord": ["65.2","-123.43306"]},
@@ -3983,8 +4114,27 @@
     "CYWV": {"callsign": "Wainwright", "coord": ["52.79972","-110.88306"]},
     "CYWY": {"callsign": "Wrigley", "coord": ["63.21667","-123.43306"]},
     "CYXD": {"callsign": "Edmonton", "coord": ["53.5725","-113.520556"]},
-    "CYXH": {"callsign": "Medicine Hat", "coord": ["50.018889","-110.720833"]},
-    "CYXJ": {"callsign": "Fort St John ", "coord": ["56.238056","-120.740278"]},
+    "CYXH": {
+        "callsign": "Medicine Hat",
+        "coord": ["50.018889","-110.720833"],
+		"topdown": [
+            "XH",
+            "ZU",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
+    "CYXJ": {
+        "callsign": "Fort St. John",
+        "coord": ["56.238056","-120.740278"],
+		"topdown": [
+            "XJ",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYXN": {"callsign": "Whale Cove", "coord": ["62.23306","-92.59972"]},
     "CYXP": {"callsign": "Pangnirtung", "coord": ["66.15","-65.71639"]},
     "CYXQ": {"callsign": "Beaver Creek", "coord": ["62.41667","-140.86639"]},
@@ -3992,37 +4142,60 @@
 		"callsign": "Whitehorse", 
 		"coord": ["60.71","-135.068333"],
 		"topdown": [
-		"KM",
-		"QC",
-		"ZFS"
+            "XY",
+            "KM",
+            "QL",
+            "QC",
+            "ZFS"
 		]
-		},
+	},
     "CYYC": {
 		"callsign": "Calgary", 
 		"coord": ["51.113889","-114.020278"],
 		"default": false,
 		"topdown": [
-		"DE",
-		"AW",
-		"CE",
-		"QC",
-		"ZFS"
+            "DE",
+            "AW",
+            "CE",
+            "QC",
+            "ZFS"
 		]
-		},
-    "CYYE": {"callsign": "Fort Nelson ", "coord": ["58.836944","-122.596667"]},
+	},
+    "CYYE": {
+        "callsign": "Fort Nelson",
+        "coord": ["58.836944","-122.596667"],
+		"topdown": [
+            "YE",
+            "QL",
+            "QC",
+            "ZFS"
+		]
+    },
     "CYYH": {"callsign": "Spence Bay", "coord": ["69.54972","-93.58306"]},
     "CYYM": {"callsign": "Cowley", "coord": ["49.636389","-114.094444"]},
     "CYZF": {
-		"callsign": "Yellowknife ", 
+		"callsign": "Yellowknife", 
 		"coord": ["62.462778","-114.440278"],
 		"topdown": [
-		"QC",
-		"ZFS"
+            "ZF",
+            "QL",
+            "QC",
+            "ZFS"
 		]
-		},
+	},
     "CYZH": {"callsign": "Slave Lake", "coord": ["55.293056","-114.777222"]},
     "CYZS": {"callsign": "Coral Harbour", "coord": ["64.2","-83.36639"]},
-    "CYZU": {"callsign": "Whitecourt", "coord": ["54.143889","-115.786667"]},
+    "CYZU": {
+        "callsign": "Whitecourt",
+        "coord": ["54.143889","-115.786667"],
+		"topdown": [
+            "ZU1",
+            "ZU",
+            "QL",
+            "QC",
+            "ZFS"
+		]   
+    },
     "CYZW": {"callsign": "Teslin", "coord": ["60.16667","-132.73306"]},
     "CZFA": {"callsign": "Faro", "coord": ["62.2","-133.36639"]},
     "CZFD": {"callsign": "Fond-Du-Lac", "coord": ["59.334517","-107.182074"]},
@@ -4030,18 +4203,22 @@
     "CZFN": {"callsign": "Fort Norman", "coord": ["64.91667","-125.56639"]},
     "CZHP": {"callsign": "High Prairie", "coord": ["55.393551","-116.475827"]},
     "CZPC": {"callsign": "Pincher Creek", "coord": ["49.520556","-113.997222"]},
-    "CZUE": {"callsign": "Cape Parry ", "coord": ["70.16667","-124.7"]},
+    "CZUE": {"callsign": "Cape Parry", "coord": ["70.16667","-124.7"]},
     "CZVL": {
 		"callsign": "Villeneuve", 
 		"coord": ["53.66667","-113.86639"],
 		"topdown": [
-		"DP",
-		"AR",
-		"CE",
-		"QC",
-		"ZFS"
+            "V1",
+            "AR",
+            "DP",
+            "CE",
+            "LB",
+            "ZU",
+            "QL",
+            "QC",
+            "ZFS"
 		]
-		},
+	},
     "CZWH": {"callsign": "Lac Brochet", "coord": ["58.614282","-101.468963"]},
     "CZWL": {"callsign": "Wollaston Lake", "coord": ["58.106965","-103.172422"]}
   }
