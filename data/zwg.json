@@ -4970,20 +4970,83 @@
     },
     "CYAX": {"callsign": "Lac Du Bonnet", "coord": ["50.294731","-96.00997"]},
     "CYBQ": {"callsign": "Tadoule Lake", "coord": ["58.706082","-98.512218"]},
-    "CYBR": {"callsign": "Brandon", "coord": ["49.909722","-99.950833"]},
+    "CYBR": {
+        "callsign": "Brandon",
+        "coord": ["49.909722","-99.950833"],
+        "topdown": [
+            "WW",
+            "WE",
+            "WL",
+            "L",
+            "WH",
+            "WC"
+        ]
+    },
     "CYBT": {"callsign": "Brochet", "coord": ["57.889467","-101.679186"]},
     "CYBU": {"callsign": "Nipawin", "coord": ["53.33306","-104"]},
     "CYBV": {"callsign": "Berens River", "coord": ["52.35","-97.03306"]},
     "CYCR": {"callsign": "Cross Lake", "coord": ["54.610917","-97.760196"]},
-    "CYDN": {"callsign": "Dauphin", "coord": ["51.100833","-100.0525"]},
+    "CYDN": {
+        "callsign": "Dauphin",
+        "coord": ["51.100833","-100.0525"],
+        "topdown": [
+            "WW",
+            "WE",
+            "WL",
+            "L",
+            "WH",
+            "WC"
+        ]
+    },
     "CYEN": {"callsign": "Estevan", "coord": ["49.21667","-102.96639"]},
     "CYER": {"callsign": "Fort Severn", "coord": ["56.018889","-87.676111"]},
     "CYFH": {"callsign": "Fort Hope", "coord": ["51.561962","-87.907715"]},
-    "CYGM": {"callsign": "Gimli Industrial", "coord": ["50.61667","-97.03306"]},
+    "CYFO": {
+        "callsign": "Flin Flon",
+        "coord": ["54.678056","-101.681667"],
+        "topdown": [
+            "VC",
+            "NL",
+            "L",
+            "NH",
+            "WC"
+        ]
+    },
+    "CYGM": {"callsign": "Gimli", "coord": ["50.61667","-97.03306"]},
     "CYGO": {"callsign": "Gods Lake Narrows", "coord": ["54.558382","-94.490856"]},
-    "CYGQ": {"callsign": "Geraldton", "coord": ["49.7786944","-86.93855"]},
+    "CYGQ": {
+        "callsign": "Geraldton",
+        "coord": ["49.7786944","-86.93855"],
+        "topdown": [
+            "SP",
+            "EL",
+            "L",
+            "EH",
+            "WC"
+        ]
+    },
+    "CYGX": {
+        "callsign": "Gillam",
+        "coord": ["56.35","-94.7"],
+        "topdown": [
+            "NL",
+            "L",
+            "NH",
+            "WC"
+        ]
+    },
     "CYHB": {"callsign": "Hudson Bay", "coord": ["52.81667","-102.31639"]},
-    "CYHD": {"callsign": "Dryden", "coord": ["49.831667","-92.744167"]},
+    "CYHD": {
+        "callsign": "Dryden",
+        "coord": ["49.831667","-92.744167"],
+        "topdown": [
+            "QK",
+            "EL",
+            "L",
+            "EH",
+            "WC"
+        ]
+    },
     "CYIB": {"callsign": "Atikokan Municipal", "coord": ["48.773889","-91.638611"]},
     "CYIV": {"callsign": "Island Lake", "coord": ["53.85","-94.65"]},
     "CYKP": {"callsign": "Ogoki Post", "coord": ["51.658698","-85.900997"]},
@@ -5003,10 +5066,29 @@
             "WC"
         ]
     },
-    "CYNE": {"callsign": "Norway House", "coord": ["53.96667","-97.83306"]},
+    "CYNE": {
+        "callsign": "Norway House",
+        "coord": ["53.96667","-97.83306"],
+        "topdown": [
+            "NL",
+            "L",
+            "NH",
+            "WC"
+        ]
+    },
     "CYNN": {"callsign": "Nejanilini Lake", "coord": ["59.485185","-97.78103"]},
     "CYOH": {"callsign": "Oxford House", "coord": ["54.933169","-95.278947"]},
-    "CYPA": {"callsign": "Prince Albert", "coord": ["53.214167","-105.672778"]},
+    "CYPA": {
+        "callsign": "Prince Albert",
+        "coord": ["53.214167","-105.672778"],
+        "topdown": [
+            "WK",
+            "NL",
+            "L",
+            "NH",
+            "WC"
+        ]
+    },
     "CYPG": {
         "callsign": "Southport",
         "coord": ["49.902778","-98.274722"],
@@ -5025,8 +5107,28 @@
     "CYPL": {"callsign": "Pickle Lake", "coord": ["51.446389","-90.214167"]},
     "CYPM": {"callsign": "Pikangikum", "coord": ["51.819722","-93.973333"]},
     "CYPO": {"callsign": "Peawanuck", "coord": ["54.988056","-85.44333"]},
-    "CYQD": {"callsign": "The Pas", "coord": ["53.971944","-101.091944"]},
-    "CYQK": {"callsign": "Kenora", "coord": ["49.788333","-94.363056"]},
+    "CYQD": {
+        "callsign": "The Pas",
+        "coord": ["53.971944","-101.091944"],
+        "topdown": [
+            "VC",
+            "NL",
+            "L",
+            "NH",
+            "WC"
+        ]
+    },
+    "CYQK": {
+        "callsign": "Kenora",
+        "coord": ["49.788333","-94.363056"],
+        "topdown": [
+            "QK",
+            "EL",
+            "L",
+            "EH",
+            "WC"
+        ]
+    },
     "CYQR": {
         "callsign": "Regina",
         "coord": ["50.431944","-104.665833"],
@@ -5051,14 +5153,64 @@
             "WC"
         ]
     },
-    "CYQV": {"callsign": "Yorkton", "coord": ["51.264722","-102.461667"]},
-    "CYQW": {"callsign": "North Battleford", "coord": ["52.769167","-108.243611"]},
-    "CYRL": {"callsign": "Red Lake", "coord": ["51.066944","-93.793056"]},
+    "CYQV": {
+        "callsign": "Yorkton",
+        "coord": ["51.264722","-102.461667"],
+        "topdown": [
+            "GP",
+            "WL",
+            "L",
+            "WH",
+            "WC"
+        ]
+    },
+    "CYQW": {
+        "callsign": "North Battleford",
+        "coord": ["52.769167","-108.243611"],
+        "topdown": [
+            "WK",
+            "NL",
+            "L",
+            "NH",
+            "WC"
+        ]
+    },
+    "CYRL": {
+        "callsign": "Red Lake",
+        "coord": ["51.066944","-93.793056"],
+        "topdown": [
+            "TL",
+            "EL",
+            "L",
+            "EH",
+            "WC"
+        ]
+    },
     "CYRS": {"callsign": "Red Sucker Lake", "coord": ["54.167401","-93.557435"]},
     "CYSP": {"callsign": "Marathon", "coord": ["48.755278","-86.344444"]},
     "CYST": {"callsign": "St. Theresa Point", "coord": ["53.845497","-94.852185"]},
-    "CYTH": {"callsign": "Thompson", "coord": ["55.804632","-97.86241"]},
+    "CYTH": {
+        "callsign": "Thompson",
+        "coord": ["55.804632","-97.86241"],
+        "topdown": [
+            "NL",
+            "L",
+            "NH",
+            "WC"
+        ]
+    },
     "CYTL": {"callsign": "Big Trout Lake", "coord": ["53.8178","-89.896916"]},
+    "CYVC": {
+        "callsign": "La Ronge",
+        "coord": ["55.151389","-105.261944"],
+        "topdown": [
+            "VC",
+            "NL",
+            "L",
+            "NH",
+            "WC"
+        ]
+    },
     "CYVD": {"callsign": "R.J. (Bob) Andrew Field", "coord": ["49.878206","-100.918212"]},
     "CYVZ": {"callsign": "Deer Lake", "coord": ["52.655833","-94.061389"]},
     "CYWG": {
@@ -5087,9 +5239,50 @@
             "WC"
         ]
     },
-    "CYXL": {"callsign": "Sioux Lookout", "coord": ["50.114444","-91.904167"]},
-    "CYYN": {"callsign": "Swift Current", "coord": ["50.291944","-107.690556"]},
+    "CYXL": {
+        "callsign": "Sioux Lookout",
+        "coord": ["50.114444","-91.904167"],
+        "topdown": [
+            "QK",
+            "EL",
+            "L",
+            "EH",
+            "WC"
+        ]
+    },
+    "CYYL": {
+        "callsign": "Lynn Lake",
+        "coord": ["56.863889","-101.076111"],
+        "topdown": [
+            "VC",
+            "NL",
+            "L",
+            "NH",
+            "WC"
+        ]
+    },
+    "CYYN": {
+        "callsign": "Swift Current",
+        "coord": ["50.291944","-107.690556"],
+        "topdown": [
+            "GP",
+            "WL",
+            "L",
+            "WH",
+            "WC"
+        ]
+    },
     "CYYO": {"callsign": "W.B. Needham Field", "coord": ["51.810009","-104.169894"]},
+    "CYYQ": {
+        "callsign": "Churchill",
+        "coord": ["58.737222","-94.057222"],
+        "topdown": [
+            "NL",
+            "L",
+            "NH",
+            "WC"
+        ]
+    },
     "CYYW": {"callsign": "Armstrong", "coord": ["50.29394","-88.9101"]},
     "CZAC": {"callsign": "York Landing", "coord": ["56.089536","-96.089203"]},
     "CZBD": {"callsign": "Ilford", "coord": ["56.051583","-95.617964"]},
