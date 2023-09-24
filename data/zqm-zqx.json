@@ -4809,11 +4809,31 @@
   "airports": {
     "CYAU": {"callsign": "South Shore Regional", "coord":["44.230454","-64.856183"]},
     "CYAW": {"callsign": "Halifax-Shearwater", "coord":["44.639722","-63.499444"]},
-    "CYAY": {"callsign": "Saint Anthony", "coord":["51.391667","-56.084444"]},
+    "CYAY": {
+        "callsign": "Saint Anthony",
+        "coord":["51.391667","-56.084444"],
+        "topdown": [
+            "QL",
+            "XS",
+            "QN",
+            "QX",
+            "QM"
+        ]
+    },
     "CYCA": {"callsign": "Cartwright", "coord":["53.68306","-57.03306"]},
-    "CYCH": {"callsign": "Chatham Can-Mil", "coord":["47.007778","-65.449167"]},
+    "CYCH": {"callsign": "Chatham", "coord":["47.007778","-65.449167"]},
     "CYCL": {"callsign": "Charlo", "coord":["47.990556","-66.331389"]},
-    "CYCX": {"callsign": "Gagetown Can-Mil", "coord":["45.83306","-66.43306"]},
+    "CYCX": {
+        "callsign": "Gagetown",
+        "coord":["45.83306","-66.43306"],
+        "topdown": [
+            "QC",
+            "Q3",
+            "Q1",
+            "QM",
+            "QX"
+        ]
+    },
     "CYDF": {
         "callsign": "Deer Lake",
         "coord":["49.210833","-57.391389"],
@@ -4823,7 +4843,7 @@
             "XS",
             "QN",
             "QX",
-            "QM"      
+            "QM"
         ]
     },
     "CYDP": {"callsign": "Nain Nfld", "coord":["56.54972","-61.68306"]},
@@ -4835,11 +4855,20 @@
             "YJ",
             "QA",
             "QM",
-            "QX"            
+            "QX"
         ]
     },
     "CYFT": {"callsign": "Makkovik", "coord":["55.08306","-59.18306"]},
-    "CYGR": {"callsign": "Iles-De-La-Madeleine", "coord":["47.424722","-61.778056"]},
+    "CYGR": {
+        "callsign": "Iles-De-La-Madeleine",
+        "coord":["47.424722","-61.778056"],
+        "topdown": [
+            "QB",
+            "Q4",
+            "QM",
+            "QX"
+        ]
+    },
     "CYHO": {"callsign": "Hopedale", "coord":["55.4488","-60.228092"]},
     "CYHZ": {
         "callsign": "Halifax",
@@ -4854,10 +4883,30 @@
         ]
     },
     "CYID": {"callsign": "Annapolis Regional", "coord":["44.545888","-65.785733"]},
-    "CYJT": {"callsign": "Stephenville", "coord":["48.544167","-58.55"]},
+    "CYJT": {
+        "callsign": "Stephenville",
+        "coord":["48.544167","-58.55"],
+        "topdown": [
+            "QL",
+            "XS",
+            "QN",
+            "QX",
+            "QM"
+        ]
+    },
     "CYMH": {"callsign": "Mary's Harbour", "coord":["52.29972","-55.85"]},
     "CYPD": {"callsign": "Port Hawkesbury", "coord":["45.656667","-61.368056"]},
-    "CYQI": {"callsign": "Yarmouth", "coord":["43.826944","-66.088056"]},
+    "CYQI": {
+        "callsign": "Yarmouth",
+        "coord":["43.826944","-66.088056"],
+        "topdown": [
+            "QD",
+            "Q1",
+            "Q3",
+            "QM",
+            "QX"
+        ]
+    },
     "CYQM": {
         "callsign": "Moncton",
         "coord":["46.112222","-64.6825"],
@@ -4882,7 +4931,16 @@
             "QM"
         ]
     },
-    "CYQY": {"callsign": "Sydney ", "coord":["46.161389","-60.047778"]},
+    "CYQY": {
+        "callsign": "Sydney",
+        "coord":["46.161389","-60.047778"],
+        "topdown": [
+            "QB",
+            "Q4",
+            "QM",
+            "QX"
+        ]
+    },
     "CYSA": {"callsign": "Sable Island", "coord":["43.93306","-60"]},
     "CYSJ": {
         "callsign": "Saint John",
