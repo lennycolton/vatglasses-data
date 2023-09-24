@@ -172,7 +172,11 @@
                 "OA",
                 "CP",
                 "TH",
-                "GR"
+                "GR",
+                "zyz/SI",
+                "zyz/GR",
+                "zyz/PI",
+                "zyz/CE"
             ],
             "sectors": [
                 {
@@ -4111,7 +4115,12 @@
             "id": "St-Honore",
             "group": "TWR",
             "owner": [
-                "RC"
+                "RC",
+                "BG",
+                "HV",
+                "RW",
+                "LA",
+                "TH"
             ],
             "sectors": [
                 {
@@ -4799,7 +4808,16 @@
     "CYAD": {"callsign": "La Grande-3", "coord": ["53.571667","-76.196388"]},
     "CYAH": {"callsign": "La Grande-4", "coord": ["53.75","-73.66639"]},
     "CYAS": {"callsign": "Kangirsuk", "coord": ["60.027222","-69.999166"]},
-    "CYBC": {"callsign": "Baie-Comeau", "coord": ["49.132222","-68.207222"]},
+    "CYBC": {
+        "callsign": "Baie-Comeau",
+        "coord": ["49.132222","-68.207222"],
+        "topdown": [
+            "HV",
+            "RW",
+            "LA",
+            "TH"
+        ]
+    },
     "CYBG": {
         "callsign": "Bagotville",
         "coord": ["48.330556","-70.996389"],
@@ -4815,12 +4833,42 @@
     "CYDO": {"callsign": "Dolbeau-St-Felicien", "coord": ["48.7785","-72.374999"]},
     "CYES": {"callsign": "Edmundston", "coord": ["47.489938","-68.481785"]},
     "CYEY": {"callsign": "Magny", "coord": ["48.563889","-78.249721"]},
-    "CYFB": {"callsign": "Iqaluit", "coord": ["63.756389","-68.555833"]},
+    "CYFB": {
+        "callsign": "Iqaluit",
+        "coord": ["63.756389","-68.555833"],
+        "topdown": [
+            "NK",
+            "BJ",
+            "HV",
+            "RW",
+            "LA",
+            "TH"
+        ]
+    },
     "CYFE": {"callsign": "Forestville", "coord": ["48.746111","-69.097222"]},
     "CYFJ": {"callsign": "La Macaza", "coord": ["46.409444","-74.779999"]},
     "CYGK": {"callsign": "Kingston", "coord": ["44.225278","-76.596944"]},
-    "CYGL": {"callsign": "La Grande Riviere", "coord": ["53.625278","-77.704167"]},
-    "CYGP": {"callsign": "Gaspe", "coord": ["48.775278","-64.478611"]},
+    "CYGL": {
+        "callsign": "La Grande Riviere",
+        "coord": ["53.625278","-77.704167"],
+        "topdown": [
+            "BJ",
+            "HV",
+            "RW",
+            "LA",
+            "TH"
+        ]
+    },
+    "CYGP": {
+        "callsign": "Gaspe",
+        "coord": ["48.775278","-64.478611"],
+        "topdown": [
+            "HV",
+            "RW",
+            "LA",
+            "TH"
+        ]
+    },
     "CYGV": {"callsign": "Havre St-Pierre", "coord": ["50.281944","-63.611389"]},
     "CYGW": {"callsign": "Kuujjuarapik", "coord": ["55.28306","-77.76639"]},
     "CYHA": {"callsign": "Quaqtaq", "coord": ["61.04972","-69.63306"]},
@@ -4878,7 +4926,21 @@
     },
     "CYNA": {"callsign": "Natashquan", "coord": ["50.189722","-61.789167"]},
     "CYNC": {"callsign": "Wemindji", "coord": ["53.010833","-78.830277"]},
-    "CYND": {"callsign": "Gatineau", "coord": ["45.521389","-75.564167"]},
+    "CYND": {
+        "callsign": "Gatineau",
+        "coord": ["45.521389","-75.564167"],
+        "topdown": [
+            "OD",
+            "OA",
+            "CP",
+            "TH",
+            "GR",
+            "zyz/SI",
+            "zyz/GR",
+            "zyz/PI",
+            "zyz/CE"
+        ]
+    },
     "CYNM": {"callsign": "Matagami", "coord": ["49.761389","-77.8025"]},
     "CYOW": {
         "callsign": "Ottawa",
@@ -4950,15 +5012,63 @@
             "TH"
         ]
     },
-    "CYUY": {"callsign": "Rouyn-Noranda", "coord": ["48.206667","-78.833889"]},
+    "CYUY": {
+        "callsign": "Rouyn-Noranda",
+        "coord": ["48.206667","-78.833889"],
+        "topdown": [
+            "BJ",
+            "HV",
+            "RW",
+            "LA",
+            "TH"
+        ]
+    },
     "CYVB": {"callsign": "Bonaventure", "coord": ["48.071111","-65.460277"]},
-    "CYVO": {"callsign": "Val-D'Or", "coord": ["48.053889","-77.7825"]},
+    "CYVO": {
+        "callsign": "Val-D'Or",
+        "coord": ["48.053889","-77.7825"],
+        "topdown": [
+            "BJ",
+            "HV",
+            "RW",
+            "LA",
+            "TH"
+        ]
+    },
     "CYVP": {"callsign": "Kuujjuaq", "coord": ["58.096111","-68.426944"]},
-    "CYWK": {"callsign": "Wabush Lake", "coord": ["52.921944","-66.864444"]},
+    "CYWK": {
+        "callsign": "Wabush",
+        "coord": ["52.921944","-66.864444"],
+        "topdown": [
+            "BJ",
+            "HV",
+            "RW",
+            "LA",
+            "TH"
+        ]
+    },
     "CYXK": {"callsign": "Rimouski", "coord": ["48.478056","-68.496943"]},
-    "CYYY": {"callsign": "Mont-Joli", "coord": ["48.608611","-68.208056"]},
+    "CYYY": {
+        "callsign": "Mont-Joli",
+        "coord": ["48.608611","-68.208056"],
+        "topdown": [
+            "HV",
+            "RW",
+            "LA",
+            "TH"
+        ]
+    },
     "CYZG": {"callsign": "Salluit", "coord": ["62.179167","-75.666943"]},
-    "CYZV": {"callsign": "Sept-Iles", "coord": ["50.224167","-66.266111"]},
+    "CYZV": {
+        "callsign": "Sept-Iles",
+        "coord": ["50.224167","-66.266111"],
+        "topdown": [
+            "HV",
+            "RW",
+            "LA",
+            "TH"
+        ]
+    },
     "CZBM": {"callsign": "Bromont", "coord": ["45.290833","-72.741385"]},
     "CZEM": {"callsign": "Eastmain River", "coord": ["52.23306","-78.51639"]}
   }
