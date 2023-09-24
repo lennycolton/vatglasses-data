@@ -150,7 +150,11 @@
     "airports": {
         "KBLI": {
             "callsign": "Bellingham",
-            "coord": ["48.79275","-122.537528"]
+            "coord": ["48.79275","-122.537528"],
+            "topdown": [
+                "S12",
+                "S16"
+            ]
         }
     }
 }
