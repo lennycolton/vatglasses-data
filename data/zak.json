@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-      "id": "OC1",
+      "id": "Oceanic 1",
       "group": "ZAK",
       "owner": [
         "P",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": "OC2",
+      "id": "Oceanic 2",
       "group": "ZAK",
       "owner": [
         "P",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "id": "OC3",
+      "id": "Oceanic 3",
       "group": "ZAK",
       "owner": [
         "P",
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "id": "OC4",
+      "id": "Oceanic 4",
       "group": "ZAK",
       "owner": [
         "P",
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "id": "OC5 North",
+      "id": "Oceanic 5 North",
       "group": "ZAK",
       "owner": [
         "P",
@@ -631,7 +631,7 @@
       ]
     },
     {
-      "id": "OC5 South",
+      "id": "Oceanic 5 South",
       "group": "ZAK",
       "owner": [
         "P",
@@ -999,7 +999,7 @@
       ]
     },
     {
-      "id": "OC6",
+      "id": "Oceanic 6",
       "group": "ZAK",
       "owner": [
         "P",
@@ -1028,7 +1028,7 @@
       ]
     },
     {
-      "id": "OC7",
+      "id": "Oceanic 7",
       "group": "ZAK",
       "owner": [
         "P",
@@ -1060,7 +1060,7 @@
       ]
     },
     {
-      "id": "OC9",
+      "id": "Oceanic 9",
       "group": "ZAK",
       "owner": [
         "P",
@@ -1176,7 +1176,7 @@
   ],
   "groups": {
     "ZAK": {
-      "name": "Oakland Oceanic",
+      "name": "Oakland",
       "colour": "#ffffff"
     },
     "TWR": {
@@ -1211,7 +1211,6 @@
     }
   },
   "airports": {
-
     "PCIS": { "callsign": "Canton", "coord": ["-2.769167","-171.705278"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
     "PKMA": { "callsign": "Enewetak", "coord": ["11.340833", "162.327833"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
     "PKMJ": { "callsign": "Majuro", "coord": ["7.064981", "171.272031"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
