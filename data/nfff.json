@@ -1,0 +1,128 @@
+{
+  "airspace": [
+    {
+      "id": "Oceanic",
+      "group": "NFFF",
+      "owner": [
+        "NFFF"
+      ],
+      "sectors": [
+        {
+          "min": 245,
+          "points": [
+            ["-050000","1800000"],
+            ["033000","1800000"],
+            ["033000","1700000"],
+            ["-100000","1700000"],
+            ["-114800","1665230"],
+            ["-130001","1644539"],
+            ["-130000","1703000"],
+            ["-210000","1703000"],
+            ["-250000","1712460"],
+            ["-250000","1800000"]
+          ]
+        },
+        {
+          "min": 245,
+          "points": [
+            ["-050000","-1800000"],
+            ["-050000","-1710000"],
+            ["-140752","-1750131"],
+            ["-250000","-1800000"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Upper",
+      "group": "NVVV",
+      "owner": [
+        "NVVV",
+        "NFFF"
+      ],
+      "sectors": [
+        {
+          "min": 245,
+          "points": [
+            ["-140000","1630000"],
+            ["-130001","1644539"],
+            ["-130000","1703000"],
+            ["-210000","1703000"],
+            ["-140000","1630000"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Upper",
+      "group": "NWWW",
+      "owner": [
+        "NWWW",
+        "NFFF"
+      ],
+      "sectors": [
+        {
+          "min": 245,
+          "points": [
+            ["-140000","1630000"],
+            ["-140000","1611500"],
+            ["-174000","1630000"],
+            ["-300000","1630000"],
+            ["-280000","1680000"],
+            ["-250000","1712460"],
+            ["-210000","1703000"],
+            ["-140000","1630000"]
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "NFFF": {
+      "name": "Nadi",
+      "colour": "#ffffff"
+    },
+    "NVVV": {
+      "name": "Port Vila",
+      "colour": "#ffffff"
+    },
+    "NWWW": {
+      "name": "Noumea",
+      "colour": "#ffffff"
+    },
+    "APP": {
+      "name": "Approach",
+      "colour": "#ffffff"
+    },
+    "TWR": {
+      "name": "Tower",
+      "colour": "#ffffff"
+    }
+  },
+  "positions": {
+    "NFFF": { "colours": [{ "hex": "#9e039e" }], "pre": [ "NFFF" ], "type": "FSS","frequency": "123.600","callsign": "Nadi Radio" },
+    "NFFN": { "colours": [{ "hex": "#f002f0" }], "pre": [ "NFFN" ], "type": "CTR","frequency": "120.900","callsign": "Nadi Centre" },
+    "NVVV": { "colours": [{ "hex": "#e34b29" }], "pre": [ "NVVV" ], "type": "CTR","frequency": "120.700","callsign": "Vila Centre" },
+    "NWWW": { "colours": [{ "hex": "#702716" }], "pre": [ "NWWW" ], "type": "CTR","frequency": "128.200","callsign": "Tontoua Control" }
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance Delivery"
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Local"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure"
+    }
+  },
+  "airports": {
+
+  }
+}
