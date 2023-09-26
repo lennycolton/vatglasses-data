@@ -1,0 +1,12 @@
+{
+  "airspace": [],
+  "groups": {},
+  "positions": {
+    "SE": { "colours": [{ "hex": "#ffffff" }], "pre": ["SAM", "SAM-E"], "type": "FSS", "frequency": "134.150", "callsign": "South America Control"},
+    "SN": { "colours": [{ "hex": "#ffffff" }], "pre": ["SAM", "SAM-N"], "type": "FSS", "frequency": "134.250", "callsign": "South America Control"},
+    "SS": { "colours": [{ "hex": "#ffffff" }], "pre": ["SAM", "SAM-S"], "type": "FSS", "frequency": "134.700", "callsign": "South America Control" },
+    "SW": { "colours": [{ "hex": "#ffffff" }], "pre": ["SAM", "SAM-W"], "type": "FSS", "frequency": "134.050", "callsign": "South America Control" }
+  },
+  "callsigns": {},
+  "airports": {}
+}

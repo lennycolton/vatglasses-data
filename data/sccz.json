@@ -4,7 +4,8 @@
       "id": "Oceanic (Class G)",
       "group": "SCCZ",
       "owner": [
-        "CZ"
+        "CZ",
+        "sam/SW"
       ],
       "sectors": [
         {
@@ -17,7 +18,16 @@
             ["-900000","-0900000"],
             ["-900000","-0671600"]
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "Oceanic (Class G)",
+      "group": "SCCZ",
+      "owner": [
+        "CZ"
+      ],
+      "sectors": [
         {
           "max": 244,
           "points": [

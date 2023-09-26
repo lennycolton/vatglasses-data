@@ -6,7 +6,8 @@
       "owner": [
         "IZO",
         "scfz/FZN",
-        "scfz/FZS"
+        "scfz/FZS",
+        "sam/SW"
       ],
       "sectors": [
         {
@@ -27,7 +28,8 @@
       "owner": [
         "IZO",
         "scfz/FZS",
-        "scfz/FZN"
+        "scfz/FZN",
+        "sam/SW"
       ],
       "sectors": [
         {
@@ -49,7 +51,8 @@
       "owner": [
         "IZO",
         "scez/EZN",
-        "scez/EZS"
+        "scez/EZS",
+        "sam/SW"
       ],
       "sectors": [
         {
@@ -73,7 +76,8 @@
       "owner": [
         "IZO",
         "scez/EZS",
-        "scez/EZN"
+        "scez/EZN",
+        "sam/SW"
       ],
       "sectors": [
         {
@@ -96,7 +100,8 @@
       "owner": [
         "IZO",
         "sctz/TZN",
-        "sctz/TZS"
+        "sctz/TZS",
+        "sam/SW"
       ],
       "sectors": [
         {
@@ -117,7 +122,8 @@
       "owner": [
         "IZO",
         "sctz/TZS",
-        "sctz/TZN"
+        "sctz/TZN",
+        "sam/SW"
       ],
       "sectors": [
         {
@@ -136,7 +142,8 @@
       "group": "O",
       "owner": [
         "IZO",
-        "sccz/CZ"
+        "sccz/CZ",
+        "sam/SW"
       ],
       "sectors": [
         {
