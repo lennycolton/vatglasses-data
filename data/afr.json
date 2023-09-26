@@ -1,0 +1,12 @@
+{
+  "airspace": [],
+  "groups": {},
+  "positions": {
+    "AC": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRC"], "type": "FSS", "frequency": "129.075", "callsign": "Africa Central Control"},
+    "AN": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRN"], "type": "FSS", "frequency": "134.525", "callsign": "North Africa Control"},
+    "AS": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRS"], "type": "FSS", "frequency": "134.575", "callsign": "Africa South Control" },
+    "AW": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRW"], "type": "FSS", "frequency": "132.225", "callsign": "Africa West Control" }
+  },
+  "callsigns": {},
+  "airports": {}
+}
