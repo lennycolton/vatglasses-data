@@ -138,7 +138,7 @@
       "owner": [
         "CW",
         "ZAC",
-        "AS"
+        "afr/AS"
       ],
       "sectors": [
         {
@@ -267,7 +267,7 @@
         "CE",
         "CW",
         "ZAC",
-        "AS"
+        "afr/AS"
       ],
       "sectors": [
         {
@@ -626,7 +626,7 @@
         "JC",
         "JNE",
         "ZAC",
-        "AS"
+        "afr/AS"
       ],
       "sectors": [
         {
@@ -1023,7 +1023,7 @@
         "JC",
         "JNE",
         "ZAC",
-        "AS"
+        "afr/AS"
       ],
       "sectors": [
         {
@@ -1228,7 +1228,7 @@
         "JC",
         "JNE",
         "ZAC",
-        "AS"
+        "afr/AS"
       ],
       "sectors": [
         {
@@ -3200,7 +3200,7 @@
         "JNW",
         "JNE",
         "ZAC",
-        "AS"
+        "afr/AS"
       ],
       "sectors": [
         {
@@ -5448,7 +5448,7 @@
       "owner": [
         "JNE",
         "ZAC",
-        "AS"
+        "afr/AS"
       ],
       "sectors": [
         {
@@ -5769,7 +5769,7 @@
         "JSE",
         "JNE",
         "ZAC",
-        "AS"
+        "afr/AS"
       ],
       "sectors": [
         {
@@ -5844,7 +5844,7 @@
         "JSW",
         "JNE",
         "ZAC",
-        "AS"
+        "afr/AS"
       ],
       "sectors": [
         {
@@ -6605,7 +6605,7 @@
       ]
     },
     {
-      "id": "Cape Town (Approach)",
+      "id": "Cape Town",
       "group": "APS",
       "owner": [
         "CTA",
@@ -12149,7 +12149,7 @@
       ]
     },
     {
-      "id": "Low",
+      "id": "Low (Class G)",
       "group": "O",
       "owner": [
         "JO"
@@ -12186,10 +12186,10 @@
   ],
   "groups": {
     "C": {
-      "name": "Cape Town Area"
+      "name": "Cape Town"
     },
     "J": {
-      "name": "Johannesburg Area"
+      "name": "Johannesburg"
     },
     "O": {
       "name": "Johannesburg Oceanic"
@@ -12208,7 +12208,6 @@
     }
   },
   "positions": {
-    "AS": { "colours": [{ "hex": "#965793" }], "pre": [ "AFRS" ], "type": "FSS", "frequency": "134.575", "callsign": "Africa South Control" },
     "BET": { "pre": [ "FABE" ], "type": "TWR", "frequency": "120.600", "callsign": "Bhisho Tower" },
     "BLA": { "pre": [ "FABL" ], "type": "APP", "frequency": "124.300", "callsign": "Bloemfontein Approach" },
     "BLT": { "pre": [ "FABL" ], "type": "TWR", "frequency": "120.800", "callsign": "Bloemfontein Tower" },
