@@ -1076,7 +1076,7 @@
   },
   {
       "id": "GCCC-GCCC_CTR_OCE_1 (000-245)",
-      "group": "C",
+      "group": "CO",
       "owner": [
           "CCO",
           "CC"
@@ -1228,7 +1228,7 @@
   },
   {
       "id": "GCCC-GCCC_CTR_OCE_2 (000-245)",
-      "group": "C",
+      "group": "CO",
       "owner": [
           "CCO",
           "CC"
@@ -1250,7 +1250,7 @@
   },
   {
       "id": "GCCC-GCCC_CTR_OCE_3 (000-245)",
-      "group": "C",
+      "group": "CO",
       "owner": [
           "CCO",
           "CC"
@@ -1362,7 +1362,7 @@
   },
   {
       "id": "GCCC-GCCC_CTR_OCE_4 (245-660)",
-      "group": "C",
+      "group": "CO",
       "owner": [
           "CCO",
           "CC"
@@ -3727,6 +3727,10 @@
 "groups": {
   "C": {
     "name": "Canarias",
+    "colour": "#309df0"
+  },
+  "CO": {
+    "name": "Canarias Oceanic",
     "colour": "#309df0"
   },
   "TWR": {
