@@ -1,0 +1,81 @@
+{
+  "airspace": [
+    {
+      "id": "Oceanic North (Class G)",
+      "group": "SCTZ",
+      "owner": [
+        "TZN",
+        "TZS"
+      ],
+      "sectors": [
+        {
+          "max": 244,
+          "points": [
+            ["-401500","-0750000"],
+            ["-383000","-0735600"],
+            ["-383000","-0900000"],
+            ["-424500","-0900000"],
+            ["-424500","-0750000"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Oceanic South (Class G)",
+      "group": "SCTZ",
+      "owner": [
+        "TZS",
+        "TZN"
+      ],
+      "sectors": [
+        {
+          "max": 244,
+          "points": [
+            ["-424500","-0750000"],
+            ["-424500","-0900000"],
+            ["-470000","-0900000"],
+            ["-470000","-0750000"]
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "SCTZ": {
+      "name": "Puerto Montt",
+      "colour": "#ffffff"
+    },
+    "APP": {
+      "name": "Approach",
+      "colour": "#ffffff"
+    },
+    "TWR": {
+      "name": "Tower",
+      "colour": "#ffffff"
+    }
+  },
+  "positions": {
+    "TZN": { "colours": [{ "hex": "#deaf23" }], "pre": [ "SCTZ" ], "type": "CTR","frequency": "128.500","callsign": "Puerto Montt Radar" },
+    "TZS": { "colours": [{ "hex": "#ded123" }], "pre": [ "SCTZ" ], "type": "CTR","frequency": "128.300","callsign": "Puerto Montt Radar" }
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance Delivery"
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Local"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure"
+    }
+  },
+  "airports": {
+
+  }
+}

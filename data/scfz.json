@@ -1,0 +1,83 @@
+{
+  "airspace": [
+    {
+      "id": "Oceanic North (Class G)",
+      "group": "SCFZ",
+      "owner": [
+        "FZN",
+        "FZS"
+      ],
+      "sectors": [
+        {
+          "max": 244,
+          "points": [
+            ["-195233","-0711105"],
+            ["-232625","-0713140"],
+            ["-232625","-0900000"],
+            ["-182100","-0900000"],
+            ["-182100","-0710230"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Oceanic South (Class G)",
+      "group": "SCFZ",
+      "owner": [
+        "FZS",
+        "FZN"
+      ],
+      "sectors": [
+        {
+          "max": 244,
+          "points": [
+            ["-250352","-0723006"],
+            ["-283000","-0714600"],
+            ["-283000","-0715500"],
+            ["-283000","-0900000"],
+            ["-232625","-0900000"],
+            ["-232625","-0713140"]
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "SCFZ": {
+      "name": "Iquique",
+      "colour": "#ffffff"
+    },
+    "APP": {
+      "name": "Approach",
+      "colour": "#ffffff"
+    },
+    "TWR": {
+      "name": "Tower",
+      "colour": "#ffffff"
+    }
+  },
+  "positions": {
+    "FZN": { "colours": [{ "hex": "#3063f0" }], "pre": [ "SCFZ" ], "type": "CTR","frequency": "128.700","callsign": "Iquique Radar" },
+    "FZS": { "colours": [{ "hex": "#309df0" }], "pre": [ "SCFZ" ], "type": "CTR","frequency": "128.300","callsign": "Iquique Radar" }
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance Delivery"
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Local"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure"
+    }
+  },
+  "airports": {
+
+  }
+}
