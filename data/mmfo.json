@@ -25,15 +25,15 @@
   ],
   "groups": {
     "MMFO": {
-      "Name": "Mazatlan Oceanic",
+      "name": "Mazatlan Oceanic",
       "colour": "#ffffff"
     },
     "TMA": {
-      "Name": "TMA",
+      "name": "TMA",
       "colour": "#ffffff"
     },
     "TWR": {
-      "Name": "Tower",
+      "name": "Tower",
       "colour": "#ffffff"
     }
   },
