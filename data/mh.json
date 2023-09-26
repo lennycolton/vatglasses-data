@@ -1,0 +1,88 @@
+{
+  "airspace": [
+    {
+      "id": "Sector 1 (Oceanic)",
+      "group": "MHCC",
+      "owner": [
+        "C1A",
+        "C2A"
+      ],
+      "sectors": [
+        {
+          "points": [
+            ["133002","-0940655"],
+            ["130000","-0950000"],
+            ["125902","-0950608"],
+            ["113824","-0993517"],
+            ["113000","-1000000"],
+            ["100000","-1043000"],
+            ["012500","-0920000"],
+            ["012500","-0920000"],
+            ["035223","-0910157"],
+            ["102905","-0892925"],
+            ["102905","-0892925"],
+            ["133002","-0940655"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Sector 2 (Oceanic)",
+      "group": "MHCC",
+      "owner": [
+        "C2A"
+      ],
+      "sectors": [
+        {
+          "points": [
+            ["102905","-0892925"],
+            ["035223","-0910157"],
+            ["012500","-0920000"],
+            ["061141","-0825436"],
+            ["043226","-0825505"],
+            ["082211","-0861452"],
+            ["102905","-0892925"]
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MHCC": {
+      "name": "Cenamer",
+      "colour": "#ffffff"
+    },
+    "APP": {
+      "name": "Approach",
+      "colour": "#ffffff"
+    },
+    "TWR": {
+      "name": "Tower",
+      "colour": "#ffffff"
+    }
+  },
+  "positions": {
+    "C1A": { "colours": [{ "hex": "#309df0" }], "pre": [ "MHCC" ], "type": "CTR","frequency": "123.900","callsign": "Cenamer Center" }, 
+    "C2A": { "colours": [{ "hex": "#3063f0" }], "pre": [ "MHCC" ], "type": "CTR","frequency": "124.100","callsign": "Cenamer Center" }
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance Delivery"
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Tower"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure"
+    }
+  },
+  "airports": {
+
+  }
+}
