@@ -1,0 +1,63 @@
+{
+  "airspace": [
+    {
+      "id": "High",
+      "group": "GVSC",
+      "owner": [
+          "VS",
+          "afr/AW"
+      ],
+      "sectors": [
+          {
+              "min": 245,
+              "points": [
+                ["240000","-0250000"],
+                ["210107","-0211949"],
+                ["200000","-0200000"],
+                ["150000","-0200000"],
+                ["125800","-0212200"],
+                ["170000","-0373000"],
+                ["240000","-0250000"]
+              ]
+          }
+      ]
+    }
+  ],
+  "groups": {
+    "GVSC": {
+      "name": "Sal",
+      "colour": "#ffffff"
+    },
+    "APP": {
+      "name": "Approach",
+      "colour": "#ffffff"
+    },
+    "TWR": {
+      "name": "Tower",
+      "colour": "#ffffff"
+    }
+  },
+  "positions": {
+    "VS": {"callsign": "Sal Control", "frequency": "127.100", "type": "CTR", "pre": ["GVSC"], "colours": [{"hex": "#538c00"}]}
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance Delivery"
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Tower"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure"
+    }
+  },
+  "airports": {
+
+  }
+}
