@@ -28947,8 +28947,6 @@
     "NSF": { "pre": [ "EGNS" ], "type": "APP","frequency": "125.300","callsign": "Ronaldsway Radar" },
     "NST": { "pre": [ "EGNS" ], "type": "TWR","frequency": "118.900","callsign": "Ronaldsway Tower" },
     "NSA": { "pre": [ "EGNS" ], "type": "APP","frequency": "135.900","callsign": "Ronaldsway Approach" },
-    "FHSHR": { "pre": [ "FHSH" ], "type": "APP","frequency": "119.500","callsign": "Saint Helena Approach" },
-    "FHSHT": { "pre": [ "FHSH" ], "type": "TWR","frequency": "118.200","callsign": "Saint Helena Tower" },
     "SOL": { "pre": [ "EGHI","SOLENT","SOL" ], "type": "APP","frequency": "120.225","callsign": "Solent Radar" },
     "HIR": { "pre": [ "EGHI" ], "type": "APP","frequency": "122.725","callsign": "Southampton Radar" },
     "HIT": { "pre": [ "EGHI" ], "type": "TWR","frequency": "118.200","callsign": "Southampton Tower" },
@@ -30536,18 +30534,6 @@
             "": "Approach"
         }
       }
-    },
-    "FHSH": {
-      "callsign": "Saint Helena",
-      "coord": [
-        -15.959,
-        -5.646
-        ],  
-        "end": {
-          "APP": {
-              "": "Approach"
-          }
-        }
     },
     "LCRA": {
       "callsign": "Akrotiri",
