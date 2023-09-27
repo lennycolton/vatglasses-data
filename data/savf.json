@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-      "id": "Oceanic (Class G)",
+      "id": "Oceanic (Class G, Airways Class A)",
       "group": "SAVF",
       "owner": [
         "CMO",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "id": "Oceanic (Class G)",
+      "id": "Oceanic (Class G, Airways Class B/C)",
       "group": "SAVF",
       "owner": [
         "CMO"

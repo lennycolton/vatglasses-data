@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-        "id": "Middle",
+        "id": "Middle (Class A)",
         "group": "FNANO",
         "owner": [
             "NA"
@@ -158,7 +158,7 @@
         ]
     },
     {
-        "id": "High",
+        "id": "High (Class A)",
         "group": "FNANO",
         "owner": [
             "NA",

@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-      "id": "Iquique North",
+      "id": "Iquique North (Class A)",
       "group": "O",
       "owner": [
         "IZO",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "id": "Iquique South",
+      "id": "Iquique South (Class A)",
       "group": "O",
       "owner": [
         "IZO",
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "id": "Santiago North",
+      "id": "Santiago North (Class A)",
       "group": "O",
       "owner": [
         "IZO",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "id": "Santiago South",
+      "id": "Santiago South (Class A)",
       "group": "O",
       "owner": [
         "IZO",
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "id": "Puerto Montt North",
+      "id": "Puerto Montt North (Class A)",
       "group": "O",
       "owner": [
         "IZO",
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "id": "Puerto Montt South",
+      "id": "Puerto Montt South (Class A)",
       "group": "O",
       "owner": [
         "IZO",
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "id": "Punta Arenas",
+      "id": "Punta Arenas (Class A)",
       "group": "O",
       "owner": [
         "IZO",
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "id": "Isla de Pascua",
+      "id": "Isla de Pascua (Class A)",
       "group": "O",
       "owner": [
         "IZO"

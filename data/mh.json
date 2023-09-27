@@ -1,8 +1,8 @@
 {
   "airspace": [
     {
-      "id": "Sector 1 (Oceanic)",
-      "group": "MHCC",
+      "id": "Sector 1 (Class A)",
+      "group": "MHCO",
       "owner": [
         "C1A",
         "C2A"
@@ -27,8 +27,8 @@
       ]
     },
     {
-      "id": "Sector 2 (Oceanic)",
-      "group": "MHCC",
+      "id": "Sector 2 (Class A)",
+      "group": "MHCO",
       "owner": [
         "C2A"
       ],
@@ -50,8 +50,8 @@
     }
   ],
   "groups": {
-    "MHCC": {
-      "name": "Cenamer",
+    "MHCO": {
+      "name": "Cenamer Oceanic",
       "colour": "#ffffff"
     },
     "APP": {

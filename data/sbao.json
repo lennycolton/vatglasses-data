@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-        "id": "Sector 3C",
+        "id": "Sector 3C (Class A)",
         "group": "SBAO",
         "owner": [
             "3C",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "id": "Sector 3B West",
+        "id": "Sector 3B West (Class A)",
         "group": "SBAO",
         "owner": [
             "3BW",
@@ -73,7 +73,7 @@
         ]
     },
     {
-        "id": "Sector 3B North",
+        "id": "Sector 3B North (Class A)",
         "group": "SBAO",
         "owner": [
             "3BN",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "id": "Sector 3B East",
+        "id": "Sector 3B East (Class A)",
         "group": "SBAO",
         "owner": [
             "3BE",
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "id": "Sector 2C",
+        "id": "Sector 2C (Class A)",
         "group": "SBAO",
         "owner": [
             "AO2",
@@ -171,7 +171,7 @@
         ]
     },
     {
-        "id": "Sector 2B",
+        "id": "Sector 2B (Class A)",
         "group": "SBAO",
         "owner": [
             "AO2",
@@ -201,7 +201,7 @@
         ]
     },
     {
-        "id": "Sector 2A",
+        "id": "Sector 2A (Class A)",
         "group": "SBAO",
         "owner": [
             "AO2",
@@ -228,7 +228,7 @@
         ]
     },
     {
-        "id": "Sector 1C",
+        "id": "Sector 1C (Class A)",
         "group": "SBAO",
         "owner": [
             "AO"
@@ -253,7 +253,7 @@
         ]
     },
     {
-        "id": "Sector 1B",
+        "id": "Sector 1B (Class A)",
         "group": "SBAO",
         "owner": [
             "AO"
@@ -282,7 +282,7 @@
         ]
     },
     {
-        "id": "Sector 1A",
+        "id": "Sector 1A (Class A)",
         "group": "SBAO",
         "owner": [
             "AO"
