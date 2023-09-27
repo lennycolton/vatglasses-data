@@ -203,7 +203,7 @@
     {
       "id": "East Lower",
       "group": "LCCC",
-      "owner": ["NC7", "NC4", "NC1", "euro/ESE"],
+      "owner": ["NC7", "NC4", "NC1", "euc/ESE"],
       "sectors": [
         {
           "min": 245,
@@ -321,7 +321,7 @@
     {
       "id": "East",
       "group": "LCCC",
-      "owner": ["NC4", "NC1", "euro/ESE"],
+      "owner": ["NC4", "NC1", "euc/ESE"],
       "sectors": [
         {
           "min": 245,
@@ -358,7 +358,7 @@
     {
       "id": "East",
       "group": "LCCC",
-      "owner": ["NC4", "NC1", "euro/ESE"],
+      "owner": ["NC4", "NC1", "euc/ESE"],
       "sectors": [
         {
           "min": 305,
@@ -468,7 +468,7 @@
     {
       "id": "South 2",
       "group": "LCCC",
-      "owner": ["NC5", "NC2", "NC1", "euro/ESE"],
+      "owner": ["NC5", "NC2", "NC1", "euc/ESE"],
       "sectors": [
         {
           "min": 245,
@@ -555,7 +555,7 @@
     {
       "id": "South 1",
       "group": "LCCC",
-      "owner": ["NC2", "NC1", "euro/ESE"],
+      "owner": ["NC2", "NC1", "euc/ESE"],
       "sectors": [
         {
           "min": 245,
@@ -739,7 +739,7 @@
     {
       "id": "West Lower",
       "group": "LCCC",
-      "owner": ["NC6", "NC3", "NC1", "euro/ESE"],
+      "owner": ["NC6", "NC3", "NC1", "euc/ESE"],
       "sectors": [
         {
           "min": 245,
@@ -771,7 +771,7 @@
     {
       "id": "West",
       "group": "LCCC",
-      "owner": ["NC3", "NC1", "euro/ESE"],
+      "owner": ["NC3", "NC1", "euc/ESE"],
       "sectors": [
         {
           "min": 325,

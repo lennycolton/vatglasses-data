@@ -349,10 +349,10 @@
             "group": "ACC",
             "owner": [
                 "UU",
-                "romania/NAP",
-                "romania/ARG",
-                "romania/LOM",
-                "euro/ESW"
+                "lr/NAP",
+                "lr/ARG",
+                "lr/LOM",
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -548,11 +548,11 @@
             "group": "ACC",
             "owner": [
                 "UU",
-                "romania/LRUP",
-                "romania/NAP",
-                "romania/ARG",
-                "romania/LOM",
-                "euro/ESW"
+                "lr/LRUP",
+                "lr/NAP",
+                "lr/ARG",
+                "lr/LOM",
+                "euc/ESW"
             ],
             "sectors": [
                 {

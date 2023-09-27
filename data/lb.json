@@ -320,7 +320,7 @@
       {
         "id": "SA",
         "group": "LBSR",
-        "owner": ["SOF", "euro/ESW"],
+        "owner": ["SOF", "euc/ESW"],
         "sectors": [
           {
             "min": 245,
@@ -691,7 +691,7 @@
       {
         "id": "SB",
         "group": "LBSR",
-        "owner": ["SES", "SOF", "euro/ESW"],
+        "owner": ["SES", "SOF", "euc/ESW"],
         "sectors": [
           {
             "min": 245,
@@ -1089,7 +1089,7 @@
       {
         "id": "SC",
         "group": "LBSR",
-        "owner": ["SOF", "euro/ESW"],
+        "owner": ["SOF", "euc/ESW"],
         "sectors": [
           {
             "min": 245,
@@ -1370,7 +1370,7 @@
       {
         "id": "SD",
         "group": "LBSR",
-        "owner": ["SES", "SOF", "euro/ESW"],
+        "owner": ["SES", "SOF", "euc/ESW"],
         "sectors": [
           {
             "min": 245,
@@ -1482,7 +1482,7 @@
       {
         "id": "SE",
         "group": "LBSR",
-        "owner": ["SES", "SOF", "euro/ESW"],
+        "owner": ["SES", "SOF", "euc/ESW"],
         "sectors": [
           {
             "min": 245,
@@ -1578,7 +1578,7 @@
       {
         "id": "SF",
         "group": "LBSR",
-        "owner": ["SES", "SOF", "euro/ESW"],
+        "owner": ["SES", "SOF", "euc/ESW"],
         "sectors": [
           {
             "min": 245,
@@ -1924,7 +1924,7 @@
       {
         "id": "VA",
         "group": "LBSR",
-        "owner": ["VAR", "SOF", "euro/ESW"],
+        "owner": ["VAR", "SOF", "euc/ESW"],
         "sectors": [
           {
             "min": 245,
@@ -2101,7 +2101,7 @@
       {
         "id": "VB",
         "group": "LBSR",
-        "owner": ["BSS", "VAR", "SOF", "euro/ESW"],
+        "owner": ["BSS", "VAR", "SOF", "euc/ESW"],
         "sectors": [
           {
             "min": 245,
@@ -2211,7 +2211,7 @@
       {
         "id": "VC",
         "group": "LBSR",
-        "owner": ["VAR", "SOF", "euro/ESW"],
+        "owner": ["VAR", "SOF", "euc/ESW"],
         "sectors": [
           {
             "min": 245,
@@ -2322,7 +2322,7 @@
       {
         "id": "VD",
         "group": "LBSR",
-        "owner": ["BSS", "VAR", "SOF", "euro/ESW"],
+        "owner": ["BSS", "VAR", "SOF", "euc/ESW"],
         "sectors": [
           {
             "min": 245,

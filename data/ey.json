@@ -919,7 +919,7 @@
             "group": "ACC",
             "owner": [
                 "EY",
-                "euro/EN"
+                "euc/EN"
             ],
             "sectors": [
                 {
@@ -1643,7 +1643,7 @@
             "owner": [
                 "EYE",
                 "EY",
-                "euro/EN"
+                "euc/EN"
             ],
             "sectors": [
                 {
@@ -2068,7 +2068,7 @@
             "owner": [
                 "EYE",
                 "EY",
-                "euro/EN"
+                "euc/EN"
             ],
             "sectors": [
                 {

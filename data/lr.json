@@ -2083,7 +2083,7 @@
             "owner": [
                 "ARG",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -2173,7 +2173,7 @@
                 "LRUP",
                 "ARG",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -2446,7 +2446,7 @@
             "owner": [
                 "ARG",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -2514,7 +2514,7 @@
                 "LRUP",
                 "ARG",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -2677,7 +2677,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -2774,7 +2774,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -3038,7 +3038,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -3113,7 +3113,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -3480,7 +3480,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -3607,7 +3607,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -3955,7 +3955,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -4100,7 +4100,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -4320,7 +4320,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -4357,7 +4357,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -4899,7 +4899,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -5154,7 +5154,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -5802,7 +5802,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {
@@ -5913,7 +5913,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "euro/ESW"
+                "euc/ESW"
             ],
             "sectors": [
                 {

@@ -10,7 +10,7 @@
 					"LHCC_K_CTR",
 					"LHCC_U_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -97,7 +97,7 @@
 					"LHCC_K_CTR",
 					"LHCC_U_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -185,7 +185,7 @@
 					"LHCC_K_CTR",
 					"LHCC_U_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -271,7 +271,7 @@
 					"LHCC_K_CTR",
 					"LHCC_U_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -355,7 +355,7 @@
 				"group":"ACC",
 				"owner":[
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -498,7 +498,7 @@
 				"group":"ACC",
 				"owner":[
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -1004,7 +1004,7 @@
 					"LHCC_K_CTR",
 					"LHCC_U_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -1086,7 +1086,7 @@
 					"LHCC_K_CTR",
 					"LHCC_U_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -1169,7 +1169,7 @@
 					"LHCC_K_CTR",
 					"LHCC_U_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -1250,7 +1250,7 @@
 					"LHCC_K_CTR",
 					"LHCC_U_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -1926,7 +1926,7 @@
 					"LHCC_U_CTR",
 					"LHCC_W_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -2064,7 +2064,7 @@
 					"LHCC_U_CTR",
 					"LHCC_W_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -2203,7 +2203,7 @@
 					"LHCC_U_CTR",
 					"LHCC_W_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -2341,7 +2341,7 @@
 					"LHCC_U_CTR",
 					"LHCC_W_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -2478,7 +2478,7 @@
 				"owner":[
 					"LHCC_W_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{
@@ -2615,7 +2615,7 @@
 				"owner":[
 					"LHCC_W_CTR",
 					"LHCC_CTR",
-					"euro/EEN"
+					"euc/EEN"
 				],
 				"sectors":[
 					{

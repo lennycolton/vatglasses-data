@@ -67,7 +67,7 @@
     {
       "id": "Riga A",
       "group": "APP",
-      "owner": ["RA", "RCE", "RC", "euro/EN"],
+      "owner": ["RA", "RCE", "RC", "euc/EN"],
       "sectors": [
         {
           "min": 245,
@@ -1040,7 +1040,7 @@
     {
       "id": "East",
       "group": "EVRR",
-      "owner": ["RCE", "RC", "euro/EN"],
+      "owner": ["RCE", "RC", "euc/EN"],
       "sectors": [
         {
           "min": 245,
@@ -1412,7 +1412,7 @@
     {
       "id": "East",
       "group": "EVRR",
-      "owner": ["RCE", "RC", "euro/EN"],
+      "owner": ["RCE", "RC", "euc/EN"],
       "sectors": [
         {
           "min": 285,
@@ -1968,7 +1968,7 @@
     {
       "id": "North",
       "group": "EVRR",
-      "owner": ["RCN", "RCW", "RC", "euro/EN"],
+      "owner": ["RCN", "RCW", "RC", "euc/EN"],
       "sectors": [
         {
           "min": 245,
@@ -2115,7 +2115,7 @@
     {
       "id": "South",
       "group": "EVRR",
-      "owner": ["RCS", "RCW", "RC", "euro/EN"],
+      "owner": ["RCS", "RCW", "RC", "euc/EN"],
       "sectors": [
         {
           "min": 245,

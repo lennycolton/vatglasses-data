@@ -1362,7 +1362,7 @@
 		}, {
 			"id": "E1",
 			"group": "EETT",
-			"owner": ["E", "S", "W", "N", "euro/EN"],
+			"owner": ["E", "S", "W", "N", "euc/EN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -1732,7 +1732,7 @@
 		}, {
 			"id": "E2",
 			"group": "EETT",
-			"owner": ["S", "E", "W", "N", "euro/EN"],
+			"owner": ["S", "E", "W", "N", "euc/EN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -1871,7 +1871,7 @@
 		}, {
 			"id": "W11",
 			"group": "EETT",
-			"owner": ["W", "N", "E", "S", "euro/EN"],
+			"owner": ["W", "N", "E", "S", "euc/EN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -1931,7 +1931,7 @@
 		}, {
 			"id": "W12",
 			"group": "EETT",
-			"owner": ["N", "W", "E", "S", "euro/EN"],
+			"owner": ["N", "W", "E", "S", "euc/EN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -2002,7 +2002,7 @@
 		}, {
 			"id": "W21",
 			"group": "EETT",
-			"owner": ["N", "W", "E", "S", "euro/EN"],
+			"owner": ["N", "W", "E", "S", "euc/EN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -2090,7 +2090,7 @@
 		}, {
 			"id": "W23",
 			"group": "EETT",
-			"owner": ["N", "W", "E", "S", "euro/EN"],
+			"owner": ["N", "W", "E", "S", "euc/EN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -2159,7 +2159,7 @@
 		}, {
 			"id": "W31",
 			"group": "EETT",
-			"owner": ["W", "N", "E", "S", "euro/EN"],
+			"owner": ["W", "N", "E", "S", "euc/EN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -2247,7 +2247,7 @@
 		}, {
 			"id": "W32",
 			"group": "EETT",
-			"owner": ["W", "N", "E", "S", "euro/EN"],
+			"owner": ["W", "N", "E", "S", "euc/EN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,

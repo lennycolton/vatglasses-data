@@ -716,7 +716,7 @@
     },{
         "id": "EFHK TMA UPPER",
         "group": "APC",
-        "owner": ["RE", "RW", "AE", "AW", "A", "D", "C", "euro/EN"],
+        "owner": ["RE", "RW", "AE", "AW", "A", "D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "max": 284,
@@ -1085,7 +1085,7 @@
     },{
         "id": "A",
         "group": "ACC",
-        "owner": ["A", "D", "C", "euro/EN"],
+        "owner": ["A", "D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "max": 284,
@@ -1143,7 +1143,7 @@
     },{
         "id": "B",
         "group": "ACC",
-        "owner": ["B","C", "D", "euro/EN"],
+        "owner": ["B","C", "D", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -1174,7 +1174,7 @@
     },{
         "id": "C",
         "group": "ACC",
-        "owner": ["C", "D", "euro/EN"],
+        "owner": ["C", "D", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -1205,7 +1205,7 @@
     },{
         "id": "D",
         "group": "ACC",
-        "owner": ["D", "C", "euro/EN"],
+        "owner": ["D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -1244,7 +1244,7 @@
     },{
         "id": "E",
         "group": "ACC",
-        "owner": ["E", "F", "D", "C", "euro/EN"],
+        "owner": ["E", "F", "D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -1297,7 +1297,7 @@
     },{
         "id": "F",
         "group": "ACC",
-        "owner": ["F", "D", "C", "euro/EN"],
+        "owner": ["F", "D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -1360,7 +1360,7 @@
     },{
         "id": "G",
         "group": "ACC",
-        "owner": ["G", "F", "D", "C", "euro/EN"],
+        "owner": ["G", "F", "D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -1431,7 +1431,7 @@
     },{
         "id": "H",
         "group": "ACC",
-        "owner": ["H", "V", "M", "G", "F", "D", "euro/EN"],
+        "owner": ["H", "V", "M", "G", "F", "D", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -1534,7 +1534,7 @@
     },{
         "id": "J",
         "group": "ACC",
-        "owner": ["J", "H", "V", "M", "G", "F", "D", "euro/EN"],
+        "owner": ["J", "H", "V", "M", "G", "F", "D", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -1847,7 +1847,7 @@
     },{
         "id": "K",
         "group": "ACC",
-        "owner": ["K", "M", "G", "F", "D", "C", "euro/EN"],
+        "owner": ["K", "M", "G", "F", "D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -1884,7 +1884,7 @@
     },{
         "id": "L",
         "group": "ACC",
-        "owner": ["L", "N", "M", "G", "F", "D", "C", "euro/EN"],
+        "owner": ["L", "N", "M", "G", "F", "D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -1949,7 +1949,7 @@
     },{
         "id": "M",
         "group": "ACC",
-        "owner": ["M", "G", "F", "D", "C", "euro/EN"],
+        "owner": ["M", "G", "F", "D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -2002,7 +2002,7 @@
     },{
         "id": "N",
         "group": "ACC",
-        "owner": ["N", "M", "G", "F", "D", "C", "euro/EN"],
+        "owner": ["N", "M", "G", "F", "D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
@@ -2099,7 +2099,7 @@
     },{
         "id": "V",
         "group": "ACC",
-        "owner": ["V", "M", "G", "F", "D", "C", "euro/EN"],
+        "owner": ["V", "M", "G", "F", "D", "C", "euc/EN"],
         "sectors": [{
             "min": 245,
             "points": [
