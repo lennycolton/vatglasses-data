@@ -1,0 +1,119 @@
+{
+  "airspace": [
+    {
+      "id": "Oceanic (Class G)",
+      "group": "SUEO",
+      "owner": [
+        "SUEO",
+        "sam/SS"
+      ],
+      "sectors": [
+        {
+          "min": 245,
+          "points": [
+            ["-340000","-0513320"],
+            ["-340000","-0420000"],
+            ["-400000","-0450000"],
+            ["-364530","-0531147"],
+            ["-340000","-0513320"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Oceanic (Class G)",
+      "group": "SUEO",
+      "owner": [
+        "SUEO"
+      ],
+      "sectors": [
+        {
+          "max": 244,
+          "points": [
+            ["-340000","-0513320"],
+            ["-340000","-0420000"],
+            ["-400000","-0450000"],
+            ["-364530","-0531147"],
+            ["-340000","-0513320"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Eastern (Class G)",
+      "group": "SUEO",
+      "owner": [
+        "SUEO",
+        "sam/SS"
+      ],
+      "sectors": [
+        {
+          "min": 245,
+          "points": [
+            ["-340000","-0420000"],
+            ["-340000","-0100000"],
+            ["-390000","-0100000"],
+            ["-390000","-0443000"],
+            ["-340000","-0420000"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Eastern (Class G)",
+      "group": "SUEO",
+      "owner": [
+        "SUEO"
+      ],
+      "sectors": [
+        {
+          "max": 244,
+          "points": [
+            ["-340000","-0420000"],
+            ["-340000","-0100000"],
+            ["-390000","-0100000"],
+            ["-390000","-0443000"],
+            ["-340000","-0420000"]
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "SUEO": {
+      "name": "Montevideo",
+      "colour": "#ffffff"
+    },
+    "APP": {
+      "name": "Approach",
+      "colour": "#ffffff"
+    },
+    "TWR": {
+      "name": "Tower",
+      "colour": "#ffffff"
+    }
+  },
+  "positions": {
+    "SUEO": { "colours": [{ "hex": "#c941f5" }], "pre": [ "SUEO" ], "type": "CTR","frequency": "128.500","callsign": "Montevideo Control" }
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance Delivery"
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Tower"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure"
+    }
+  },
+  "airports": {
+
+  }
+}

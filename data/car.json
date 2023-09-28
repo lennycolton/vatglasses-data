@@ -1,0 +1,11 @@
+{
+  "airspace": [],
+  "groups": {},
+  "positions": {
+    "CE": { "colours": [{ "hex": "#ffffff" }], "pre": ["CARE"], "type": "FSS", "frequency": "131.500", "callsign": "Caribe Control"},
+    "CI": { "colours": [{ "hex": "#ffffff" }], "pre": ["CARI"], "type": "FSS", "frequency": "131.300", "callsign": "Caribe Control"},
+    "CW": { "colours": [{ "hex": "#ffffff" }], "pre": ["CARW"], "type": "FSS", "frequency": "131.700", "callsign": "Caribe Control" }
+  },
+  "callsigns": {},
+  "airports": {}
+}

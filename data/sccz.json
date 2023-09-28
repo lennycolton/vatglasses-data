@@ -1,0 +1,85 @@
+{
+  "airspace": [
+    {
+      "id": "Oceanic (Class G)",
+      "group": "SCCZ",
+      "owner": [
+        "CZ",
+        "sam/SW"
+      ],
+      "sectors": [
+        {
+          "min": 245,
+          "points": [
+            ["-600000","-0671600"],
+            ["-600000","-0750000"],
+            ["-750000","-0750000"],
+            ["-750000","-0900000"],
+            ["-900000","-0900000"],
+            ["-900000","-0671600"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Oceanic (Class G)",
+      "group": "SCCZ",
+      "owner": [
+        "CZ"
+      ],
+      "sectors": [
+        {
+          "max": 244,
+          "points": [
+            ["-600000","-0671600"],
+            ["-600000","-0750000"],
+            ["-470000","-0750000"],
+            ["-470000","-0900000"],
+            ["-600000","-0900000"],
+            ["-600000","-1310000"],
+            ["-900000","-1310000"],
+            ["-900000","-0900000"],
+            ["-900000","-0671600"]
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "SCCZ": {
+      "name": "Punta Arenas",
+      "colour": "#ffffff"
+    },
+    "APP": {
+      "name": "Approach",
+      "colour": "#ffffff"
+    },
+    "TWR": {
+      "name": "Tower",
+      "colour": "#ffffff"
+    }
+  },
+  "positions": {
+    "CZ": { "colours": [{ "hex": "#e54a89" }], "pre": [ "SCCZ" ], "type": "CTR","frequency": "128.100","callsign": "Punta Arenas Radar" }
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance Delivery"
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Tower"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure"
+    }
+  },
+  "airports": {
+
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "airspace": [
+    {
+      "id": "Uncontrolled",
+      "group": "MMFO",
+      "owner": [],
+      "sectors": [
+        {
+          "points": [
+            ["300000","-1200000"],
+            ["275516","-1172949"],
+            ["241758","-1132607"],
+            ["212045","-1103420"],
+            ["181326","-1074545"],
+            ["161100","-1060000"],
+            ["152008","-1051656"],
+            ["150000","-1050000"],
+            ["113000","-1000000"],
+            ["100000","-1043000"],
+            ["050000","-1200000"]
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "MMFO": {
+      "name": "Mazatlan Oceanic",
+      "colour": "#ffffff"
+    },
+    "TMA": {
+      "name": "TMA",
+      "colour": "#ffffff"
+    },
+    "TWR": {
+      "name": "Tower",
+      "colour": "#ffffff"
+    }
+  },
+  "positions": {
+
+  },
+  "callsigns": {
+    "DEL": { "": "Delivery"},
+    "GND": { "": "Ground"},
+    "TWR": { "": "Tower"},
+    "APP": { "": "Approach"},
+    "DEP": { "": "Departure"}
+  },
+  "airports": {
+
+  }
+}
