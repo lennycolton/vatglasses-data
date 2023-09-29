@@ -65,7 +65,7 @@
   },
   "positions": {
     "C1A": { "colours": [{ "hex": "#309df0" }], "pre": [ "MHCC" ], "type": "CTR","frequency": "123.900","callsign": "Cenamer Center" }, 
-    "C2A": { "colours": [{ "hex": "#3063f0" }], "pre": [ "MHCC" ], "type": "CTR","frequency": "124.100","callsign": "Cenamer Center" }
+    "C2A": { "colours": [{ "hex": "#3063f0" }], "pre": [ "MHCC" ], "type": "CTR","frequency": "135.500","callsign": "Cenamer Center" }
   },
   "callsigns": {
     "DEL": {
