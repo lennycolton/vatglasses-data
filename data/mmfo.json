@@ -1,9 +1,11 @@
 {
   "airspace": [
     {
-      "id": "Uncontrolled",
+      "id": "FIR (Class G)",
       "group": "MMFO",
-      "owner": [],
+      "owner": [
+        "MMFO"
+      ],
       "sectors": [
         {
           "points": [
@@ -38,7 +40,7 @@
     }
   },
   "positions": {
-
+    "MMFO":{ "callsign": "Mazatlan Radio", "frequency": "133.550", "type": "FSS", "pre": [ "MMZT" ], "colours": [{ "hex": "#7C0B2B" }]}
   },
   "callsigns": {
     "DEL": { "": "Delivery"},
