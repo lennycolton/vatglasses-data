@@ -2321,8 +2321,6 @@
     "PTRO": { "callsign": "Koror", "coord": ["7.367222", "134.544167"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
     "PTSA": { "callsign": "Kosrae", "coord": ["5.356975", "162.958386"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
     "PTYA": { "callsign": "Yap", "coord": ["9.498889", "138.0825"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PWAK": { "callsign": "Wake Island Airfld", "coord": ["19.28", "166.641667"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PWBB": { "callsign": "Stebbins", "coord": ["63.515972", "-162.278"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PWSM": { "callsign": "Wiseman", "coord": ["67.405107", "-150.120878"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] }
+    "PWAK": { "callsign": "Wake Island Airfld", "coord": ["19.28", "166.641667"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] }
   }
 }
