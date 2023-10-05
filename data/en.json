@@ -35547,8 +35547,8 @@
       ]
     },
     {
-      "id": "ENOB OFIR",
-      "group": "Polaris FIR",
+      "id": "ENOB",
+      "group": "ENOB",
       "owner": [
         "R6"
       ],
@@ -95077,19 +95077,10 @@
   ],
   "groups": {
     "Polaris FIR": {
-      "name": "Polaris FIR"
-    },
-    "ENOS": {
-      "name": "Oslo ACC"
-    },
-    "ENSV": {
-      "name": "Stavanger ACC"
-    },
-    "ENBD": {
-      "name": "Bodø ACC"
+      "name": "Polaris"
     },
     "ENOB": {
-      "name": "Bodø OFIR"
+      "name": "Bodø Oceanic"
     },
     "APP": {
       "name": "Approach"
