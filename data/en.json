@@ -513,6 +513,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
+        "10R",
         "15R",
         "17R",
         "9R",
@@ -900,6 +901,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
+        "10R",
         "15R",
         "17R",
         "9R",
@@ -1165,12 +1167,10 @@
         "ALT",
         "QR",
         "QD",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -1212,7 +1212,7 @@
       "owner": [
         "ANT",
         "AN",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -1251,7 +1251,7 @@
       "group": "Polaris FIR",
       "owner": [
         "AT",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -1306,8 +1306,7 @@
       "group": "Polaris FIR",
       "owner": [
         "BLT",
-        "RS",
-        "RC",
+        "RCS",
         "17R",
         "9R",
         "13R",
@@ -1345,7 +1344,7 @@
       "owner": [
         "BNI",
         "HR",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -1389,7 +1388,7 @@
       "owner": [
         "BOT",
         "BO",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "26R",
@@ -1436,8 +1435,7 @@
         "D",
         "BWR",
         "BER",
-        "RS",
-        "RC",
+        "RCS",
         "14R",
         "13R",
         "17R",
@@ -1495,7 +1493,7 @@
       "group": "Polaris FIR",
       "owner": [
         "BSI",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -1538,7 +1536,7 @@
       "group": "Polaris FIR",
       "owner": [
         "BVI",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -1586,8 +1584,7 @@
       "owner": [
         "CNT",
         "CN",
-        "RS",
-        "RC",
+        "RCS",
         "8R",
         "5R",
         "4R",
@@ -1638,7 +1635,7 @@
       "owner": [
         "DUT",
         "DU",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -1674,7 +1671,7 @@
       "owner": [
         "EVT",
         "EV",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -1725,8 +1722,7 @@
       "group": "Polaris FIR",
       "owner": [
         "FLI",
-        "RS",
-        "RC",
+        "RCS",
         "17R",
         "9R",
         "13R",
@@ -1780,8 +1776,7 @@
         "DD",
         "GWR",
         "GER",
-        "RS",
-        "RC",
+        "RCS",
         "6R",
         "4R",
         "8R",
@@ -1839,8 +1834,7 @@
         "DD",
         "GWR",
         "GER",
-        "RS",
-        "RC",
+        "RCS",
         "6R",
         "4R",
         "8R",
@@ -1899,8 +1893,7 @@
         "HDT",
         "ZAR",
         "ZER",
-        "RS",
-        "RC",
+        "RCS",
         "13R",
         "9R",
         "17R",
@@ -1953,7 +1946,7 @@
       "group": "Polaris FIR",
       "owner": [
         "HFI",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -2004,7 +1997,7 @@
       "group": "Polaris FIR",
       "owner": [
         "HKI",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -2043,7 +2036,7 @@
       "group": "Polaris FIR",
       "owner": [
         "HVI",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -2104,12 +2097,10 @@
         "KBT",
         "QD",
         "QR",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -2151,7 +2142,7 @@
       "owner": [
         "KRT",
         "KR",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -2210,7 +2201,7 @@
       "group": "Polaris FIR",
       "owner": [
         "LKI",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -2253,7 +2244,7 @@
       "group": "Polaris FIR",
       "owner": [
         "MHI",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -2298,12 +2289,10 @@
         "MLI",
         "QR",
         "QD",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -2365,7 +2354,7 @@
       "owner": [
         "MSI",
         "HR",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -2405,7 +2394,7 @@
       "owner": [
         "NAT",
         "NA",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -2440,7 +2429,7 @@
       "group": "Polaris FIR",
       "owner": [
         "NMI",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -2477,8 +2466,7 @@
         "NOI",
         "FWR",
         "FER",
-        "RS",
-        "RC",
+        "RCS",
         "4R",
         "8R",
         "6R",
@@ -2601,12 +2589,10 @@
         "OLT",
         "ER",
         "ED",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -2649,12 +2635,10 @@
         "OVI",
         "QR",
         "QD",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -2722,7 +2706,7 @@
       "owner": [
         "RAI",
         "HR",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -2757,7 +2741,7 @@
       "group": "Polaris FIR",
       "owner": [
         "RMI",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -2800,13 +2784,11 @@
       "group": "Polaris FIR",
       "owner": [
         "ROI",
-        "RS",
-        "RC",
+        "RCN",
         "19R",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -2847,7 +2829,7 @@
       "group": "Polaris FIR",
       "owner": [
         "RSI",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -2896,8 +2878,7 @@
         "RYT",
         "FWR",
         "FER",
-        "RS",
-        "RC",
+        "RCS",
         "4R",
         "8R",
         "6R",
@@ -2950,8 +2931,7 @@
       "group": "Polaris FIR",
       "owner": [
         "SDI",
-        "RS",
-        "RC",
+        "RCS",
         "17R",
         "9R",
         "13R",
@@ -2996,8 +2976,7 @@
       "group": "Polaris FIR",
       "owner": [
         "SGI",
-        "RS",
-        "RC",
+        "RCS",
         "17R",
         "9R",
         "13R",
@@ -3042,7 +3021,7 @@
       "group": "Polaris FIR",
       "owner": [
         "SHI",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -3081,7 +3060,7 @@
       "group": "Polaris FIR",
       "owner": [
         "SKI",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -3138,8 +3117,7 @@
         "SOI",
         "BWR",
         "BER",
-        "RS",
-        "RC",
+        "RCS",
         "14R",
         "13R",
         "17R",
@@ -3207,8 +3185,7 @@
         "SOI",
         "BWR",
         "BER",
-        "RS",
-        "RC",
+        "RCS",
         "14R",
         "13R",
         "17R",
@@ -3262,7 +3239,7 @@
       "group": "Polaris FIR",
       "owner": [
         "SRI",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -3305,7 +3282,7 @@
       "group": "Polaris FIR",
       "owner": [
         "SSI",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -3345,7 +3322,7 @@
       "owner": [
         "STI",
         "HR",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -3397,7 +3374,7 @@
       "owner": [
         "TCT",
         "TC",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -3434,8 +3411,7 @@
         "TOT",
         "FWR",
         "FER",
-        "RS",
-        "RC",
+        "RCS",
         "4R",
         "8R",
         "6R",
@@ -3486,13 +3462,11 @@
         "VAT",
         "CR",
         "CD",
-        "RS",
-        "RC",
+        "RCN",
         "19R",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -3550,7 +3524,7 @@
       "owner": [
         "VDI",
         "KR",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -3632,8 +3606,7 @@
         "ZVT",
         "ZAR",
         "ZER",
-        "RS",
-        "RC",
+        "RCS",
         "13R",
         "9R",
         "17R",
@@ -3863,6 +3836,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
+        "10R",
         "15R",
         "17R",
         "9R",
@@ -4226,6 +4200,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
+        "10R",
         "15R",
         "17R",
         "9R",
@@ -4391,6 +4366,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
+        "10R",
         "15R",
         "17R",
         "9R",
@@ -5495,6 +5471,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
+        "10R",
         "15R",
         "17R",
         "9R",
@@ -14847,8 +14824,7 @@
       "owner": [
         "FWR",
         "FER",
-        "RS",
-        "RC",
+        "RCS",
         "4R",
         "8R",
         "6R",
@@ -14910,12 +14886,10 @@
       "owner": [
         "QR",
         "QD",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -15073,12 +15047,10 @@
       "owner": [
         "QR",
         "QD",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -15143,7 +15115,7 @@
       "group": "Polaris FIR",
       "owner": [
         "AN",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -15246,7 +15218,7 @@
       "group": "Polaris FIR",
       "owner": [
         "AT",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -16444,8 +16416,7 @@
       "group": "Polaris FIR",
       "owner": [
         "CN",
-        "RS",
-        "RC",
+        "RCS",
         "8R",
         "5R",
         "4R",
@@ -16495,8 +16466,7 @@
       "group": "Polaris FIR",
       "owner": [
         "CN",
-        "RS",
-        "RC",
+        "RCS",
         "8R",
         "5R",
         "4R",
@@ -16538,8 +16508,7 @@
       "group": "Polaris FIR",
       "owner": [
         "CN",
-        "RS",
-        "RC",
+        "RCS",
         "8R",
         "5R",
         "4R",
@@ -16613,8 +16582,7 @@
       "group": "Polaris FIR",
       "owner": [
         "CN",
-        "RS",
-        "RC",
+        "RCS",
         "8R",
         "5R",
         "4R",
@@ -16656,8 +16624,7 @@
       "group": "Polaris FIR",
       "owner": [
         "CN",
-        "RS",
-        "RC",
+        "RCS",
         "8R",
         "5R",
         "4R",
@@ -16699,8 +16666,7 @@
       "group": "Polaris FIR",
       "owner": [
         "CN",
-        "RS",
-        "RC",
+        "RCS",
         "8R",
         "5R",
         "4R",
@@ -16766,7 +16732,7 @@
       "group": "Polaris FIR",
       "owner": [
         "DU",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -16897,7 +16863,7 @@
       "group": "Polaris FIR",
       "owner": [
         "EV",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -26334,12 +26300,10 @@
       "owner": [
         "QD",
         "QR",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -26584,7 +26548,7 @@
       "group": "Polaris FIR",
       "owner": [
         "KR",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -27439,7 +27403,7 @@
       "group": "Polaris FIR",
       "owner": [
         "KR",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -27498,7 +27462,7 @@
       "group": "Polaris FIR",
       "owner": [
         "KR",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -27545,7 +27509,7 @@
       "group": "Polaris FIR",
       "owner": [
         "NA",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -27605,12 +27569,10 @@
       "owner": [
         "ER",
         "ED",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -27782,12 +27744,10 @@
       "owner": [
         "ER",
         "ED",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -27839,7 +27799,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -28112,7 +28071,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -28339,7 +28297,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -28692,8 +28649,7 @@
       "owner": [
         "FWR",
         "FER",
-        "RS",
-        "RC",
+        "RCS",
         "4R",
         "8R",
         "6R",
@@ -29311,8 +29267,7 @@
       "owner": [
         "FWR",
         "FER",
-        "RS",
-        "RC",
+        "RCS",
         "4R",
         "8R",
         "6R",
@@ -35592,7 +35547,7 @@
       ]
     },
     {
-      "id": "FIR (Class A)",
+      "id": "ENOB",
       "group": "ENOB",
       "owner": [
         "R6"
@@ -35759,176 +35714,11 @@
       ]
     },
     {
-      "id": "FIR (Class G)",
-      "group": "ENOB",
-      "owner": [
-        "R6"
-      ],
-      "sectors": [
-        {
-          "max": 194,
-          "points": [
-            [
-              "643049",
-              "0053358"
-            ],
-            [
-              "645456",
-              "0060059"
-            ],
-            [
-              "650800",
-              "0061600"
-            ],
-            [
-              "653706",
-              "0065026"
-            ],
-            [
-              "654500",
-              "0070000"
-            ],
-            [
-              "661240",
-              "0074228"
-            ],
-            [
-              "663243",
-              "0081425"
-            ],
-            [
-              "670633",
-              "0091047"
-            ],
-            [
-              "671500",
-              "0092521"
-            ],
-            [
-              "674128",
-              "0101223"
-            ],
-            [
-              "680605",
-              "0105810"
-            ],
-            [
-              "685641",
-              "0123859"
-            ],
-            [
-              "693509",
-              "0140228"
-            ],
-            [
-              "700000",
-              "0150000"
-            ],
-            [
-              "701208",
-              "0161257"
-            ],
-            [
-              "702156",
-              "0171517"
-            ],
-            [
-              "702832",
-              "0175917"
-            ],
-            [
-              "702928",
-              "0180518"
-            ],
-            [
-              "703116",
-              "0181745"
-            ],
-            [
-              "704000",
-              "0193025"
-            ],
-            [
-              "712000",
-              "0250000"
-            ],
-            [
-              "712000",
-              "0262100"
-            ],
-            [
-              "712000",
-              "0272154"
-            ],
-            [
-              "712000",
-              "0280000"
-            ],
-            [
-              "711000",
-              "0290000"
-            ],
-            [
-              "710309",
-              "0294153"
-            ],
-            [
-              "710000",
-              "0300000"
-            ],
-            [
-              "820000",
-              "0300000"
-            ],
-            [
-              "820000",
-              "0000000"
-            ],
-            [
-              "730000",
-              "0000000"
-            ],
-            [
-              "692000",
-              "0000000"
-            ],
-            [
-              "654500",
-              "0000000"
-            ],
-            [
-              "631500",
-              "0000000"
-            ],
-            [
-              "630316",
-              "0040312"
-            ],
-            [
-              "633641",
-              "0043637"
-            ],
-            [
-              "640000",
-              "0050053"
-            ],
-            [
-              "640929",
-              "0051053"
-            ],
-            [
-              "643049",
-              "0053358"
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "BALDER CTA",
       "group": "Polaris FIR",
       "owner": [
         "21R",
+        "10R",
         "15R",
         "17R",
         "9R",
@@ -36153,7 +35943,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -36251,7 +36040,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -40336,6 +40124,7 @@
       "id": "S15-LOWER1",
       "group": "Polaris FIR",
       "owner": [
+        "10R",
         "15R",
         "17R",
         "9R",
@@ -40412,6 +40201,7 @@
       "id": "S15-TOP",
       "group": "Polaris FIR",
       "owner": [
+        "10R",
         "15R",
         "17R",
         "9R",
@@ -40500,6 +40290,7 @@
       "id": "S15-UPPER",
       "group": "Polaris FIR",
       "owner": [
+        "10R",
         "15R",
         "17R",
         "9R",
@@ -41550,7 +41341,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -41713,7 +41503,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -41788,7 +41577,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -41835,7 +41623,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -41930,7 +41717,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -41989,7 +41775,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42028,7 +41813,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42071,7 +41855,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42122,7 +41905,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42173,7 +41955,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42228,7 +42009,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42375,7 +42155,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42523,7 +42302,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42563,7 +42341,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42603,7 +42380,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42663,7 +42439,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42723,7 +42498,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42807,7 +42581,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42863,7 +42636,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -42979,7 +42751,6 @@
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ],
       "sectors": [
@@ -68212,8 +67983,7 @@
       "owner": [
         "FWR",
         "FER",
-        "RS",
-        "RC",
+        "RCS",
         "4R",
         "8R",
         "6R",
@@ -96239,7 +96009,7 @@
       "frequency": "119.950",
       "callsign": "Røssvoll Information"
     },
-    "RC": {
+    "RCN": {
       "colours": [
         {
           "hex": "#ea4e14"
@@ -96252,7 +96022,7 @@
       "frequency": "118.325",
       "callsign": "Bodø RTC"
     },
-    "RS": {
+    "RCS": {
       "colours": [
         {
           "hex": "#5cfc75"
@@ -96434,23 +96204,10 @@
       "frequency": "120.300",
       "callsign": "Stokka Information"
     },
-    "10R": {
-      "colours": [
-        {
-          "hex": "#960d00"
-        }
-      ],
-      "pre": [
-        "ENSV"
-      ],
-      "type": "CTR",
-      "frequency": "136.275",
-      "callsign": "Polaris Control"
-    },
     "14R": {
       "colours": [
         {
-          "hex": "#4272f3"
+          "hex": "#960d00"
         }
       ],
       "pre": [
@@ -96463,7 +96220,7 @@
     "15R": {
       "colours": [
         {
-          "hex": "#dbdf33"
+          "hex": "#4272f3"
         }
       ],
       "pre": [
@@ -96476,7 +96233,7 @@
     "9R": {
       "colours": [
         {
-          "hex": "#3ff393"
+          "hex": "#dbdf33"
         }
       ],
       "pre": [
@@ -96489,7 +96246,7 @@
     "13R": {
       "colours": [
         {
-          "hex": "#d6380f"
+          "hex": "#3ff393"
         }
       ],
       "pre": [
@@ -96502,7 +96259,7 @@
     "17R": {
       "colours": [
         {
-          "hex": "#9ef94c"
+          "hex": "#d6380f"
         }
       ],
       "pre": [
@@ -96515,7 +96272,7 @@
     "21R": {
       "colours": [
         {
-          "hex": "#483ba8"
+          "hex": "#9ef94c"
         }
       ],
       "pre": [
@@ -96524,6 +96281,19 @@
       "type": "CTR",
       "frequency": "134.200",
       "callsign": "Polaris Control (Offshore)"
+    },
+    "10R": {
+      "colours": [
+        {
+          "hex": "#483ba8"
+        }
+      ],
+      "pre": [
+        "ENSV"
+      ],
+      "type": "CTR",
+      "frequency": "136.275",
+      "callsign": "Polaris Control"
     },
     "TC": {
       "colours": [
@@ -96721,8 +96491,7 @@
         "DD",
         "GWR",
         "GER",
-        "RS",
-        "RC",
+        "RCS",
         "6R",
         "4R",
         "8R",
@@ -96739,7 +96508,7 @@
       "runways": null,
       "topdown": [
         "AT",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -96754,7 +96523,7 @@
       "runways": null,
       "topdown": [
         "AN",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -96769,7 +96538,7 @@
       "runways": null,
       "topdown": [
         "DU",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -96786,8 +96555,7 @@
         "D",
         "BWR",
         "BER",
-        "RS",
-        "RC",
+        "RCS",
         "14R",
         "13R",
         "17R",
@@ -96804,7 +96572,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -96819,7 +96587,7 @@
       "runways": null,
       "topdown": [
         "BO",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "26R",
@@ -96835,7 +96603,7 @@
       "runways": null,
       "topdown": [
         "HR",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -96849,7 +96617,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -96863,8 +96631,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RS",
-        "RC",
+        "RCS",
         "17R",
         "9R",
         "13R",
@@ -96880,8 +96647,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RS",
-        "RC",
+        "RCS",
         "17R",
         "9R",
         "13R",
@@ -96897,7 +96663,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -96912,7 +96678,7 @@
       "runways": null,
       "topdown": [
         "EV",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -96926,7 +96692,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -96942,8 +96708,7 @@
       "topdown": [
         "ZAR",
         "ZER",
-        "RS",
-        "RC",
+        "RCS",
         "13R",
         "9R",
         "14R",
@@ -96960,7 +96725,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -96975,7 +96740,7 @@
       "runways": null,
       "topdown": [
         "KR",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -96990,8 +96755,7 @@
       "runways": null,
       "topdown": [
         "CN",
-        "RS",
-        "RC",
+        "RCS",
         "8R",
         "5R",
         "4R",
@@ -97010,12 +96774,10 @@
       "topdown": [
         "QD",
         "QR",
-        "RS",
-        "RC",
+        "RCS",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ]
     },
@@ -97028,7 +96790,7 @@
       "runways": null,
       "topdown": [
         "NA",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -97042,7 +96804,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -97056,7 +96818,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -97071,7 +96833,7 @@
       "runways": null,
       "topdown": [
         "HR",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -97087,12 +96849,10 @@
       "topdown": [
         "QD",
         "QR",
-        "RS",
-        "RC",
+        "RCS",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ]
     },
@@ -97105,7 +96865,7 @@
       "runways": null,
       "topdown": [
         "HR",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -97119,7 +96879,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -97135,8 +96895,7 @@
       "topdown": [
         "FWR",
         "FER",
-        "RS",
-        "RC",
+        "RCS",
         "4R",
         "8R",
         "6R",
@@ -97165,8 +96924,7 @@
       "topdown": [
         "FWR",
         "FER",
-        "RS",
-        "RC",
+        "RCS",
         "4R",
         "8R",
         "6R",
@@ -97182,13 +96940,11 @@
       ],
       "runways": null,
       "topdown": [
-        "RS",
-        "RC",
+        "RCN",
         "19R",
         "18R",
         "24",
         "25R",
-        "NS",
         "NO"
       ]
     },
@@ -97200,7 +96956,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -97214,7 +96970,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -97228,8 +96984,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RS",
-        "RC",
+        "RCS",
         "17R",
         "9R",
         "13R",
@@ -97247,8 +97002,7 @@
       "topdown": [
         "FWR",
         "FER",
-        "RS",
-        "RC",
+        "RCS",
         "4R",
         "8R",
         "6R",
@@ -97265,7 +97019,7 @@
       "runways": null,
       "topdown": [
         "HR",
-        "RC",
+        "RCN",
         "24R",
         "25R",
         "NO"
@@ -97279,8 +97033,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RS",
-        "RC",
+        "RCS",
         "17R",
         "9R",
         "13R",
@@ -97299,8 +97052,7 @@
         "ZED",
         "ZAR",
         "ZER",
-        "RS",
-        "RC",
+        "RCS",
         "13R",
         "9R",
         "14R",
@@ -97317,7 +97069,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -97333,8 +97085,7 @@
       "topdown": [
         "BWR",
         "BER",
-        "RS",
-        "RC",
+        "RCS",
         "14R",
         "13R",
         "17R",
@@ -97362,7 +97113,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -97376,7 +97127,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -97391,7 +97142,7 @@
       "runways": null,
       "topdown": [
         "TC",
-        "RC",
+        "RCN",
         "25R",
         "26R",
         "NO"
@@ -97407,13 +97158,11 @@
       "topdown": [
         "CR",
         "CD",
-        "RS",
-        "RC",
+        "RCN",
         "19R",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ]
     },
@@ -97426,7 +97175,7 @@
       "runways": null,
       "topdown": [
         "KR",
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -97440,7 +97189,7 @@
       ],
       "runways": null,
       "topdown": [
-        "RC",
+        "RCN",
         "26R",
         "25R",
         "NO"
@@ -97456,12 +97205,10 @@
       "topdown": [
         "ER",
         "ED",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24",
         "25R",
-        "NS",
         "NO"
       ]
     },
@@ -97475,12 +97222,10 @@
       "topdown": [
         "QR",
         "QD",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ]
     },
@@ -97494,12 +97239,10 @@
       "topdown": [
         "QR",
         "QD",
-        "RS",
-        "RC",
+        "RCN",
         "18R",
         "24R",
         "25R",
-        "NS",
         "NO"
       ]
     }
