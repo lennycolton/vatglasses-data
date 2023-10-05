@@ -13553,6 +13553,11 @@
       "coord": [53.878666666667, 14.152333333333],
       "topdown": ["MRZ", "MAR", "BOR", "WWC"]
     },
+    "ETNL": {
+      "callsign": "Rostock-Laage",
+      "coord": [53.918086, 12.279289],
+      "topdown": ["MRZ", "MAR", "BOR", "WWC"]
+    },
     "EDDB": {
       "callsign": "Berlin",
       "coord": [52.362166666667, 13.500666666667],
