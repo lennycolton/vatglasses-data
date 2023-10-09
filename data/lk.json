@@ -16597,7 +16597,6 @@
 				"30"
 			],
 			"topdown": [
-				"LKPR_TWR",
 				"LKPR_D_APP",
 				"LKPR_APP",
 				"LKAA_CTR"
@@ -16607,7 +16606,6 @@
 			"callsign": "Čáslav",
 			"coord": [49.93956389, 15.38193278],
 			"topdown": [
-				"LKCV_TWR",
 				"LKCV_APP",
 				"LKMT_APP",
 				"LKAA_APP",
@@ -16619,7 +16617,6 @@
 			"callsign": "Kbely",
 			"coord": [50.12136694, 14.54363889],
 			"topdown": [
-				"LKKB_TWR",
 				"LKVO_TWR",
 				"LKPR_TWR",
 				"LKPR_DEP",
@@ -16631,7 +16628,6 @@
 			"callsign": "Kunovice",
 			"coord": [49.02944389, 17.43972194],
 			"topdown": [
-				"LKKU_TWR",
 				"LKTB_APP",
 				"LKAA_APP",
 				"LKAA_S_CTR",
@@ -16642,7 +16638,6 @@
 			"callsign": "Vary",
 			"coord": [50.20305583, 12.91499972],
 			"topdown": [
-				"LKKV_TWR",
 				"LKKV_APP",
 				"LKAA_APP",
 				"LKAA_W_CTR",
@@ -16653,7 +16648,6 @@
 			"callsign": "Mošnov",
 			"coord": [49.69611083, 18.11083278],
 			"topdown": [
-				"LKMT_TWR",
 				"LKMT_APP",
 				"LKAA_APP",
 				"LKAA_N_CTR",
@@ -16664,7 +16658,6 @@
 			"callsign": "Náměšť",
 			"coord": [49.16620778, 16.12438278],
 			"topdown": [
-				"LKNA_TWR",
 				"LKNA_APP",
 				"LKTB_APP",
 				"LKAA_APP",
@@ -16676,7 +16669,6 @@
 			"callsign": "Pardubice",
 			"coord": [50.01345778, 15.73857194],
 			"topdown": [
-				"LKPD_TWR",
 				"LKPD_APP",
 				"LKMT_APP",
 				"LKAA_APP",
@@ -16688,7 +16680,6 @@
 			"callsign": "Tuřany",
 			"coord": [49.15138889, 16.69388889],
 			"topdown": [
-				"LKTB_TWR",
 				"LKTB_APP",
 				"LKAA_APP",
 				"LKAA_S_CTR",
@@ -16699,7 +16690,6 @@
 			"callsign": "Vodochody",
 			"coord": [50.21666694, 14.39555583],
 			"topdown": [
-				"LKVO_TWR",
 				"LKKB_TWR",
 				"LKPR_TWR",
 				"LKPR_DEP",
