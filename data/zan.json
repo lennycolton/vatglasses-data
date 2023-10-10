@@ -1,0 +1,142 @@
+{
+  "airspace": [
+    {
+      "id": "Sector 10/11",
+      "group": "ZAN",
+      "owner": [
+        "10",
+        "06"
+      ],
+      "sectors": [
+        {
+          "points": [
+            ["540000","1690000"],
+            ["544009","1700000"],
+            ["600000","1800000"],
+            ["491151","1800000"],
+            ["454200","1625500"],
+            ["500500","1590000"]
+          ]
+        },
+        {
+          "points": [
+            ["523600","-1634045"],
+            ["532755","-1672014"],
+            ["541302","-1674439"],
+            ["550000","-1670000"],
+            ["565800","-1650000"],
+            ["581449","-1665529"],
+            ["584423","-1674248"],
+            ["591953","-1675451"],
+            ["603515","-1682150"],
+            ["624012","-1704509"],
+            ["625730","-1743458"],
+            ["600000","-1800000"],
+            ["491151","-1800000"],
+            ["512400","-1674900"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Sector 10/11",
+      "group": "ZAN",
+      "owner": [
+        "10",
+        "69",
+        "09",
+        "06"
+      ],
+      "sectors": [
+        {
+          "min": 290,
+          "points": [
+            ["523600","-1634045"],
+            ["532755","-1672014"],
+            ["541302","-1674439"],
+            ["550000","-1670000"],
+            ["565800","-1650000"],
+            ["581449","-1665529"],
+            ["584423","-1674248"],
+            ["581449","-1665529"],
+            ["564542","-1514500"],
+            ["560000","-1530000"],
+            ["533000","-1600000"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Sector 64",
+      "group": "ZAN",
+      "owner": [
+        "64",
+        "06"
+      ],
+      "sectors": [
+        {
+          "points": [
+            ["900000","-1685823"],
+            ["900000","-1410000"],
+            ["730000","-1410000"],
+            ["730000","-1685823"]
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": {
+    "ZAN": {
+      "name": "Anchorage",
+      "colour": "#ffffff"
+    },
+    "TWR": {
+      "name": "Tower",
+      "colour": "#ffffff"
+    }
+  },
+  "positions": {
+    "03": { "callsign": "Anchorage Center", "frequency": "133.300", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#00aeef"}] },
+    "04": { "callsign": "Anchorage Center", "frequency": "135.300", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#00aeef"}] },
+    "05": { "callsign": "Anchorage Center", "frequency": "125.700", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#39b54a"}] },
+    "06": { "callsign": "Anchorage Center", "frequency": "132.300", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#39b54a"}] },
+    "07": { "callsign": "Anchorage Center", "frequency": "119.500", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#39b54a"}] },
+    "08": { "callsign": "Anchorage Center", "frequency": "126.100", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#39b54a"}] },
+    "09": { "callsign": "Anchorage Center", "frequency": "124.800", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#00aeef"}] },
+    "10": { "callsign": "Anchorage Center", "frequency": "126.400", "pre": ["ZAN"], "type": "FSS", "colours": [{"hex": "#f7941d"}] },
+    "13": { "callsign": "Anchorage Center", "frequency": "125.200", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#00aeef"}] },
+    "14": { "callsign": "Anchorage Center", "frequency": "119.300", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#39b54a"}] },
+    "15": { "callsign": "Anchorage Center", "frequency": "120.900", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#00aeef"}] },
+    "16": { "callsign": "Anchorage Center", "frequency": "132.700", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#00aeef"}] },
+    "63": { "callsign": "Anchorage Center", "frequency": "125.950", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#ed1c24"}] },
+    "64": { "callsign": "Anchorage Center", "frequency": "134.400", "pre": ["ZAN"], "type": "FSS", "colours": [{"hex": "#ea0a8c"}] },
+    "68": { "callsign": "Anchorage Center", "frequency": "127.300", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#ed1c24"}] },
+    "69": { "callsign": "Anchorage Center", "frequency": "133.800", "pre": ["ANC"], "type": "CTR", "colours": [{"hex": "#ed1c24"}] }
+
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance Delivery"
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Tower"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure"
+    }
+  },
+  "airports": {
+    "PAAK": { "callsign": "Atka", "coord": ["52.220583","-174.206194"], "pre": ["AKA"] },
+    "PAAT": { "callsign": "Casco Cove Cgs", "coord": ["52.832542","173.175554"], "pre": ["ATU"] },
+    "PADK": { "callsign": "Adak", "coord": ["51.877964","-176.646031"], "pre": ["ADK"] },
+    "PAPB": { "callsign": "St George", "coord": ["56.577361","-169.663722"], "pre": ["STG"] },
+    "PASN": { "callsign": "Saint Paul", "coord": ["57.14972","-170.21639"], "pre": ["SNP"] },
+    "PASY": { "callsign": "Shemya", "coord": ["52.712275","174.113619"], "pre": ["SYA"] }
+  }
+}
