@@ -2,8 +2,8 @@
   "airspace": [],
   "groups": {},
   "positions": {
-    "EEN": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-EN"], "type": "CTR", "frequency": "135.775", "callsign": "EuroEast"},
-    "EES": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-ES"], "type": "CTR", "frequency": "135.300", "callsign": "EuroEast"},
+    "EEN": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-EN"], "type": "CTR", "frequency": "135.300", "callsign": "EuroEast"},
+    "EES": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-ES"], "type": "CTR", "frequency": "135.775", "callsign": "EuroEast"},
     "EME": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-ME"], "type": "CTR", "frequency": "135.450", "callsign": "Maastricht Radar" },
     "EMW": { "colours": [{ "hex": "#ffffff" }], "pre": ["EUC-MW"], "type": "CTR", "frequency": "135.750", "callsign": "Maastricht Radar" },
     "EN": { "colours": [{ "hex": "#ffffff" }], "pre": ["EURN"], "type": "FSS", "frequency": "133.450", "callsign": "EuroNorth" },
