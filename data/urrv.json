@@ -1,0 +1,15 @@
+{
+  "airspace": [],
+  "groups": {},
+  "positions": {
+    "RC": {
+      "callsign": "Rostov Control",
+      "frequency": "122.900",
+      "type": "CTR",
+      "pre": ["URRV"],
+      "colours": [{ "hex": "#b18c00" }]
+    }
+  },
+  "callsigns": {},
+  "airports": {}
+}
