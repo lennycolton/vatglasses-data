@@ -12837,7 +12837,7 @@
       "colours": [{ "hex": "#cebab8" }],
       "pre": ["EDUU"],
       "type": "CTR",
-      "frequency": "132.140",
+      "frequency": "133.755",
       "callsign": "Rhein Radar"
     },
     "CHI": {
@@ -12851,7 +12851,7 @@
       "colours": [{ "hex": "#059319" }],
       "pre": ["EDUU"],
       "type": "CTR",
-      "frequency": "132.730",
+      "frequency": "127.290",
       "callsign": "Rhein Radar"
     },
     "ERL": {
