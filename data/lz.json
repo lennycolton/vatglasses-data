@@ -1991,8 +1991,9 @@
 		},
 		{
 			"id":"Sliac",
-			"group":"APN",
+			"group":"TWR",
 			"owner":[
+					"LZSL_TWR",
 					"LZSL_APP"
 			],
 			"sectors":[
@@ -2083,9 +2084,10 @@
 		"LZIB_TWR": 	{"colours":  [{"hex": "#ff4f50"}], "pre": ["LZIB"], "type": "TWR", "frequency": "118.300", "callsign": "Stefanik Tower"},
 		"LZKZ_TWR": 	{"colours":  [{"hex": "#ff4f50"}], "pre": ["LZKZ"], "type": "TWR", "frequency": "120.400", "callsign": "Kosice Tower"},
 		"LZPP_TWR": 	{"colours":  [{"hex": "#ff4f50"}], "pre": ["LZPP"], "type": "TWR", "frequency": "118.575", "callsign": "Piestany Tower"},
+		"LZSL_TWR": 	{"colours":  [{"hex": "#ff4f50"}], "pre": ["LZSL"], "type": "TWR", "frequency": "122.905", "callsign": "Sliac Tower"},
 		"LZTT_TWR": 	{"colours":  [{"hex": "#ff4f50"}], "pre": ["LZTT"], "type": "TWR", "frequency": "121.350", "callsign": "Tatry Tower"},
-		"LZZI_TWR": 	{"colours":  [{"hex": "#ff4f50"}], "pre": ["LZZI"], "type": "TWR", "frequency": "118.400", "callsign": "Zilina Tower"},
-		"LZIB_GND": 	{				   "pre": ["LZIB"], "type": "GND", "frequency": "120.900", "callsign": "Stefanik Ground"}
+		"LZZI_TWR": 	{"colours":  [{"hex": "#ff4f50"}], "pre": ["LZZI"], "type": "TWR", "frequency": "118.150", "callsign": "Zilina Tower"},
+		"LZIB_GND": 	{				   "pre": ["LZIB"], "type": "GND", "frequency": "120.905", "callsign": "Stefanik Ground"}
 	},	
     "callsigns":{
       "DEL":{

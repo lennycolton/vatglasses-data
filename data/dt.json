@@ -3361,22 +3361,22 @@
          }
     },
     "airports": {
-      "DTKA": { "callsign": "Tabarka", "coord": [36.98, 8.876944] },
-      "DTMB": { "callsign": "Habib Bourguiba", "coord": [35.758056, 10.754722] },
-      "DTNH": { "callsign": "Enfidha Hammamet", "coord": [36.075833, 10.438667] },
-      "DTTA": { "callsign": "Tunis-Carthage", "coord": [36.851111, 10.226944] },
+      "DTKA": { "callsign": "Tabarka", "coord": [36.98, 8.876944], "topdown": ["TCNI", "TC"] },
+      "DTMB": { "callsign": "Bourguiba", "coord": [35.758056, 10.754722], "major": "DTNH" },
+      "DTNH": { "callsign": "Enfidha", "coord": [36.075833, 10.438667], "topdown": ["TCNI", "TC"] },
+      "DTTA": { "callsign": "Tunis", "coord": [36.851111, 10.226944], "topdown": ["TC"] },
       "DTTB": { "callsign": "Bizerte", "coord": [37.25, 9.8] },
       "DTTD": { "callsign": "Remada", "coord": [32.31667, 10.4] },
-      "DTTF": { "callsign": "Gafsa", "coord": [34.415556, 8.813611] },
-      "DTTG": { "callsign": "Gabes", "coord": [33.88306, 10.09972] },
-      "DTTI": { "callsign": "Borj El Armi", "coord": [36.721167, 9.943333] },
-      "DTTJ": { "callsign": "Djerba Mellita", "coord": [33.875556, 10.777222] },
+      "DTTF": { "callsign": "Gafsa", "coord": [34.415556, 8.813611], "topdown": ["TC"] },
+      "DTTG": { "callsign": "Gabes", "coord": [33.88306, 10.09972], "topdown": ["TC"] },
+      "DTTI": { "callsign": "Borj El Armi", "coord": [36.721167, 9.943333], "major": "DTTA" },
+      "DTTJ": { "callsign": "Djerba", "coord": [33.875556, 10.777222], "topdown": ["TC"] },
       "DTTK": { "callsign": "Kairouan", "coord": [35.66667, 10.09972] },
       "DTTL": { "callsign": "Kelibia", "coord": [36.85, 11.08306] },
       "DTTM": { "callsign": "Monastir-Skanes", "coord": [35.66667, 10.75] },
       "DTTN": { "callsign": "Jendouba", "coord": [36.48306, 8.8] },
       "DTTR": { "callsign": "El Borma", "coord": [31.68306, 9.16639] },
-      "DTTX": { "callsign": "Sfax El-Maou", "coord": [34.720556, 10.688611] },
-      "DTTZ": { "callsign": "Tozeur", "coord": [33.939722, 8.110556] }
+      "DTTX": { "callsign": "Sfax", "coord": [34.720556, 10.688611], "topdown": ["TC"] },
+      "DTTZ": { "callsign": "Tozeur", "coord": [33.939722, 8.110556], "topdown": ["TC"] }
     }
   }
