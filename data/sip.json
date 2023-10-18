@@ -446,7 +446,7 @@
       "pre": ["SIP"],
       "callsign": "Simferopol",
       "coord": ["45.038333", "33.981667"],
-      "topdown": ["SFR", "SFA", "SFC", "ukraine/UCR", "caucasus/RC"]
+      "topdown": ["SFR", "SFA", "SFC", "uk/UCR", "urrv/RC", "urrv/RUSC"]
     },
     "UKFG": { "callsign": "Gvardeyskoye", "coord": ["45.117", "33.978"] },
     "UKFH": { "callsign": "Khersones", "coord": ["44.575", "33.395"] },
