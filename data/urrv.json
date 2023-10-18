@@ -8,6 +8,13 @@
       "type": "CTR",
       "pre": ["URRV"],
       "colours": [{ "hex": "#b18c00" }]
+    },
+    "RUSC": {
+      "callsign": "Caucasus Radar",
+      "frequency": "136.000",
+      "type": "FSS",
+      "pre": ["RU-SC"],
+      "colours": [{ "hex": "#ffffff" }]
     }
   },
   "callsigns": {},
