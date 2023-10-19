@@ -6181,7 +6181,7 @@
     "LSGS": {
         "callsign": "Sion",
         "coord": [46.219167, 7.326944],
-        "topdown": ["GST", "GSA", "SGE", "SG", "SC"]
+        "topdown": ["GSA", "SGE", "SG", "SC"]
     },
     "LSGT": { "callsign": "Gruyeres", "coord": [46.594167, 7.094444] },
     "LSGY": { "callsign": "Yverdon-les-Bains", "coord": [46.761944, 6.613333] },
@@ -6196,7 +6196,7 @@
     "LSMP": {
         "callsign": "Payerne",
         "coord": [46.8425, 6.913611],
-        "topdown": ["PT", "PA", "SGE", "SG", "SC"]
+        "topdown": ["PA", "SGE", "SG", "SC"]
     },
     "LSPA": { "callsign": "Amlikon", "coord": [47.57409, 9.047558] },
     "LSPD": { "callsign": "Dittingen", "coord": [47.438696, 7.491455] },
@@ -6265,12 +6265,12 @@
     "LSZA": {
         "callsign": "Lugano",
         "coord": [46.003611, 8.910278],
-        "topdown": ["ZAT", "li/MAN", "li/MMN", "SZS", "SZ", "SC"]
+        "topdown": ["li/MAN", "li/MMN", "SZS", "SZ", "SC"]
     },
     "LSZB": {
         "callsign": "Bern",
         "coord": [46.912222, 7.499444],
-        "topdown": ["ZBT", "ZBA", "SZW", "SZS", "SZ", "SC"]
+        "topdown": ["ZBA", "SZW", "SZS", "SZ", "SC"]
     },
     "LSZC": { "callsign": "Buochs", "coord": [46.974444, 8.396944] },
     "LSZE": { "callsign": "Bad Ragaz", "coord": [47.015, 9.481944] },
@@ -6278,7 +6278,7 @@
     "LSZG": {
         "callsign": "Grenchen",
         "coord": [47.181389, 7.416389],
-        "topdown": ["ZGT", "ZBA", "SZW", "SZS", "SZ", "SC"]
+        "topdown": ["ZBA", "SZW", "SZS", "SZ", "SC"]
     },
     "LSZH": {
         "callsign": "Zurich",
@@ -6291,7 +6291,7 @@
     "LSZL": {
         "callsign": "Locarno",
         "coord": [46.160833, 8.878611],
-        "topdown": ["ZLT", "SZS", "SZ", "SC"]
+        "topdown": ["SZS", "SZ", "SC"]
     },
     "LSZN": { "callsign": "Hausen am Albis", "coord": [47.238611, 8.515556] },
     "LSZO": { "callsign": "Luzern-Beromuenster", "coord": [47.19, 8.204722] },
@@ -6300,12 +6300,12 @@
     "LSZR": {
         "callsign": "St. Gallen-Altenrhein",
         "coord": [47.485, 9.561944],
-        "topdown": ["ZRT", "ARFA", "SZE", "SZS", "SZ", "SC", "ed/ZUG", "ed/TRU", "ed/RDG", "ed/MMC"]
+        "topdown": ["ARFA", "SZE", "SZS", "SZ", "SC", "ed/ZUG", "ed/TRU", "ed/RDG", "ed/MMC"]
     },
     "LSZS": {
         "callsign": "Samedan",
         "coord": [46.534444, 9.884167],
-        "topdown": ["ZST", "SZS", "SZ", "SC"]
+        "topdown": ["SZS", "SZ", "SC"]
     },
     "LSZT": { "callsign": "Lommis", "coord": [47.524444, 9.003056] },
     "LSZU": { "callsign": "Buttwil", "coord": [47.264722, 8.3025] },

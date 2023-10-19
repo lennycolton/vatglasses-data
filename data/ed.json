@@ -13368,13 +13368,6 @@
       "frequency": "136.525",
       "callsign": "München Radar"
     },
-    "ARFA": {
-      "colours": [{ "hex": "#a15fc8" }],
-      "pre": ["LSFA"],
-      "type": "APP",
-      "frequency": "119.925",
-      "callsign": "Alps Radar"
-    },
 
     "DBAN": {
       "colours": [{ "hex": "#d5e57d" }],
@@ -13718,7 +13711,7 @@
     "EDNY": {
       "callsign": "Friedrichshafen",
       "coord": [47.671333333333, 9.5115],
-      "topdown": ["ARFA", "ZUG", "TRU", "RDG", "MMC"]
+      "topdown": ["ls/ARFA", "ls/ZA", "ls/SZE", "ls/SZS", "ls/SZ", "ls/SC", "ZUG", "TRU", "RDG", "MMC"]
     },
     "EDQM": {
       "callsign": "Hof",

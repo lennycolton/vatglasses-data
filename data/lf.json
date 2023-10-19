@@ -869,7 +869,7 @@
     {
       "id": "LFSB-APP",
       "group": "LFEE",
-      "owner": ["SBA", "SBC", "EE", "LSAA", "LSAS", "LSAV", "LSAU"],
+      "owner": ["SBA", "SBC", "EE", "ls/SZW", "ls/SZS", "ls/SZ", "ls/SC"],
       "sectors": [
         {
           "min": 20,
@@ -899,7 +899,7 @@
     {
       "id": "LFSB-APP",
       "group": "LFEE",
-      "owner": ["SBA", "SBC", "EE", "LSAA", "LSAS", "LSAV", "LSAU"],
+      "owner": ["SBA", "SBC", "EE", "ls/SZW", "ls/SZS", "ls/SZ", "ls/SC"],
       "sectors": [
         {
           "min": 20,
@@ -950,7 +950,7 @@
     {
       "id": "LFSB-APP",
       "group": "LFEE",
-      "owner": ["SBA", "SBC", "EE", "LSAA", "LSAS", "LSAV", "LSAU"],
+      "owner": ["SBA", "SBC", "EE", "ls/SZW", "ls/SZS", "ls/SZ", "ls/SC"],
       "sectors": [
         {
           "min": 20,
@@ -1090,7 +1090,7 @@
     {
       "id": "LFSB-APP-DE",
       "group": "LFEE",
-      "owner": ["SBA", "SBC", "EE", "LSAC", "LSAA", "LSAS", "LSAV", "LSAU"],
+      "owner": ["SBA", "SBC", "EE", "ls/SZN", "ls/SZW", "ls/SZS", "ls/SZ", "ls/SC"],
       "sectors": [
         {
           "min": 0,
@@ -1416,7 +1416,7 @@
     {
       "id": "LFSB_TMA_0.1",
       "group": "LFEE",
-      "owner": ["SBA", "SBC", "EE", "LSAA", "LSAS", "LSAV", "LSAU"],
+      "owner": ["SBA", "SBC", "EE", "ls/SZW", "ls/SZS", "ls/SZ", "ls/SC"],
       "sectors": [
         {
           "min": 0,
@@ -1568,7 +1568,7 @@
     {
       "id": "LFSB_TMA_0.2",
       "group": "LFEE",
-      "owner": ["SBA", "SBC", "EE", "LSAA", "LSAS", "LSAV", "LSAU"],
+      "owner": ["SBA", "SBC", "EE", "ls/SZW", "ls/SZS", "ls/SZ", "ls/SC"],
       "sectors": [
         {
           "min": 0,
@@ -1607,7 +1607,7 @@
     {
       "id": "LFSB_TMA_0.3",
       "group": "LFEE",
-      "owner": ["SBA", "SBC", "EE", "LSAA", "LSAS", "LSAV", "LSAU"],
+      "owner": ["SBA", "SBC", "EE", "ls/SZW", "ls/SZS", "ls/SZ", "ls/SC"],
       "sectors": [
         {
           "min": 0,
@@ -1663,7 +1663,7 @@
     {
       "id": "LFSB_TMA_0.4",
       "group": "LFEE",
-      "owner": ["SBA", "SBC", "EE", "LSAA", "LSAS", "LSAV", "LSAU"],
+      "owner": ["SBA", "SBC", "EE", "ls/SZW", "ls/SZS", "ls/SZ", "ls/SC"],
       "sectors": [
         {
           "min": 0,
@@ -12396,7 +12396,7 @@
     {
       "id": "LFSB_CTR",
       "group": "TWR",
-      "owner": ["SB", "SBA", "SBC", "EE", "LSAA", "LSAS", "LSAV", "LSAU"],
+      "owner": ["SB", "SBA", "SBC", "EE", "ls/SZW", "ls/SZS", "ls/SZ", "ls/SC"],
       "sectors": [
         {
           "min": 0,
@@ -15470,7 +15470,7 @@
   "LFSB": { 
     "callsign": "Bale", 
     "coord": [47.599608, 7.522804],
-    "topdown": ["SBC,SBA,EES,EE,LSAS"] 
+    "topdown": ["SBC","SBA","EES","EE","ls/SZW","ls/SZS","ls/SZ","ls/SC"] 
     },
   "LFST": { 
     "callsign": "Strasbourg", 
