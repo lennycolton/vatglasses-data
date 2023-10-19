@@ -8398,7 +8398,7 @@
     {
       "id": "ESMM 6-1",
       "group": "ESMM",
-      "owner": ["M6", "M3", "M7", "M8", "M2", "S1"],
+      "owner": ["M6", "M3", "M7", "M8", "M2", "S1", "euc/EN"],
       "sectors": [
         {
           "min": 365,
