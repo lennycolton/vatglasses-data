@@ -15470,7 +15470,7 @@
   "LFSB": { 
     "callsign": "Bale", 
     "coord": [47.599608, 7.522804],
-    "topdown": ["SBC","SBA","EES","EE","ls/SZW","ls/SZS","ls/SZ","ls/SC"] 
+    "topdown": ["SBA", "SBC", "EE", "ls/SZW", "ls/SZS", "ls/SZ", "ls/SC"] 
     },
   "LFST": { 
     "callsign": "Strasbourg", 
