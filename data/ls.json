@@ -371,7 +371,7 @@
     {
       "id": "High",
       "group": "LSAG",
-      "owner": ["SG", "SC", "euc/EMW"],
+      "owner": ["SG", "SC", "euc/EWN"],
       "sectors": [
         {
           "min": 315,
@@ -566,7 +566,7 @@
     {
       "id": "Middle",
       "group": "LSAG",
-      "owner": ["SG", "SC", "euc/EMW"],
+      "owner": ["SG", "SC", "euc/EWN"],
       "sectors": [
         {
           "min": 245,
@@ -1440,7 +1440,7 @@
     {
       "id": "High",
       "group": "LSAZ",
-      "owner": ["SZ", "SC", "euc/EMW"],
+      "owner": ["SZ", "SC", "euc/EWN"],
       "sectors": [
         {
           "min": 245,
