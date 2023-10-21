@@ -2651,7 +2651,6 @@
             "callsign": "Vilnius",
             "coord": [54.637075, 25.287803],
             "topdown": [
-                "TVI",
                 "AVI",
                 "EYE",
                 "EY"
@@ -2661,7 +2660,6 @@
             "callsign": "Kaunas",
             "coord": [54.963919, 24.084778],
             "topdown": [
-                "TKA",
                 "EYE",
                 "EY"
             ]
@@ -2670,7 +2668,6 @@
             "callsign": "Siauliai",
             "coord": [55.893886, 23.394975],
             "topdown": [
-                "TSA",
                 "EYE",
                 "EY"
             ]
@@ -2679,7 +2676,6 @@
             "callsign": "Palanga",
             "coord": [55.973333, 21.093889],
             "topdown": [
-                "TPA",
                 "EY"
             ]
         }
