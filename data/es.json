@@ -13357,28 +13357,28 @@
       "colours": [{ "hex": "#c963ec" }]
     },
     "FRA": {
-      "callsign": "R\u00b7da Approach",
+      "callsign": "Råda Approach",
       "frequency": "133.500",
       "type": "APP",
       "pre": ["ESFR"],
       "colours": [{ "hex": "#daf3e6" }]
     },
     "FR": {
-      "callsign": "R\u00b7da Tower",
+      "callsign": "Råda Tower",
       "frequency": "136.025",
       "type": "TWR",
       "pre": ["ESFR"],
       "colours": [{ "hex": "#959b0c" }]
     },
     "GA": {
-      "callsign": "G\u00b7teborg Arrival",
+      "callsign": "Göteborg Arrival",
       "frequency": "120.125",
       "type": "APP",
       "pre": ["ESGG"],
       "colours": [{ "hex": "#cbf1f8" }]
     },
     "GE": {
-      "callsign": "G\u00b7teborg Approach",
+      "callsign": "Göteborg Approach",
       "frequency": "124.675",
       "type": "APP",
       "pre": ["ESGG"],
@@ -13392,28 +13392,28 @@
       "colours": [{ "hex": "#c16e36" }]
     },
     "GW": {
-      "callsign": "G\u00b7teborg Approach",
+      "callsign": "Göteborg Approach",
       "frequency": "124.200",
       "type": "APP",
       "pre": ["ESGG"],
       "colours": [{ "hex": "#b78529" }]
     },
     "GJ": {
-      "callsign": "J\u00b7nk\u00b7ping Tower",
+      "callsign": "Jönköping Tower",
       "frequency": "118.250",
       "type": "TWR",
       "pre": ["ESGJ"],
       "colours": [{ "hex": "#3f7976" }]
     },
     "GP": {
-      "callsign": "S\u00b7ve Tower",
+      "callsign": "Säve Tower",
       "frequency": "119.050",
       "type": "TWR",
       "pre": ["ESGP"],
       "colours": [{ "hex": "#a398a7" }]
     },
     "GT": {
-      "callsign": "Trollh\u00b7ttan Tower",
+      "callsign": "Trollhättan Tower",
       "frequency": "122.725",
       "type": "TWR",
       "pre": ["ESGT"],
@@ -13434,14 +13434,14 @@
       "colours": [{ "hex": "#0424d6" }]
     },
     "IBA": {
-      "callsign": "S\u00b7ten\u00b7s Approach",
+      "callsign": "Såtenäs Approach",
       "frequency": "134.550",
       "type": "APP",
       "pre": ["ESIB"],
       "colours": [{ "hex": "#b363b1" }]
     },
     "IB": {
-      "callsign": "S\u00b7ten\u00b7s Tower",
+      "callsign": "Såtenäs Tower",
       "frequency": "128.200",
       "type": "TWR",
       "pre": ["ESIB"],
@@ -13462,7 +13462,7 @@
       "colours": [{ "hex": "#baec90" }]
     },
     "KS": {
-      "callsign": "S\u00b7len Tower",
+      "callsign": "Sälen Tower",
       "frequency": "124.450",
       "type": "TWR",
       "pre": ["ESKS"],
@@ -13609,7 +13609,7 @@
       "colours": [{ "hex": "#a52546" }]
     },
     "NG": {
-      "callsign": "G\u00b7llivare Information",
+      "callsign": "Gällivare Information",
       "frequency": "122.325",
       "type": "TWR",
       "pre": ["ESNG"],
@@ -13651,7 +13651,7 @@
       "colours": [{ "hex": "#7099db" }]
     },
     "NO": {
-      "callsign": "\u00b7rnsk\u00b7ldsvik Tower",
+      "callsign": "Örnsköldsvik Tower",
       "frequency": "122.250",
       "type": "TWR",
       "pre": ["ESNO"],
@@ -13665,14 +13665,14 @@
       "colours": [{ "hex": "#b16a5b" }]
     },
     "NS": {
-      "callsign": "Skellefte\u00b7 Tower",
+      "callsign": "Skellefteå Tower",
       "frequency": "122.050",
       "type": "TWR",
       "pre": ["ESNS"],
       "colours": [{ "hex": "#793add" }]
     },
     "NU": {
-      "callsign": "Ume\u00b7 Tower",
+      "callsign": "Umeå Tower",
       "frequency": "119.800",
       "type": "TWR",
       "pre": ["ESNU"],
@@ -13693,14 +13693,14 @@
       "colours": [{ "hex": "#1ab73d" }]
     },
     "NZ": {
-      "callsign": "\u00b7stersund Tower",
+      "callsign": "Östersund Tower",
       "frequency": "135.650",
       "type": "TWR",
       "pre": ["ESNZ"],
       "colours": [{ "hex": "#60d208" }]
     },
     "OE": {
-      "callsign": "\u00b7rebro Tower",
+      "callsign": "Örebro Tower",
       "frequency": "120.275",
       "type": "TWR",
       "pre": ["ESOE"],
@@ -13819,14 +13819,14 @@
       "colours": [{ "hex": "#0b7678" }]
     },
     "OWA": {
-      "callsign": "V\u00b7ster\u00b7s Approach",
+      "callsign": "Västerås Approach",
       "frequency": "125.950",
       "type": "APP",
       "pre": ["ESOW"],
       "colours": [{ "hex": "#702e6d" }]
     },
     "OW": {
-      "callsign": "V\u00b7ster\u00b7s Tower",
+      "callsign": "Västerås Tower",
       "frequency": "130.600",
       "type": "TWR",
       "pre": ["ESOW"],
@@ -13945,7 +13945,7 @@
       "colours": [{ "hex": "#e3c3b1" }]
     },
     "SD": {
-      "callsign": "Borl\u00b7nge Tower",
+      "callsign": "Borlänge Tower",
       "frequency": "127.300",
       "type": "TWR",
       "pre": ["ESSD"],
@@ -13959,14 +13959,14 @@
       "colours": [{ "hex": "#bccca8" }]
     },
     "OKC": {
-      "callsign": "\u00b7stg\u00b7ta Approach",
+      "callsign": "Östgöta Approach",
       "frequency": "132.950",
       "type": "APP",
       "pre": ["ESSP"],
       "colours": [{ "hex": "#29c403" }]
     },
     "SP": {
-      "callsign": "Kungs\u00b7ngen Tower",
+      "callsign": "Kungsängen Tower",
       "frequency": "120.350",
       "type": "TWR",
       "pre": ["ESSP"],
@@ -14008,14 +14008,14 @@
       "colours": [{ "hex": "#4042f2" }]
     },
     "TAA": {
-      "callsign": "\u00b7ngelholm Approach",
+      "callsign": "Ängelholm Approach",
       "frequency": "132.450",
       "type": "APP",
       "pre": ["ESTA"],
       "colours": [{ "hex": "#4cacf8" }]
     },
     "TA": {
-      "callsign": "\u00b7ngelholm Tower",
+      "callsign": "Ängelholm Tower",
       "frequency": "127.100",
       "type": "TWR",
       "pre": ["ESTA"],
