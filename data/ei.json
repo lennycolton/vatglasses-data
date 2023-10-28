@@ -1,10 +1,4 @@
 {
-  "bounds": [
-    [56, -16],
-    [56, -4],
-    [50, -4],
-    [50, -16]
-  ],
   "airspace": [
     {
       "id": "Upper North",
@@ -12,7 +6,8 @@
       "owner": [
         "D1",
         "D3",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -159,7 +154,8 @@
         "D4",
         "D1",
         "D3",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -960,7 +956,8 @@
       "owner": [
         "D3",
         "D1",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -1175,7 +1172,8 @@
         "D2",
         "D1",
         "D3",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -2290,7 +2288,8 @@
       "owner": [
         "ILN",
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -2702,7 +2701,8 @@
       "group": "I",
       "owner": [
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3095,7 +3095,8 @@
       "owner": [
         "IN",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
           {
@@ -3118,7 +3119,8 @@
         "INS",
         "IN",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3139,7 +3141,8 @@
       "owner": [
         "IN",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3162,7 +3165,8 @@
         "INS",
         "IN",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3183,7 +3187,8 @@
       "owner": [
         "IN",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3206,7 +3211,8 @@
         "INS",
         "IN",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3227,7 +3233,8 @@
       "owner": [
         "IN",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3250,7 +3257,8 @@
         "INS",
         "IN",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3272,7 +3280,8 @@
       "owner": [
         "IN",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3295,7 +3304,8 @@
       "owner": [
         "IWS",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3315,7 +3325,8 @@
       "group": "I",
       "owner": [
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3337,7 +3348,8 @@
       "owner": [
         "IWS",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3357,7 +3369,8 @@
       "group": "I",
       "owner": [
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3379,7 +3392,8 @@
       "owner": [
         "IWS",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3399,7 +3413,8 @@
       "group": "I",
       "owner": [
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3421,7 +3436,8 @@
       "owner": [
         "IWS",
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3441,7 +3457,8 @@
       "group": "I",
       "owner": [
         "IW",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3638,7 +3655,8 @@
       "group": "I",
       "owner": [
         "IES",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3659,7 +3677,8 @@
       "id": "LIFFY - 3AU",
       "group": "I",
       "owner": [
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3682,7 +3701,8 @@
       "group": "I",
       "owner": [
         "IES",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3702,7 +3722,8 @@
       "id": "LIFFY - 3BU",
       "group": "I",
       "owner": [
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3724,7 +3745,8 @@
       "group": "I",
       "owner": [
         "IES",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3743,7 +3765,8 @@
       "id": "LIFFY - 3CU",
       "group": "I",
       "owner": [
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3852,7 +3875,8 @@
       "group": "I",
       "owner": [
         "IES",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3873,7 +3897,8 @@
       "id": "LIFFY - 4AU",
       "group": "I",
       "owner": [
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3896,7 +3921,8 @@
       "group": "I",
       "owner": [
         "IES",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3916,7 +3942,8 @@
       "id": "LIFFY - 4BU",
       "group": "I",
       "owner": [
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3938,7 +3965,8 @@
       "group": "I",
       "owner": [
         "IES",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -3958,7 +3986,8 @@
       "id": "LIFFY - 4CU",
       "group": "I",
       "owner": [
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -4641,7 +4670,8 @@
         "D4",
         "D1",
         "D3",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -4670,7 +4700,8 @@
         "KNT",
         "ILN",
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -4736,7 +4767,8 @@
       "owner": [
         "CKR",
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -4995,7 +5027,8 @@
         "DLT",
         "ILN",
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -5058,7 +5091,8 @@
         "D4",
         "D1",
         "D3",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -5194,7 +5228,8 @@
         "D4",
         "D1",
         "D3",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -6309,7 +6344,8 @@
         "D4",
         "D1",
         "D3",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -7287,7 +7323,8 @@
       "owner": [
         "KYT",
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -7354,7 +7391,8 @@
       "owner": [
         "NNR",
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -7705,7 +7743,8 @@
         "SGT",
         "ILN",
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -7772,7 +7811,8 @@
         "WFT",
         "ILN",
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -7841,7 +7881,8 @@
         "D4",
         "D1",
         "D3",
-        "IE"
+        "IE",
+        "IB"
       ],
       "sectors": [
         {
@@ -7987,7 +8028,8 @@
       "coord": [ 51.841389, -8.491111 ],
       "topdown": [
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ]
     },
     "EICL": { "callsign": "Clonbullogue", "coord": [ 53.249722, -7.123333 ] },
@@ -8000,7 +8042,8 @@
       "topdown": [
         "ILN",
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ]
     },
     "EIDW": {
@@ -8017,7 +8060,8 @@
         "D4",
         "D1",
         "D3",
-        "IE"
+        "IE",
+        "IB"
       ]
     },
     "EIFR": { "callsign": "Finner", "coord": [ 54.492836, -8.244373 ] },
@@ -8036,7 +8080,8 @@
       "topdown": [
         "ILN",
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ]
     },
     "EIKY": {
@@ -8044,7 +8089,8 @@
       "coord": [ 52.180833, -9.523889 ],
       "topdown": [
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ]
     },
     "EILT": { "callsign": "Letterkenny", "coord": [ 54.951333, -7.67 ] },
@@ -8056,7 +8102,8 @@
         "D2",
         "D3",
         "D1",
-        "IE"
+        "IE",
+        "IB"
       ]
     },
     "EIMH": { "callsign": "Athboy", "coord": [ 53.637778, -6.878611 ] },
@@ -8069,7 +8116,8 @@
       "coord": [ 52.701944, -8.924722 ],
       "topdown": [
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ]
     },
     "EIRE": { "callsign": "Abbeyfeale", "coord": [ 52.396367, -9.3384 ] },
@@ -8079,7 +8127,8 @@
       "coord": [ 54.280278, -8.599167 ],
       "topdown": [
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ]
     },
     "EITB": { "callsign": "Tibohane", "coord": [ 53.883567, -8.48755 ] },
@@ -8090,7 +8139,8 @@
       "coord": [ 52.187222, -7.086944 ],
       "topdown": [
         "ILS",
-        "IE"
+        "IE",
+        "IB"
       ]
     },
     "EIWT": {
@@ -8101,7 +8151,8 @@
         "D2",
         "D3",
         "D1",
-        "IE"
+        "IE",
+        "IB"
       ]
     }
   }
