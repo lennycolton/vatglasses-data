@@ -5961,28 +5961,28 @@
   "positions": {
     "SG": {
       "callsign": "Swiss Radar",
-      "frequency": "134.325",
+      "frequency": "134.850",
       "type": "CTR",
       "pre": ["LSAG"],
       "colours": [{ "hex": "#234a1a" }]
     },
     "SGE": {
       "callsign": "Swiss Radar",
-      "frequency": "128.900",
+      "frequency": "128.905",
       "type": "CTR",
       "pre": ["LSAG"],
       "colours": [{ "hex": "#034fc7" }]
     },
     "SGN": {
       "callsign": "Swiss Radar",
-      "frequency": "134.025",
+      "frequency": "134.030",
       "type": "CTR",
       "pre": ["LSAG"],
       "colours": [{ "hex": "#0e4fad" }]
     },
     "SGS": {
       "callsign": "Swiss Radar",
-      "frequency": "124.025",
+      "frequency": "124.225",
       "type": "CTR",
       "pre": ["LSAG"],
       "colours": [{ "hex": "#d252cb" }]
@@ -6045,21 +6045,21 @@
     },
     "GA": {
       "callsign": "Geneva Arrival",
-      "frequency": "131.325",
+      "frequency": "136.255",
       "type": "APP",
       "pre": ["LSGG"],
       "colours": [{ "hex": "#e1d474" }]
     },
     "GD": {
       "callsign": "Geneva Departure",
-      "frequency": "119.525",
+      "frequency": "119.530",
       "type": "DEP",
       "pre": ["LSGG"],
       "colours": [{ "hex": "#933c9c" }]
     },
     "GF": {
       "callsign": "Geneva Final",
-      "frequency": "120.300",
+      "frequency": "120.305",
       "type": "APP",
       "pre": ["LSGG"],
       "colours": [{ "hex": "#44ce2e" }]
