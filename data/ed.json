@@ -9615,7 +9615,7 @@
     {
       "id": "Aller",
       "group": "EDWW",
-      "owner": ["ALR", "WWC"],
+      "owner": ["ALR", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 244,
@@ -10330,7 +10330,7 @@
     {
       "id": "Deister",
       "group": "EDWW",
-      "owner": ["DST", "ALR", "WWC"],
+      "owner": ["DST", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 154,
@@ -10429,7 +10429,7 @@
     {
       "id": "Eider East",
       "group": "EDWW",
-      "owner": ["EIDE", "ALR", "WWC"],
+      "owner": ["EIDE", "ALR", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 244,
@@ -10506,7 +10506,7 @@
     {
       "id": "Eider West",
       "group": "EDWW",
-      "owner": ["EIDW", "EIDE", "ALR", "WWC"],
+      "owner": ["EIDE", "ALR", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 244,
@@ -10577,7 +10577,7 @@
     {
       "id": "Ems",
       "group": "EDWW",
-      "owner": ["EMS", "DST", "ALR", "WWC"],
+      "owner": ["EMS", "DST", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 244,
@@ -10799,7 +10799,7 @@
     {
       "id": "Friesland (Bremen)",
       "group": "APP",
-      "owner": ["FRI", "EIDW", "EIDE", "ALR", "WWC"],
+      "owner": ["FRI", "EIDE", "ALR", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 244,
@@ -10892,7 +10892,7 @@
     {
       "id": "Hamburg East",
       "group": "APP",
-      "owner": ["HAME", "HAMW", "ALR", "WWC"],
+      "owner": ["HAME", "HAMW", "HEI", "ALR", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 104,
@@ -10957,7 +10957,7 @@
     {
       "id": "Hamburg West",
       "group": "APP",
-      "owner": ["HAMW", "HAME", "ALR", "WWC"],
+      "owner": ["HAMW", "HAME", "HEI", "ALR", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 104,
@@ -11006,7 +11006,7 @@
     {
       "id": "Hannover",
       "group": "APP",
-      "owner": ["HAN", "HRZ", "DST", "ALR", "WWC"],
+      "owner": ["HAN", "HRZ", "DST", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 104,
@@ -11085,7 +11085,7 @@
     {
       "id": "Heide",
       "group": "EDWW",
-      "owner": ["HEI", "ALR", "WWC"],
+      "owner": ["HEI", "ALR", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 244,
@@ -11164,7 +11164,7 @@
     {
       "id": "Harz",
       "group": "EDWW",
-      "owner": ["HRZ", "DST", "ALR", "WWC"],
+      "owner": ["HRZ", "DST", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 244,
@@ -12200,7 +12200,7 @@
     {
       "id": "Celle Low",
       "group": "EDYY",
-      "owner": ["CEL", "SOL", "DST", "ALR", "WWC", "MNS", "euc/EMW"],
+      "owner": ["CEL", "SOL", "DST", "EIDW", "WWC", "euc/EMW"],
       "sectors": [
         {
           "max": 354,
@@ -12271,9 +12271,8 @@
         "CEL",
         "SOL",
         "DST",
-        "ALR",
+        "EIDW",
         "WWC",
-        "MNS",
         "euc/EMW"
       ],
       "sectors": [
@@ -12319,7 +12318,7 @@
     {
       "id": "Holstein Low",
       "group": "EDYY",
-      "owner": ["HOL", "JEV", "CEL", "EIDE", "ALR", "WWC", "euc/EMW"],
+      "owner": ["HOL", "JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "euc/EMW"],
       "sectors": [
         {
           "max": 354,
@@ -12412,6 +12411,7 @@
         "CEL",
         "EIDE",
         "ALR",
+        "EIDW",
         "WWC",
         "euc/EMW"
       ],
@@ -12470,7 +12470,7 @@
     {
       "id": "Jever Low",
       "group": "EDYY",
-      "owner": ["JEV", "CEL", "EIDW", "EIDE", "ALR", "WWC", "euc/EMW"],
+      "owner": ["JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "euc/EMW"],
       "sectors": [
         {
           "max": 354,
@@ -12542,9 +12542,9 @@
         "CELH",
         "JEV",
         "CEL",
-        "EIDW",
         "EIDE",
         "ALR",
+        "EIDW",
         "WWC",
         "euc/EMW"
       ],
@@ -12613,7 +12613,7 @@
     {
       "id": "Solling Low",
       "group": "EDYY",
-      "owner": ["SOL", "CEL", "DST", "ALR", "WWC", "MNS", "euc/EMW"],
+      "owner": ["SOL", "CEL", "DST", "EIDW", "WWC", "euc/EMW"],
       "sectors": [
         {
           "max": 354,
@@ -12692,9 +12692,8 @@
         "SOL",
         "CEL",
         "DST",
-        "ALR",
+        "EIDW",
         "WWC",
-        "MNS",
         "euc/EMW"
       ],
       "sectors": [
@@ -13811,37 +13810,37 @@
     "EDDH": {
       "callsign": "Hamburg",
       "coord": [53.630333333333, 9.9881666666667],
-      "topdown": ["HAME", "HAMW", "ALR", "WWC"]
+      "topdown": ["HAME", "HAMW", "HEI", "ALR", "EIDW", "WWC"]
     },
     "EDDV": {
       "callsign": "Hannover",
       "coord": [52.460166666667, 9.6835],
-      "topdown": ["HAN", "HRZ", "DST", "ALR", "WWC"]
+      "topdown": ["HAN", "HRZ", "DST", "EDIW", "WWC"]
     },
     "EDDW": {
       "callsign": "Bremen",
       "coord": [53.047333333333, 8.7866666666667],
-      "topdown": ["FRI", "EIDE", "ALR", "WWC"]
+      "topdown": ["FRI", "EIDE", "ALR", "EIDW", "WWC"]
     },
     "EDHL": {
       "callsign": "Lübeck",
       "coord": [53.805333333333, 10.719166666667],
-      "topdown": ["HAME", "HAMW", "ALR", "WWC"]
+      "topdown": ["HAME", "HAMW", "HEI", "ALR", "EIDW", "WWC"]
     },
     "EDVE": {
       "callsign": "Braunschweig",
       "coord": [52.319333333333, 10.558833333333],
-      "topdown": ["HAN", "HRZ", "DST", "ALR", "WWC"]
+      "topdown": ["HAN", "HRZ", "DST", "EIDW", "WWC"]
     },
     "EDVK": {
       "callsign": "Kassel",
       "coord": [51.420833333333, 9.3921666666667],
-      "topdown": ["HRZ", "DST", "ALR", "WWC"]
+      "topdown": ["HRZ", "DST", "EIDW", "WWC"]
     },
     "EDXW": {
       "callsign": "Sylt",
       "coord": [54.911666666667, 8.3423333333333],
-      "topdown": ["EIDE", "ALR", "WWC"]
+      "topdown": ["EIDE", "ALR", "EIDW", "WWC"]
     }
   }
 }
