@@ -13812,37 +13812,37 @@
     "EDDH": {
       "callsign": "Hamburg",
       "coord": [53.630333333333, 9.9881666666667],
-      "topdown": ["HAME", "HAMW", "ALR", "WWC"]
+      "topdown": ["HAME", "HAMW", "HEI", "ALR", "EIDW", "WWC"]
     },
     "EDDV": {
       "callsign": "Hannover",
       "coord": [52.460166666667, 9.6835],
-      "topdown": ["HAN", "HRZ", "DST", "ALR", "WWC"]
+      "topdown": ["HAN", "HRZ", "DST", "EDIW", "WWC"]
     },
     "EDDW": {
       "callsign": "Bremen",
       "coord": [53.047333333333, 8.7866666666667],
-      "topdown": ["FRI", "EIDE", "ALR", "WWC"]
+      "topdown": ["FRI", "EIDE", "ALR", "EIDW", "WWC"]
     },
     "EDHL": {
       "callsign": "Lübeck",
       "coord": [53.805333333333, 10.719166666667],
-      "topdown": ["HAME", "HAMW", "ALR", "WWC"]
+      "topdown": ["HAME", "HAMW", "HEI", "ALR", "EIDW", "WWC"]
     },
     "EDVE": {
       "callsign": "Braunschweig",
       "coord": [52.319333333333, 10.558833333333],
-      "topdown": ["HAN", "HRZ", "DST", "ALR", "WWC"]
+      "topdown": ["HAN", "HRZ", "DST", "EIDW", "WWC"]
     },
     "EDVK": {
       "callsign": "Kassel",
       "coord": [51.420833333333, 9.3921666666667],
-      "topdown": ["HRZ", "DST", "ALR", "WWC"]
+      "topdown": ["HRZ", "DST", "EIDW", "WWC"]
     },
     "EDXW": {
       "callsign": "Sylt",
       "coord": [54.911666666667, 8.3423333333333],
-      "topdown": ["EIDE", "ALR", "WWC"]
+      "topdown": ["EIDE", "ALR", "EIDW", "WWC"]
     }
   }
 }
