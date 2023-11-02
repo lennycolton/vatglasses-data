@@ -506,7 +506,7 @@
     {
       "id": "Gera",
       "group": "EDMM",
-      "owner": ["GER", "HAL", "MEI", "HOF", "BOR", "MMC"],
+      "owner": ["GER", "HAL", "MEI", "HOF", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -581,7 +581,7 @@
     {
       "id": "Halle",
       "group": "EDMM",
-      "owner": ["HAL", "GER", "MEI", "HOF", "BOR", "MMC"],
+      "owner": ["HAL", "GER", "MEI", "HOF", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -778,7 +778,7 @@
     {
       "id": "Meißen",
       "group": "EDMM",
-      "owner": ["MEI", "GER", "HAL", "HOF", "BOR", "MMC"],
+      "owner": ["MEI", "GER", "HAL", "HOF", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -1053,7 +1053,7 @@
     {
       "id": "Sachsen Low (Dresden)",
       "group": "APP",
-      "owner": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF", "BOR", "MMC"],
+      "owner": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF", "MMC"],
       "sectors": [
         {
           "max": 164,
@@ -1565,7 +1565,7 @@
     {
       "id": "Thüringen (Leipzig) North",
       "group": "APP",
-      "owner": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF", "BOR", "MMC"],
+      "owner": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF", "MMC"],
       "sectors": [
         {
           "max": 194,
@@ -1664,7 +1664,7 @@
     {
       "id": "Thüringen (Leipzig) South",
       "group": "APP",
-      "owner": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF", "BOR", "MMC"],
+      "owner": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF", "MMC"],
       "sectors": [
         {
           "max": 194,
@@ -3044,7 +3044,6 @@
         "HAL",
         "MEI",
         "HOF",
-        "BOR",
         "MMC",
         "euc/EME"
       ],
@@ -3122,7 +3121,6 @@
         "GER",
         "HAL",
         "HOF",
-        "BOR",
         "MMC",
         "euc/EME"
       ],
@@ -13681,7 +13679,7 @@
     "EDDP": {
       "callsign": "Leipzig",
       "coord": [51.424, 12.236333333333],
-      "topdown": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF", "BOR", "MMC"]
+      "topdown": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF", "MMC"]
     },
     "EDJA": {
       "callsign": "Memmingen",
@@ -13721,12 +13719,12 @@
     "EDDE": {
       "callsign": "Erfurt",
       "coord": [50.979833333333, 10.958166666667],
-      "topdown": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF", "BOR", "MMC"]
+      "topdown": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF", "MMC"]
     },
     "EDDC": {
       "callsign": "Dresden",
       "coord": [51.134333333333, 13.768],
-      "topdown": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF", "BOR", "MMC"]
+      "topdown": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF", "MMC"]
     },
     "EDDF": {
       "callsign": "Frankfurt",
