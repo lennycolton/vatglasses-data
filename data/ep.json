@@ -12314,7 +12314,7 @@
     "positions": {
       "EPAR": {
           "callsign": "Arlamow Radio",
-          "frequency": "136.500",
+          "frequency": "136.505",
           "type": "TWR",
           "pre": [
               "EPAR"
@@ -12327,7 +12327,7 @@
       },
       "EPBC": {
           "callsign": "Babice Information",
-          "frequency": "119.175",
+          "frequency": "119.180",
           "type": "TWR",
           "pre": [
               "EPBC"
@@ -12340,7 +12340,7 @@
       },
       "TBY": {
           "callsign": "Bydgoszcz Tower",
-          "frequency": "131.000",
+          "frequency": "131.005",
           "type": "TWR",
           "pre": [
               "EPBY"
@@ -12379,7 +12379,7 @@
       },
       "AGD": {
           "callsign": "Gdansk Approach",
-          "frequency": "127.275",
+          "frequency": "127.280",
           "type": "APP",
           "pre": [
               "EPGD"
@@ -12392,7 +12392,7 @@
       },
       "FGD": {
           "callsign": "Gdansk Director",
-          "frequency": "133.675",
+          "frequency": "133.660",
           "type": "APP",
           "pre": [
               "EPGD"
@@ -12418,7 +12418,7 @@
       },
       "TGD": {
           "callsign": "Gdansk Tower",
-          "frequency": "118.100",
+          "frequency": "118.105",
           "type": "TWR",
           "pre": [
               "EPGD"
@@ -12431,7 +12431,7 @@
       },
       "EPGY": {
           "callsign": "Grady Radio",
-          "frequency": "126.850",
+          "frequency": "126.855",
           "type": "TWR",
           "pre": [
               "EPGY"
@@ -12444,7 +12444,7 @@
       },
       "EPJA": {
           "callsign": "Jastarnia Radio",
-          "frequency": "125.550",
+          "frequency": "122.830",
           "type": "TWR",
           "pre": [
               "EPJA"
@@ -12457,7 +12457,7 @@
       },
       "EPKA": {
           "callsign": "Maslow Radio",
-          "frequency": "118.075",
+          "frequency": "118.080",
           "type": "TWR",
           "pre": [
               "EPKA"
@@ -12470,7 +12470,7 @@
       },
       "EPKG": {
           "callsign": "Bagicz Radio",
-          "frequency": "122.300",
+          "frequency": "118.830",
           "type": "TWR",
           "pre": [
               "EPKG"
@@ -12483,7 +12483,7 @@
       },
       "EPKI": {
           "callsign": "Kikity Radio",
-          "frequency": "119.400",
+          "frequency": "119.405",
           "type": "TWR",
           "pre": [
               "EPKI"
@@ -12535,7 +12535,7 @@
       },
       "AKKK": {
           "callsign": "Krakow Approach",
-          "frequency": "126.525",
+          "frequency": "126.530",
           "type": "APP",
           "pre": [
               "EPKK"
@@ -12548,7 +12548,7 @@
       },
       "AKKT": {
           "callsign": "Krakow Approach",
-          "frequency": "135.400",
+          "frequency": "135.405",
           "type": "APP",
           "pre": [
               "EPKK"
@@ -12561,7 +12561,7 @@
       },
       "TKK": {
           "callsign": "Krakow Tower",
-          "frequency": "123.250",
+          "frequency": "123.255",
           "type": "TWR",
           "pre": [
               "EPKK"
@@ -12574,7 +12574,7 @@
       },
       "EPKR": {
           "callsign": "Krosno Radio",
-          "frequency": "119.550",
+          "frequency": "119.555",
           "type": "TWR",
           "pre": [
               "EPKR"
@@ -12613,7 +12613,7 @@
       },
       "TKT": {
           "callsign": "Katowice Tower",
-          "frequency": "129.250",
+          "frequency": "129.255",
           "type": "TWR",
           "pre": [
               "EPKT"
@@ -12626,7 +12626,7 @@
       },
       "TLB": {
           "callsign": "Lublin Tower",
-          "frequency": "136.425",
+          "frequency": "136.430",
           "type": "TWR",
           "pre": [
               "EPLB"
@@ -12639,7 +12639,7 @@
       },
       "TLL": {
           "callsign": "Lodz Tower",
-          "frequency": "124.225",
+          "frequency": "124.230",
           "type": "TWR",
           "pre": [
               "EPLL"
@@ -12652,7 +12652,7 @@
       },
       "EPML": {
           "callsign": "Mielec Information",
-          "frequency": "119.100",
+          "frequency": "119.105",
           "type": "TWR",
           "pre": [
               "EPML"
@@ -12665,7 +12665,7 @@
       },
       "TMO": {
           "callsign": "Modlin Tower",
-          "frequency": "123.925",
+          "frequency": "123.930",
           "type": "TWR",
           "pre": [
               "EPMO"
@@ -12678,7 +12678,7 @@
       },
       "EPNT": {
           "callsign": "Nowy Targ Radio",
-          "frequency": "122.300",
+          "frequency": "122.305",
           "type": "TWR",
           "pre": [
               "EPNT"
@@ -12690,8 +12690,8 @@
           ]
       },
       "EPOD": {
-          "callsign": "Olsztyn Radio",
-          "frequency": "122.900",
+          "callsign": "Dajtki Radio",
+          "frequency": "124.480",
           "type": "TWR",
           "pre": [
               "EPOD"
@@ -12730,7 +12730,7 @@
       },
       "ASPO": {
           "callsign": "Poznan Approach South",
-          "frequency": "123.050",
+          "frequency": "123.040",
           "type": "APP",
           "pre": [
               "EPPO"
@@ -12743,7 +12743,7 @@
       },
       "TPO": {
           "callsign": "Poznan Tower",
-          "frequency": "119.975",
+          "frequency": "119.980",
           "type": "TWR",
           "pre": [
               "EPPO"
@@ -12782,7 +12782,7 @@
       },
       "TRA": {
           "callsign": "Radom Tower",
-          "frequency": "118.425",
+          "frequency": "118.430",
           "type": "TWR",
           "pre": [
               "EPRA"
@@ -12795,7 +12795,7 @@
       },
       "TRZ": {
           "callsign": "Rzeszow Tower",
-          "frequency": "126.800",
+          "frequency": "126.805",
           "type": "TWR",
           "pre": [
               "EPRZ"
@@ -12808,7 +12808,7 @@
       },
       "TSC": {
           "callsign": "Szczecin Tower",
-          "frequency": "121.250",
+          "frequency": "121.255",
           "type": "TWR",
           "pre": [
               "EPSC"
@@ -12834,7 +12834,7 @@
       },
       "TSY": {
           "callsign": "Mazury Tower",
-          "frequency": "118.025",
+          "frequency": "118.030",
           "type": "TWR",
           "pre": [
               "EPSY"
@@ -12847,7 +12847,7 @@
       },
       "AWA": {
           "callsign": "Warszawa Approach",
-          "frequency": "128.800",
+          "frequency": "128.805",
           "type": "APP",
           "pre": [
               "EPWA"
@@ -12860,7 +12860,7 @@
       },
       "FWA": {
           "callsign": "Warszawa Director",
-          "frequency": "129.375",
+          "frequency": "129.380",
           "type": "APP",
           "pre": [
               "EPWA"
@@ -12886,7 +12886,7 @@
       },
       "ANWA": {
           "callsign": "Warszawa Approach",
-          "frequency": "125.050",
+          "frequency": "125.055",
           "type": "APP",
           "pre": [
               "EPWA"
@@ -12899,7 +12899,7 @@
       },
       "ASWA": {
           "callsign": "Warszawa Approach",
-          "frequency": "135.925",
+          "frequency": "135.930",
           "type": "APP",
           "pre": [
               "EPWA"
@@ -12912,7 +12912,7 @@
       },
       "TWA": {
           "callsign": "Okecie Tower",
-          "frequency": "118.300",
+          "frequency": "118.305",
           "type": "TWR",
           "pre": [
               "EPWA"
@@ -12925,7 +12925,7 @@
       },
       "TWR": {
           "callsign": "Wroclaw Tower",
-          "frequency": "120.250",
+          "frequency": "120.255",
           "type": "TWR",
           "pre": [
               "EPWR"
@@ -13094,7 +13094,7 @@
       },
       "TZG": {
           "callsign": "Zielona Gora Tower",
-          "frequency": "118.750",
+          "frequency": "118.755",
           "type": "TWR",
           "pre": [
               "EPZG"
@@ -13107,7 +13107,7 @@
       },
       "EPZR": {
           "callsign": "Zar Radio",
-          "frequency": "122.825",
+          "frequency": "122.805",
           "type": "TWR",
           "pre": [
               "EPZR"
