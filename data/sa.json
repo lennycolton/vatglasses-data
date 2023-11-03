@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-      "id": "Sur",
+      "id": "Centro Sur",
       "group": "SACF",
       "owner": ["COS","COR","sam/SS"],
       "sectors": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "id": "Sur",
+      "id": "Centro Sur",
       "group": "SACF",
       "owner": ["COS","COR"],
       "sectors": [
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "id": "Norte",
+      "id": "Centro Norte",
       "group": "SACF",
       "owner": ["CON","COR","sam/SS"],
       "sectors": [
@@ -1458,7 +1458,7 @@
       ]
     },
     {
-      "id": "Norte",
+      "id": "Centro Norte",
       "group": "SACF",
       "owner": ["CON","COR"],
       "sectors": [
@@ -3229,7 +3229,7 @@
       ]
     },
     {
-      "id": "Sur",
+      "id": "Centro Sur",
       "group": "SAEF",
       "owner": ["EZS","EZC","sam/SS"],
       "sectors": [
@@ -3463,7 +3463,7 @@
       ]
     },
     {
-      "id": "Sur",
+      "id": "Centro Sur",
       "group": "SAEF",
       "owner": ["EZS","EZC"],
       "sectors": [
@@ -3697,7 +3697,7 @@
       ]
     },
     {
-      "id": "Norte",
+      "id": "Centro Norte",
       "group": "SAEF",
       "owner": ["EZN","EZC","sam/SS"],
       "sectors": [
@@ -3905,7 +3905,7 @@
       ]
     },
     {
-      "id": "Norte",
+      "id": "Centro Norte",
       "group": "SAEF",
       "owner": ["EZN","EZC"],
       "sectors": [
@@ -8776,7 +8776,7 @@
       ]
     },
     {
-      "id": "Norte",
+      "id": "Centro Norte",
       "group": "SAVF",
       "owner": ["CMN","CMC","sam/SS"],
       "sectors": [
@@ -9041,12 +9041,12 @@
       ]
     },
     {
-      "id": "Norte",
+      "id": "Centro Norte",
       "group": "SAVF",
       "owner": ["CMN","CMC"],
       "sectors": [
         {
-          "min": 244,
+          "max": 244,
           "points": [
             ["-402315", "-0604747"],
             ["-393425", "-0623112"],
@@ -9306,7 +9306,7 @@
       ]
     },
     {
-      "id": "Sur",
+      "id": "Centro Sur",
       "group": "SAVF",
       "owner": ["CMS","CMC","sam/SS"],
       "sectors": [
@@ -9729,7 +9729,7 @@
       ]
     },
     {
-      "id": "Sur",
+      "id": "Centro Sur",
       "group": "SAVF",
       "owner": ["CMS","CMC"],
       "sectors": [
@@ -10911,14 +10911,14 @@
           "colours": [{ "hex": "#f58c00" }]
         },
         "CON": {
-          "callsign": "Cordoba Centro Norte",
+          "callsign": "Cordoba Centro",
           "frequency": "125.100",
           "type": "CTR",
           "pre": ["SACF"],
           "colours": [{ "hex": "#f18c00" }]
         },
         "COS": {
-          "callsign": "Cordoba Centro Sur",
+          "callsign": "Cordoba Centro",
           "frequency": "126.500",
           "type": "CTR",
           "pre": ["SACF"],
@@ -11037,14 +11037,14 @@
           "colours": [{ "hex": "#00e400" }]
         },
         "EZN": {
-          "callsign": "Ezeiza Norte",
+          "callsign": "Ezeiza Centro",
           "frequency": "135.500",
           "type": "CTR",
           "pre": ["SAEF"],
           "colours": [{ "hex": "#748c00" }]
         },
         "EZS": {
-          "callsign": "Ezeiza Sur",
+          "callsign": "Ezeiza Centro",
           "frequency": "125.200",
           "type": "CTR",
           "pre": ["SAEF"],
@@ -11359,14 +11359,14 @@
           "colours": [{ "hex": "#e54a89" }]
         },
         "CMN": {
-          "callsign": "Comodor Centro Norte",
+          "callsign": "Comodoro Centro",
           "frequency": "125.500",
           "type": "CTR",
           "pre": ["SAVF"],
           "colours": [{ "hex": "#c68c00" }]
         },
         "CMS": {
-          "callsign": "Comodoro Centro Sur",
+          "callsign": "Comodoro Centro",
           "frequency": "125.700",
           "type": "CTR",
           "pre": ["SAVF"],
