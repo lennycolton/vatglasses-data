@@ -1,7 +1,7 @@
 {
     "airspace": [
       {
-        "id": "Oceanic (Class G)",
+        "id": "Oceánico (Class G)",
         "group": "SUEO",
         "owner": [
           "MC",
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "id": "Oceanic (Class G)",
+        "id": "Oceánico (Class G)",
         "group": "SUEO",
         "owner": [
           "MC"
