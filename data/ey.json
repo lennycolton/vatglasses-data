@@ -2615,15 +2615,15 @@
     },
 
     "positions": {
-        "EY": {"colours": [{"hex": "#dbd96b"}], "pre": ["EYVL"], "type": "CTR", "frequency": "133.300","callsign": "Vilnius Control"},
-        "EYE": {"colours": [{"hex": "#6592db"}], "pre": ["EYVL"], "type": "CTR", "frequency": "135.375","callsign": "Vilnius Control"},
+        "EY": {"colours": [{"hex": "#dbd96b"}], "pre": ["EYVL"], "type": "CTR", "frequency": "133.305","callsign": "Vilnius Control"},
+        "EYE": {"colours": [{"hex": "#6592db"}], "pre": ["EYVL"], "type": "CTR", "frequency": "135.380","callsign": "Vilnius Control"},
 
-        "AVI": {"colours": [{"hex": "#56e87d"}], "pre": ["EYVI"], "type": "APP", "frequency": "120.700","callsign": "Vilnius Approach"},
+        "AVI": {"colours": [{"hex": "#56e87d"}], "pre": ["EYVI"], "type": "APP", "frequency": "120.705","callsign": "Vilnius Approach"},
 
-        "TVI": {"colours": [{"hex": "#0b521e"}], "pre": ["EYVI"], "type": "TWR", "frequency": "118.200","callsign": "Vilnius Tower"},
-        "TPA": {"colours": [{"hex": "#053040"}], "pre": ["EYPA"], "type": "TWR", "frequency": "124.300","callsign": "Palanga Tower"},
-        "TSA": {"colours": [{"hex": "#3d0a30"}], "pre": ["EYSA"], "type": "TWR", "frequency": "120.400","callsign": "Siauliai Tower"},
-        "TKA": {"colours": [{"hex": "#441e7d"}], "pre": ["EYKA"], "type": "TWR", "frequency": "124.200","callsign": "Kaunas Tower"}
+        "TVI": {"colours": [{"hex": "#0b521e"}], "pre": ["EYVI"], "type": "TWR", "frequency": "118.205","callsign": "Vilnius Tower"},
+        "TPA": {"colours": [{"hex": "#053040"}], "pre": ["EYPA"], "type": "TWR", "frequency": "124.305","callsign": "Palanga Tower"},
+        "TSA": {"colours": [{"hex": "#3d0a30"}], "pre": ["EYSA"], "type": "TWR", "frequency": "120.405","callsign": "Siauliai Tower"},
+        "TKA": {"colours": [{"hex": "#441e7d"}], "pre": ["EYKA"], "type": "TWR", "frequency": "124.205","callsign": "Kaunas Tower"}
 
     },
 
