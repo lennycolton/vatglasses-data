@@ -2830,96 +2830,19 @@
     }
   },
   "positions": {
-    "YCH": {
-      "callsign": "Maastricht Radar",
-      "frequency": "128.810",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#88ffff" }]
-    },
-    "YYC": {
-      "callsign": "Maastricht Radar",
-      "frequency": "133.955",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#88ffff" }]
-    },
     "YYD": {
       "callsign": "Maastricht Radar",
       "frequency": "135.960",
       "type": "CTR",
       "pre": ["EDYY"],
-      "colours": [{ "hex": "#47ffff" }]
-    },
-    "YYH": {
-      "callsign": "Maastricht Radar",
-      "frequency": "120.860",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#3bffff" }]
-    },
-    "YJH": {
-      "callsign": "Maastricht Radar",
-      "frequency": "129.735",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#09ffff" }]
-    },
-    "YYJ": {
-      "callsign": "Maastricht Radar",
-      "frequency": "136.465",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#b6ffff" }]
-    },
-    "YYK": {
-      "callsign": "Maastricht Radar",
-      "frequency": "132.200",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#91ffff" }]
-    },
-    "YYM": {
-      "callsign": "Maastricht Radar",
-      "frequency": "122.185",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#a8ffff" }]
-    },
-    "YYN": {
-      "callsign": "Maastricht Radar",
-      "frequency": "135.975",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#f3ffff" }]
-    },
-    "YYO": {
-      "callsign": "Maastricht Radar",
-      "frequency": "132.850",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#b2ffff" }]
-    },
-    "YYR": {
-      "callsign": "Maastricht Radar",
-      "frequency": "124.435",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#10ffff" }]
-    },
-    "YYS": {
-      "callsign": "Maastricht Radar",
-      "frequency": "131.375",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#ecffff" }]
+      "colours": [{ "hex": "#56de37" }]
     },
     "ACE": {
       "callsign": "Amsterdam Radar",
       "frequency": "124.880",
       "type": "CTR",
       "pre": ["EHAA"],
-      "colours": [{ "hex": "#f2ffff" }]
+      "colours": [{ "hex": "#db0d3f" }]
     },
     "ACH": {
       "callsign": "Amsterdam Radar",
@@ -2933,14 +2856,14 @@
       "frequency": "124.300",
       "type": "CTR",
       "pre": ["EHAA"],
-      "colours": [{ "hex": "#f7ffff" }]
+      "colours": [{ "hex": "#ffffff" }]
     },
     "ACS": {
       "callsign": "Amsterdam Radar",
       "frequency": "123.850",
       "type": "CTR",
       "pre": ["EHAA"],
-      "colours": [{ "hex": "#73ffff" }]
+      "colours": [{ "hex": "#f38e1f" }]
     },
     "ACW": {
       "callsign": "Amsterdam Radar",
@@ -3059,7 +2982,7 @@
       "frequency": "131.005",
       "type": "TWR",
       "pre": ["EHEH"],
-      "colours": [{ "hex": "#aa0000" }]
+      "colours": [{ "hex": "#808000" }]
     },
     "AGG": {
       "callsign": "Eelde Approach",
@@ -3136,7 +3059,7 @@
       "frequency": "132.030",
       "type": "APP",
       "pre": ["EHLW"],
-      "colours": [{ "hex": "#000010" }]
+      "colours": [{ "hex": "#000001" }]
     },
     "CLT": {
       "callsign": "Leeuwarden Tower",
@@ -3150,7 +3073,7 @@
       "frequency": "128.355",
       "type": "CTR",
       "pre": ["EHMC"],
-      "colours": [{ "hex": "#73ffff" }]
+      "colours": [{ "hex": "#9e039e" }]
     },
     "ML1": {
       "callsign": "Bandbox",
@@ -3192,7 +3115,7 @@
       "frequency": "118.205",
       "type": "TWR",
       "pre": ["EHRD"],
-      "colours": [{ "hex": "#00a000" }]
+      "colours": [{ "hex": "#000a00" }]
     },
     "RSE": {
       "callsign": "Seppe Radio",
