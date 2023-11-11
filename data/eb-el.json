@@ -6882,412 +6882,240 @@
           "name":"Aerodrome Traffic Zone"
        }
     },
-    "positions":{
-       "BT":{
-          "callsign":"Brussels Tower",
-          "frequency":"118.600",
-          "type":"TWR",
-          "pre":[
-             "EBBR"
-          ],
-          "colours":[
-             {
-                "hex":"#003b00"
-             }
-          ]
-       },
-       "BTN":{
-          "callsign":"Brussels Tower",
-          "frequency":"120.775",
-          "type":"TWR",
-          "pre":[
-             "EBBR"
-          ],
-          "colours":[
-             {
-                "hex":"#000f00"
-             }
-          ]
-       },
-       "WT":{
-          "callsign":"Antwerp Tower",
-          "frequency":"135.200",
-          "type":"TWR",
-          "pre":[
-             "EBAW"
-          ],
-          "colours":[
-             {
-                "hex":"#00c200"
-             }
-          ]
-       },
-       "CT":{
-          "callsign":"Charleroi Tower",
-          "frequency":"121.300",
-          "type":"TWR",
-          "pre":[
-             "EBCI"
-          ],
-          "colours":[
-             {
-                "hex":"#00b400"
-             }
-          ]
-       },
-       "KI":{
-          "callsign":"Kortrijk Information",
-          "frequency":"120.250",
-          "type":"TWR",
-          "pre":[
-             "EBKT"
-          ],
-          "colours":[
-             {
-                "hex":"#009300"
-             }
-          ]
-       },
-       "LT":{
-          "callsign":"Liege Tower",
-          "frequency":"118.125",
-          "type":"TWR",
-          "pre":[
-             "EBLG"
-          ],
-          "colours":[
-             {
-                "hex":"#000b00"
-             }
-          ]
-       },
-       "OT":{
-          "callsign":"Ostend Tower",
-          "frequency":"118.175",
-          "type":"TWR",
-          "pre":[
-             "EBOS"
-          ],
-          "colours":[
-             {
-                "hex":"#000600"
-             }
-          ]
-       },
-       "XT":{
-          "callsign":"Luxembourg Tower",
-          "frequency":"118.100",
-          "type":"TWR",
-          "pre":[
-             "ELLX"
-          ],
-          "colours":[
-             {
-                "hex":"#004e00"
-             }
-          ]
-       },
-       "CVT":{
-          "callsign":"Chievres Tower",
-          "frequency":"136.500",
-          "type":"TWR",
-          "pre":[
-             "EBCV"
-          ],
-          "colours":[
-             {
-                "hex":"#003400"
-             }
-          ]
-       },
-       "BD":{
-          "callsign":"Brussels Departure",
-          "frequency":"126.625",
-          "type":"DEP",
-          "pre":[
-             "EBBR"
-          ],
-          "colours":[
-             {
-                "hex":"#000073"
-             }
-          ]
-       },
-       "BA":{
-          "callsign":"Brussels Arrival",
-          "frequency":"118.250",
-          "type":"APP",
-          "pre":[
-             "EBBR"
-          ],
-          "colours":[
-             {
-                "hex":"#dad7eb"
-             }
-          ]
-       },
-       "BF":{
-          "callsign":"Brussels Arrival",
-          "frequency":"120.100",
-          "type":"APP",
-          "pre":[
-             "EBBR"
-          ],
-          "colours":[
-             {
-                "hex":"#000021"
-             }
-          ]
-       },
-       "BHLD":{
-          "callsign":"Brussels Arrival",
-          "frequency":"123.200",
-          "type":"APP",
-          "pre":[
-             "EBBR"
-          ],
-          "colours":[
-             {
-                "hex":"#000096"
-             }
-          ]
-       },
-       "BW":{
-          "callsign":"Brussels Control",
-          "frequency":"131.100",
-          "type":"CTR",
-          "pre":[
-             "EBBU"
-          ],
-          "colours":[
-             {
-                "hex":"#a74b2d"
-             }
-          ]
-       },
-       "BE":{
-          "callsign":"Brussels Control",
-          "frequency":"129.575",
-          "type":"CTR",
-          "pre":[
-             "EBBU"
-          ],
-          "colours":[
-             {
-                "hex":"#e5b2a0"
-             }
-          ]
-       },
-       "BN":{
-          "callsign":"Brussels Control",
-          "frequency":"128.800",
-          "type":"CTR",
-          "pre":[
-             "EBBU"
-          ],
-          "colours":[
-             {
-                "hex":"#7e3922"
-             }
-          ]
-       },
-       "BH":{
-          "callsign":"Brussels Control",
-          "frequency":"128.200",
-          "type":"CTR",
-          "pre":[
-             "EBBU"
-          ],
-          "colours":[
-             {
-                "hex":"#a74b2d"
-             }
-          ]
-       },
-       "BL":{
-          "callsign":"Brussels Control",
-          "frequency":"125.000",
-          "type":"CTR",
-          "pre":[
-             "EBBU"
-          ],
-          "colours":[
-             {
-                "hex":"#ca603c"
-             }
-          ]
-       },
-       "BC":{
-          "callsign":"Brussels Control",
-          "frequency":"127.225",
-          "type":"CTR",
-          "pre":[
-             "EBBU"
-          ],
-          "colours":[
-             {
-                "hex":"#ffc57d"
-             }
-          ]
-       },
-       "BSUP":{
-          "callsign":"Brussels Supervisor",
-          "commment":"Will never be displayed due to 199.998 filtering",
-          "frequency":"199.998",
-          "type":"CTR",
-          "pre":[
-             "EBBU"
-          ],
-          "colours":[
-             {
-                "hex":"#d58c00"
-             }
-          ]
-       },
-       "BI":{
-          "callsign":"Brussels Information",
-          "frequency":"126.900",
-          "type":"CTR",
-          "pre":[
-             "EBBU"
-          ],
-          "colours":[
-             {
-                "hex":"#908c00"
-             }
-          ]
-       },
-       "BU":{
-          "callsign":"Maastricht Radar",
-          "frequency":"126.000",
-          "type":"CTR",
-          "pre":[
-             "EBBU"
-          ],
-          "colours":[
-             {
-                "hex":"#c58c00"
-             }
-          ]
-       },
-       "YN":{
-          "callsign":"Maastricht Radar",
-          "frequency":"135.975",
-          "type":"CTR",
-          "pre":[
-             "EDYY"
-          ],
-          "colours":[
-             {
-                "hex":"#ffddbd"
-             }
-          ]
-       },
-       "YO":{
-          "callsign":"Maastricht Radar",
-          "frequency":"132.850",
-          "type":"CTR",
-          "pre":[
-             "EDYY"
-          ],
-          "colours":[
-             {
-                "hex":"#bebdff"
-             }
-          ]
-       },
-       "YK":{
-          "callsign":"Maastricht Radar",
-          "frequency":"132.200",
-          "type":"CTR",
-          "pre":[
-             "EDYY"
-          ],
-          "colours":[
-             {
-                "hex":"#ff99cc"
-             }
-          ]
-       },
-       "YL":{
-          "callsign":"Maastricht Radar",
-          "frequency":"133.350",
-          "type":"CTR",
-          "pre":[
-             "EDYY"
-          ],
-          "colours":[
-             {
-                "hex":"#fbffbd"
-             }
-          ]
-       },
-       "CA":{
-          "callsign":"Charleroi Approach",
-          "frequency":"133.125",
-          "type":"APP",
-          "pre":[
-             "EBCI"
-          ],
-          "colours":[
-             {
-                "hex":"#9c93c9"
-             }
-          ]
-       },
-       "LA":{
-          "callsign":"Liege Approach",
-          "frequency":"119.275",
-          "type":"APP",
-          "pre":[
-             "EBLG"
-          ],
-          "colours":[
-             {
-                "hex":"#6052a5"
-             }
-          ]
-       },
-       "OA":{
-          "callsign":"Ostend Approach",
-          "frequency":"120.600",
-          "type":"APP",
-          "pre":[
-             "EBOS"
-          ],
-          "colours":[
-             {
-                "hex":"#6052a5"
-             }
-          ]
-       },
-       "XA":{
-          "callsign":"Luxembourg Approach",
-          "frequency":"120.875",
-          "type":"APP",
-          "pre":[
-             "ELLX"
-          ],
-          "colours":[
-             {
-                "hex":"#dad7eb"
-             }
-          ]
-       },
-       "XF":{
-          "callsign":"Luxembourg Director",
-          "frequency":"118.900",
-          "type":"APP",
-          "pre":[
-             "ELLX"
-          ],
-          "colours":[
-             {
-                "hex":"#0000ee"
-             }
-          ]
-       }
+    "positions": {
+    "BT": {
+      "callsign": "Brussels Tower",
+      "frequency": "118.605",
+      "type": "TWR",
+      "pre": ["EBBR"],
+      "colours": [{ "hex": "#003b00" }]
     },
+    "BTN": {
+      "callsign": "Brussels Tower",
+      "frequency": "120.780",
+      "type": "TWR",
+      "pre": ["EBBR"],
+      "colours": [{ "hex": "#000f00" }]
+    },
+    "BD": {
+      "callsign": "Brussels Departure",
+      "frequency": "126.630",
+      "type": "DEP",
+      "pre": ["EBBR"],
+      "colours": [{ "hex": "#000073" }]
+    },
+    "BA": {
+      "callsign": "Brussels Arrival",
+      "frequency": "118.255",
+      "type": "APP",
+      "pre": ["EBBR"],
+      "colours": [{ "hex": "#dad7eb" }]
+    },
+    "BF": {
+      "callsign": "Brussels Approach",
+      "frequency": "120.105",
+      "type": "APP",
+      "pre": ["EBBR"],
+      "colours": [{ "hex": "#000021" }]
+    },
+    "BHLD": {
+      "callsign": "Brussels Arrival",
+      "frequency": "129.730",
+      "type": "APP",
+      "pre": ["EBBR"],
+      "colours": [{ "hex": "#000096" }]
+    },
+    "BW": {
+      "callsign": "Brussels Control",
+      "frequency": "131.100",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#a74b2d" }]
+    },
+    "BE": {
+      "callsign": "Brussels Control",
+      "frequency": "129.575",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#e5b2a0" }]
+    },
+    "BN": {
+      "callsign": "Brussels Control",
+      "frequency": "128.805",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#7e3922" }]
+    },
+    "BH": {
+      "callsign": "Brussels Control",
+      "frequency": "128.200",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#fd8a8a" }]
+    },
+    "BL": {
+      "callsign": "Brussels Control",
+      "frequency": "125.000",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#ca603c" }]
+    },
+    "BC": {
+      "callsign": "Brussels Control",
+      "frequency": "127.230",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#ffc57d" }]
+    },
+    "BSUP": {
+      "callsign": "Brussels Supervisor",
+      "frequency": "199.998",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#d58c00" }]
+    },
+    "BI": {
+      "callsign": "Brussels Information",
+      "frequency": "126.900",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#908c00" }]
+    },
+    "BU": {
+      "callsign": "Maastricht Radar",
+      "frequency": "125.980",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#c58c00" }]
+    },
+    "YN": {
+      "callsign": "Maastricht Radar",
+      "frequency": "135.980",
+      "type": "CTR",
+      "pre": ["EDYY"],
+      "colours": [{ "hex": "#ffddbd" }]
+    },
+    "YO": {
+      "callsign": "Maastricht Radar",
+      "frequency": "132.855",
+      "type": "CTR",
+      "pre": ["EDYY"],
+      "colours": [{ "hex": "#bebdff" }]
+    },
+    "YK": {
+      "callsign": "Maastricht Radar",
+      "frequency": "132.205",
+      "type": "CTR",
+      "pre": ["EDYY"],
+      "colours": [{ "hex": "#ff99cc" }]
+    },
+    "YL": {
+      "callsign": "Maastricht Radar",
+      "frequency": "133.355",
+      "type": "CTR",
+      "pre": ["EDYY"],
+      "colours": [{ "hex": "#fbffbd" }]
+    },
+    "YNH": {
+      "callsign": "Maastricht Radar",
+      "frequency": "132.755",
+      "type": "CTR",
+      "pre": ["EDYY"],
+      "colours": [{ "hex": "#b1d80b" }]
+    },
+    "YLH": {
+      "callsign": "Maastricht Radar",
+      "frequency": "132.315",
+      "type": "CTR",
+      "pre": ["EDYY"],
+      "colours": [{ "hex": "#79f0e5" }]
+    },
+    "WT": {
+      "callsign": "Antwerp Tower",
+      "frequency": "135.205",
+      "type": "TWR",
+      "pre": ["EBAW"],
+      "colours": [{ "hex": "#00c200" }]
+    },
+    "CT": {
+      "callsign": "Charleroi Tower",
+      "frequency": "121.305",
+      "type": "TWR",
+      "pre": ["EBCI"],
+      "colours": [{ "hex": "#00b400" }]
+    },
+    "CA": {
+      "callsign": "Charleroi Approach",
+      "frequency": "133.130",
+      "type": "APP",
+      "pre": ["EBCI"],
+      "colours": [{ "hex": "#9c93c9" }]
+    },
+    "KI": {
+      "callsign": "Kortrijk Information",
+      "frequency": "120.250",
+      "type": "TWR",
+      "pre": ["EBKT"],
+      "colours": [{ "hex": "#009300" }]
+    },
+    "LT": {
+      "callsign": "Liege Tower",
+      "frequency": "118.130",
+      "type": "TWR",
+      "pre": ["EBLG"],
+      "colours": [{ "hex": "#000b00" }]
+    },
+    "LA": {
+      "callsign": "Liege Approach",
+      "frequency": "119.280",
+      "type": "APP",
+      "pre": ["EBLG"],
+      "colours": [{ "hex": "#6052a5" }]
+    },
+    "OT": {
+      "callsign": "Ostend Tower",
+      "frequency": "118.180",
+      "type": "TWR",
+      "pre": ["EBOS"],
+      "colours": [{ "hex": "#000600" }]
+    },
+    "OA": {
+      "callsign": "Ostend Approach",
+      "frequency": "120.600",
+      "type": "APP",
+      "pre": ["EBOS"],
+      "colours": [{ "hex": "#6052a5" }]
+    },
+    "XT": {
+      "callsign": "Luxembourg Tower",
+      "frequency": "118.105",
+      "type": "TWR",
+      "pre": ["ELLX"],
+      "colours": [{ "hex": "#004e00" }]
+    },
+    "XA": {
+      "callsign": "Luxembourg Approach",
+      "frequency": "120.885",
+      "type": "APP",
+      "pre": ["ELLX"],
+      "colours": [{ "hex": "#dad7eb" }]
+    },
+    "XF": {
+      "callsign": "Luxembourg Director",
+      "frequency": "118.905",
+      "type": "APP",
+      "pre": ["ELLX"],
+      "colours": [{ "hex": "#0000ee" }]
+    },
+    "CVT": {
+      "callsign": "Chievres Tower",
+      "frequency": "128.855",
+      "type": "TWR",
+      "pre": ["EBCV"],
+      "colours": [{ "hex": "#003400" }]
+    }
+
+  },
     "callsigns":{
        "DEL":{
           "":"Delivery",

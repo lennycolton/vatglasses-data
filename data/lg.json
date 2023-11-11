@@ -3,7 +3,7 @@
     {
       "id": "Athinai",
       "group": "FIN",
-      "owner": ["ARR3", "ARR2", "ARR4", "AC5", "AC2", "AC1", "FAV"],
+      "owner": ["ARR3", "ARR2", "ARR1", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 20,
@@ -212,9 +212,9 @@
       ]
     },
     {
-      "id": "Athinai West",
-      "group": "APS",
-      "owner": ["ARR2", "ARR4", "AC5", "AC2", "AC1", "FAV"],
+      "id": "Athinai",
+      "group": "ARR",
+      "owner": ["ARR2", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 125,
@@ -246,7 +246,7 @@
     {
       "id": "Athinai",
       "group": "DEP",
-      "owner": ["DEP1", "ARR2", "ARR4", "AC5", "AC2", "AC1", "FAV"],
+      "owner": ["DEP1", "ARR2", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 85,
@@ -647,9 +647,9 @@
       ]
     },
     {
-      "id": "Athinai East",
-      "group": "APS",
-      "owner": ["ARR4", "ARR2", "AC5", "AC2", "AC1", "FAV"],
+      "id": "Athinai",
+      "group": "ARR",
+      "owner": ["ARR1", "ARR2", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 125,
@@ -831,7 +831,7 @@
     },
     {
       "id": "Iraklion",
-      "group": "APS",
+      "group": "RAD",
       "owner": ["HER", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
@@ -1025,7 +1025,7 @@
     },
     {
       "id": "Kerkira",
-      "group": "APS",
+      "group": "RAD",
       "owner": ["CFU", "AC6", "AC1", "FAV"],
       "sectors": [
         {
@@ -1338,7 +1338,7 @@
     },
     {
       "id": "Rodos",
-      "group": "APS",
+      "group": "RAD",
       "owner": ["RHO", "AC2", "AC1", "FAV"],
       "sectors": [
         {
@@ -1651,7 +1651,7 @@
     },
     {
       "id": "Thessaloniki",
-      "group": "APS",
+      "group": "RAD",
       "owner": ["SKG", "AC10", "AC4", "AC1", "FAV"],
       "sectors": [
         {
@@ -5546,7 +5546,7 @@
     {
       "id": "Venizelos",
       "group": "TWR",
-      "owner": ["TWRW", "DEP1", "ARR2", "AC5", "AC2", "AC1", "FAV"],
+      "owner": ["TWRW","TWRE", "DEP1", "ARR2", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "max": 19,
@@ -5980,14 +5980,17 @@
     "DEP": {
       "name": "Departure"
     },
-    "APS": {
-      "name": "Approach"
+    "RAD": {
+      "name": "Approach (Radar)"
+    },
+    "ARR":{
+      "name": "Arrival"
     },
     "APP": {
       "name": "Approach (Non-Radar)"
     },
     "FIN": {
-      "name": "Final Approach"
+      "name": "Director"
     },
     "TWR": {
       "name": "Tower"
@@ -6060,19 +6063,19 @@
       "pre": ["LGAV"],
       "colours": [{ "hex": "#2904e7" }]
     },
+    "TAX": {
+      "callsign": "Alexandria Tower",
+      "frequency": "132.775",
+      "type": "TWR",
+      "pre": ["LGAX"],
+      "colours": [{ "hex": "#2904e7" }]
+    },
     "VOL": {
       "callsign": "Almiros Approach",
       "frequency": "120.350",
       "type": "APP",
       "pre": ["LGBL"],
       "colours": [{ "hex": "#7b0956" }]
-    },
-    "TBL": {
-      "callsign": "Almiros Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGBL"],
-      "colours": [{ "hex": "#009100" }]
     },
     "TEL": {
       "callsign": "Elefsis Tower",
@@ -6235,13 +6238,6 @@
       "pre": ["LGKL"],
       "colours": [{ "hex": "#00002f" }]
     },
-    "TKL": {
-      "callsign": "Kalamata Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGKL"],
-      "colours": [{ "hex": "#005a00" }]
-    },
     "TKN": {
       "callsign": "Kotroni Tower",
       "frequency": "120.900",
@@ -6272,21 +6268,21 @@
     },
     "CFU": {
       "callsign": "Kerkira Radar",
-      "frequency": "122.350",
+      "frequency": "122.355",
       "type": "APP",
       "pre": ["LGKR"],
       "colours": [{ "hex": "#dc3295" }]
     },
     "CD": {
       "callsign": "Kerkira Director",
-      "frequency": "118.075",
+      "frequency": "118.080",
       "type": "APP",
       "pre": ["LGKR"],
       "colours": [{ "hex": "#000023" }]
     },
     "TKR": {
       "callsign": "Kerkira Tower",
-      "frequency": "120.850",
+      "frequency": "120.855",
       "type": "TWR",
       "pre": ["LGKR"],
       "colours": [{ "hex": "#000700" }]
@@ -6333,26 +6329,12 @@
       "pre": ["LGLM"],
       "colours": [{ "hex": "#c9a1b8" }]
     },
-    "TLM": {
-      "callsign": "Limnos Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGLM"],
-      "colours": [{ "hex": "#00a200" }]
-    },
     "LRA": {
       "callsign": "Larissa Approach",
       "frequency": "120.550",
       "type": "APP",
       "pre": ["LGLR"],
       "colours": [{ "hex": "#7a5086" }]
-    },
-    "TLR": {
-      "callsign": "Larissa Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGLR"],
-      "colours": [{ "hex": "#000b00" }]
     },
     "AC14": {
       "callsign": "Makedonia Radar",
@@ -6452,13 +6434,6 @@
       "pre": ["LGPZ"],
       "colours": [{ "hex": "#dd97f7" }]
     },
-    "TRD": {
-      "callsign": "Maritsa Tower",
-      "frequency": "118.100",
-      "type": "TWR",
-      "pre": ["LGRD"],
-      "colours": [{ "hex": "#004500" }]
-    },
     "RHO": {
       "callsign": "Rodos Radar",
       "frequency": "127.250",
@@ -6536,13 +6511,6 @@
       "pre": ["LGSR"],
       "colours": [{ "hex": "#7dd66b" }]
     },
-    "TSR": {
-      "callsign": "Santorini Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGSR"],
-      "colours": [{ "hex": "#005500" }]
-    },
     "TSI": {
       "callsign": "Sitia Information",
       "frequency": "122.600",
@@ -6551,8 +6519,8 @@
       "colours": [{ "hex": "#00ff00" }]
     },
     "TSV": {
-      "callsign": "Stefanovikio Information",
-      "frequency": "123.500",
+      "callsign": "Stefanovikio Tower",
+      "frequency": "132.725",
       "type": "TWR",
       "pre": ["LGSV"],
       "colours": [{ "hex": "#005200" }]
@@ -6571,20 +6539,6 @@
       "pre": ["LGTG"],
       "colours": [{ "hex": "#8c989b" }]
     },
-    "TTG": {
-      "callsign": "Tanagra Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGTG"],
-      "colours": [{ "hex": "#003700" }]
-    },
-    "TTL": {
-      "callsign": "Kasteli Tower",
-      "frequency": "120.350",
-      "type": "TWR",
-      "pre": ["LGTL"],
-      "colours": [{ "hex": "#002900" }]
-    },
     "SKG": {
       "callsign": "Thessaloniki Radar",
       "frequency": "120.800",
@@ -6594,14 +6548,14 @@
     },
     "TD": {
       "callsign": "Thessaloniki Director",
-      "frequency": "118.275",
+      "frequency": "118.280",
       "type": "APP",
       "pre": ["LGTS"],
       "colours": [{ "hex": "#000014" }]
     },
     "TTS": {
       "callsign": "Makedonia Tower",
-      "frequency": "118.100",
+      "frequency": "118.105",
       "type": "TWR",
       "pre": ["LGTS"],
       "colours": [{ "hex": "#001600" }]
@@ -6624,13 +6578,10 @@
 
   "callsigns": {
     "DEL": {
-      "": "Delivery",
-      "C": "Coordinator"
+      "": "Delivery"
     },
     "GND": {
-      "": "Ground",
-      "P":"Planner",
-      "S":"South"
+      "": "Ground"
     },
     "TWR": {
       "": "Tower",
@@ -6638,7 +6589,6 @@
     },
     "APP": {
       "": "Approach",
-      "E":"East",
       "F": "Director"
     },
     "DEP": {
@@ -6649,6 +6599,7 @@
       "LGAD": { "callsign": "Andravida", "coord": [37.925278, 21.291389], "topdown": ["AC11", "AC7", "AC6", "AC1"] },
       "LGAL": { "callsign": "Alexandroupolis", "coord": [40.856667, 25.956667], "topdown": ["AC3", "AC14", "AC4", "AC1"]  },
       "LGAV": { "callsign": "Athens-Venizelos", "coord": [37.9367, 23.9445], "runways": ["03", "21"], "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
+      "LGAX": { "callsign": "Alexandria", "coord": [39.220556, 22.795833], "topdown": ["TA", "SKG","AC10", "AC4", "AC1"] },
       "LGBL": { "callsign": "Nea Anghialos", "coord": [39.220556, 22.795833], "topdown": ["AC4", "AC1"] },
       "LGEL": { "callsign": "Elefsis", "coord": [38.069444, 23.554167],"default": false, "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
       "LGHI": { "callsign": "Chios", "coord": [38.344444, 26.141111], "topdown": ["AC14", "AC4", "AC1"] },
@@ -6678,10 +6629,10 @@
       "LGRP": { "callsign": "Rhodes", "coord": [36.405556, 28.086944], "topdown": ["AC2", "AC1"] },
       "LGRX": { "callsign": "Araxos", "coord": [38.15, 21.416667],"default": false, "topdown": ["AAD", "AC11", "AC7", "AC6", "AC1"] },
       "LGSA": { "callsign": "Chania", "coord": [35.532222, 24.151667], "topdown": ["AC5", "AC2", "AC1"] },
-      "LGSD": { "callsign": "Thessaloniki-Sedes", "coord": [40.53333, 23.03333], "default": false, "topdown": ["SKG","AC1", "AC4", "AC1"] },
+      "LGSD": { "callsign": "Thessaloniki-Sedes", "coord": [40.53333, 23.03333], "default": false, "topdown": ["SKG","AC10", "AC4", "AC1"] },
       "LGSK": { "callsign": "Skiathos", "coord": [39.178333, 23.504167], "topdown": ["AC4", "AC1"] },
       "LGSM": { "callsign": "Samos", "coord": [37.690278, 26.912778], "topdown": ["AC2", "AC1"] },
-      "LGSO": { "callsign": "Syros", "coord": [37.41, 24.95],"default": false, "topdown": ["DEP1", "ARR4", "ARR2", "AC5", "AC2", "AC1"] },
+      "LGSO": { "callsign": "Syros", "coord": [37.41, 24.95],"default": false, "topdown": ["DEP1", "ARR1", "ARR2", "AC5", "AC2", "AC1"] },
       "LGSR": { "callsign": "Santorini", "coord": [36.401389, 25.479167], "topdown": ["AC5", "AC2", "AC1"] },
       "LGST": { "callsign": "Sitia", "coord": [35.22, 26.1], "default":false, "topdown": ["HER", "AC5", "AC2", "AC1"] },
       "LGSY": { "callsign": "Skiros", "coord": [38.96667, 24.48833], "topdown": ["AC4", "AC1"] },
