@@ -5708,6 +5708,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "21"
+                            ]
+                        }
+                    ],
                     "max": 31,
                     "min": 10,
                     "points": [
@@ -6134,6 +6142,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "21"
+                            ]
+                        }
+                    ],
                     "max": 55,
                     "min": 31,
                     "points": [
@@ -6271,6 +6287,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "03"
+                            ]
+                        }
+                    ],
                     "max": 31,
                     "min": 10,
                     "points": [
@@ -6696,6 +6720,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "03"
+                            ]
+                        }
+                    ],
                     "max": 55,
                     "min": 31,
                     "points": [
@@ -6834,6 +6866,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "03"
+                            ]
+                        }
+                    ],
                     "max": 31,
                     "min": 10,
                     "points": [
@@ -7316,6 +7356,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "03"
+                            ]
+                        }
+                    ],
                     "max": 55,
                     "min": 31,
                     "points": [
@@ -7477,6 +7525,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "21"
+                            ]
+                        }
+                    ],
                     "max": 31,
                     "min": 10,
                     "points": [
@@ -7958,6 +8014,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "21"
+                            ]
+                        }
+                    ],
                     "max": 55,
                     "min": 31,
                     "points": [
@@ -20204,6 +20268,10 @@
            -15.389490697683046
       ],
       "default": false,
+      "runways": [
+          "03",
+          "21"
+      ],
       "topdown": [
           "LPT",
           "GCA",
