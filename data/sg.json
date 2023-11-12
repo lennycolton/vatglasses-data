@@ -789,6 +789,13 @@
       "pre": ["SGAS"],
       "colours": [{ "hex": "#ffffff" }]
     },
+    "AST": {
+      "callsign": "Asunción Tower",
+      "frequency": "118.100",
+      "type": "TWR",
+      "pre": ["SGAS"],
+      "colours": [{ "hex": "#ffffff" }]
+    },
     "ESA": {
       "callsign": "Guarani Approach",
       "frequency": "119.300",
