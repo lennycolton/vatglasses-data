@@ -12882,7 +12882,7 @@
       "callsign": "Langen Radar"
     },
     "GIN": {
-      "colours": [{ "hex": "#8b26aa" }],
+      "colours": [{ "hex": "#33C2D5" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "124.730",
