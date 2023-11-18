@@ -2,7 +2,7 @@
   "airspace": [
       {
         "id": "LIRRSUD_UIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRU", "RRS", "RRN", "IUP"],
         "sectors": [
           {
@@ -54,7 +54,7 @@
       },
       {
         "id": "LIRRSUD_UIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRS", "RRN", "IUP"],
         "sectors": [
           {
@@ -106,7 +106,7 @@
       },
       {
         "id": "LIRRSUD_UIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRS", "RRN"],
         "sectors": [
           {
@@ -158,7 +158,7 @@
       },
       {
         "id": "LIRRSUD_FIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRS", "RRN"],
         "sectors": [
           {
@@ -210,7 +210,7 @@
       },
       {
         "id": "LIRRSOEAUP_UIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRU", "RRS", "RRN", "IUP"],
         "sectors": [
           {
@@ -247,7 +247,7 @@
       },
       {
         "id": "LIRRSOEAUP_UIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRS", "RRN", "IUP"],
         "sectors": [
           {
@@ -284,7 +284,7 @@
       },
       {
         "id": "LIRRSOEAUP_UIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRS", "RRN"],
         "sectors": [
           {
@@ -321,7 +321,7 @@
       },
       {
         "id": "LIRRSOEAUP_FIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRS", "RRN"],
         "sectors": [
           {
@@ -358,7 +358,7 @@
       },
       {
         "id": "LIRRNORD_UIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRU", "RRN", "RRS", "IUP"],
         "sectors": [
           {
@@ -422,7 +422,7 @@
       },
       {
         "id": "LIRRNORD_UIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRN", "RRS", "IUP"],
         "sectors": [
           {
@@ -486,7 +486,7 @@
       },
       {
         "id": "LIRRNORD_UIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRN", "RRS"],
         "sectors": [
           {
@@ -550,7 +550,7 @@
       },
       {
         "id": "LIRRNORD_FIR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRN", "RRS"],
         "sectors": [
           {
@@ -614,7 +614,7 @@
       },
       {
         "id": "LIPP-SD4",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PSU", "PNU", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -667,7 +667,7 @@
       },
       {
         "id": "LIPP-SD3",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -720,7 +720,7 @@
       },
       {
         "id": "LIPP-SD2",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -773,7 +773,7 @@
       },
       {
         "id": "LIPP-SD1",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -826,7 +826,7 @@
       },
       {
         "id": "LIPP-NE6",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PNU", "PSU", "PNE", "PCE", "PSD", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -968,7 +968,7 @@
       },
       {
         "id": "LIPP-NE5",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PNE", "PCE", "PSD", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -1110,7 +1110,7 @@
       },
       {
         "id": "LIPP-NE4",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PNE", "PCE", "PSD", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -1252,7 +1252,7 @@
       },
       {
         "id": "LIPP-NE3",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PNE", "PCE", "PSD", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -1394,7 +1394,7 @@
       },
       {
         "id": "LIPP-NE2",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PNE", "PCE", "PSD", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -1537,7 +1537,7 @@
       },
       {
         "id": "LIPP-NE1",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PNE", "PCE", "PSD", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -1695,7 +1695,7 @@
       },
       {
         "id": "LIPP-CE6",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PSU", "PNU", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -1740,7 +1740,7 @@
       },
       {
         "id": "LIPP-CE5",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -1785,7 +1785,7 @@
       },
       {
         "id": "LIPP-CE4",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -1830,7 +1830,7 @@
       },
       {
         "id": "LIPP-CE3",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -1888,7 +1888,7 @@
       },
       {
         "id": "LIPP-CE2",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -1946,7 +1946,7 @@
       },
       {
         "id": "LIPP-CE1",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -2046,7 +2046,7 @@
       },
       {
         "id": "LIMM-WS5",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MWU", "MEU", "MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -2088,7 +2088,7 @@
       },
       {
         "id": "LIMM-WS4",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -2130,7 +2130,7 @@
       },
       {
         "id": "LIMM-WS3",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -2172,8 +2172,8 @@
       },
       {
         "id": "LIMM-WS2",
-        "group": "Milano",
-        "owner": ["MWS"],
+        "group": "LIMM",
+        "owner": ["MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
             "min": 145,
@@ -2214,7 +2214,7 @@
       },
       {
         "id": "LIMM-WS1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -2258,8 +2258,8 @@
       },
       {
         "id": "LIMM-WN4",
-        "group": "Milano",
-        "owner": ["MWU", "MEU", "MWN", "MWS", "MEN", "MES", "LIMM", "EUWN"],
+        "group": "LIMM",
+        "owner": ["MWU", "MEU", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
             "min": 305,
@@ -2300,8 +2300,8 @@
       },
       {
         "id": "LIMM-WN3",
-        "group": "Milano",
-        "owner": ["MWN", "MWS", "MEN", "MES", "LIMM", "EUWN"],
+        "group": "LIMM",
+        "owner": ["MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
             "min": 245,
@@ -2342,7 +2342,7 @@
       },
       {
         "id": "LIMM-WN2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -2384,7 +2384,7 @@
       },
       {
         "id": "LIMM-WN1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -2555,8 +2555,8 @@
       },
       {
         "id": "LIMM-ES4",
-        "group": "Milano",
-        "owner": ["MEU", "MWU", "MES", "MEN", "MWS", "MWN", "LIMM", "EUWN"],
+        "group": "LIMM",
+        "owner": ["MEU", "MWU", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
             "min": 305,
@@ -2593,8 +2593,8 @@
       },
       {
         "id": "LIMM-ES3",
-        "group": "Milano",
-        "owner": ["MES", "MEN", "MWS", "MWN", "LIMM", "EUWN"],
+        "group": "LIMM",
+        "owner": ["MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
             "min": 245,
@@ -2631,7 +2631,7 @@
       },
       {
         "id": "LIMM-ES2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -2669,7 +2669,7 @@
       },
       {
         "id": "LIMM-ES1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -2718,8 +2718,8 @@
       },
       {
         "id": "LIMM-EN4",
-        "group": "Milano",
-        "owner": ["MEU", "MWU", "MEN", "MES", "MWS", "MWN", "LIMM", "EUWN"],
+        "group": "LIMM",
+        "owner": ["MEU", "MWU", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
             "min": 305,
@@ -2978,8 +2978,8 @@
       },
       {
         "id": "LIMM-EN3",
-        "group": "Milano",
-        "owner": ["MEN", "MES", "MWS", "MWN", "LIMM", "EUWN"],
+        "group": "LIMM",
+        "owner": ["MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
             "min": 245,
@@ -3238,7 +3238,7 @@
       },
       {
         "id": "LIMM-EN2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -3498,7 +3498,7 @@
       },
       {
         "id": "LIMM-EN1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -3764,7 +3764,7 @@
       },
       {
         "id": "LIBBSUD_UIR",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BBS", "BBN", "RRU", "IUP"],
         "sectors": [
           {
@@ -3824,7 +3824,7 @@
       },
       {
         "id": "LIBBSUD_UIR",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BBS", "BBN", "IUP"],
         "sectors": [
           {
@@ -3884,7 +3884,7 @@
       },
       {
         "id": "LIBBSUD_UIR",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BBS", "BBN"],
         "sectors": [
           {
@@ -3944,7 +3944,7 @@
       },
       {
         "id": "LIBBSUD_FIR",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BBS", "BBN"],
         "sectors": [
           {
@@ -4004,7 +4004,7 @@
       },
       {
         "id": "LIBBNORD_UIR",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BBN", "BBS", "RRU", "IUP"],
         "sectors": [
           {
@@ -4042,7 +4042,7 @@
       },
       {
         "id": "LIBBNORD_UIR",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BBN", "BBS", "IUP"],
         "sectors": [
           {
@@ -4080,7 +4080,7 @@
       },
       {
         "id": "LIBBNORD_UIR",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BBN", "BBS"],
         "sectors": [
           {
@@ -4118,7 +4118,7 @@
       },
       {
         "id": "LIBBNORD_FIR",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BBN", "BBS"],
         "sectors": [
           {
@@ -4156,7 +4156,7 @@
       },
       {
         "id": "LIRZAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RZA", "RRN", "RRS"],
         "sectors": [
           {
@@ -4231,7 +4231,7 @@
       },
       {
         "id": "LIRZAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RZA", "RRN", "RRS"],
         "sectors": [
           {
@@ -4293,7 +4293,7 @@
       },
       {
         "id": "LIRSAPP5",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RSA", "RRN", "RRS"],
         "sectors": [
           {
@@ -4313,7 +4313,7 @@
       },
       {
         "id": "LIRSAPP4",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RSA", "RRN", "RRS"],
         "sectors": [
           {
@@ -4334,7 +4334,7 @@
       },
       {
         "id": "LIRSAPP3",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RSA", "RRN", "RRS"],
         "sectors": [
           {
@@ -4352,7 +4352,7 @@
       },
       {
         "id": "LIRSAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RSA", "RRN", "RRS"],
         "sectors": [
           {
@@ -4372,7 +4372,7 @@
       },
       {
         "id": "LIRSAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RSA", "RRN", "RRS"],
         "sectors": [
           {
@@ -4420,7 +4420,7 @@
       },
       {
         "id": "LIRRSAPP",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RAS", "RAN", "RRE", "RRN", "RRS"],
         "sectors": [
           {
@@ -4451,7 +4451,7 @@
       },
       {
         "id": "LIRRNAPP",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RAN", "RRE", "RAS", "RRN", "RRS"],
         "sectors": [
           {
@@ -4484,7 +4484,7 @@
       },
       {
         "id": "LIRREAPP",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RRE", "RAN", "RAS", "RRN", "RRS"],
         "sectors": [
           {
@@ -4513,7 +4513,7 @@
       },
       {
         "id": "LIRRDAPP34R",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RDE", "RDW", "RAS", "RAN", "RRE", "RRN", "RRS"],
         "sectors": [
           {
@@ -4535,7 +4535,7 @@
       },
       {
         "id": "LIRRDAPP34L",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RDW", "RDE", "RAS", "RAN", "RRE", "RRN", "RRS"],
         "sectors": [
           {
@@ -4556,7 +4556,7 @@
       },
       {
         "id": "LIRRDAPP25",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RDE", "RAN", "RAS", "RRN", "RRS"],
         "sectors": [
           {
@@ -4580,7 +4580,7 @@
       },
       {
         "id": "LIRRDAPP16R",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RDW", "RDE", "RAN", "RRE", "RAS", "RRN", "RRS"],
         "sectors": [
           {
@@ -4603,7 +4603,7 @@
       },
       {
         "id": "LIRRDAPP16L",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RDE", "RDW", "RAN", "RRE", "RAS", "RRN", "RRS"],
         "sectors": [
           {
@@ -4626,7 +4626,7 @@
       },
       {
         "id": "LIRQAPP6",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -4648,7 +4648,7 @@
       },
       {
         "id": "LIRQAPP5",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -4680,7 +4680,7 @@
       },
       {
         "id": "LIRQAPP4",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -4702,7 +4702,7 @@
       },
       {
         "id": "LIRQAPP3",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -4729,7 +4729,7 @@
       },
       {
         "id": "LIRQAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -4770,7 +4770,7 @@
       },
       {
         "id": "LIRQAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -4802,7 +4802,7 @@
       },
       {
         "id": "LIRPAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RPA", "RPE", "RRN", "RRS", "MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -4836,7 +4836,7 @@
       },
       {
         "id": "LIRPAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RPA", "RPE", "RRN", "RRS", "MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -4887,7 +4887,7 @@
       },
       {
         "id": "LIRNF2APP",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RNA", "RN1", "RRN", "RRS"],
         "sectors": [
           {
@@ -4909,7 +4909,7 @@
       },
       {
         "id": "LIRNF1APP",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RNA", "RN1", "RRN", "RRS"],
         "sectors": [
           {
@@ -4941,7 +4941,7 @@
       },
       {
         "id": "LIRNAPP5",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RN1", "RNA", "RRN", "RRS"],
         "sectors": [
           {
@@ -4963,7 +4963,7 @@
       },
       {
         "id": "LIRNAPP4",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RN1", "RNA", "RRN", "RRS"],
         "sectors": [
           {
@@ -4985,7 +4985,7 @@
       },
       {
         "id": "LIRNAPP3",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RN1", "RNA", "RRN", "RRS"],
         "sectors": [
           {
@@ -5018,7 +5018,7 @@
       },
       {
         "id": "LIRNAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RNA", "RN1", "RRN", "RRS"],
         "sectors": [
           {
@@ -5043,7 +5043,7 @@
       },
       {
         "id": "LIRNAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RNA", "RN1", "RRN", "RRS"],
         "sectors": [
           {
@@ -5069,7 +5069,7 @@
       },
       {
         "id": "LIRLAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RLA", "RRN", "RRS"],
         "sectors": [
           {
@@ -5089,7 +5089,7 @@
       },
       {
         "id": "LIRLAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RLA", "RRN", "RRS"],
         "sectors": [
           {
@@ -5107,7 +5107,7 @@
       },
       {
         "id": "LIRHAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RHA", "RRN", "RRS"],
         "sectors": [
           {
@@ -5126,7 +5126,7 @@
       },
       {
         "id": "LIRHAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RHA", "RRN", "RRS"],
         "sectors": [
           {
@@ -5146,7 +5146,7 @@
       },
       {
         "id": "LIEOAPP6",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EOA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5204,7 +5204,7 @@
       },
       {
         "id": "LIEOAPP5",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EOA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5262,7 +5262,7 @@
       },
       {
         "id": "LIEOAPP4",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EOA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5328,7 +5328,7 @@
       },
       {
         "id": "LIEOAPP3",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EOA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5376,7 +5376,7 @@
       },
       {
         "id": "LIEOAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EOA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5432,7 +5432,7 @@
       },
       {
         "id": "LIEOAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EOA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5484,7 +5484,7 @@
       },
       {
         "id": "LIEEAPP3",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EEA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5510,7 +5510,7 @@
       },
       {
         "id": "LIEEAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EEA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5551,7 +5551,7 @@
       },
       {
         "id": "LIEEAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EEA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5570,7 +5570,7 @@
       },
       {
         "id": "LIEAAPP3",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EOA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5599,7 +5599,7 @@
       },
       {
         "id": "LIEAAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EOA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5624,7 +5624,7 @@
       },
       {
         "id": "LIEAAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["EOA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5653,7 +5653,7 @@
       },
       {
         "id": "LICTAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CTA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5697,7 +5697,7 @@
       },
       {
         "id": "LICTAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CTA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5736,7 +5736,7 @@
       },
       {
         "id": "LICRAPP3",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CRA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5803,7 +5803,7 @@
       },
       {
         "id": "LICRAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CRA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5848,7 +5848,7 @@
       },
       {
         "id": "LICRAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CRA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5883,7 +5883,7 @@
       },
       {
         "id": "LICJAPP3",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CJA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5904,7 +5904,7 @@
       },
       {
         "id": "LICJAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CJA", "RRS", "RRN"],
         "sectors": [
           {
@@ -5970,7 +5970,7 @@
       },
       {
         "id": "LICJAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CJA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6010,7 +6010,7 @@
       },
       {
         "id": "LICGAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CGA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6078,7 +6078,7 @@
       },
       {
         "id": "LICGAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CGA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6127,7 +6127,7 @@
       },
       {
         "id": "LICCAPP7",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CCA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6172,7 +6172,7 @@
       },
       {
         "id": "LICCAPP6",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CCA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6197,7 +6197,7 @@
       },
       {
         "id": "LICCAPP5",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CCA"],
         "sectors": [
           {
@@ -6218,7 +6218,7 @@
       },
       {
         "id": "LICCAPP4",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CCA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6238,7 +6238,7 @@
       },
       {
         "id": "LICCAPP3",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CCA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6266,7 +6266,7 @@
       },
       {
         "id": "LICCAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CCA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6286,7 +6286,7 @@
       },
       {
         "id": "LICCAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CCA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6306,7 +6306,7 @@
       },
       {
         "id": "LICAAPP4",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CAA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6333,7 +6333,7 @@
       },
       {
         "id": "LICAAPP3",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CAA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6378,7 +6378,7 @@
       },
       {
         "id": "LICAAPP2",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CAA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6401,7 +6401,7 @@
       },
       {
         "id": "LICAAPP1",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CAA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6435,7 +6435,7 @@
       },
       {
         "id": "LICAAPP0",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CAA", "RRS", "RRN"],
         "sectors": [
           {
@@ -6466,7 +6466,7 @@
       },
       {
         "id": "LIPZAPP4",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6488,7 +6488,7 @@
       },
       {
         "id": "LIPZAPP3",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6518,7 +6518,7 @@
       },
       {
         "id": "LIPZAPP2",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6555,7 +6555,7 @@
       },
       {
         "id": "LIPZAPP1",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6593,7 +6593,7 @@
       },
       {
         "id": "LIPYAPP2",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PYA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6664,7 +6664,7 @@
       },
       {
         "id": "LIPYAPP1",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PYA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6708,7 +6708,7 @@
       },
       {
         "id": "LIPXAPP4",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["PXA", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -6741,7 +6741,7 @@
       },
       {
         "id": "LIPXAPP3",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["PXA", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -6773,7 +6773,7 @@
       },
       {
         "id": "LIPXAPP2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["PXA", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -6798,7 +6798,7 @@
       },
       {
         "id": "LIPXAPP1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["PXA", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -6824,7 +6824,7 @@
       },
       {
         "id": "LIPQAPP6",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6850,7 +6850,7 @@
       },
       {
         "id": "LIPQAPP5",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6869,7 +6869,7 @@
       },
       {
         "id": "LIPQAPP4",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6896,7 +6896,7 @@
       },
       {
         "id": "LIPQAPP3",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6917,7 +6917,7 @@
       },
       {
         "id": "LIPQAPP2",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6947,7 +6947,7 @@
       },
       {
         "id": "LIPQAPP1",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -6973,7 +6973,7 @@
       },
       {
         "id": "LIPHAPP4",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PHA", "PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7013,7 +7013,7 @@
       },
       {
         "id": "LIPHAPP3",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PHA", "PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7043,7 +7043,7 @@
       },
       {
         "id": "LIPHAPP2",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PHA", "PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7077,7 +7077,7 @@
       },
       {
         "id": "LIPHAPP1",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PHA", "PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7102,7 +7102,7 @@
       },
       {
         "id": "LIPEAPP9",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PEA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7131,7 +7131,7 @@
       },
       {
         "id": "LIPEAPP8",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PEA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7164,7 +7164,7 @@
       },
       {
         "id": "LIPEAPP7",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PEA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7186,7 +7186,7 @@
       },
       {
         "id": "LIPEAPP6",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PEA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7227,7 +7227,7 @@
       },
       {
         "id": "LIPEAPP5",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PEA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7259,7 +7259,7 @@
       },
       {
         "id": "LIPEAPP4",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PEA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7288,7 +7288,7 @@
       },
       {
         "id": "LIPEAPP3",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PEA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7321,7 +7321,7 @@
       },
       {
         "id": "LIPEAPP2",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PEA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7350,7 +7350,7 @@
       },
       {
         "id": "LIPEAPP10",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PEA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7383,7 +7383,7 @@
       },
       {
         "id": "LIPEAPP1",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PEA", "PSD", "PCE", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7418,7 +7418,7 @@
       },
       {
         "id": "LIPAAPP2",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PAA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
@@ -7443,7 +7443,7 @@
       },
       {
         "id": "LIMSAPP4",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MSA", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7478,7 +7478,7 @@
       },
       {
         "id": "LIMSAPP3",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MSA", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7508,7 +7508,7 @@
       },
       {
         "id": "LIMSAPP2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MSA", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7535,7 +7535,7 @@
       },
       {
         "id": "LIMSAPP1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MSA", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7567,7 +7567,7 @@
       },
       {
         "id": "LIMPAPP2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MPA", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7598,7 +7598,7 @@
       },
       {
         "id": "LIMPAPP1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MPA", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7643,7 +7643,7 @@
       },
       {
         "id": "LIMM-LAR2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["LAR", "ADE", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7668,7 +7668,7 @@
       },
       {
         "id": "LIMM-LAR1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["LAR", "ADE", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7693,7 +7693,7 @@
       },
       {
         "id": "LIMM-ASW",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["ASW", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7721,7 +7721,7 @@
       },
       {
         "id": "LIMM-ANE2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7747,7 +7747,7 @@
       },
       {
         "id": "LIMM-ANE1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7972,7 +7972,7 @@
       },
       {
         "id": "LIMM-ADE2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["ADE", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -7998,7 +7998,7 @@
       },
       {
         "id": "LIMM-ADE1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["ADE", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -8022,7 +8022,7 @@
       },
       {
         "id": "LIMJAPP3",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MJA", "MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -8057,7 +8057,7 @@
       },
       {
         "id": "LIMJAPP2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MJA", "MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -8097,7 +8097,7 @@
       },
       {
         "id": "LIMJAPP1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MJA", "MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -8150,7 +8150,7 @@
       },
       {
         "id": "LIMFAPP5",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MFA", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -8169,7 +8169,7 @@
       },
       {
         "id": "LIMFAPP4",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MFA", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -8200,7 +8200,7 @@
       },
       {
         "id": "LIMFAPP3",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MFA", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -8218,7 +8218,7 @@
       },
       {
         "id": "LIMFAPP2",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MFA", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -8269,7 +8269,7 @@
       },
       {
         "id": "LIMFAPP1",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MFA", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
@@ -8322,7 +8322,7 @@
       },
       {
         "id": "LIBRAPP7",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BRA", "BBS", "BBN"],
         "sectors": [
           {
@@ -8347,7 +8347,7 @@
       },
       {
         "id": "LIBRAPP6",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BRA", "BBS", "BBN"],
         "sectors": [
           {
@@ -8372,7 +8372,7 @@
       },
       {
         "id": "LIBRAPP5",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BRA", "BBS", "BBN"],
         "sectors": [
           {
@@ -8417,7 +8417,7 @@
       },
       {
         "id": "LIBRAPP4",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BRA", "BBS", "BBN"],
         "sectors": [
           {
@@ -8476,7 +8476,7 @@
       },
       {
         "id": "LIBRAPP3",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BRA", "BBS", "BBN"],
         "sectors": [
           {
@@ -8526,7 +8526,7 @@
       },
       {
         "id": "LIBRAPP2",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BRA", "BBS", "BBN"],
         "sectors": [
           {
@@ -8580,7 +8580,7 @@
       },
       {
         "id": "LIBRAPP1",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BRA", "BBS", "BBN"],
         "sectors": [
           {
@@ -8628,7 +8628,7 @@
       },
       {
         "id": "LIBPAPP3",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BPA", "BBN", "BBS"],
         "sectors": [
           {
@@ -8648,7 +8648,7 @@
       },
       {
         "id": "LIBPAPP2",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BPA", "BBN", "BBS"],
         "sectors": [
           {
@@ -8678,7 +8678,7 @@
       },
       {
         "id": "LIBPAPP1",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BPA", "BBN", "BBS"],
         "sectors": [
           {
@@ -8715,7 +8715,7 @@
       },
       {
         "id": "LIBNAPP2",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BNA", "BBN", "BBS"],
         "sectors": [
           {
@@ -8741,7 +8741,7 @@
       },
       {
         "id": "LIBNAPP1",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BNA", "BBN", "BBS"],
         "sectors": [
           {
@@ -8764,7 +8764,7 @@
       },
       {
         "id": "LIBGAPP3",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BGA", "BBS", "BBN"],
         "sectors": [
           {
@@ -8804,7 +8804,7 @@
       },
       {
         "id": "LIBGAPP2",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BGA", "BBS", "BBN"],
         "sectors": [
           {
@@ -8840,7 +8840,7 @@
       },
       {
         "id": "LIBGAPP1",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BGA", "BBS", "BBN"],
         "sectors": [
           {
@@ -8871,7 +8871,7 @@
       },
       {
         "id": "LIBAAPP3",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BAA", "BBN", "BBS"],
         "sectors": [
           {
@@ -8897,7 +8897,7 @@
       },
       {
         "id": "LIBAAPP2",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BAA", "BBN", "BBS"],
         "sectors": [
           {
@@ -8919,7 +8919,7 @@
       },
       {
         "id": "LIBAAPP1",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BAA", "BBN", "BBS"],
         "sectors": [
           {
@@ -8956,7 +8956,7 @@
       },
       {
         "id": "LIMM-MAR",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MAR", "ASW", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -8982,7 +8982,7 @@
       
       {
         "id": "LIRUTWR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RUT", "RRE", "RAN", "RAS", "RRN", "RRS"],
         "sectors": [
           {
@@ -9002,7 +9002,7 @@
       },
       {
         "id": "LIRNTWR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RNT", "RNA", "RN1", "RRN", "RRS"],
         "sectors": [
           {
@@ -9047,7 +9047,7 @@
       },
       {
         "id": "LIRFTWRE",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RFE", "RFT", "RDE", "RDW", "RAN", "RAS", "RRE", "RRN", "RRS"],
         "sectors": [
           {
@@ -9074,7 +9074,7 @@
       },
       {
         "id": "LIRFTWR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["RFT", "RFE", "RDE", "RDW", "RAN", "RAS", "RRE", "RRN", "RRS"],
         "sectors": [
           {
@@ -9103,7 +9103,7 @@
       },
       {
         "id": "LICCTWR",
-        "group": "Roma",
+        "group": "LIRR",
         "owner": ["CCT", "CCA", "RRS", "RRN"],
         "sectors": [
           {
@@ -9183,7 +9183,7 @@
       },
       {
         "id": "LIPZTWR",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PZT", "PZA"],
         "sectors": [
           {
@@ -9220,7 +9220,7 @@
       },
       {
         "id": "LIPXTWR",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["PXT", "PXA"],
         "sectors": [
           {
@@ -9241,7 +9241,7 @@
       },
       {
         "id": "LIPQTWR",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PQT", "PQA"],
         "sectors": [
           {
@@ -9299,7 +9299,7 @@
       },
       {
         "id": "LIPOTWR",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["POT", "PXA"],
         "sectors": [
           {
@@ -9359,7 +9359,7 @@
       },
       {
         "id": "LIPKTWR",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PKI", "PEA"],
         "sectors": [
           {
@@ -9416,7 +9416,7 @@
       },
       {
         "id": "LIPHTWR",
-        "group": "Padova",
+        "group": "LIPP",
         "owner": ["PHT", "PHA", "PZA"],
         "sectors": [
           {
@@ -9454,7 +9454,7 @@
       },
       {
         "id": "LIMLTWR",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MLT", "LAR", "ADE", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -9483,7 +9483,7 @@
       },
       {
         "id": "LIMETWR",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MET", "ADE", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -9527,7 +9527,7 @@
       },
       {
         "id": "LIMCTWR3",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MCT", "MCE", "MAR", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -9564,7 +9564,7 @@
       },
       {
         "id": "LIMCTWR2W",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MCT", "MCE", "MAR", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -9598,7 +9598,7 @@
       },
       {
         "id": "LIMCTWR2E",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MCE", "MCT", "MAR", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -9626,7 +9626,7 @@
       },
       {
         "id": "LIMCTWR1W",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MCT", "MCE", "MAR", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -9656,7 +9656,7 @@
       },
       {
         "id": "LIMCTWR1E",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MCE", "MCT", "MAR", "ANE", "MEN", "MES", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
@@ -9689,7 +9689,7 @@
       },
       {
         "id": "LIMATWR5",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MAI", "MMI", "MFA"],
         "sectors": [
           {
@@ -9708,7 +9708,7 @@
       },
       {
         "id": "LIMATWR4",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MAI", "MMI", "MFA"],
         "sectors": [
           {
@@ -9730,7 +9730,7 @@
       },
       {
         "id": "LIMATWR3",
-        "group": "Milano",
+        "group": "LIMM",
         "owner": ["MAI", "MMI", "MFA"],
         "sectors": [
           {
@@ -9750,7 +9750,7 @@
       },
       {
         "id": "LIBRTWR",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BRT", "BRA", "BBS", "BBN"],
         "sectors": [
           {
@@ -9790,7 +9790,7 @@
       },
       {
         "id": "LIBDTWR",
-        "group": "Brindisi",
+        "group": "LIBB",
         "owner": ["BDT", "BRA", "BBS", "BBN"],
         "sectors": [
           {
@@ -9823,25 +9823,25 @@
       }
   ],
   "groups": {
-    "LIM":{
-    "name":"Milano"
-      },
-    "LIP":{
-    "name":"Padova"
-      },
-    "LIR":{
-    "name":"Roma"
-      },
-    "LIB":{
-      "name":"Brindisi"
-      },
-    "LIC":{
-      "name":"Roma"
-      },
-      "LIE":{
-        "name":"Roma"
-      }
-   },
+    "LIPP": {
+      "name": "Padova"
+    },
+    "LIMM": {
+      "name": "Milano"
+    },
+    "LIBB": {
+      "name": "Brindisi"
+    },
+    "LIRR": {
+      "name": "Roma"
+    },
+    "APP": {
+      "name": "Approach"
+    },
+    "TWR": {
+      "name": "Tower"
+    }
+  },
   "positions": {
       "BAA": {
         "callsign": "Amendola Approach",
@@ -10902,10 +10902,6 @@
      "APP":{
         "":"Approach",
         "F":"Final"
-     },
-     "CTR":{
-        "":"Control",
-        "I":"Information"
      }
     }
    },
