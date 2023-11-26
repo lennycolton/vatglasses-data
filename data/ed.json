@@ -64,7 +64,7 @@
     {
       "id": "Bamberg",
       "group": "EDMM",
-      "owner": ["BBG", "HOF", "RDG", "EGG", "MMC"],
+      "owner": ["BBG", "HOF", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -202,7 +202,7 @@
     {
       "id": "Franken Low (Nürnberg)",
       "group": "APP",
-      "owner": ["FRK", "BBG", "HOF", "RDG", "EGG", "MMC"],
+      "owner": ["FRK", "BBG", "HOF", "RDG", "MMC"],
       "sectors": [
         {
           "max": 194,
@@ -670,7 +670,7 @@
     {
       "id": "Hof",
       "group": "EDMM",
-      "owner": ["HOF", "BBG", "RDG", "EGG", "MMC"],
+      "owner": ["HOF", "BBG", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -982,7 +982,7 @@
     {
       "id": "Roding",
       "group": "EDMM",
-      "owner": ["RDG", "ALB", "EGG", "ZUG", "MMC"],
+      "owner": ["RDG", "EGG", "ALB", "ZUG", "MMC"],
       "sectors": [
         {
           "max": 134,
@@ -1806,7 +1806,7 @@
     {
       "id": "Walda",
       "group": "EDMM",
-      "owner": ["WLD", "NDG", "EGG", "ZUG", "RDG", "MMC"],
+      "owner": ["WLD", "NDG", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -2450,9 +2450,9 @@
         "DON",
         "ALP",
         "ERL",
-        "ALB",
         "RDG",
         "EGG",
+        "ALB",
         "ZUG",
         "MMC",
         "euc/EME"
@@ -2511,9 +2511,9 @@
         "DON",
         "ALP",
         "ERL",
-        "ALB",
         "RDG",
         "EGG",
+        "ALB",
         "ZUG",
         "MMC",
         "euc/EME"
@@ -2572,9 +2572,9 @@
         "DON",
         "ALP",
         "ERL",
-        "ALB",
         "RDG",
         "EGG",
+        "ALB",
         "ZUG",
         "MMC",
         "euc/EME"
@@ -2634,9 +2634,9 @@
         "DON",
         "ALP",
         "ERL",
-        "ALB",
         "RDG",
         "EGG",
+        "ALB",
         "ZUG",
         "MMC",
         "euc/EME"
@@ -2697,7 +2697,6 @@
         "BBG",
         "HOF",
         "RDG",
-        "EGG",
         "MMC",
         "euc/EME"
       ],
@@ -2766,7 +2765,6 @@
         "BBG",
         "HOF",
         "RDG",
-        "EGG",
         "MMC",
         "euc/EME"
       ],
@@ -13562,7 +13560,7 @@
     "EDDN": {
       "callsign": "Nürnberg",
       "coord": [49.498666666667, 11.078],
-      "topdown": ["FRK", "BBG", "HOF", "RDG", "EGG", "MMC"]
+      "topdown": ["FRK", "BBG", "HOF", "RDG", "MMC"]
     },
     "EDDP": {
       "callsign": "Leipzig",
@@ -13602,7 +13600,7 @@
     "EDQM": {
       "callsign": "Hof",
       "coord": [50.288833333333, 11.855],
-      "topdown": ["FRK", "BBG", "HOF", "RDG", "EGG", "MMC"]
+      "topdown": ["FRK", "BBG", "HOF", "RDG", "MMC"]
     },
     "EDDE": {
       "callsign": "Erfurt",
