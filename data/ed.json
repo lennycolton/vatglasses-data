@@ -857,7 +857,7 @@
     {
       "id": "Nördlingen",
       "group": "EDMM",
-      "owner": ["NDG", "ZUG", "RDG", "MMC"],
+      "owner": ["NDG", "ZUG", "TRU", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -1157,7 +1157,7 @@
     {
       "id": "Schwaben",
       "group": "APP",
-      "owner": ["SWA", "NDG", "ALB", "ZUG", "RDG", "MMC"],
+      "owner": ["SWA", "NDG", "ALB", "ZUG", "TRU", "RDG", "MMC"],
       "sectors": [
         {
           "max": 104,
@@ -1806,7 +1806,7 @@
     {
       "id": "Walda",
       "group": "EDMM",
-      "owner": ["WLD", "NDG", "ZUG", "RDG", "MMC"],
+      "owner": ["WLD", "NDG", "ZUG", "TRU", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -2833,6 +2833,7 @@
         "ERL",
         "NDG",
         "ZUG",
+        "TRU",
         "RDG",
         "MMC",
         "euc/EME"
@@ -2885,6 +2886,7 @@
         "ERL",
         "NDG",
         "ZUG",
+        "TRU",
         "RDG",
         "MMC",
         "euc/EME"
@@ -2937,6 +2939,7 @@
         "ERL",
         "NDG",
         "ZUG",
+        "TRU",
         "RDG",
         "MMC",
         "euc/EME"
@@ -2990,6 +2993,7 @@
         "ERL",
         "NDG",
         "ZUG",
+        "TRU",
         "RDG",
         "MMC",
         "euc/EME"
