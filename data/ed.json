@@ -351,7 +351,7 @@
     {
       "id": "Füssen",
       "group": "EDMM",
-      "owner": ["ZUG", "TRU", "RDG", "MMC"],
+      "owner": ["FUE", "ZUG", "TRU", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -723,7 +723,7 @@
     {
       "id": "Iller (Memmingen)",
       "group": "APP",
-      "owner": ["ILR", "SWA", "WLD", "ZUG", "TRU", "RDG", "MMC"],
+      "owner": ["ILR", "SWA", "FUE", "ZUG", "TRU", "RDG", "MMC"],
       "sectors": [
         {
           "max": 104,
@@ -1102,7 +1102,7 @@
     {
       "id": "Starnberg",
       "group": "EDMM",
-      "owner": ["TEG", "TRU", "ZUG", "RDG", "MMC"],
+      "owner": ["STA", "TEG", "TRU", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -12704,6 +12704,13 @@
       "frequency": "129.555",
       "callsign": "München Radar"
     },
+    "FUE": {
+      "colours": [{ "hex": "#cbef87" }],
+      "pre": ["EDMM"],
+      "type": "CTR",
+      "frequency": "133.550",
+      "callsign": "München Radar"
+    },
     "GER": {
       "colours": [{ "hex": "#493887" }],
       "pre": ["EDMM"],
@@ -12744,6 +12751,13 @@
       "pre": ["EDMM"],
       "type": "CTR",
       "frequency": "132.555",
+      "callsign": "München Radar"
+    },
+    "STA": {
+      "colours": [{ "hex": "#e79d14" }],
+      "pre": ["EDMM"],
+      "type": "CTR",
+      "frequency": "132.455",
       "callsign": "München Radar"
     },
     "TEG": {
@@ -13572,7 +13586,7 @@
     "EDJA": {
       "callsign": "Memmingen",
       "coord": [47.997381, 10.262189],
-      "topdown": ["ILR", "SWA", "ZUG", "TRU", "RDG", "MMC"]
+      "topdown": ["ILR", "SWA", "FUE", "ZUG", "TRU", "RDG", "MMC"]
     },
     "EDMA": {
       "callsign": "Augsburg",
