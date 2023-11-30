@@ -5194,7 +5194,7 @@
 		"LOVV_N_CTR":		{"colours":[{"hex":"#247513"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"134.350",	"callsign":"Wien Radar"},	
 		"LOVV_E_CTR":		{"colours":[{"hex":"#8f7aec"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"135.635",	"callsign":"Wien Radar"},	
 		"LOVV_B_CTR":		{"colours":[{"hex":"#37fbd2"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"132.190",	"callsign":"Wien Radar"},	
-		"LOVV_C_CTR":		{"colours":[{"hex":"#aaec7f"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"118.730",	"callsign":"Wien Radar"},
+		"LOVV_C_CTR":		{"colours":[{"hex":"#aaec7f"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"132.160",	"callsign":"Wien Radar"},
 		"LOVV_N_APP":		{"colours":[{"hex":"#674ea7"}],	"pre":["LOVV"],		"type":"APP",	"frequency":"123.725",	"callsign":"Wien Radar"},	
 		"LOVV_S_APP":		{"colours":[{"hex":"#741b47"}],	"pre":["LOVV"],		"type":"APP",	"frequency":"119.300",	"callsign":"Wien Radar"},	
 		"LOWG_APP":		{"colours":[{"hex":"#bf9000"}],	"pre":["LOWG"],		"type":"APP",	"frequency":"119.300",	"callsign":"Graz Radar"},	
