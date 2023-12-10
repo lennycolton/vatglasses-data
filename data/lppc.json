@@ -2723,28 +2723,28 @@
     },
     "CTRCS": {
       "callsign": "Cascais Tower",
-      "frequency": "120.300",
+      "frequency": "120.305",
       "type": "TWR",
       "pre": ["LPCS"],
       "colours": [{ "hex": "#009500" }]
     },
     "TMAFR": {
       "callsign": "Faro Approach",
-      "frequency": "119.400",
+      "frequency": "119.405",
       "type": "APP",
       "pre": ["LPFR"],
       "colours": [{ "hex": "#0000ca" }]
     },
     "CTRFR": {
       "callsign": "Faro Tower",
-      "frequency": "120.750",
+      "frequency": "120.755",
       "type": "TWR",
       "pre": ["LPFR"],
       "colours": [{ "hex": "#007100" }]
     },
     "TMAMA": {
       "callsign": "Madeira Approach",
-      "frequency": "119.600",
+      "frequency": "119.605",
       "type": "APP",
       "pre": ["LPMA"],
       "colours": [{ "hex": "#00000e" }]
@@ -2758,7 +2758,7 @@
     },
     "CTRMA": {
       "callsign": "Madeira Tower",
-      "frequency": "124.650",
+      "frequency": "124.660",
       "type": "TWR",
       "pre": ["LPMA"],
       "colours": [{ "hex": "#006f00" }]
@@ -2807,14 +2807,14 @@
     },
     "CENU": {
       "callsign": "Lisboa Control",
-      "frequency": "134.850",
+      "frequency": "134.855",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#248c00" }]
     },
     "CENL": {
       "callsign": "Lisboa Control",
-      "frequency": "136.025",
+      "frequency": "136.030",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#a78c00" }]
@@ -2835,28 +2835,28 @@
     },
     "MADL": {
       "callsign": "Lisboa Control",
-      "frequency": "132.250",
+      "frequency": "132.255",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#b28c00" }]
     },
     "NORU": {
       "callsign": "Lisboa Control",
-      "frequency": "127.250",
+      "frequency": "127.255",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#378c00" }]
     },
     "NORL": {
       "callsign": "Lisboa Control",
-      "frequency": "132.300",
+      "frequency": "132.305",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#028c00" }]
     },
     "SULL": {
       "callsign": "Lisboa Control",
-      "frequency": "132.700",
+      "frequency": "132.705",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#0b8c00" }]
@@ -2912,21 +2912,21 @@
     },
     "PRAPP": {
       "callsign": "Porto Approach",
-      "frequency": "120.900",
+      "frequency": "120.910",
       "type": "APP",
       "pre": ["LPPR"],
       "colours": [{ "hex": "#00004f" }]
     },
     "PRCTR": {
       "callsign": "Porto Tower",
-      "frequency": "118.000",
+      "frequency": "118.005",
       "type": "TWR",
       "pre": ["LPPR"],
       "colours": [{ "hex": "#009600" }]
     },
     "PRTMA": {
       "callsign": "Porto Control",
-      "frequency": "118.875",
+      "frequency": "118.855",
       "type": "APP",
       "pre": ["LPPR"],
       "colours": [{ "hex": "#00009d" }]
@@ -2940,28 +2940,28 @@
     },
     "APPLI": {
       "callsign": "Lisboa Approach",
-      "frequency": "119.100",
+      "frequency": "119.105",
       "type": "APP",
       "pre": ["LPPT"],
       "colours": [{ "hex": "#0000ed" }]
     },
     "ARRLI": {
       "callsign": "Lisboa Approach",
-      "frequency": "125.125",
+      "frequency": "125.130",
       "type": "APP",
       "pre": ["LPPT"],
       "colours": [{ "hex": "#0000f7" }]
     },
     "CTRPT": {
       "callsign": "Lisboa Tower",
-      "frequency": "118.100",
+      "frequency": "118.105",
       "type": "TWR",
       "pre": ["LPPT"],
       "colours": [{ "hex": "#002f00" }]
     },
     "TMALI": {
       "callsign": "Lisboa Control",
-      "frequency": "123.975",
+      "frequency": "123.980",
       "type": "APP",
       "pre": ["LPPT"],
       "colours": [{ "hex": "#0000ab" }]

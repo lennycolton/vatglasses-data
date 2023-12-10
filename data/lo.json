@@ -5192,27 +5192,29 @@
 		"LOVV_M_CTR":		{"colours":[{"hex":"#9FE2BF"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"131.025",	"callsign":"Wien Radar"},	
 		"LOVV_W_CTR":		{"colours":[{"hex":"#c7b192"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"129.125",	"callsign":"Wien Radar"},	
 		"LOVV_N_CTR":		{"colours":[{"hex":"#247513"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"134.350",	"callsign":"Wien Radar"},	
-		"LOVV_E_CTR":		{"colours":[{"hex":"#8f7aec"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"135.625",	"callsign":"Wien Radar"},	
-		"LOVV_B_CTR":		{"colours":[{"hex":"#37fbd2"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"126.275",	"callsign":"Wien Radar"},	
-		"LOVV_C_CTR":		{"colours":[{"hex":"#aaec7f"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"118.725",	"callsign":"Wien Radar"},
+		"LOVV_E_CTR":		{"colours":[{"hex":"#8f7aec"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"135.635",	"callsign":"Wien Radar"},	
+		"LOVV_B_CTR":		{"colours":[{"hex":"#37fbd2"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"132.190",	"callsign":"Wien Radar"},	
+		"LOVV_C_CTR":		{"colours":[{"hex":"#aaec7f"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"132.160",	"callsign":"Wien Radar"},
 		"LOVV_N_APP":		{"colours":[{"hex":"#674ea7"}],	"pre":["LOVV"],		"type":"APP",	"frequency":"123.725",	"callsign":"Wien Radar"},	
 		"LOVV_S_APP":		{"colours":[{"hex":"#741b47"}],	"pre":["LOVV"],		"type":"APP",	"frequency":"119.300",	"callsign":"Wien Radar"},	
 		"LOWG_APP":		{"colours":[{"hex":"#bf9000"}],	"pre":["LOWG"],		"type":"APP",	"frequency":"119.300",	"callsign":"Graz Radar"},	
 		"LOWI_APP":		{"colours":[{"hex":"#1155cc"}],	"pre":["LOWI"],		"type":"APP",	"frequency":"128.975",	"callsign":"Innsbruck Radar"},	
 		"LOWI_E_APP":		{"colours":[{"hex":"#1c4587"}],	"pre":["LOWI"],		"type":"APP",	"frequency":"119.275",	"callsign":"Innsbruck Radar"},	
-		"LOWI_F_APP":		{"colours":[{"hex":"#9fc5e8"}],	"pre":["LOWI"],		"type":"APP",	"frequency":"130.475",	"callsign":"Innsbruck Arrival"},	
+		"LOWI_F_APP":		{"colours":[{"hex":"#9fc5e8"}],	"pre":["LOWI"],		"type":"APP",	"frequency":"121.390",	"callsign":"Innsbruck Arrival"},	
 		"LOWI_S_APP":		{"colours":[{"hex":"#3d85c6"}],	"pre":["LOWI"],		"type":"APP",	"frequency":"119.275",	"callsign":"Innsbruck Radar"},	
 		"LOWK_APP":		{"colours":[{"hex":"#c27ba0"}],	"pre":["LOWK"],		"type":"APP",	"frequency":"123.325",	"callsign":"Klagenfurt Radar"},	
-		"LOWL_APP":		{"colours":[{"hex":"#730a6f"}],	"pre":["LOWL"],		"type":"APP",	"frequency":"129.625",	"callsign":"Linz Radar"},	
+		"LOWL_APP":		{"colours":[{"hex":"#730a6f"}],	"pre":["LOWL"],		"type":"APP",	"frequency":"125.685",	"callsign":"Linz Radar"},	
 		"LOWS_APP":		{"colours":[{"hex":"#ebca98"}],	"pre":["LOWS"],		"type":"APP",	"frequency":"123.725",	"callsign":"Salzburg Radar"},	
 		"LOWW_APP":		{"colours":[{"hex":"#93c47d"}],	"pre":["LOWW"],		"type":"APP",	"frequency":"134.675",	"callsign":"Wien Radar"},	
 		"LOWW_N_APP":		{"colours":[{"hex":"#38761d"}],	"pre":["LOWW"],		"type":"APP",	"frequency":"118.775",	"callsign":"Wien Radar"},	
 		"LOWW_P_APP":		{"colours":[{"hex":"#274e13"}],	"pre":["LOWW"],		"type":"APP",	"frequency":"129.050",	"callsign":"Wien Radar"},	
 		"LOWW_M_APP":		{"colours":[{"hex":"#6aa84f"}],	"pre":["LOWW"],		"type":"APP",	"frequency":"125.175",	"callsign":"Wien Radar"},	
-		"LOWW_F_APP":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOWW"],		"type":"APP",	"frequency":"119.800",	"callsign":"Wien Arrival"},	
+		"LOWW_F_APP":		{				"pre":["LOWW"],		"type":"APP",	"frequency":"119.800",	"callsign":"Wien Arrival"},	
 		"LOWW_D_APP":		{				"pre":["LOWW"],		"type":"APP",	"frequency":"134.125",	"callsign":"Wien Arrival"},	
 		"LOXT_APP":		{"colours":[{"hex":"#00ff00"}],	"pre":["LOXT"],		"type":"APP",	"frequency":"136.125",	"callsign":"Tulln Approach"},	
-		"LOXZ_APP":		{"colours":[{"hex":"#aaaa00"}],	"pre":["LOXZ"],		"type":"APP",	"frequency":"129.475",	"callsign":"Zeltweg Radar"},	
+		"LOXT_P_APP":		{				"pre":["LOXT"],		"type":"APP",	"frequency":"136.425",	"callsign":"Tulln PAR"},			
+		"LOXZ_APP":		{"colours":[{"hex":"#aaaa00"}],	"pre":["LOXZ"],		"type":"APP",	"frequency":"129.475",	"callsign":"Zeltweg Radar"},
+		"LOXZ_P_APP":		{				"pre":["LOXZ"],		"type":"APP",	"frequency":"136.000",	"callsign":"Zeltweg PAR"},		
 		"LOWG_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOWG"],		"type":"TWR",	"frequency":"118.200",	"callsign":"Graz Tower"},	
 		"LOWI_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOWI"],		"type":"TWR",	"frequency":"120.100",	"callsign":"Innsbruck Tower"},	
 		"LOWK_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOWK"],		"type":"TWR",	"frequency":"118.125",	"callsign":"Klagenfurt Tower"},	
@@ -5451,6 +5453,49 @@
 				}
 			]
 		},
+		"LOIJ":{
+			"callsign":"St. Johann in Tirol",
+			"coord":[
+				47.519667,
+				12.45
+			],
+			"topdown":[
+				{
+					"runway": {
+						"icao": "LOWI",
+						"runway": "26"
+					},
+					"topdown": [
+						"LOWI_F_APP",
+						"LOWI_E_APP",
+						"LOWI_S_APP",
+						"LOWI_APP",
+						"LOVV_L_CTR",
+						"LOVV_W_CTR",
+						"LOVV_S_CTR",
+						"LOVV_B_CTR",
+						"LOVV_CTR"
+					]
+				},
+				{
+					"runway": {
+						"icao": "LOWI",
+						"runway": "08"
+					},
+					"topdown": [
+						"LOWI_E_APP",
+						"LOWI_S_APP",
+						"LOWI_APP",
+						"LOWI_F_APP",
+						"LOVV_L_CTR",
+						"LOVV_W_CTR",
+						"LOVV_S_CTR",
+						"LOVV_B_CTR",
+						"LOVV_CTR"
+					]
+				}
+			]
+		},
 		"LOAA": { "callsign": "Ottenschlag", "coord": [48.417833, 15.216667] },
 		"LOAB": { "callsign": "Dobersberg", "coord": [48.920667, 15.291333] },
 		"LOAD": { "callsign": "Voeltendorf", "coord": [48.157, 15.586333] },
@@ -5469,7 +5514,6 @@
 		"LOGT": { "callsign": "Timmersdorf", "coord": [47.374667, 14.967667] },
 		"LOGW": { "callsign": "Weiz-Unterfladnitz", "coord": [47.169167, 15.659167] },
 		"LOIH": { "callsign": "Hohenems-Dornbirn", "coord": [47.384333, 9.7] },
-		"LOIJ": { "callsign": "St. Johann in Tirol", "coord": [47.519667, 12.45] },
 		"LOIK": { "callsign": "Kufstein-Langkampfen", "coord": [47.558833, 12.1235] },
 		"LOIR": { "callsign": "Reutte", "coord": [47.469167, 10.688833] },
 		"LOKF": { "callsign": "Feldkirchen", "coord": [46.705333, 14.073] },

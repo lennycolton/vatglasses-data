@@ -6040,12 +6040,12 @@
     "CAA": {"callsign": "Calabar Approach/Tower", "frequency": "124.500", "type": "APP", "pre": ["DNCA"], "colours": [{"hex": "#000039"}]},
     "ILA": {"callsign": "Ilorin Approach/Tower", "frequency": "119.600", "type": "APP", "pre": ["DNIL"], "colours": [{"hex": "#000029"}]},
     "KAA": {"callsign": "Kaduna Approach/Tower", "frequency": "118.800", "type": "APP", "pre": ["DNKA"], "colours": [{"hex": "#00008a"}]},
-    "KN": {"callsign": "Kano Centre", "frequency": "124.100", "type": "CTR", "pre": ["DNKK"], "colours": [{"hex": "#098c00"}]},
-    "KNW": {"callsign": "Kano Centre", "frequency": "128.500", "type": "CTR", "pre": ["DNKK"], "colours": [{"hex": "#648c00"}]},
+    "KN": {"callsign": "Kano Center", "frequency": "124.100", "type": "CTR", "pre": ["DNKK"], "colours": [{"hex": "#098c00"}]},
+    "KNW": {"callsign": "Kano Center", "frequency": "128.500", "type": "CTR", "pre": ["DNKK"], "colours": [{"hex": "#648c00"}]},
     "KNA": {"callsign": "Kano Approach", "frequency": "125.700", "type": "APP", "pre": ["DNKN"], "colours": [{"hex": "#0000b1"}]},
     "MAA": {"callsign": "Maiduguri Approach/Tower", "frequency": "118.400", "type": "APP", "pre": ["DNMA"], "colours": [{"hex": "#0000f4"}]},
     "MMA": {"callsign": "Lagos Approach", "frequency": "124.700", "type": "APP", "pre": ["DNMM"], "colours": [{"hex": "#00004a"}]},
-    "MMW": {"callsign": "Lagos Centre", "frequency": "120.900", "type": "CTR", "pre": ["DNMM"], "colours": [{"hex": "#998c00"}]},
+    "MMW": {"callsign": "Lagos Center", "frequency": "120.900", "type": "CTR", "pre": ["DNMM"], "colours": [{"hex": "#998c00"}]},
     "POA": {"callsign": "Port Harcourt Approach", "frequency": "124.900", "type": "APP", "pre": ["DNPO"], "colours": [{"hex": "#00002f"}]}
   },
   "callsigns": {

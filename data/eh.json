@@ -400,7 +400,7 @@
       "sectors": [
         {
           "min": 0,
-          "max": 19,
+          "max": 24,
           "points": [
             ["521620", "0052511"],
             ["522024", "0053357"],
@@ -1185,14 +1185,64 @@
         }
       ]
     },
+	{
+      "id": "EHGG CTR",
+      "group": "TWR",
+      "owner": ["TGG", "AGG", "ACE", "ACW", "ACS"],
+      "sectors": [
+        {
+          "min": 0,
+          "max": 19,
+          "points": [
+           ["530228", "0061617"],
+			["530618", "0062424"],
+			["530628", "0062418"],
+			["530729", "0062410"],
+			["530830", "0062418"],
+			["530929", "0062442"],
+			["531026", "0062521"],
+			["531118", "0062614"],
+			["531205", "0062720"],
+			["531245", "0062838"],
+			["531317", "0063005"],
+			["531340", "0063139"],
+			["531354", "0063318"],
+			["531359", "0063500"],
+			["531354", "0063641"],
+			["531340", "0063820"],
+			["531324", "0063929"],
+			["531713", "0064740"],
+			["531230", "0065349"],
+			["530841", "0064537"],
+			["530830", "0064541"],
+			["530729", "0064549"],
+			["530628", "0064541"],
+			["530529", "0064517"],
+			["530432", "0064438"],
+			["530340", "0064345"],
+			["530254", "0064239"],
+			["530214", "0064121"],
+			["530142", "0063954"],
+			["530119", "0063820"],
+			["530105", "0063641"],
+			["530100", "0063500"],
+			["530105", "0063318"],
+			["530119", "0063139"],
+			["530136", "0063032"],
+			["525745", "0062224"],
+			["530228", "0061617"]
+		]
+        }
+      ]
+    },	
     {
       "id": "EHLE TMA1",
       "group": "APP",
       "owner": ["CLE", "FD2", "FD1", "ACE", "ACW"],
       "sectors": [
         {
-          "min": 20,
-          "max": 19,
+          "min": 15,
+          "max": 24,
           "points": [
             ["521620", "0052511"],
             ["521610", "0052449"],
@@ -1236,7 +1286,7 @@
       "owner": ["CLE", "FD2", "FD1", "ACE", "ACW"],
       "sectors": [
         {
-          "min": 20,
+          "min": 15,
           "max": 64,
           "points": [
             ["521913", "0053925"],
@@ -2780,96 +2830,19 @@
     }
   },
   "positions": {
-    "YCH": {
-      "callsign": "Maastricht Radar",
-      "frequency": "128.810",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#88ffff" }]
-    },
-    "YYC": {
-      "callsign": "Maastricht Radar",
-      "frequency": "133.955",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#88ffff" }]
-    },
     "YYD": {
       "callsign": "Maastricht Radar",
       "frequency": "135.960",
       "type": "CTR",
       "pre": ["EDYY"],
-      "colours": [{ "hex": "#47ffff" }]
-    },
-    "YYH": {
-      "callsign": "Maastricht Radar",
-      "frequency": "120.860",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#3bffff" }]
-    },
-    "YJH": {
-      "callsign": "Maastricht Radar",
-      "frequency": "129.735",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#09ffff" }]
-    },
-    "YYJ": {
-      "callsign": "Maastricht Radar",
-      "frequency": "136.465",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#b6ffff" }]
-    },
-    "YYK": {
-      "callsign": "Maastricht Radar",
-      "frequency": "132.200",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#91ffff" }]
-    },
-    "YYM": {
-      "callsign": "Maastricht Radar",
-      "frequency": "122.185",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#a8ffff" }]
-    },
-    "YYN": {
-      "callsign": "Maastricht Radar",
-      "frequency": "135.975",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#f3ffff" }]
-    },
-    "YYO": {
-      "callsign": "Maastricht Radar",
-      "frequency": "132.850",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#b2ffff" }]
-    },
-    "YYR": {
-      "callsign": "Maastricht Radar",
-      "frequency": "124.435",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#10ffff" }]
-    },
-    "YYS": {
-      "callsign": "Maastricht Radar",
-      "frequency": "131.375",
-      "type": "CTR",
-      "pre": ["EDYY"],
-      "colours": [{ "hex": "#ecffff" }]
+      "colours": [{ "hex": "#56de37" }]
     },
     "ACE": {
       "callsign": "Amsterdam Radar",
       "frequency": "124.880",
       "type": "CTR",
       "pre": ["EHAA"],
-      "colours": [{ "hex": "#f2ffff" }]
+      "colours": [{ "hex": "#db0d3f" }]
     },
     "ACH": {
       "callsign": "Amsterdam Radar",
@@ -2883,14 +2856,14 @@
       "frequency": "124.300",
       "type": "CTR",
       "pre": ["EHAA"],
-      "colours": [{ "hex": "#f7ffff" }]
+      "colours": [{ "hex": "#ffffff" }]
     },
     "ACS": {
       "callsign": "Amsterdam Radar",
       "frequency": "123.850",
       "type": "CTR",
       "pre": ["EHAA"],
-      "colours": [{ "hex": "#73ffff" }]
+      "colours": [{ "hex": "#f38e1f" }]
     },
     "ACW": {
       "callsign": "Amsterdam Radar",
@@ -3002,14 +2975,14 @@
       "frequency": "124.530",
       "type": "APP",
       "pre": ["EHEH"],
-      "colours": [{ "hex": "#000010" }]
+      "colours": [{ "hex": "#00ff00" }]
     },
     "CET": {
       "callsign": "Eindhoven Tower",
       "frequency": "131.005",
       "type": "TWR",
       "pre": ["EHEH"],
-      "colours": [{ "hex": "#008000" }]
+      "colours": [{ "hex": "#808000" }]
     },
     "AGG": {
       "callsign": "Eelde Approach",
@@ -3100,7 +3073,7 @@
       "frequency": "128.355",
       "type": "CTR",
       "pre": ["EHMC"],
-      "colours": [{ "hex": "#73ffff" }]
+      "colours": [{ "hex": "#9e039e" }]
     },
     "ML1": {
       "callsign": "Bandbox",
