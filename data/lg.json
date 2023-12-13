@@ -6599,7 +6599,7 @@
       "LGAD": { "callsign": "Andravida", "coord": [37.925278, 21.291389], "topdown": ["AC11", "AC7", "AC6", "AC1"] },
       "LGAL": { "callsign": "Alexandroupolis", "coord": [40.856667, 25.956667], "topdown": ["AC3", "AC14", "AC4", "AC1"]  },
       "LGAV": { "callsign": "Athens-Venizelos", "coord": [37.9367, 23.9445], "runways": ["03", "21"], "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
-      "LGAX": { "callsign": "Alexandria", "coord": [39.220556, 22.795833], "topdown": ["TA", "SKG","AC10", "AC4", "AC1"] },
+      "LGAX": { "callsign": "Alexandria", "coord": [40.6465, 22.4929], "topdown": ["TA", "SKG","AC10", "AC4", "AC1"] },
       "LGBL": { "callsign": "Nea Anghialos", "coord": [39.220556, 22.795833], "topdown": ["AC4", "AC1"] },
       "LGEL": { "callsign": "Elefsis", "coord": [38.069444, 23.554167],"default": false, "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
       "LGHI": { "callsign": "Chios", "coord": [38.344444, 26.141111], "topdown": ["AC14", "AC4", "AC1"] },
