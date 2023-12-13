@@ -1,8 +1,8 @@
 {
     "airspace": [
         {
-            "id": "Low-South",
-            "group": "CTR",
+            "id": "Low South",
+            "group": "HKNA",
             "owner": [
                 "KNS",
                 "KNC"
@@ -327,9 +327,8 @@
                 }
             ]
         },
-
         {
-            "id": "Low-North",
+            "id": "Low North",
             "group": "HKNA",
             "owner": [
                 "KNC"
@@ -1012,17 +1011,15 @@
             ]
         },
         {
-            "id": "High-South",
-            "group": "CTR",
+            "id": "High South",
+            "group": "HKNA",
             "owner": [
                 "KNS",
-                "KNC"
+                "KNC",
+                "afr/AC"
             ],
             "sectors": [
                 {
-                    "max": 179,
-                    "points": [
-{
                     "min": 245,
                     "points": [
                         [ "000009", "0375803" ],
@@ -1090,9 +1087,11 @@
                         [ "005950", "0410003" ],
                         [ "000009", "0375803" ]
                     ]
-                },
+                }
+            ]
+        },
         {
-            "id": "High",
+            "id": "High North",
             "group": "HKNA",
             "owner": [
                 "KNC",
@@ -3581,7 +3580,7 @@
     "HKMH": { "callsign": "Muddo Gashe", "coord": ["0.763889", "39.150833"] },
     "HKMI": { "callsign": "Maralal (Kisima)", "coord": ["0.947222", "36.80225"] },
     "HKMJ": { "callsign": "Migori", "coord": ["-1.119278", "34.483833"] },
-    "HKML": { "callsign": "Malindi", "coord": ["-3.222222", "40.098611"], "major": "KNS" },
+    "HKML": { "callsign": "Malindi", "coord": ["-3.222222", "40.098611"], "topdown": ["KNS"] },
     "HKMM": { "callsign": "Masai Mara Camp", "coord": ["-1.202611", "35.100778"] },
     "HKMN": { "callsign": "Menengai", "coord": ["-0.236028", "36.000806"] },
     "HKMO": { "callsign": "Mombasa", "coord": ["-4.025", "39.597222"], "topdown": ["KNS"] },
