@@ -10885,26 +10885,26 @@
         "type": "CTR",
         "pre": ["LIUP"],
         "colours": [{ "hex": "#005200" }]
-      },
-    "callsigns": {
-      "DEL":{
-        "":"Delivery",
-        "P":"Planner"
-     },
-     "GND":{
-        "":"Ground",
-        "P":"Planner"
-     },
-     "TWR":{
-        "":"Tower",
-        "I":"Information"
-     },
-     "APP":{
-        "":"Approach",
-        "F":"Final"
-     }
+      }
+  },
+  "callsigns": {
+    "DEL":{
+      "":"Delivery",
+      "P":"Planner"
+    },
+    "GND":{
+      "":"Ground",
+      "P":"Planner"
+    },
+    "TWR":{
+      "":"Tower",
+      "I":"Information"
+    },
+    "APP":{
+      "":"Approach",
+      "F":"Final"
     }
-   },
+  },
   "airports": {
       "LIAA": {
         "callsign": "Terni - Alvaro Leonardi",
