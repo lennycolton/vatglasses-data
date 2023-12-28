@@ -1096,7 +1096,7 @@
         },
         {
             "id": "Ulgii",
-            "group": "AFIS",
+            "group": "APP",
             "owner": [
                 "ULTW",
                 "UAP",
@@ -1211,7 +1211,7 @@
         },
         {
             "id": "Turgen",
-            "group": "AFIS",
+            "group": "APP",
             "owner": [
                 "UGT",
                 "UGA",
@@ -1500,7 +1500,7 @@
         },
         {
             "id": "Muren",
-            "group": "AFIS",
+            "group": "APP",
             "owner": [
                 "MNT",
                 "MNA",
@@ -1615,7 +1615,7 @@
         },
         {
             "id": "Khar Us",
-            "group": "AFIS",
+            "group": "APP",
             "owner": [
                 "KDT",
                 "KDA",
@@ -1673,7 +1673,7 @@
         },
         {
             "id": "Khanbumbat",
-            "group": "AFIS",
+            "group": "APP",
             "owner": [
                 "KBT",
                 "KBA",
@@ -1885,7 +1885,7 @@
         },
         {
             "id": "Khongor",
-            "group": "AFIS",
+            "group": "APP",
             "owner": [
                 "DZT",
                 "DZA",
@@ -2026,7 +2026,7 @@
         },
         {
             "id": "Onon",
-            "group": "AFIS",
+            "group": "APP",
             "owner": [
                 "CDT",
                 "CDA",
@@ -2312,7 +2312,7 @@
         },
         {
             "id": "Taishir",
-            "group": "AFIS",
+            "group": "APP",
             "owner": [
                 "ATT",
                 "ATA",
