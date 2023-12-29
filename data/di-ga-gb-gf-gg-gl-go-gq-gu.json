@@ -5915,7 +5915,6 @@
     "GABS": { "callsign": "Senou", "coord": ["12.537861", "-7.94325"], "topdown": ["GAB", "GO"] },
     "GADZ": { "callsign": "Douentza", "coord": ["15", "-2.916667"] },
     "GAGM": { "callsign": "Goundam", "coord": ["16.35", "-3.6"] },
-    "GAGO": { "callsign": "Gao", "coord": ["16.248333", "-0.005833"] },
     "GAHB": { "callsign": "Hombori", "coord": ["15.33306", "-1.68306"] },
     "GAKA": { "callsign": "Kenieba", "coord": ["12.84972", "-11.23306"] },
     "GAKD": { "callsign": "Kayes", "coord": ["14.481708", "-11.401942"], "topdown": ["GAB", "GO"] },
