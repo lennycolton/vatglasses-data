@@ -5989,7 +5989,7 @@
     },
     "SC": {
       "callsign": "Swiss Radar",
-      "frequency": "134.600",
+      "frequency": "135.015",
       "type": "CTR",
       "pre": ["LSAS"],
       "colours": [{ "hex": "#4f4839" }]
@@ -6010,14 +6010,14 @@
     },
     "SZE": {
       "callsign": "Swiss Radar",
-      "frequency": "133.900",
+      "frequency": "133.905",
       "type": "CTR",
       "pre": ["LSAZ"],
       "colours": [{ "hex": "#556865" }]
     },
     "SZN": {
       "callsign": "Swiss Radar",
-      "frequency": "135.150",
+      "frequency": "136.155",
       "type": "CTR",
       "pre": ["LSAZ"],
       "colours": [{ "hex": "#52aa08" }]
@@ -6031,7 +6031,7 @@
     },
     "SZW": {
       "callsign": "Swiss Radar",
-      "frequency": "135.675",
+      "frequency": "135.680",
       "type": "CTR",
       "pre": ["LSAZ"],
       "colours": [{ "hex": "#8aeb51" }]
@@ -6101,28 +6101,28 @@
     },
     "ZA": {
       "callsign": "Zurich Arrival",
-      "frequency": "135.225",
+      "frequency": "135.230",
       "type": "APP",
       "pre": ["LSZH"],
       "colours": [{ "hex": "#b5e0da" }]
     },
     "ZD": {
       "callsign": "Zurich Departure",
-      "frequency": "125.950",
+      "frequency": "125.955",
       "type": "DEP",
       "pre": ["LSZH"],
       "colours": [{ "hex": "#d7e983" }]
     },
     "ZF": {
       "callsign": "Zurich Final",
-      "frequency": "125.325",
+      "frequency": "125.330",
       "type": "APP",
       "pre": ["LSZH"],
       "colours": [{ "hex": "#13b7be" }]
     },
     "ZAW": {
       "callsign": "Zurich Arrival",
-      "frequency": "130.550",
+      "frequency": "130.560",
       "type": "APP",
       "pre": ["LSZH"],
       "colours": [{ "hex": "#1c255e" }]
