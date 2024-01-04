@@ -1,0 +1,9 @@
+{
+  "airspace": [],
+  "groups": {},
+  "positions": {
+    "W": { "colours": [{ "hex": "#ffffff" }], "pre": ["ASIA"], "type": "FSS", "frequency": "135.400", "callsign": "West Asia Control"}
+},
+  "callsigns": {},
+  "airports": {}
+}
