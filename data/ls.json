@@ -6151,7 +6151,8 @@
     "LSGG": {
         "callsign": "Geneva",
         "coord": [46.238333, 6.109444],
-        "runways": ["04", "22"]
+        "runways": ["04", "22"],
+        "topdown": ["GD", "GA", "GF", "SGS", "SGE", "SG", "SC"]
     },
     "LSGK": { "callsign": "Saanen", "coord": [46.486667, 7.248611] },
     "LSGL": { "callsign": "Lausanne", "coord": [46.545278, 6.616667] },
@@ -6263,7 +6264,8 @@
     "LSZH": {
         "callsign": "Zurich",
         "coord": [47.458056, 8.548056],
-        "runways": ["14", "28", "34"]
+        "runways": ["14", "28", "34"],
+        "topdown": ["ZD", "ZAW", "ZA", "ZF", "SZE", "SZS", "SZ", "SC"]
     },
     "LSZI": { "callsign": "Fricktal-Schupfart", "coord": [47.508889, 7.95] },
     "LSZJ": { "callsign": "Courtelary", "coord": [47.183611, 7.090833] },
