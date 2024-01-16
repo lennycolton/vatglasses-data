@@ -1790,7 +1790,7 @@
     {
       "id": "LGGGKAV",
       "group": "LGGG",
-      "owner": ["AC9", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC9", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -1833,7 +1833,7 @@
     {
       "id": "LGGGKAV",
       "group": "LGGG",
-      "owner": ["AC15", "AC9", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC15", "AC9", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -2010,7 +2010,7 @@
     {
       "id": "LGGGKFN",
       "group": "LGGG",
-      "owner": ["AC11", "AC7", "AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC11", "AC7", "AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -2052,7 +2052,7 @@
     {
       "id": "LGGGKFN",
       "group": "LGGG",
-      "owner": ["AC15", "AC11", "AC7", "AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC15", "AC11", "AC7", "AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -2334,7 +2334,7 @@
     {
       "id": "LGGGKRK",
       "group": "LGGG",
-      "owner": ["AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -2407,7 +2407,7 @@
     {
       "id": "LGGGKRK",
       "group": "LGGG",
-      "owner": ["AC15", "AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC15", "AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -2874,7 +2874,7 @@
     {
       "id": "LGMDKVL",
       "group": "LGMD",
-      "owner": ["AC3", "AC14", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC3", "AC14", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -2992,7 +2992,7 @@
     {
       "id": "LGMDKVL",
       "group": "LGMD",
-      "owner": ["AC16", "AC15", "AC3", "AC14", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC16", "AC15", "AC3", "AC14", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -3453,7 +3453,7 @@
     {
       "id": "LGMDLMO",
       "group": "LGMD",
-      "owner": ["AC14", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC14", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -3517,7 +3517,7 @@
     {
       "id": "LGMDLMO",
       "group": "LGMD",
-      "owner": ["AC16", "AC15", "AC14", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC16", "AC15", "AC14", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -3732,7 +3732,7 @@
     {
       "id": "LGGGMIL",
       "group": "LGGG",
-      "owner": ["AC5", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC5", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -3779,7 +3779,7 @@
     {
       "id": "LGGGMIL",
       "group": "LGGG",
-      "owner": ["AC15", "AC5", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC15", "AC5", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -3907,7 +3907,7 @@
     {
       "id": "LGGGPLH",
       "group": "LGGG",
-      "owner": ["AC7", "AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC7", "AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -3947,7 +3947,7 @@
     {
       "id": "LGGGPLH",
       "group": "LGGG",
-      "owner": ["AC15", "AC7", "AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC15", "AC7", "AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -4600,7 +4600,7 @@
     {
       "id": "LGGGRDS",
       "group": "LGGG",
-      "owner": ["AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -4700,7 +4700,7 @@
     {
       "id": "LGGGRDS",
       "group": "LGGG",
-      "owner": ["AC15", "AC2", "AC1", "euc/ESW", "FAV"],
+      "owner": ["AC15", "AC2", "AC1", "fss/EUCSW", "FAV"],
       "sectors": [
         {
           "min": 325,
@@ -4924,7 +4924,7 @@
     {
       "id": "LGGGSIT",
       "group": "LGGG",
-      "owner": ["AC9", "AC5", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC9", "AC5", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -4962,7 +4962,7 @@
     {
       "id": "LGGGSIT",
       "group": "LGGG",
-      "owner": ["AC15", "AC9", "AC5", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC15", "AC9", "AC5", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -5115,7 +5115,7 @@
     {
       "id": "LGMDSKP",
       "group": "LGMD",
-      "owner": ["AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -5151,7 +5151,7 @@
     {
       "id": "LGMDSKP",
       "group": "LGMD",
-      "owner": ["AC16", "AC15", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC16", "AC15", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -5294,7 +5294,7 @@
     {
       "id": "LGMDTSL",
       "group": "LGMD",
-      "owner": ["AC10", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC10", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -5351,7 +5351,7 @@
     {
       "id": "LGMDTSL",
       "group": "LGMD",
-      "owner": ["AC16", "AC15", "AC10", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC16", "AC15", "AC10", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,

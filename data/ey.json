@@ -919,7 +919,7 @@
             "group": "ACC",
             "owner": [
                 "EY",
-                "euc/EN"
+                "fss/EUCN"
             ],
             "sectors": [
                 {
@@ -1643,7 +1643,7 @@
             "owner": [
                 "EYE",
                 "EY",
-                "euc/EN"
+                "fss/EUCN"
             ],
             "sectors": [
                 {
@@ -2068,7 +2068,7 @@
             "owner": [
                 "EYE",
                 "EY",
-                "euc/EN"
+                "fss/EUCN"
             ],
             "sectors": [
                 {

@@ -1911,7 +1911,7 @@
         "TRU",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -1986,7 +1986,7 @@
         "TRU",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2061,7 +2061,7 @@
         "TRU",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2137,7 +2137,7 @@
         "TRU",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2213,7 +2213,7 @@
         "ZUG",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2274,7 +2274,7 @@
         "ZUG",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2335,7 +2335,7 @@
         "ZUG",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2397,7 +2397,7 @@
         "ZUG",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2455,7 +2455,7 @@
         "ALB",
         "ZUG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2516,7 +2516,7 @@
         "ALB",
         "ZUG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2577,7 +2577,7 @@
         "ALB",
         "ZUG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2639,7 +2639,7 @@
         "ALB",
         "ZUG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2698,7 +2698,7 @@
         "HOF",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2766,7 +2766,7 @@
         "HOF",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2836,7 +2836,7 @@
         "TRU",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2889,7 +2889,7 @@
         "TRU",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2942,7 +2942,7 @@
         "TRU",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -2996,7 +2996,7 @@
         "TRU",
         "RDG",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -3047,7 +3047,7 @@
         "MEI",
         "HOF",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -3125,7 +3125,7 @@
         "MEI",
         "HOF",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -3202,7 +3202,7 @@
         "HAL",
         "HOF",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -3274,7 +3274,7 @@
         "HAL",
         "HOF",
         "MMC",
-        "euc/EME"
+        "fss/EUCME"
       ],
       "sectors": [
         {
@@ -4068,7 +4068,7 @@
     {
       "id": "Frankfurt 1",
       "group": "EDUU",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "euc/EME"],
+      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 324,
@@ -4129,7 +4129,7 @@
     {
       "id": "Frankfurt 2",
       "group": "EDUU",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "euc/EME"],
+      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -4157,7 +4157,7 @@
     {
       "id": "Frankfurt 3",
       "group": "EDUU",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "euc/EME"],
+      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -4185,7 +4185,7 @@
     {
       "id": "Frankfurt 4",
       "group": "EDUU",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "euc/EME"],
+      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -4212,7 +4212,7 @@
     {
       "id": "Fulda 1",
       "group": "EDUU",
-      "owner": ["FUL", "FFM", "WUR", "GIN", "RUD", "KTG", "euc/EME"],
+      "owner": ["FUL", "FFM", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -4297,7 +4297,7 @@
     {
       "id": "Fulda 2",
       "group": "EDUU",
-      "owner": ["FUL", "FFM", "WUR", "GIN", "RUD", "KTG", "euc/EME"],
+      "owner": ["FUL", "FFM", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -4346,7 +4346,7 @@
     {
       "id": "Fulda 3",
       "group": "EDUU",
-      "owner": ["FUL", "FFM", "WUR", "GIN", "RUD", "KTG", "euc/EME"],
+      "owner": ["FUL", "FFM", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -6211,7 +6211,7 @@
     {
       "id": "Nattenheim 1",
       "group": "EDUU",
-      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "euc/EME"],
+      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 264,
@@ -6406,7 +6406,7 @@
     {
       "id": "Nattenheim 2",
       "group": "EDUU",
-      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "euc/EME"],
+      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -6499,7 +6499,7 @@
     {
       "id": "Nattenheim 3",
       "group": "EDUU",
-      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "euc/EME"],
+      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -6592,7 +6592,7 @@
     {
       "id": "Nattenheim 4",
       "group": "EDUU",
-      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "euc/EME"],
+      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -7679,7 +7679,7 @@
     {
       "id": "Söllingen 1",
       "group": "EDUU",
-      "owner": ["SLN", "TGO", "NTM", "WUR", "BAD", "DKB", "KTG", "euc/EME"],
+      "owner": ["SLN", "TGO", "NTM", "WUR", "BAD", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -7902,7 +7902,7 @@
     {
       "id": "Söllingen 2",
       "group": "EDUU",
-      "owner": ["SLN", "TGO", "NTM", "WUR", "BAD", "DKB", "KTG", "euc/EME"],
+      "owner": ["SLN", "TGO", "NTM", "WUR", "BAD", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -8125,7 +8125,7 @@
     {
       "id": "Söllingen 3",
       "group": "EDUU",
-      "owner": ["SLN", "TGO", "NTM", "WUR", "BAD", "DKB", "KTG", "euc/EME"],
+      "owner": ["SLN", "TGO", "NTM", "WUR", "BAD", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -8663,7 +8663,7 @@
     {
       "id": "Tango 1",
       "group": "EDUU",
-      "owner": ["TGO", "WUR", "SLN", "BAD", "DKB", "KTG", "euc/EME"],
+      "owner": ["TGO", "WUR", "SLN", "BAD", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -8736,7 +8736,7 @@
     {
       "id": "Tango 2",
       "group": "EDUU",
-      "owner": ["TGO", "WUR", "SLN", "BAD", "DKB", "KTG", "euc/EME"],
+      "owner": ["TGO", "WUR", "SLN", "BAD", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -8781,7 +8781,7 @@
     {
       "id": "Tango 3",
       "group": "EDUU",
-      "owner": ["TGO", "WUR", "SLN", "BAD", "DKB", "KTG", "euc/EME"],
+      "owner": ["TGO", "WUR", "SLN", "BAD", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -8825,7 +8825,7 @@
     {
       "id": "Würzburg 1",
       "group": "EDUU",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "euc/EME"],
+      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "fss/EUCME"],
       "sectors": [
         {
           "max": 324,
@@ -8904,7 +8904,7 @@
     {
       "id": "Würzburg 2",
       "group": "EDUU",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "euc/EME"],
+      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -8945,7 +8945,7 @@
     {
       "id": "Würzburg 3",
       "group": "EDUU",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "euc/EME"],
+      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -8986,7 +8986,7 @@
     {
       "id": "Würzburg 4",
       "group": "EDUU",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "euc/EME"],
+      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -9036,7 +9036,7 @@
         "DST",
         "EIDW",
         "WWC",
-        "euc/EMW"
+        "fss/EUCMW"
       ],
       "sectors": [
         {
@@ -9093,7 +9093,7 @@
         "DST",
         "EIDW",
         "WWC",
-        "euc/EMW"
+        "fss/EUCMW"
       ],
       "sectors": [
         {
@@ -9213,7 +9213,7 @@
     {
       "id": "Ruhr High",
       "group": "EDYY",
-      "owner": ["RHR", "PADH", "euc/EMW"],
+      "owner": ["RHR", "PADH", "fss/EUCMW"],
       "sectors": [
         {
           "min": 355,
@@ -9253,7 +9253,7 @@
     {
       "id": "Ruhr Low",
       "group": "EDYY",
-      "owner": ["RHR", "PADH", "euc/EMW"],
+      "owner": ["RHR", "PADH", "fss/EUCMW"],
       "sectors": [
         {
           "max": 294,
@@ -11811,7 +11811,7 @@
       {
         "id": "Ostsee 1",
         "group": "EDUU",
-        "owner": ["OSE", "HVL", "MRZ", "MAR", "BOR", "WWC", "euc/EME"],
+        "owner": ["OSE", "HVL", "MRZ", "MAR", "BOR", "WWC", "fss/EUCME"],
         "sectors": [
           {
             "max": 364,
@@ -11959,7 +11959,7 @@
       {
         "id": "Ostsee 2",
         "group": "EDUU",
-        "owner": ["OH2", "OSE", "HVL", "MRZ", "MAR", "BOR", "WWC", "euc/EME"],
+        "owner": ["OH2", "OSE", "HVL", "MRZ", "MAR", "BOR", "WWC", "fss/EUCME"],
         "sectors": [
           {
             "min": 365,
@@ -12106,7 +12106,7 @@
       {
         "id": "Havel 1",
         "group": "EDUU",
-        "owner": ["HVL", "OSE", "BOR", "FLG", "MAR", "MRZ", "WWC", "euc/EME"],
+        "owner": ["HVL", "OSE", "BOR", "FLG", "MAR", "MRZ", "WWC", "fss/EUCME"],
         "sectors": [
           {
             "max": 364,
@@ -12191,7 +12191,7 @@
           "MAR",
           "MRZ",
           "WWC",
-          "euc/EME"
+          "fss/EUCME"
         ],
         "sectors": [
           {
@@ -12267,7 +12267,7 @@
     {
       "id": "Celle Low",
       "group": "EDYY",
-      "owner": ["CEL", "SOL", "DST", "EIDW", "WWC", "euc/EMW"],
+      "owner": ["CEL", "SOL", "DST", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 354,
@@ -12340,7 +12340,7 @@
         "DST",
         "EIDW",
         "WWC",
-        "euc/EMW"
+        "fss/EUCMW"
       ],
       "sectors": [
         {
@@ -12385,7 +12385,7 @@
     {
       "id": "Holstein Low",
       "group": "EDYY",
-      "owner": ["HOL", "JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "euc/EMW"],
+      "owner": ["HOL", "JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 354,
@@ -12480,7 +12480,7 @@
         "ALR",
         "EIDW",
         "WWC",
-        "euc/EMW"
+        "fss/EUCMW"
       ],
       "sectors": [
         {
@@ -12537,7 +12537,7 @@
     {
       "id": "Jever Low",
       "group": "EDYY",
-      "owner": ["JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "euc/EMW"],
+      "owner": ["JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 354,
@@ -12613,7 +12613,7 @@
         "ALR",
         "EIDW",
         "WWC",
-        "euc/EMW"
+        "fss/EUCMW"
       ],
       "sectors": [
         {
@@ -12680,7 +12680,7 @@
     {
       "id": "Solling Low",
       "group": "EDYY",
-      "owner": ["SOL", "CEL", "DST", "EIDW", "WWC", "euc/EMW"],
+      "owner": ["SOL", "CEL", "DST", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 354,
@@ -12761,7 +12761,7 @@
         "DST",
         "EIDW",
         "WWC",
-        "euc/EMW"
+        "fss/EUCMW"
       ],
       "sectors": [
         {

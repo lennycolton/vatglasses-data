@@ -6,7 +6,7 @@
       "owner": [
         "IZ",
         "sccz/CZ",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -25,7 +25,7 @@
       "group": "SCCZ",
       "owner": [
         "CZ",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -69,7 +69,7 @@
       "group": "SCCZ",
       "owner": [
         "CZ",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -174,7 +174,7 @@
         "IZ",
         "scez/EZN",
         "scez/EZS",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -221,7 +221,7 @@
       "owner": [
         "EZN",
         "EZS",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -445,7 +445,7 @@
         "IZ",
         "scez/EZS",
         "scez/EZN",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -490,7 +490,7 @@
       "owner": [
         "EZS",
         "EZN",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -710,7 +710,7 @@
         "IZ",
         "scfz/FZN",
         "scfz/FZS",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -751,7 +751,7 @@
       "owner": [
         "FZN",
         "FZS",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -1067,7 +1067,7 @@
         "IZ",
         "scfz/FZS",
         "scfz/FZN",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -1110,7 +1110,7 @@
       "owner": [
         "FZS",
         "FZN",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -1331,7 +1331,7 @@
         "IZ",
         "sctz/TZN",
         "sctz/TZS",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -1372,7 +1372,7 @@
       "owner": [
         "TZN",
         "TZS",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -1606,7 +1606,7 @@
         "IZ",
         "sctz/TZS",
         "sctz/TZN",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {
@@ -1645,7 +1645,7 @@
       "owner": [
         "TZS",
         "TZN",
-        "sam/SW"
+        "fss/SAMW"
       ],
       "sectors": [
         {

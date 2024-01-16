@@ -352,7 +352,7 @@
                 "lr/NAP",
                 "lr/ARG",
                 "lr/LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -552,7 +552,7 @@
                 "lr/NAP",
                 "lr/ARG",
                 "lr/LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {

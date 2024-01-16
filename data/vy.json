@@ -5,7 +5,7 @@
           "group": "VYYF",
           "owner": [
               "YYF1",
-              "asea/SEN"
+              "fss/ASEAN"
           ],
           "sectors": [
               {
@@ -299,7 +299,7 @@
           "owner": [
               "YYF2",
               "YYF1",
-              "asea/SEN"
+              "fss/ASEAN"
           ],
           "sectors": [
               {
@@ -385,7 +385,7 @@
               "YYF3",
               "YYF2",
               "YYF1",
-              "asea/SEN"
+              "fss/ASEAN"
           ],
           "sectors": [
               {
@@ -434,7 +434,7 @@
           "owner": [
               "YYF4",
               "YYF1",
-              "asea/SEN"
+              "fss/ASEAN"
           ],
           "sectors": [
               {
@@ -624,7 +624,7 @@
               "YYF3",
               "YYF2",
               "YYF1",
-              "asea/SEN"
+              "fss/ASEAN"
           ],
           "sectors": [
               {
@@ -3816,7 +3816,7 @@
       "VYTD": { "callsign": "Thandwe", "coord": ["18.460653", "94.299706"], "topdown": ["YYF2", "YYF1"] },
       "VYTL": { "callsign": "Tachilek", "coord": ["20.481944", "99.9325"], "topdown": ["YYF1"] },
       "VYYP": { "callsign": "Kyaukpyu", "coord": ["19.41667", "93.54972"] },
-      "VYYY": { "callsign": "Mingaladon", "coord": ["16.906781", "96.134919"], "topdown": ["YYF3", "YYF2", "YYF1", "asea/SEN"] }
+      "VYYY": { "callsign": "Mingaladon", "coord": ["16.906781", "96.134919"], "topdown": ["YYF3", "YYF2", "YYF1", "fss/ASEAN"] }
     }
   }
   

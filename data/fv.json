@@ -1864,7 +1864,7 @@
         "group": "FVHF",
         "owner": [
             "FV",
-            "afr/AS"
+            "fss/AFRS"
         ],
         "sectors": [
             {
@@ -3400,7 +3400,7 @@
         "owner": [
             "FVW",
             "FV",
-            "afr/AS"
+            "fss/AFRS"
         ],
         "sectors": [
             {

@@ -1016,7 +1016,7 @@
             "owner": [
                 "KNS",
                 "KNC",
-                "afr/AC"
+                "fss/AFRC"
             ],
             "sectors": [
                 {
@@ -1095,7 +1095,7 @@
             "group": "HKNA",
             "owner": [
                 "KNC",
-                "afr/AC"
+                "fss/AFRC"
             ],
             "sectors": [
                 {
@@ -1716,7 +1716,7 @@
             "owner": [
                 "NLT",
                 "KNC",
-                "afr/AC"
+                "fss/AFRC"
             ],
             "sectors": [
                 {

@@ -3,7 +3,7 @@
       {
         "id": "LIRRSUD_UIR",
         "group": "LIRR",
-        "owner": ["RRU", "RRS", "RRN", "IUP", "euc/EES"],
+        "owner": ["RRU", "RRS", "RRN", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -55,7 +55,7 @@
       {
         "id": "LIRRSUD_UIR",
         "group": "LIRR",
-        "owner": ["RRS", "RRN", "IUP", "euc/EES"],
+        "owner": ["RRS", "RRN", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -211,7 +211,7 @@
       {
         "id": "LIRRSOEAUP_UIR",
         "group": "LIRR",
-        "owner": ["RRU", "RRS", "RRN", "IUP", "euc/EES"],
+        "owner": ["RRU", "RRS", "RRN", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -248,7 +248,7 @@
       {
         "id": "LIRRSOEAUP_UIR",
         "group": "LIRR",
-        "owner": ["RRS", "RRN", "IUP", "euc/EES"],
+        "owner": ["RRS", "RRN", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -359,7 +359,7 @@
       {
         "id": "LIRRNORD_UIR",
         "group": "LIRR",
-        "owner": ["RRU", "RRN", "RRS", "IUP", "euc/EES"],
+        "owner": ["RRU", "RRN", "RRS", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -423,7 +423,7 @@
       {
         "id": "LIRRNORD_UIR",
         "group": "LIRR",
-        "owner": ["RRN", "RRS", "IUP", "euc/EES"],
+        "owner": ["RRN", "RRS", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -615,7 +615,7 @@
       {
         "id": "LIPP-SD4",
         "group": "LIPP",
-        "owner": ["PSU", "PNU", "PSD", "PCE", "PNE", "LIPP", "LIMM", "euc/EES"],
+        "owner": ["PSU", "PNU", "PSD", "PCE", "PNE", "LIPP", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -668,7 +668,7 @@
       {
         "id": "LIPP-SD3",
         "group": "LIPP",
-        "owner": ["PSD", "PCE", "PNE", "LIPP", "LIMM", "euc/EES"],
+        "owner": ["PSD", "PCE", "PNE", "LIPP", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -827,7 +827,7 @@
       {
         "id": "LIPP-NE6",
         "group": "LIPP",
-        "owner": ["PNU", "PSU", "PNE", "PCE", "PSD", "LIPP", "LIMM", "euc/EES"],
+        "owner": ["PNU", "PSU", "PNE", "PCE", "PSD", "LIPP", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -969,7 +969,7 @@
       {
         "id": "LIPP-NE5",
         "group": "LIPP",
-        "owner": ["PNE", "PCE", "PSD", "LIPP", "LIMM", "euc/EES"],
+        "owner": ["PNE", "PCE", "PSD", "LIPP", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -1696,7 +1696,7 @@
       {
         "id": "LIPP-CE6",
         "group": "LIPP",
-        "owner": ["PSU", "PNU", "PCE", "PSD", "PNE", "LIPP", "LIMM", "euc/EES"],
+        "owner": ["PSU", "PNU", "PCE", "PSD", "PNE", "LIPP", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -1741,7 +1741,7 @@
       {
         "id": "LIPP-CE5",
         "group": "LIPP",
-        "owner": ["PCE", "PSD", "PNE", "LIPP", "LIMM", "euc/EES"],
+        "owner": ["PCE", "PSD", "PNE", "LIPP", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -2047,7 +2047,7 @@
       {
         "id": "LIMM-WS5",
         "group": "LIMM",
-        "owner": ["MWU", "MEU", "MWS", "MWN", "MEN", "MES", "LIMM", "euc/EES"],
+        "owner": ["MWU", "MEU", "MWS", "MWN", "MEN", "MES", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -2089,7 +2089,7 @@
       {
         "id": "LIMM-WS4",
         "group": "LIMM",
-        "owner": ["MWS", "MWN", "MEN", "MES", "LIMM", "euc/EES"],
+        "owner": ["MWS", "MWN", "MEN", "MES", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -2259,7 +2259,7 @@
       {
         "id": "LIMM-WN4",
         "group": "LIMM",
-        "owner": ["MWU", "MEU", "MWN", "MWS", "MEN", "MES", "LIMM", "euc/EES"],
+        "owner": ["MWU", "MEU", "MWN", "MWS", "MEN", "MES", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -2301,7 +2301,7 @@
       {
         "id": "LIMM-WN3",
         "group": "LIMM",
-        "owner": ["MWN", "MWS", "MEN", "MES", "LIMM", "euc/EES"],
+        "owner": ["MWN", "MWS", "MEN", "MES", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -2556,7 +2556,7 @@
       {
         "id": "LIMM-ES4",
         "group": "LIMM",
-        "owner": ["MEU", "MWU", "MES", "MEN", "MWS", "MWN", "LIMM", "euc/EES"],
+        "owner": ["MEU", "MWU", "MES", "MEN", "MWS", "MWN", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -2594,7 +2594,7 @@
       {
         "id": "LIMM-ES3",
         "group": "LIMM",
-        "owner": ["MES", "MEN", "MWS", "MWN", "LIMM", "euc/EES"],
+        "owner": ["MES", "MEN", "MWS", "MWN", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -2719,7 +2719,7 @@
       {
         "id": "LIMM-EN4",
         "group": "LIMM",
-        "owner": ["MEU", "MWU", "MEN", "MES", "MWS", "MWN", "LIMM", "euc/EES"],
+        "owner": ["MEU", "MWU", "MEN", "MES", "MWS", "MWN", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -2979,7 +2979,7 @@
       {
         "id": "LIMM-EN3",
         "group": "LIMM",
-        "owner": ["MEN", "MES", "MWS", "MWN", "LIMM", "euc/EES"],
+        "owner": ["MEN", "MES", "MWS", "MWN", "LIMM", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -3765,7 +3765,7 @@
       {
         "id": "LIBBSUD_UIR",
         "group": "LIBB",
-        "owner": ["BBS", "BBN", "RRU", "IUP", "euc/EES"],
+        "owner": ["BBS", "BBN", "RRU", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -3825,7 +3825,7 @@
       {
         "id": "LIBBSUD_UIR",
         "group": "LIBB",
-        "owner": ["BBS", "BBN", "IUP", "euc/EES"],
+        "owner": ["BBS", "BBN", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -4005,7 +4005,7 @@
       {
         "id": "LIBBNORD_UIR",
         "group": "LIBB",
-        "owner": ["BBN", "BBS", "RRU", "IUP", "euc/EES"],
+        "owner": ["BBN", "BBS", "RRU", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -4043,7 +4043,7 @@
       {
         "id": "LIBBNORD_UIR",
         "group": "LIBB",
-        "owner": ["BBN", "BBS", "IUP", "euc/EES"],
+        "owner": ["BBN", "BBS", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,

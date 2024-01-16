@@ -430,8 +430,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -635,8 +635,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -681,8 +681,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -747,8 +747,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -783,8 +783,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -819,8 +819,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -853,8 +853,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -885,8 +885,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -935,8 +935,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -985,8 +985,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -1021,8 +1021,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -1135,8 +1135,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -1261,8 +1261,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -1299,8 +1299,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -1399,8 +1399,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -3206,8 +3206,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -3250,8 +3250,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -3500,8 +3500,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -3574,8 +3574,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -3771,8 +3771,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4057,8 +4057,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4131,8 +4131,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4223,8 +4223,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4782,8 +4782,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4848,8 +4848,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4884,8 +4884,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9252,8 +9252,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9304,8 +9304,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9340,8 +9340,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9420,8 +9420,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9456,8 +9456,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9486,8 +9486,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9512,8 +9512,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9578,8 +9578,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9628,8 +9628,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9658,8 +9658,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -10475,8 +10475,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -11954,8 +11954,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -11990,8 +11990,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -12056,8 +12056,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -12086,8 +12086,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -12932,8 +12932,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -13006,8 +13006,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -13041,8 +13041,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -13149,8 +13149,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -13251,8 +13251,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -15483,8 +15483,8 @@
                 "NCS",
                 "CS",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -15744,8 +15744,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -15794,8 +15794,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -15928,8 +15928,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16026,8 +16026,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16112,8 +16112,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16170,8 +16170,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16288,8 +16288,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16370,8 +16370,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16425,8 +16425,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16468,8 +16468,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16512,8 +16512,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16650,8 +16650,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16699,8 +16699,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16747,8 +16747,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16845,8 +16845,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16900,8 +16900,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16936,8 +16936,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17030,8 +17030,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17229,8 +17229,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17272,8 +17272,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17326,8 +17326,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17508,8 +17508,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17574,8 +17574,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17636,8 +17636,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17702,8 +17702,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17785,8 +17785,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17827,8 +17827,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17925,8 +17925,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17984,8 +17984,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18143,8 +18143,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18180,8 +18180,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18217,8 +18217,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18477,8 +18477,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18564,8 +18564,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18607,8 +18607,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18695,8 +18695,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18739,8 +18739,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18949,8 +18949,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19031,8 +19031,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19122,8 +19122,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19291,8 +19291,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19324,8 +19324,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19393,8 +19393,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19552,8 +19552,8 @@
                 "SM2",
                 "CS",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19612,8 +19612,8 @@
                 "NCS",
                 "CS",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -20127,8 +20127,8 @@
                 "NCS",
                 "CS",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -20193,8 +20193,8 @@
                 "CS",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
