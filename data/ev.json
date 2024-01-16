@@ -2157,13 +2157,6 @@
     }
   },
   "positions": {
-    "BALT": {
-      "callsign": "Baltic Control",
-      "frequency": "132.300",
-      "type": "CTR",
-      "pre": ["BALT"],
-      "colours": [{ "hex": "#818c00" }]
-    },
     "LT": {
       "callsign": "Lielvarde Tower",
       "frequency": "118.155",
