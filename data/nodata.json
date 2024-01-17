@@ -14789,7 +14789,7 @@
         "SKEC": { "colours": [{ "hex": "#888888" }], "pre": ["SKEC"], "type": "CTR", "callsign": "Barranquilla Center" },
         "SKED": { "colours": [{ "hex": "#888888" }], "pre": ["SKED"], "type": "CTR", "callsign": "Bogota Center" },
         "SLLF": { "colours": [{ "hex": "#888888" }], "pre": ["SLLF"], "type": "CTR", "callsign": "La Paz Control" },
-        "SPIM": { "colours": [{ "hex": "#888888" }], "pre": ["SPIM"], "type": "CTR", "callsign": "Lima Control" },
+        "SPIM": { "colours": [{ "hex": "#888888" }], "pre": ["SPIM", "LIM"], "type": "CTR", "callsign": "Lima Control" },
         "SVZM": { "colours": [{ "hex": "#888888" }], "pre": ["SVZM"], "type": "CTR", "callsign": "Maiquetia Center" },
         "TJZS": { "colours": [{ "hex": "#888888" }], "pre": ["SJU"], "type": "CTR", "callsign": "San Juan Center" },
         "TNCF": { "colours": [{ "hex": "#888888" }], "pre": ["TNCF"], "type": "CTR", "callsign": "Curacao Control" },
