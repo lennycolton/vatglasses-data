@@ -14733,7 +14733,7 @@
         "KZMO": { "colours": [{ "hex": "#888888" }], "pre": ["ZMO"], "type": "CTR", "callsign": "Miami Center" },
         "KZMA": { "colours": [{ "hex": "#888888" }], "pre": ["MIA"], "type": "CTR", "callsign": "Miami Center" },
         "KZNY": { "colours": [{ "hex": "#888888" }], "pre": ["NY"], "type": "CTR", "callsign": "New York Center" },
-        "KZHN": { "colours": [{ "hex": "#888888" }], "pre": ["HNL"], "type": "CTR", "callsign": "HCF Center" },
+        "PHZH": { "colours": [{ "hex": "#888888" }], "pre": ["HNL"], "type": "CTR", "callsign": "HCF Center" },
         "KZOA": { "colours": [{ "hex": "#888888" }], "pre": ["OAK"], "type": "CTR", "callsign": "Oakland Center" },
         "KZDV": { "colours": [{ "hex": "#888888" }], "pre": ["DEN"], "type": "CTR", "callsign": "Denver Center" },
         "KZFW": { "colours": [{ "hex": "#888888" }], "pre": ["FTW"], "type": "CTR", "callsign": "Fort Worth Center" },
