@@ -8596,7 +8596,7 @@
         {
             "id": "Sanya",
             "group": "FIR",
-            "owner": ["ZJSY_L", "fss/PRC"],
+            "owner": ["ZJSY_L", "ZJSY", "fss/PRC"],
             "sectors": [
                 {
                     "points": [
@@ -8624,7 +8624,7 @@
         {
             "id": "Sanya Oceanic",
             "group": "FIR",
-            "owner": ["ZJSY_O", "fss/PRC"],
+            "owner": ["ZJSY_O", "ZJSY", "fss/PRC"],
             "sectors": [
                 {
                     "points": [
@@ -9011,7 +9011,7 @@
         {
             "id": "Shanghai",
             "group": "FIR",
-            "owner": ["ZSSS_N", "fss/PRC"],
+            "owner": ["ZSSS_N", "ZSSS", "ZSHA", "fss/PRC"],
             "sectors": [
                 {
                     "points": [
@@ -9036,7 +9036,7 @@
         {
             "id": "Shanghai",
             "group": "FIR",
-            "owner": ["ZSSS_C", "fss/PRC"],
+            "owner": ["ZSSS_C", "ZSSS", "ZSHA", "fss/PRC"],
             "sectors": [
                 {
                     "points": [
@@ -9064,7 +9064,7 @@
         {
             "id": "Xiamen",
             "group": "FIR",
-            "owner": ["ZSAM", "ZSSS_S", "ZSSS", "fss/PRC"],
+            "owner": ["ZSAM", "ZSSS_S", "ZSSS", "ZSHA", "fss/PRC"],
             "sectors": [
                 {
                     "points": [
@@ -9087,7 +9087,7 @@
         {
             "id": "Nanchang",
             "group": "FIR",
-            "owner": ["ZSCN", "ZSSS_S", "ZSSS", "fss/PRC"],
+            "owner": ["ZSCN", "ZSSS_S", "ZSSS", "ZSHA", "fss/PRC"],
             "sectors": [
                 {
                     "points": [
@@ -9131,7 +9131,7 @@
         {
             "id": "Hefei",
             "group": "FIR",
-            "owner": ["ZSOF", "ZSSS_W", "ZSSS_C", "ZSSS", "fss/PRC"],
+            "owner": ["ZSOF", "ZSSS_W", "ZSSS_C", "ZSSS", "ZSHA", "fss/PRC"],
             "sectors": [
                 {
                     "points": [
@@ -15472,7 +15472,38 @@
         "YPIY": { "colours": [{ "hex": "#888888" }], "pre": ["ML-CRS", "ML-GEL", "ML-GVE", "ML-HYD", "ML-JAR", "ML-LEA", "ML-PIY"], "type": "CTR", "callsign": "Melbourne Centre" },
         "YHUO": { "colours": [{ "hex": "#888888" }], "pre": ["ML-HUO"], "type": "CTR", "callsign": "Melbourne Centre" },
         "YTBD": { "colours": [{ "hex": "#888888" }], "pre": ["ML-AUG", "ML-TBD"], "type": "CTR", "callsign": "Melbourne Centre" },
-        "YTRT": { "colours": [{ "hex": "#888888" }], "pre": ["BN-KIY", "BN-TRT"], "type": "CTR", "callsign": "Brisbane Centre" }
+        "YTRT": { "colours": [{ "hex": "#888888" }], "pre": ["BN-KIY", "BN-TRT"], "type": "CTR", "callsign": "Brisbane Centre" },
+        "ZBAA": { "colours": [{ "hex": "#888888" }], "pre": ["ZBAA"], "type": "CTR", "callsign": "Beijing Control" },
+        "ZBHH": { "colours": [{ "hex": "#888888" }], "pre": ["ZBHH"], "type": "CTR", "callsign": "Hohhot Control" },
+        "ZBPE": { "colours": [{ "hex": "#888888" }], "pre": ["ZBPE"], "type": "CTR", "callsign": "Beijing Control" },
+        "ZGGG": { "colours": [{ "hex": "#888888" }], "pre": ["ZGGG"], "type": "CTR", "callsign": "Guangzhou Control" },
+        "ZGHA": { "colours": [{ "hex": "#888888" }], "pre": ["ZGHA"], "type": "CTR", "callsign": "Changsha Control" },
+        "ZGNN": { "colours": [{ "hex": "#888888" }], "pre": ["ZGNN"], "type": "CTR", "callsign": "Nanning Control" },
+        "ZHCC": { "colours": [{ "hex": "#888888" }], "pre": ["ZHCC"], "type": "CTR", "callsign": "Zhengzhou Control" },
+        "ZHHH": { "colours": [{ "hex": "#888888" }], "pre": ["ZHWH"], "type": "CTR", "callsign": "Wuhan Control" },
+        "ZHWH": { "colours": [{ "hex": "#888888" }], "pre": ["ZHWH"], "type": "CTR", "callsign": "Wuhan Control" },
+        "ZJSY": { "colours": [{ "hex": "#888888" }], "pre": ["ZJSY"], "type": "CTR", "callsign": "Sanya Control" },
+        "ZLHW": { "colours": [{ "hex": "#888888" }], "pre": ["ZLHW"], "type": "CTR", "callsign": "Lanzhou Control" },
+        "ZLLL": { "colours": [{ "hex": "#888888" }], "pre": ["ZLLL"], "type": "CTR", "callsign": "Lanzhou Control" },
+        "ZLXY": { "colours": [{ "hex": "#888888" }], "pre": ["ZLXY"], "type": "CTR", "callsign": "Xi'an Control" },
+        "ZPKM": { "colours": [{ "hex": "#888888" }], "pre": ["ZPKM"], "type": "CTR", "callsign": "Kunming Control" },
+        "ZPPP": { "colours": [{ "hex": "#888888" }], "pre": ["ZPPP"], "type": "CTR", "callsign": "Kunming Control" },
+        "ZSAM": { "colours": [{ "hex": "#888888" }], "pre": ["ZSAM"], "type": "CTR", "callsign": "Xiamen Control" },
+        "ZSCN": { "colours": [{ "hex": "#888888" }], "pre": ["ZSCN"], "type": "CTR", "callsign": "Nanchang Control" },
+        "ZSHA": { "colours": [{ "hex": "#888888" }], "pre": ["ZSHA"], "type": "CTR", "callsign": "Shanghai Control" },
+        "ZSJN": { "colours": [{ "hex": "#888888" }], "pre": ["ZSJN"], "type": "CTR", "callsign": "Jinan Control" },
+        "ZSOF": { "colours": [{ "hex": "#888888" }], "pre": ["ZSOF"], "type": "CTR", "callsign": "Hefei Control" },
+        "ZSQD": { "colours": [{ "hex": "#888888" }], "pre": ["ZSQD"], "type": "CTR", "callsign": "Qingdao Control" },
+        "ZSSS": { "colours": [{ "hex": "#888888" }], "pre": ["ZSSS"], "type": "CTR", "callsign": "Shanghai Control" },
+        "ZUGY": { "colours": [{ "hex": "#888888" }], "pre": ["ZUGY"], "type": "CTR", "callsign": "Guiyang Control" },
+        "ZULS": { "colours": [{ "hex": "#888888" }], "pre": ["ZULS"], "type": "CTR", "callsign": "Lhasa Control" },
+        "ZUUU": { "colours": [{ "hex": "#888888" }], "pre": ["ZUUU"], "type": "CTR", "callsign": "Chengdu Control" },
+        "ZWUQ": { "colours": [{ "hex": "#888888" }], "pre": ["ZWUQ"], "type": "CTR", "callsign": "Urumqi Control" },
+        "ZWWW": { "colours": [{ "hex": "#888888" }], "pre": ["ZWWW"], "type": "CTR", "callsign": "Urumqi Control" },
+        "ZYHB": { "colours": [{ "hex": "#888888" }], "pre": ["ZYHB"], "type": "CTR", "callsign": "Harbin Control" },
+        "ZYSH": { "colours": [{ "hex": "#888888" }], "pre": ["ZYSH"], "type": "CTR", "callsign": "Shenyang Control" },
+        "ZYTL": { "colours": [{ "hex": "#888888" }], "pre": ["ZYTL"], "type": "CTR", "callsign": "Dalian Control" },
+        "ZYTX": { "colours": [{ "hex": "#888888" }], "pre": ["ZYTX"], "type": "CTR", "callsign": "Shenyang Control" }
         
     },
     "callsigns": {
