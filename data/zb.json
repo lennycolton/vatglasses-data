@@ -132,7 +132,7 @@
         "BJC",
         "BJ",
         "BJG",
-        "BJF"
+        "fss/PRC"
       ],
       "sectors": [
         {
@@ -168,7 +168,7 @@
         "BJS",
         "BJ",
         "BJG",
-        "BJF"
+        "fss/PRC"
       ],
       "sectors": [
         {
@@ -222,7 +222,7 @@
         "BJN",
         "BJ",
         "BJG",
-        "BJF"
+        "fss/PRC"
       ],
       "sectors": [
         {
@@ -356,7 +356,7 @@
         "BJC",
         "BJ",
         "BJG",
-        "BJF"
+        "fss/PRC"
       ],
       "sectors": [
         {
@@ -2046,19 +2046,6 @@
     }
   },
   "positions": {
-    "BJF": {
-      "callsign": "Beijing Control",
-      "frequency": "133.075",
-      "type": "FSS",
-      "pre": [
-        "PRC"
-      ],
-      "colours": [
-        {
-          "hex": "#00bc00"
-        }
-      ]
-    },
     "AAT1": {
       "callsign": "Beijing Tower",
       "frequency": "124.300",
