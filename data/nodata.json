@@ -15821,7 +15821,6 @@
         "KBKX": {"callsign": "Brookings Rgnl", "coord": ["44.304528", "-96.818917"], "pre": ["BKX"]},
         "KBLF": {"callsign": "Bluefield Mercer County WV", "coord": ["37.2958", "-81.207692"], "pre": ["BLF"]},
         "KBLH": {"callsign": "Blythe CA", "coord": ["33.619164", "-114.716878"], "pre": ["BLH"]},
-        "KBLI": {"callsign": "Bellingham Intl WA", "coord": ["48.79275", "-122.537528"], "pre": ["BLI"], "topdown": ["KZSE"]},
         "KBLM": {"callsign": "Belmar-Farmdale NJ", "coord": ["40.186919", "-74.124886"], "pre": ["BLM"]},
         "KBLU": {"callsign": "Emigrant Gap Blue Canyon Nyack CA", "coord": ["39.27583", "-120.70778"], "pre": ["BLU"]},
         "KBLV": {"callsign": "Scott AFB- Bellevill IL", "coord": ["38.545178", "-89.835183"], "pre": ["BLV"], "topdown": ["KZKC"]},
