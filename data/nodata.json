@@ -8269,118 +8269,6 @@
             ]
         },
         {
-            "id": "Beijing",
-            "group": "FIR",
-            "owner": ["ZBAA_W", "ZBAA_C", "ZBAA", "ZBPE", "fss/PRC"],
-            "sectors": [
-                {
-                    "points": [
-                        ["390215","1110414"],
-                        ["400454","1121108"],
-                        ["395202","1132356"],
-                        ["381900","1140459"],
-                        ["361917","1142957"],
-                        ["360400","1134836"],
-                        ["352902","1122515"],
-                        ["390215","1110414"]
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "Beijing",
-            "group": "FIR",
-            "owner": ["ZBAA_C", "ZBAA", "fss/PRC"],
-            "sectors": [
-                {
-                    "points": [
-                        ["420437","1181810"],
-                        ["395359","1192059"],
-                        ["393000","1195200"],
-                        ["391500","1195400"],
-                        ["381500","1200000"],
-                        ["380600","1193159"],
-                        ["363830","1151950"],
-                        ["361917","1142957"],
-                        ["381900","1140459"],
-                        ["395202","1132356"],
-                        ["400454","1121108"],
-                        ["414842","1140759"],
-                        ["420437","1181810"]
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "Hohhot",
-            "group": "FIR",
-            "owner": ["ZBHH", "ZBAA_N", "ZBAA", "ZBPE", "fss/PRC"],
-            "sectors": [
-                {
-                    "points": [
-                        ["452317","1152115"],
-                        ["431441","1173100"],
-                        ["421500","1180459"],
-                        ["420437","1181810"],
-                        ["414842","1140759"],
-                        ["400454","1121108"],
-                        ["390215","1110414"],
-                        ["390520","1075815"],
-                        ["414451","1051345"],
-                        ["415700","1054759"],
-                        ["421744","1064655"],
-                        ["422114","1071341"],
-                        ["422439","1071641"],
-                        ["422728","1073031"],
-                        ["422437","1073415"],
-                        ["422456","1075659"],
-                        ["422737","1081421"],
-                        ["422612","1081850"],
-                        ["422624","1083229"],
-                        ["422413","1084904"],
-                        ["422724","1090049"],
-                        ["422547","1091848"],
-                        ["422825","1093240"],
-                        ["423827","1095632"],
-                        ["423843","1100626"],
-                        ["424639","1102625"],
-                        ["425521","1103559"],
-                        ["430318","1104121"],
-                        ["431930","1110019"],
-                        ["432853","1112509"],
-                        ["432954","1113525"],
-                        ["434021","1114702"],
-                        ["434129","1115505"],
-                        ["434633","1115831"],
-                        ["435619","1115246"],
-                        ["440304","1114029"],
-                        ["442034","1112521"],
-                        ["442918","1112845"],
-                        ["444118","1113427"],
-                        ["450026","1114808"],
-                        ["450535","1115947"],
-                        ["450431","1120550"],
-                        ["450409","1121913"],
-                        ["450449","1122537"],
-                        ["445958","1123303"],
-                        ["445534","1123627"],
-                        ["444945","1130222"],
-                        ["444759","1130704"],
-                        ["444638","1133040"],
-                        ["444511","1133908"],
-                        ["445006","1134648"],
-                        ["445521","1135554"],
-                        ["445639","1140504"],
-                        ["450231","1141043"],
-                        ["451229","1142725"],
-                        ["452321","1143242"],
-                        ["452604","1144549"],
-                        ["452317","1152115"]
-                    ]
-                }
-            ]
-        },
-        {
             "id": "Guangzhou",
             "group": "FIR",
             "owner": ["ZGGG", "fss/PRC"],
@@ -8554,9 +8442,10 @@
         {
             "id": "Zhengzhou",
             "group": "FIR",
-            "owner": ["ZHCC", "ZHWH", "ZBAA_S", "ZBAA", "fss/PRC"],
+            "owner": ["ZHCC", "ZHWH", "ZSHA"],
             "sectors": [
                 {
+                    "max": 255,
                     "points": [
                         ["363830","1151950"],
                         ["351759","1150400"],
@@ -9109,9 +8998,10 @@
         {
             "id": "Jinan",
             "group": "FIR",
-            "owner": ["ZSJN", "ZBAA_S", "ZBAA", "fss/PRC"],
+            "owner": ["ZSJN", "ZSHA", "fss/PRC"],
             "sectors": [
                 {
+                    "max": 255,
                     "points": [
                         ["380600","1193159"],
                         ["370859","1193159"],
@@ -9156,7 +9046,7 @@
         {
             "id": "Qingdao",
             "group": "FIR",
-            "owner": ["ZSQD", "ZBAA_S", "ZBAA", "fss/PRC"],
+            "owner": ["ZSQD", "ZSHA", "fss/PRC"],
             "sectors": [
                 {
                     "points": [
@@ -15473,9 +15363,6 @@
         "YHUO": { "colours": [{ "hex": "#888888" }], "pre": ["ML-HUO"], "type": "CTR", "callsign": "Melbourne Centre" },
         "YTBD": { "colours": [{ "hex": "#888888" }], "pre": ["ML-AUG", "ML-TBD"], "type": "CTR", "callsign": "Melbourne Centre" },
         "YTRT": { "colours": [{ "hex": "#888888" }], "pre": ["BN-KIY", "BN-TRT"], "type": "CTR", "callsign": "Brisbane Centre" },
-        "ZBAA": { "colours": [{ "hex": "#888888" }], "pre": ["ZBAA"], "type": "CTR", "callsign": "Beijing Control" },
-        "ZBHH": { "colours": [{ "hex": "#888888" }], "pre": ["ZBHH"], "type": "CTR", "callsign": "Hohhot Control" },
-        "ZBPE": { "colours": [{ "hex": "#888888" }], "pre": ["ZBPE"], "type": "CTR", "callsign": "Beijing Control" },
         "ZGGG": { "colours": [{ "hex": "#888888" }], "pre": ["ZGGG"], "type": "CTR", "callsign": "Guangzhou Control" },
         "ZGHA": { "colours": [{ "hex": "#888888" }], "pre": ["ZGHA"], "type": "CTR", "callsign": "Changsha Control" },
         "ZGNN": { "colours": [{ "hex": "#888888" }], "pre": ["ZGNN"], "type": "CTR", "callsign": "Nanning Control" },
@@ -25112,43 +24999,6 @@
         "YYWN": { "callsign": "Yarrawin", "coord": ["-30.266389","147.216389"] },
         "YYYA": { "callsign": "Yandiearra", "coord": ["-21.299722","118.366667"] },
         "YZAN": { "callsign": "Zanthus", "coord": ["-31.033333","123.566667"] },
-        "ZBAA": { "callsign": "Beijing Capital", "coord": ["40.074069","116.590800"], "pre": ["PEK"] },
-        "ZBAD": { "callsign": "Beijing Daxing", "coord": ["39.500895","116.398586"] },
-        "ZBAL": { "callsign": "Alxa Left Banner Bayanhot", "coord": ["38.748871","105.583644"] },
-        "ZBAR": { "callsign": "Alxa Right Banner Badain Jaran", "coord": ["39.225828","101.549451"] },
-        "ZBCD": { "callsign": "Chengde Puning", "coord": ["41.121105","118.076224"] },
-        "ZBCF": { "callsign": "Chifeng Yulong", "coord": ["42.160613","118.839868"] },
-        "ZBCZ": { "callsign": "Changzhi Wangcun", "coord": ["36.246642","113.126340"] },
-        "ZBDH": { "callsign": "Qinghuangdao Beidaihe", "coord": ["39.666382","119.061484"] },
-        "ZBDS": { "callsign": "Ordos Ejinhoro", "coord": ["39.492435","109.862978"] },
-        "ZBDT": { "callsign": "Datong Yungang", "coord": ["40.060176","113.483130"] },
-        "ZBEN": { "callsign": "Ejinaqi Taolai", "coord": ["42.015035","101.001439"] },
-        "ZBER": { "callsign": "Erenhot Saiwusu", "coord": ["43.423510","112.092534"] },
-        "ZBES": { "callsign": "Arxan Yirshi", "coord": ["47.311371","119.912265"] },
-        "ZBHD": { "callsign": "Handan", "coord": ["36.523759","114.429592"] },
-        "ZBHH": { "callsign": "Hohhot Baita", "coord": ["40.849706","111.824071"] },
-        "ZBHZ": { "callsign": "Holingol Huolinhe", "coord": ["45.487297","119.406808"] },
-        "ZBLA": { "callsign": "Hulun Buir Hailar", "coord": ["49.205281","119.825537"] },
-        "ZBLF": { "callsign": "Linfen Yaodu", "coord": ["36.134085","111.641645"] },
-        "ZBLL": { "callsign": "Lyuliang Dawu", "coord": ["37.682588","111.142345"] },
-        "ZBMZ": { "callsign": "Manzhouli Xijiao", "coord": ["49.567614","117.329042"] },
-        "ZBOW": { "callsign": "Baotou Donghe", "coord": ["40.559880","109.996548"] },
-        "ZBSG": { "callsign": "Shuozhou Zirun", "coord": ["39.474722","112.596944"] },
-        "ZBSJ": { "callsign": "Shijiazhuang Zhengding", "coord": ["38.281594","114.697105"] },
-        "ZBSN": { "callsign": "Tangshan Sannyuhe", "coord": ["39.717489","118.003397"] },
-        "ZBTJ": { "callsign": "Tianjin Binhai", "coord": ["39.116923","117.350487"] },
-        "ZBTL": { "callsign": "Tongliao", "coord": ["43.556151","122.198849"] },
-        "ZBUC": { "callsign": "Wulanchabu Jining", "coord": ["41.130837","113.107413"] },
-        "ZBUH": { "callsign": "Wuhai", "coord": ["39.793867","106.798528"] },
-        "ZBUL": { "callsign": "Ulanhot Yilelite", "coord": ["46.193682","122.007778"] },
-        "ZBXH": { "callsign": "Xilinhot", "coord": ["43.914985","115.963831"] },
-        "ZBXT": { "callsign": "Xingtai Dalian", "coord": ["36.882778","114.429167"] },
-        "ZBXZ": { "callsign": "Xinzhou Wutaishan", "coord": ["38.596337","112.968660"] },
-        "ZBYC": { "callsign": "Yuncheng Zhangxiao", "coord": ["35.118001","111.034386"] },
-        "ZBYN": { "callsign": "Taiyuan Wusu", "coord": ["37.748422","112.629125"] },
-        "ZBYZ": { "callsign": "Bayannaoer Tianjitai", "coord": ["40.926400","107.739130"] },
-        "ZBZJ": { "callsign": "Zhangjiakou Ningyuan", "coord": ["40.739298","114.931071"] },
-        "ZBZL": { "callsign": "Zhalantun Genghis Khan", "coord": ["47.865845","122.768587"] },
         "ZE3X": { "callsign": "Turinskaya Sloboda", "coord": ["57.60242","64.36368"] },
         "ZGBH": { "callsign": "Beihai Fucheng", "coord": ["21.539938","109.294584"] },
         "ZGBS": { "callsign": "Baise Bama", "coord": ["23.720054","106.959725"] },
