@@ -2047,7 +2047,7 @@
       {
         "id": "LIMM-WS5",
         "group": "LIMM",
-        "owner": ["MWU", "MEU", "MWS", "MWN", "MEN", "MES", "LIMM", "fss/EUCES"],
+        "owner": ["MWU", "MEU", "MWS", "MWN", "MEN", "MES", "LIMM", "fss/EUCWN"],
         "sectors": [
           {
             "min": 305,
@@ -2089,7 +2089,7 @@
       {
         "id": "LIMM-WS4",
         "group": "LIMM",
-        "owner": ["MWS", "MWN", "MEN", "MES", "LIMM", "fss/EUCES"],
+        "owner": ["MWS", "MWN", "MEN", "MES", "LIMM", "fss/EUCWN"],
         "sectors": [
           {
             "min": 245,
@@ -2259,7 +2259,7 @@
       {
         "id": "LIMM-WN4",
         "group": "LIMM",
-        "owner": ["MWU", "MEU", "MWN", "MWS", "MEN", "MES", "LIMM", "fss/EUCES"],
+        "owner": ["MWU", "MEU", "MWN", "MWS", "MEN", "MES", "LIMM", "fss/EUCWN"],
         "sectors": [
           {
             "min": 305,
@@ -2301,7 +2301,7 @@
       {
         "id": "LIMM-WN3",
         "group": "LIMM",
-        "owner": ["MWN", "MWS", "MEN", "MES", "LIMM", "fss/EUCES"],
+        "owner": ["MWN", "MWS", "MEN", "MES", "LIMM", "fss/EUCWN"],
         "sectors": [
           {
             "min": 245,
@@ -2556,7 +2556,7 @@
       {
         "id": "LIMM-ES4",
         "group": "LIMM",
-        "owner": ["MEU", "MWU", "MES", "MEN", "MWS", "MWN", "LIMM", "fss/EUCES"],
+        "owner": ["MEU", "MWU", "MES", "MEN", "MWS", "MWN", "LIMM", "fss/EUCWN"],
         "sectors": [
           {
             "min": 305,
@@ -2594,7 +2594,7 @@
       {
         "id": "LIMM-ES3",
         "group": "LIMM",
-        "owner": ["MES", "MEN", "MWS", "MWN", "LIMM", "fss/EUCES"],
+        "owner": ["MES", "MEN", "MWS", "MWN", "LIMM", "fss/EUCWN"],
         "sectors": [
           {
             "min": 245,
@@ -2719,7 +2719,7 @@
       {
         "id": "LIMM-EN4",
         "group": "LIMM",
-        "owner": ["MEU", "MWU", "MEN", "MES", "MWS", "MWN", "LIMM", "fss/EUCES"],
+        "owner": ["MEU", "MWU", "MEN", "MES", "MWS", "MWN", "LIMM", "fss/EUCWN"],
         "sectors": [
           {
             "min": 305,
@@ -2979,7 +2979,7 @@
       {
         "id": "LIMM-EN3",
         "group": "LIMM",
-        "owner": ["MEN", "MES", "MWS", "MWN", "LIMM", "fss/EUCES"],
+        "owner": ["MEN", "MES", "MWS", "MWN", "LIMM", "fss/EUCWN"],
         "sectors": [
           {
             "min": 245,
