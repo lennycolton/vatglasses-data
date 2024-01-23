@@ -2025,7 +2025,7 @@
       ]
     },
     {
-      "id": "Worthing (22)",
+      "id": "Hurn Middle (22)",
       "group": "LS",
       "docs": [
         "LS"
@@ -4476,7 +4476,6 @@
         "TK"
       ],
       "owner": [
-        "LSN",
         "LD",
         "LS",
         "LSC",
@@ -12323,6 +12322,7 @@
         "SM"
       ],
       "owner": [
+        "TAY",
         "SL",
         "SS",
         "SE",
@@ -12442,6 +12442,7 @@
         }
       ],
       "owner": [
+        "TAY",
         "SL",
         "SS",
         "SE",
@@ -12607,6 +12608,7 @@
         }
       ],
       "owner": [
+        "TAY",
         "SL",
         "SS",
         "SE",
@@ -12666,6 +12668,7 @@
         "SM"
       ],
       "owner": [
+        "TAY",
         "SL",
         "SS",
         "SE",
@@ -28930,9 +28933,10 @@
     "PCSE": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "MAN","MAN-SE" ], "type": "CTR","frequency": "134.430","callsign": "Scottish Control", "comment": "STAFA" },
     "PCW": { "colours": [{ "hex": "#368dd9" }], "pre": [ "MAN","MAN-W" ], "type": "CTR","frequency": "128.055","callsign": "Scottish Control", "comment": "WAL" },
     "S": { "colours": [{ "hex": "#db0d9d" }], "pre": [ "SCO" ], "type": "CTR","frequency": "135.530","callsign": "Scottish Control", "comment": "Bandbox" },
-    "SL": { "colours": [{ "hex": "#e546ba" }], "pre": [ "SCO","STC","SCO-L","STC-L" ], "type": "CTR","frequency": "124.500","callsign": "Scottish Control", "comment": "Tay" },
+    "SL": { "colours": [{ "hex": "#e546ba" }], "pre": [ "SCO","STC","SCO-L","STC-L" ], "type": "CTR","frequency": "124.500","callsign": "Scottish Control", "comment": "Tay - conflicts with SCL_TAY  " },
     "SE": { "colours": [{ "online": ["SS"], "hex": "#e66a83" }, { "hex": "#e54a89" }], "pre": [ "SCO","SCO-E" ], "type": "CTR","frequency": "121.325","callsign": "Scottish Control", "comment": "Humber" },
     "SS": { "colours": [{ "online": ["SH"], "hex": "#e54889" }, { "hex": "#e54a89" }], "pre": [ "SCO","SCO-S" ], "type": "CTR","frequency": "134.775","callsign": "Scottish Control", "comment": "Tyne" },
+    "TAY": { "colours": [{ "hex": "#e546ba" }], "pre": [ "SCL", "SCL-TAY" ], "type": "CTR","frequency": "124.500","callsign": "Scottish Control", "comment": "Tay - conflicts with SCO_L" },
     "SH": { "colours": [{ "hex": "#e54a89" }], "pre": [ "SCO","SCO-H" ], "type": "CTR","frequency": "129.925","callsign": "Scottish Control", "comment": "Not Real?" },
     "SMN": { "colours": [{ "hex": "#e54889" }], "pre": [ "SCO","SCO-S" ], "type": "CTR","frequency": "132.490","callsign": "Scottish Control", "comment": "Montrose N" },
     "SMS": { "colours": [{ "hex": "#e54889" }], "pre": [ "SCO","SCO-S" ], "type": "CTR","frequency": "126.930","callsign": "Scottish Control", "comment": "Montrose S" },
@@ -30011,6 +30015,7 @@
         "topdown": [
             "PDF",
             "PDR",
+            "TAY",
             "SL",
             "SS",
             "SE",
@@ -30024,6 +30029,7 @@
             -3.025828
         ],
         "topdown": [
+            "TAY",
             "SL",
             "SS",
             "SE",

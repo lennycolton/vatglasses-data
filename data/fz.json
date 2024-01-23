@@ -851,7 +851,7 @@
             "owner": [
                 "FZE",
                 "FZ",
-                "afr/AC"
+                "fss/AFRC"
             ],
             "sectors": [
                 {
@@ -1378,7 +1378,7 @@
             "owner": [
                 "FZS",
                 "FZ",
-                "afr/AC"
+                "fss/AFRC"
             ],
             "sectors": [
                 {
@@ -2147,7 +2147,7 @@
             "group": "FZZA1",
             "owner": [
                 "FZ",
-                "afr/AC"
+                "fss/AFRC"
             ],
             "sectors": [
                 {

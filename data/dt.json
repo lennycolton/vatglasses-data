@@ -2110,7 +2110,7 @@
     {
       "id": "Northeast Upper",
       "group": "CTR",
-      "owner": ["TCNS", "TC", "afr/AN"],
+      "owner": ["TCNS", "TC", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -2194,7 +2194,7 @@
     {
       "id": "Northwest Upper",
       "group": "CTR",
-      "owner": ["TCNS", "TC", "afr/AN"],
+      "owner": ["TCNS", "TC", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -2382,7 +2382,7 @@
     {
       "id": "Southeast Upper",
       "group": "CTR",
-      "owner": ["TCS", "TC", "afr/AN"],
+      "owner": ["TCS", "TC", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -2599,7 +2599,7 @@
     {
       "id": "Southwest Upper",
       "group": "CTR",
-      "owner": ["TCS", "TC", "afr/AN"],
+      "owner": ["TCS", "TC", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -2717,7 +2717,7 @@
     {
       "id": "Uncontrolled",
       "group": "CTR",
-      "owner": ["TCS", "TC", "afr/AN"],
+      "owner": ["TCS", "TC", "fss/AFRN"],
       "sectors": [
         {
           "points": [

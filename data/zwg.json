@@ -4666,7 +4666,8 @@
       },
       "HD": {
           "callsign": "Winnipeg Centre",
-          "frequency": "124.000",
+          "frequency": "199.998",
+          "comment": "124.000 clashes with WPG_CTR",
           "type": "CTR",
           "pre": [
               "WPG"
@@ -4679,7 +4680,8 @@
       },
       "H": {
           "callsign": "Winnipeg Centre",
-          "frequency": "124.000",
+          "frequency": "199.998",
+          "comment": "124.000 clashes with WPG_CTR",
           "type": "CTR",
           "pre": [
               "WPG"

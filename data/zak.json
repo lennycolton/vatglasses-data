@@ -4,12 +4,7 @@
       "id": "Oceanic 1 (Class A)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -53,12 +48,7 @@
       "id": "Oceanic 1 (Class G)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -101,12 +91,7 @@
       "id": "Oceanic 2 (Class A)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -135,12 +120,7 @@
       "id": "Oceanic 2 (Class G)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -169,12 +149,7 @@
       "id": "Oceanic 3 (Class A)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -228,12 +203,7 @@
       "id": "Oceanic 3 (Class G)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -267,12 +237,7 @@
       "id": "Oceanic 4 (Class A)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -346,12 +311,7 @@
       "id": "Oceanic 4 (Class G)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -423,12 +383,7 @@
       "id": "Oceanic 5 North (Class A)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -836,12 +791,7 @@
       "id": "Oceanic 5 North (Class G)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -1249,12 +1199,7 @@
       "id": "Oceanic 5 South (Class A)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -1617,12 +1562,7 @@
       "id": "Oceanic 5 South (Class G)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -1985,12 +1925,7 @@
       "id": "Oceanic 6 (Class A)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -2014,12 +1949,7 @@
       "id": "Oceanic 6 (Class G)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -2043,12 +1973,7 @@
       "id": "Oceanic 7 (Class A)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -2075,12 +2000,7 @@
       "id": "Oceanic 7 (Class G)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -2107,12 +2027,7 @@
       "id": "Oceanic 9 (Class A)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -2165,12 +2080,7 @@
       "id": "Oceanic 9 (Class G)",
       "group": "ZAK",
       "owner": [
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -2224,12 +2134,7 @@
       "group": "TWR",
       "owner": [
         "WAT",
-        "P",
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5"
+        "ZAK"
       ],
       "sectors": [
         {
@@ -2287,12 +2192,7 @@
     }
   },
   "positions": {
-    "P": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS","frequency": "131.950","callsign": "San Francisco Radio" },
-    "A1": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS","frequency": "131.175","callsign": "San Francisco Radio" },
-    "A2": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS","frequency": "130.700","callsign": "San Francisco Radio" },
-    "A3": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS","frequency": "128.900","callsign": "San Francisco Radio" },
-    "A4": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS","frequency": "130.800","callsign": "San Francisco Radio" },
-    "A5": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS","frequency": "129.400","callsign": "San Francisco Radio" },
+    "ZAK": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS","callsign": "San Francisco Radio" },
     "WAT": { "colours": [{ "hex": "#ffffff" }], "pre": [ "PKWA", "KWA" ], "type": "TWR","frequency": "126.200","callsign": "Bucholz Tower" }
   },
   "callsigns": {
@@ -2313,20 +2213,20 @@
     }
   },
   "airports": {
-    "PCIS": { "callsign": "Canton", "coord": ["-2.769167","-171.705278"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PKMA": { "callsign": "Enewetak", "coord": ["11.340833", "162.327833"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PKMJ": { "callsign": "Majuro", "coord": ["7.064981", "171.272031"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PKWA": { "callsign": "Bucholz", "pre": ["KWA"], "coord": ["8.718333", "167.731667"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PLCH": { "callsign": "Christmas", "coord": ["1.991167","-157.358667"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PLFA": { "callsign": "Fanning", "coord": ["3.85", "-159.36639"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PLPA": { "callsign": "Palmyra", "coord": ["5.8833333","-162.0666667"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PLWN": { "callsign": "Washington", "coord": ["4.6984","-160.3944"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PMDY": { "callsign": "Midway", "coord": ["28.203672", "-177.379519"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PTKK": { "callsign": "Chuuk", "coord": ["7.461944", "151.843056"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PTPN": { "callsign": "Pohnpei", "coord": ["6.985", "158.208889"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PTRO": { "callsign": "Koror", "coord": ["7.367222", "134.544167"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PTSA": { "callsign": "Kosrae", "coord": ["5.356975", "162.958386"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PTYA": { "callsign": "Yap", "coord": ["9.498889", "138.0825"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] },
-    "PWAK": { "callsign": "Wake Island Airfld", "coord": ["19.28", "166.641667"], "topdown": [ "P", "A1", "A2", "A3", "A4", "A5" ] }
+    "PCIS": { "callsign": "Canton", "coord": ["-2.769167","-171.705278"], "topdown": ["ZAK"] },
+    "PKMA": { "callsign": "Enewetak", "coord": ["11.340833", "162.327833"], "topdown": ["ZAK"] },
+    "PKMJ": { "callsign": "Majuro", "coord": ["7.064981", "171.272031"], "topdown": ["ZAK"] },
+    "PKWA": { "callsign": "Bucholz", "pre": ["KWA"], "coord": ["8.718333", "167.731667"], "topdown": ["ZAK"] },
+    "PLCH": { "callsign": "Christmas", "coord": ["1.991167","-157.358667"], "topdown": ["ZAK"] },
+    "PLFA": { "callsign": "Fanning", "coord": ["3.85", "-159.36639"], "topdown": ["ZAK"] },
+    "PLPA": { "callsign": "Palmyra", "coord": ["5.8833333","-162.0666667"], "topdown": ["ZAK"] },
+    "PLWN": { "callsign": "Washington", "coord": ["4.6984","-160.3944"], "topdown": ["ZAK"] },
+    "PMDY": { "callsign": "Midway", "coord": ["28.203672", "-177.379519"], "topdown": ["ZAK"] },
+    "PTKK": { "callsign": "Chuuk", "coord": ["7.461944", "151.843056"], "topdown": ["ZAK"] },
+    "PTPN": { "callsign": "Pohnpei", "coord": ["6.985", "158.208889"], "topdown": ["ZAK"] },
+    "PTRO": { "callsign": "Koror", "coord": ["7.367222", "134.544167"], "topdown": ["ZAK"] },
+    "PTSA": { "callsign": "Kosrae", "coord": ["5.356975", "162.958386"], "topdown": ["ZAK"] },
+    "PTYA": { "callsign": "Yap", "coord": ["9.498889", "138.0825"], "topdown": ["ZAK"] },
+    "PWAK": { "callsign": "Wake Island Airfld", "coord": ["19.28", "166.641667"], "topdown": ["ZAK"] }
   }
 }

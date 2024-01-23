@@ -3274,7 +3274,7 @@
       "id": "Oceanic North",
       "comment": "GMAC-ON",
       "group": "GMAC",
-      "owner": ["AO", "AR", "CRA", "afr/AN"],
+      "owner": ["AO", "AR", "CRA", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -3325,7 +3325,7 @@
       "id": "Oceanic South",
       "comment": "GMAC-OS",
       "group": "GMAC",
-      "owner": ["AOS", "AO", "AR", "CRA", "afr/AN"],
+      "owner": ["AOS", "AO", "AR", "CRA", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -3382,7 +3382,7 @@
       "id": "West North",
       "comment": "GMAC-WN",
       "group": "GMAC",
-      "owner": ["AW", "AR", "CRA", "afr/AN"],
+      "owner": ["AW", "AR", "CRA", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -3443,7 +3443,7 @@
       "id": "West South",
       "comment": "GMAC-WS",
       "group": "GMAC",
-      "owner": ["AWS", "AW", "AR", "CRA", "afr/AN"],
+      "owner": ["AWS", "AW", "AR", "CRA", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -3880,7 +3880,7 @@
       "id": "East",
       "comment": "GMMM-E",
       "group": "GMMM",
-      "owner": ["CE", "CR", "CRA", "afr/AN"],
+      "owner": ["CE", "CR", "CRA", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -4356,7 +4356,7 @@
       "id": "North",
       "comment": "GMMM-N",
       "group": "GMMM",
-      "owner": ["CN", "CR", "CRA", "afr/AN"],
+      "owner": ["CN", "CR", "CRA", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -4508,7 +4508,7 @@
       "id": "South",
       "comment": "GMMM-S",
       "group": "GMMM",
-      "owner": ["CS", "CR", "CRA", "afr/AN"],
+      "owner": ["CS", "CR", "CRA", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,

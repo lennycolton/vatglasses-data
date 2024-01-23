@@ -2195,7 +2195,7 @@
           "group": "FNAN",
           "owner": [
               "NA",
-              "afr/AC"
+              "fss/AFRC"
           ],
           "sectors": [
               {
@@ -3150,7 +3150,7 @@
           "group": "FNANO",
           "owner": [
               "NA",
-              "afr/AC"
+              "fss/AFRC"
           ],
           "sectors": [
               {

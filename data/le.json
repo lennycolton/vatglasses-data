@@ -430,8 +430,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -635,8 +635,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -681,8 +681,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -747,8 +747,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -783,8 +783,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -819,8 +819,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -853,8 +853,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -885,8 +885,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -935,8 +935,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -985,8 +985,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -1021,8 +1021,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -1135,8 +1135,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -1261,8 +1261,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -1299,8 +1299,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -1399,8 +1399,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -3206,8 +3206,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -3250,8 +3250,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -3500,8 +3500,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -3574,8 +3574,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -3771,8 +3771,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4057,8 +4057,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4131,8 +4131,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4223,8 +4223,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4782,8 +4782,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4848,8 +4848,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -4884,8 +4884,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9252,8 +9252,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9304,8 +9304,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9340,8 +9340,8 @@
                 "RW",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9420,8 +9420,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9456,8 +9456,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9486,8 +9486,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9512,8 +9512,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9578,8 +9578,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9628,8 +9628,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -9658,8 +9658,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -10475,8 +10475,8 @@
                 "RW",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -11954,8 +11954,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -11990,8 +11990,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -12056,8 +12056,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -12086,8 +12086,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -12932,8 +12932,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -13006,8 +13006,8 @@
                 "RE",
                 "RS",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -13041,8 +13041,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -13149,8 +13149,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -13251,8 +13251,8 @@
                 "RE",
                 "RN",
                 "CB",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -15483,8 +15483,8 @@
                 "NCS",
                 "CS",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -15744,8 +15744,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -15794,8 +15794,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -15928,8 +15928,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16026,8 +16026,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16112,8 +16112,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16170,8 +16170,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16288,8 +16288,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16370,8 +16370,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16425,8 +16425,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16468,8 +16468,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16512,8 +16512,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16650,8 +16650,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16699,8 +16699,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16747,8 +16747,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16845,8 +16845,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16900,8 +16900,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -16936,8 +16936,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17030,8 +17030,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17229,8 +17229,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17272,8 +17272,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17326,8 +17326,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17508,8 +17508,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17574,8 +17574,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17636,8 +17636,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17702,8 +17702,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17785,8 +17785,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17827,8 +17827,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17925,8 +17925,8 @@
                 "R1",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -17984,8 +17984,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18143,8 +18143,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18180,8 +18180,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18217,8 +18217,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18477,8 +18477,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18564,8 +18564,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18607,8 +18607,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18695,8 +18695,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18739,8 +18739,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -18949,8 +18949,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19031,8 +19031,8 @@
                 "R2",
                 "CM",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19122,8 +19122,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19291,8 +19291,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19324,8 +19324,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19393,8 +19393,8 @@
                 "CM",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19552,8 +19552,8 @@
                 "SM2",
                 "CS",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -19612,8 +19612,8 @@
                 "NCS",
                 "CS",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -20127,8 +20127,8 @@
                 "NCS",
                 "CS",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -20193,8 +20193,8 @@
                 "CS",
                 "CMU",
                 "CMA",
-                "euc/EWS",
-                "euc/EW"
+                "fss/EUCWS",
+                "fss/EUCW"
             ],
             "sectors": [
                 {
@@ -28837,37 +28837,37 @@
   },
   "positions": {
     "ALA": { "colours": [{ "hex": "#898768" }], "pre": [ "LEAL" ], "type": "APP", "frequency": "120.400", "callsign": "Valencia Control" },
-    "ALD": { "colours": [{ "hex": "#33c6c6" }], "pre": [ "LEAL" ], "type": "DEL", "frequency": "119.850", "callsign": "Alicante Clearance" },
+    "ALD": { "colours": [{ "hex": "#33c6c6" }], "pre": [ "LEAL" ], "type": "DEL", "frequency": "119.855", "callsign": "Alicante Clearance" },
     "ALAD": { "colours": [{ "hex": "#d69277" }], "pre": [ "LEAL" ], "type": "DEP", "frequency": "118.800", "callsign": "Valencia Control" },
-    "ALG": { "colours": [{ "hex": "#836887" }], "pre": [ "LEAL" ], "type": "GND", "frequency": "130.650", "callsign": "Alicante Ground" },
-    "ALT": { "colours": [{ "hex": "#7f3beb" }], "pre": [ "LEAL" ], "type": "TWR", "frequency": "118.150", "callsign": "Alicante Tower" },
+    "ALG": { "colours": [{ "hex": "#836887" }], "pre": [ "LEAL" ], "type": "GND", "frequency": "130.655", "callsign": "Alicante Ground" },
+    "ALT": { "colours": [{ "hex": "#7f3beb" }], "pre": [ "LEAL" ], "type": "TWR", "frequency": "118.155", "callsign": "Alicante Tower" },
     "BBA": { "colours": [{ "hex": "#c3bf68" }], "pre": [ "LEBB" ], "type": "APP", "frequency": "127.450", "callsign": "Bilbao Approach" },
-    "BLA2": { "colours": [{ "hex": "#30d12f" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "121.150", "callsign": "Barcelona Approach" },
-    "BLA3": { "colours": [{ "hex": "#227c8" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "126.500", "callsign": "Barcelona Approach" },
+    "BLA2": { "colours": [{ "hex": "#30d12f" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "121.155", "callsign": "Barcelona Approach" },
+    "BLA3": { "colours": [{ "hex": "#227c8" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "126.505", "callsign": "Barcelona Approach" },
     "BLA4": { "colours": [{ "hex": "#493887" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "127.700", "callsign": "Barcelona Approach" },
     "BLA": { "colours": [{ "hex": "#a24fde" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "131.125", "callsign": "Barcelona Approach" },
-    "BLGC": { "colours": [{ "hex": "#d8f8b4" }], "pre": [ "LEBL" ], "type": "GND", "frequency": "121.650", "callsign": "Barcelona Ground" },
-    "BLD": { "colours": [{ "hex": "#3ec1fe" }], "pre": [ "LEBL" ], "type": "DEL", "frequency": "121.800", "callsign": "Barcelona Clearance" },
-    "BLF": { "colours": [{ "hex": "#e79d14" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "119.100", "callsign": "Barcelona Approach" },
-    "BLG": { "colours": [{ "hex": "#c3bf68" }], "pre": [ "LEBL" ], "type": "GND", "frequency": "121.700", "callsign": "Barcelona Ground" },
+    "BLGC": { "colours": [{ "hex": "#d8f8b4" }], "pre": [ "LEBL" ], "type": "GND", "frequency": "121.655", "callsign": "Barcelona Ground" },
+    "BLD": { "colours": [{ "hex": "#3ec1fe" }], "pre": [ "LEBL" ], "type": "DEL", "frequency": "121.805", "callsign": "Barcelona Clearance" },
+    "BLF": { "colours": [{ "hex": "#e79d14" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "119.105", "callsign": "Barcelona Approach" },
+    "BLG": { "colours": [{ "hex": "#c3bf68" }], "pre": [ "LEBL" ], "type": "GND", "frequency": "121.705", "callsign": "Barcelona Ground" },
     "BLAN": { "colours": [{ "hex": "#e212c5" }], "pre": [ "LEBL" ], "type": "APP", "frequency": "125.250", "callsign": "Barcelona Approach" },
-    "BLGS": { "colours": [{ "hex": "#6edd87" }], "pre": [ "LEBL" ], "type": "GND", "frequency": "122.225", "callsign": "Barcelona Ground" },
-    "BLTS": { "colours": [{ "hex": "#802133" }], "pre": [ "LEBL" ], "type": "TWR", "frequency": "118.325", "callsign": "Barcelona Tower" },
-    "BLT": { "colours": [{ "hex": "#d69277" }], "pre": [ "LEBL" ], "type": "TWR", "frequency": "118.100", "callsign": "Barcelona Tower" },
+    "BLGS": { "colours": [{ "hex": "#6edd87" }], "pre": [ "LEBL" ], "type": "GND", "frequency": "122.230", "callsign": "Barcelona Ground" },
+    "BLTS": { "colours": [{ "hex": "#802133" }], "pre": [ "LEBL" ], "type": "TWR", "frequency": "118.330", "callsign": "Barcelona Tower" },
+    "BLT": { "colours": [{ "hex": "#d69277" }], "pre": [ "LEBL" ], "type": "TWR", "frequency": "118.105", "callsign": "Barcelona Tower" },
     "BTH": { "colours": [{ "hex": "#45295f" }], "pre": [ "LEBT" ], "type": "TWR", "frequency": "126.750", "callsign": "Betera Heliport" },
     "BZA": { "colours": [{ "hex": "#33c6c6" }], "pre": [ "LEBZ" ], "type": "APP", "frequency": "120.550", "callsign": "Talavera Approach" },
-    "CCC": { "colours": [{ "hex": "#c3bf68" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "134.675", "callsign": "Barcelona Control" },
-    "CB": { "colours": [{ "hex": "#8b26aa" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "132.350", "callsign": "Barcelona Control" },
-    "DDI": { "colours": [{ "hex": "#e79d14" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "135.525", "callsign": "Barcelona Control" },
-    "LLI": { "colours": [{ "hex": "#1583f7" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "129.525", "callsign": "Barcelona Control" },
-    "MVS": { "colours": [{ "hex": "#836887" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "134.975", "callsign": "Barcelona Control" },
-    "PPI": { "colours": [{ "hex": "#bdc3f9" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "119.675", "callsign": "Barcelona Control" },
-    "RE": { "colours": [{ "hex": "#108993" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "133.025", "callsign": "Barcelona Control" },
-    "RN": { "colours": [{ "hex": "#53d1d8" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "132.575", "callsign": "Barcelona Control" },
+    "CCC": { "colours": [{ "hex": "#c3bf68" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "125.730", "callsign": "Barcelona Control" },
+    "CB": { "colours": [{ "hex": "#8b26aa" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "132.355", "callsign": "Barcelona Control" },
+    "DDI": { "colours": [{ "hex": "#e79d14" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "135.355", "callsign": "Barcelona Control" },
+    "LLI": { "colours": [{ "hex": "#1583f7" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "129.530", "callsign": "Barcelona Control" },
+    "MVS": { "colours": [{ "hex": "#836887" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "134.985", "callsign": "Barcelona Control" },
+    "PPI": { "colours": [{ "hex": "#bdc3f9" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "119.655", "callsign": "Barcelona Control" },
+    "RE": { "colours": [{ "hex": "#108993" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "133.030", "callsign": "Barcelona Control" },
+    "RN": { "colours": [{ "hex": "#53d1d8" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "132.580", "callsign": "Barcelona Control" },
     "RS": { "colours": [{ "hex": "#40063f" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "126.650", "callsign": "Barcelona Control" },
-    "RW": { "colours": [{ "hex": "#982336" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "134.450", "callsign": "Barcelona Control" },
-    "VNI": { "colours": [{ "hex": "#45295f" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "135.775", "callsign": "Barcelona Control" },
-    "XAL": { "colours": [{ "hex": "#14b902" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "133.075", "callsign": "Barcelona Control" },
+    "RW": { "colours": [{ "hex": "#982336" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "134.455", "callsign": "Barcelona Control" },
+    "VNI": { "colours": [{ "hex": "#45295f" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "133.080", "callsign": "Barcelona Control" },
+    "XAL": { "colours": [{ "hex": "#14b902" }], "pre": [ "LECB" ], "type": "CTR", "frequency": "135.805", "callsign": "Barcelona Control" },
     "CHG": { "colours": [{ "hex": "#06cc9c" }], "pre": [ "LECH" ], "type": "GND", "frequency": "121.825", "callsign": "Castellon Ground" },
     "CHT": { "colours": [{ "hex": "#730a6f" }], "pre": [ "LECH" ], "type": "TWR", "frequency": "120.675", "callsign": "Castellon Tower" },
     "CL": { "colours": [{ "hex": "#e79d14" }], "pre": [ "LECL" ], "type": "CTR", "frequency": "124.750", "callsign": "Valencia Control" },
@@ -28891,14 +28891,14 @@
     "MXX": { "colours": [{ "hex": "#88d809" }], "pre": [ "LEMH" ], "type": "APP", "frequency": "127.625", "callsign": "Palma Control" },
     "MHT": { "colours": [{ "hex": "#6750cc" }], "pre": [ "LEMH" ], "type": "TWR", "frequency": "118.200", "callsign": "Menorca Tower" },
     "MIT": { "colours": [{ "hex": "#b418f0" }], "pre": [ "LEMI" ], "type": "TWR", "frequency": "121.320", "callsign": "Murcia Tower" },
-    "PAA": { "colours": [{ "hex": "#507509" }], "pre": [ "LEPA" ], "type": "APP", "frequency": "119.400", "callsign": "Palma Control" },
-    "PAD": { "colours": [{ "hex": "#5c124a" }], "pre": [ "LEPA" ], "type": "DEL", "frequency": "123.875", "callsign": "Palma Clearance" },
-    "PAAE": { "colours": [{ "hex": "#7da5a1" }], "pre": [ "LEPA" ], "type": "APP", "frequency": "119.150", "callsign": "Palma Control" },
-    "PAF": { "colours": [{ "hex": "#caf719" }], "pre": [ "LEPA" ], "type": "APP", "frequency": "118.950", "callsign": "Palma Control" },
-    "PAG": { "colours": [{ "hex": "#6edd87" }], "pre": [ "LEPA" ], "type": "GND", "frequency": "121.700", "callsign": "Palma Ground" },
-    "PAGN": { "colours": [{ "hex": "#8b26aa" }], "pre": [ "LEPA" ], "type": "GND", "frequency": "121.900", "callsign": "Palma Ground" },
-    "PATN": { "colours": [{ "hex": "#836887" }], "pre": [ "LEPA" ], "type": "TWR", "frequency": "118.450", "callsign": "Palma Tower" },
-    "PAT": { "colours": [{ "hex": "#7bcc2a" }], "pre": [ "LEPA" ], "type": "TWR", "frequency": "118.300", "callsign": "Palma Tower" },
+    "PAA": { "colours": [{ "hex": "#507509" }], "pre": [ "LEPA" ], "type": "APP", "frequency": "119.405", "callsign": "Palma Control" },
+    "PAD": { "colours": [{ "hex": "#5c124a" }], "pre": [ "LEPA" ], "type": "DEL", "frequency": "123.880", "callsign": "Palma Clearance" },
+    "PAAE": { "colours": [{ "hex": "#7da5a1" }], "pre": [ "LEPA" ], "type": "APP", "frequency": "119.155", "callsign": "Palma Control" },
+    "PAF": { "colours": [{ "hex": "#caf719" }], "pre": [ "LEPA" ], "type": "APP", "frequency": "118.955", "callsign": "Palma Control" },
+    "PAG": { "colours": [{ "hex": "#6edd87" }], "pre": [ "LEPA" ], "type": "GND", "frequency": "121.705", "callsign": "Palma Ground" },
+    "PAGN": { "colours": [{ "hex": "#8b26aa" }], "pre": [ "LEPA" ], "type": "GND", "frequency": "121.905", "callsign": "Palma Ground" },
+    "PATN": { "colours": [{ "hex": "#836887" }], "pre": [ "LEPA" ], "type": "TWR", "frequency": "118.455", "callsign": "Palma Tower" },
+    "PAT": { "colours": [{ "hex": "#7bcc2a" }], "pre": [ "LEPA" ], "type": "TWR", "frequency": "118.305", "callsign": "Palma Tower" },
     "RIT": { "colours": [{ "hex": "#85d6c0" }], "pre": [ "LERI" ], "type": "TWR", "frequency": "118.100", "callsign": "Alcantarilla Tower" },
     "RSG": { "colours": [{ "hex": "#836887" }], "pre": [ "LERS" ], "type": "GND", "frequency": "121.700", "callsign": "Reus Ground" },
     "RST": { "colours": [{ "hex": "#45295f" }], "pre": [ "LERS" ], "type": "TWR", "frequency": "118.150", "callsign": "Reus Tower" },
@@ -28921,15 +28921,15 @@
     "BBG": { "colours": [{ "hex": "#f9ce2d" }], "pre": [ "LEBB" ], "type": "GND", "frequency": "121.700", "callsign": "Bilbao Ground" },
     "BBT": { "colours": [{ "hex": "#950458" }], "pre": [ "LEBB" ], "type": "TWR", "frequency": "118.500", "callsign": "Bilbao Tower" },
     "BGI": { "colours": [{ "hex": "#bdc3f9" }], "pre": [ "LEBG" ], "type": "TWR", "frequency": "125.425", "callsign": "Burgos Information" },
-    "CMA": { "colours": [{ "hex": "#77087c" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "133.750", "callsign": "Madrid Control" },
+    "CMA": { "colours": [{ "hex": "#77087c" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "133.755", "callsign": "Madrid Control" },
     "BDP": { "colours": [{ "hex": "#e212c5" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "126.550", "callsign": "Madrid Control" },
-    "CM": { "colours": [{ "hex": "#055a5a" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "132.975", "callsign": "Madrid Control" },
+    "CM": { "colours": [{ "hex": "#055a5a" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "132.980", "callsign": "Madrid Control" },
     "CZI": { "colours": [{ "hex": "#1583f7" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "133.850", "callsign": "Madrid Control" },
-    "R1": { "colours": [{ "hex": "#d8f8b4" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "125.750", "callsign": "Madrid Control" },
+    "R1": { "colours": [{ "hex": "#d8f8b4" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "125.755", "callsign": "Madrid Control" },
     "R2": { "colours": [{ "hex": "#8cd620" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "133.200", "callsign": "Madrid Control" },
-    "SAI": { "colours": [{ "hex": "#8cd620" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "135.950", "callsign": "Madrid Control" },
-    "TLI": { "colours": [{ "hex": "#108993" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "136.400", "callsign": "Madrid Control" },
-    "CMU": { "colours": [{ "hex": "#bad4d7" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "136.350", "callsign": "Madrid Control" },
+    "SAI": { "colours": [{ "hex": "#8cd620" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "135.955", "callsign": "Madrid Control" },
+    "TLI": { "colours": [{ "hex": "#108993" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "136.405", "callsign": "Madrid Control" },
+    "CMU": { "colours": [{ "hex": "#bad4d7" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "136.355", "callsign": "Madrid Control" },
     "ZMI": { "colours": [{ "hex": "#45295f" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "136.525", "callsign": "Madrid Control" },
     "COG": { "colours": [{ "hex": "#7626d3" }], "pre": [ "LECO" ], "type": "GND", "frequency": "121.700", "callsign": "A Coruña Ground" },
     "COT": { "colours": [{ "hex": "#88623f" }], "pre": [ "LECO" ], "type": "TWR", "frequency": "118.300", "callsign": "A Coruña Tower" },
@@ -28952,36 +28952,36 @@
     "LNA": { "colours": [{ "hex": "#d69277" }], "pre": [ "LELN" ], "type": "APP", "frequency": "121.275", "callsign": "León Approach" },
     "LNT": { "colours": [{ "hex": "#45295f" }], "pre": [ "LELN" ], "type": "TWR", "frequency": "122.100", "callsign": "León Tower" },
     "LOH": { "colours": [{ "hex": "#7f3beb" }], "pre": [ "LELO" ], "type": "TWR", "frequency": "123.225", "callsign": "Agoncillo Heliport" },
-    "MDA": { "colours": [{ "hex": "#b418f0" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "118.750", "callsign": "Madrid Approach" },
+    "MDAEN": { "colours": [{ "hex": "#b418f0" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "118.755", "callsign": "Madrid Approach" },
     "MDAAW": { "colours": [{ "hex": "#d8f8b4" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "127.100", "callsign": "Madrid Approach" },
-    "MDGCS": { "colours": [{ "hex": "#a24fde" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "121.975", "callsign": "Barajas Ground" },
-    "MDGCN": { "colours": [{ "hex": "#bdc3f9" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "123.150", "callsign": "Barajas Ground" },
-    "MDD": { "colours": [{ "hex": "#45295f" }], "pre": [ "LEMD" ], "type": "DEL", "frequency": "130.075", "callsign": "Barajas Clearance" },
+    "MDGCS": { "colours": [{ "hex": "#a24fde" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "121.980", "callsign": "Barajas Ground" },
+    "MDGCN": { "colours": [{ "hex": "#bdc3f9" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "123.155", "callsign": "Barajas Ground" },
+    "MDD": { "colours": [{ "hex": "#45295f" }], "pre": [ "LEMD" ], "type": "DEL", "frequency": "130.080", "callsign": "Barajas Clearance" },
     "MDDEP": { "colours": [{ "hex": "#b418f0" }], "pre": [ "LEMD" ], "type": "DEP", "frequency": "131.175", "callsign": "Madrid Departures" },
-    "MDDDW": { "colours": [{ "hex": "#6750cc" }], "pre": [ "LEMD" ], "type": "DEP", "frequency": "124.225", "callsign": "Madrid Departures" },
-    "MDAES": { "colours": [{ "hex": "#bdc3f9" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "124.025", "callsign": "Madrid Approach" },
-    "MDGEN": { "colours": [{ "hex": "#7626d3" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "121.750", "callsign": "Barajas Ground" },
-    "MDTE": { "colours": [{ "hex": "#7f56b0" }], "pre": [ "LEMD" ], "type": "TWR", "frequency": "118.975", "callsign": "Barajas Tower" },
+    "MDDDW": { "colours": [{ "hex": "#6750cc" }], "pre": [ "LEMD" ], "type": "DEP", "frequency": "124.230", "callsign": "Madrid Departures" },
+    "MDAES": { "colours": [{ "hex": "#bdc3f9" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "124.030", "callsign": "Madrid Approach" },
+    "MDGEN": { "colours": [{ "hex": "#7626d3" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "121.755", "callsign": "Barajas Ground" },
+    "MDTE": { "colours": [{ "hex": "#7f56b0" }], "pre": [ "LEMD" ], "type": "TWR", "frequency": "118.980", "callsign": "Barajas Tower" },
     "MDFAE": { "colours": [{ "hex": "#7f56b0" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "127.500", "callsign": "Madrid Approach" },
-    "MDG": { "colours": [{ "hex": "#e212c5" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "121.625", "callsign": "Barajas Ground" },
-    "MDTN": { "colours": [{ "hex": "#f9ce2d" }], "pre": [ "LEMD" ], "type": "TWR", "frequency": "118.675", "callsign": "Barajas Tower" },
-    "MDARE": { "colours": [{ "hex": "#7da5a1" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "134.950", "callsign": "Madrid Director" },
+    "MDG": { "colours": [{ "hex": "#e212c5" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "121.630", "callsign": "Barajas Ground" },
+    "MDTN": { "colours": [{ "hex": "#f9ce2d" }], "pre": [ "LEMD" ], "type": "TWR", "frequency": "118.680", "callsign": "Barajas Tower" },
+    "MDARE": { "colours": [{ "hex": "#7da5a1" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "134.955", "callsign": "Madrid Director" },
     "MDARW": { "colours": [{ "hex": "#802133" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "128.700", "callsign": "Madrid Director" },
-    "MDGSN": { "colours": [{ "hex": "#589773" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "121.850", "callsign": "Barajas Apron" },
-    "MDGSS": { "colours": [{ "hex": "#b418f0" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "121.700", "callsign": "Barajas Apron" },
-    "MDTS": { "colours": [{ "hex": "#88d809" }], "pre": [ "LEMD" ], "type": "TWR", "frequency": "118.075", "callsign": "Barajas Tower" },
-    "MDT": { "colours": [{ "hex": "#d3c481" }], "pre": [ "LEMD" ], "type": "TWR", "frequency": "118.150", "callsign": "Barajas Tower" },
-    "MDAWN": { "colours": [{ "hex": "#40063f" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "136.100", "callsign": "Madrid Approach" },
-    "MDAWS": { "colours": [{ "hex": "#836887" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "118.400", "callsign": "Madrid Approach" },
-    "MDGWS": { "colours": [{ "hex": "#bdc3f9" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "123.000", "callsign": "Barajas Apron" },
-    "MDDW": { "colours": [{ "hex": "#06cc9c" }], "pre": [ "LEMD" ], "type": "DEL", "frequency": "130.350", "callsign": "Barajas Clearance" },
-    "MDGWN": { "colours": [{ "hex": "#802133" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "123.250", "callsign": "Barajas Apron" },
-    "MGA": { "colours": [{ "hex": "#e79d14" }], "pre": [ "LEMG" ], "type": "APP", "frequency": "118.450", "callsign": "Málaga Approach" },
-    "MGC": { "colours": [{ "hex": "#5cb9a2" }], "pre": [ "LEMG" ], "type": "DEL", "frequency": "121.875", "callsign": "Málaga Clearance" },
+    "MDGSN": { "colours": [{ "hex": "#589773" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "121.855", "callsign": "Barajas Apron" },
+    "MDGSS": { "colours": [{ "hex": "#b418f0" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "121.705", "callsign": "Barajas Apron" },
+    "MDTS": { "colours": [{ "hex": "#88d809" }], "pre": [ "LEMD" ], "type": "TWR", "frequency": "118.080", "callsign": "Barajas Tower" },
+    "MDT": { "colours": [{ "hex": "#d3c481" }], "pre": [ "LEMD" ], "type": "TWR", "frequency": "118.155", "callsign": "Barajas Tower" },
+    "MDAWN": { "colours": [{ "hex": "#40063f" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "136.105", "callsign": "Madrid Approach" },
+    "MDAWS": { "colours": [{ "hex": "#836887" }], "pre": [ "LEMD" ], "type": "APP", "frequency": "118.405", "callsign": "Madrid Approach" },
+    "MDGWS": { "colours": [{ "hex": "#bdc3f9" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "123.005", "callsign": "Barajas Apron" },
+    "MDDW": { "colours": [{ "hex": "#06cc9c" }], "pre": [ "LEMD" ], "type": "DEL", "frequency": "130.355", "callsign": "Barajas Clearance" },
+    "MDGWN": { "colours": [{ "hex": "#802133" }], "pre": [ "LEMD" ], "type": "GND", "frequency": "123.255", "callsign": "Barajas Apron" },
+    "MGA": { "colours": [{ "hex": "#e79d14" }], "pre": [ "LEMG" ], "type": "APP", "frequency": "118.455", "callsign": "Málaga Approach" },
+    "MGC": { "colours": [{ "hex": "#5cb9a2" }], "pre": [ "LEMG" ], "type": "DEL", "frequency": "121.880", "callsign": "Málaga Clearance" },
     "MGD": { "colours": [{ "hex": "#638c09" }], "pre": [ "LEMG" ], "type": "DEP", "frequency": "123.850", "callsign": "Málaga Approach" },
-    "MGGE": { "colours": [{ "hex": "#7356ad" }], "pre": [ "LEMG" ], "type": "GND", "frequency": "121.950", "callsign": "Málaga Ground" },
-    "MGTE": { "colours": [{ "hex": "#b418f0" }], "pre": [ "LEMG" ], "type": "TWR", "frequency": "118.775", "callsign": "Málaga Tower" },
-    "MGG": { "colours": [{ "hex": "#88d809" }], "pre": [ "LEMG" ], "type": "GND", "frequency": "121.700", "callsign": "Málaga Ground" },
+    "MGGE": { "colours": [{ "hex": "#7356ad" }], "pre": [ "LEMG" ], "type": "GND", "frequency": "121.955", "callsign": "Málaga Ground" },
+    "MGTE": { "colours": [{ "hex": "#b418f0" }], "pre": [ "LEMG" ], "type": "TWR", "frequency": "118.780", "callsign": "Málaga Tower" },
+    "MGG": { "colours": [{ "hex": "#88d809" }], "pre": [ "LEMG" ], "type": "GND", "frequency": "121.705", "callsign": "Málaga Ground" },
     "MGT": { "colours": [{ "hex": "#9ebb98" }], "pre": [ "LEMG" ], "type": "TWR", "frequency": "118.150", "callsign": "Málaga Tower" },
     "MOT": { "colours": [{ "hex": "#7f56b0" }], "pre": [ "LEMO" ], "type": "TWR", "frequency": "122.100", "callsign": "Morón Tower" },
     "PPG": { "colours": [{ "hex": "#898768" }], "pre": [ "LEPP" ], "type": "GND", "frequency": "121.700", "callsign": "Pamplona Ground" },

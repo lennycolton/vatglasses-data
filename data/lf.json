@@ -6621,7 +6621,7 @@
     {
       "id": "LFBB_N UIR",
       "group": "LFBB",
-      "owner": ["BBN", "BB", "euc/EWN"],
+      "owner": ["BBN", "BB", "fss/EUCWN"],
       "sectors": [
         {
           "min": 295,
@@ -6671,7 +6671,7 @@
     {
       "id": "LFBB_N_UIR",
       "group": "LFBB",
-      "owner": ["BBN", "BB", "euc/EWN"],
+      "owner": ["BBN", "BB", "fss/EUCWN"],
       "sectors": [
         {
           "min": 245,
@@ -6816,7 +6816,7 @@
     {
       "id": "LFBB_S UIR",
       "group": "LFBB",
-      "owner": ["BBS", "BB", "euc/EWN"],
+      "owner": ["BBS", "BB", "fss/EUCWN"],
       "sectors": [
         {
           "min": 245,
@@ -6911,7 +6911,7 @@
     {
       "id": "LFBB_S UIR",
       "group": "LFBB",
-      "owner": ["BBS", "BB", "euc/EWN"],
+      "owner": ["BBS", "BB", "fss/EUCWN"],
       "sectors": [
         {
           "min": 295,
@@ -7006,7 +7006,7 @@
     {
       "id": "LFXX-P-H_UIR",
       "group": "LFBB",
-      "owner": ["BBN", "BB", "euc/EWN"],
+      "owner": ["BBN", "BB", "fss/EUCWN"],
       "sectors": [
         {
           "min": 295,
@@ -7045,7 +7045,7 @@
     {
       "id": "LFEE-H_UIR",
       "group": "LFEE",
-      "owner": ["EE", "FF", "euc/EWN"],
+      "owner": ["EE", "FF", "fss/EUCWN"],
       "sectors": [
         {
           "min": 295,
@@ -7339,7 +7339,7 @@
     {
       "id": "LFEE-L_UIR",
       "group": "LFEE",
-      "owner": ["EES", "EE", "FF", "euc/EWN"],
+      "owner": ["EES", "EE", "FF", "fss/EUCWN"],
       "sectors": [
         {
           "min": 245,
@@ -8379,7 +8379,7 @@
     {
       "id": "UIR_HD",
       "group": "LFEE",
-      "owner": ["EE", "FF", "euc/EWN"],
+      "owner": ["EE", "FF", "fss/EUCWN"],
       "sectors": [
         {
           "min": 295,
@@ -8406,7 +8406,7 @@
     {
       "id": "UIR_KF",
       "group": "LFEE",
-      "owner": ["EE", "FF", "euc/EWN"],
+      "owner": ["EE", "FF", "fss/EUCWN"],
       "sectors": [
         {
           "min": 295,
@@ -8436,7 +8436,7 @@
     {
       "id": "UIR_NR",
       "group": "LFEE",
-      "owner": ["EEN", "EE", "FF", "euc/EWN"],
+      "owner": ["EEN", "EE", "FF", "fss/EUCWN"],
       "sectors": [
         {
           "min": 295,
@@ -10136,7 +10136,7 @@
     {
       "id": "LFFF-H_UIR",
       "group": "LFFF",
-      "owner": ["FFS", "FF", "euc/EWN"],
+      "owner": ["FFS", "FF", "fss/EUCWN"],
       "sectors": [
         {
           "min": 295,
@@ -11306,7 +11306,7 @@
     {
       "id": "UIR_RAE",
       "group": "LFMM",
-      "owner": ["MME", "MM", "euc/EWN"],
+      "owner": ["MME", "MM", "fss/EUCWN"],
       "sectors": [
         {
           "min": 245,
@@ -11403,7 +11403,7 @@
     {
       "id": "UIR_RAW",
       "group": "LFMM",
-      "owner": ["MM", "euc/EWN"],
+      "owner": ["MM", "fss/EUCWN"],
       "sectors": [
         {
           "min": 245,
@@ -11474,7 +11474,7 @@
     {
       "id": "BOTA HIGH NORTH",
       "group": "LFRR",
-      "owner": ["RRW", "RRJ", "RR"],
+      "owner": ["RRW", "RRJ", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 255,
@@ -11497,7 +11497,7 @@
     {
       "id": "BOTA HIGH NORTH",
       "group": "LFRR",
-      "owner": ["RRW", "RRJ", "RR"],
+      "owner": ["RRW", "RRJ", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 355,
@@ -11520,7 +11520,7 @@
     {
       "id": "BOTA HIGH SOUTH",
       "group": "LFRR",
-      "owner": ["RRS", "RR"],
+      "owner": ["RRS", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 255,
@@ -11541,7 +11541,7 @@
     {
       "id": "BOTA HIGH SOUTH",
       "group": "LFRR",
-      "owner": ["RRA", "RRS", "RR"],
+      "owner": ["RRA", "RRS", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 355,
@@ -11765,7 +11765,7 @@
     {
       "id": "UIR_AS",
       "group": "LFRR",
-      "owner": ["RRS", "RR", "euc/EWN"],
+      "owner": ["RRS", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 255,
@@ -11794,7 +11794,7 @@
     {
       "id": "UIR_AU",
       "group": "LFRR",
-      "owner": ["RRA", "RRS", "RR", "euc/EWN"],
+      "owner": ["RRA", "RRS", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 355,
@@ -11823,7 +11823,7 @@
     {
       "id": "UIR_EASTS",
       "group": "LFRR",
-      "owner": ["RRE", "RR", "FFW", "FFN", "FF", "euc/EWN"],
+      "owner": ["RRE", "RR", "FFW", "FFN", "FF", "fss/EUCWN"],
       "sectors": [
         {
           "min": 295,
@@ -11880,7 +11880,7 @@
     {
       "id": "UIR_EASTU",
       "group": "LFRR",
-      "owner": ["RRQ", "RRE", "RR", "FFW", "FFN", "FF", "euc/EWN"],
+      "owner": ["RRQ", "RRE", "RR", "FFW", "FFN", "FF", "fss/EUCWN"],
       "sectors": [
         {
           "min": 355,
@@ -11937,7 +11937,7 @@
     {
       "id": "UIR_GS",
       "group": "LFRR",
-      "owner": ["RRS", "RR", "euc/EWN"],
+      "owner": ["RRS", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 255,
@@ -11965,7 +11965,7 @@
     {
       "id": "UIR_GU",
       "group": "LFRR",
-      "owner": ["RRA", "RRS", "RR", "euc/EWN"],
+      "owner": ["RRA", "RRS", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 355,
@@ -11993,7 +11993,7 @@
     {
       "id": "UIR_JS",
       "group": "LFRR",
-      "owner": ["RRJ", "RRW", "RR", "euc/EWN"],
+      "owner": ["RRJ", "RRW", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 255,
@@ -12028,7 +12028,7 @@
     {
       "id": "UIR_JU",
       "group": "LFRR",
-      "owner": ["RRJ", "RRW", "RR", "euc/EWN"],
+      "owner": ["RRJ", "RRW", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 355,
@@ -12063,7 +12063,7 @@
     {
       "id": "UIR_KS",
       "group": "LFRR",
-      "owner": ["RRV", "RRW", "RR", "euc/EWN"],
+      "owner": ["RRV", "RRW", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 255,
@@ -12088,7 +12088,7 @@
     {
       "id": "UIR_KU",
       "group": "LFRR",
-      "owner": ["RRV", "RRW", "RR", "euc/EWN"],
+      "owner": ["RRV", "RRW", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 355,
@@ -12113,7 +12113,7 @@
     {
       "id": "UIR_NS",
       "group": "LFRR",
-      "owner": ["RRN", "RRS", "RR", "euc/EWN"],
+      "owner": ["RRN", "RRS", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 255,
@@ -12149,7 +12149,7 @@
     {
       "id": "UIR_NU",
       "group": "LFRR",
-      "owner": ["RRN", "RRA", "RRS", "RR", "euc/EWN"],
+      "owner": ["RRN", "RRA", "RRS", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 355,
@@ -12185,7 +12185,7 @@
     {
       "id": "UIR_VS",
       "group": "LFRR",
-      "owner": ["RRV", "RRJ", "RRW", "RR", "euc/EWN"],
+      "owner": ["RRV", "RRJ", "RRW", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 255,
@@ -12215,7 +12215,7 @@
     {
       "id": "UIR_VU",
       "group": "LFRR",
-      "owner": ["RRV", "RRJ", "RRW", "RR", "euc/EWN"],
+      "owner": ["RRV", "RRJ", "RRW", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 355,
@@ -12245,7 +12245,7 @@
     {
       "id": "UIR_WS",
       "group": "LFRR",
-      "owner": ["RRW", "RR", "euc/EWN"],
+      "owner": ["RRW", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 255,
@@ -12277,7 +12277,7 @@
     {
       "id": "UIR_WU",
       "group": "LFRR",
-      "owner": ["RRW", "RR", "euc/EWN"],
+      "owner": ["RRW", "RR", "fss/EUCWN"],
       "sectors": [
         {
           "min": 355,
@@ -13868,28 +13868,28 @@
     },
     "BB": {
       "callsign": "Bordeaux Control",
-      "frequency": "125.100",
+      "frequency": "125.105",
       "type": "CTR",
       "pre": ["LFBB"],
       "colours": [{ "hex": "#837285" }]
     },
     "BBN": {
       "callsign": "Bordeaux Control",
-      "frequency": "118.425",
+      "frequency": "118.430",
       "type": "CTR",
       "pre": ["LFBB"],
       "colours": [{ "hex": "#837285" }]
     },
     "BBS": {
       "callsign": "Bordeaux Control",
-      "frequency": "136.050",
+      "frequency": "136.040",
       "type": "CTR",
       "pre": ["LFBB"],
       "colours": [{ "hex": "#837285" }]
     },
     "BDA": {
       "callsign": "Aquitaine Approach",
-      "frequency": "119.275",
+      "frequency": "126.730",
       "type": "APP",
       "pre": ["LFBD"],
       "colours": [{ "hex": "#a24fde" }]
@@ -13952,28 +13952,28 @@
     },
     "BLA": {
       "callsign": "Limoge Approach",
-      "frequency": "118.075",
+      "frequency": "118.080",
       "type": "APP",
       "pre": ["LFBL"],
       "colours": [{ "hex": "#a24fde" }]
     },
     "BL": {
       "callsign": "Limoges Tower",
-      "frequency": "119.050",
+      "frequency": "119.550",
       "type": "TWR",
       "pre": ["LFBL"],
       "colours": [{ "hex": "#71aa71" }]
     },
     "BOA": {
       "callsign": "Toulouse Approach",
-      "frequency": "129.300",
+      "frequency": "129.305",
       "type": "APP",
       "pre": ["LFBO"],
       "colours": [{ "hex": "#a24fde" }]
     },
     "BOW": {
       "callsign": "Toulouse East Approach",
-      "frequency": "125.175",
+      "frequency": "125.180",
       "type": "APP",
       "pre": ["LFBO"],
       "colours": [{ "hex": "#a24fde" }]
@@ -13987,7 +13987,7 @@
     },
     "TNA": {
       "callsign": "Toulouse West Approach",
-      "frequency": "121.100",
+      "frequency": "121.105",
       "type": "APP",
       "pre": ["LFBO"],
       "colours": [{ "hex": "#a24fde" }]
@@ -14008,7 +14008,7 @@
     },
     "BT": {
       "callsign": "Lourdes Tower",
-      "frequency": "120.300",
+      "frequency": "120.305",
       "type": "TWR",
       "pre": ["LFBT"],
       "colours": [{ "hex": "#71aa71" }]
@@ -14057,21 +14057,21 @@
     },
     "EE": {
       "callsign": "Reims Control",
-      "frequency": "128.300",
+      "frequency": "128.305",
       "type": "CTR",
       "pre": ["LFEE"],
       "colours": [{ "hex": "#71aa71" }]
     },
     "EEN": {
       "callsign": "Reims Control",
-      "frequency": "127.550",
+      "frequency": "127.555",
       "type": "CTR",
       "pre": ["LFEE"],
       "colours": [{ "hex": "#71aa71" }]
     },
     "EES": {
       "callsign": "Reims Control",
-      "frequency": "135.100",
+      "frequency": "135.105",
       "type": "CTR",
       "pre": ["LFEE"],
       "colours": [{ "hex": "#71aa71" }]
@@ -14106,7 +14106,7 @@
     },
     "SBA": {
       "callsign": "Bale Approach",
-      "frequency": "119.350",
+      "frequency": "119.355",
       "type": "APP",
       "pre": ["LFSB"],
       "colours": [{ "hex": "#00000a" }]
@@ -14134,14 +14134,14 @@
     },
     "SI": {
       "callsign": "Saint Dizier Tower",
-      "frequency": "122.100",
+      "frequency": "134.775",
       "type": "TWR",
       "pre": ["LFSI"],
       "colours": [{ "hex": "#71aa71" }]
     },
     "SO": {
       "callsign": "Ochey Tower",
-      "frequency": "133.200",
+      "frequency": "122.100",
       "type": "TWR",
       "pre": ["LFSO"],
       "colours": [{ "hex": "#71aa71" }]
@@ -14183,7 +14183,7 @@
     },
     "AQ": {
       "callsign": "Albert-Bray Tower",
-      "frequency": "119.650",
+      "frequency": "119.655",
       "type": "TWR",
       "pre": ["LFAQ"],
       "colours": [{ "hex": "#71aa71" }]
@@ -14197,7 +14197,7 @@
     },
     "FF": {
       "callsign": "Paris Control",
-      "frequency": "128.100",
+      "frequency": "128.105",
       "type": "CTR",
       "pre": ["LFFF"],
       "colours": [{ "hex": "#4067a9" }]
@@ -14211,7 +14211,7 @@
     },
     "FFS": {
       "callsign": "Paris Control",
-      "frequency": "132.375",
+      "frequency": "132.100",
       "type": "CTR",
       "pre": ["LFFF"],
       "colours": [{ "hex": "#4067a9" }]
@@ -14246,7 +14246,7 @@
     },
     "OBA": {
       "callsign": "Beauvais Approach",
-      "frequency": "119.900",
+      "frequency": "123.985",
       "type": "APP",
       "pre": ["LFOB"],
       "colours": [{ "hex": "#a24fde" }]
@@ -14260,14 +14260,14 @@
     },
     "OC": {
       "callsign": "Chateaudun Tower",
-      "frequency": "122.100",
+      "frequency": "125.625",
       "type": "TWR",
       "pre": ["LFOC"],
       "colours": [{ "hex": "#71aa71" }]
     },
     "OH": {
       "callsign": "Le Havre AFIS",
-      "frequency": "135.200",
+      "frequency": "135.205",
       "type": "TWR",
       "pre": ["LFOH"],
       "colours": [{ "hex": "#007000" }]
@@ -14309,7 +14309,7 @@
     },
     "OT": {
       "callsign": "Tours Tower",
-      "frequency": "118.300",
+      "frequency": "124.400",
       "type": "TWR",
       "pre": ["LFOT"],
       "colours": [{ "hex": "#71aa71" }]
@@ -14323,14 +14323,14 @@
     },
     "PGN": {
       "callsign": "De Gaulle Approach",
-      "frequency": "121.150",
+      "frequency": "121.155",
       "type": "APP",
       "pre": ["LFPG"],
       "colours": [{ "hex": "#a24fde" }]
     },
     "PGD": {
       "callsign": "De Gaulle Departure",
-      "frequency": "124.350",
+      "frequency": "124.355",
       "type": "DEP",
       "pre": ["LFPG"],
       "colours": [{ "hex": "#a24fde" }]
@@ -14344,21 +14344,21 @@
     },
     "PGF": {
       "callsign": "De Gaulle Arrival",
-      "frequency": "126.425",
+      "frequency": "126.430",
       "type": "APP",
       "pre": ["LFPG"],
       "colours": [{ "hex": "#a24fde" }]
     },
     "PGS": {
       "callsign": "De Gaulle Approach",
-      "frequency": "125.825",
+      "frequency": "125.830",
       "type": "APP",
       "pre": ["LFPG"],
       "colours": [{ "hex": "#a24fde" }]
     },
     "PGE": {
       "callsign": "De Gaulle Departure",
-      "frequency": "133.375",
+      "frequency": "133.380",
       "type": "DEP",
       "pre": ["LFPG"],
       "colours": [{ "hex": "#a24fde" }]
@@ -14386,7 +14386,7 @@
     },
     "PN": {
       "callsign": "Toussus Tower",
-      "frequency": "119.300",
+      "frequency": "120.750",
       "type": "TWR",
       "pre": ["LFPN"],
       "colours": [{ "hex": "#71aa71" }]
@@ -14421,7 +14421,7 @@
     },
     "QQA": {
       "callsign": "Lille Approach",
-      "frequency": "126.475",
+      "frequency": "126.480",
       "type": "APP",
       "pre": ["LFQQ"],
       "colours": [{ "hex": "#a24fde" }]
@@ -14519,7 +14519,7 @@
     },
     "LBA": {
       "callsign": "Chamb\u00c2\u00b7ry Approach",
-      "frequency": "123.700",
+      "frequency": "121.205",
       "type": "APP",
       "pre": ["LFLB"],
       "colours": [{ "hex": "#a24fde" }]
@@ -14540,7 +14540,7 @@
     },
     "LCI": {
       "callsign": "Clermont South Approach",
-      "frequency": "133.725",
+      "frequency": "122.225",
       "type": "APP",
       "pre": ["LFLC"],
       "colours": [{ "hex": "#a24fde" }]
@@ -14553,7 +14553,7 @@
       "colours": [{ "hex": "#71aa71" }]
     },
     "LG": {
-      "callsign": "Le Versoux Tower",
+      "callsign": "Le Versoud Tower",
       "frequency": "121.000",
       "type": "TWR",
       "pre": ["LFLG"],
@@ -14561,14 +14561,14 @@
     },
     "LLA": {
       "callsign": "Lyon Approach",
-      "frequency": "125.450",
+      "frequency": "120.230",
       "type": "APP",
       "pre": ["LFLL"],
       "colours": [{ "hex": "#a24fde" }]
     },
     "LLD": {
       "callsign": "Lyon Departure",
-      "frequency": "133.150",
+      "frequency": "131.315",
       "type": "DEP",
       "pre": ["LFLL"],
       "colours": [{ "hex": "#00000d" }]
@@ -14603,7 +14603,7 @@
     },
     "LV": {
       "callsign": "Vichy AFIS",
-      "frequency": "121.425",
+      "frequency": "121.405",
       "type": "TWR",
       "pre": ["LFLV"],
       "colours": [{ "hex": "#00b800" }]
@@ -14645,7 +14645,7 @@
     },
     "MLA": {
       "callsign": "Provence Approach",
-      "frequency": "120.875",
+      "frequency": "124.350",
       "type": "APP",
       "pre": ["LFML"],
       "colours": [{ "hex": "#a24fde" }]
@@ -14659,7 +14659,7 @@
     },
     "ML": {
       "callsign": "Provence Tower",
-      "frequency": "123.725",
+      "frequency": "133.100",
       "type": "TWR",
       "pre": ["LFML"],
       "colours": [{ "hex": "#71aa71" }]
@@ -14701,21 +14701,21 @@
     },
     "MND": {
       "callsign": "Nice Departure",
-      "frequency": "130.825",
+      "frequency": "130.830",
       "type": "DEP",
       "pre": ["LFMN"],
       "colours": [{ "hex": "#00000f" }]
     },
     "MNE": {
       "callsign": "Nice Approach",
-      "frequency": "124.175",
+      "frequency": "124.180",
       "type": "APP",
       "pre": ["LFMN"],
       "colours": [{ "hex": "#a24fde" }]
     },
     "MNF": {
       "callsign": "Nice Approach",
-      "frequency": "128.200",
+      "frequency": "128.205",
       "type": "APP",
       "pre": ["LFMN"],
       "colours": [{ "hex": "#a24fde" }]
@@ -14757,7 +14757,7 @@
     },
     "MTS": {
       "callsign": "Montpellier Sud Approach",
-      "frequency": "130.850",
+      "frequency": "130.855",
       "type": "APP",
       "pre": ["LFMT"],
       "colours": [{ "hex": "#a24fde" }]
@@ -14792,7 +14792,7 @@
     },
     "TH": {
       "callsign": "Palyvestre Tower",
-      "frequency": "121.025",
+      "frequency": "121.000",
       "type": "TWR",
       "pre": ["LFTH"],
       "colours": [{ "hex": "#71aa71" }]
@@ -14813,14 +14813,14 @@
     },
     "RBA": {
       "callsign": "Iroise Approach",
-      "frequency": "119.575",
+      "frequency": "125.860",
       "type": "APP",
       "pre": ["LFRB"],
       "colours": [{ "hex": "#a24fde" }]
     },
     "RBI": {
       "callsign": "Brest Info",
-      "frequency": "135.825",
+      "frequency": "119.575",
       "type": "APP",
       "pre": ["LFRB"],
       "colours": [{ "hex": "#00000e" }]
@@ -14904,7 +14904,7 @@
     },
     "RRJ": {
       "callsign": "Brest Control",
-      "frequency": "132.500",
+      "frequency": "132.510",
       "type": "CTR",
       "pre": ["LFRR"],
       "colours": [{ "hex": "#d1ffff" }]
@@ -14925,14 +14925,14 @@
     },
     "RRQ": {
       "callsign": "Brest Control",
-      "frequency": "130.225",
+      "frequency": "130.235",
       "type": "CTR",
       "pre": ["LFRR"],
       "colours": [{ "hex": "#007fd1" }]
     },
     "RRA": {
       "callsign": "Brest Control",
-      "frequency": "131.275",
+      "frequency": "131.280",
       "type": "CTR",
       "pre": ["LFRR"],
       "colours": [{ "hex": "#007fd1" }]
@@ -14946,14 +14946,14 @@
     },
     "RRW": {
       "callsign": "Brest Control",
-      "frequency": "127.850",
+      "frequency": "127.860",
       "type": "CTR",
       "pre": ["LFRR"],
       "colours": [{ "hex": "#007fd1" }]
     },
     "RSA": {
       "callsign": "Nantes Approach",
-      "frequency": "124.425",
+      "frequency": "124.430",
       "type": "APP",
       "pre": ["LFRS"],
       "colours": [{ "hex": "#a24fde" }]

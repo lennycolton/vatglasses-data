@@ -153,7 +153,7 @@
             "id": "Suceava CTR",
             "group": "TWR-P",
             "owner": [
-                "TSM",
+                "TSV",
                 "NAP",
                 "ARG",
                 "LOM"
@@ -2083,7 +2083,7 @@
             "owner": [
                 "ARG",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -2173,7 +2173,7 @@
                 "LRUP",
                 "ARG",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -2446,7 +2446,7 @@
             "owner": [
                 "ARG",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -2514,7 +2514,7 @@
                 "LRUP",
                 "ARG",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -2677,7 +2677,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -2774,7 +2774,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -3038,7 +3038,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -3113,7 +3113,7 @@
                 "NAP",
                 "ARG",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -3480,7 +3480,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -3607,7 +3607,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -3955,7 +3955,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -4100,7 +4100,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -4320,7 +4320,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -4357,7 +4357,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -4899,7 +4899,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -5154,7 +5154,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -5802,7 +5802,7 @@
             "group": "ACC",
             "owner": [
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -5913,7 +5913,7 @@
             "owner": [
                 "LRUP",
                 "LOM",
-                "euc/ESW"
+                "fss/EUCSW"
             ],
             "sectors": [
                 {
@@ -6028,37 +6028,37 @@
     },
 
     "positions": {
-        "LOM": {"colours": [{"hex": "#1d29ad"}], "pre": ["LRBB"], "type": "CTR", "frequency": "122.025","callsign": "Bucharest Radar"},
-        "ARG": {"colours": [{"hex": "#61838f"}], "pre": ["LRBB"], "type": "CTR", "frequency": "121.175","callsign": "Bucharest Radar"},
+        "LOM": {"colours": [{"hex": "#1d29ad"}], "pre": ["LRBB"], "type": "CTR", "frequency": "122.030","callsign": "Bucharest Radar"},
+        "ARG": {"colours": [{"hex": "#61838f"}], "pre": ["LRBB"], "type": "CTR", "frequency": "121.180","callsign": "Bucharest Radar"},
         "NAP": {"colours": [{"hex": "#66628c"}], "pre": ["LRBB"], "type": "CTR", "frequency": "127.075","callsign": "Bucharest Radar"},
-        "LRUP": {"colours": [{"hex": "#7399eb"}], "pre": ["LRBB"], "type": "CTR", "frequency": "132.875","callsign": "Bucharest Radar"},
+        "LRUP": {"colours": [{"hex": "#7399eb"}], "pre": ["LRBB"], "type": "CTR", "frequency": "132.865","callsign": "Bucharest Radar"},
 
-        "APA": {"colours": [{"hex": "#d8ed6f"}], "pre": ["LRAR"], "type": "APP", "frequency": "133.300","callsign": "Arad Approach"},
-        "APB": {"colours": [{"hex": "#a6e673"}], "pre": ["LROP"], "type": "APP", "frequency": "118.250","callsign": "Bucharest Approach"},
-        "APC": {"colours": [{"hex": "#80e37b"}], "pre": ["LRCK"], "type": "APP", "frequency": "122.900","callsign": "Constanta Approach"},
-        "APN": {"colours": [{"hex": "#4e9173"}], "pre": ["LRCL"], "type": "APP", "frequency": "126.425","callsign": "NAPOC Approach"},
+        "APA": {"colours": [{"hex": "#d8ed6f"}], "pre": ["LRAR"], "type": "APP", "frequency": "125.530","callsign": "Arad Approach"},
+        "APB": {"colours": [{"hex": "#a6e673"}], "pre": ["LROP"], "type": "APP", "frequency": "119.415","callsign": "Bucharest Approach"},
+        "APC": {"colours": [{"hex": "#80e37b"}], "pre": ["LRCK"], "type": "APP", "frequency": "122.905","callsign": "Constanta Approach"},
+        "APN": {"colours": [{"hex": "#4e9173"}], "pre": ["LRCL"], "type": "APP", "frequency": "126.430","callsign": "NAPOC Approach"},
 
-        "DIR": {"colours": [{"hex": "#578235"}], "pre": ["LROP"], "type": "APP", "frequency": "120.600","callsign": "Bucharest Director"},
+        "DIR": {"colours": [{"hex": "#578235"}], "pre": ["LROP"], "type": "APP", "frequency": "121.155","callsign": "Bucharest Director"},
 
-        "TIA": {"colours": [{"hex": "#f5c793"}], "pre": ["LRIA"], "type": "TWR", "frequency": "119.200","callsign": "Iasi Tower"},
-        "TBC": {"colours": [{"hex": "#f5b164"}], "pre": ["LRBC"], "type": "TWR", "frequency": "118.600","callsign": "Bacau Tower"},
-        "TSV": {"colours": [{"hex": "#f29b38"}], "pre": ["LRSV"], "type": "TWR", "frequency": "118.300","callsign": "Suceava Tower"},
-        "TTC": {"colours": [{"hex": "#e89f89"}], "pre": ["LRTC"], "type": "TWR", "frequency": "120.300","callsign": "Tulcea Tower"},
-        "TCV": {"colours": [{"hex": "#e07b5c"}], "pre": ["LRCV"], "type": "TWR", "frequency": "124.300","callsign": "Craiova Tower"},
-        "TOD": {"colours": [{"hex": "#db5830"}], "pre": ["LROD"], "type": "TWR", "frequency": "120.200","callsign": "Oradea Tower"},
-        "TBM": {"colours": [{"hex": "#af91e3"}], "pre": ["LRBM"], "type": "TWR", "frequency": "118.100","callsign": "Baia Mare Tower"},
-        "TSM": {"colours": [{"hex": "#8f62de"}], "pre": ["LRSM"], "type": "TWR", "frequency": "118.800","callsign": "Satu Mare Tower"},
-        "TBV": {"colours": [{"hex": "#6a2adb"}], "pre": ["LRBV"], "type": "TWR", "frequency": "118.625","callsign": "Brasov Tower"},
+        "TIA": {"colours": [{"hex": "#f5c793"}], "pre": ["LRIA"], "type": "TWR", "frequency": "119.955","callsign": "Iasi Tower"},
+        "TBC": {"colours": [{"hex": "#f5b164"}], "pre": ["LRBC"], "type": "TWR", "frequency": "120.980","callsign": "Bacau Tower"},
+        "TSV": {"colours": [{"hex": "#f29b38"}], "pre": ["LRSV"], "type": "TWR", "frequency": "129.955","callsign": "Suceava Tower"},
+        "TTC": {"colours": [{"hex": "#e89f89"}], "pre": ["LRTC"], "type": "TWR", "frequency": "119.755","callsign": "Tulcea Tower"},
+        "TCV": {"colours": [{"hex": "#e07b5c"}], "pre": ["LRCV"], "type": "TWR", "frequency": "129.530","callsign": "Craiova Tower"},
+        "TOD": {"colours": [{"hex": "#db5830"}], "pre": ["LROD"], "type": "TWR", "frequency": "118.455","callsign": "Oradea Tower"},
+        "TBM": {"colours": [{"hex": "#af91e3"}], "pre": ["LRBM"], "type": "TWR", "frequency": "118.855","callsign": "Baia Mare Tower"},
+        "TSM": {"colours": [{"hex": "#8f62de"}], "pre": ["LRSM"], "type": "TWR", "frequency": "119.655","callsign": "Satu Mare Tower"},
+        "TBV": {"colours": [{"hex": "#6a2adb"}], "pre": ["LRBV"], "type": "TWR", "frequency": "118.630","callsign": "Brasov Tower"},
 
-        "TFT": {"colours": [{"hex": "#886a8a"}], "pre": ["LRFT"], "type": "TWR", "frequency": "118.625","callsign": "Rubin Tower"},
-        "TCK": {"colours": [{"hex": "#680c6e"}], "pre": ["LRCK"], "type": "TWR", "frequency": "120.450","callsign": "Constanta Tower"},
-        "TOP": {"colours": [{"hex": "#b013ba"}], "pre": ["LROP"], "type": "TWR", "frequency": "120.900","callsign": "Otopeni Tower"},
-        "TBS": {"colours": [{"hex": "#6b0645"}], "pre": ["LRBS"], "type": "TWR", "frequency": "120.800","callsign": "Baneasa Tower"},
-        "TAR": {"colours": [{"hex": "#c4047c"}], "pre": ["LRAR"], "type": "TWR", "frequency": "130.200","callsign": "Arad Tower"},
-        "TTR": {"colours": [{"hex": "#3910b3"}], "pre": ["LRTR"], "type": "TWR", "frequency": "120.100","callsign": "Timisoara Tower"},
-        "TCL": {"colours": [{"hex": "#0b4f36"}], "pre": ["LRCL"], "type": "TWR", "frequency": "134.400","callsign": "Cluj Tower"},
-        "TTM": {"colours": [{"hex": "#0b4f36"}], "pre": ["LRTM"], "type": "TWR", "frequency": "120.325","callsign": "Mures Tower"},
-        "TSB": {"colours": [{"hex": "#0f4d1d"}], "pre": ["LRSB"], "type": "TWR", "frequency": "122.700","callsign": "Sibiu Tower"}
+        "TFT": {"colours": [{"hex": "#886a8a"}], "pre": ["LRFT"], "type": "TWR", "frequency": "122.100","callsign": "Rubin Tower"},
+        "TCK": {"colours": [{"hex": "#680c6e"}], "pre": ["LRCK"], "type": "TWR", "frequency": "124.030","callsign": "Constanta Tower"},
+        "TOP": {"colours": [{"hex": "#b013ba"}], "pre": ["LROP"], "type": "TWR", "frequency": "118.805","callsign": "Otopeni Tower"},
+        "TBS": {"colours": [{"hex": "#6b0645"}], "pre": ["LRBS"], "type": "TWR", "frequency": "125.205","callsign": "Baneasa Tower"},
+        "TAR": {"colours": [{"hex": "#c4047c"}], "pre": ["LRAR"], "type": "TWR", "frequency": "118.230","callsign": "Arad Tower"},
+        "TTR": {"colours": [{"hex": "#3910b3"}], "pre": ["LRTR"], "type": "TWR", "frequency": "120.105","callsign": "Timisoara Tower"},
+        "TCL": {"colours": [{"hex": "#0b4f36"}], "pre": ["LRCL"], "type": "TWR", "frequency": "118.705","callsign": "Cluj Tower"},
+        "TTM": {"colours": [{"hex": "#0b4f36"}], "pre": ["LRTM"], "type": "TWR", "frequency": "119.180","callsign": "Mures Tower"},
+        "TSB": {"colours": [{"hex": "#0f4d1d"}], "pre": ["LRSB"], "type": "TWR", "frequency": "121.305","callsign": "Sibiu Tower"}
     },
 
     "callsigns": {
