@@ -10368,7 +10368,6 @@
           },
           {
             "max": 104,
-            "min": 55,
             "runways": [
               {
                 "icao": "EDDB",
@@ -10384,7 +10383,7 @@
               ["521022", "0124255"],
               ["520744", "0122431"],
               ["515936", "0122939"],
-	            ["514752", "0122023"]
+	      ["514752", "0122023"]
             ]
           }
         ]
@@ -13461,14 +13460,14 @@
       "frequency": "126.425",
       "callsign": "Bremen Radar"
     },
-    "DBF": {
+    "DBANT": {
       "colours": [{ "hex": "#45295f" }],
       "pre": ["EDDB"],
       "type": "APP",
       "frequency": "136.105",
       "callsign": "Berlin Director"
     },
-    "DBU": {
+    "DBAST": {
       "colours": [{ "hex": "#8cd620" }],
       "pre": ["EDDB"],
       "type": "APP",
