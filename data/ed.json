@@ -3,7 +3,7 @@
     {
       "id": "Allersberg",
       "group": "EDMM",
-      "owner": ["ALB", "RDG", "EGG", "ZUG", "MMC"],
+      "owner": ["ALB", "WLD", "RDG", "EGG", "ZUG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -141,7 +141,7 @@
     {
       "id": "Eggenfelden",
       "group": "EDMM",
-      "owner": ["EGG", "RDG", "ALB", "ZUG", "MMC"],
+      "owner": ["EGG", "RDG", "ALB", "WLD", "ZUG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -857,7 +857,7 @@
     {
       "id": "Nördlingen",
       "group": "EDMM",
-      "owner": ["NDG", "ZUG", "TRU", "RDG", "MMC"],
+      "owner": ["NDG", "TRU", "WLD", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -982,7 +982,7 @@
     {
       "id": "Roding",
       "group": "EDMM",
-      "owner": ["RDG", "EGG", "ALB", "ZUG", "MMC"],
+      "owner": ["RDG", "EGG", "ALB", "WLD", "ZUG", "MMC"],
       "sectors": [
         {
           "max": 134,
@@ -1102,7 +1102,7 @@
     {
       "id": "Starnberg",
       "group": "EDMM",
-      "owner": ["STA", "TEG", "TRU", "ZUG", "RDG", "MMC"],
+      "owner": ["STA", "TEG", "ZUG", "TRU", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -1157,7 +1157,7 @@
     {
       "id": "Schwaben",
       "group": "APP",
-      "owner": ["SWA", "NDG", "ALB", "ZUG", "TRU", "RDG", "MMC"],
+      "owner": ["SWA", "NDG", "WLD", "ALB", "ZUG", "TRU", "RDG", "MMC"],
       "sectors": [
         {
           "max": 104,
@@ -1806,7 +1806,7 @@
     {
       "id": "Walda",
       "group": "EDMM",
-      "owner": ["WLD", "NDG", "ZUG", "TRU", "RDG", "MMC"],
+      "owner": ["WLD", "NDG", "TRU", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -2453,6 +2453,7 @@
         "RDG",
         "EGG",
         "ALB",
+        "WLD",
         "ZUG",
         "MMC",
         "fss/EUCME"
@@ -2514,6 +2515,7 @@
         "RDG",
         "EGG",
         "ALB",
+        "WLD",
         "ZUG",
         "MMC",
         "fss/EUCME"
@@ -2575,6 +2577,7 @@
         "RDG",
         "EGG",
         "ALB",
+        "WLD",
         "ZUG",
         "MMC",
         "fss/EUCME"
@@ -2637,6 +2640,7 @@
         "RDG",
         "EGG",
         "ALB",
+        "WLD",
         "ZUG",
         "MMC",
         "fss/EUCME"
@@ -2832,8 +2836,9 @@
         "DON",
         "ERL",
         "NDG",
-        "ZUG",
+        "WLD",
         "TRU",
+        "ZUG",
         "RDG",
         "MMC",
         "fss/EUCME"
@@ -2885,8 +2890,9 @@
         "DON",
         "ERL",
         "NDG",
-        "ZUG",
+        "WLD",
         "TRU",
+        "ZUG",
         "RDG",
         "MMC",
         "fss/EUCME"
@@ -2938,8 +2944,9 @@
         "DON",
         "ERL",
         "NDG",
-        "ZUG",
+        "WLD",
         "TRU",
+        "ZUG",
         "RDG",
         "MMC",
         "fss/EUCME"
@@ -2992,8 +2999,9 @@
         "DON",
         "ERL",
         "NDG",
-        "ZUG",
+        "WLD",
         "TRU",
+        "ZUG",
         "RDG",
         "MMC",
         "fss/EUCME"
