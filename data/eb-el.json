@@ -6888,7 +6888,7 @@
       "frequency": "118.605",
       "type": "TWR",
       "pre": ["EBBR"],
-      "colours": [{ "hex": "#003b00" }]
+      "colours": [{ "hex": "#309df0" }]
     },
     "BTN": {
       "callsign": "Brussels Tower",
@@ -7035,14 +7035,14 @@
       "frequency": "135.205",
       "type": "TWR",
       "pre": ["EBAW"],
-      "colours": [{ "hex": "#00c200" }]
+      "colours": [{ "hex": "#e0363b" }]
     },
     "CT": {
       "callsign": "Charleroi Tower",
       "frequency": "121.305",
       "type": "TWR",
       "pre": ["EBCI"],
-      "colours": [{ "hex": "#00b400" }]
+      "colours": [{ "hex": "#cbb900" }]
     },
     "CA": {
       "callsign": "Charleroi Approach",
@@ -7063,7 +7063,7 @@
       "frequency": "118.130",
       "type": "TWR",
       "pre": ["EBLG"],
-      "colours": [{ "hex": "#000b00" }]
+      "colours": [{ "hex": "#ff5200" }]
     },
     "LA": {
       "callsign": "Liege Approach",
@@ -7077,7 +7077,7 @@
       "frequency": "118.180",
       "type": "TWR",
       "pre": ["EBOS"],
-      "colours": [{ "hex": "#000600" }]
+      "colours": [{ "hex": "#ff54dc" }]
     },
     "OA": {
       "callsign": "Ostend Approach",
@@ -7091,7 +7091,7 @@
       "frequency": "118.105",
       "type": "TWR",
       "pre": ["ELLX"],
-      "colours": [{ "hex": "#004e00" }]
+      "colours": [{ "hex": "#00c200" }]
     },
     "XA": {
       "callsign": "Luxembourg Approach",
