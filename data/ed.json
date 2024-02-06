@@ -3545,7 +3545,7 @@
       "id": "Bottrop (Düsseldorf North)",
       "group": "APP",
       "uid": "BOT",
-      "owner": ["BOT", "DLD", "DUS", "DLF", "PADH"],
+      "owner": ["BOT", "DLD", "DLA", "DLF", "PADH"],
       "sectors": [
         {
           "max": 244,
@@ -9800,8 +9800,8 @@
     {
       "id": "Düsseldorf",
       "group": "APP",
-      "uid": "DUS",
-      "owner": ["DUS", "BOT", "DLD", "DLF", "PADH"],
+      "uid": "DLA",
+      "owner": ["DLA", "BOT", "DLD", "DLF", "PADH"],
       "sectors": [
         {
           "max": 74,
@@ -13762,7 +13762,7 @@
       "frequency": "127.365",
       "callsign": "Langen Radar"
     },
-    "DUS": {
+    "DLA": {
       "colours": [{ "hex": "#7356ad" }],
       "pre": ["EDDL"],
       "type": "APP",
@@ -13957,7 +13957,7 @@
     "EDDL": {
       "callsign": "Düsseldorf",
       "coord": [51.281, 6.7573333333333],
-      "topdown": ["DLF", "DLD", "BOT", "DUS", "PADH", "RHR"]
+      "topdown": ["DLF", "DLD", "BOT", "DLA", "PADH", "RHR"]
     },
     "EDDS": {
       "callsign": "Stuttgart",
@@ -13977,7 +13977,7 @@
     "EDLN": {
       "callsign": "Mönchengladbach",
       "coord": [51.230333333333, 6.5045],
-      "topdown": ["DLF", "DUS", "DLD", "BOT", "PADH", "RHR"]
+      "topdown": ["DLF", "DLA", "DLD", "BOT", "PADH", "RHR"]
     },
     "EDLP": {
       "callsign": "Paderborn",
@@ -13987,7 +13987,7 @@
     "EDLV": {
       "callsign": "Niederrhein",
       "coord": [51.602333333333, 6.1421666666667],
-      "topdown": ["BOT", "DLD", "DUS", "DLF", "PADH", "RHR"]
+      "topdown": ["BOT", "DLD", "DLA", "DLF", "PADH", "RHR"]
     },
     "EDLW": {
       "callsign": "Dortmund",
