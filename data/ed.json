@@ -13050,7 +13050,7 @@
       "callsign": "München Radar"
     },
     "HOF": {
-      "colours": [{ "hex": "#14b902" }],
+      "colours": [{ "hex": "#008080" }],
       "pre": ["EDMM"],
       "type": "CTR",
       "frequency": "133.565",
@@ -13805,7 +13805,7 @@
       "callsign": "Stuttgart Director"
     },
     "STG": {
-      "colours": [{ "hex": "#000831" }],
+      "colours": [{ "hex": "#bf9000" }],
       "pre": ["EDDS"],
       "type": "APP",
       "frequency": "125.050",
