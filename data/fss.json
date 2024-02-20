@@ -28,7 +28,6 @@
     "GULF": { "colours": [{ "hex": "#ffffff" }], "pre": ["GULF"], "type": "FSS", "frequency": "133.650", "callsign": "Gulf Control"},
     "GULFE": { "colours": [{ "hex": "#ffffff" }], "pre": ["GULF"], "type": "FSS", "frequency": "133.600", "callsign": "Gulf Control"},
     "GULFW": { "colours": [{ "hex": "#ffffff" }], "pre": ["GULF"], "type": "FSS", "frequency": "133.500", "callsign": "Gulf Control"},
-    "PRC": { "colours": [{ "hex": "#ffffff" }], "pre": ["PRC"], "type": "FSS", "frequency": "133.075", "callsign": "Beijing Control" },
     "RUERC": { "colours": [{ "hex": "#ffffff" }], "pre": ["RU-ERC"], "type": "FSS", "frequency": "135.550", "callsign": "Eastern Russia Control" },
     "RUWRC": { "colours": [{ "hex": "#ffffff" }], "pre": ["RU-WRC"], "type": "FSS", "frequency": "135.325", "callsign": "Western Russia Control" },
     "RUESC": { "colours": [{ "hex": "#ffffff" }], "pre": ["RU-ESC"], "type": "FSS", "frequency": "135.225", "callsign": "Siberia Control" },
