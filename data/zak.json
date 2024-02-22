@@ -2213,20 +2213,20 @@
     }
   },
   "airports": {
-    "PCIS": { "callsign": "Canton", "coord": ["-2.769167","-171.705278"], "topdown": ["ZAK"] },
-    "PKMA": { "callsign": "Enewetak", "coord": ["11.340833", "162.327833"], "topdown": ["ZAK"] },
-    "PKMJ": { "callsign": "Majuro", "coord": ["7.064981", "171.272031"], "topdown": ["ZAK"] },
-    "PKWA": { "callsign": "Bucholz", "pre": ["KWA"], "coord": ["8.718333", "167.731667"], "topdown": ["ZAK"] },
-    "PLCH": { "callsign": "Christmas", "coord": ["1.991167","-157.358667"], "topdown": ["ZAK"] },
-    "PLFA": { "callsign": "Fanning", "coord": ["3.85", "-159.36639"], "topdown": ["ZAK"] },
-    "PLPA": { "callsign": "Palmyra", "coord": ["5.8833333","-162.0666667"], "topdown": ["ZAK"] },
-    "PLWN": { "callsign": "Washington", "coord": ["4.6984","-160.3944"], "topdown": ["ZAK"] },
-    "PMDY": { "callsign": "Midway", "coord": ["28.203672", "-177.379519"], "topdown": ["ZAK"] },
-    "PTKK": { "callsign": "Chuuk", "coord": ["7.461944", "151.843056"], "topdown": ["ZAK"] },
-    "PTPN": { "callsign": "Pohnpei", "coord": ["6.985", "158.208889"], "topdown": ["ZAK"] },
-    "PTRO": { "callsign": "Koror", "coord": ["7.367222", "134.544167"], "topdown": ["ZAK"] },
-    "PTSA": { "callsign": "Kosrae", "coord": ["5.356975", "162.958386"], "topdown": ["ZAK"] },
-    "PTYA": { "callsign": "Yap", "coord": ["9.498889", "138.0825"], "topdown": ["ZAK"] },
-    "PWAK": { "callsign": "Wake Island Airfld", "coord": ["19.28", "166.641667"], "topdown": ["ZAK"] }
+    "PCIS": { "callsign": "Canton", "coord": ["-2.769167","-171.705278"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PKMA": { "callsign": "Enewetak", "coord": ["11.340833", "162.327833"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PKMJ": { "callsign": "Majuro", "coord": ["7.064981", "171.272031"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PKWA": { "callsign": "Bucholz", "pre": ["KWA"], "coord": ["8.718333", "167.731667"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PLCH": { "callsign": "Christmas", "coord": ["1.991167","-157.358667"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PLFA": { "callsign": "Fanning", "coord": ["3.85", "-159.36639"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PLPA": { "callsign": "Palmyra", "coord": ["5.8833333","-162.0666667"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PLWN": { "callsign": "Washington", "coord": ["4.6984","-160.3944"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PMDY": { "callsign": "Midway", "coord": ["28.203672", "-177.379519"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PTKK": { "callsign": "Chuuk", "coord": ["7.461944", "151.843056"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PTPN": { "callsign": "Pohnpei", "coord": ["6.985", "158.208889"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PTRO": { "callsign": "Koror", "coord": ["7.367222", "134.544167"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PTSA": { "callsign": "Kosrae", "coord": ["5.356975", "162.958386"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PTYA": { "callsign": "Yap", "coord": ["9.498889", "138.0825"], "topdown": ["ZAK"], "ctaf": "122.800" },
+    "PWAK": { "callsign": "Wake Island Airfld", "coord": ["19.28", "166.641667"], "topdown": ["ZAK"], "ctaf": "122.800" }
   }
 }
