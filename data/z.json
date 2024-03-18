@@ -20706,7 +20706,7 @@
       ]
     },
     "SJA": {
-      "callsign": "Shjiazhuang Approach",
+      "callsign": "Shijiazhuang Approach",
       "frequency": "120.450",
       "type": "APP",
       "pre": [
@@ -22461,7 +22461,7 @@
       ]
     },
     "SMTW": {
-      "callsign": "Pu'er Tpwer",
+      "callsign": "Pu'er Tower",
       "frequency": "118.450",
       "type": "TWR",
       "pre": [
@@ -23605,7 +23605,7 @@
       ]
     },
     "DAT": {
-      "callsign": "DazhouTower",
+      "callsign": "Dazhou Tower",
       "frequency": "130.325",
       "type": "TWR",
       "pre": [
@@ -25002,94 +25002,159 @@
   },
   "airports": {
     "ZBAA": {
-      "callsign": "Beijing Capital",
+      "callsign": "Beijing",
       "coord": [
         40.074069,
         116.5908
+      ],
+      "topdown": [
+        "SDA",
+        "BJA",
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBAD": {
-      "callsign": "Beijing Daxing",
+      "callsign": "Daxing",
       "coord": [
         39.500895,
         116.398586
+      ],
+      "topdown": [
+        "DXA",
+        "BJA",
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBAL": {
-      "callsign": "Alxa Left Banner Bayanhot",
+      "callsign": "Alxa Left Banner",
       "coord": [
         38.748871,
         105.583644
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZBAR": {
-      "callsign": "Alxa Right Banner Badain Jaran",
+      "callsign": "Alxa Right Banner",
       "coord": [
         39.225828,
         101.549451
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZBCD": {
-      "callsign": "Chengde Puning",
+      "callsign": "Chengde",
       "coord": [
         41.121105,
         118.076224
+      ],
+      "topdown": [
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBCF": {
-      "callsign": "Chifeng Yulong",
+      "callsign": "Chifeng",
       "coord": [
         42.160613,
         118.839868
+      ],
+      "topdown": [
+        "SNY",
+        "SHY"
       ]
     },
     "ZBCZ": {
-      "callsign": "Changzhi Wangcun",
+      "callsign": "Changzhi",
       "coord": [
         36.246642,
         113.12634
+      ],
+      "topdown": [
+        "BJW",
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBDH": {
-      "callsign": "Qinghuangdao Beidaihe",
+      "callsign": "Beidaihe",
       "coord": [
         39.666382,
         119.061484
+      ],
+      "topdown": [
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBDS": {
-      "callsign": "Ordos Ejinhoro",
+      "callsign": "Ordos",
       "coord": [
         39.492435,
         109.862978
+      ],
+      "topdown": [
+        "HH",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBDT": {
-      "callsign": "Datong Yungang",
+      "callsign": "Datong",
       "coord": [
         40.060176,
         113.48313
+      ],
+      "topdown": [
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBEN": {
-      "callsign": "Ejinaqi Taolai",
+      "callsign": "Ejina",
       "coord": [
         42.015035,
         101.001439
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZBER": {
-      "callsign": "Erenhot Saiwusu",
+      "callsign": "Erenhot",
       "coord": [
         43.42351,
         112.092534
+      ],
+      "topdown": [
+        "HH",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBES": {
-      "callsign": "Arxan Yirshi",
+      "callsign": "Aershan",
       "coord": [
         47.311371,
         119.912265
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZBHD": {
@@ -25097,83 +25162,138 @@
       "coord": [
         36.523759,
         114.429592
+      ],
+      "topdown": [
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBHH": {
-      "callsign": "Hohhot Baita",
+      "callsign": "Hohhot",
       "coord": [
         40.849706,
         111.824071
+      ],
+      "topdown": [
+        "HHAP",
+        "HH",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBHZ": {
-      "callsign": "Holingol Huolinhe",
+      "callsign": "Huolinhe",
       "coord": [
         45.487297,
         119.406808
+      ],
+      "topdown": [
+        "SNY",
+        "SHY"
       ]
     },
     "ZBLA": {
-      "callsign": "Hulun Buir Hailar",
+      "callsign": "Hailar",
       "coord": [
         49.205281,
         119.825537
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZBLF": {
-      "callsign": "Linfen Yaodu",
+      "callsign": "Linfen",
       "coord": [
         36.134085,
         111.641645
+      ],
+      "topdown": [
+        "XA",
+        "LZH"
       ]
     },
     "ZBLL": {
-      "callsign": "Lyuliang Dawu",
+      "callsign": "Lvliang",
       "coord": [
         37.682588,
         111.142345
+      ],
+      "topdown": [
+        "XA",
+        "LZH"
       ]
     },
     "ZBMZ": {
-      "callsign": "Manzhouli Xijiao",
+      "callsign": "Manzhouli",
       "coord": [
         49.567614,
         117.329042
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZBOW": {
-      "callsign": "Baotou Donghe",
+      "callsign": "Baotou",
       "coord": [
         40.55988,
         109.996548
+      ],
+      "topdown": [
+        "HH",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBSG": {
-      "callsign": "Shuozhou Zirun",
+      "callsign": "Shuozhou",
       "coord": [
         39.474722,
         112.596944
+      ],
+      "topdown": [
+        "BJW",
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBSJ": {
-      "callsign": "Shijiazhuang Zhengding",
+      "callsign": "Shijiazhuang",
       "coord": [
         38.281594,
         114.697105
+      ],
+      "topdown": [
+        "SJA",
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBSN": {
-      "callsign": "Tangshan Sannyuhe",
+      "callsign": "Tangshan",
       "coord": [
         39.717489,
         118.003397
       ]
     },
     "ZBTJ": {
-      "callsign": "Tianjin Binhai",
+      "callsign": "Tianjin",
       "coord": [
         39.116923,
         117.350487
+      ],
+      "topdown": [
+        "TAP",
+        "BJA",
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBTL": {
@@ -25181,13 +25301,22 @@
       "coord": [
         43.556151,
         122.198849
+      ],
+      "topdown": [
+        "SNY",
+        "SHY"
       ]
     },
     "ZBUC": {
-      "callsign": "Wulanchabu Jining",
+      "callsign": "Ulanqab",
       "coord": [
         41.130837,
         113.107413
+      ],
+      "topdown": [
+        "HH",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBUH": {
@@ -25195,111 +25324,186 @@
       "coord": [
         39.793867,
         106.798528
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZBUL": {
-      "callsign": "Ulanhot Yilelite",
+      "callsign": "Ulanhot",
       "coord": [
         46.193682,
         122.007778
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZBXH": {
-      "callsign": "Xilinhot",
+      "callsign": "Xilin",
       "coord": [
         43.914985,
         115.963831
+      ],
+      "topdown": [
+        "HH",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBXT": {
-      "callsign": "Xingtai Dalian",
+      "callsign": "Xingtai",
       "coord": [
         36.882778,
         114.429167
+      ],
+      "topdown": [
+        "HDT",
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBXZ": {
-      "callsign": "Xinzhou Wutaishan",
+      "callsign": "Wutaishan",
       "coord": [
         38.596337,
         112.96866
+      ],
+      "topdown": [
+        "BJW",
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBYC": {
-      "callsign": "Yuncheng Zhangxiao",
+      "callsign": "Yuncheng",
       "coord": [
         35.118001,
         111.034386
+      ],
+      "topdown": [
+        "XA",
+        "LZH"
       ]
     },
     "ZBYN": {
-      "callsign": "Taiyuan Wusu",
+      "callsign": "Taiyuan",
       "coord": [
         37.748422,
         112.629125
+      ],
+      "topdown": [
+        "TYA",
+        "BJW",
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBYZ": {
-      "callsign": "Bayannaoer Tianjitai",
+      "callsign": "Bayannaoer",
       "coord": [
         40.9264,
         107.73913
+      ],
+      "topdown": [
+        "HH",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBZJ": {
-      "callsign": "Zhangjiakou Ningyuan",
+      "callsign": "Zhangjiakou",
       "coord": [
         40.739298,
         114.931071
+      ],
+      "topdown": [
+        "BJC",
+        "BJ",
+        "BJG"
       ]
     },
     "ZBZL": {
-      "callsign": "Zhalantun Genghis Khan",
+      "callsign": "Zhalantun",
       "coord": [
         47.865845,
         122.768587
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZGBH": {
-      "callsign": "Beihai Fucheng",
+      "callsign": "Beihai",
       "coord": [
         21.539938,
         109.294584
+      ],
+      "topdown": [
+        "ZJA",
+        "NN",
+        "GZZ"
       ]
     },
     "ZGBS": {
-      "callsign": "Baise Bama",
+      "callsign": "Baise",
       "coord": [
         23.720054,
         106.959725
+      ],
+      "topdown": [
+        "NN",
+        "GZZ"
       ]
     },
     "ZGCD": {
-      "callsign": "Changde Taohuayuan",
+      "callsign": "Changde",
       "coord": [
         28.919624,
         111.639759
+      ],
+      "topdown": [
+        "CS",
+        "GZZ"
       ]
     },
     "ZGCJ": {
-      "callsign": "Huaihua Zhijiang",
+      "callsign": "Zhijiang",
       "coord": [
         27.442357,
         109.699764
+      ],
+      "topdown": [
+        "CS",
+        "GZZ"
       ]
     },
     "ZGCZ": {
-      "callsign": "Chenzhou Beihu",
+      "callsign": "Chenzhou",
       "coord": [
         25.754255,
         112.845555
+      ],
+      "topdown": [
+        "CS",
+        "GZZ"
       ]
     },
     "ZGDY": {
-      "callsign": "Zhangjiajie Hehua",
+      "callsign": "Zhangjiajie",
       "coord": [
         29.101879,
         110.443932
+      ],
+      "topdown": [
+        "CS",
+        "GZZ"
       ]
     },
     "ZGFS": {
@@ -25310,45 +25514,72 @@
       ]
     },
     "ZGGG": {
-      "callsign": "Guangzhou Baiyun",
+      "callsign": "Baiyun",
       "coord": [
         23.393217,
         113.298764
+      ],
+      "topdown": [
+        "GZA",
+        "GZ",
+        "GZZ"
       ]
     },
     "ZGHA": {
-      "callsign": "Changsha Huanghua",
+      "callsign": "Changsha",
       "coord": [
         28.197546,
         113.221163
+      ],
+      "topdown": [
+        "CSA",
+        "CS",
+        "GZZ"
       ]
     },
     "ZGHC": {
-      "callsign": "Hechi Jinchengjiang",
+      "callsign": "Hechi",
       "coord": [
         24.80586,
         107.710966
+      ],
+      "topdown": [
+        "NN",
+        "GZZ"
       ]
     },
     "ZGHY": {
-      "callsign": "Hengyang Nanywe",
+      "callsign": "Hengyang",
       "coord": [
         26.722411,
         112.618634
+      ],
+      "topdown": [
+        "CS",
+        "GZZ"
       ]
     },
     "ZGHZ": {
-      "callsign": "Huizhou Pingtan",
+      "callsign": "Huizhou",
       "coord": [
         23.049379,
         114.601026
+      ],
+      "topdown": [
+        "GZ",
+        "GZZ"
       ]
     },
     "ZGKL": {
-      "callsign": "Guilin Liangjiang",
+      "callsign": "Liangjiang",
       "coord": [
         25.216865,
         110.03982
+      ],
+      "topdown": [
+        "GLA",
+        "NN",
+        "GZZ"
       ]
     },
     "ZGLD": {
@@ -25356,27 +25587,43 @@
       "coord": [
         22.71144,
         111.600645
+      ],
+      "topdown": [
+        "GZ",
+        "GZZ"
       ]
     },
     "ZGLG": {
-      "callsign": "Yongzhou Lingling",
+      "callsign": "Lingling",
       "coord": [
         26.339321,
         111.609798
       ]
     },
     "ZGMX": {
-      "callsign": "Meizhou Meixian",
+      "callsign": "Meixian",
       "coord": [
         24.264718,
         116.099079
+      ],
+      "topdown": [
+        "STA",
+        "GZ",
+        "GZZ",
+        "XM",
+        "SHA"
       ]
     },
     "ZGNN": {
-      "callsign": "Nanning Wuxu",
+      "callsign": "Nanning",
       "coord": [
         22.616451,
         108.183823
+      ],
+      "topdown": [
+        "NNAP",
+        "NN",
+        "GZZ"
       ]
     },
     "ZGNT": {
@@ -25387,129 +25634,207 @@
       ]
     },
     "ZGOW": {
-      "callsign": "Jieyang Chaoshan",
+      "callsign": "Chaoshan",
       "coord": [
         23.552376,
         116.500703
+      ],
+      "topdown": [
+        "STA",
+        "GZ",
+        "GZZ",
+        "XM",
+        "SHA"
       ]
     },
     "ZGSD": {
-      "callsign": "Zhuhai Jinwan",
+      "callsign": "Jinwan",
       "coord": [
         22.039409,
         113.377799
+      ],
+      "topdown": [
+        "ZHA",
+        "GZ",
+        "GZZ"
       ]
     },
     "ZGSG": {
-      "callsign": "Shaoguan Danxia",
+      "callsign": "Shaoguan",
       "coord": [
         24.975256,
         113.420989
+      ],
+      "topdown": [
+        "GZ",
+        "GZZ"
       ]
     },
     "ZGSY": {
-      "callsign": "Shaoyang Wugang",
+      "callsign": "Wugang",
       "coord": [
         26.805287,
         110.641026
+      ],
+      "topdown": [
+        "CS",
+        "GZZ"
       ]
     },
     "ZGSZ": {
-      "callsign": "Shenzhen Baoan",
+      "callsign": "Bao'an",
       "coord": [
         22.638927,
         113.81199
+      ],
+      "topdown": [
+        "ZHA",
+        "GZ",
+        "GZZ"
       ]
     },
     "ZGUH": {
-      "callsign": "Zhuhai Jiuzhou",
+      "callsign": "Jiuzhou",
       "coord": [
         22.252097,
         113.590535
       ]
     },
     "ZGWZ": {
-      "callsign": "Wuzhou Xijiang",
+      "callsign": "Wuzhou",
       "coord": [
         23.402656,
         111.099351
+      ],
+      "topdown": [
+        "NN",
+        "GZZ"
       ]
     },
     "ZGXX": {
-      "callsign": "Xiangxi Biancheng",
+      "callsign": "Biancheng",
       "coord": [
         28.495278,
         109.519722
+      ],
+      "topdown": [
+        "CS",
+        "GZZ"
       ]
     },
     "ZGYJ": {
-      "callsign": "Yangjiang Heshan",
+      "callsign": "Yangjiang",
       "coord": [
         21.960816,
         112.102364
+      ],
+      "topdown": [
+        "GZ",
+        "GZZ"
       ]
     },
     "ZGYL": {
-      "callsign": "Yulin Fumian",
+      "callsign": "Yulin",
       "coord": [
         22.433647,
         110.119638
+      ],
+      "topdown": [
+        "NN",
+        "GZZ"
       ]
     },
     "ZGYY": {
-      "callsign": "Yueyang Sanhe",
+      "callsign": "Yueyang",
       "coord": [
         29.313677,
         113.281633
+      ],
+      "topdown": [
+        "CS",
+        "GZZ"
       ]
     },
     "ZGZH": {
-      "callsign": "Liuzhou Bailian",
+      "callsign": "Liuzhou",
       "coord": [
         24.208303,
         109.391927
+      ],
+      "topdown": [
+        "NN",
+        "GZZ"
       ]
     },
     "ZGZJ": {
-      "callsign": "Zhanjiang Wuchuan",
+      "callsign": "Zhanjiang",
       "coord": [
         21.483525,
         110.59375
+      ],
+      "topdown": [
+        "ZJA",
+        "NN",
+        "GZZ"
       ]
     },
     "ZHCC": {
-      "callsign": "Zhengzhou Xinzheng",
+      "callsign": "Zhengzhou",
       "coord": [
         34.517497,
         113.841712
+      ],
+      "topdown": [
+        "ZZA",
+        "ZZ",
+        "WHN"
       ]
     },
     "ZHEC": {
-      "callsign": "Ezhou Huahu",
+      "callsign": "Huahu",
       "coord": [
         30.342675,
         115.0296884
+      ],
+      "topdown": [
+        "EZA",
+        "WHA",
+        "WH",
+        "WHN"
       ]
     },
     "ZHES": {
-      "callsign": "Enshi Xujiaping",
+      "callsign": "Enshi",
       "coord": [
         30.320812,
         109.48565
+      ],
+      "topdown": [
+        "WH",
+        "WHN"
       ]
     },
     "ZHHH": {
-      "callsign": "Wuhan Tianhe",
+      "callsign": "Wuhan",
       "coord": [
         30.785399,
         114.210629
+      ],
+      "topdown": [
+        "WHA",
+        "WH",
+        "WHN"
       ]
     },
     "ZHJZ": {
-      "callsign": "Jingzhou Shashi",
+      "callsign": "Jingzhou",
       "coord": [
         30.293012,
         112.447524
+      ],
+      "topdown": [
+        "WH",
+        "WHN"
       ]
     },
     "ZHLY": {
@@ -25517,349 +25842,554 @@
       "coord": [
         34.741131,
         112.388898
+      ],
+      "topdown": [
+        "ZZ",
+        "WHN"
       ]
     },
     "ZHNY": {
-      "callsign": "Nanyang Jiangying",
+      "callsign": "Nanyang",
       "coord": [
         32.980059,
         112.616091
+      ],
+      "topdown": [
+        "ZZ",
+        "WHN"
       ]
     },
     "ZHQQ": {
-      "callsign": "Anyang Hongqiqu",
+      "callsign": "Anyang",
       "coord": [
         35.870833,
         114.461944
+      ],
+      "topdown": [
+        "ZZ",
+        "WHN"
       ]
     },
     "ZHSN": {
-      "callsign": "Shennongjia Hongping",
+      "callsign": "Shennongjia",
       "coord": [
         31.625522,
         110.339973
+      ],
+      "topdown": [
+        "WH",
+        "WHN"
       ]
     },
     "ZHSY": {
-      "callsign": "Shiyan Wudangshan",
+      "callsign": "Shiyan",
       "coord": [
         32.594162,
         110.907064
+      ],
+      "topdown": [
+        "WH",
+        "WHN"
       ]
     },
     "ZHXF": {
-      "callsign": "Xiangyang Liuji",
+      "callsign": "Xiangyang",
       "coord": [
         32.151495,
         112.290592
+      ],
+      "topdown": [
+        "WH",
+        "WHN"
       ]
     },
     "ZHXY": {
-      "callsign": "Xinyang Minggang",
+      "callsign": "Xinyang",
       "coord": [
         32.540312,
         114.078247
+      ],
+      "topdown": [
+        "ZZ",
+        "WHN"
       ]
     },
     "ZHYC": {
-      "callsign": "Yichang Sanxia",
+      "callsign": "Yichang",
       "coord": [
         30.55664,
         111.480109
+      ],
+      "topdown": [
+        "WH",
+        "WHN"
       ]
     },
     "ZJHK": {
-      "callsign": "Haikou Meilan",
+      "callsign": "Haikou",
       "coord": [
         19.934412,
         110.458038
+      ],
+      "topdown": [
+        "HKAP",
+        "SYL",
+        "SY"
       ]
     },
     "ZJQH": {
-      "callsign": "Qionghai Bo'ao",
+      "callsign": "Boao",
       "coord": [
         19.138169,
         110.454289
+      ],
+      "topdown": [
+        "HKAP",
+        "SYL",
+        "SY"
       ]
     },
     "ZJSY": {
-      "callsign": "Sanya Phoenix",
+      "callsign": "Fenghuang",
       "coord": [
         18.302678,
         109.412519
+      ],
+      "topdown": [
+        "SYAP",
+        "SYL",
+        "SY"
       ]
     },
     "ZJYX": {
-      "callsign": "Sansha Yongxing",
+      "callsign": "Yongxing",
       "coord": [
         16.834267,
         112.345254
+      ],
+      "topdown": [
+        "SY"
       ]
     },
     "ZLAK": {
-      "callsign": "Ankang Fuqiang",
+      "callsign": "Ankang",
       "coord": [
         32.756452,
         108.873016
+      ],
+      "topdown": [
+        "XA",
+        "LZH"
       ]
     },
     "ZLDH": {
-      "callsign": "Dunhuang Mogao",
+      "callsign": "Dunhuang",
       "coord": [
         40.160859,
         94.808284
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLDL": {
-      "callsign": "Haixi Delingha",
+      "callsign": "Delingha",
       "coord": [
         37.125342,
         97.268683
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLGL": {
-      "callsign": "Guoluo Maqin",
+      "callsign": "Maqin",
       "coord": [
         34.418944,
         100.300907
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLGM": {
-      "callsign": "Golmud",
+      "callsign": "Ge'ermu",
       "coord": [
         36.399291,
         94.785314
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLGY": {
-      "callsign": "Guyuan Liupanshan",
+      "callsign": "Guyuan",
       "coord": [
         36.078831,
         106.216771
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLHB": {
-      "callsign": "Haibei Qilian",
+      "callsign": "Qilian",
       "coord": [
         38.009244,
         100.645514
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLHX": {
-      "callsign": "Haixi Huatugou",
+      "callsign": "Huatugou",
       "coord": [
         38.198612,
         90.840403
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLHZ": {
-      "callsign": "Hanzhong Chenggu",
+      "callsign": "Hanzhong",
       "coord": [
         33.133347,
         107.204095
+      ],
+      "topdown": [
+        "XA",
+        "LZH"
       ]
     },
     "ZLIC": {
-      "callsign": "Yinchuan Hedong",
+      "callsign": "Yinchuan",
       "coord": [
         38.320703,
         106.391976
+      ],
+      "topdown": [
+        "YCA",
+        "LZ",
+        "LZH"
       ]
     },
     "ZLJC": {
-      "callsign": "Jinchang Jinchuan",
+      "callsign": "Jinchang",
       "coord": [
         38.541677,
         102.347558
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLJQ": {
-      "callsign": "Jiayuguan Jiuquan",
+      "callsign": "Jiayuguan",
       "coord": [
         39.767403,
         98.482203
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLLL": {
-      "callsign": "Lanzhou Zhongchuan",
+      "callsign": "Lanzhou",
       "coord": [
         36.515621,
         103.620045
+      ],
+      "topdown": [
+        "LZA",
+        "LZ",
+        "LZH"
       ]
     },
     "ZLLN": {
-      "callsign": "Longnan Chengxian",
+      "callsign": "Longnan",
       "coord": [
         33.790843,
         105.788208
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLQY": {
-      "callsign": "Qingyang Xifeng",
+      "callsign": "Qingyang",
       "coord": [
         35.802861,
         107.599837
+      ],
+      "topdown": [
+        "XA",
+        "LZH"
       ]
     },
     "ZLTS": {
-      "callsign": "Tianshui Maijishan",
+      "callsign": "Tianshui",
       "coord": [
         34.559612,
         105.859447
       ]
     },
     "ZLXH": {
-      "callsign": "Gannan Xiahe",
+      "callsign": "Xiahe",
       "coord": [
         34.819653,
         102.622455
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLXN": {
-      "callsign": "Xining Caojiabao",
+      "callsign": "Xining",
       "coord": [
         36.529974,
         102.040398
+      ],
+      "topdown": [
+        "XNA",
+        "LZ",
+        "LZH"
       ]
     },
     "ZLXY": {
-      "callsign": "Xi'an Xianyang",
+      "callsign": "Xianyang",
       "coord": [
         34.446715,
         108.752252
+      ],
+      "topdown": [
+        "XAA",
+        "XA",
+        "LZH"
       ]
     },
     "ZLYA": {
-      "callsign": "Yan'An Nanniwan",
+      "callsign": "Yan'an",
       "coord": [
         36.479061,
         109.465063
+      ],
+      "topdown": [
+        "XA",
+        "LZH"
       ]
     },
     "ZLYL": {
-      "callsign": "Yulin Yuyang",
+      "callsign": "Yulin",
       "coord": [
         38.357265,
         109.592483
+      ],
+      "topdown": [
+        "XA",
+        "LZH"
       ]
     },
     "ZLYS": {
-      "callsign": "Yushu Batang",
+      "callsign": "Yushu",
       "coord": [
         32.824508,
         97.124047
+      ],
+      "topdown": [
+        "LS",
+        "KMG"
       ]
     },
     "ZLZW": {
-      "callsign": "Zhongwei Shapotou",
+      "callsign": "Zhongwei",
       "coord": [
         37.572381,
         105.154998
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZLZY": {
-      "callsign": "Zhangye Ganzhou",
+      "callsign": "Zhangye",
       "coord": [
         38.808473,
         100.660692
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZPBS": {
-      "callsign": "Baoshan Yunrui",
+      "callsign": "Baoshan",
       "coord": [
         25.051137,
         99.167322
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZPCW": {
-      "callsign": "Cangyuan Washan",
+      "callsign": "Cangyuan",
       "coord": [
         23.277076,
         99.374001
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZPDL": {
-      "callsign": "Dali Huangcaoba",
+      "callsign": "Dali",
       "coord": [
         25.650323,
         100.319907
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZPDQ": {
-      "callsign": "Diqing Shangrila",
+      "callsign": "Diqing",
       "coord": [
         27.79274,
         99.677209
-      ]
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
+      ] 
     },
     "ZPJH": {
-      "callsign": "Xishuangbanna Gasa",
+      "callsign": "Banna",
       "coord": [
         21.974448,
         100.759071
+      ],
+      "topdown": [
+        "BNA",
+        "KM",
+        "KMG"
       ]
     },
     "ZPJM": {
-      "callsign": "Lancang Jingmai",
+      "callsign": "Lancang",
       "coord": [
         22.417467,
         99.785148
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZPLC": {
-      "callsign": "Lincang Boshang",
+      "callsign": "Lincang",
       "coord": [
         23.739582,
         100.024088
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZPLJ": {
-      "callsign": "Lijiang Sanyi",
+      "callsign": "Lijiang",
       "coord": [
         26.679824,
         100.245738
+      ],
+      "topdown": [
+        "LJA",
+        "KM",
+        "KMG"
       ]
     },
     "ZPMS": {
-      "callsign": "Dehong Mangshi",
+      "callsign": "Mangshi",
       "coord": [
         24.401106,
         98.531706
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZPNL": {
-      "callsign": "Ninglang Luguhu",
+      "callsign": "Luguhu",
       "coord": [
         27.541023,
         100.760239
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZPPP": {
-      "callsign": "Kunming Changshui",
+      "callsign": "Kunming",
       "coord": [
         25.10123,
         102.929247
+      ],
+      "topdown": [
+        "KMA",
+        "KM",
+        "KMG"
       ]
     },
     "ZPSM": {
-      "callsign": "Puer Simao",
+      "callsign": "Pu'er",
       "coord": [
         22.792678,
         100.959645
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZPTC": {
-      "callsign": "Tengchong Tuofeng",
+      "callsign": "Tengchong",
       "coord": [
         24.938991,
         98.486587
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZPWS": {
-      "callsign": "Wenshan Yanshan",
+      "callsign": "Wenshan",
       "coord": [
         23.558069,
         104.324957
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZPZT": {
@@ -25867,13 +26397,22 @@
       "coord": [
         27.328585,
         103.757055
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZSAM": {
-      "callsign": "Xiamen Gaoqi",
+      "callsign": "Xiamen",
       "coord": [
         24.542761,
         118.124364
+      ],
+      "topdown": [
+        "XMA",
+        "XM",
+        "SHA"
       ]
     },
     "ZSAQ": {
@@ -25881,6 +26420,10 @@
       "coord": [
         30.583338,
         117.051157
+      ],
+      "topdown": [
+        "HF",
+        "SHA"
       ]
     },
     "ZSBB": {
@@ -25891,17 +26434,28 @@
       ]
     },
     "ZSCG": {
-      "callsign": "Changzhou Benniu",
+      "callsign": "Changzhou",
       "coord": [
         31.918874,
         119.770633
+      ],
+      "topdown": [
+        "SAW",
+        "SAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSCN": {
-      "callsign": "Nanchang Changbei",
+      "callsign": "Nanchang",
       "coord": [
         28.862813,
         115.901443
+      ],
+      "topdown": [
+        "NCA",
+        "NC",
+        "SHA"
       ]
     },
     "ZSDY": {
@@ -25909,6 +26463,11 @@
       "coord": [
         37.50846,
         118.789134
+      ],
+      "topdown": [
+        "WFT",
+        "JN",
+        "SHA"
       ]
     },
     "ZSFY": {
@@ -25916,13 +26475,24 @@
       "coord": [
         32.882169,
         115.734224
+      ],
+      "topdown": [
+        "ZZ",
+        "WHN",
+        "HF",
+        "SHA"
       ]
     },
     "ZSFZ": {
-      "callsign": "Fuzhou Changle",
+      "callsign": "Fuzhou",
       "coord": [
         25.9341,
         119.662432
+      ],
+      "topdown": [
+        "FAP",
+        "XM",
+        "SHA"
       ]
     },
     "ZSGS": {
@@ -25930,62 +26500,101 @@
       "coord": [
         26.857715,
         114.737993
+      ],
+      "topdown": [
+        "GZ",
+        "GZZ"
       ]
     },
     "ZSGZ": {
-      "callsign": "Ganzhou Huangjin",
+      "callsign": "Ganzhou",
       "coord": [
         25.850157,
         114.950884
+      ],
+      "topdown": [
+        "GZ",
+        "GZZ"
       ]
     },
     "ZSHC": {
-      "callsign": "Hangzhou Xiaoshan",
+      "callsign": "Hangzhou",
       "coord": [
         30.228632,
         120.432376
+      ],
+      "topdown": [
+        "HZA",
+        "SH",
+        "SHA"
       ]
     },
     "ZSHZ": {
-      "callsign": "Heze Mudan",
+      "callsign": "Heze",
       "coord": [
         35.214354,
         115.736845
+      ],
+      "topdown": [
+        "JN",
+        "SHA"
       ]
     },
     "ZSJD": {
-      "callsign": "Jingdezhen Luojia",
+      "callsign": "Jingdezhen",
       "coord": [
         29.338084,
         117.175486
+      ],
+      "topdown": [
+        "NC",
+        "SHA"
       ]
     },
     "ZSJG": {
-      "callsign": "Jining Da'an",
+      "callsign": "Jining",
       "coord": [
         35.647222,
         116.742222
+      ],
+      "topdown": [
+        "JN",
+        "SHA"
       ]
     },
     "ZSJH": {
-      "callsign": "Chizhou Jiuhuashan",
+      "callsign": "Jiuhuashan",
       "coord": [
         30.739751,
         117.688418
+      ],
+      "topdown": [
+        "HF",
+        "SHA"
       ]
     },
     "ZSJJ": {
-      "callsign": "Jiujiang Lushan",
+      "callsign": "Jiujiang",
       "coord": [
         29.477139,
         115.801354
+      ],
+      "topdown": [
+        "NCA",
+        "NC",
+        "SHA"
       ]
     },
     "ZSJN": {
-      "callsign": "Jinan Yaoqiang",
+      "callsign": "Ji'nan",
       "coord": [
         36.857213,
         117.216384
+      ],
+      "topdown": [
+        "JAP",
+        "JN",
+        "SHA"
       ]
     },
     "ZSJU": {
@@ -25993,132 +26602,219 @@
       "coord": [
         28.966316,
         118.898365
+      ],
+      "topdown": [
+        "HZA",
+        "SH",
+        "SHA"
       ]
     },
     "ZSLG": {
-      "callsign": "Lianyungang Huaguoshan",
+      "callsign": "Lianyungang",
       "coord": [
         34.413691,
         119.178221
+      ],
+      "topdown": [
+        "NJAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSLO": {
-      "callsign": "Liancheng Guanzhaishan",
+      "callsign": "Liancheng",
       "coord": [
         25.675845,
         116.746189
+      ],
+      "topdown": [
+        "XM",
+        "SHA"
       ]
     },
     "ZSLQ": {
-      "callsign": "Taizhou Luqiao",
+      "callsign": "Huangyan",
       "coord": [
         28.56301,
         121.429503
       ]
     },
     "ZSLY": {
-      "callsign": "Linyi Qiyang",
+      "callsign": "Linyi",
       "coord": [
         35.045523,
         118.412483
+      ],
+      "topdown": [
+        "JN",
+        "SHA"
       ]
     },
     "ZSNB": {
-      "callsign": "Ningbo Lishe",
+      "callsign": "Ningbo",
       "coord": [
         29.826424,
         121.461039
+      ],
+      "topdown": [
+        "NBAP",
+        "SAS",
+        "SAE",
+        "SAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSNJ": {
-      "callsign": "Nanjing Lukou",
+      "callsign": "Nanjing",
       "coord": [
         31.740106,
         118.860779
+      ],
+      "topdown": [
+        "NJAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSNT": {
-      "callsign": "Nantong Xingdong",
+      "callsign": "Nantong",
       "coord": [
         32.071513,
         120.974957
       ]
     },
     "ZSOF": {
-      "callsign": "Hefei Xinqiao",
+      "callsign": "Hefei",
       "coord": [
         31.987384,
         116.976634
+      ],
+      "topdown": [
+        "HFA",
+        "HF",
+        "SHA"
       ]
     },
     "ZSPD": {
-      "callsign": "Shanghai Pudong",
+      "callsign": "Pudong",
       "coord": [
         31.142333,
         121.790844
+      ],
+      "topdown": [
+        "SPF",
+        "SAE",
+        "SAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSQD": {
-      "callsign": "Qingdao Jiaodong",
+      "callsign": "Qingdao",
       "coord": [
         36.366526,
         120.098729
+      ],
+      "topdown": [
+        "QAP",
+        "QD",
+        "SHA"
       ]
     },
     "ZSQZ": {
-      "callsign": "Quanzhou Jinjiang",
+      "callsign": "Jinjiang",
       "coord": [
         24.799411,
         118.59111300000001
+      ],
+      "topdown": [
+        "JJA",
+        "XMA",
+        "XM",
+        "SHA"
       ]
     },
     "ZSRZ": {
-      "callsign": "Rizhao Shanzihe",
+      "callsign": "Rizhao",
       "coord": [
         35.404764,
         119.323218
+      ],
+      "topdown": [
+        "JN",
+        "SHA"
       ]
     },
     "ZSSH": {
-      "callsign": "Huai'an Lianshui",
+      "callsign": "Huaian",
       "coord": [
         33.777701,
         119.147299
+      ],
+      "topdown": [
+        "NJAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSSM": {
-      "callsign": "Sanming Shaxian",
+      "callsign": "Sanming",
       "coord": [
         26.427323,
         117.834513
+      ],
+      "topdown": [
+        "XM",
+        "SHA"
       ]
     },
     "ZSSR": {
-      "callsign": "Shangrao Sanqingshan",
+      "callsign": "Shangrao",
       "coord": [
         28.378986,
         117.964941
+      ],
+      "topdown": [
+        "NC",
+        "SHA"
       ]
     },
     "ZSSS": {
-      "callsign": "Shanghai Hongqiao",
+      "callsign": "Hongqiao",
       "coord": [
         31.198609,
         121.335754
+      ],
+      "topdown": [
+        "SAF",
+        "SAW",
+        "SAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSTX": {
-      "callsign": "Huangshan Tunxi",
+      "callsign": "Huangshan",
       "coord": [
         29.733965,
         118.254883
+      ],
+      "topdown": [
+        "HZA",
+        "SH",
+        "SHA"
       ]
     },
     "ZSWA": {
-      "callsign": "Wuhu Xuanzhou",
+      "callsign": "Wuhu",
       "coord": [
         31.103844,
         118.6661
+      ],
+      "topdown": [
+        "HF",
+        "SHA"
       ]
     },
     "ZSWF": {
@@ -26126,20 +26822,35 @@
       "coord": [
         36.64756,
         119.117708
+      ],
+      "topdown": [
+        "QD",
+        "SHA"
       ]
     },
     "ZSWH": {
-      "callsign": "Weihai Dashuipo",
+      "callsign": "Weihai",
       "coord": [
         37.186769,
         122.229636
+      ],
+      "topdown": [
+        "JN",
+        "SHA"
       ]
     },
     "ZSWX": {
-      "callsign": "Wuxi Shuofang",
+      "callsign": "Wuxi",
       "coord": [
         31.494545,
         120.430034
+      ],
+      "topdown": [
+        "WXA",
+        "SAW",
+        "SAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSWY": {
@@ -26147,48 +26858,81 @@
       "coord": [
         27.702564,
         118.001284
+      ],
+      "topdown": [
+        "NC",
+        "SHA"
       ]
     },
     "ZSWZ": {
-      "callsign": "Wenzhou Longwan",
+      "callsign": "Wenzhou",
       "coord": [
         27.911669,
         120.852564
+      ],
+      "topdown": [
+        "WZA",
+        "SH",
+        "SHA"
       ]
     },
     "ZSXZ": {
-      "callsign": "Xuzhou Guanyin",
+      "callsign": "Xuzhou",
       "coord": [
         34.058989,
         117.556774
+      ],
+      "topdown": [
+        "NJAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSYA": {
-      "callsign": "Yangzhou Taizhou",
+      "callsign": "Yangzhou",
       "coord": [
         32.563414,
         119.720582
+      ],
+      "topdown": [
+        "NJAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSYC": {
-      "callsign": "Yichun Mingyweshan",
+      "callsign": "Yichun",
       "coord": [
         27.802472,
         114.30653
+      ],
+      "topdown": [
+        "NC",
+        "SHA"
       ]
     },
     "ZSYN": {
-      "callsign": "Yancheng Nanyang",
+      "callsign": "Yancheng",
       "coord": [
         33.425875,
         120.202074
+      ],
+      "topdown": [
+        "NJAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZSYT": {
-      "callsign": "Yantai Penglai",
+      "callsign": "Yantai",
       "coord": [
         37.660803,
         120.978319
+      ],
+      "topdown": [
+        "YTA",
+        "QD",
+        "SHA"
       ]
     },
     "ZSYW": {
@@ -26196,69 +26940,127 @@
       "coord": [
         29.344877,
         120.032007
+      ],
+      "topdown": [
+        "HZA",
+        "SH",
+        "SHA"
       ]
     },
     "ZSZS": {
-      "callsign": "Zhoushan Putuoshan",
+      "callsign": "Zhoushan",
       "coord": [
         29.933783,
         122.361562
+      ],
+      "topdown": [
+        "NBAP",
+        "SAS",
+        "SAE",
+        "SAP",
+        "SH",
+        "SHA"
       ]
     },
     "ZUAL": {
-      "callsign": "Ngari Gunsa",
+      "callsign": "Ali",
       "coord": [
         32.109406,
         80.05338
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZUAS": {
-      "callsign": "Anshun Huangguoshu",
+      "callsign": "Anshun",
       "coord": [
         26.26134,
         105.87379
+      ],
+      "topdown": [
+        "GAP",
+        "GY",
+        "KMG"
       ]
     },
     "ZUBD": {
-      "callsign": "Qamdo Bangda",
+      "callsign": "Changdu",
       "coord": [
         30.553751,
         97.107461
+      ],
+      "topdown": [
+        "LS",
+        "KMG"
       ]
     },
     "ZUBJ": {
-      "callsign": "Bijie Feixiong",
+      "callsign": "Bijie",
       "coord": [
         27.266908,
         105.472241
+      ],
+      "topdown": [
+        "GY",
+        "KMG"
       ]
     },
     "ZUBZ": {
-      "callsign": "Bazhong Enyang",
+      "callsign": "Bazhong",
       "coord": [
         31.73761,
         106.643283
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUCK": {
-      "callsign": "Chongqing Jiangbei",
+      "callsign": "Chongqing",
       "coord": [
         29.717113,
         106.639012
+      ],
+      "topdown": [
+        "CQA",
+        "CD",
+        "KMG"
       ]
     },
     "ZUDA": {
-      "callsign": "Dazhou Jinya",
+      "callsign": "Dazhou",
       "coord": [
         31.047611,
         107.437111
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUDC": {
-      "callsign": "Daocheng Yading",
+      "callsign": "Daocheng",
       "coord": [
         29.323175,
         100.052875
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
+      ]
+    },
+    "ZUDR": {
+      "callsign": "Dingri",
+      "coord": [
+        28.6025,
+        86.8103
+      ],
+      "topdown": [
+        "LS",
+        "KMG"
       ]
     },
     "ZUGH": {
@@ -26268,46 +27070,60 @@
         104.32987
       ]
     },
-    "ZUDR": {
-      "callsign": "Shigatse Tingri",
-      "coord": [
-        28.6025,
-        86.8103
-      ]
-    },
     "ZUGU": {
-      "callsign": "Guangyuan Panlong",
+      "callsign": "Guangyuan",
       "coord": [
         32.38935,
         105.693709
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUGY": {
-      "callsign": "Guiyang Longdongbao",
+      "callsign": "Guiyang",
       "coord": [
         26.537507,
         106.799047
+      ],
+      "topdown": [
+        "GAP",
+        "GY",
+        "KMG"
       ]
     },
     "ZUGZ": {
-      "callsign": "Garze Gesar",
+      "callsign": "Ganzi",
       "coord": [
         31.755788,
         99.557675
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUHY": {
-      "callsign": "A'Ba Hongyuan",
+      "callsign": "Hongyuan",
       "coord": [
         32.531566,
         102.351893
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUJZ": {
-      "callsign": "Jiuzhai Huanglong",
+      "callsign": "Jiuzhai",
       "coord": [
         32.85661,
         103.68314
+      ],
+      "topdown": [
+        "LZ",
+        "LZH"
       ]
     },
     "ZUKD": {
@@ -26315,62 +27131,101 @@
       "coord": [
         30.142979,
         101.738668
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUKJ": {
-      "callsign": "Kaili Huangping",
+      "callsign": "Huangping",
       "coord": [
         26.971613,
         107.98724
+      ],
+      "topdown": [
+        "GAP",
+        "GY",
+        "KMG"
       ]
     },
     "ZULA": {
-      "callsign": "Langzhong Gucheng",
+      "callsign": "Langzhong",
       "coord": [
         31.50366,
         106.03535
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZULB": {
-      "callsign": "Qiannan Libo",
+      "callsign": "Libo",
       "coord": [
         25.451927,
         107.962642
+      ],
+      "topdown": [
+        "NN",
+        "GZZ"
       ]
     },
     "ZULS": {
-      "callsign": "Lhasa Gonggar",
+      "callsign": "Lhasa",
       "coord": [
         29.297854,
         90.91267
+      ],
+      "topdown": [
+        "LSA",
+        "LS",
+        "KMG"
       ]
     },
     "ZULZ": {
-      "callsign": "Luzhou Yunlong",
+      "callsign": "Luzhou",
       "coord": [
         29.029897,
         105.469248
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUMT": {
-      "callsign": "Zunyi Maotai",
+      "callsign": "Maotai",
       "coord": [
         27.9626,
         106.434921
+      ],
+      "topdown": [
+        "GY",
+        "KMG"
       ]
     },
     "ZUMY": {
-      "callsign": "Mianyang Nanjiao",
+      "callsign": "Mianyang",
       "coord": [
         31.42878,
         104.740824
+      ],
+      "topdown": [
+        "CDA",
+        "CD",
+        "KMG"
       ]
     },
     "ZUNC": {
-      "callsign": "Nanchong Gaoping",
+      "callsign": "Nanchong",
       "coord": [
         30.797596,
         106.164896
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUNP": {
@@ -26378,97 +27233,156 @@
       "coord": [
         26.3226,
         109.150448
+      ],
+      "topdown": [
+        "NN",
+        "GZZ"
       ]
     },
     "ZUNZ": {
-      "callsign": "Linzhi Milin",
+      "callsign": "Linzhi",
       "coord": [
         29.303185,
         94.334629
+      ],
+      "topdown": [
+        "LS",
+        "KMG"
       ]
     },
     "ZUPL": {
-      "callsign": "Ngari Pulan",
+      "callsign": "Pulan",
       "coord": [
         30.39145,
         81.13747
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZUPS": {
-      "callsign": "Liupanshui Yuezhao",
+      "callsign": "Liupanshui",
       "coord": [
         26.609063,
         104.978306
+      ],
+      "topdown": [
+        "GY",
+        "KMG"
       ]
     },
     "ZUQJ": {
-      "callsign": "Qianjiang Wulingshan",
+      "callsign": "Qianjiang",
       "coord": [
         29.515665,
         108.832636
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZURK": {
-      "callsign": "Shigatse Heping",
+      "callsign": "Rikaze",
       "coord": [
         29.351402,
         89.309806
+      ],
+      "topdown": [
+        "LS",
+        "KMG"
       ]
     },
     "ZUSH": {
-      "callsign": "Shannan Lhunze",
+      "callsign": "Longzi",
       "coord": [
         28.4315,
         92.351
+      ],
+      "topdown": [
+        "LS",
+        "KMG"
       ]
     },
     "ZUTF": {
-      "callsign": "Chengdu Tianfu",
+      "callsign": "Tianfu",
       "coord": [
         30.291841,
         104.445258
+      ],
+      "topdown": [
+        "CDA",
+        "CD",
+        "KMG"
       ]
     },
     "ZUTR": {
-      "callsign": "Tongren Fenghuang",
+      "callsign": "Tongren",
       "coord": [
         27.884386,
         109.309443
+      ],
+      "topdown": [
+        "GY",
+        "KMG"
       ]
     },
     "ZUUU": {
-      "callsign": "Chengdu Shuangliu",
+      "callsign": "Chengdu",
       "coord": [
         30.579437,
         103.947811
+      ],
+      "topdown": [
+        "CDA",
+        "CD",
+        "KMG"
       ]
     },
     "ZUWL": {
-      "callsign": "Chongqing Xiannyushan",
+      "callsign": "Xiannvshan",
       "coord": [
         29.462899,
         107.693088
+      ],
+      "topdown": [
+        "CQA",
+        "CD",
+        "KMG"
       ]
     },
     "ZUWS": {
-      "callsign": "Chongqing Wushan",
+      "callsign": "Wushan",
       "coord": [
         31.067964,
         109.708511
+      ],
+      "topdown": [
+        "WH",
+        "WHN"
       ]
     },
     "ZUWX": {
-      "callsign": "Wanzhou Wuqiao",
+      "callsign": "Wanzhou",
       "coord": [
         30.800927,
         108.433727
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUXC": {
-      "callsign": "Xichang Qingshan",
+      "callsign": "Xichang",
       "coord": [
         27.989355,
         102.183507
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUXJ": {
@@ -26479,73 +27393,115 @@
       ]
     },
     "ZUYB": {
-      "callsign": "Yibin Wuliangye",
+      "callsign": "Yibin",
       "coord": [
         28.858818,
         104.526424
+      ],
+      "topdown": [
+        "CD",
+        "KMG"
       ]
     },
     "ZUYI": {
-      "callsign": "Xingyi Wanfenglin",
+      "callsign": "Xingyi",
       "coord": [
         25.087464,
         104.959506
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZUZH": {
-      "callsign": "Panzhihua Baoanying",
+      "callsign": "Panzhihua",
       "coord": [
         26.539443,
         101.798464
+      ],
+      "topdown": [
+        "KM",
+        "KMG"
       ]
     },
     "ZUZY": {
-      "callsign": "Zunyi Xinzhou",
+      "callsign": "Zunyi",
       "coord": [
         27.810504,
         107.246047
+      ],
+      "topdown": [
+        "GAP",
+        "GY",
+        "KMG"
       ]
     },
     "ZWAK": {
-      "callsign": "Aksu Hongqipo",
+      "callsign": "Hongqipo",
       "coord": [
         41.263224,
         80.289491
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWAL": {
-      "callsign": "Alaer Tarim",
+      "callsign": "Alaer",
       "coord": [
         40.435818,
         81.264179
+      ],
+      "topdown": [
+        "AKTW",
+        "WU",
+        "WUM"
       ]
     },
     "ZWAT": {
-      "callsign": "Altay Xuedu",
+      "callsign": "Altay",
       "coord": [
         47.750615,
         88.084709
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWBL": {
-      "callsign": "Bole Alashankou",
+      "callsign": "Bola",
       "coord": [
         44.895052,
         82.30042
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWCM": {
-      "callsign": "Qiemo Yudu",
+      "callsign": "Qiemo",
       "coord": [
         38.234302,
         85.463559
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWFY": {
-      "callsign": "Fuyun Keketuohai",
+      "callsign": "Fuyun",
       "coord": [
         46.804803,
         89.51158
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWHJ": {
@@ -26556,52 +27512,80 @@
       ]
     },
     "ZWHM": {
-      "callsign": "Hami Yizhou",
+      "callsign": "Hami",
       "coord": [
         42.841018,
         93.668973
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWHZ": {
-      "callsign": "Shihezi Huayuan",
+      "callsign": "Shihezi",
       "coord": [
         44.241603,
         85.89013
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWKC": {
-      "callsign": "Kuche Qiuci",
+      "callsign": "Kuqa",
       "coord": [
         41.677386,
         82.871927
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWKL": {
-      "callsign": "Korla Licheng",
+      "callsign": "Korla",
       "coord": [
         41.615245,
         86.142151
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWKM": {
-      "callsign": "Karamay Guhai",
+      "callsign": "Kelamayi",
       "coord": [
         45.465683,
         84.953191
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWKN": {
-      "callsign": "Buerjin Kanas",
+      "callsign": "Kanasi",
       "coord": [
         48.222634,
         86.99656
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWNL": {
-      "callsign": "Xinyuan Nalati",
+      "callsign": "Nalati",
       "coord": [
         43.432276,
         83.376524
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWQT": {
@@ -26612,66 +27596,104 @@
       ]
     },
     "ZWRQ": {
-      "callsign": "Ruoqiang Loulan",
+      "callsign": "Ruoqiang",
       "coord": [
         38.974349,
         88.008889
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWSC": {
-      "callsign": "Shache Yarkant",
+      "callsign": "Shache",
       "coord": [
         38.243812,
         77.056924
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWSH": {
-      "callsign": "Kashi Laining",
+      "callsign": "Kashi",
       "coord": [
         39.54273,
         76.021193
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWTC": {
-      "callsign": "Tacheng Qianquan",
+      "callsign": "Tacheng",
       "coord": [
         46.672369,
         83.340693
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWTK": {
-      "callsign": "Taxkorgan Khunjerab",
+      "callsign": "Taxkorgan",
       "coord": [
         37.663519,
         75.288024
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWTL": {
-      "callsign": "Turpan Jiaohe",
+      "callsign": "Turpan",
       "coord": [
         43.03183,
         89.098922
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWTN": {
-      "callsign": "Hotan Kungang",
+      "callsign": "Hotan",
       "coord": [
         37.032448,
         79.865872
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWTS": {
-      "callsign": "Tumushuke Tangwangcheng",
+      "callsign": "Tumushuke",
       "coord": [
         39.889269,
         79.234757
+      ],
+      "topdown": [
+        "AKTW",
+        "WU",
+        "WUM"
       ]
     },
     "ZWWW": {
-      "callsign": "Urumqi Diwopu",
+      "callsign": "Diwopu",
       "coord": [
         43.904836,
         87.47623
+      ],
+      "topdown": [
+        "WUA",
+        "WU",
+        "WUM"
       ]
     },
     "ZWYN": {
@@ -26679,48 +27701,78 @@
       "coord": [
         43.95062,
         81.33305
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWYT": {
-      "callsign": "Yutian Wanfang",
+      "callsign": "Yutian",
       "coord": [
         36.809145,
         81.783636
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZWZS": {
-      "callsign": "Zhaosu Tianma",
+      "callsign": "Zhaosu",
       "coord": [
         43.087156,
         81.225104
+      ],
+      "topdown": [
+        "WU",
+        "WUM"
       ]
     },
     "ZYAS": {
-      "callsign": "Anshan Tengao",
+      "callsign": "Anshan",
       "coord": [
         41.107035,
         122.852721
+      ],
+      "topdown": [
+        "DL",
+        "SHY"
       ]
     },
     "ZYBA": {
-      "callsign": "Baicheng Changan",
+      "callsign": "Baicheng",
       "coord": [
         45.504546,
         123.02051
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYBS": {
-      "callsign": "Baishan Changbaishan",
+      "callsign": "Changbaishan",
       "coord": [
         42.067865,
         127.601825
+      ],
+      "topdown": [
+        "DL",
+        "SHY"
       ]
     },
     "ZYCC": {
-      "callsign": "Changchun Longjia",
+      "callsign": "Longjia",
       "coord": [
         43.997632,
         125.686675
+      ],
+      "topdown": [
+        "CCAP",
+        "HB",
+        "SNY",
+        "SHY"
       ]
     },
     "ZYCH": {
@@ -26728,6 +27780,10 @@
       "coord": [
         39.26552,
         122.666456
+      ],
+      "topdown": [
+        "DL",
+        "SHY"
       ]
     },
     "ZYCY": {
@@ -26735,55 +27791,88 @@
       "coord": [
         41.537634,
         120.43441
+      ],
+      "topdown": [
+        "SNY",
+        "SHY"
       ]
     },
     "ZYDD": {
-      "callsign": "Dandong Langtou",
+      "callsign": "Dandong",
       "coord": [
         40.026015,
         124.286485
+      ],
+      "topdown": [
+        "DL",
+        "SHY"
       ]
     },
     "ZYDQ": {
-      "callsign": "Daqing Saertu",
+      "callsign": "Saertu",
       "coord": [
         46.586787,
         125.229242
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYDU": {
-      "callsign": "Wudalianchi Dedu",
+      "callsign": "Wudalianchi",
       "coord": [
         48.440236,
         126.129612
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYFY": {
-      "callsign": "Fuyuan Dongji",
+      "callsign": "Fuyuan",
       "coord": [
         48.196733,
         134.363886
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYHB": {
-      "callsign": "Harbin Taiping",
+      "callsign": "Harbin",
       "coord": [
         45.623947,
         126.250494
+      ],
+      "topdown": [
+        "HAP",
+        "HB",
+        "SHY"
       ]
     },
     "ZYHE": {
-      "callsign": "Heihe Aihui",
+      "callsign": "Heihe",
       "coord": [
         50.172119,
         127.308353
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYJD": {
-      "callsign": "Daxing'anling Oroqen",
+      "callsign": "Jiagedaqi",
       "coord": [
         50.370563,
         124.117888
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYJM": {
@@ -26791,55 +27880,87 @@
       "coord": [
         46.844202,
         130.464684
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYJS": {
-      "callsign": "Jiansanjiang Shidi",
+      "callsign": "Jiansanjiang",
       "coord": [
         47.108232,
         132.657229
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYJX": {
-      "callsign": "Jixi Xingkaihu",
+      "callsign": "Xingkaihu",
       "coord": [
         45.293874,
         131.193757
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYJZ": {
-      "callsign": "Jinzhou Jinzhouwan",
+      "callsign": "Jinzhou",
       "coord": [
         40.936636,
         121.276965
+      ],
+      "topdown": [
+        "SNY",
+        "SHY"
       ]
     },
     "ZYLD": {
-      "callsign": "Yichun Lindu",
+      "callsign": "Lindu",
       "coord": [
         47.718281,
         128.828894
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYMD": {
-      "callsign": "Mudanjiang Hailang",
+      "callsign": "Mudanjiang",
       "coord": [
         44.524005,
         129.569319
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYMH": {
-      "callsign": "Mohe Gulian",
+      "callsign": "Mohe",
       "coord": [
         52.920418,
         122.4212
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYQQ": {
-      "callsign": "Qiqihar Sanjiazi",
+      "callsign": "Qiqihar",
       "coord": [
         47.383272,
         123.917257
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYSD": {
@@ -26850,45 +27971,71 @@
       ]
     },
     "ZYSQ": {
-      "callsign": "Songyuan Chaganhu",
+      "callsign": "Songyuan",
       "coord": [
         44.931088,
         124.552536
+      ],
+      "topdown": [
+        "HB",
+        "SHY"
       ]
     },
     "ZYTL": {
-      "callsign": "Dalian Zhoushuizi",
+      "callsign": "Dalian",
       "coord": [
         38.959111,
         121.530568
+      ],
+      "topdown": [
+        "DLA",
+        "DL",
+        "SHY"
       ]
     },
     "ZYTN": {
-      "callsign": "Tonghua Sanyuanpu",
+      "callsign": "Tonghua",
       "coord": [
         42.048312,
         125.73317
+      ],
+      "topdown": [
+        "DL",
+        "SHY"
       ]
     },
     "ZYTX": {
-      "callsign": "Shenyang Taoxian",
+      "callsign": "Taoxian",
       "coord": [
         41.639256,
         123.485889
+      ],
+      "topdown": [
+        "SYA",
+        "SNY",
+        "SHY"
       ]
     },
     "ZYYJ": {
-      "callsign": "Yanji Chaoyangchuan",
+      "callsign": "Yanji",
       "coord": [
         42.8835,
         129.451457
+      ],
+      "topdown": [
+        "DL",
+        "SHY"
       ]
     },
     "ZYYK": {
-      "callsign": "Yingkou Lanqi",
+      "callsign": "Yingkou",
       "coord": [
         40.542243,
         122.359052
+      ],
+      "topdown": [
+        "DL",
+        "SHY"
       ]
     }
   }
