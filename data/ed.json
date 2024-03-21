@@ -6068,7 +6068,7 @@
       "id": "Nörvenich (Köln Upper)",
       "group": "APP",
       "uid": "NOR",
-      "owner": ["NOR", "DKA", "DKF", "PADH"],
+      "owner": ["NOR", "PADH"],
       "sectors": [
         {
           "max": 244,
