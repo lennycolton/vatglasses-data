@@ -1,9 +1,9 @@
 {
   "airspace": [
     {
-      "id": "HECC ACC6 U",
+      "id": "Sector 6 Upper",
       "group": "HECC",
-      "owner": ["CC6X", "CC6", "CC46", "CC1", "GFW", "GF"],
+      "owner": ["CC6X", "CC6", "CC46", "CC1", "fss/GULFW", "fss/GULF"],
       "sectors": [
         {
           "min": 85,
@@ -330,7 +330,7 @@
       ]
     },
     {
-      "id": "HECC ACC6 L",
+      "id": "Sector 6 Lower",
       "group": "HECC",
       "owner": ["CC6X", "CC6", "CC46", "CC1"],
       "sectors": [
@@ -1201,9 +1201,9 @@
       ]
     },
     {
-      "id": "HECC ACC5 U",
+      "id": "Sector 5 Upper",
       "group": "HECC",
-      "owner": ["CC5X", "CC5", "CC46", "CC1", "GFW", "GF"],
+      "owner": ["CC5X", "CC5", "CC46", "CC1", "fss/GULFW", "fss/GULF"],
       "sectors": [
         {
           "min": 60,
@@ -1236,7 +1236,7 @@
       ]
     },
     {
-      "id": "HECC ACC5 L",
+      "id": "Sector 5 Lower",
       "group": "HECC",
       "owner": ["CC5X", "CC5", "CC46", "CC1"],
       "sectors": [
@@ -1591,9 +1591,9 @@
       ]
     },
     {
-      "id": "HECC ACC4 U",
+      "id": "Sector 4 Upper",
       "group": "HECC",
-      "owner": ["CC4X", "CC4", "CC46", "CC1", "GFW", "GF"],
+      "owner": ["CC4X", "CC4", "CC46", "CC1", "fss/GULFW", "fss/GULF"],
       "sectors": [
         {
           "min": 245,
@@ -1643,7 +1643,7 @@
       ]
     },
     {
-      "id": "HECC ACC4 L",
+      "id": "Sector 4 Lower",
       "group": "HECC",
       "owner": ["CC4X", "CC4", "CC46", "CC1"],
       "sectors": [
@@ -2195,9 +2195,9 @@
       ]
     },
     {
-      "id": "HECC ACC3 U",
+      "id": "Sector 3 Upper",
       "group": "HECC",
-      "owner": ["CC3X", "CC3", "CC1", "GFW", "GF"],
+      "owner": ["CC3X", "CC3", "CC1", "fss/GULFW", "fss/GULF"],
       "sectors": [
         {
           "min": 245,
@@ -2269,7 +2269,7 @@
       ]
     },
     {
-      "id": "HECC ACC3 L",
+      "id": "Sector 3 Lower",
       "group": "HECC",
       "owner": ["CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
@@ -3073,9 +3073,9 @@
       ]
     },
     {
-      "id": "HECC ACC2 U",
+      "id": "Sector 2 Upper",
       "group": "HECC",
-      "owner": ["CC2X", "CC2", "CC1", "GFW", "GF"],
+      "owner": ["CC2X", "CC2", "CC1", "fss/GULFW", "fss/GULF"],
       "sectors": [
         {
           "min": 245,
@@ -3142,7 +3142,7 @@
       ]
     },
     {
-      "id": "HECC ACC2 L",
+      "id": "Sector 2 Lower",
       "group": "HECC",
       "owner": ["CC2X", "CC2", "CC1"],
       "sectors": [
@@ -4211,9 +4211,9 @@
       ]
     },
     {
-      "id": "HECC ACC1 U",
+      "id": "Sector 1 Upper",
       "group": "HECC",
-      "owner": ["CC1X", "CC1", "GFW", "GF"],
+      "owner": ["CC1X", "CC1", "fss/GULFW", "fss/GULF"],
       "sectors": [
         {
           "min": 245,
@@ -4441,7 +4441,7 @@
       ]
     },
     {
-      "id": "HECC ACC1 L",
+      "id": "Sector 1 Lower",
       "group": "HECC",
       "owner": ["CCA", "CC1X", "CC1"],
       "sectors": [
@@ -5209,7 +5209,7 @@
       ]
     },
     {
-      "id": "HECC ACC1 C",
+      "id": "Sector 1 C",
       "group": "HECC",
       "owner": ["CCA", "CC1X", "CC1"],
       "sectors": [
@@ -5986,8 +5986,9 @@
       ]
     },
     {
-      "id": "HETB APP",
-      "group": "HETB",
+      "id": "Taba",
+      "comment": "HETB APP",
+      "group": "APP",
       "owner": ["TBA", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -6179,8 +6180,9 @@
       ]
     },
     {
-      "id": "HESN TMA",
-      "group": "HESN",
+      "id": "Aswan",
+      "comment": "HESN TMA",
+      "group": "APP",
       "owner": ["SNR", "CC6X", "CC6", "CC46", "CC1"],
       "sectors": [
         {
@@ -6373,8 +6375,9 @@
       ]
     },
     {
-      "id": "HESH TMA",
-      "group": "HESH",
+      "id": "Sharm El Sheikh",
+      "comment": "HESH TMA",
+      "group": "APP",
       "owner": ["SHR", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -6516,8 +6519,9 @@
       ]
     },
     {
-      "id": "HESG TMA",
-      "group": "HESG",
+      "id": "Sohag",
+      "comment": "HESG TMA",
+      "group": "APP",
       "owner": ["SGA", "LXR", "CC6X", "CC6", "CC46", "CC1"],
       "sectors": [
         {
@@ -6782,8 +6786,9 @@
       ]
     },
     {
-      "id": "HELX TMA",
-      "group": "HELX",
+      "id": "Luxor",
+      "comment": "HELX TMA",
+      "group": "APP",
       "owner": ["LXR", "CC6X", "CC6", "CC46", "CC1"],
       "sectors": [
         {
@@ -8069,8 +8074,9 @@
       ]
     },
     {
-      "id": "HEGN RDR",
-      "group": "HEGN",
+      "id": "Hurghada",
+      "comment": "HEGN RDR",
+      "group": "APP",
       "owner": ["GNR", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -8262,8 +8268,9 @@
       ]
     },
     {
-      "id": "HECA RDR SW DIR",
-      "group": "HECA",
+      "id": "Cairo SW",
+      "comment": "HECA RDR SW DIR",
+      "group": "DIR",
       "owner": ["CD1", "CC4X", "CC4", "CC46", "CC1"],
       "sectors": [
         {
@@ -8306,8 +8313,9 @@
       ]
     },
     {
-      "id": "HECA RDR SE DIR",
-      "group": "HECA",
+      "id": "Cairo SE",
+      "comment": "HECA RDR SE DIR",
+      "group": "DIR",
       "owner": ["CD1", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -8336,8 +8344,9 @@
       ]
     },
     {
-      "id": "HECA RDR NW DIR",
-      "group": "HECA",
+      "id": "Cairo NW",
+      "comment": "HECA RDR NW DIR",
+      "group": "DIR",
       "owner": ["CD1", "CCA", "CC1X", "CC1"],
       "sectors": [
         {
@@ -8368,8 +8377,9 @@
       ]
     },
     {
-      "id": "HECA RDR NE DIR",
-      "group": "HECA",
+      "id": "Cairo NE",
+      "comment": "HECA RDR NE DIR",
+      "group": "DIR",
       "owner": ["CD1", "CC2X", "CC2", "CC1"],
       "sectors": [
         {
@@ -8409,8 +8419,9 @@
       ]
     },
     {
-      "id": "HECA DIR SW RDR",
-      "group": "HECA",
+      "id": "Cairo SW",
+      "comment": "HECA DIR SW RDR",
+      "group": "APP",
       "owner": ["CD2", "CD1", "CC4X", "CC4", "CC46", "CC1"],
       "sectors": [
         {
@@ -8456,8 +8467,9 @@
       ]
     },
     {
-      "id": "HECA DIR SE RDR",
-      "group": "HECA",
+      "id": "Cairo SE",
+      "comment": "HECA DIR SE RDR",
+      "group": "APP",
       "owner": ["CD2", "CD1", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -8486,8 +8498,9 @@
       ]
     },
     {
-      "id": "HECA DIR NW RDR",
-      "group": "HECA",
+      "id": "Cairo NW",
+      "comment": "HECA DIR NW RDR",
+      "group": "APP",
       "owner": ["CD2", "CD1", "CCA", "CC1X", "CC1"],
       "sectors": [
         {
@@ -8520,8 +8533,9 @@
       ]
     },
     {
-      "id": "HECA DIR NE RDR",
-      "group": "HECA",
+      "id": "Cairo NE",
+      "comment": "HECA DIR NE RDR",
+      "group": "APP",
       "owner": ["CD2", "CD1", "CC2X", "CC2", "CC1"],
       "sectors": [
         {
@@ -8567,8 +8581,9 @@
       ]
     },
     {
-      "id": "HEBA TMA",
-      "group": "HEBA",
+      "id": "Borg El Arab",
+      "comment": "HEBA TMA",
+      "group": "APP",
       "owner": ["BAR", "CCA", "CC1X", "CC1"],
       "sectors": [
         {
@@ -8623,8 +8638,9 @@
       ]
     },
     {
-      "id": "HEAR TMA",
-      "group": "HEAR",
+      "id": "El Arish",
+      "comment": "HEAR TMA",
+      "group": "APP",
       "owner": ["ARA", "CC2X", "CC2", "CC1"],
       "sectors": [
         {
@@ -9218,8 +9234,9 @@
       ]
     },
     {
-      "id": "HETR CTZ CTR",
-      "group": "HETR",
+      "id": "El Tor",
+      "comment": "HETR CTZ CTR",
+      "group": "TWR",
       "owner": ["TRT", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -9265,8 +9282,9 @@
       ]
     },
     {
-      "id": "HETB CTZ CTR",
-      "group": "HETB",
+      "id": "Taba",
+      "comment": "HETB CTZ CTR",
+      "group": "TWR",
       "owner": ["TBT", "TBA", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -9398,8 +9416,9 @@
       ]
     },
     {
-      "id": "HESX CTZ CTR",
-      "group": "HESX",
+      "id": "Sphinx",
+      "comment": "HESX CTZ CTR",
+      "group": "TWR",
       "owner": ["SXT", "CD2", "CD1", "CCA", "CC1X", "CC1"],
       "sectors": [
         {
@@ -9488,8 +9507,9 @@
       ]
     },
     {
-      "id": "HESN CTZ CTR",
-      "group": "HESN",
+      "id": "Aswan",
+      "comment": "HESN CTZ CTR",
+      "group": "TWR",
       "owner": ["SNT", "SNR", "CC6X", "CC6", "CC46", "CC1"],
       "sectors": [
         {
@@ -9508,8 +9528,9 @@
       ]
     },
     {
-      "id": "HESH CTZ CTR",
-      "group": "HESH",
+      "id": "Sharm El Sheikh",
+      "comment": "HESH CTZ CTR",
+      "group": "TWR",
       "owner": ["SHT", "SHR", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -9527,8 +9548,9 @@
       ]
     },
     {
-      "id": "HESG CTZ CTR S",
-      "group": "HESG",
+      "id": "Suhag South",
+      "comment": "HESG CTZ CTR S",
+      "group": "TWR",
       "owner": ["SGT", "SGA", "CC6X", "CC6", "CC46", "CC1"],
       "sectors": [
         {
@@ -9593,8 +9615,9 @@
       ]
     },
     {
-      "id": "HESG CTZ CTR N",
-      "group": "HESG",
+      "id": "Suhag North",
+      "comment": "HESG CTZ CTR N",
+      "group": "TWR",
       "owner": ["SGT", "SGA", "CC4X", "CC4", "CC46", "CC1"],
       "sectors": [
         {
@@ -9686,8 +9709,9 @@
       ]
     },
     {
-      "id": "HESC CTZ CTR",
-      "group": "HESC",
+      "id": "St. Catherine",
+      "comment": "HESC CTZ CTR",
+      "group": "TWR",
       "owner": ["SCT", "SHR", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -9733,8 +9757,9 @@
       ]
     },
     {
-      "id": "HEPS CTZ CTR",
-      "group": "HEPS",
+      "id": "Port Said",
+      "comment": "HEPS CTZ CTR",
+      "group": "TWR",
       "owner": ["PST", "CC2X", "CC2", "CC1"],
       "sectors": [
         {
@@ -9770,8 +9795,9 @@
       ]
     },
     {
-      "id": "HEOW CTZ CTR",
-      "group": "HEOW",
+      "id": "Shark El Oweinat",
+      "comment": "HEOW CTZ CTR",
+      "group": "TWR",
       "owner": ["OWT", "CC5X", "CC5", "CC46", "CC1"],
       "sectors": [
         {
@@ -9817,8 +9843,9 @@
       ]
     },
     {
-      "id": "HEOC CTZ CTR",
-      "group": "HEOC",
+      "id": "October",
+      "comment": "HEOC CTZ CTR",
+      "group": "TWR",
       "owner": ["OCT", "CD2", "CD1", "CC4X", "CC4", "CC46", "CC1"],
       "sectors": [
         {
@@ -9868,8 +9895,9 @@
       ]
     },
     {
-      "id": "HEMM CTZ CTR 2",
-      "group": "HEMM",
+      "id": "Matruh",
+      "comment": "HEMM CTZ CTR 2",
+      "group": "TWR",
       "owner": ["MMT", "CCA", "CC1X", "CC1"],
       "sectors": [
         {
@@ -10124,8 +10152,9 @@
       ]
     },
     {
-      "id": "HEMM CTZ CTR",
-      "group": "HEMM",
+      "id": "Matruh",
+      "comment": "HEMM CTZ CTR",
+      "group": "TWR",
       "owner": ["MMT", "CCA", "CC1X", "CC1"],
       "sectors": [
         {
@@ -10260,8 +10289,9 @@
       ]
     },
     {
-      "id": "HEMA CTZ CTR",
-      "group": "HEMA",
+      "id": "Marsa Alam",
+      "comment": "HEMA CTZ CTR",
+      "group": "TWR",
       "owner": ["MAT", "CC6X", "CC6", "CC46", "CC1"],
       "sectors": [
         {
@@ -10307,8 +10337,9 @@
       ]
     },
     {
-      "id": "HELX CTZ CTR",
-      "group": "HELX",
+      "id": "Luxor",
+      "comment": "HELX CTZ CTR",
+      "group": "TWR",
       "owner": ["LXT", "LXR", "CC6X", "CC6", "CC46", "CC1"],
       "sectors": [
         {
@@ -10581,8 +10612,9 @@
       ]
     },
     {
-      "id": "HEKG CTZ CTR",
-      "group": "HEKG",
+      "id": "El Kharga",
+      "comment": "HEKG CTZ CTR",
+      "group": "TWR",
       "owner": ["KGT", "CC5X", "CC5", "CC46", "CC1"],
       "sectors": [
         {
@@ -10600,8 +10632,9 @@
       ]
     },
     {
-      "id": "HEGN CTZ CTR",
-      "group": "HEGN",
+      "id": "Hurghada",
+      "comment": "HEGN CTZ CTR",
+      "group": "TWR",
       "owner": ["GNT", "GNR", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -10619,8 +10652,9 @@
       ]
     },
     {
-      "id": "HEDK CTZ CTR",
-      "group": "HEDK",
+      "id": "Dakhla",
+      "comment": "HEDK CTZ CTR",
+      "group": "TWR",
       "owner": ["DKT", "CC5X", "CC5", "CC46", "CC1"],
       "sectors": [
         {
@@ -10698,8 +10732,9 @@
       ]
     },
     {
-      "id": "HECP CTZ CTR",
-      "group": "HECP",
+      "id": "Capital",
+      "comment": "HECP CTZ CTR",
+      "group": "TWR",
       "owner": ["CPT", "CD2", "CD1", "CC2X", "CC2", "CC1"],
       "sectors": [
         {
@@ -10812,8 +10847,9 @@
       ]
     },
     {
-      "id": "HECA CTZ CTR SW",
-      "group": "HECA",
+      "id": "Cairo SW",
+      "comment": "HECA CTZ CTR SW",
+      "group": "TWR",
       "owner": ["CAT", "CD1", "CD2", "CC4X", "CC4", "CC46", "CC1"],
       "sectors": [
         {
@@ -10840,8 +10876,9 @@
       ]
     },
     {
-      "id": "HECA CTZ CTR SE",
-      "group": "HECA",
+      "id": "Cairo SE",
+      "comment": "HECA CTZ CTR SE",
+      "group": "TWR",
       "owner": ["CAT", "CD1", "CD2", "CCC", "CC3X", "CC3", "CC1"],
       "sectors": [
         {
@@ -10861,8 +10898,9 @@
       ]
     },
     {
-      "id": "HECA CTZ CTR NW",
-      "group": "HECA",
+      "id": "Cairo NW",
+      "comment": "HECA CTZ CTR NW",
+      "group": "TWR",
       "owner": ["CAT", "CD1", "CD2", "CCA", "CC1X", "CC1"],
       "sectors": [
         {
@@ -10889,8 +10927,9 @@
       ]
     },
     {
-      "id": "HECA CTZ CTR NE",
-      "group": "HECA",
+      "id": "Cairo NE",
+      "comment": "HECA CTZ CTR NE",
+      "group": "TWR",
       "owner": ["CAT", "CD1", "CD2", "CC2X", "CC2", "CC1"],
       "sectors": [
         {
@@ -10923,8 +10962,9 @@
       ]
     },
     {
-      "id": "HEBL CTZ CTR",
-      "group": "HEBL",
+      "id": "Abu Simbel",
+      "comment": "HEBL CTZ CTR",
+      "group": "TWR",
       "owner": ["BLT", "CC5X", "CC5", "CC46", "CC1"],
       "sectors": [
         {
@@ -11128,8 +11168,9 @@
       ]
     },
     {
-      "id": "HEAX CTZ CTR",
-      "group": "HEAX",
+      "id": "Alexandria",
+      "comment": "HEAX CTZ CTR",
+      "group": "TWR",
       "owner": ["AXT", "BAR", "CCA", "CC1X", "CC1"],
       "sectors": [
         {
@@ -11155,8 +11196,9 @@
       ]
     },
     {
-      "id": "HEAT CTZ CTR",
-      "group": "HEAT",
+      "id": "Asyut",
+      "comment": "HEAT CTZ CTR",
+      "group": "TWR",
       "owner": ["ATT", "CC4X", "CC4", "CC46", "CC1"],
       "sectors": [
         {
@@ -11360,8 +11402,9 @@
       ]
     },
     {
-      "id": "HEAR CTZ CTR",
-      "group": "HEAR",
+      "id": "El Arish",
+      "comment": "HEAR CTZ CTR",
+      "group": "TWR",
       "owner": ["ART", "ARA", "CC2X", "CC2", "CC1"],
       "sectors": [
         {
@@ -11407,8 +11450,9 @@
       ]
     },
     {
-      "id": "HEAL CTZ CTR",
-      "group": "HEAL",
+      "id": "Al Alamain",
+      "comment": "HEAL CTZ CTR",
+      "group": "TWR",
       "owner": ["ALT", "CCA", "CC1X", "CC1"],
       "sectors": [
         {
@@ -11512,95 +11556,19 @@
   ],
   "groups": {
     "HECC": {
-      "name": "Cairo ACC",
-      "colour": "#ffffff"
-    },
-    "HECA": {
       "name": "Cairo",
       "colour": "#ffffff"
     },
-    "HETB": {
-      "name": "Taba",
+    "APP": {
+      "name": "Approach",
       "colour": "#ffffff"
     },
-    "HESN": {
-      "name": "Aswan",
+    "DIR": {
+      "name": "Final Approach",
       "colour": "#ffffff"
     },
-    "HESG": {
-      "name": "Sohag",
-      "colour": "#ffffff"
-    },
-    "HELX": {
-      "name": "Luxor",
-      "colour": "#ffffff"
-    },
-    "HEGN": {
-      "name": "Hurghada",
-      "colour": "#ffffff"
-    },
-    "HEBA": {
-      "name": "Borg El Arab",
-      "colour": "#ffffff"
-    },
-    "HEAR": {
-      "name": "Arish",
-      "colour": "#ffffff"
-    },
-    "HETR": {
-      "name": "El Tor",
-      "colour": "#ffffff"
-    },
-    "HESX": {
-      "name": "Sphinx",
-      "colour": "#ffffff"
-    },
-    "HESH": {
-      "name": "Sharm El Sheikh",
-      "colour": "#ffffff"
-    },
-    "HESC": {
-      "name": "Saint Catherine",
-      "colour": "#ffffff"
-    },
-    "HEPS": {
-      "name": "Port Said",
-      "colour": "#ffffff"
-    },
-    "HEOC": {
-      "name": "October",
-      "colour": "#ffffff"
-    },
-    "HEMM": {
-      "name": "Mersa Matrouh",
-      "colour": "#ffffff"
-    },
-    "HEMA": {
-      "name": "Marsa Alam",
-      "colour": "#ffffff"
-    },
-    "HEKG": {
-      "name": "Kharga",
-      "colour": "#ffffff"
-    },
-    "HECP": {
-      "name": "Capital",
-      "colour": "#ffffff"
-    },
-    "HEBL": {
-      "name": "Abu Simbel",
-      "colour": "#ffffff"
-    },
-    "HEAX": {
-      "name": "Alexandria",
-      "colour": "#ffffff"
-    },
-    "HEAT": {
-      "name": "Assiut",
-      "colour": "#ffffff"
-    },
-    "HEAL": {
-      "name": "Alamein",
+    "TWR": {
+      "name": "Tower",
       "colour": "#ffffff"
     }
   },
@@ -11634,7 +11602,7 @@
       "colours": [{ "hex": "#FF0000" }]
     },
     "AXT": {
-      "callsign": "Alexandira Tower",
+      "callsign": "Alexandria Tower",
       "frequency": "120.300",
       "type": "TWR",
       "pre": ["HEAX"],
@@ -11662,7 +11630,7 @@
       "colours": [{ "hex": "#FF0000" }]
     },
     "BLT": {
-      "callsign": "Abu  Simbel Tower",
+      "callsign": "Abu Simbel Tower",
       "frequency": "118.000",
       "type": "TWR",
       "pre": ["HEBL"],
@@ -11828,13 +11796,6 @@
       "type": "CTR",
       "pre": ["HECC"],
       "colours": [{ "hex": "#00FFFF" }]
-    },
-    "CC": {
-      "callsign": "Cairo Control",
-      "frequency": "127.700",
-      "type": "CTR",
-      "pre": ["HECC"],
-      "colours": [{ "hex": "#00FF00" }]
     },
     "CCC": {
       "callsign": "Cairo Control",
@@ -12037,53 +11998,150 @@
     }
   },
   "airports": {
-    "HEAL": { "callsign": "Al Alamain Intl", "coord": [30.924444, 28.461333] },
-    "HEAR": { "callsign": "El Arish Intl", "coord": [31.073333, 33.835833] },
-    "HEAT": { "callsign": "Asyut Intl", "coord": [27.046389, 31.011944] },
+    "HEAL": {
+      "callsign": "Al Alamain",
+      "coord": [30.924444, 28.461333],
+      "topdown": ["CCA", "CC1X", "CC1"]
+    },
+    "HEAR": {
+      "callsign": "El Arish",
+      "coord": [31.073333, 33.835833],
+      "topdown": ["CC2X", "CC2", "CC1"]
+    },
+    "HEAT": {
+      "callsign": "Asyut",
+      "coord": [27.046389, 31.011944],
+      "topdown": ["CC4X", "CC4", "CC46", "CC1"]
+    },
     "HEAX": {
-      "callsign": "Alexandria-Nouzha Intl",
-      "coord": [31.183903, 29.948889]
+      "callsign": "Alexandria",
+      "coord": [31.183903, 29.948889],
+      "major": "HEBA"
     },
-    "HEAZ": { "callsign": "Almaza MIL", "coord": [30.091783, 31.360044] },
+    "HEAZ": {
+      "callsign": "Almaza",
+      "coord": [30.091783, 31.360044],
+      "topdown": ["CC5X", "CC5", "CC46", "CC1"]
+    },
     "HEBA": {
-      "callsign": "Borg El Arab Intl",
-      "coord": [30.917669, 29.696408]
+      "callsign": "Borg El Arab",
+      "coord": [30.917669, 29.696408],
+      "topdown": ["CCA", "CC1X", "CC1"]
     },
-    "HEBL": { "callsign": "Abu Simbel", "coord": [22.375953, 31.611722] },
+    "HEBL": {
+      "callsign": "Abu Simbel",
+      "coord": [22.375953, 31.611722]
+    },
     "HEBS": {
-      "callsign": "Beni Suef EAF(HEBF)",
+      "callsign": "Beni Suef",
       "coord": [29.208322, 31.016556]
     },
-    "HECA": { "callsign": "Cairo Intl", "coord": [30.121944, 31.405556] },
-    "HECP": { "callsign": "Capital Intl", "coord": [30.072222, 31.833333] },
-    "HECW": { "callsign": "Cairo West EAF", "coord": [30.116362, 30.915445] },
-    "HEDK": { "callsign": "Dakhla", "coord": [25.411608, 29.003058] },
-    "HEGN": { "callsign": "Hurghada Intl", "coord": [27.184167, 33.800667] },
-    "HEGO": { "callsign": "El Gouna", "coord": [27.366872, 33.668158] },
-    "HEGR": { "callsign": "El Gora", "coord": [31.068975, 34.129194] },
+    "HECA": {
+      "callsign": "Cairo",
+      "coord": [30.121944, 31.405556],
+      "default": false,
+      "topdown": ["CD1", "CD2", "CC2X", "CC2", "CC1"]
+    },
+    "HECP": {
+      "callsign": "Capital",
+      "coord": [30.072222, 31.833333],
+      "topdown": ["CD2", "CD1", "CC2X", "CC2", "CC1"]
+    },
+    "HECW": {
+      "callsign": "Cairo West",
+      "coord": [30.116362, 30.915445]
+    },
+    "HEDK": {
+      "callsign": "Dakhla",
+      "coord": [25.411608, 29.003058],
+      "topdown": ["CC5X", "CC5", "CC46", "CC1"]
+    },
+    "HEGN": {
+      "callsign": "Hurghada",
+      "coord": [27.184167, 33.800667],
+      "topdown": ["CCC", "CC3X", "CC3", "CC1"]
+    },
+    "HEGO": {
+      "callsign": "El Gouna",
+      "coord": [27.366872, 33.668158]
+    },
+    "HEGR": {
+      "callsign": "El Gora",
+      "coord": [31.068975, 34.129194]
+    },
     "HEGS": {
-      "callsign": "Jiyanklis New MIL",
+      "callsign": "Jiyanklis",
       "coord": [30.819797, 30.191211]
     },
-    "HEKG": { "callsign": "El Kharga", "coord": [25.473631, 30.590706] },
-    "HELX": { "callsign": "Luxor Intl", "coord": [25.671028, 32.706583] },
-    "HEMA": { "callsign": "Marsa Alam Intl", "coord": [25.557111, 34.582028] },
-    "HEMM": { "callsign": "Mersa Matruh", "coord": [31.325356, 27.221689] },
-    "HEOC": { "callsign": "October", "coord": [29.812119, 30.823356] },
+    "HEKG": {
+      "callsign": "El Kharga",
+      "coord": [25.473631, 30.590706],
+      "topdown": ["CC5X", "CC5", "CC46", "CC1"]
+    },
+    "HELX": {
+      "callsign": "Luxor",
+      "coord": [25.671028, 32.706583],
+      "topdown": ["CC6X", "CC6", "CC46", "CC1"]
+    },
+    "HEMA": {
+      "callsign": "Marsa Alam",
+      "coord": [25.557111, 34.582028],
+      "topdown": ["CC6X", "CC6", "CC46", "CC1"]
+    },
+    "HEMM": {
+      "callsign": "Matruh",
+      "coord": [31.325356, 27.221689],
+      "topdown": ["CCA", "CC1X", "CC1"]
+    },
+    "HEOC": {
+      "callsign": "October",
+      "coord": [29.812119, 30.823356],
+      "topdown": ["CD2", "CD1", "CC4X", "CC4", "CC46", "CC1"]
+    },
     "HEOW": {
-      "callsign": "Shark El Oweinat Intl",
-      "coord": [22.585672, 28.716642]
+      "callsign": "Shark El Oweinat",
+      "coord": [22.585672, 28.716642],
+      "owner": ["CC5X", "CC5", "CC46", "CC1"]
     },
-    "HEPS": { "callsign": "Port Said", "coord": [31.279444, 32.24] },
-    "HESC": { "callsign": "St. Catherine Intl", "coord": [28.685278, 34.0625] },
-    "HESG": { "callsign": "Suhag Intl", "coord": [26.342778, 31.742778] },
+    "HEPS": {
+      "callsign": "Port Said",
+      "coord": [31.279444, 32.24],
+      "owner": ["CC2X", "CC2", "CC1"]
+    },
+    "HESC": {
+      "callsign": "St. Catherine",
+      "coord": [28.685278, 34.0625],
+      "major": "HESH"
+    },
+    "HESG": {
+      "callsign": "Sohag",
+      "coord": [26.342778, 31.742778],
+      "topdown": ["CC6X", "CC6", "CC46", "CC1"]
+    },
     "HESH": {
-      "callsign": "Sharm El Sheikh Intl",
-      "coord": [27.977286, 34.39495]
+      "callsign": "Sharm El Sheikh",
+      "coord": [27.977286, 34.39495],
+      "topdown": ["CCC", "CC3X", "CC3", "CC1"]
     },
-    "HESN": { "callsign": "Aswan Intl", "coord": [23.963889, 32.821944] },
-    "HESX": { "callsign": "Sphinx Intl", "coord": [30.108056, 30.895833] },
-    "HETB": { "callsign": "Taba Intl", "coord": [29.587778, 34.778056] },
-    "HETR": { "callsign": "El Tor", "coord": [28.209028, 33.645517] }
+    "HESN": {
+      "callsign": "Aswan",
+      "coord": [23.963889, 32.821944],
+      "topdown": ["CC6X", "CC6", "CC46", "CC1"]
+    },
+    "HESX": {
+      "callsign": "Sphinx",
+      "coord": [30.108056, 30.895833],
+      "topdown": ["CD2", "CD1", "CCA", "CC1X", "CC1"]
+    },
+    "HETB": {
+      "callsign": "Taba",
+      "coord": [29.587778, 34.778056],
+      "topdown": ["CCC", "CC3X", "CC3", "CC1"]
+    },
+    "HETR": {
+      "callsign": "El Tor",
+      "coord": [28.209028, 33.645517],
+      "topdown": ["CCC", "CC3X", "CC3", "CC1"]
+    }
   }
 }
