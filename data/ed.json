@@ -486,7 +486,7 @@
         },
         {
           "max": 314,
-          "min": 225,
+          "min": 195,
           "points": [
             ["475353", "0095008"],
             ["474855", "0095418"],
@@ -1327,8 +1327,8 @@
       "uid": "DMNH",
       "owner": [
         "DMNH",
-        "DMSH",
         "DMNL",
+        "DMSH",
         "DMSL",
         "DMNAT",
         "DMSAT",
@@ -1390,8 +1390,8 @@
       "uid": "DMNL",
       "owner": [
         "DMNL",
-        "DMSL",
         "DMNH",
+        "DMSL",
         "DMSH",
         "DMNAT",
         "DMSAT",
@@ -1453,8 +1453,8 @@
       "uid": "DMSH",
       "owner": [
         "DMSH",
-        "DMNH",
         "DMSL",
+        "DMNH",
         "DMNL",
         "DMSAT",
         "DMNAT",
@@ -1514,8 +1514,8 @@
       "uid": "DMSL",
       "owner": [
         "DMSL",
-        "DMNL",
         "DMSH",
+        "DMNL",
         "DMNH",
         "DMSAT",
         "DMNAT",
@@ -1733,7 +1733,7 @@
       "id": "Traun",
       "group": "EDMM",
       "uid": "TRU",
-      "owner": ["TRU", "NDG", "ZUG", "RDG", "MMC"],
+      "owner": ["TRU", "NDG", "TEG", "ZUG", "RDG", "MMC"],
       "sectors": [
         {
           "max": 314,
@@ -2227,6 +2227,7 @@
         "ERL",
         "TRU",
         "NDG",
+        "TEG",
         "ZUG",
         "RDG",
         "MMC",
@@ -2289,6 +2290,7 @@
         "ERL",
         "TRU",
         "NDG",
+        "TEG",
         "ZUG",
         "RDG",
         "MMC",
@@ -2351,6 +2353,7 @@
         "ERL",
         "TRU",
         "NDG",
+        "TEG",
         "ZUG",
         "RDG",
         "MMC",
@@ -2414,6 +2417,7 @@
         "ERL",
         "TRU",
         "NDG",
+        "TEG",
         "ZUG",
         "RDG",
         "MMC",
