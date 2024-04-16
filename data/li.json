@@ -7673,7 +7673,7 @@
         "sectors": [
           {
             "min": 25,
-            "max": 74,
+            "max": 94,
             "points": [
               ["444400", "0100052"],
               ["443121", "0093844"],
@@ -10828,14 +10828,14 @@
         "frequency": "128.800",
         "type": "CTR",
         "pre": ["LIRR"],
-        "colours": [{ "hex": "#e5e5e5" }]
+        "colours": [{ "hex": "#f1f1f1" }]
       },
       "RRU": {
         "callsign": "Roma Radar",
         "frequency": "132.525",
         "type": "CTR",
         "pre": ["LIRR"],
-        "colours": [{ "hex": "#f2f2f2" }]
+        "colours": [{ "hex": "#fcfcfc" }]
       },
       "RSA": {
         "callsign": "Grosseto Approach",
