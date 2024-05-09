@@ -5751,28 +5751,6 @@
             ]
         },
         {
-            "id": "Curacao",
-            "group": "FIR",
-            "owner": ["TNCF", "fss/CARI"],
-            "sectors": [
-                {
-                    "points": [
-                        ["122958","-0703001"],
-                        ["122958","-0712501"],
-                        ["141958","-0740001"],
-                        ["160000","-0740000"],
-                        ["170000","-0730000"],
-                        ["170000","-0714000"],
-                        ["160000","-0714000"],
-                        ["160000","-0680000"],
-                        ["154059","-0670400"],
-                        ["112400","-0675800"],
-                        ["122958","-0703001"]
-                    ]
-                }
-            ]
-        },
-        {
             "id": "Piarco",
             "group": "FIR",
             "owner": ["TTZP", "fss/CARI"],
@@ -12477,7 +12455,6 @@
         "SPIM": { "colours": [{ "hex": "#888888" }], "pre": ["SPIM", "LIM"], "type": "CTR", "callsign": "Lima Control" },
         "SVZM": { "colours": [{ "hex": "#888888" }], "pre": ["SVZM"], "type": "CTR", "callsign": "Maiquetia Center" },
         "TJZS": { "colours": [{ "hex": "#888888" }], "pre": ["SJU"], "type": "CTR", "callsign": "San Juan Center" },
-        "TNCF": { "colours": [{ "hex": "#888888" }], "pre": ["TNCF"], "type": "CTR", "callsign": "Curacao Control" },
         "TTZP": { "colours": [{ "hex": "#888888" }], "pre": ["TTZP"], "type": "CTR", "callsign": "Piarco Radar" },
         "VCL": { "colours": [{ "hex": "#888888" }], "pre": ["VCL"], "type": "CTR", "callsign": "Mekong Radar" },
         "VDPF": { "colours": [{ "hex": "#888888" }], "pre": ["VDPF"], "type": "CTR", "callsign": "Phnom Penh Control" },
@@ -17483,9 +17460,6 @@
         "TKPN": { "callsign": "Vance W. Amory", "coord": ["17.19972","-62.58306"] },
         "TLPC": { "callsign": "George F.L. Charles", "coord": ["14.018889","-61"] },
         "TLPL": { "callsign": "Hewanorra", "coord": ["13.732222","-60.951944"] },
-        "TNCA": { "callsign": "Queen Beatrix", "coord": ["12.504167","-70.012222"] },
-        "TNCB": { "callsign": "Flamingo", "coord": ["12.139444","-68.277222"] },
-        "TNCC": { "callsign": "Hato", "coord": ["12.191944","-68.956944"] },
         "TNCE": { "callsign": "F.D. Roosevelt", "coord": ["17.491667","-62.975556"] },
         "TNCM": { "callsign": "Princess Juliana", "coord": ["18.039722","-63.111944"], "pre": ["SXM"] },
         "TNCS": { "callsign": "Juancho E. Yrausquin", "coord": ["17.645278","-63.220556"] },
