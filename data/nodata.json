@@ -2057,27 +2057,6 @@
             ]
         },
         {
-            "id": "Kingston",
-            "group": "FIR",
-            "owner": ["MKJK", "fss/CARI"],
-            "sectors": [
-                {
-                    "points": [
-                        ["200000","-0820000"],
-                        ["200000","-0781959"],
-                        ["193000","-0773000"],
-                        ["183000","-0750000"],
-                        ["170000","-0730000"],
-                        ["160000","-0740000"],
-                        ["150000","-0740000"],
-                        ["150000","-0821500"],
-                        ["190000","-0820459"],
-                        ["200000","-0820000"]
-                    ]
-                }
-            ]
-        },
-        {
             "id": "Port-au-Prince",
             "group": "FIR",
             "owner": ["MTEG", "fss/CARI"],
@@ -12456,7 +12435,6 @@
         "LLPT": { "colours": [{ "hex": "#888888" }], "pre": ["LLPT"], "type": "CTR", "callsign": "Tel Aviv Control" },
         "LLSC": { "colours": [{ "hex": "#888888" }], "pre": ["LLSC"], "type": "CTR", "callsign": "Tel Aviv Control" },
         "MDCS": { "colours": [{ "hex": "#888888" }], "pre": ["MDCS"], "type": "CTR", "callsign": "Santo Domingo Center" },
-        "MKJK": { "colours": [{ "hex": "#888888" }], "pre": ["MKJK"], "type": "CTR", "callsign": "Kingston Radar" },
         "MTEG": { "colours": [{ "hex": "#888888" }], "pre": ["MTEG"], "type": "CTR", "callsign": "Port-au-Prince Center" },
         "NFFN": { "colours": [{ "hex": "#888888" }], "pre": ["NFFN"], "type": "CTR", "callsign": "Nadi Centre" },
         "NVVV": { "colours": [{ "hex": "#888888" }], "pre": ["NVVV"], "type": "CTR", "callsign": "Vila Centre" },
@@ -15004,12 +14982,6 @@
         "MDSI": { "callsign": "San Isidro AFB", "coord": ["18.5","-69.76639"] },
         "MDST": { "callsign": "Santiago", "coord": ["19.469722","-70.699722"] },
         "MDWO": { "callsign": "Walterio", "coord": ["19.757867","-71.623483"] },
-        "MKBS": { "callsign": "Boscobel", "coord": ["18.40053","-76.97528"] },
-        "MKJP": { "callsign": "Kingston-Norman Manley", "coord": ["17.933056","-76.788889"] },
-        "MKJS": { "callsign": "Montego Bay-Sangster", "coord": ["18.500278","-77.915833"] },
-        "MKKJ": { "callsign": "Ken Jones", "coord": ["18.19666","-76.53594"] },
-        "MKNG": { "callsign": "Negril", "coord": ["18.3642","-78.30558"] },
-        "MKTP": { "callsign": "Tinson Pen", "coord": ["17.98514","-76.82428"] },
         "MMAA": { "callsign": "Acapulco", "coord": ["16.757222","-99.753889"] },
         "MMAN": { "callsign": "Monterrey", "coord": ["25.865278","-100.236944"] },
         "MMAS": { "callsign": "Aguascalientes", "coord": ["21.704722","-102.3175"] },
