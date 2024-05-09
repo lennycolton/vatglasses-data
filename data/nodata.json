@@ -2059,7 +2059,7 @@
         {
             "id": "Port-au-Prince",
             "group": "FIR",
-            "owner": ["MTEG", "fss/CARI"],
+            "owner": ["MTEG", "fss/ANT", "fss/ANTB", "fss/CARW", "fss/CARI"],
             "sectors": [
                 {
                     "points": [

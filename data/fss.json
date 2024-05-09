@@ -9,6 +9,8 @@
     "AFRWA": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRW"], "type": "FSS", "frequency": "131.225", "callsign": "Africa West Control" },
     "AFRWB": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRW"], "type": "FSS", "frequency": "130.225", "callsign": "Africa West Control" },
     "AFRW": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRW"], "type": "FSS", "frequency": "132.225", "callsign": "Africa West Control" },
+    "ANT": { "colours": [{ "hex": "#ffffff" }], "pre": ["ANT"], "type": "CTR", "frequency": "131.200", "callsign": "Antilles Control"},
+    "ANTB": { "colours": [{ "hex": "#ffffff" }], "pre": ["ANT"], "type": "CTR", "frequency": "131.250", "callsign": "Antilles Control"},
     "ASEAN": { "colours": [{ "hex": "#ffffff" }], "pre": ["ASEA"], "type": "FSS", "frequency": "135.350", "callsign": "South East Asia Control"},
     "ASEAS": { "colours": [{ "hex": "#ffffff" }], "pre": ["ASEA"], "type": "FSS", "frequency": "136.225", "callsign": "South East Asia Control"},
     "ASIAW": { "colours": [{ "hex": "#ffffff" }], "pre": ["ASIA"], "type": "FSS", "frequency": "135.400", "callsign": "West Asia Control"},
