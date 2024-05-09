@@ -29361,13 +29361,21 @@
             "L"
         ]
     },
-    "EGBE": {
-        "callsign": "Coventry",
-        "coord": [
-            52.369722,
-            -1.479722
-        ],
-        "major": "EGBB"
+    "EGTC": {
+      "callsign": "Cranfield",
+      "coord": [
+        52.072222,
+        -0.616667
+      ],
+      "topdown": [
+          "COWLY",
+          "TCM",
+          "LMW",
+          "LM",
+          "LC",
+          "LSC",
+          "L"
+      ]
     },
     "EGTK": {
       "callsign": "Oxford",
@@ -30484,6 +30492,7 @@
     "EGAT": { "callsign": "Sky Blu", "coord": [ -74.853889, -71.564167 ] },
     "EGBC": { "callsign": "Cheltenham", "coord": [ 51.916667, -2.05 ] },
     "EGBD": { "callsign": "Derby", "coord": [ 52.859722, -1.6175 ] },
+    "EGBE": { "callsign": "Coventry", "coord": [ 52.369722, -1.479722 ] },
     "EGBF": { "callsign": "Bedford", "coord": [ 52.2325, -0.445556 ] },
     "EGBG": { "callsign": "Leicester", "coord": [ 52.607778, -1.031944 ] },
     "EGBK": { "callsign": "Sywell", "coord": [ 52.305278, -0.792778 ] },
@@ -30639,7 +30648,6 @@
     "EGSX": { "callsign": "North Weald", "coord": [ 51.721667, 0.154444 ] },
     "EGTA": { "callsign": "Aylesbury", "coord": [ 51.78, -0.95 ] },
     "EGTB": { "callsign": "Wycombe", "coord": [ 51.611389, -0.808056 ] },
-    "EGTC": { "callsign": "Cranfield", "coord": [ 52.072222, -0.616667 ] },
     "EGTD": { "callsign": "Dunsfold", "coord": [ 51.117222, -0.535833 ] },
     "EGTF": { "callsign": "Fairoaks", "coord": [ 51.348056, -0.559444 ] },
     "EGTH": { "callsign": "Old Warden", "coord": [ 52.086667, -0.318611 ] },
