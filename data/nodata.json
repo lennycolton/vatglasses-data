@@ -17531,7 +17531,6 @@
         "TVSM": { "callsign": "Mustique", "coord": ["12.88519","-61.1871"] },
         "TVSU": { "callsign": "Union Island", "coord": ["12.598611","-61.414722"], "pre": ["UNI"] },
         "TVSV": { "callsign": "E.T. Joshua", "coord": ["13.144444","-61.213889"] },
-        "TXKF": { "callsign": "L F Wade Intl", "coord": ["32.364042","-64.678703"], "pre": ["BDA"], "topdown": ["KZNY-BDA"] },
         "UA0D": { "callsign": "Chirchik", "coord": ["41.518","69.576"] },
         "UAAA": { "callsign": "Almaty", "coord": ["43.351667","77.04"] },
         "UAAH": { "callsign": "Balkhash", "coord": ["46.893","75.005"] },
