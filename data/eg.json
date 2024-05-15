@@ -29639,15 +29639,7 @@
             51.213611,
             -0.138611
         ],
-        "topdown": [
-            "TCSW",
-            "TCS",
-            "TC",
-            "LSF",
-            "LS",
-            "LSC",
-            "L"
-        ]
+        "major": "EGKK"
     },
     "EGKK": {
         "callsign": "Gatwick",
