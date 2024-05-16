@@ -95303,34 +95303,10 @@
   ],
   "groups": {
     "Polaris FIR": {
-      "name": "Polaris FIR"
-    },
-    "ENOS": {
-      "name": "Oslo ACC"
-    },
-    "ENSV": {
-      "name": "Stavanger ACC"
-    },
-    "ENBD": {
-      "name": "Bodø ACC"
+      "name": "Polaris"
     },
     "ENOB": {
-      "name": "Bodø OFIR"
-    },
-    "APP": {
-      "name": "Approach"
-    },
-    "TIA": {
-      "name": "Traffic Information Area (RMZ)"
-    },
-    "TWR": {
-      "name": "Tower"
-    },
-    "TIZ": {
-      "name": "Traffic Information Zone (RMZ)"
-    },
-    "HTZ": {
-      "name": "Helicopter Traffic Zone"
+      "name": "Bodø Oceanic"
     }
   },
   "positions": {
