@@ -905,13 +905,6 @@
       "pre": ["LCRA"],
       "colours": [{ "hex": "#5e8182" }]
     },
-    "ES": {
-      "callsign": "Eurocontrol South",
-      "frequency": "135.550",
-      "type": "FSS",
-      "pre": ["EURS"],
-      "colours": [{ "hex": "#ffffff" }]
-    }
   },
 
   "callsigns": {
