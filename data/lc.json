@@ -904,7 +904,7 @@
       "type": "TWR",
       "pre": ["LCRA"],
       "colours": [{ "hex": "#5e8182" }]
-    },
+    }
   },
 
   "callsigns": {
