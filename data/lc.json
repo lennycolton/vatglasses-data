@@ -203,7 +203,7 @@
     {
       "id": "East Lower",
       "group": "LCCC",
-      "owner": ["NC7", "NC4", "NC1", "fss/EUCSE"],
+      "owner": ["NC7", "NC4", "NC1", "ES"],
       "sectors": [
         {
           "min": 245,
@@ -321,7 +321,7 @@
     {
       "id": "East",
       "group": "LCCC",
-      "owner": ["NC4", "NC1", "fss/EUCSE"],
+      "owner": ["NC4", "NC1", "ES"],
       "sectors": [
         {
           "min": 245,
@@ -358,7 +358,7 @@
     {
       "id": "East",
       "group": "LCCC",
-      "owner": ["NC4", "NC1", "fss/EUCSE"],
+      "owner": ["NC4", "NC1", "ES"],
       "sectors": [
         {
           "min": 305,
@@ -468,7 +468,7 @@
     {
       "id": "South 2",
       "group": "LCCC",
-      "owner": ["NC5", "NC2", "NC1", "fss/EUCSE"],
+      "owner": ["NC5", "NC2", "NC1", "ES"],
       "sectors": [
         {
           "min": 245,
@@ -555,7 +555,7 @@
     {
       "id": "South 1",
       "group": "LCCC",
-      "owner": ["NC2", "NC1", "fss/EUCSE"],
+      "owner": ["NC2", "NC1", "ES"],
       "sectors": [
         {
           "min": 245,
@@ -739,7 +739,7 @@
     {
       "id": "West Lower",
       "group": "LCCC",
-      "owner": ["NC6", "NC3", "NC1", "fss/EUCSE"],
+      "owner": ["NC6", "NC3", "NC1", "ES"],
       "sectors": [
         {
           "min": 245,
@@ -771,7 +771,7 @@
     {
       "id": "West",
       "group": "LCCC",
-      "owner": ["NC3", "NC1", "fss/EUCSE"],
+      "owner": ["NC3", "NC1", "ES"],
       "sectors": [
         {
           "min": 325,
@@ -818,14 +818,14 @@
       "callsign": "Nicosia Radar",
       "frequency": "127.075",
       "type": "CTR",
-      "pre": ["LCCC-EL"],
+      "pre": ["LCCC"],
       "colours": [{ "hex": "#eb2877" }]
     },
     "NC4": {
       "callsign": "Nicosia Radar",
       "frequency": "126.300",
       "type": "CTR",
-      "pre": ["LCCC-E"],
+      "pre": ["LCCC"],
       "colours": [{ "hex": "#fc72e6" }]
     },
     "NC5": {
@@ -839,21 +839,21 @@
       "callsign": "Nicosia Radar",
       "frequency": "128.600",
       "type": "CTR",
-      "pre": ["LCCC-S"],
+      "pre": ["LCCC"],
       "colours": [{ "hex": "#942ca8" }]
     },
     "NC6": {
       "callsign": "Nicosia Radar",
       "frequency": "128.075",
       "type": "CTR",
-      "pre": ["LCCC-WL"],
+      "pre": ["LCCC"],
       "colours": [{ "hex": "#38e59f" }]
     },
     "NC3": {
       "callsign": "Nicosia Radar",
       "frequency": "125.500",
       "type": "CTR",
-      "pre": ["LCCC-W"],
+      "pre": ["LCCC"],
       "colours": [{ "hex": "#59137b" }]
     },
     "NC1": {
@@ -904,6 +904,13 @@
       "type": "TWR",
       "pre": ["LCRA"],
       "colours": [{ "hex": "#5e8182" }]
+    },
+    "ES": {
+      "callsign": "Eurocontrol South",
+      "frequency": "135.550",
+      "type": "FSS",
+      "pre": ["EURS"],
+      "colours": [{ "hex": "#ffffff" }]
     }
   },
 
