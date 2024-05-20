@@ -6005,140 +6005,140 @@
       "frequency": "129.675",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#097ede" }]
     },
     "AC2": {
       "callsign": "Athinai Radar",
       "frequency": "133.325",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#09de49" }]
     },
     "AC3": {
       "callsign": "Makedonia Radar",
       "frequency": "133.425",
       "type": "CTR",
       "pre": ["LGMD"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#076958" }]
     },
     "AC4": {
       "callsign": "Makedonia Radar",
       "frequency": "132.375",
       "type": "CTR",
       "pre": ["LGMD"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#a3ab13" }]
     },
     "AC5": {
       "callsign": "Athinai Radar",
       "frequency": "125.200",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#1369ab" }]
     },
     "AC6": {
       "callsign": "Athinai Radar",
       "frequency": "134.325",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#ab13a8" }]
     },
     "AC7": {
       "callsign": "Athinai Radar",
       "frequency": "124.625",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#13ab66" }]
     },
     "AC8": {
       "callsign": "Makedonia Radar",
       "frequency": "127.475",
       "type": "CTR",
       "pre": ["LGMD"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#07690b" }]
     },
     "AC9": {
       "callsign": "Athinai Radar",
       "frequency": "126.125",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#075f69" }]
     },
     "AC10": {
       "callsign": "Makedonia Radar",
       "frequency": "133.880",
       "type": "CTR",
       "pre": ["LGMD"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#707314" }]
     },
     "AC11": {
       "callsign": "Athinai Radar",
       "frequency": "133.725",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#ab7813" }]
     },
     "AC12": {
       "callsign": "Athinai Radar",
       "frequency": "131.330",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#825b0e" }]
     },
     "AC13": {
       "callsign": "Athinai Radar",
       "frequency": "123.725",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#ab1336" }]
     },
     "AC14": {
       "callsign": "Makedonia Radar",
       "frequency": "133.575",
       "type": "CTR",
       "pre": ["LGMD"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#de375e" }]
     },
     "AC15": {
       "callsign": "Athinai Radar",
       "frequency": "123.830",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#1f4b9c" }]
     },
     "AC16": {
       "callsign": "Makedonia Radar",
       "frequency": "133.655",
       "type": "CTR",
       "pre": ["LGMD"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#7371e3" }]
     },
     "AC17": {
       "callsign": "Makedonia Radar",
       "frequency": "125.355",
       "type": "CTR",
       "pre": ["LGMD"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#611f9c" }]
     },
     "AC18": {
       "callsign": "Athinai Radar",
       "frequency": "125.985",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#c47547" }]
     },
     "AC19": {
       "callsign": "Athinai Radar",
       "frequency": "127.975",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#95b320" }]
     },
     "AC20": {
       "callsign": "Athinai Radar",
       "frequency": "135.875",
       "type": "CTR",
       "pre": ["LGGG"],
-      "colours": [{ "hex": "#7b0956" }]
+      "colours": [{ "hex": "#07692e" }]
     },
     "AAD": {
       "callsign": "Andravida Approach",
