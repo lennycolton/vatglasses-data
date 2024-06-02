@@ -5,7 +5,7 @@
       "group": "SCIZ",
       "owner": [
         "IZ",
-        "sccz/CZ",
+        "CZ",
         "fss/SAMW"
       ],
       "sectors": [
@@ -172,8 +172,8 @@
       "group": "SCIZ",
       "owner": [
         "IZ",
-        "scez/EZN",
-        "scez/EZS",
+        "EZN",
+        "EZS",
         "fss/SAMW"
       ],
       "sectors": [
@@ -443,8 +443,8 @@
       "group": "SCIZ",
       "owner": [
         "IZ",
-        "scez/EZS",
-        "scez/EZN",
+        "EZS",
+        "EZN",
         "fss/SAMW"
       ],
       "sectors": [
@@ -708,8 +708,8 @@
       "group": "SCIZ",
       "owner": [
         "IZ",
-        "scfz/FZN",
-        "scfz/FZS",
+        "FZN",
+        "FZS",
         "fss/SAMW"
       ],
       "sectors": [
@@ -1065,8 +1065,8 @@
       "group": "SCIZ",
       "owner": [
         "IZ",
-        "scfz/FZS",
-        "scfz/FZN",
+        "FZS",
+        "FZN",
         "fss/SAMW"
       ],
       "sectors": [
@@ -1329,8 +1329,8 @@
       "group": "SCIZ",
       "owner": [
         "IZ",
-        "sctz/TZN",
-        "sctz/TZS",
+        "TZN",
+        "TZS",
         "fss/SAMW"
       ],
       "sectors": [
@@ -1604,8 +1604,8 @@
       "group": "SCIZ",
       "owner": [
         "IZ",
-        "sctz/TZS",
-        "sctz/TZN",
+        "TZS",
+        "TZN",
         "fss/SAMW"
       ],
       "sectors": [
