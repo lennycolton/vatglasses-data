@@ -2811,7 +2811,7 @@
     },
     "ULBT": {
         "callsign": "Ulaanbaatar Control",
-        "frequency": "126.000",
+        "frequency": "126.050",
         "type": "CTR",
         "pre": [
             "ZMUB"
