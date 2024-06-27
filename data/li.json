@@ -4005,7 +4005,7 @@
       {
         "id": "LIBBNORD_UIR",
         "group": "LIBB",
-        "owner": ["BBN", "BBS", "RRU", "IUP", "fss/EUCES"],
+        "owner": ["BBN", "RRN", "BBS", "RRU", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -4043,7 +4043,7 @@
       {
         "id": "LIBBNORD_UIR",
         "group": "LIBB",
-        "owner": ["BBN", "BBS", "IUP", "fss/EUCES"],
+        "owner": ["BBN", "RRN", "BBS", "IUP", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -4081,7 +4081,7 @@
       {
         "id": "LIBBNORD_UIR",
         "group": "LIBB",
-        "owner": ["BBN", "BBS"],
+        "owner": ["BBN", "RRN", "BBS"],
         "sectors": [
           {
             "min": 195,
@@ -4119,7 +4119,7 @@
       {
         "id": "LIBBNORD_FIR",
         "group": "LIBB",
-        "owner": ["BBN", "BBS"],
+        "owner": ["BBN", "RRN", "BBS"],
         "sectors": [
           {
             "min": 0,
@@ -8629,7 +8629,7 @@
       {
         "id": "LIBPAPP3",
         "group": "APP",
-        "owner": ["BPA", "BBN", "BBS"],
+        "owner": ["BPA", "BBN", "RRN", "BBS"],
         "sectors": [
           {
             "min": 35,
@@ -8649,7 +8649,7 @@
       {
         "id": "LIBPAPP2",
         "group": "APP",
-        "owner": ["BPA", "BBN", "BBS"],
+        "owner": ["BPA", "BBN", "RRN", "BBS"],
         "sectors": [
           {
             "min": 45,
@@ -8679,7 +8679,7 @@
       {
         "id": "LIBPAPP1",
         "group": "APP",
-        "owner": ["BPA", "BBN", "BBS"],
+        "owner": ["BPA", "BBN", "RRN", "BBS"],
         "sectors": [
           {
             "min": 0,
@@ -8872,7 +8872,7 @@
       {
         "id": "LIBAAPP3",
         "group": "APP",
-        "owner": ["BAA", "BBN", "BBS"],
+        "owner": ["BAA", "BBN", "RRN", "BBS"],
         "sectors": [
           {
             "min": 105,
@@ -8898,7 +8898,7 @@
       {
         "id": "LIBAAPP2",
         "group": "APP",
-        "owner": ["BAA", "BBN", "BBS"],
+        "owner": ["BAA", "BBN", "RRN", "BBS"],
         "sectors": [
           {
             "min": 70,
@@ -8920,7 +8920,7 @@
       {
         "id": "LIBAAPP1",
         "group": "APP",
-        "owner": ["BAA", "BBN", "BBS"],
+        "owner": ["BAA", "BBN", "RRN", "BBS"],
         "sectors": [
           {
             "min": 0,
@@ -10919,7 +10919,7 @@
       "LIBA": {
         "callsign": "Amendola",
         "coord": [41.541389, 15.718056],
-        "topdown": ["BAA", "BBS", "BBN"]
+        "topdown": ["BAA", "BBS", "BBN", "RRN"]
       },
       "LIBC": {
         "callsign": "Crotone",
@@ -10934,7 +10934,7 @@
       "LIBF": {
         "callsign": "Foggia/Gino Lisa",
         "coord": [41.433399, 15.53475],
-        "topdown": ["BBI", "BBA", "BBS", "BBN"]
+        "topdown": ["BBI", "BBA", "BBS", "BBN", "RRN"]
       },
       "LIBG": {
         "callsign": "Grottaglie",
@@ -10949,7 +10949,7 @@
       "LIBP": {
         "callsign": "Pescara",
         "coord": [42.436667, 14.187222],
-        "topdown": ["BPA", "BBN"]
+        "topdown": ["BPA", "BBN", "RRN"]
       },
       "LIBR": {
         "callsign": "Brindisi",
