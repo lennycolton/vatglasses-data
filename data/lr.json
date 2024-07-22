@@ -61,7 +61,6 @@
             "owner": [
                 "TBM",
                 "NAP",
-                "ARG",
                 "LOM"
             ],
             "sectors": [
@@ -806,7 +805,6 @@
                 "TCL",
                 "APN",
                 "NAP",
-                "ARG",
                 "LOM"
             ],
             "sectors": [
@@ -833,7 +831,6 @@
                 "TTM",
                 "APN",
                 "NAP",
-                "ARG",
                 "LOM"
             ],
             "sectors": [
@@ -860,7 +857,6 @@
                 "TSB",
                 "APN",
                 "NAP",
-                "ARG",
                 "LOM"
             ],
             "sectors": [
