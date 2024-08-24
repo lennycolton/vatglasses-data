@@ -2486,17 +2486,17 @@
     },
 
     "positions": {
-        "EYVL_U_CTR": {"colours": [{"hex": "#DFFF00"}], "pre": ["EYVL"], "type": "CTR", "frequency": "132.280", "callsign": "VILNIUS CONTROL"},
-	"EYVL_CTR": {"colours": [{"hex": "#ffbf00"}], "pre": ["EYVL"], "type": "CTR", "frequency": "133.305", "callsign": "VILNIUS CONTROL"},
-	"EYVL_E_CTR": {"colours": [{"hex": "#6495ed"}], "pre": ["EYVL"], "type": "CTR", "frequency": "135.380", "callsign": "VILNIUS CONTROL"},
-	"EYVL_M_CTR": {"colours": [{"hex": "#ccccff"}], "pre": ["EYVL"], "type": "CTR", "frequency": "133.430", "callsign": "VILNIUS CONTROL"},
+        "EYVL_U_CTR": {"colours": [{"hex": "#DFFF00"}], "pre": ["EYVL"], "type": "CTR", "frequency": "132.280", "callsign": "Vilnius Control"},
+	"EYVL_CTR": {"colours": [{"hex": "#ffbf00"}], "pre": ["EYVL"], "type": "CTR", "frequency": "133.305", "callsign": "Vilnius Control"},
+	"EYVL_E_CTR": {"colours": [{"hex": "#6495ed"}], "pre": ["EYVL"], "type": "CTR", "frequency": "135.380", "callsign": "Vilnius Control"},
+	"EYVL_M_CTR": {"colours": [{"hex": "#ccccff"}], "pre": ["EYVL"], "type": "CTR", "frequency": "133.430", "callsign": "Vilnius Control"},
 
-	"EYKA_APP": {"colours": [{"hex": "#40E0D0"}], "pre": ["EYKA"], "type": "APP", "frequency": "124.205", "callsign": "KAUNAS TOWER"},
-	"EYPA_APP": {"colours": [{"hex": "#008080"}], "pre": ["EYPA"], "type": "APP", "frequency": "124.305", "callsign": "PALANGA TOWER"},
-	"EYSA_APP": {"colours": [{"hex": "#9FE2BF"}], "pre": ["EYSA"], "type": "APP", "frequency": "120.405", "callsign": "SIAULIAI TOWER"},
-	"EYVI_APP": {"colours": [{"hex": "#c7b192"}], "pre": ["EYVI"], "type": "APP", "frequency": "120.705", "callsign": "VILNIUS APPROACH"},
+	"EYKA_APP": {"colours": [{"hex": "#40E0D0"}], "pre": ["EYKA"], "type": "APP", "frequency": "124.205", "callsign": "Kaunas Tower"},
+	"EYPA_APP": {"colours": [{"hex": "#008080"}], "pre": ["EYPA"], "type": "APP", "frequency": "124.305", "callsign": "Palanga Tower"},
+	"EYSA_APP": {"colours": [{"hex": "#9FE2BF"}], "pre": ["EYSA"], "type": "APP", "frequency": "120.405", "callsign": "Siauliai Tower"},
+	"EYVI_APP": {"colours": [{"hex": "#c7b192"}], "pre": ["EYVI"], "type": "APP", "frequency": "120.705", "callsign": "Vilnius Approach"},
 
-	"EYVI_TWR": {"colours": [{"hex": ""}], "pre": ["EYVI"], "type": "TWR", "frequency": "118.205", "callsign": "VILNIUS TOWER"}
+	"EYVI_TWR": {"colours": [{"hex": ""}], "pre": ["EYVI"], "type": "TWR", "frequency": "118.205", "callsign": "Vilnius Tower"}
 
 
 
@@ -2506,7 +2506,7 @@
     "callsigns": {
         "TWR": {
             "": "Tower",
-            "I": "OPC (AFIS)"
+            "I": "Information (AFIS)"
         },
         "APP": {
             "": "Approach",
