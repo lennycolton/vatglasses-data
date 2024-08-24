@@ -28832,7 +28832,7 @@
     "CM": { "colours": [{ "hex": "#055a5a" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "132.980", "callsign": "Madrid Control" },
     "CZI": { "colours": [{ "hex": "#1583f7" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "133.850", "callsign": "Madrid Control" },
     "R1": { "colours": [{ "hex": "#d8f8b4" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "125.755", "callsign": "Madrid Control" },
-    "R2": { "colours": [{ "hex": "#8cd620" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "133.200", "callsign": "Madrid Control" },
+    "R2": { "colours": [{ "hex": "#8cd620" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "133.205", "callsign": "Madrid Control" },
     "SAI": { "colours": [{ "hex": "#8cd620" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "135.955", "callsign": "Madrid Control" },
     "TLI": { "colours": [{ "hex": "#108993" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "136.405", "callsign": "Madrid Control" },
     "CMU": { "colours": [{ "hex": "#bad4d7" }], "pre": [ "LECM" ], "type": "CTR", "frequency": "136.355", "callsign": "Madrid Control" },
