@@ -2,8 +2,9 @@
   "airspace": [
     {
       "id": "High",
+      "uid": "SGU",
       "group": "LSAG",
-      "owner": ["SC", "SG", "euc/EWN"],
+      "owner": ["SC", "SG", "fss/EUCWN"],
       "sectors": [
         {
           "min": 315,
@@ -197,8 +198,9 @@
     },
     {
       "id": "Middle",
+      "uid": "SGM",
       "group": "LSAG",
-      "owner": ["SC", "SG", "euc/EWN"],
+      "owner": ["SC", "SG", "fss/EUCWN"],
       "sectors": [
         {
           "min": 245,
@@ -392,6 +394,7 @@
     },
     {
       "id": "INI East",
+      "uid": "SGE",
       "group": "LSAG",
       "owner": ["SGE", "SG", "SC"],
       "sectors": [
@@ -760,6 +763,7 @@
     },
     {
       "id": "INI North",
+      "uid": "SGN",
       "group": "LSAG",
       "owner": ["SGN", "SGE", "SG", "SC"],
       "sectors": [
@@ -946,6 +950,7 @@
     },
     {
       "id": "INI South",
+      "uid": "SGS",
       "group": "LSAG",
       "owner": ["SGS", "SGE", "SG", "SC"],
       "sectors": [
@@ -1439,8 +1444,9 @@
     },
     {
       "id": "High",
+      "uid": "SZU",
       "group": "LSAZ",
-      "owner": ["SC", "SZ", "euc/EWN"],
+      "owner": ["SC", "SZ", "fss/EUCWN"],
       "sectors": [
         {
           "min": 245,
@@ -2138,6 +2144,7 @@
     },
     {
       "id": "Low East",
+      "uid": "SZE",
       "group": "LSAZ",
       "owner": ["SZE", "SZS", "SZ", "SC"],
       "sectors": [
@@ -2226,7 +2233,7 @@
         },
         {
           "min": 105,
-          "max": 224,
+          "max": 194,
           "points": [
             ["473201", "0094359"],
             ["473934", "0095757"],
@@ -2280,6 +2287,7 @@
     },
     {
       "id": "Low North",
+      "uid": "SZN",
       "group": "LSAZ",
       "owner": ["SZN", "SZE", "SZS", "SZ", "SC"],
       "sectors": [
@@ -2435,6 +2443,7 @@
     },
     {
       "id": "Low South",
+      "uid": "SZS",
       "group": "LSAZ",
       "owner": ["SZS", "SZ", "SC"],
       "sectors": [
@@ -2944,6 +2953,7 @@
     },
     {
       "id": "Low West",
+      "uid": "SZW",
       "group": "LSAZ",
       "owner": ["SZW", "SZS", "SZ", "SC"],
       "sectors": [
@@ -3167,6 +3177,7 @@
     },
     {
       "id": "Geneva",
+      "uid": "GD",
       "group": "DEP",
       "owner": ["GD", "GA", "SGS", "SGE", "SG", "SC"],
       "sectors": [
@@ -3395,6 +3406,7 @@
     },
     {
       "id": "Zurich",
+      "uid": "ZD",
       "group": "DEP",
       "owner": ["ZD", "ZAW", "ZA", "SZE", "SZS", "SZ", "SC", "ZF"],
       "sectors": [
@@ -3780,6 +3792,7 @@
     },
     {
       "id": "Dubendorf",
+      "uid": "MDA",
       "group": "APP",
       "owner": ["MDA"],
       "sectors": [
@@ -3970,6 +3983,7 @@
     },
     {
       "id": "Emmen",
+      "uid": "ER",
       "group": "APP",
       "owner": ["ER"],
       "sectors": [
@@ -4155,6 +4169,7 @@
     },
     {
       "id": "Geneva",
+      "uid": "GA",
       "group": "APP",
       "owner": ["GA", "SGS", "SGE", "SG", "SC", "GF"],
       "sectors": [
@@ -4602,6 +4617,7 @@
     },
     {
       "id": "Sion",
+      "uid": "GSA",
       "group": "APP",
       "owner": ["GSA", "SGE", "SG", "SC"],
       "sectors": [
@@ -4711,6 +4727,7 @@
     },
     {
       "id": "Bern",
+      "uid": "ZBA",
       "group": "APP",
       "owner": ["ZBA", "SZW", "SZS", "SZ", "SC"],
       "sectors": [
@@ -4782,6 +4799,7 @@
     },
     {
       "id": "Zurich - East",
+      "uid": "ZAE",
       "group": "APP",
       "owner": ["ZA", "ZAW", "SZE", "SZS", "SZ", "SC", "ZF"],
       "sectors": [
@@ -5113,6 +5131,7 @@
     },
     {
       "id": "Zurich - West",
+      "uid": "ZAW",
       "group": "APP",
       "owner": ["ZAW", "ZA", "SZE", "SZS", "SZ", "SC", "ZF"],
       "sectors": [
@@ -5463,6 +5482,7 @@
     },
     {
       "id": "ARFA",
+      "uid": "ARFA",
       "group": "APP",
       "owner": ["ARFA", "ZA", "SZE", "SZS", "SZ", "SC", "ed/ZUG", "ed/TRU", "ed/RDG", "ed/MMC"],
       "sectors": [
@@ -5714,6 +5734,7 @@
     },
     {
       "id": "Geneva",
+      "uid": "GF",
       "group": "FIN",
       "owner": ["GF", "GA", "SGS", "SGE", "SG", "SC"],
       "sectors": [
@@ -5788,6 +5809,7 @@
     },
     {
       "id": "Zurich",
+      "uid": "ZF14",
       "group": "FIN",
       "owner": ["ZF", "ZA", "ZAW", "SZE", "SZS", "SZ", "SC"],
       "sectors": [
@@ -5813,6 +5835,7 @@
     },
     {
       "id": "Zurich",
+      "uid": "ZF281",
       "group": "FIN",
       "owner": ["ZF", "ZA", "ZAW", "SZE", "SZS", "SZ", "SC"],
       "sectors": [
@@ -5840,6 +5863,7 @@
     },
     {
       "id": "Zurich",
+      "uid": "ZF282",
       "group": "FIN",
       "owner": ["ZF", "ZAW", "ZA", "SZE", "SZS", "SZ", "SC"],
       "sectors": [
@@ -5870,6 +5894,7 @@
     },
     {
       "id": "Zurich",
+      "uid": "ZF341",
       "group": "FIN",
       "owner": ["ZF", "ZA", "ZAW", "SZE", "SZS", "SZ", "SC"],
       "sectors": [
@@ -5908,6 +5933,7 @@
     },
     {
       "id": "Zurich",
+      "uid": "ZF342",
       "group": "FIN",
       "owner": ["ZF", "ZAW", "ZA", "SZE", "SZS", "SZ", "SC"],
       "sectors": [
@@ -5989,7 +6015,7 @@
     },
     "SC": {
       "callsign": "Swiss Radar",
-      "frequency": "134.600",
+      "frequency": "135.015",
       "type": "CTR",
       "pre": ["LSAS"],
       "colours": [{ "hex": "#4f4839" }]
@@ -6010,14 +6036,14 @@
     },
     "SZE": {
       "callsign": "Swiss Radar",
-      "frequency": "133.900",
+      "frequency": "133.905",
       "type": "CTR",
       "pre": ["LSAZ"],
       "colours": [{ "hex": "#556865" }]
     },
     "SZN": {
       "callsign": "Swiss Radar",
-      "frequency": "135.150",
+      "frequency": "136.155",
       "type": "CTR",
       "pre": ["LSAZ"],
       "colours": [{ "hex": "#52aa08" }]
@@ -6031,7 +6057,7 @@
     },
     "SZW": {
       "callsign": "Swiss Radar",
-      "frequency": "135.675",
+      "frequency": "135.680",
       "type": "CTR",
       "pre": ["LSAZ"],
       "colours": [{ "hex": "#8aeb51" }]
@@ -6101,28 +6127,28 @@
     },
     "ZA": {
       "callsign": "Zurich Arrival",
-      "frequency": "135.225",
+      "frequency": "135.230",
       "type": "APP",
       "pre": ["LSZH"],
       "colours": [{ "hex": "#b5e0da" }]
     },
     "ZD": {
       "callsign": "Zurich Departure",
-      "frequency": "125.950",
+      "frequency": "125.955",
       "type": "DEP",
       "pre": ["LSZH"],
       "colours": [{ "hex": "#d7e983" }]
     },
     "ZF": {
       "callsign": "Zurich Final",
-      "frequency": "125.325",
+      "frequency": "125.330",
       "type": "APP",
       "pre": ["LSZH"],
       "colours": [{ "hex": "#13b7be" }]
     },
     "ZAW": {
       "callsign": "Zurich Arrival",
-      "frequency": "130.550",
+      "frequency": "130.560",
       "type": "APP",
       "pre": ["LSZH"],
       "colours": [{ "hex": "#1c255e" }]

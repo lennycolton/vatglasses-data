@@ -6,8 +6,8 @@
             "owner": [
                 "HA",
                 "HC",
-                "CAW",
-                "CAC"
+                "fss/CARW",
+                "fss/CARI"
             ],
             "sectors": [
                 {
@@ -39,8 +39,8 @@
                 "HB",
                 "HA",
                 "HC",
-                "CAW",
-                "CAC"
+                "fss/CARW",
+                "fss/CARI"
             ],
             "sectors": [
                 {
@@ -90,8 +90,8 @@
             "group": "MUFH",
             "owner": [
                 "HC",
-                "CAW",
-                "CAC"
+                "fss/CARW",
+                "fss/CARI"
             ],
             "sectors": [
                 {
@@ -124,8 +124,8 @@
             "owner": [
                 "HD",
                 "HC",
-                "CAW",
-                "CAC"
+                "fss/CARW",
+                "fss/CARI"
             ],
             "sectors": [
                 {
@@ -577,32 +577,6 @@
             "colours": [
                 {
                     "hex": "#000059"
-                }
-            ]
-        },
-        "CAC": {
-            "callsign": "Caribbean Control",
-            "frequency": "131.300",
-            "type": "FSS",
-            "pre": [
-                "CARI"
-            ],
-            "colours": [
-                {
-                    "hex": "#87ceeb"
-                }
-            ]
-        },
-        "CAW": {
-            "callsign": "Caribbean Control",
-            "frequency": "131.350",
-            "type": "FSS",
-            "pre": [
-                "CARI"
-            ],
-            "colours": [
-                {
-                    "hex": "#87ceeb"
                 }
             ]
         }

@@ -6,7 +6,7 @@
             "owner": [
                 "RRW",
                 "RR",
-                "afr/AN"
+                "fss/AFRN"
             ],
             "sectors": [
                 {
@@ -282,7 +282,7 @@
             "group": "DRRR",
             "owner": [
                 "RR",
-                "afr/AN"
+                "fss/AFRN"
             ],
             "sectors": [
                 {
@@ -466,7 +466,7 @@
                 "FF",
                 "RRW",
                 "RR",
-                "afr/AN"
+                "fss/AFRN"
             ],
             "sectors": [
                 {

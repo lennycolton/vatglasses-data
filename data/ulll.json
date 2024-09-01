@@ -110,9 +110,16 @@
     }
   },
   "positions": {
-    "LL": { "callsign": "Sankt Peterburg Control", "frequency": "135.600", "pre": ["ULLL"], "type": "CTR", "colours": [{"hex": "#f7941d"}] },
-    "AM": { "callsign": "Murmansk Control", "frequency": "132.100", "pre": ["ULLL", "ULMM"], "type": "CTR", "colours": [{"hex": "#f7941d"}] },
-    "MMO": { "callsign": "Murmansk Control", "frequency": "126.900", "pre": ["ULLL", "ULMM"], "type": "CTR", "colours": [{"hex": "#f7941d"}] }
+    "LL": { "callsign": "Peterburg Control", "frequency": "135.600", "pre": ["ULLL"], "type": "CTR", "colours": [{"hex": "#888888"}] },
+    "AM": { "callsign": "Murmansk Control", "frequency": "132.100", "pre": ["ULLL", "ULMM"], "type": "CTR", "colours": [{"hex": "#888888"}] },
+    "AR": { "callsign": "Arkhangelsk Control", "frequency": "132.150", "pre": ["ULLL", "ULMM"], "type": "CTR", "colours": [{"hex": "#888888"}] },
+    "KT": { "callsign": "Kotlas Control", "frequency": "129.900", "pre": ["ULLL", "ULMM"], "type": "CTR", "colours": [{"hex": "#888888"}] },
+    "MMO": { "callsign": "Murmansk Control", "frequency": "126.900", "pre": ["ULLL", "ULMM"], "type": "CTR", "colours": [{"hex": "#f7941d"}] },
+    "NM": { "callsign": "Naryan Mar Control", "frequency": "133.200", "pre": ["ULLL", "ULMM"], "type": "CTR", "colours": [{"hex": "#888888"}] },
+    "R": { "callsign": "Peterburg Control", "frequency": "129.250", "pre": ["ULLL", "ULMM"], "type": "CTR", "colours": [{"hex": "#888888"}] },
+    "S": { "callsign": "Syktyvkar Control", "frequency": "133.300", "pre": ["ULLL", "ULMM"], "type": "CTR", "colours": [{"hex": "#888888"}] },
+    "WK": { "callsign": "Vologda Control", "frequency": "132.900", "pre": ["ULLL", "ULMM"], "type": "CTR", "colours": [{"hex": "#888888"}] },
+    "UMKK": { "callsign": "Kaliningrad Control", "frequency": "123.700", "pre": ["UMKK"], "type": "CTR", "colours": [{ "hex": "#888888" }]}
   },
   "callsigns": {
     "DEL": {

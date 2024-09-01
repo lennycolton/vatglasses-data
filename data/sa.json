@@ -3,7 +3,7 @@
     {
       "id": "Centro Sur",
       "group": "SACF",
-      "owner": ["COS","COR","sam/SS"],
+      "owner": ["COS","COR","fss/SAMS"],
       "sectors": [
         {
           "min": 245,
@@ -411,7 +411,7 @@
     {
       "id": "Centro Norte",
       "group": "SACF",
-      "owner": ["CON","COR","sam/SS"],
+      "owner": ["CON","COR","fss/SAMS"],
       "sectors": [
         {
           "min": 245,
@@ -3231,7 +3231,7 @@
     {
       "id": "Centro Sur",
       "group": "SAEF",
-      "owner": ["EZS","EZC","sam/SS"],
+      "owner": ["EZS","EZC","fss/SAMS"],
       "sectors": [
         {
           "min": 245,
@@ -3699,7 +3699,7 @@
     {
       "id": "Centro Norte",
       "group": "SAEF",
-      "owner": ["EZN","EZC","sam/SS"],
+      "owner": ["EZN","EZC","fss/SAMS"],
       "sectors": [
         {
           "min": 245,
@@ -4117,7 +4117,7 @@
       "group": "SAEF",
       "owner": [
         "EZO",
-        "sam/SS"
+        "fss/SAMS"
       ],
       "sectors": [
         {
@@ -5490,7 +5490,7 @@
     {
       "id": "Centro",
       "group": "SAMF",
-      "owner": ["MEC", "sam/SS"],
+      "owner": ["MEC", "fss/SAMS"],
       "sectors": [
         {
           "min": 245,
@@ -7292,7 +7292,7 @@
     {
       "id": "Centro",
       "group": "SARR",
-      "owner": ["REC", "sam/SS"],
+      "owner": ["REC", "fss/SAMS"],
       "sectors": [
         {
           "min": 245,
@@ -8676,7 +8676,7 @@
       "group": "SAVF",
       "owner": [
         "CMO",
-        "sam/SS"
+        "fss/SAMS"
       ],
       "sectors": [
         {
@@ -8815,7 +8815,7 @@
     {
       "id": "Centro Norte",
       "group": "SAVF",
-      "owner": ["CMN","CMC","sam/SS"],
+      "owner": ["CMN","CMC","fss/SAMS"],
       "sectors": [
         {
           "min": 245,
@@ -9345,7 +9345,7 @@
     {
       "id": "Centro Sur",
       "group": "SAVF",
-      "owner": ["CMS","CMC","sam/SS"],
+      "owner": ["CMS","CMC","fss/SAMS"],
       "sectors": [
         {
           "min": 245,

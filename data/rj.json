@@ -202,7 +202,7 @@
     }
   },
   "positions": {
-    "FSS": { "colours": [{ "hex": "#db0d3f" }], "pre": [ "RJTG" ], "type": "FSS","frequency": "126.700","callsign": "Tokyo Radio" }
+    "FSS": { "colours": [{ "hex": "#db0d3f" }], "pre": [ "RJTG" ], "type": "FSS","frequency": "127.400","callsign": "Tokyo Radio" }
   },
   "callsigns": {
     "DEL": {

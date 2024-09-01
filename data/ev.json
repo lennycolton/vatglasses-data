@@ -3,7 +3,7 @@
     {
       "id": "Riga A",
       "group": "APP",
-      "owner": ["RA", "RCE", "RC", "euc/EN"],
+      "owner": ["RA", "RCE", "RCN", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -171,7 +171,7 @@
     {
       "id": "Riga A",
       "group": "APP",
-      "owner": ["RA", "RCE", "RC"],
+      "owner": ["RA", "RCE", "RCN"],
       "sectors": [
         {
           "min": 30,
@@ -339,7 +339,7 @@
     {
       "id": "Riga B",
       "group": "APP",
-      "owner": ["RB", "RA", "RCE", "RC"],
+      "owner": ["RB", "RA", "RCE", "RCN"],
       "sectors": [
         {
           "min": 15,
@@ -549,7 +549,7 @@
     {
       "id": "Riga C",
       "group": "APP",
-      "owner": ["RA", "RCE", "RC"],
+      "owner": ["RA", "RCE", "RCN"],
       "sectors": [
         {
           "min": 30,
@@ -580,7 +580,7 @@
     {
       "id": "Riga",
       "group": "TWR",
-      "owner": ["RT", "RB", "RA", "RCE", "RC"],
+      "owner": ["RT", "RB", "RA", "RCE", "RCN"],
       "sectors": [
         {
           "min": 0,
@@ -604,7 +604,7 @@
     {
       "id": "East",
       "group": "EVRR",
-      "owner": ["RCE", "RC"],
+      "owner": ["RCE", "RCN"],
       "sectors": [
         {
           "min": 95,
@@ -976,7 +976,7 @@
     {
       "id": "East",
       "group": "EVRR",
-      "owner": ["RCE", "RC", "euc/EN"],
+      "owner": ["RCE", "RCN", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -1348,7 +1348,7 @@
     {
       "id": "East",
       "group": "EVRR",
-      "owner": ["RCE", "RC", "euc/EN"],
+      "owner": ["RCE", "RCN", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -1853,7 +1853,7 @@
     {
       "id": "North",
       "group": "EVRR",
-      "owner": ["RCN", "RCW", "RC"],
+      "owner": ["RCN", "RCW"],
       "sectors": [
         {
           "min": 95,
@@ -1904,7 +1904,7 @@
     {
       "id": "North",
       "group": "EVRR",
-      "owner": ["RCN", "RCW", "RC", "euc/EN"],
+      "owner": ["RCN", "RCW", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -1955,7 +1955,7 @@
     {
       "id": "South",
       "group": "EVRR",
-      "owner": ["RCS", "RCW", "RC"],
+      "owner": ["RCS", "RCW", "RCN"],
       "sectors": [
         {
           "min": 95,
@@ -2051,7 +2051,7 @@
     {
       "id": "South",
       "group": "EVRR",
-      "owner": ["RCS", "RCW", "RC", "euc/EN"],
+      "owner": ["RCS", "RCW", "RCN", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -2157,13 +2157,6 @@
     }
   },
   "positions": {
-    "BALT": {
-      "callsign": "Baltic Control",
-      "frequency": "132.300",
-      "type": "CTR",
-      "pre": ["BALT"],
-      "colours": [{ "hex": "#818c00" }]
-    },
     "LT": {
       "callsign": "Lielvarde Tower",
       "frequency": "118.155",
@@ -2198,13 +2191,6 @@
       "type": "TWR",
       "pre": ["EVRA"],
       "colours": [{ "hex": "#00d900" }]
-    },
-    "RC": {
-      "callsign": "Riga Control",
-      "frequency": "135.100",
-      "type": "CTR",
-      "pre": ["EVRR"],
-      "colours": [{ "hex": "#ad8c00" }]
     },
     "RCE": {
       "callsign": "Riga Control",
@@ -2263,12 +2249,12 @@
     "EVLA": {
       "callsign": "Liepaja",
       "coord": [56.517525, 21.097058],
-      "topdown": ["RI", "RCS", "RCW", "RC"]
+      "topdown": ["RI", "RCS", "RCW", "RCN"]
     },
     "EVRA": {
       "callsign": "Riga",
       "coord": [56.923661, 23.971197],
-      "topdown": ["RB", "RA", "RCE", "RC"]
+      "topdown": ["RB", "RA", "RCE", "RCN"]
     }
   },
   "EVAA": { "callsign": "Aizpute", "coord": [56.697045, 21.629099] },

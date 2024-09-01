@@ -5,7 +5,7 @@
             "group": "FSSO",
             "owner": [
                 "SSO",
-                "afr/AC"
+                "fss/AFRC"
             ],
             "sectors": [
                 {
@@ -279,7 +279,7 @@
             "owner": [
                 "SS",
                 "SSO",
-                "afr/AC"
+                "fss/AFRC"
             ],
             "sectors": [
                 {

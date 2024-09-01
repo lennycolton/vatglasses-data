@@ -138,7 +138,7 @@
       "owner": [
         "CW",
         "ZAC",
-        "afr/AS"
+        "fss/AFRS"
       ],
       "sectors": [
         {
@@ -267,7 +267,7 @@
         "CE",
         "CW",
         "ZAC",
-        "afr/AS"
+        "fss/AFRS"
       ],
       "sectors": [
         {
@@ -626,7 +626,7 @@
         "JC",
         "JNE",
         "ZAC",
-        "afr/AS"
+        "fss/AFRS"
       ],
       "sectors": [
         {
@@ -1023,7 +1023,7 @@
         "JC",
         "JNE",
         "ZAC",
-        "afr/AS"
+        "fss/AFRS"
       ],
       "sectors": [
         {
@@ -1235,7 +1235,7 @@
         "JC",
         "JNE",
         "ZAC",
-        "afr/AS"
+        "fss/AFRS"
       ],
       "sectors": [
         {
@@ -3214,7 +3214,7 @@
         "JNW",
         "JNE",
         "ZAC",
-        "afr/AS"
+        "fss/AFRS"
       ],
       "sectors": [
         {
@@ -5664,7 +5664,7 @@
       "owner": [
         "JNE",
         "ZAC",
-        "afr/AS"
+        "fss/AFRS"
       ],
       "sectors": [
         {
@@ -6196,7 +6196,7 @@
         "JSE",
         "JNE",
         "ZAC",
-        "afr/AS"
+        "fss/AFRS"
       ],
       "sectors": [
         {
@@ -6280,7 +6280,7 @@
         "JSW",
         "JNE",
         "ZAC",
-        "afr/AS"
+        "fss/AFRS"
       ],
       "sectors": [
         {
