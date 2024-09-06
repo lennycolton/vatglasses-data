@@ -4120,7 +4120,7 @@
       "id": "Frankfurt 1",
       "group": "EDUU",
       "uid": "FFM1",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
+      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 324,
@@ -4182,7 +4182,7 @@
       "id": "Frankfurt 2",
       "group": "EDUU",
       "uid": "FFM2",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
+      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -4211,7 +4211,7 @@
       "id": "Frankfurt 3",
       "group": "EDUU",
       "uid": "FFM3",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
+      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -4240,7 +4240,7 @@
       "id": "Frankfurt 4",
       "group": "EDUU",
       "uid": "FFM4",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
+      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -4268,7 +4268,7 @@
       "id": "Fulda 1",
       "group": "EDUU",
       "uid": "FUL1",
-      "owner": ["FUL", "FFM", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
+      "owner": ["FUL", "FFM", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -4354,7 +4354,7 @@
       "id": "Fulda 2",
       "group": "EDUU",
       "uid": "FUL2",
-      "owner": ["FUL", "FFM", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
+      "owner": ["FUL", "FFM", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -4404,7 +4404,7 @@
       "id": "Fulda 3",
       "group": "EDUU",
       "uid": "FUL3",
-      "owner": ["FUL", "FFM", "WUR", "GIN", "RUD", "KTG", "fss/EUCME"],
+      "owner": ["FUL", "FFM", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -6283,7 +6283,7 @@
       "id": "Nattenheim 1",
       "group": "EDUU",
       "uid": "NTM1",
-      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 264,
@@ -6479,7 +6479,7 @@
       "id": "Nattenheim 2",
       "group": "EDUU",
       "uid": "NTM2",
-      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -6573,7 +6573,7 @@
       "id": "Nattenheim 3",
       "group": "EDUU",
       "uid": "NTM3",
-      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -6667,7 +6667,7 @@
       "id": "Nattenheim 4",
       "group": "EDUU",
       "uid": "NTM4",
-      "owner": ["NTM", "FUL", "WUR", "RUD", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -7762,7 +7762,7 @@
       "id": "Söllingen 1",
       "group": "EDUU",
       "uid": "SLN1",
-      "owner": ["SLN", "TGO", "NTM", "WUR", "BAD", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["SLN", "TGO", "NTM", "WUR", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -7986,7 +7986,7 @@
       "id": "Söllingen 2",
       "group": "EDUU",
       "uid": "SLN2",
-      "owner": ["SLN", "TGO", "NTM", "WUR", "BAD", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["SLN", "TGO", "NTM", "WUR", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -8210,7 +8210,7 @@
       "id": "Söllingen 3",
       "group": "EDUU",
       "uid": "SLN3",
-      "owner": ["SLN", "TGO", "NTM", "WUR", "BAD", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["SLN", "TGO", "NTM", "WUR", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -8751,7 +8751,7 @@
       "id": "Tango 1",
       "group": "EDUU",
       "uid": "TGO1",
-      "owner": ["TGO", "WUR", "SLN", "BAD", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["TGO", "WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -8825,7 +8825,7 @@
       "id": "Tango 2",
       "group": "EDUU",
       "uid": "TGO2",
-      "owner": ["TGO", "WUR", "SLN", "BAD", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["TGO", "WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -8871,7 +8871,7 @@
       "id": "Tango 3",
       "group": "EDUU",
       "uid": "TGO3",
-      "owner": ["TGO", "WUR", "SLN", "BAD", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["TGO", "WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
@@ -8916,7 +8916,7 @@
       "id": "Würzburg 1",
       "group": "EDUU",
       "uid": "WUR1",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "fss/EUCME"],
+      "owner": ["WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 324,
@@ -8996,7 +8996,7 @@
       "id": "Würzburg 2",
       "group": "EDUU",
       "uid": "WUR2",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "fss/EUCME"],
+      "owner": ["WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 354,
@@ -9038,7 +9038,7 @@
       "id": "Würzburg 3",
       "group": "EDUU",
       "uid": "WUR3",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "fss/EUCME"],
+      "owner": ["WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "max": 374,
@@ -9080,7 +9080,7 @@
       "id": "Würzburg 4",
       "group": "EDUU",
       "uid": "WUR4",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "BAD", "fss/EUCME"],
+      "owner": ["WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
       "sectors": [
         {
           "min": 375,
