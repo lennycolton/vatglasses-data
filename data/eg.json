@@ -30130,6 +30130,11 @@
             "S"
         ]
     },
+    "EGET": {
+      "callsign": "Tingwall",
+      "coord": [ 60.191667, -1.243333 ],
+      "major": "EGPB"
+    },
     "EGPC": {
         "callsign": "Wick",
         "coord": [
@@ -30589,7 +30594,6 @@
     "EGEP": { "callsign": "Papa Westray", "coord": [ 59.351667, -2.900556 ] },
     "EGER": { "callsign": "Stronsay", "coord": [ 59.158056, -2.641111 ] },
     "EGES": { "callsign": "Sanday", "coord": [ 59.250278, -2.576667 ] },
-    "EGET": { "callsign": "Tingwall", "coord": [ 60.191667, -1.243333 ] },
     "EGEW": { "callsign": "Westray", "coord": [ 59.351389, -2.950278 ] },
     "EGEY": { "callsign": "Colonsay", "coord": [ 56.0575, -6.243056 ] },
     "EGFA": { "callsign": "Aberporth", "coord": [ 52.114722, -4.559444 ] },
