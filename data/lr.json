@@ -7048,8 +7048,8 @@
         "LRUP": {"colours": [{"hex": "#7399eb"}], "pre": ["LRBB"], "type": "CTR", "frequency": "132.865","callsign": "Bucharest Radar"},
         "LRH": {"colours": [{"hex": "#171e2f"}], "pre": ["LRBB"], "type": "CTR", "frequency": "134.380","callsign": "Bucharest Radar"},
 
-        "APA": {"colours": [{"hex": "#d8ed6f"}], "pre": ["LRAR"], "type": "APP", "frequency": "125.530","callsign": "Arad Approach"},
-        "APB": {"colours": [{"hex": "#a6e673"}], "pre": ["LROP"], "type": "APP", "frequency": "119.415","callsign": "Bucharest Approach"},
+        "APA": {"colours": [{"hex": "#d8ed6f"}], "pre": ["LRAR"], "type": "APP", "frequency": "123.530","callsign": "Arad Approach"},
+        "APB": {"colours": [{"hex": "#22e37f"}], "pre": ["LROP"], "type": "APP", "frequency": "119.415","callsign": "Bucharest Approach"},
         "APC": {"colours": [{"hex": "#80e37b"}], "pre": ["LRCK"], "type": "APP", "frequency": "122.905","callsign": "Constanta Approach"},
         "APN": {"colours": [{"hex": "#4e9173"}], "pre": ["LRCL"], "type": "APP", "frequency": "126.430","callsign": "NAPOC Approach"},
 
