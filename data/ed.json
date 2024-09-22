@@ -10097,7 +10097,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "25"
+                "runway": "24"
               }
             ],
             "points": [
@@ -10114,7 +10114,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "07"
+                "runway": "06"
               }
             ],
             "points": [
@@ -10190,7 +10190,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "25"
+                "runway": "24"
               }
             ],
             "points": [
@@ -10227,7 +10227,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "07"
+                "runway": "06"
               }
             ],
             "points": [
@@ -10247,7 +10247,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "07"
+                "runway": "06"
               }
             ],
             "points": [
@@ -10266,7 +10266,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "07"
+                "runway": "06"
               }
             ],
             "points": [
@@ -10322,7 +10322,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "07"
+                "runway": "06"
               }
             ],
             "points": [
@@ -10341,7 +10341,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "25"
+                "runway": "24"
               }
             ],
             "points": [
@@ -10421,7 +10421,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "07"
+                "runway": "06"
               }
             ],
             "points": [
@@ -10436,7 +10436,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "07"
+                "runway": "06"
               }
             ],
             "points": [
@@ -10474,7 +10474,7 @@
             "runways": [
               {
                 "icao": "EDDB",
-                "runway": "25"
+                "runway": "24"
               }
             ],
             "points": [
@@ -11612,7 +11612,7 @@
         "id": "Mark",
         "group": "EDWW",
         "uid": "MAR",
-        "owner": ["MAR", "MRZ", "BOR", "WWC"],
+        "owner": ["MAR", "MRZ", "BOR", "FLG", "WWC"],
         "sectors": [
           {
             "max": 284,
