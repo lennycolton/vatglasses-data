@@ -11612,7 +11612,7 @@
         "id": "Mark",
         "group": "EDWW",
         "uid": "MAR",
-        "owner": ["MAR", "MRZ", "BOR", "WWC"],
+        "owner": ["MAR", "MRZ", "BOR", "FLG", "WWC"],
         "sectors": [
           {
             "max": 284,
