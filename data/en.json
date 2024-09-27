@@ -2,7 +2,7 @@
   "airspace": [
     {
       "id": "ENASTZ",
-      "group": "Polaris FIR",
+      "group": "ENOB",
       "owner": [
         "ASI",
         "R6"
@@ -34,7 +34,7 @@
     },
     {
       "id": "ENSBTZ",
-      "group": "Polaris FIR",
+      "group": "ENOB",
       "owner": [
         "SBI",
         "R6"
@@ -14745,7 +14745,7 @@
     },
     {
       "id": "LONGYEAR N TIA",
-      "group": "Polaris FIR",
+      "group": "ENOB",
       "owner": [
         "SBI",
         "R6"
@@ -14797,7 +14797,7 @@
     },
     {
       "id": "LONGYEAR S TIA",
-      "group": "Polaris FIR",
+      "group": "ENOB",
       "owner": [
         "SBI",
         "R6"
@@ -14845,7 +14845,7 @@
     },
     {
       "id": "SVALBARD TIA",
-      "group": "Polaris FIR",
+      "group": "ENOB",
       "owner": [
         "R6"
       ],
@@ -35792,7 +35792,7 @@
     },
     {
       "id": "ENOB OFIR",
-      "group": "Polaris FIR",
+      "group": "ENOB",
       "owner": [
         "R6"
       ],
