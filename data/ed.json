@@ -14002,7 +14002,7 @@
     "EDDB": {
       "callsign": "Berlin",
       "coord": [52.362166666667, 13.500666666667],
-      "runways": ["25", "07"],
+      "runways": ["24", "06"],
       "topdown": ["DBDS", "DBDN", "DBAS", "DBAN", "BOR", "MAR", "MRZ", "WWC"]
     },
     "EDDH": {
