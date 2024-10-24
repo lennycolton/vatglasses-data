@@ -579,7 +579,7 @@
       {
         "id": "LIPP-SD4",
         "group": "LIPP",
-        "owner": ["PSU", "PNU", "PSD", "PCE", "PNE", "fss/EUCES"],
+        "owner": ["PSU", "PNU", "PSD", "PCE", "PNE", "MMU", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -791,7 +791,7 @@
       {
         "id": "LIPP-NE6",
         "group": "LIPP",
-        "owner": ["PNU", "PSU", "PNE", "PCE", "PSD", "fss/EUCES"],
+        "owner": ["PNU", "PSU", "PNE", "PCE", "PSD", "MMU", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -933,7 +933,7 @@
       {
         "id": "LIPP-NE5",
         "group": "LIPP",
-        "owner": ["PNE", "PCE", "PSD", "LIPP", "LIMM", "fss/EUCES"],
+        "owner": ["PNE", "PCE", "PSD", "LIPP", "fss/EUCES"],
         "sectors": [
           {
             "min": 245,
@@ -1075,7 +1075,7 @@
       {
         "id": "LIPP-NE4",
         "group": "LIPP",
-        "owner": ["PNE", "PCE", "PSD", "LIPP", "LIMM"],
+        "owner": ["PNE", "PCE", "PSD", "LIPP"],
         "sectors": [
           {
             "min": 195,
@@ -1217,7 +1217,7 @@
       {
         "id": "LIPP-NE3",
         "group": "LIPP",
-        "owner": ["PNE", "PCE", "PSD", "LIPP", "LIMM"],
+        "owner": ["PNE", "PCE", "PSD", "LIPP"],
         "sectors": [
           {
             "min": 165,
@@ -1660,7 +1660,7 @@
       {
         "id": "LIPP-CE6",
         "group": "LIPP",
-        "owner": ["PSU", "PNU", "PCE", "PSD", "PNE", "LIPP", "LIMM", "fss/EUCES"],
+        "owner": ["PSU", "PNU", "PCE", "PSD", "PNE", "LIPP", "MMU", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -2011,7 +2011,7 @@
       {
         "id": "LIMM-WS5",
         "group": "LIMM",
-        "owner": ["MWU", "MEU", "MWS", "MWN", "MEN", "MES", "LIMM", "fss/EUCWN"],
+        "owner": ["MWU", "MEU", "MWS", "MWN", "MEN", "MES", "MMU", "fss/EUCWN"],
         "sectors": [
           {
             "min": 305,
@@ -2053,7 +2053,7 @@
       {
         "id": "LIMM-WS4",
         "group": "LIMM",
-        "owner": ["MWS", "MWN", "MEN", "MES", "LIMM", "fss/EUCWN"],
+        "owner": ["MWS", "MWN", "MEN", "MES", "fss/EUCWN"],
         "sectors": [
           {
             "min": 245,
@@ -2223,7 +2223,7 @@
       {
         "id": "LIMM-WN4",
         "group": "LIMM",
-        "owner": ["MWU", "MEU", "MWN", "MWS", "MEN", "MES", "LIMM", "fss/EUCWN"],
+        "owner": ["MWU", "MEU", "MWN", "MWS", "MEN", "MES", "MMU", "fss/EUCWN"],
         "sectors": [
           {
             "min": 305,
@@ -2520,7 +2520,7 @@
       {
         "id": "LIMM-ES4",
         "group": "LIMM",
-        "owner": ["MEU", "MWU", "MES", "MEN", "MWS", "MWN", "LIMM", "fss/EUCWN"],
+        "owner": ["MEU", "MWU", "MES", "MEN", "MWS", "MWN", "MMU", "fss/EUCWN"],
         "sectors": [
           {
             "min": 305,
@@ -2683,7 +2683,7 @@
       {
         "id": "LIMM-EN4",
         "group": "LIMM",
-        "owner": ["MEU", "MWU", "MEN", "MES", "MWS", "MWN", "LIMM", "fss/EUCWN"],
+        "owner": ["MEU", "MWU", "MEN", "MES", "MWS", "MWN", "MMU", "fss/EUCWN"],
         "sectors": [
           {
             "min": 305,
