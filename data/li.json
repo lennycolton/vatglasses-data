@@ -606,9 +606,7 @@
               ["434635", "0114928"],
               ["434057", "0120349"],
               ["433734", "0121230"],
-              ["433732", "0121235"],
-              ["431654", "0131404"],
-              ["431654", "0131404"],
+              ["431742", "0130212"],
               ["431503", "0134056"],
               ["433353", "0142534"],
               ["433353", "0142534"],
@@ -624,8 +622,8 @@
               ["444659", "0131206"],
               ["445533", "0130736"],
               ["445533", "0130736"],
-              ["444534", "0105654"]
-            ]
+              ["444534", "0105654"]  
+			]			  
           }
         ]
       },
@@ -659,9 +657,7 @@
               ["434635", "0114928"],
               ["434057", "0120349"],
               ["433734", "0121230"],
-              ["433732", "0121235"],
-              ["431654", "0131404"],
-              ["431654", "0131404"],
+              ["431742", "0130212"],
               ["431503", "0134056"],
               ["433353", "0142534"],
               ["433353", "0142534"],
@@ -677,7 +673,7 @@
               ["444659", "0131206"],
               ["445533", "0130736"],
               ["445533", "0130736"],
-              ["444534", "0105654"]
+              ["444534", "0105654"]            
             ]
           }
         ]
@@ -712,9 +708,7 @@
               ["434635", "0114928"],
               ["434057", "0120349"],
               ["433734", "0121230"],
-              ["433732", "0121235"],
-              ["431654", "0131404"],
-              ["431654", "0131404"],
+              ["431742", "0130212"],
               ["431503", "0134056"],
               ["433353", "0142534"],
               ["433353", "0142534"],
@@ -730,7 +724,7 @@
               ["444659", "0131206"],
               ["445533", "0130736"],
               ["445533", "0130736"],
-              ["444534", "0105654"]
+              ["444534", "0105654"]            
             ]
           }
         ]
@@ -765,9 +759,7 @@
               ["434635", "0114928"],
               ["434057", "0120349"],
               ["433734", "0121230"],
-              ["433732", "0121235"],
-              ["431654", "0131404"],
-              ["431654", "0131404"],
+              ["431742", "0130212"],
               ["431503", "0134056"],
               ["433353", "0142534"],
               ["433353", "0142534"],
@@ -783,7 +775,7 @@
               ["444659", "0131206"],
               ["445533", "0130736"],
               ["445533", "0130736"],
-              ["444534", "0105654"]
+              ["444534", "0105654"]            
             ]
           }
         ]
@@ -9997,29 +9989,29 @@
         "pre": ["LIMM"],
         "colours": [{ "hex": "#6fe75c" }]
       },
-      "LIMM": {
-        "callsign": "Milano Control",
+      "MMU": {
+        "callsign": "Milano Radar",
         "frequency": "132.905",
         "type": "CTR",
         "pre": ["LIMM"],
         "colours": [{ "hex": "#009933" }]
       },
       "MEN": {
-        "callsign": "Milano Control",
+        "callsign": "Milano Radar",
         "frequency": "127.450",
         "type": "CTR",
         "pre": ["LIMM"],
         "colours": [{ "hex": "#009980" }]
       },
       "MES": {
-        "callsign": "Milano Control",
+        "callsign": "Milano Radar",
         "frequency": "130.730",
         "type": "CTR",
         "pre": ["LIMM"],
         "colours": [{ "hex": "#199900" }]
       },
       "MEU": {
-        "callsign": "Milano Control",
+        "callsign": "Milano Radar",
         "frequency": "136.035",
         "type": "CTR",
         "pre": ["LIMM"],
@@ -10040,21 +10032,21 @@
         "colours": [{ "hex": "#00cc00" }]
       },
       "MWN": {
-        "callsign": "Milano Control",
+        "callsign": "Milano Radar",
         "frequency": "125.275",
         "type": "CTR",
         "pre": ["LIMM"],
         "colours": [{ "hex": "#00b500" }]
       },
       "MWS": {
-        "callsign": "Milano Control",
+        "callsign": "Milano Radar",
         "frequency": "135.455",
         "type": "CTR",
         "pre": ["LIMM"],
         "colours": [{ "hex": "#008400" }]
       },
       "MWU": {
-        "callsign": "Milano Control",
+        "callsign": "Milano Radar",
         "frequency": "133.740",
         "type": "CTR",
         "pre": ["LIMM"],
@@ -10166,14 +10158,14 @@
         "colours": [{ "hex": "#ffff66" }]
       },
       "PCE": {
-        "callsign": "Padova Control",
+        "callsign": "Padova Radar",
         "frequency": "120.725",
         "type": "CTR",
         "pre": ["LIPP"],
         "colours": [{ "hex": "#b3ff66" }]
       },
       "LIPP": {
-        "callsign": "Padova Control",
+        "callsign": "Padova Radar",
         "frequency": "125.485",
         "type": "CTR",
         "pre": ["LIPP"],
@@ -10194,28 +10186,28 @@
         "colours": [{ "hex": "#000d00" }]
       },
       "PNE": {
-        "callsign": "Padova Control",
+        "callsign": "Padova Radar",
         "frequency": "125.900",
         "type": "CTR",
         "pre": ["LIPP"],
         "colours": [{ "hex": "#66ffb3" }]
       },
       "PNU": {
-        "callsign": "Padova Control",
+        "callsign": "Padova Radar",
         "frequency": "133.705",
         "type": "CTR",
         "pre": ["LIPP"],
         "colours": [{ "hex": "#b2ffb2" }]
       },
       "PSD": {
-        "callsign": "Padova Control",
+        "callsign": "Padova Radar",
         "frequency": "134.750",
         "type": "CTR",
         "pre": ["LIPP"],
         "colours": [{ "hex": "#66ff66" }]
       },
       "PSU": {
-        "callsign": "Padova Control",
+        "callsign": "Padova Radar",
         "frequency": "136.465",
         "type": "CTR",
         "pre": ["LIPP"],
@@ -10697,6 +10689,13 @@
         "pre": ["LIRR"],
         "colours": [{ "hex": "#d8d8d8" }]
       },
+      "RNC": {
+        "callsign": "Roma Radar",
+        "frequency": "132.450",
+        "type": "CTR",
+        "pre": ["LIRR"],
+        "colours": [{ "hex": "#d8d8d8" }]
+      },
       "RAS": {
         "callsign": "Roma Radar",
         "frequency": "130.900",
@@ -10759,13 +10758,6 @@
         "type": "TWR",
         "pre": ["LIRZ"],
         "colours": [{ "hex": "#ffff66" }]
-      },
-      "IUP": {
-        "callsign": "Italy Radar",
-        "frequency": "132.900",
-        "type": "CTR",
-        "pre": ["LIUP"],
-        "colours": [{ "hex": "#005200" }]
       }
   },
   "callsigns": {
