@@ -251,7 +251,7 @@
       {
         "id": "LIRRNORD_UIR",
         "group": "LIRR",
-        "owner": ["RRU", "RRN", "IUP", "fss/EUCES"],
+        "owner": ["RRU", "RRN", "fss/EUCES"],
         "sectors": [
           {
             "min": 305,
@@ -4037,7 +4037,7 @@
       {
         "id": "LIRZAPP2",
         "group": "APP",
-        "owner": ["RZA", "RRN", "RRS"],
+        "owner": ["RZA", "RRN"],
         "sectors": [
           {
             "min": 25,
@@ -4112,7 +4112,7 @@
       {
         "id": "LIRZAPP1",
         "group": "APP",
-        "owner": ["RZA", "RRN", "RRS"],
+        "owner": ["RZA", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -4174,7 +4174,7 @@
       {
         "id": "LIRSAPP5",
         "group": "APP",
-        "owner": ["RSA", "RRN", "RRS"],
+        "owner": ["RSA", "RRN"],
         "sectors": [
           {
             "min": 15,
@@ -4194,7 +4194,7 @@
       {
         "id": "LIRSAPP4",
         "group": "APP",
-        "owner": ["RSA", "RRN", "RRS"],
+        "owner": ["RSA", "RRN"],
         "sectors": [
           {
             "min": 30,
@@ -4215,7 +4215,7 @@
       {
         "id": "LIRSAPP3",
         "group": "APP",
-        "owner": ["RSA", "RRN", "RRS"],
+        "owner": ["RSA", "RRN"],
         "sectors": [
           {
             "min": 30,
@@ -4233,7 +4233,7 @@
       {
         "id": "LIRSAPP2",
         "group": "APP",
-        "owner": ["RSA", "RRN", "RRS"],
+        "owner": ["RSA", "RRN"],
         "sectors": [
           {
             "min": 30,
@@ -4253,7 +4253,7 @@
       {
         "id": "LIRSAPP1",
         "group": "APP",
-        "owner": ["RSA", "RRN", "RRS"],
+        "owner": ["RSA", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -4301,7 +4301,7 @@
       {
         "id": "LIRRSAPP",
         "group": "APP",
-        "owner": ["RAS", "RAN", "RRE", "RRN", "RRS"],
+        "owner": ["RAS", "RAN", "RRE", "RRN"],
         "sectors": [
           {
             "min": 25,
@@ -4332,7 +4332,7 @@
       {
         "id": "LIRRNAPP",
         "group": "APP",
-        "owner": ["RAN", "RRE", "RAS", "RRN", "RRS"],
+        "owner": ["RAN", "RRE", "RAS", "RRN"],
         "sectors": [
           {
             "min": 25,
@@ -4365,7 +4365,7 @@
       {
         "id": "LIRREAPP",
         "group": "APP",
-        "owner": ["RRE", "RAN", "RAS", "RRN", "RRS"],
+        "owner": ["RRE", "RAN", "RAS", "RRN"],
         "sectors": [
           {
             "min": 25,
@@ -4394,7 +4394,7 @@
       {
         "id": "LIRRDAPP34R",
         "group": "APP",
-        "owner": ["RDE", "RDW", "RAS", "RAN", "RRE", "RRN", "RRS"],
+        "owner": ["RDE", "RDW", "RAS", "RAN", "RRE", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -4416,7 +4416,7 @@
       {
         "id": "LIRRDAPP34L",
         "group": "APP",
-        "owner": ["RDW", "RDE", "RAS", "RAN", "RRE", "RRN", "RRS"],
+        "owner": ["RDW", "RDE", "RAS", "RAN", "RRE", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -4437,7 +4437,7 @@
       {
         "id": "LIRRDAPP25",
         "group": "APP",
-        "owner": ["RDE", "RAN", "RAS", "RRN", "RRS"],
+        "owner": ["RDE", "RAN", "RAS", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -4461,7 +4461,7 @@
       {
         "id": "LIRRDAPP16R",
         "group": "APP",
-        "owner": ["RDW", "RDE", "RAN", "RRE", "RAS", "RRN", "RRS"],
+        "owner": ["RDW", "RDE", "RAN", "RRE", "RAS", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -4484,7 +4484,7 @@
       {
         "id": "LIRRDAPP16L",
         "group": "APP",
-        "owner": ["RDE", "RDW", "RAN", "RRE", "RAS", "RRN", "RRS"],
+        "owner": ["RDE", "RDW", "RAN", "RRE", "RAS", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -4507,7 +4507,7 @@
       {
         "id": "LIRQAPP6",
         "group": "APP",
-        "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
+        "owner": ["RQA", "RRN", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
             "min": 85,
@@ -4529,7 +4529,7 @@
       {
         "id": "LIRQAPP5",
         "group": "APP",
-        "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
+        "owner": ["RQA", "RRN", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
             "min": 85,
@@ -4561,7 +4561,7 @@
       {
         "id": "LIRQAPP4",
         "group": "APP",
-        "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
+        "owner": ["RQA", "RRN", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
             "min": 80,
@@ -4583,7 +4583,7 @@
       {
         "id": "LIRQAPP3",
         "group": "APP",
-        "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
+        "owner": ["RQA", "RRN", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
             "min": 95,
@@ -4610,7 +4610,7 @@
       {
         "id": "LIRQAPP2",
         "group": "APP",
-        "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
+        "owner": ["RQA", "RRN", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
             "min": 25,
@@ -4651,7 +4651,7 @@
       {
         "id": "LIRQAPP1",
         "group": "APP",
-        "owner": ["RQA", "RRN", "RRS", "MES", "MEN", "MWS", "MWN", "LIMM"],
+        "owner": ["RQA", "RRN", "MES", "MEN", "MWS", "MWN", "LIMM"],
         "sectors": [
           {
             "min": 0,
@@ -4683,7 +4683,7 @@
       {
         "id": "LIRPAPP2",
         "group": "APP",
-        "owner": ["RPA", "RPE", "RRN", "RRS", "MWS", "MWN", "MEN", "MES", "LIMM"],
+        "owner": ["RPA", "RPE", "RRN", "MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
             "min": 30,
@@ -4717,7 +4717,7 @@
       {
         "id": "LIRPAPP1",
         "group": "APP",
-        "owner": ["RPA", "RPE", "RRN", "RRS", "MWS", "MWN", "MEN", "MES", "LIMM"],
+        "owner": ["RPA", "RPE", "RRN", "MWS", "MWN", "MEN", "MES", "LIMM"],
         "sectors": [
           {
             "min": 0,
@@ -4768,7 +4768,7 @@
       {
         "id": "LIRNF2APP",
         "group": "APP",
-        "owner": ["RNA", "RN1", "RRN", "RRS"],
+        "owner": ["RNA", "RN1", "RRN"],
         "sectors": [
           {
             "min": 95,
@@ -4790,7 +4790,7 @@
       {
         "id": "LIRNF1APP",
         "group": "APP",
-        "owner": ["RNA", "RN1", "RRN", "RRS"],
+        "owner": ["RNA", "RN1", "RRN"],
         "sectors": [
           {
             "min": 35,
@@ -4822,7 +4822,7 @@
       {
         "id": "LIRNAPP5",
         "group": "APP",
-        "owner": ["RN1", "RNA", "RRN", "RRS"],
+        "owner": ["RN1", "RNA", "RRN"],
         "sectors": [
           {
             "min": 115,
@@ -4844,7 +4844,7 @@
       {
         "id": "LIRNAPP4",
         "group": "APP",
-        "owner": ["RN1", "RNA", "RRN", "RRS"],
+        "owner": ["RN1", "RNA", "RRN"],
         "sectors": [
           {
             "min": 95,
@@ -4866,7 +4866,7 @@
       {
         "id": "LIRNAPP3",
         "group": "APP",
-        "owner": ["RN1", "RNA", "RRN", "RRS"],
+        "owner": ["RN1", "RNA", "RRN"],
         "sectors": [
           {
             "min": 115,
@@ -4899,7 +4899,7 @@
       {
         "id": "LIRNAPP2",
         "group": "APP",
-        "owner": ["RNA", "RN1", "RRN", "RRS"],
+        "owner": ["RNA", "RN1", "RRN"],
         "sectors": [
           {
             "min": 15,
@@ -4924,7 +4924,7 @@
       {
         "id": "LIRNAPP1",
         "group": "APP",
-        "owner": ["RNA", "RN1", "RRN", "RRS"],
+        "owner": ["RNA", "RN1", "RRN"],
         "sectors": [
           {
             "min": 15,
@@ -4950,7 +4950,7 @@
       {
         "id": "LIRLAPP2",
         "group": "APP",
-        "owner": ["RLA", "RRN", "RRS"],
+        "owner": ["RLA", "RRN"],
         "sectors": [
           {
             "min": 65,
@@ -4970,7 +4970,7 @@
       {
         "id": "LIRLAPP1",
         "group": "APP",
-        "owner": ["RLA", "RRN", "RRS"],
+        "owner": ["RLA", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -4988,7 +4988,7 @@
       {
         "id": "LIRHAPP2",
         "group": "APP",
-        "owner": ["RHA", "RRN", "RRS"],
+        "owner": ["RHA", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -5007,7 +5007,7 @@
       {
         "id": "LIRHAPP1",
         "group": "APP",
-        "owner": ["RHA", "RRN", "RRS"],
+        "owner": ["RHA", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -5027,7 +5027,7 @@
       {
         "id": "LIEOAPP6",
         "group": "APP",
-        "owner": ["EOA", "RRS", "RRN"],
+        "owner": ["EOA", "RRS"],
         "sectors": [
           {
             "min": 105,
@@ -5085,7 +5085,7 @@
       {
         "id": "LIEOAPP5",
         "group": "APP",
-        "owner": ["EOA", "RRS", "RRN"],
+        "owner": ["EOA", "RRS"],
         "sectors": [
           {
             "min": 85,
@@ -5143,7 +5143,7 @@
       {
         "id": "LIEOAPP4",
         "group": "APP",
-        "owner": ["EOA", "RRS", "RRN"],
+        "owner": ["EOA", "RRS"],
         "sectors": [
           {
             "min": 55,
@@ -5209,7 +5209,7 @@
       {
         "id": "LIEOAPP3",
         "group": "APP",
-        "owner": ["EOA", "RRS", "RRN"],
+        "owner": ["EOA", "RRS"],
         "sectors": [
           {
             "min": 35,
@@ -5257,7 +5257,7 @@
       {
         "id": "LIEOAPP2",
         "group": "APP",
-        "owner": ["EOA", "RRS", "RRN"],
+        "owner": ["EOA", "RRS"],
         "sectors": [
           {
             "min": 25,
@@ -5313,7 +5313,7 @@
       {
         "id": "LIEOAPP1",
         "group": "APP",
-        "owner": ["EOA", "RRS", "RRN"],
+        "owner": ["EOA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -5365,7 +5365,7 @@
       {
         "id": "LIEEAPP3",
         "group": "APP",
-        "owner": ["EEA", "RRS", "RRN"],
+        "owner": ["EEA", "RRS"],
         "sectors": [
           {
             "min": 10,
@@ -5391,7 +5391,7 @@
       {
         "id": "LIEEAPP2",
         "group": "APP",
-        "owner": ["EEA", "RRS", "RRN"],
+        "owner": ["EEA", "RRS"],
         "sectors": [
           {
             "min": 15,
@@ -5432,7 +5432,7 @@
       {
         "id": "LIEEAPP1",
         "group": "APP",
-        "owner": ["EEA", "RRS", "RRN"],
+        "owner": ["EEA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -5451,7 +5451,7 @@
       {
         "id": "LIEAAPP3",
         "group": "APP",
-        "owner": ["EOA", "RRS", "RRN"],
+        "owner": ["EOA", "RRS"],
         "sectors": [
           {
             "min": 55,
@@ -5480,7 +5480,7 @@
       {
         "id": "LIEAAPP2",
         "group": "APP",
-        "owner": ["EOA", "RRS", "RRN"],
+        "owner": ["EOA", "RRS"],
         "sectors": [
           {
             "min": 25,
@@ -5505,7 +5505,7 @@
       {
         "id": "LIEAAPP1",
         "group": "APP",
-        "owner": ["EOA", "RRS", "RRN"],
+        "owner": ["EOA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -5534,7 +5534,7 @@
       {
         "id": "LICTAPP2",
         "group": "APP",
-        "owner": ["CTA", "RRS", "RRN"],
+        "owner": ["CTA", "RRS"],
         "sectors": [
           {
             "min": 75,
@@ -5578,7 +5578,7 @@
       {
         "id": "LICTAPP1",
         "group": "APP",
-        "owner": ["CTA", "RRS", "RRN"],
+        "owner": ["CTA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -5617,7 +5617,7 @@
       {
         "id": "LICRAPP3",
         "group": "APP",
-        "owner": ["CRA", "RRS", "RRN"],
+        "owner": ["CRA", "RRS"],
         "sectors": [
           {
             "min": 30,
@@ -5684,7 +5684,7 @@
       {
         "id": "LICRAPP2",
         "group": "APP",
-        "owner": ["CRA", "RRS", "RRN"],
+        "owner": ["CRA", "RRS"],
         "sectors": [
           {
             "min": 30,
@@ -5729,7 +5729,7 @@
       {
         "id": "LICRAPP1",
         "group": "APP",
-        "owner": ["CRA", "RRS", "RRN"],
+        "owner": ["CRA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -5764,7 +5764,7 @@
       {
         "id": "LICJAPP3",
         "group": "APP",
-        "owner": ["CJA", "RRS", "RRN"],
+        "owner": ["CJA", "RRS"],
         "sectors": [
           {
             "min": 45,
@@ -5785,7 +5785,7 @@
       {
         "id": "LICJAPP2",
         "group": "APP",
-        "owner": ["CJA", "RRS", "RRN"],
+        "owner": ["CJA", "RRS"],
         "sectors": [
           {
             "min": 20,
@@ -5851,7 +5851,7 @@
       {
         "id": "LICJAPP1",
         "group": "APP",
-        "owner": ["CJA", "RRS", "RRN"],
+        "owner": ["CJA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -5891,7 +5891,7 @@
       {
         "id": "LICGAPP2",
         "group": "APP",
-        "owner": ["CGA", "RRS", "RRN"],
+        "owner": ["CGA", "RRS"],
         "sectors": [
           {
             "min": 25,
@@ -5959,7 +5959,7 @@
       {
         "id": "LICGAPP1",
         "group": "APP",
-        "owner": ["CGA", "RRS", "RRN"],
+        "owner": ["CGA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -6008,7 +6008,7 @@
       {
         "id": "LICCAPP7",
         "group": "APP",
-        "owner": ["CCA", "RRS", "RRN"],
+        "owner": ["CCA", "RRS"],
         "sectors": [
           {
             "min": 65,
@@ -6053,7 +6053,7 @@
       {
         "id": "LICCAPP6",
         "group": "APP",
-        "owner": ["CCA", "RRS", "RRN"],
+        "owner": ["CCA", "RRS"],
         "sectors": [
           {
             "min": 25,
@@ -6099,7 +6099,7 @@
       {
         "id": "LICCAPP4",
         "group": "APP",
-        "owner": ["CCA", "RRS", "RRN"],
+        "owner": ["CCA", "RRS"],
         "sectors": [
           {
             "min": 45,
@@ -6119,7 +6119,7 @@
       {
         "id": "LICCAPP3",
         "group": "APP",
-        "owner": ["CCA", "RRS", "RRN"],
+        "owner": ["CCA", "RRS"],
         "sectors": [
           {
             "min": 35,
@@ -6147,7 +6147,7 @@
       {
         "id": "LICCAPP2",
         "group": "APP",
-        "owner": ["CCA", "RRS", "RRN"],
+        "owner": ["CCA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -6167,7 +6167,7 @@
       {
         "id": "LICCAPP1",
         "group": "APP",
-        "owner": ["CCA", "RRS", "RRN"],
+        "owner": ["CCA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -6187,7 +6187,7 @@
       {
         "id": "LICAAPP4",
         "group": "APP",
-        "owner": ["CAA", "RRS", "RRN"],
+        "owner": ["CAA", "RRS"],
         "sectors": [
           {
             "min": 30,
@@ -6214,7 +6214,7 @@
       {
         "id": "LICAAPP3",
         "group": "APP",
-        "owner": ["CAA", "RRS", "RRN"],
+        "owner": ["CAA", "RRS"],
         "sectors": [
           {
             "min": 30,
@@ -6259,7 +6259,7 @@
       {
         "id": "LICAAPP2",
         "group": "APP",
-        "owner": ["CAA", "RRS", "RRN"],
+        "owner": ["CAA", "RRS"],
         "sectors": [
           {
             "min": 15,
@@ -6282,7 +6282,7 @@
       {
         "id": "LICAAPP1",
         "group": "APP",
-        "owner": ["CAA", "RRS", "RRN"],
+        "owner": ["CAA", "RRS"],
         "sectors": [
           {
             "min": 10,
@@ -6316,7 +6316,7 @@
       {
         "id": "LICAAPP0",
         "group": "APP",
-        "owner": ["CAA", "RRS", "RRN"],
+        "owner": ["CAA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -8863,7 +8863,7 @@
       {
         "id": "LIRUTWR",
         "group": "TWR",
-        "owner": ["RUT", "RRE", "RAN", "RAS", "RRN", "RRS"],
+        "owner": ["RUT", "RRE", "RAN", "RAS", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -8883,7 +8883,7 @@
       {
         "id": "LIRNTWR",
         "group": "TWR",
-        "owner": ["RNT", "RNA", "RN1", "RRN", "RRS"],
+        "owner": ["RNT", "RNA", "RN1", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -8928,7 +8928,7 @@
       {
         "id": "LIRFTWRE",
         "group": "TWR",
-        "owner": ["RFE", "RFT", "RDE", "RDW", "RAN", "RAS", "RRE", "RRN", "RRS"],
+        "owner": ["RFE", "RFT", "RDE", "RDW", "RAN", "RAS", "RRE", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -8955,7 +8955,7 @@
       {
         "id": "LIRFTWR",
         "group": "TWR",
-        "owner": ["RFT", "RFE", "RDE", "RDW", "RAN", "RAS", "RRE", "RRN", "RRS"],
+        "owner": ["RFT", "RFE", "RDE", "RDW", "RAN", "RAS", "RRE", "RRN"],
         "sectors": [
           {
             "min": 0,
@@ -8984,7 +8984,7 @@
       {
         "id": "LICCTWR",
         "group": "TWR",
-        "owner": ["CCT", "CCA", "RRS", "RRN"],
+        "owner": ["CCT", "CCA", "RRS"],
         "sectors": [
           {
             "min": 0,
@@ -10822,7 +10822,7 @@
       "LIBP": {
         "callsign": "Pescara",
         "coord": [42.436667, 14.187222],
-        "topdown": ["BPA", "RNC", "RRN", "BBB"]
+        "topdown": ["BPA", "RNC", "RRN"]
       },
       "LIBR": {
         "callsign": "Brindisi",
