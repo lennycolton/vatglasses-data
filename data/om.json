@@ -9320,145 +9320,172 @@
             ]
         }
     },
-"callsigns": {
-    "DEL": {
-        "": "Delivery",
-        "P": "Planner"
-    },
-    "GND": {
-        "": "Ground",
-        "P": "Planner"
-    },
-    "TWR": {
-        "": "Tower",
-        "I": "Information",
-        "R": "Radio"
-    },
-    "APP": {
-        "": "Arrivals",
-        "F": "Director"
-    },
-    "DEP": {
-        "": "Departures"
-    },
-        "airports": {
-            "OMAA": {
-                "callsign": "Abu Dhabi Intl",
-                "coord": [
-                    24.433056,
-                    54.651111
-                ],
-                "topdown": [
-                    "ARW",
-                    "ARC",
-                    "AE2",
-                    "AE1"
-                ]
-            },
-            "OMAD": {
-                "callsign": "Al-Bateen Executive",
-                "coord": [
-                    24.43306,
-                    54.46639
-                ],
-                "topdown": [
-                    "ARW",
-                    "ARC",
-                    "AE2",
-                    "AE1"
-                ]
-            },
-            "OMAL": {
-                "callsign": "Al Ain Intl",
-                "coord": [
-                    24.261667,
-                    55.609167
-                ],
-                "topdown": [
-                    "ARE",
-                    "ARC",
-                    "AE2",
-                    "AE1"
-                ]
-            },
-            "OMDB": {
-                "callsign": "Dubai Intl",
-                "coord": [
-                    25.252778,
-                    55.364444
-                ],
-                "topdown": [
-                    "DA",
-                    "DDS",
-                    "AE1"
-                ]
-            },
-            "OMDM": {
-                "callsign": "Al-Minhad Airbase",
-                "coord": [
-                    25.026819,
-                    55.366244
-                ],
-                "topdown": [
-                    "MA",
-                    "MR",
-                    "DA",
-                    "AE1"
-                ]
-            },
-            "OMDW": {
-                "callsign": "Al-Maktoum Intl",
-                "coord": [
-                    24.886111,
-                    55.172222
-                ],
-                "topdown": [
-                    "MR",
-                    "DA",
-                    "AE1"
-                ]
-            },
-            "OMFJ": {
-                "callsign": "Fujairah",
-                "coord": [
-                    25.109722,
-                    56.330556
-                ],
-                "topdown": [
-                    "FA",
-                    "AER",
-                    "AEE",
-                    "AE4",
-                    "AE1"
-                ]
-            },
-            "OMRK": {
-                "callsign": "Ras Al Khaimah Intl",
-                "coord": [
-                    25.613333,
-                    55.938889
-                ],
-                "topdown": [
-                    "RA",
-                    "AER",
-                    "AEE",
-                    "AE4",
-                    "AE1"
-                ]
-            },
-            "OMSJ": {
-                "callsign": "Sharjah Intl",
-                "coord": [
-                    25.329167,
-                    55.516111
-                ],
-                "topdown": [
-                    "DDN",
-                    "DDS",
-                    "DA",
-                    "AE1"
-                ]
-            }
+    "callsigns": {
+        "DEL": {
+            "": "Delivery",
+            "P": "Planner"
+        },
+        "GND": {
+            "": "Ground",
+            "P": "Planner"
+        },
+        "TWR": {
+            "": "Tower",
+            "H": "Kopter",
+            "I": "Information",
+            "R": "Radio"
+        },
+        "APP": {
+            "": "Approach",
+            "F": "Director"
+        },
+        "DEP": {
+            "": "Departures"
         }
+    },
+    "airports": {
+        "OMAA": {
+            "callsign": "Abu Dhabi",
+            "end": {
+                "APP": {
+                    "": "Radar"
+                }
+            }
+        },
+        "coord": [
+            24.433056,
+            54.651111
+        ],
+        "topdown": [
+            "ARW",
+            "ARC",
+            "AE2",
+            "AE1"
+        ]
+    },
+    "OMAD": {
+        "callsign": "Al Bateen",
+        "coord": [
+            24.43306,
+            54.46639
+        ],
+        "topdown": [
+            "ARW",
+            "ARC",
+            "AE2",
+            "AE1"
+        ]
+    },
+    "OMAL": {
+        "callsign": "Al Ain",
+        "coord": [
+            24.261667,
+            55.609167
+        ],
+        "topdown": [
+            "ARE",
+            "ARC",
+            "AE2",
+            "AE1"
+        ]
+    },
+    "OMDB": {
+        "OMDB": {
+            "callsign": "Dubai",
+            "end": {
+                "APP": {
+                    "": "Arrivals"
+                }
+            }
+        },
+        "coord": [
+            25.252778,
+            55.364444
+        ],
+        "topdown": [
+            "DA",
+            "DDS",
+            "AE1"
+        ]
+    },
+    "OMDM": {
+        "callsign": "Minhad",
+        "coord": [
+            25.026819,
+            55.366244
+        ],
+        "topdown": [
+            "MA",
+            "MR",
+            "DA",
+            "AE1"
+        ]
+    },
+    "OMDW": {
+        "OMDW": {
+            "callsign": "Al Maktoum",
+            "end": {
+                "APP": {
+                    "": "Radar"
+                }
+            }
+        },
+        "coord": [
+            24.886111,
+            55.172222
+        ],
+        "topdown": [
+            "MR",
+            "DA",
+            "AE1"
+        ]
+    },
+    "OMFJ": {
+        "callsign": "Fujairah",
+        "coord": [
+            25.109722,
+            56.330556
+        ],
+        "topdown": [
+            "FA",
+            "AER",
+            "AEE",
+            "AE4",
+            "AE1"
+        ]
+    },
+    "OMRK": {
+        "OMDW": {
+            "callsign": "Ras AL Khaimah",
+            "end": {
+                "R_APP": {
+                    "": "Radar"
+                }
+            }
+        },
+        "coord": [
+            25.613333,
+            55.938889
+        ],
+        "topdown": [
+            "RA",
+            "AER",
+            "AEE",
+            "AE4",
+            "AE1"
+        ]
+    },
+    "OMSJ": {
+        "callsign": "Sharjah",
+        "coord": [
+            25.329167,
+            55.516111
+        ],
+        "topdown": [
+            "DDN",
+            "DDS",
+            "DA",
+            "AE1"
+        ]
     }
 }
