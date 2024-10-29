@@ -4,7 +4,7 @@
       "id": "Allersberg",
       "group": "EDMM",
       "uid": "ALB",
-      "owner": ["ALB", "WLD", "RDG", "EGG", "ZUG", "MMC"],
+      "owner": ["ALB", "WLD", "RDG", "EGG", "ZUG"],
       "sectors": [
         {
           "max": 314,
@@ -66,7 +66,7 @@
       "id": "Bamberg",
       "group": "EDMM",
       "uid": "BBG",
-      "owner": ["BBG", "HOF", "RDG", "MMC"],
+      "owner": ["BBG", "HOF", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -144,7 +144,7 @@
       "id": "Eggenfelden",
       "group": "EDMM",
       "uid": "EGG",
-      "owner": ["EGG", "RDG", "ALB", "WLD", "ZUG", "MMC"],
+      "owner": ["EGG", "RDG", "ALB", "WLD", "ZUG"],
       "sectors": [
         {
           "max": 314,
@@ -206,7 +206,7 @@
       "id": "Franken Low (Nürnberg)",
       "group": "APP",
       "uid": "FRK",
-      "owner": ["FRK", "BBG", "HOF", "RDG", "MMC"],
+      "owner": ["FRK", "BBG", "HOF", "RDG"],
       "sectors": [
         {
           "max": 194,
@@ -356,7 +356,7 @@
       "id": "Füssen",
       "group": "EDMM",
       "uid": "FUE",
-      "owner": ["FUE", "ZUG", "TRU", "RDG", "MMC"],
+      "owner": ["FUE", "ZUG", "STA", "TRU", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -512,7 +512,7 @@
       "id": "Gera",
       "group": "EDMM",
       "uid": "GER",
-      "owner": ["GER", "HAL", "MEI", "HOF", "MMC"],
+      "owner": ["GER", "HAL", "MEI", "HOF"],
       "sectors": [
         {
           "max": 314,
@@ -578,7 +578,7 @@
       "id": "Halle",
       "group": "EDMM",
       "uid": "HAL",
-      "owner": ["HAL", "GER", "MEI", "HOF", "MMC"],
+      "owner": ["HAL", "GER", "MEI", "HOF"],
       "sectors": [
         {
           "max": 314,
@@ -668,7 +668,7 @@
       "id": "Hof",
       "group": "EDMM",
       "uid": "HOF",
-      "owner": ["HOF", "BBG", "RDG", "MMC"],
+      "owner": ["HOF", "BBG", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -722,7 +722,7 @@
       "id": "Iller (Memmingen)",
       "group": "APP",
       "uid": "ILR",
-      "owner": ["ILR", "SWA", "FUE", "ZUG", "TRU", "RDG", "MMC"],
+      "owner": ["ILR", "SWA", "FUE", "ZUG", "STA", "TRU", "RDG"],
       "sectors": [
         {
           "max": 104,
@@ -778,7 +778,7 @@
       "id": "Meißen",
       "group": "EDMM",
       "uid": "MEI",
-      "owner": ["MEI", "GER", "HAL", "HOF", "MMC"],
+      "owner": ["MEI", "GER", "HAL", "HOF"],
       "sectors": [
         {
           "max": 314,
@@ -855,7 +855,7 @@
       "id": "Nördlingen",
       "group": "EDMM",
       "uid": "NDG",
-      "owner": ["NDG", "TRU", "WLD", "ZUG", "RDG", "MMC"],
+      "owner": ["NDG", "TRU", "WLD", "ZUG", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -981,7 +981,7 @@
       "id": "Roding",
       "group": "EDMM",
       "uid": "RDG",
-      "owner": ["RDG", "EGG", "ALB", "WLD", "ZUG", "MMC"],
+      "owner": ["RDG", "EGG", "ALB", "WLD", "ZUG"],
       "sectors": [
         {
           "max": 134,
@@ -1053,7 +1053,7 @@
       "id": "Sachsen Low (Dresden)",
       "group": "APP",
       "uid": "SAS",
-      "owner": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF", "MMC"],
+      "owner": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF"],
       "sectors": [
         {
           "max": 164,
@@ -1103,7 +1103,7 @@
       "id": "Starnberg",
       "group": "EDMM",
       "uid": "STA",
-      "owner": ["STA", "TEG", "ZUG", "TRU", "RDG", "MMC"],
+      "owner": ["STA", "TEG", "ZUG", "TRU", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -1159,7 +1159,7 @@
       "id": "Schwaben",
       "group": "APP",
       "uid": "SWA",
-      "owner": ["SWA", "NDG", "WLD", "ALB", "ZUG", "TRU", "RDG", "MMC"],
+      "owner": ["SWA", "NDG", "WLD", "ALB", "ZUG", "TRU", "RDG"],
       "sectors": [
         {
           "max": 104,
@@ -1245,7 +1245,7 @@
       "id": "Tegernsee",
       "group": "EDMM",
       "uid": "TEG",
-      "owner": ["TEG", "TRU", "ZUG", "RDG", "MMC"],
+      "owner": ["TEG", "TRU", "STA", "ZUG", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -1334,8 +1334,7 @@
         "DMSAT",
         "NDG",
         "ZUG",
-        "RDG",
-        "MMC"
+        "RDG"
       ],
       "sectors": [
         {
@@ -1397,8 +1396,7 @@
         "DMSAT",
         "NDG",
         "ZUG",
-        "RDG",
-        "MMC"
+        "RDG"
       ],
       "sectors": [
         {
@@ -1460,8 +1458,7 @@
         "DMNAT",
         "NDG",
         "ZUG",
-        "RDG",
-        "MMC"
+        "RDG"
       ],
       "sectors": [
         {
@@ -1521,8 +1518,7 @@
         "DMNAT",
         "NDG",
         "ZUG",
-        "RDG",
-        "MMC"
+        "RDG"
       ],
       "sectors": [
         {
@@ -1573,7 +1569,7 @@
       "id": "Thüringen (Leipzig) North",
       "group": "APP",
       "uid": "TRN",
-      "owner": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF", "MMC"],
+      "owner": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF"],
       "sectors": [
         {
           "max": 194,
@@ -1673,7 +1669,7 @@
       "id": "Thüringen (Leipzig) South",
       "group": "APP",
       "uid": "TRS",
-      "owner": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF", "MMC"],
+      "owner": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF"],
       "sectors": [
         {
           "max": 194,
@@ -1733,7 +1729,7 @@
       "id": "Traun",
       "group": "EDMM",
       "uid": "TRU",
-      "owner": ["TRU", "NDG", "TEG", "ZUG", "RDG", "MMC"],
+      "owner": ["TRU", "TEG", "STA", "NDG", "ZUG", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -1817,7 +1813,7 @@
       "id": "Walda",
       "group": "EDMM",
       "uid": "WLD",
-      "owner": ["WLD", "NDG", "TRU", "ZUG", "RDG", "MMC"],
+      "owner": ["WLD", "NDG", "TRU", "ZUG", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -1847,7 +1843,7 @@
       "id": "Zugspitze",
       "group": "EDMM",
       "uid": "ZUG",
-      "owner": ["ZUG", "TRU", "RDG", "MMC"],
+      "owner": ["ZUG", "STA", "TRU", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -1921,9 +1917,9 @@
         "DON",
         "ERL",
         "ZUG",
+        "STA",
         "TRU",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -1997,9 +1993,9 @@
         "DON",
         "ERL",
         "ZUG",
+        "STA",
         "TRU",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2073,9 +2069,9 @@
         "DON",
         "ERL",
         "ZUG",
+        "STA",
         "TRU",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2150,9 +2146,9 @@
         "DON",
         "ERL",
         "ZUG",
+        "STA",
         "TRU",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2226,11 +2222,11 @@
         "DON",
         "ERL",
         "TRU",
-        "NDG",
+        "STA",
         "TEG",
+        "NDG",
         "ZUG",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2289,11 +2285,11 @@
         "DON",
         "ERL",
         "TRU",
-        "NDG",
+        "STA",
         "TEG",
+        "NDG",
         "ZUG",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2352,11 +2348,11 @@
         "DON",
         "ERL",
         "TRU",
-        "NDG",
+        "STA",
         "TEG",
+        "NDG",
         "ZUG",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2416,11 +2412,11 @@
         "DON",
         "ERL",
         "TRU",
-        "NDG",
+        "STA",
         "TEG",
+        "NDG",
         "ZUG",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2480,7 +2476,6 @@
         "ALB",
         "WLD",
         "ZUG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2543,7 +2538,6 @@
         "ALB",
         "WLD",
         "ZUG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2606,7 +2600,6 @@
         "ALB",
         "WLD",
         "ZUG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2670,7 +2663,6 @@
         "ALB",
         "WLD",
         "ZUG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2730,7 +2722,6 @@
         "BBG",
         "HOF",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2799,7 +2790,6 @@
         "BBG",
         "HOF",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2871,7 +2861,6 @@
         "TRU",
         "ZUG",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2926,7 +2915,6 @@
         "TRU",
         "ZUG",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2981,7 +2969,6 @@
         "TRU",
         "ZUG",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -3037,7 +3024,6 @@
         "TRU",
         "ZUG",
         "RDG",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -3089,7 +3075,6 @@
         "HAL",
         "MEI",
         "HOF",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -3168,7 +3153,6 @@
         "HAL",
         "MEI",
         "HOF",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -3246,7 +3230,6 @@
         "GER",
         "HAL",
         "HOF",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -3319,7 +3302,6 @@
         "GER",
         "HAL",
         "HOF",
-        "MMC",
         "fss/EUCME"
       ],
       "sectors": [
@@ -12971,13 +12953,6 @@
   },
 
   "positions": {
-    "MMC": {
-      "colours": [{ "hex": "#0b3eb3" }],
-      "pre": ["EDMM"],
-      "type": "CTR",
-      "frequency": "124.050",
-      "callsign": "München Radar"
-    },
     "ALB": {
       "colours": [{ "hex": "#982336" }],
       "pre": ["EDMM"],
@@ -13864,24 +13839,23 @@
         "DMSAT",
         "NDG",
         "ZUG",
-        "RDG",
-        "MMC"
+        "RDG"
       ]
     },
     "EDDN": {
       "callsign": "Nürnberg",
       "coord": [49.498666666667, 11.078],
-      "topdown": ["FRK", "BBG", "HOF", "RDG", "MMC"]
+      "topdown": ["FRK", "BBG", "HOF", "RDG"]
     },
     "EDDP": {
       "callsign": "Leipzig",
       "coord": [51.424, 12.236333333333],
-      "topdown": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF", "MMC"]
+      "topdown": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF"]
     },
     "EDJA": {
       "callsign": "Memmingen",
       "coord": [47.997381, 10.262189],
-      "topdown": ["ILR", "SWA", "FUE", "ZUG", "TRU", "RDG", "MMC"]
+      "topdown": ["ILR", "SWA", "FUE", "ZUG", "STA", "TRU", "RDG"]
     },
     "EDMA": {
       "callsign": "Augsburg",
@@ -13894,34 +13868,33 @@
         "SWA",
         "NDG",
         "ZUG",
-        "RDG",
-        "MMC"
+        "RDG"
       ]
     },
     "EDMO": {
       "callsign": "Oberpfaffenhofen",
       "coord": [48.081333333333, 11.283],
-      "topdown": ["DMSL", "DMNL", "DMSH", "DMNH", "NDG", "ZUG", "RDG", "MMC"]
+      "topdown": ["DMSL", "DMNL", "DMSH", "DMNH", "NDG", "ZUG", "RDG"]
     },
     "EDNY": {
       "callsign": "Friedrichshafen",
       "coord": [47.671333333333, 9.5115],
-      "topdown": ["ls/ARFA", "ls/ZA", "ls/SZE", "ls/SZS", "ls/SZ", "ls/SC", "ZUG", "TRU", "RDG", "MMC"]
+      "topdown": ["ls/ARFA", "ls/ZA", "ls/SZE", "ls/SZS", "ls/SZ", "ls/SC", "ZUG", "TRU", "RDG"]
     },
     "EDQM": {
       "callsign": "Hof",
       "coord": [50.288833333333, 11.855],
-      "topdown": ["FRK", "BBG", "HOF", "RDG", "MMC"]
+      "topdown": ["FRK", "BBG", "HOF", "RDG"]
     },
     "EDDE": {
       "callsign": "Erfurt",
       "coord": [50.979833333333, 10.958166666667],
-      "topdown": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF", "MMC"]
+      "topdown": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF"]
     },
     "EDDC": {
       "callsign": "Dresden",
       "coord": [51.134333333333, 13.768],
-      "topdown": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF", "MMC"]
+      "topdown": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF"]
     },
     "EDDF": {
       "callsign": "Frankfurt",
