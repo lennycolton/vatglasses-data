@@ -6831,9 +6831,7 @@
                 "ARW",
                 "ARC",
                 "AE2",
-                "AE1",
-                "GULFE",
-                "GULF"
+                "AE1"
             ],
             "sectors": [
                 {
@@ -6943,9 +6941,7 @@
                 "ARW",
                 "ARC",
                 "AE2",
-                "AE1",
-                "GULFE",
-                "GULF"
+                "AE1"
             ],
             "sectors": [
                 {
@@ -7067,9 +7063,7 @@
                 "ARE",
                 "ARC",
                 "AE2",
-                "AE1",
-                "GULFE",
-                "GULF"
+                "AE1"
             ],
             "sectors": [
                 {
@@ -7145,9 +7139,7 @@
             "group": "APP",
             "owner": [
                 "ARE",
-                "ARC",
-                "AE2",
-                "AE1"
+                "ARC"
             ],
             "sectors": [
                 {
@@ -7213,9 +7205,7 @@
                 "ARE",
                 "ARC",
                 "AE2",
-                "AE1",
-                "GULFE",
-                "GULF"
+                "AE1"
             ],
             "sectors": [
                 {
@@ -7272,9 +7262,7 @@
             "owner": [
                 "ARC",
                 "AE2",
-                "AE1",
-                "GULFE",
-                "GULF"
+                "AE1"
             ],
             "sectors": [
                 {
@@ -7423,9 +7411,7 @@
             "owner": [
                 "ARC",
                 "AE2",
-                "AE1",
-                "GULFE",
-                "GULF"
+                "AE1"
             ],
             "sectors": [
                 {
