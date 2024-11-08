@@ -12487,7 +12487,7 @@
       "id": "Holstein Low",
       "group": "EDYY",
       "uid": "HOL",
-      "owner": ["HOL", "JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "owner": ["HOL", "HOLH", "JEVH", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 364,
@@ -12574,9 +12574,9 @@
       "group": "EDYY",
       "uid": "HOLH",
       "owner": [
-        "JEVH",
-        "HOL",
-        "JEV",
+        "HOLH",
+	"JEVH",
+	"HOL",      
         "CELH",
         "CEL",
         "EIDE",
@@ -12641,7 +12641,7 @@
       "id": "Jever Low",
       "group": "EDYY",
       "uid": "JEV",
-      "owner": ["JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "owner": ["JEV", "JEVH", "HOLH", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 364,
@@ -12711,8 +12711,9 @@
       "uid": "JEVH",
       "owner": [
         "JEVH",
-        "CELH",
-        "JEV",
+	"HOLH", 
+	"JEV",      
+        "CELH",      
         "CEL",
         "EIDE",
         "ALR",
@@ -13396,6 +13397,13 @@
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "120.860",
+      "callsign": "Maastricht Radar"
+    },
+    "HOLH": {
+      "colours": [{ "hex": "#714d2a" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "132.780",
       "callsign": "Maastricht Radar"
     },
     "JEV": {
