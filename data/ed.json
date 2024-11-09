@@ -12486,8 +12486,8 @@
     {
       "id": "Holstein Low",
       "group": "EDYY",
-      "uid": "HOL",
-      "owner": ["HOL", "HOLH", "JEVH", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "uid": "HL",
+      "owner": ["HL", "HH", "JH", "BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 364,
@@ -12572,13 +12572,12 @@
     {
       "id": "Holstein High",
       "group": "EDYY",
-      "uid": "HOLH",
+      "uid": "HH",
       "owner": [
-        "HOLH",
-	"JEVH",
-	"HOL",      
-        "CELH",
-        "CEL",
+        "HH",
+	"JH",
+	"HL",      
+        "BB",
         "EIDE",
         "ALR",
         "EIDW",
@@ -12640,8 +12639,8 @@
     {
       "id": "Jever Low",
       "group": "EDYY",
-      "uid": "JEV",
-      "owner": ["JEV", "JEVH", "HOLH", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "uid": "JL",
+      "owner": ["JL", "JH", "HH", "BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 364,
@@ -12710,11 +12709,10 @@
       "group": "EDYY",
       "uid": "JEVH",
       "owner": [
-        "JEVH",
-	"HOLH", 
-	"JEV",      
-        "CELH",      
-        "CEL",
+        "JH",
+	"HH", 
+	"JL",      
+        "BB",      
         "EIDE",
         "ALR",
         "EIDW",
@@ -13392,32 +13390,39 @@
       "frequency": "128.810",
       "callsign": "Maastricht Radar"
     },
-    "HOL": {
+    "HL": {
       "colours": [{ "hex": "#e0377f" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "120.860",
       "callsign": "Maastricht Radar"
     },
-    "HOLH": {
+    "HH": {
       "colours": [{ "hex": "#714d2a" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "132.780",
       "callsign": "Maastricht Radar"
     },
-    "JEV": {
+    "JL": {
       "colours": [{ "hex": "#d514ad" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "136.465",
       "callsign": "Maastricht Radar"
     },
-    "JEVH": {
+    "JH": {
       "colours": [{ "hex": "#ff2f6d" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "129.735",
+      "callsign": "Maastricht Radar"
+    },
+    "BB": {
+      "colours": [{ "hex": "#bad4d7" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "129.840",
       "callsign": "Maastricht Radar"
     },
     "MNS": {
