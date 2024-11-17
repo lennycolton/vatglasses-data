@@ -2027,7 +2027,7 @@
         }, {
             "id": "ZSWF TWR",
             "group": "TWR",
-            "owner": ["WFT", "QD", "SHA"],
+            "owner": ["WFT", "JN", "SHA"],
             "sectors": [{
                     "min": 0,
                     "max": 130,
@@ -8192,7 +8192,7 @@
         "ZSWF": {
             "callsign": "Weifang",
             "coord": [36.64756, 119.117708],
-            "topdown": ["QD", "SHA"]
+            "topdown": ["JN", "SHA"]
         },
         "ZSWH": {
             "callsign": "Weihai Dashuipo",
