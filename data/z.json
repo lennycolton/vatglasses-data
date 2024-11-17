@@ -2018,7 +2018,7 @@
         }, {
             "id": "ZSWH TWR",
             "group": "TWR",
-            "owner": ["WHT", "JN", "SHA"],
+            "owner": ["WHT", "QD", "SHA"],
             "sectors": [{
                     "min": 0,
                     "max": 196,
@@ -8197,7 +8197,7 @@
         "ZSWH": {
             "callsign": "Weihai Dashuipo",
             "coord": [37.186769, 122.229636],
-            "topdown": ["JN", "SHA"]
+            "topdown": ["QD", "SHA"]
         },
         "ZSWX": {
             "callsign": "Wuxi Shuofang",
