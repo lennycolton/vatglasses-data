@@ -12487,7 +12487,7 @@
       "id": "Holstein Low",
       "group": "EDYY",
       "uid": "HL",
-      "owner": ["HL", "HH", "JH", "BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "owner": ["HL", "HH", "JL", "JH", "BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 364,
@@ -12576,7 +12576,8 @@
       "owner": [
         "HH",
 	"JH",
-	"HL",      
+	"HL",
+	"JL",      
         "BB",
         "EIDE",
         "ALR",
