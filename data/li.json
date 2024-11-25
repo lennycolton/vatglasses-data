@@ -7052,7 +7052,7 @@
       {
         "id": "LIPZAPP4",
         "group": "APP",
-        "owner": ["PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
+        "owner": ["SE0", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
             "min": 35,
@@ -7074,7 +7074,7 @@
       {
         "id": "LIPZAPP3",
         "group": "APP",
-        "owner": ["PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
+        "owner": ["SE0", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
             "min": 30,
@@ -7104,7 +7104,7 @@
       {
         "id": "LIPZAPP2",
         "group": "APP",
-        "owner": ["PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
+        "owner": ["SE0", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
             "min": 15,
@@ -7141,7 +7141,7 @@
       {
         "id": "LIPZAPP1",
         "group": "APP",
-        "owner": ["PZA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
+        "owner": ["SE0", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
             "min": 0,
@@ -7410,7 +7410,7 @@
       {
         "id": "LIPQAPP6",
         "group": "APP",
-        "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
+        "owner": ["CE0", "SE0", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
             "min": 85,
@@ -7436,7 +7436,7 @@
       {
         "id": "LIPQAPP5",
         "group": "APP",
-        "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
+        "owner": ["CE0", "SE0", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
             "min": 30,
@@ -7455,7 +7455,7 @@
       {
         "id": "LIPQAPP4",
         "group": "APP",
-        "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
+        "owner": ["CE0", "SE0", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
             "min": 10,
@@ -7482,7 +7482,7 @@
       {
         "id": "LIPQAPP3",
         "group": "APP",
-        "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
+        "owner": ["CE0", "SE0", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
             "min": 20,
@@ -7503,7 +7503,7 @@
       {
         "id": "LIPQAPP2",
         "group": "APP",
-        "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
+        "owner": ["CE0", "SE0", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
             "min": 45,
@@ -7533,7 +7533,7 @@
       {
         "id": "LIPQAPP1",
         "group": "APP",
-        "owner": ["PQA", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
+        "owner": ["CE0", "SE0", "PCE", "PSD", "PNE", "LIPP", "LIMM"],
         "sectors": [
           {
             "min": 0,
@@ -8736,7 +8736,7 @@
       {
         "id": "LIMFAPP5",
         "group": "APP",
-        "owner": ["MFA", "MWN", "MWS", "MEN", "MES", "LIMM"],
+        "owner": ["WN0", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
             "min": 55,
@@ -8755,7 +8755,7 @@
       {
         "id": "LIMFAPP4",
         "group": "APP",
-        "owner": ["MFA", "MWN", "MWS", "MEN", "MES", "LIMM"],
+        "owner": ["WN0", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
             "min": 55,
@@ -8786,7 +8786,7 @@
       {
         "id": "LIMFAPP3",
         "group": "APP",
-        "owner": ["MFA", "MWN", "MWS", "MEN", "MES", "LIMM"],
+        "owner": ["WN0", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
             "min": 25,
@@ -8804,7 +8804,7 @@
       {
         "id": "LIMFAPP2",
         "group": "APP",
-        "owner": ["MFA", "MWN", "MWS", "MEN", "MES", "LIMM"],
+        "owner": ["WN0", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
             "min": 25,
@@ -8855,7 +8855,7 @@
       {
         "id": "LIMFAPP1",
         "group": "APP",
-        "owner": ["MFA", "MWN", "MWS", "MEN", "MES", "LIMM"],
+        "owner": ["WN0", "MWN", "MWS", "MEN", "MES", "LIMM"],
         "sectors": [
           {
             "min": 0,
@@ -9769,7 +9769,7 @@
       {
         "id": "LIPZTWR",
         "group": "TWR",
-        "owner": ["PZT", "PZA"],
+        "owner": ["PZT", "SE0"],
         "sectors": [
           {
             "min": 0,
@@ -9827,7 +9827,7 @@
       {
         "id": "LIPQTWR",
         "group": "TWR",
-        "owner": ["PQT", "PQA"],
+        "owner": ["PQT", "CE0", "SE0"],
         "sectors": [
           {
             "min": 0,
@@ -10624,8 +10624,8 @@
         "pre": ["LIME"],
         "colours": [{ "hex": "#ffff66" }]
       },
-      "MFA": {
-        "callsign": "Torino Radar",
+      "WN0": {
+        "callsign": "Milano Radar",
         "frequency": "129.275",
         "type": "APP",
         "pre": ["LIMF"],
@@ -10918,7 +10918,7 @@
         "pre": ["LIPP"],
         "colours": [{ "hex": "#75ff75" }]
       },
-      "PQA": {
+      "CE0": {
         "callsign": "Padova Radar",
         "frequency": "119.175",
         "type": "APP",
@@ -10981,8 +10981,8 @@
         "pre": ["LIPY"],
         "colours": [{ "hex": "#ffff66" }]
       },
-      "PZA": {
-        "callsign": "Venezia Radar",
+      "SE0": {
+        "callsign": "Padova Radar",
         "frequency": "118.900",
         "type": "APP",
         "pre": ["LIPZ"],
@@ -11756,7 +11756,7 @@
       "LIMF": {
         "callsign": "Torino",
         "coord": [45.201786, 7.649594],
-        "topdown": ["MFA", "MWN", "MWS", "MEN"]
+        "topdown": ["WN0", "MWN", "MWS", "MEN"]
       },
       "LIMG": {
         "callsign": "Albenga",
@@ -11847,7 +11847,7 @@
       "LIPQ": {
         "callsign": "Ronchi Dei Legionari",
         "coord": [45.827361, 13.471994],
-        "topdown": ["PQA", "PCE", "PNE"]
+        "topdown": ["CE0", "PCE", "PNE"]
       },
       "LIPR": {
         "callsign": "Rimini",
@@ -11880,7 +11880,7 @@
       "LIPZ": {
         "callsign": "Venezia",
         "coord": [45.505136, 12.351683],
-        "topdown": ["PZA", "PCE", "PNE"]
+        "topdown": ["SE0", "PCE", "PNE"]
       },
       "LIQL": {
         "callsign": "Lucca/Tassignano",
