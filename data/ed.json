@@ -13453,21 +13453,21 @@
       "pre": ["EDDM"],
       "type": "APP",
       "frequency": "128.030",
-      "callsign": "München Arrival"
+      "callsign": "München Radar"
     },
     "DMSH": {
       "colours": [{ "hex": "#0c384a" }],
       "pre": ["EDDM"],
       "type": "APP",
       "frequency": "120.780",
-      "callsign": "München Arrival"
+      "callsign": "München Radar"
     },
     "DMNAT": {
       "colours": [{ "hex": "#9c322e" }],
       "pre": ["EDDM"],
       "type": "APP",
       "frequency": "118.830",
-      "callsign": "München Director"
+      "callsign": "München Arrival"
     },
     "DMNL": {
       "colours": [{ "hex": "#9f568b" }],
@@ -13488,7 +13488,7 @@
       "pre": ["EDDM"],
       "type": "APP",
       "frequency": "132.305",
-      "callsign": "München Director"
+      "callsign": "München Arrival"
     },
     "FRK": {
       "colours": [{ "hex": "#25c081" }],
@@ -13502,7 +13502,7 @@
       "pre": ["EDDN"],
       "type": "APP",
       "frequency": "119.475",
-      "callsign": "Nürnberg Director"
+      "callsign": "Nürnberg Arrival"
     },
     "TRS": {
       "colours": [{ "hex": "#05048b" }],
@@ -13516,7 +13516,7 @@
       "pre": ["EDDP"],
       "type": "APP",
       "frequency": "120.840",
-      "callsign": "Leipzig Director"
+      "callsign": "Leipzig Arrival"
     },
     "TRN": {
       "colours": [{ "hex": "#43563b" }],
@@ -13530,7 +13530,7 @@
       "pre": ["EDDP"],
       "type": "APP",
       "frequency": "129.765",
-      "callsign": "Leipzig Director"
+      "callsign": "Leipzig Arrival"
     },
     "ILR": {
       "colours": [{ "hex": "#bff2fc" }],
@@ -13566,14 +13566,14 @@
       "pre": ["EDDB"],
       "type": "APP",
       "frequency": "136.105",
-      "callsign": "Berlin Director"
+      "callsign": "Berlin Arrival"
     },
     "DBAST": {
       "colours": [{ "hex": "#8cd620" }],
       "pre": ["EDDB"],
       "type": "APP",
       "frequency": "121.130",
-      "callsign": "Berlin Director"
+      "callsign": "Berlin Arrival"
     },
     "DBDN": {
       "colours": [{ "hex": "#5cb9a2" }],
@@ -13594,21 +13594,21 @@
       "pre": ["EDDH"],
       "type": "APP",
       "frequency": "118.205",
-      "callsign": "Hamburg Director"
+      "callsign": "Hamburg Arrival"
     },
     "DVF": {
       "colours": [{ "hex": "#5c124a" }],
       "pre": ["EDDV"],
       "type": "APP",
       "frequency": "119.605",
-      "callsign": "Hannover Director"
+      "callsign": "Hannover Arrival"
     },
     "DWF": {
       "colours": [{ "hex": "#434c5f" }],
       "pre": ["EDDW"],
       "type": "APP",
       "frequency": "120.350",
-      "callsign": "Bremen Director"
+      "callsign": "Bremen Arrival"
     },
     "FRI": {
       "colours": [{ "hex": "#6750cc" }],
@@ -13671,14 +13671,14 @@
       "pre": ["EDDF"],
       "type": "APP",
       "frequency": "127.280",
-      "callsign": "Frankfurt Director"
+      "callsign": "Frankfurt Arrival"
     },
     "FFS": {
       "colours": [{ "hex": "#7da5a1" }],
       "pre": ["EDDF"],
       "type": "APP",
       "frequency": "118.505",
-      "callsign": "Frankfurt Director"
+      "callsign": "Frankfurt Arrival"
     },
     "FDN": {
       "colours": [{ "hex": "#3ec1fe" }],
@@ -13713,7 +13713,7 @@
       "pre": ["EDDK"],
       "type": "APP",
       "frequency": "121.055",
-      "callsign": "Köln/Bonn Director"
+      "callsign": "Köln/Bonn Arrival"
     },
     "NOR": {
       "colours": [{ "hex": "#802133" }],
@@ -13734,7 +13734,7 @@
       "pre": ["EDDL"],
       "type": "APP",
       "frequency": "128.655",
-      "callsign": "Düsseldorf Director"
+      "callsign": "Düsseldorf Arrival"
     },
     "DLD": {
       "colours": [{ "hex": "#96707a" }],
@@ -13762,7 +13762,7 @@
       "pre": ["EDDS"],
       "type": "APP",
       "frequency": "119.850",
-      "callsign": "Stuttgart Director"
+      "callsign": "Stuttgart Arrival"
     },
     "STG": {
       "colours": [{ "hex": "#bf9000" }],
