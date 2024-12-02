@@ -12486,11 +12486,11 @@
     {
       "id": "Holstein Low",
       "group": "EDYY",
-      "uid": "HOL",
-      "owner": ["HOL", "JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "uid": "HL",
+      "owner": ["HL", "HH", "JL", "JH", "BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
-          "max": 354,
+          "max": 364,
           "min": 245,
           "points": [
             ["532800", "0085400"],
@@ -12534,7 +12534,7 @@
           ]
         },
         {
-          "max": 354,
+          "max": 364,
           "min": 315,
           "points": [
             ["531436", "0092355"],
@@ -12548,7 +12548,7 @@
           ]
         },
         {
-          "max": 354,
+          "max": 364,
           "min": 315,
           "points": [
             ["531436", "0092355"],
@@ -12572,13 +12572,13 @@
     {
       "id": "Holstein High",
       "group": "EDYY",
-      "uid": "HOLH",
+      "uid": "HH",
       "owner": [
-        "JEVH",
-        "HOL",
-        "JEV",
-        "CELH",
-        "CEL",
+        "HH",
+	"JH",
+	"HL",
+	"JL",      
+        "BB",
         "EIDE",
         "ALR",
         "EIDW",
@@ -12587,7 +12587,7 @@
       ],
       "sectors": [
         {
-          "min": 355,
+          "min": 365,
           "points": [
             ["532343", "0112649"],
             ["531150", "0112041"],
@@ -12640,11 +12640,11 @@
     {
       "id": "Jever Low",
       "group": "EDYY",
-      "uid": "JEV",
-      "owner": ["JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "uid": "JL",
+      "owner": ["JL", "JH", "HH", "BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
-          "max": 354,
+          "max": 364,
           "min": 245,
           "points": [
             ["543809", "0085130"],
@@ -12710,10 +12710,10 @@
       "group": "EDYY",
       "uid": "JEVH",
       "owner": [
-        "JEVH",
-        "CELH",
-        "JEV",
-        "CEL",
+        "JH",
+	"HH", 
+	"JL",      
+        "BB",      
         "EIDE",
         "ALR",
         "EIDW",
@@ -12722,7 +12722,7 @@
       ],
       "sectors": [
         {
-          "min": 355,
+          "min": 365,
           "points": [
             ["543809", "0085130"],
             ["541455", "0082130"],
@@ -13391,25 +13391,39 @@
       "frequency": "128.810",
       "callsign": "Maastricht Radar"
     },
-    "HOL": {
+    "HL": {
       "colours": [{ "hex": "#e0377f" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "120.860",
       "callsign": "Maastricht Radar"
     },
-    "JEV": {
+    "HH": {
+      "colours": [{ "hex": "#714d2a" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "132.780",
+      "callsign": "Maastricht Radar"
+    },
+    "JL": {
       "colours": [{ "hex": "#d514ad" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "136.465",
       "callsign": "Maastricht Radar"
     },
-    "JEVH": {
+    "JH": {
       "colours": [{ "hex": "#ff2f6d" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "129.735",
+      "callsign": "Maastricht Radar"
+    },
+    "BB": {
+      "colours": [{ "hex": "#bad4d7" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "129.840",
       "callsign": "Maastricht Radar"
     },
     "MNS": {
