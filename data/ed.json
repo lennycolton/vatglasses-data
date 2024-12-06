@@ -3364,7 +3364,7 @@
       "id": "Baden",
       "group": "EDGG",
       "uid": "BAD",
-      "owner": ["BAD", "DKB", "KTG"],
+      "owner": ["BAD", "LBU", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 244,
@@ -3515,10 +3515,10 @@
       ]
     },
     {
-      "id": "Bottrop (Düsseldorf North)",
-      "group": "APP",
+      "id": "Bottrop",
+      "group": "EDGG",
       "uid": "BOT",
-      "owner": ["BOT", "DLD", "DLA", "DLF", "PADH"],
+      "owner": ["BOT", "DLD", "DLA", "GG-AL", "GG-AH", "GG-NAL", "GG-NAH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 244,
@@ -3750,9 +3750,9 @@
     },
     {
       "id": "Köln",
-      "group": "APP",
+      "group": "EDGG",
       "uid": "DKA",
-      "owner": ["DKA", "DKF", "NOR", "PADH"],
+      "owner": ["DKA", "GG-AL", "GG-AH", "GG-NAL", "GG-NAH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 144,
@@ -3884,7 +3884,7 @@
       "id": "Dinkelsbühl",
       "group": "EDGG",
       "uid": "DKB",
-      "owner": ["DKB", "KTG", "BAD"],
+      "owner": ["DKB", "KTG", "GG-OH", "GG-SOL", "GG-SOH", "GG-MOL", "GG-MOH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 84,
@@ -3979,10 +3979,10 @@
       ]
     },
     {
-      "id": "Eifel (Frankfurt Hahn)",
-      "group": "APP",
+      "id": "Eifel",
+      "group": "EDGG",
       "uid": "EIF",
-      "owner": ["EIF", "RUD", "GIN", "KTG"],
+      "owner": ["EIF", "RUD", "PFA", "KIR", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 164,
@@ -4102,7 +4102,7 @@
       "id": "Frankfurt 1",
       "group": "EDUU",
       "uid": "FFM1",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["F12", "U1", "F34", "U23", "UU-CWL", "UU-CWH", "GG-MH", "GG-MWH", "GG-MOH", "GG-MNH", "GG-XNH"],
       "sectors": [
         {
           "max": 324,
@@ -4144,7 +4144,7 @@
       "id": "Frankfurt 2",
       "group": "EDUU",
       "uid": "FFM2",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["F12", "U1", "F34", "U23", "UU-CWL", "UU-CWH", "GG-MH", "GG-MWH", "GG-MOH", "GG-MNH", "GG-XNH"],
       "sectors": [
         {
           "max": 354,
@@ -4173,7 +4173,7 @@
       "id": "Frankfurt 3",
       "group": "EDUU",
       "uid": "FFM3",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["F34", "U23", "UU-CWH", "GG-MH", "GG-MWH", "GG-MOH", "GG-MNH", "GG-XNH"],
       "sectors": [
         {
           "max": 374,
@@ -4202,7 +4202,7 @@
       "id": "Frankfurt 4",
       "group": "EDUU",
       "uid": "FFM4",
-      "owner": ["FFM", "NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["F34", "U23", "UU-CWH", "GG-MH", "GG-MWH", "GG-MOH", "GG-MNH", "GG-XNH"],
       "sectors": [
         {
           "min": 375,
@@ -4230,7 +4230,7 @@
       "id": "Fulda 1",
       "group": "EDUU",
       "uid": "FUL1",
-      "owner": ["FUL", "FFM", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["U1", "F12", "Z12", "U23", "F34", "Z34", "UU-CWL", "UU-CWH", "GG-MH", "GG-MWH", "GG-MOH", "GG-MNH", "GG-XNH"],
       "sectors": [
         {
           "max": 354,
@@ -4316,7 +4316,7 @@
       "id": "Fulda 2",
       "group": "EDUU",
       "uid": "FUL2",
-      "owner": ["FUL", "FFM", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["U23", "F34", "Z34", "UU-CWH", "GG-MH", "GG-MWH", "GG-MOH", "GG-MNH", "GG-XNH"],
       "sectors": [
         {
           "max": 374,
@@ -4366,7 +4366,7 @@
       "id": "Fulda 3",
       "group": "EDUU",
       "uid": "FUL3",
-      "owner": ["FUL", "FFM", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["U23", "F34", "Z34", "UU-CWH", "GG-MH", "GG-MWH", "GG-MOH", "GG-MNH", "GG-XNH"],
       "sectors": [
         {
           "min": 375,
@@ -4415,7 +4415,7 @@
       "id": "Gedern",
       "group": "EDGG",
       "uid": "GED",
-      "owner": ["GED", "HEF", "GIN", "RUD", "KTG"],
+      "owner": ["GED", "HEF", "GIN", "GG-MH", "GG-MWL", "GG-MWH", "GG-MOL", "GG-MOH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 214,
@@ -4569,7 +4569,7 @@
       "id": "Gießen",
       "group": "EDGG",
       "uid": "GIN",
-      "owner": ["GIN", "RUD", "KTG"],
+      "owner": ["GIN", "SIG", "HEF", "GG-MH", "GG-MWL", "GG-MWH", "GG-MOL", "GG-MOH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 204,
@@ -4801,7 +4801,7 @@
       "id": "Hammelburg",
       "group": "EDGG",
       "uid": "HAB",
-      "owner": ["HAB", "DKB", "KTG", "BAD"],
+      "owner": ["HAB", "KTG", "GG-OH", "GG-SOL", "GG-SOH", "GG-MOL", "GG-MOH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 244,
@@ -4911,7 +4911,7 @@
       "id": "Hersfeld",
       "group": "EDGG",
       "uid": "HEF",
-      "owner": ["HEF", "GIN", "RUD", "KTG"],
+      "owner": ["HEF", "GED", "GIN", "GG-MH", "GG-MWL", "GG-MWH", "GG-MOL", "GG-MOH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 244,
@@ -5164,10 +5164,10 @@
       ]
     },
     {
-      "id": "Hamm (Münster)",
-      "group": "APP",
+      "id": "Hamm",
+      "group": "EDGG",
       "uid": "HMM",
-      "owner": ["HMM", "PADH"],
+      "owner": ["HMM", "PADH", "GG-NH", "GG-NAL", "GG-NAH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 244,
@@ -5279,7 +5279,7 @@
       "id": "Kirn",
       "group": "EDGG",
       "uid": "KIR",
-      "owner": ["KIR", "RUD", "GIN", "KTG"],
+      "owner": ["KIR", "RUD", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 244,
@@ -5415,7 +5415,7 @@
       "id": "König",
       "group": "EDGG",
       "uid": "KNG",
-      "owner": ["KNG", "DKB", "KTG", "BAD"],
+      "owner": ["KNG", "DKB", "KTG", "GG-OH", "GG-SOL", "GG-SOH", "GG-MOL", "GG-MOH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 244,
@@ -5559,7 +5559,7 @@
       "id": "Kitzingen",
       "group": "EDGG",
       "uid": "KTG",
-      "owner": ["KTG", "HAB", "DKB", "BAD"],
+      "owner": ["KTG", "HAB", "GG-OH", "GG-SOL", "GG-SOH", "GG-MOL", "GG-MOH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 244,
@@ -5669,7 +5669,7 @@
       "id": "Luburg",
       "group": "EDGG",
       "uid": "LBU",
-      "owner": ["LBU", "BAD", "DKB", "KTG"],
+      "owner": ["LBU", "BAD", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 244,
@@ -5737,7 +5737,7 @@
       "id": "Main",
       "group": "EDGG",
       "uid": "MAN",
-      "owner": ["MAIN", "NKRH", "BAD", "DKB", "KTG"],
+      "owner": ["MAN", "NKRH", "BAD", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 174,
@@ -5839,7 +5839,7 @@
       "id": "Neckar High",
       "group": "EDGG",
       "uid": "NKRH",
-      "owner": ["NKRH", "BAD", "DKB", "KTG"],
+      "owner": ["NKRH", "BAD", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 244,
@@ -5946,10 +5946,10 @@
       ]
     },
     {
-      "id": "Neckar Low (Mannheim)",
-      "group": "APP",
+      "id": "Neckar Low",
+      "group": "EDGG",
       "uid": "NKRL",
-      "owner": ["NKRL", "NKRH", "BAD", "DKB", "KTG"],
+      "owner": ["NKRL", "NKRH", "BAD", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 74,
@@ -6018,10 +6018,10 @@
       ]
     },
     {
-      "id": "Nörvenich (Köln Upper)",
-      "group": "APP",
+      "id": "Nörvenich",
+      "group": "EDGG",
       "uid": "NOR",
-      "owner": ["NOR", "PADH"],
+      "owner": ["NOR", "DKA", "GG-AL", "GG-AH", "GG-NAL", "GG-NAH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 244,
@@ -6245,7 +6245,7 @@
       "id": "Nattenheim 1",
       "group": "EDUU",
       "uid": "NTM1",
-      "owner": ["NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["N12", "S1", "N34", "S23", "UU-CWL", "UU-CWH", "GG-WH", "GG-MWH", "GG-SWH", "GG-XSH"],
       "sectors": [
         {
           "max": 264,
@@ -6441,7 +6441,7 @@
       "id": "Nattenheim 2",
       "group": "EDUU",
       "uid": "NTM2",
-      "owner": ["NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["N12", "S1", "N34", "S23", "UU-CWL", "UU-CWH", "GG-WH", "GG-MWH", "GG-SWH", "GG-XSH"],
       "sectors": [
         {
           "max": 354,
@@ -6535,7 +6535,7 @@
       "id": "Nattenheim 3",
       "group": "EDUU",
       "uid": "NTM3",
-      "owner": ["NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["N34", "S23", "UU-CWH", "GG-WH", "GG-MWH", "GG-SWH", "GG-XSH"],
       "sectors": [
         {
           "max": 374,
@@ -6629,7 +6629,7 @@
       "id": "Nattenheim 4",
       "group": "EDUU",
       "uid": "NTM4",
-      "owner": ["NTM", "FUL", "WUR", "GIN", "KTG", "fss/EUCME"],
+      "owner": ["N34", "S23", "UU-CWH", "GG-WH", "GG-MWH", "GG-SWH", "GG-XSH"],
       "sectors": [
         {
           "min": 375,
@@ -6722,7 +6722,7 @@
       "id": "Paderborn High",
       "group": "EDGG",
       "uid": "PADH",
-      "owner": ["PADH"],
+      "owner": ["PADH", "GG-NH", "GG-NAL", "GG-NAH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 244,
@@ -6779,10 +6779,10 @@
       ]
     },
     {
-      "id": "Paderborn Low (Dortmund)",
-      "group": "APP",
+      "id": "Paderborn Low",
+      "group": "EDGG",
       "uid": "PADL",
-      "owner": ["PADL", "HMM", "PADH"],
+      "owner": ["PADL", "PADH", "HMM", "GG-NH", "GG-NAL", "GG-NAH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 134,
@@ -6917,10 +6917,10 @@
       ]
     },
     {
-      "id": "Pfalz (Saarbrücken)",
-      "group": "APP",
+      "id": "Pfalz",
+      "group": "EDGG",
       "uid": "PFA",
-      "owner": ["PFA", "EIF", "RUD", "GIN", "KTG"],
+      "owner": ["PFA", "KIR", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 244,
@@ -7242,7 +7242,7 @@
       "id": "Spessart",
       "group": "EDGG",
       "uid": "PSA",
-      "owner": ["PSA", "HAB", "DKB", "KTG", "BAD"],
+      "owner": ["PSA", "KTG", "HAB", "GG-OH", "GG-SOL", "GG-SOH", "GG-MOL", "GG-MOH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 194,
@@ -7303,10 +7303,10 @@
       ]
     },
     {
-      "id": "Reutlingen (Stuttgart South)",
-      "group": "APP",
+      "id": "Reutlingen",
+      "group": "EDGG",
       "uid": "REU",
-      "owner": ["REU", "STG", "BAD", "DKB", "KTG"],
+      "owner": ["REU", "STG", "BAD", "LBU", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 144,
@@ -7474,7 +7474,7 @@
       "id": "Rüdesheim",
       "group": "EDGG",
       "uid": "RUD",
-      "owner": ["RUD", "GIN", "KTG"],
+      "owner": ["RUD", "KIR", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 244,
@@ -7584,7 +7584,7 @@
       "id": "Siegen",
       "group": "EDGG",
       "uid": "SIG",
-      "owner": ["SIG", "TAU", "GIN", "RUD", "KTG"],
+      "owner": ["SIG", "TAU", "GIN", "GG-MH", "GG-MWL", "GG-MWH", "GG-MOL", "GG-MOH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 244,
@@ -7710,7 +7710,7 @@
       "id": "Söllingen 1",
       "group": "EDUU",
       "uid": "SLN1",
-      "owner": ["SLN", "TGO", "NTM", "WUR", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["S1", "N12", "T1", "S23", "N34", "T23", "UU-CWL", "UU-CWH", "GG-SH", "GG-SOH", "GG-SWH", "GG-XSH"],
       "sectors": [
         {
           "max": 354,
@@ -7934,7 +7934,7 @@
       "id": "Söllingen 2",
       "group": "EDUU",
       "uid": "SLN2",
-      "owner": ["SLN", "TGO", "NTM", "WUR", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["S23", "N34", "T23", "UU-CWH", "GG-SH", "GG-SOH", "GG-SWH", "GG-XSH"],
       "sectors": [
         {
           "max": 374,
@@ -8158,7 +8158,7 @@
       "id": "Söllingen 3",
       "group": "EDUU",
       "uid": "SLN3",
-      "owner": ["SLN", "TGO", "NTM", "WUR", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["S23", "N34", "T23", "UU-CWH", "GG-SH", "GG-SOH", "GG-SWH", "GG-XSH"],
       "sectors": [
         {
           "min": 375,
@@ -8378,10 +8378,10 @@
       ]
     },
     {
-      "id": "Stuttgart (North)",
-      "group": "APP",
+      "id": "Stuttgart",
+      "group": "EDGG",
       "uid": "STG",
-      "owner": ["STG", "REU", "BAD", "DKB", "KTG"],
+      "owner": ["STG", "REU", "BAD", "LBU", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 144,
@@ -8547,7 +8547,7 @@
       "id": "Taunus",
       "group": "EDGG",
       "uid": "TAU",
-      "owner": ["TAU", "GIN", "RUD", "KTG"],
+      "owner": ["TAU", "SIG", "GIN", "GG-MH", "GG-MWL", "GG-MWH", "GG-MOL", "GG-MOH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 244,
@@ -8699,7 +8699,7 @@
       "id": "Tango 1",
       "group": "EDUU",
       "uid": "TGO1",
-      "owner": ["TGO", "WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["T1", "S1", "T23", "S23", "UU-CWL", "UU-CWH", "GG-SH", "GG-SOH", "GG-SWH", "GG-XSH"],
       "sectors": [
         {
           "max": 354,
@@ -8773,7 +8773,7 @@
       "id": "Tango 2",
       "group": "EDUU",
       "uid": "TGO2",
-      "owner": ["TGO", "WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["T23", "S23", "UU-CWH", "GG-SH", "GG-SOH", "GG-SWH", "GG-XSH"],
       "sectors": [
         {
           "max": 374,
@@ -8819,7 +8819,7 @@
       "id": "Tango 3",
       "group": "EDUU",
       "uid": "TGO3",
-      "owner": ["TGO", "WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["T23", "S23", "UU-CWH", "GG-SH", "GG-SOH", "GG-SWH", "GG-XSH"],
       "sectors": [
         {
           "min": 375,
@@ -8864,7 +8864,7 @@
       "id": "Würzburg 1",
       "group": "EDUU",
       "uid": "WUR1",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["Z12", "U1", "Z34", "U23", "UU-CWL", "UU-CWH", "GG-OH", "GG-SOH", "GG-MOH", "GG-XSH"],
       "sectors": [
         {
           "max": 324,
@@ -8944,7 +8944,7 @@
       "id": "Würzburg 2",
       "group": "EDUU",
       "uid": "WUR2",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["Z12", "U1", "Z34", "U23", "UU-CWL", "UU-CWH", "GG-OH", "GG-SOH", "GG-MOH", "GG-XSH"],
       "sectors": [
         {
           "max": 354,
@@ -8986,7 +8986,7 @@
       "id": "Würzburg 3",
       "group": "EDUU",
       "uid": "WUR3",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["Z34", "U23", "UU-CWH", "GG-OH", "GG-SOH", "GG-MOH", "GG-XSH"],
       "sectors": [
         {
           "max": 374,
@@ -9028,7 +9028,7 @@
       "id": "Würzburg 4",
       "group": "EDUU",
       "uid": "WUR4",
-      "owner": ["WUR", "SLN", "DKB", "KTG", "fss/EUCME"],
+      "owner": ["Z34", "U23", "UU-CWH", "GG-OH", "GG-SOH", "GG-MOH", "GG-XSH"],
       "sectors": [
         {
           "min": 375,
@@ -9069,18 +9069,7 @@
       "id": "Münster High",
       "group": "EDYY",
       "uid": "MNSH",
-      "owner": [
-        "MNS",
-        "RHR",
-        "PADH",
-        "CEL",
-        "SOL",
-        "EMS",
-        "DST",
-        "EIDW",
-        "WWC",
-        "fss/EUCMW"
-      ],
+      "owner": ["MH", "RH", "ML", "RL", "GG-NH", "GG-NAH", "GG-MNH", "GG-XNH", "SH", "SL", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
           "min": 355,
@@ -9126,19 +9115,8 @@
     {
       "id": "Münster Low",
       "group": "EDYY",
-      "uid": "MNS",
-      "owner": [
-        "MNS",
-        "RHR",
-        "PADH",
-        "CEL",
-        "SOL",
-        "EMS",
-        "DST",
-        "EIDW",
-        "WWC",
-        "fss/EUCMW"
-      ],
+      "uid": "MNSL",
+      "owner": ["ML", "MH", "RL", "RH", "GG-NH", "GG-NAH", "GG-MNH", "GG-XNH", "SL", "SH", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 354,
@@ -9258,7 +9236,7 @@
       "id": "Ruhr High",
       "group": "EDYY",
       "uid": "RHRH",
-      "owner": ["RHR", "PADH", "fss/EUCMW"],
+      "owner": ["RH", "MH", "RL", "ML", "GG-AH", "GG-NAH", "GG-XNH"],
       "sectors": [
         {
           "min": 355,
@@ -9298,8 +9276,8 @@
     {
       "id": "Ruhr Low",
       "group": "EDYY",
-      "uid": "RHR",
-      "owner": ["RHR", "PADH", "fss/EUCMW"],
+      "uid": "RHRL",
+      "owner": ["RL", "RH", "ML", "MH", "GG-AH", "GG-NAH", "GG-XNH"],
       "sectors": [
         {
           "max": 294,
@@ -9419,21 +9397,9 @@
     },
     {
       "id": "Frankfurt North",
-      "group": "APP",
-      "uid": "FAN",
-      "owner": [
-        "FAN",
-        "FFN",
-        "FDN",
-        "FAS",
-        "FFS",
-        "FDS",
-        "GIN",
-        "RUD",
-        "DKB",
-        "BAD",
-        "KTG"
-      ],
+      "group": "EDGG",
+      "uid": "DFAN",
+      "owner": ["DFAN", "DFAS", "DFDN", "DFDS", "KIR", "RUD", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 104,
@@ -9563,21 +9529,9 @@
     },
     {
       "id": "Frankfurt South",
-      "group": "APP",
-      "uid": "FAS",
-      "owner": [
-        "FAS",
-        "FFS",
-        "FDS",
-        "FAN",
-        "FFN",
-        "FDN",
-        "GIN",
-        "RUD",
-        "DKB",
-        "BAD",
-        "KTG"
-      ],
+      "group": "EDGG",
+      "uid": "DFAS",
+      "owner": ["DFAS", "DFAN", "DFDS", "DFDN", "KIR", "RUD", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"],
       "sectors": [
         {
           "max": 104,
@@ -9738,9 +9692,9 @@
     },
     {
       "id": "Düsseldorf",
-      "group": "APP",
+      "group": "EDGG",
       "uid": "DLA",
-      "owner": ["DLA", "BOT", "DLD", "DLF", "PADH"],
+      "owner": ["DLA", "DLD", "GG-AL", "GG-AH", "GG-NAL", "GG-NAH", "GG-XNL", "GG-XNH"],
       "sectors": [
         {
           "max": 74,
@@ -12332,8 +12286,8 @@
     {
       "id": "Celle Low",
       "group": "EDYY",
-      "uid": "CEL",
-      "owner": ["CEL", "SOL", "DST", "EIDW", "WWC", "fss/EUCMW"],
+      "uid": "CELL",
+      "owner": ["CL", "CH", "SL", "SH", "ML", "MH", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 354,
@@ -12399,16 +12353,7 @@
       "id": "Celle High",
       "group": "EDYY",
       "uid": "CELH",
-      "owner": [
-        "CELH",
-        "SOLH",
-        "CEL",
-        "SOL",
-        "DST",
-        "EIDW",
-        "WWC",
-        "fss/EUCMW"
-      ],
+      "owner": ["CH", "SH", "MH", "CL", "SL", "MH", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
           "min": 355,
@@ -12453,7 +12398,7 @@
       "id": "Holstein Low",
       "group": "EDYY",
       "uid": "HL",
-      "owner": ["HL", "HH", "JL", "JH", "BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "owner": ["HL", "HH", "JL", "JH", "YY-BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 364,
@@ -12544,7 +12489,7 @@
 	"JH",
 	"HL",
 	"JL",      
-        "BB",
+        "YY-BB",
         "EIDE",
         "ALR",
         "EIDW",
@@ -12607,7 +12552,7 @@
       "id": "Jever Low",
       "group": "EDYY",
       "uid": "JL",
-      "owner": ["JL", "JH", "HH", "BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "owner": ["JL", "JH", "HH", "YY-BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
           "max": 364,
@@ -12679,7 +12624,7 @@
         "JH",
 	"HH", 
 	"JL",      
-        "BB",      
+        "YY-BB",      
         "EIDE",
         "ALR",
         "EIDW",
@@ -12751,8 +12696,8 @@
     {
       "id": "Solling Low",
       "group": "EDYY",
-      "uid": "SOL",
-      "owner": ["SOL", "CEL", "DST", "EIDW", "WWC", "fss/EUCMW"],
+      "uid": "SOLL",
+      "owner": ["SL", "SH", "CL", "CH", "ML", "MH", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 354,
@@ -12826,16 +12771,7 @@
       "id": "Solling High",
       "group": "EDYY",
       "uid": "SOLH",
-      "owner": [
-        "SOLH",
-        "CELH",
-        "SOL",
-        "CEL",
-        "DST",
-        "EIDW",
-        "WWC",
-        "fss/EUCMW"
-      ],
+      "owner": ["SH", "CH", "MH", "SL", "CL", "ML", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
           "min": 355,
@@ -12910,7 +12846,7 @@
     "EDWW": { "name": "Bremen" },
     "EDMM": { "name": "München" },
     "APP": { "name": "Approach" },
-    "EDUU": { "name": "Rhein (Karlsruhe)" },
+    "EDUU": { "name": "Rhein" },
     "EDYY": { "name": "Maastricht" },
     "EDWWMIL": { "name": "Bremen (Military)" },
     "EDMMMIL": { "name": "München (Military)" },
@@ -13180,7 +13116,7 @@
       "frequency": "127.050",
       "callsign": "Langen Radar"
     },
-    "MAIN": {
+    "MAN": {
       "colours": [{ "hex": "#22de14" }],
       "pre": ["EDGG"],
       "type": "CTR",
@@ -13204,7 +13140,7 @@
     "PSA": {
       "colours": [{ "hex": "#52d360" }],
       "pre": ["EDGG"],
-      "type": "CTR",
+      "type": "APP",
       "frequency": "125.405",
       "callsign": "Langen Radar"
     },
@@ -13228,6 +13164,230 @@
       "type": "CTR",
       "frequency": "127.625",
       "callsign": "Langen Radar"
+    },
+    "GG-AL": {
+      "colours": [{ "hex": "#474b4e" }],
+      "pre": ["EDGG"],
+      "type": "APP",
+      "frequency": "127.925",
+      "callsign": "Langen Radar"
+    },
+    "GG-AH": {
+      "colours": [{ "hex": "#f5d033" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "126.115",
+      "callsign": "Langen Radar"
+    },
+    "GG-SH": {
+      "colours": [{ "hex": "#4e5452" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "131.365",
+      "callsign": "Langen Radar"
+    },
+    "GG-MH": {
+      "colours": [{ "hex": "#3b3c36" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "134.690",
+      "callsign": "Langen Radar"
+    },
+    "GG-OH": {
+      "colours": [{ "hex": "#4e5452" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "133.835",
+      "callsign": "Langen Radar"
+    },
+    "GG-WH": {
+      "colours": [{ "hex": "#ec7c26" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "135.310",
+      "callsign": "Langen Radar"
+    },
+    "GG-NH": {
+      "colours": [{ "hex": "#45322e" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "130.110",
+      "callsign": "Langen Radar"
+    },
+    "GG-NAL": {
+      "colours": [{ "hex": "#af2b1e" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "118.750",
+      "callsign": "Langen Radar"
+    },
+    "GG-NAH": {
+      "colours": [{ "hex": "#ed760e" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "130.260",
+      "callsign": "Langen Radar"
+    },
+    "GG-SOL": {
+      "colours": [{ "hex": "#efa94a" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "121.050",
+      "callsign": "Langen Radar"
+    },
+    "GG-SOH": {
+      "colours": [{ "hex": "#cb3234" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "133.280",
+      "callsign": "Langen Radar"
+    },
+    "GG-SWL": {
+      "colours": [{ "hex": "#cc0605" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "129.175",
+      "callsign": "Langen Radar"
+    },
+    "GG-SWH": {
+      "colours": [{ "hex": "#781f19" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "136.480",
+      "callsign": "Langen Radar"
+    },
+    "GG-MOL": {
+      "colours": [{ "hex": "#424632" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "136.560",
+      "callsign": "Langen Radar"
+    },
+    "GG-MOH": {
+      "colours": [{ "hex": "#6d6552" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "134.065",
+      "callsign": "Langen Radar"
+    },
+    "GG-MWL": {
+      "colours": [{ "hex": "#a2231d" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "135.725",
+      "callsign": "Langen Radar"
+    },
+    "GG-MWH": {
+      "colours": [{ "hex": "#9b111e" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "128.830",
+      "callsign": "Langen Radar"
+    },
+    "GG-MNL": {
+      "colours": [{ "hex": "#8673a1" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "136.625",
+      "callsign": "Langen Radar"
+    },
+    "GG-MNH": {
+      "colours": [{ "hex": "#cac4b0" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "133.340",
+      "callsign": "Langen Radar"
+    },
+    "GG-XNL": {
+      "colours": [{ "hex": "#1e2460" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "125.935",
+      "callsign": "Langen Radar"
+    },
+    "GG-XNH": {
+      "colours": [{ "hex": "#00bb2d" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "128.075",
+      "callsign": "Langen Radar"
+    },
+    "GG-XSL": {
+      "colours": [{ "hex": "#ff2301" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "136.930",
+      "callsign": "Langen Radar"
+    },
+    "GG-XSH": {
+      "colours": [{ "hex": "#343b29" }],
+      "pre": ["EDGG"],
+      "type": "CTR",
+      "frequency": "123.010",
+      "callsign": "Langen Radar"
+    },
+    "UU-CWL": {
+      "colours": [{ "hex": "#d84b20" }],
+      "pre": ["EDUU"],
+      "type": "CTR",
+      "frequency": "134.955",
+      "callsign": "Rhein Radar"
+    },
+    "UU-CWH": {
+      "colours": [{ "hex": "#d95030" }],
+      "pre": ["EDUU"],
+      "type": "CTR",
+      "frequency": "136.030",
+      "callsign": "Rhein Radar"
+    },
+    "TADA": {
+      "colours": [{ "hex": "#343e40" }],
+      "pre": ["ETAD"],
+      "type": "APP",
+      "frequency": "129.475",
+      "callsign": "Spangdahlem GCA"
+    },
+    "TARA": {
+      "colours": [{ "hex": "#308446" }],
+      "pre": ["ETAR"],
+      "type": "APP",
+      "frequency": "124.280",
+      "callsign": "Ramstein GCA"
+    },
+    "THFA": {
+      "colours": [{ "hex": "#606e8c" }],
+      "pre": ["ETHF"],
+      "type": "APP",
+      "frequency": "120.865",
+      "callsign": "Fritzlar Radar"
+    },
+    "THNA": {
+      "colours": [{ "hex": "#0e294b" }],
+      "pre": ["ETHN"],
+      "type": "APP",
+      "frequency": "127.190",
+      "callsign": "Stetten Radar"
+    },
+    "TNGA": {
+      "colours": [{ "hex": "#bdecB6" }],
+      "pre": ["ETNG"],
+      "type": "APP",
+      "frequency": "123.730",
+      "callsign": "Frisbee Radar"
+    },
+    "TNNA": {
+      "colours": [{ "hex": "#922b3e" }],
+      "pre": ["ETNN"],
+      "type": "APP",
+      "frequency": "129.055",
+      "callsign": "Nörvenich Radar"
+    },
+    "TSBA": {
+      "colours": [{ "hex": "#4c514a" }],
+      "pre": ["ETSB"],
+      "type": "APP",
+      "frequency": "130.155",
+      "callsign": "Büchel Radar"
     },
 
     "ALP": {
@@ -13258,18 +13418,32 @@
       "frequency": "136.405",
       "callsign": "Rhein Radar"
     },
-    "FFM": {
+    "F12": {
       "colours": [{ "hex": "#06895d" }],
       "pre": ["EDUU"],
       "type": "CTR",
       "frequency": "132.330",
       "callsign": "Rhein Radar"
     },
-    "FUL": {
+    "F34": {
+      "colours": [{ "hex": "#474b4e" }],
+      "pre": ["EDUU"],
+      "type": "CTR",
+      "frequency": "135.955",
+      "callsign": "Rhein Radar"
+    },
+    "U1": {
       "colours": [{ "hex": "#e79d14" }],
       "pre": ["EDUU"],
       "type": "CTR",
       "frequency": "122.785",
+      "callsign": "Rhein Radar"
+    },
+    "U23": {
+      "colours": [{ "hex": "#f80000" }],
+      "pre": ["EDUU"],
+      "type": "CTR",
+      "frequency": "136.315",
       "callsign": "Rhein Radar"
     },
     "HVL": {
@@ -13286,11 +13460,18 @@
       "frequency": "136.335",
       "callsign": "Rhein Radar"
     },
-    "NTM": {
+    "N12": {
       "colours": [{ "hex": "#638c09" }],
       "pre": ["EDUU"],
       "type": "CTR",
       "frequency": "132.080",
+      "callsign": "Rhein Radar"
+    },
+    "N34": {
+      "colours": [{ "hex": "#cf3476" }],
+      "pre": ["EDUU"],
+      "type": "CTR",
+      "frequency": "133.815",
       "callsign": "Rhein Radar"
     },
     "OSE": {
@@ -13314,11 +13495,18 @@
       "frequency": "133.860",
       "callsign": "Rhein Radar"
     },
-    "SLN": {
+    "S1": {
       "colours": [{ "hex": "#bad4d7" }],
       "pre": ["EDUU"],
       "type": "CTR",
       "frequency": "120.930",
+      "callsign": "Rhein Radar"
+    },
+    "S23": {
+      "colours": [{ "hex": "#84c3be" }],
+      "pre": ["EDUU"],
+      "type": "CTR",
+      "frequency": "124.035",
       "callsign": "Rhein Radar"
     },
     "SPE": {
@@ -13328,29 +13516,43 @@
       "frequency": "133.285",
       "callsign": "Rhein Radar"
     },
-    "TGO": {
+    "T1": {
       "colours": [{ "hex": "#b418f0" }],
       "pre": ["EDUU"],
       "type": "CTR",
       "frequency": "132.405",
       "callsign": "Rhein Radar"
     },
-    "WUR": {
+    "T23": {
+      "colours": [{ "hex": "#332f2c" }],
+      "pre": ["EDUU"],
+      "type": "CTR",
+      "frequency": "135.030",
+      "callsign": "Rhein Radar"
+    },
+    "Z12": {
       "colours": [{ "hex": "#714d2a" }],
       "pre": ["EDUU"],
       "type": "CTR",
       "frequency": "134.085",
       "callsign": "Rhein Radar"
     },
+    "Z34": {
+      "colours": [{ "hex": "#cda434" }],
+      "pre": ["EDUU"],
+      "type": "CTR",
+      "frequency": "118.215",
+      "callsign": "Rhein Radar"
+    },
 
-    "CEL": {
+    "CL": {
       "colours": [{ "hex": "#cbef87" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "133.955",
       "callsign": "Maastricht Radar"
     },
-    "CELH": {
+    "CH": {
       "colours": [{ "hex": "#bebc35" }],
       "pre": ["EDYY"],
       "type": "CTR",
@@ -13385,35 +13587,49 @@
       "frequency": "129.735",
       "callsign": "Maastricht Radar"
     },
-    "BB": {
+    "YY-BB": {
       "colours": [{ "hex": "#bad4d7" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "129.840",
       "callsign": "Maastricht Radar"
     },
-    "MNS": {
+    "ML": {
       "colours": [{ "hex": "#67d78e" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "122.185",
       "callsign": "Maastricht Radar"
     },
-    "RHR": {
+    "MH": {
+      "colours": [{ "hex": "#909090" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "133.215",
+      "callsign": "Maastricht Radar"
+    },
+    "RL": {
       "colours": [{ "hex": "#cf75aa" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "128.790",
       "callsign": "Maastricht Radar"
     },
-    "SOL": {
+    "RH": {
+      "colours": [{ "hex": "#646b63" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "122.835",
+      "callsign": "Maastricht Radar"
+    },
+    "SL": {
       "colours": [{ "hex": "#1357b1" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "134.710",
       "callsign": "Maastricht Radar"
     },
-    "SOLH": {
+    "SH": {
       "colours": [{ "hex": "#810958" }],
       "pre": ["EDYY"],
       "type": "CTR",
@@ -13632,42 +13848,42 @@
       "frequency": "123.600",
       "callsign": "Wittmund Radar"
     },
-    "FAN": {
+    "DFAN": {
       "colours": [{ "hex": "#88623f" }],
       "pre": ["EDDF"],
       "type": "APP",
       "frequency": "120.805",
       "callsign": "Langen Radar"
     },
-    "FAS": {
+    "DFAS": {
       "colours": [{ "hex": "#227c85" }],
       "pre": ["EDDF"],
       "type": "APP",
       "frequency": "125.355",
       "callsign": "Langen Radar"
     },
-    "FFN": {
+    "DFANT": {
       "colours": [{ "hex": "#cb8695" }],
       "pre": ["EDDF"],
       "type": "APP",
       "frequency": "127.280",
       "callsign": "Frankfurt Arrival"
     },
-    "FFS": {
+    "DFAST": {
       "colours": [{ "hex": "#7da5a1" }],
       "pre": ["EDDF"],
       "type": "APP",
       "frequency": "118.505",
       "callsign": "Frankfurt Arrival"
     },
-    "FDN": {
+    "DFDN": {
       "colours": [{ "hex": "#3ec1fe" }],
       "pre": ["EDDF"],
       "type": "DEP",
       "frequency": "120.155",
       "callsign": "Langen Radar"
     },
-    "FDS": {
+    "DFDS": {
       "colours": [{ "hex": "#fcb71d" }],
       "pre": ["EDDF"],
       "type": "DEP",
@@ -13688,7 +13904,7 @@
       "frequency": "135.350",
       "callsign": "Langen Radar"
     },
-    "DKF": {
+    "DKAT": {
       "colours": [{ "hex": "#055a5a" }],
       "pre": ["EDDK"],
       "type": "APP",
@@ -13709,7 +13925,7 @@
       "frequency": "128.555",
       "callsign": "Langen Radar"
     },
-    "DLF": {
+    "DLAT": {
       "colours": [{ "hex": "#06cc9c" }],
       "pre": ["EDDL"],
       "type": "APP",
@@ -13737,7 +13953,7 @@
       "frequency": "129.675",
       "callsign": "Langen Radar"
     },
-    "SF": {
+    "DSAT": {
       "colours": [{ "hex": "#23f6ac" }],
       "pre": ["EDDS"],
       "type": "APP",
@@ -13880,67 +14096,67 @@
       "callsign": "Frankfurt",
       "coord": [50.033333333333, 8.5705],
       "runways": ["25", "07"],
-      "topdown": ["FAS", "FAN", "GIN", "RUD", "DKB", "BAD", "KTG"]
+      "topdown": ["DFAN", "DFAS", "DFDN", "DFDS", "KIR", "RUD", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"]
     },
     "EDDG": {
       "callsign": "Münster",
       "coord": [52.134666666667, 7.6848333333333],
-      "topdown": ["HMM", "PAD", "PADH", "MNS", "RHR"]
+      "topdown": ["HMM", "PADH", "GG-NH", "GG-NAL", "GG-NAH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"]
     },
     "EDDK": {
       "callsign": "Köln/Bonn",
       "coord": [50.866, 7.1426666666667],
-      "topdown": ["DKF", "DKA", "NOR", "PADH", "RHR"]
+      "topdown": ["DKA", "GG-AL", "GG-AH", "GG-NAL", "GG-NAH", "GG-XNL", "GG-XNH"]
     },
     "EDDL": {
       "callsign": "Düsseldorf",
       "coord": [51.281, 6.7573333333333],
-      "topdown": ["DLF", "DLD", "BOT", "DLA", "PADH", "RHR"]
+      "topdown": ["DLA", "DLD", "GG-AL", "GG-AH", "GG-NAL", "GG-NAH", "GG-XNL", "GG-XNH"]
     },
     "EDDS": {
       "callsign": "Stuttgart",
       "coord": [48.689833333333, 9.222],
-      "topdown": ["STG", "REU", "BAD", "DKB", "KTG"]
+      "topdown": ["STG", "REU", "BAD", "LBU", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"]
     },
     "EDFH": {
       "callsign": "Hahn",
       "coord": [49.945833333333, 7.261],
-      "topdown": ["EIF", "RUD", "GIN", "KTG"]
+      "topdown": ["EIF", "RUD", "PFA", "KIR", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"]
     },
     "EDFM": {
       "callsign": "Mannheim",
       "coord": [49.472666666667, 8.5143333333333],
-      "topdown": ["NKRL", "NKRH", "BAD", "DKB", "KTG"]
+      "topdown": ["NKRL", "NKRH", "BAD", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"]
     },
     "EDLN": {
       "callsign": "Mönchengladbach",
       "coord": [51.230333333333, 6.5045],
-      "topdown": ["DLF", "DLA", "DLD", "BOT", "PADH", "RHR"]
+      "topdown": ["DLD", "DLA", "GG-AL", "GG-AH", "GG-NAL", "GG-NAH", "GG-XNL", "GG-XNH"]
     },
     "EDLP": {
       "callsign": "Paderborn",
       "coord": [51.614166666667, 8.6163333333333],
-      "topdown": ["PADL", "HMML", "PADH", "MNS", "RHR"]
+      "topdown": ["PADL", "PADH", "HMM", "GG-NH", "GG-NAL", "GG-NAH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"]
     },
     "EDLV": {
       "callsign": "Niederrhein",
       "coord": [51.602333333333, 6.1421666666667],
-      "topdown": ["BOT", "DLD", "DLA", "DLF", "PADH", "RHR"]
+      "topdown": ["BOT", "DLD", "DLA", "GG-AL", "GG-AH", "GG-NAL", "GG-NAH", "GG-XNL", "GG-XNH"]
     },
     "EDLW": {
       "callsign": "Dortmund",
       "coord": [51.518333333333, 7.6121666666667],
-      "topdown": ["PADL", "HMML", "PADH", "MNS", "RHR"]
+      "topdown": ["PADL", "PADH", "HMM", "GG-NH", "GG-NAL", "GG-NAH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"]
     },
     "EDSB": {
       "callsign": "Baden",
       "coord": [48.779333333333, 8.0805],
-      "topdown": ["REU", "STG", "BAD", "DKB", "KTG"]
+      "topdown": ["lf/STA", "lf/EES", "lf/EE", "REU", "STG", "BAD", "LBU", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"]
     },
     "EDTL": {
       "callsign": "Lahr",
       "coord": [48.369333333333, 7.8276666666667],
-      "topdown": ["REU", "STG", "BAD", "DKB", "KTG"]
+      "topdown": ["lf/STA", "lf/EES", "lf/EE", "REU", "STG", "BAD", "LBU", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"]
     },
     "EDAH": {
       "callsign": "Heringsdorf",
@@ -14062,7 +14278,8 @@
     "EDCW": { "callsign": "Wismar", "coord": ["53.916667", "11.5"] },
     "EDCX": { "callsign": "Purkshof", "coord": ["54.160882", "12.248418"] },
     "EDCY": { "callsign": "Spremberg-Welzow", "coord": ["51.583333", "14.133333"] },
-    "EDDR": { "callsign": "Saarbrucken", "coord": ["49.214444", "7.109444"] },
+    "EDDR": { "callsign": "Saarbrücken", "coord": ["49.214444", "7.109444"],
+      "topdown": ["PFA", "KIR", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"] },
     "EDEB": { "callsign": "Bad Langensalza", "coord": ["51.129183", "10.621664"] },
     "EDEF": { "callsign": "Babenhausen", "coord": ["49.952883", "8.969258"] },
     "EDEG": { "callsign": "Gotha-Ost", "coord": ["50.970556", "10.728056"] },
@@ -14088,7 +14305,8 @@
     "EDFN": { "callsign": "Marburg-Schonstadt", "coord": ["50.866667", "8.816667"] },
     "EDFO": { "callsign": "Michelstadt", "coord": ["49.678", "8.973833"] },
     "EDFP": { "callsign": "Ober-Moerlen", "coord": ["50.361867", "8.710659"] },
-    "EDFQ": { "callsign": "Allendorf", "coord": ["51.035333", "8.680833"] },
+    "EDFQ": { "callsign": "Allendorf", "coord": ["51.035333", "8.680833"],
+      "topdown": ["GIN", "SIG", "HEF", "GG-MH", "GG-MWL", "GG-MWH", "GG-MOL", "GG-MOH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"] },
     "EDFR": { "callsign": "Rothenburg o. d. Tauber", "coord": ["49.383333", "10.216667"] },
     "EDFS": { "callsign": "Schweinfurt-Sued", "coord": ["50.010526", "10.251273"] },
     "EDFT": { "callsign": "Lauterbach", "coord": ["50.683222", "9.410276"] },
@@ -14110,7 +14328,8 @@
     "EDGP": { "callsign": "Oppenheim", "coord": ["49.841", "8.375833"] },
     "EDGQ": { "callsign": "Schameder", "coord": ["51.000128", "8.306823"] },
     "EDGR": { "callsign": "Giessen-Reiskirchen", "coord": ["50.566845", "8.8698"] },
-    "EDGS": { "callsign": "Siegerland", "coord": ["50.875", "8.083333"] },
+    "EDGS": { "callsign": "Siegerland", "coord": ["50.875", "8.083333"],
+      "topdown": ["SIG", "TAU", "GIN", "GG-MH", "GG-MWL", "GG-MWH", "GG-MOL", "GG-MOH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"] },
     "EDGT": { "callsign": "Bottenhorn", "coord": ["50.795205", "8.458514"] },
     "EDGU": { "callsign": "Unterschuepf", "coord": ["49.515578", "9.66831"] },
     "EDGW": { "callsign": "Wolfhagen \"Graner Berg\"", "coord": ["51.30704", "9.175305"] },
@@ -14264,7 +14483,8 @@
     "EDQD": { "callsign": "Bayreuth", "coord": ["49.98306", "11.63306"] },
     "EDQE": { "callsign": "Burg Feuerstein", "coord": ["49.794303", "11.132417"] },
     "EDQF": { "callsign": "Ansbach-Petersdorf", "coord": ["49.366667", "10.666667"] },
-    "EDQG": { "callsign": "Giebelstadt", "coord": ["49.648167", "9.9665"] },
+    "EDQG": { "callsign": "Giebelstadt", "coord": ["49.648167", "9.9665"],
+      "topdown": ["THNA", "DKB", "KTG", "GG-OH", "GG-SOL", "GG-SOH", "GG-MOL", "GG-MOH", "GG-XSL", "GG-XSH"] },
     "EDQH": { "callsign": "Herzogenaurach", "coord": ["49.5825", "10.878"] },
     "EDQI": { "callsign": "Lauf-Lillinghof", "coord": ["49.604746", "11.283908"] },
     "EDQK": { "callsign": "Kulmbach", "coord": ["50.133333", "11.466667"] },
@@ -14300,9 +14520,10 @@
     "EDRW": { "callsign": "Dierdorf-Wienau", "coord": ["50.566285", "7.653864"] },
     "EDRX": { "callsign": "Neunkirchen-Bexbach", "coord": ["49.335306", "7.265874"] },
     "EDRY": { "callsign": "Speyer", "coord": ["49.302775", "8.451194"] },
-    "EDRZ": { "callsign": "Zweibrucken", "coord": ["49.21", "7.401667"] },
+    "EDRZ": { "callsign": "Zweibrücken", "coord": ["49.21", "7.401667"],
+      "topdown": ["PFA", "KIR", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"] },
     "EDSA": { "callsign": "Albstadt-Degerfeld", "coord": ["48.249667", "9.060333"] },
-    "EDSE": { "callsign": "Goeppingen-Bezgenriet", "coord": ["48.658333", "9.625"] },
+    "EDSE": { "callsign": "Göppingen-Bezgenriet", "coord": ["48.658333", "9.625"] },
     "EDSF": { "callsign": "Huetten-Hotzenwald", "coord": ["47.633981", "7.937261"] },
     "EDSG": { "callsign": "Grabenstetten", "coord": ["48.536111", "9.436944"] },
     "EDSH": { "callsign": "Backnang-Heiningen", "coord": ["48.91981", "9.455296"] },
@@ -14314,18 +14535,20 @@
     "EDSP": { "callsign": "Poltringen", "coord": ["48.547139", "8.945778"] },
     "EDSR": { "callsign": "Radolfzell-Stahringen", "coord": ["47.802747", "8.979583"] },
     "EDST": { "callsign": "Hahnweide", "coord": ["48.631889", "9.429556"] },
-    "EDSV": { "callsign": "Waechtersberg", "coord": ["48.615167", "8.7556"] },
+    "EDSV": { "callsign": "Wächtersberg", "coord": ["48.615167", "8.7556"] },
     "EDSW": { "callsign": "Altdorf-Wallburg", "coord": ["48.269869", "7.842198"] },
     "EDSZ": { "callsign": "Rottweil-Zepfenhan", "coord": ["48.186553", "8.721245"] },
     "EDTB": { "callsign": "Baden-Oos", "coord": ["48.79176", "8.186586"] },
     "EDTC": { "callsign": "Bruchsal", "coord": ["49.135058", "8.563473"] },
-    "EDTD": { "callsign": "Donaueschingen-Villingen", "coord": ["47.9735", "8.522167"] },
-    "EDTE": { "callsign": "Eutingen Im Gaeu", "coord": ["48.4855", "8.778167"] },
-    "EDTF": { "callsign": "Freiburg i. Br.", "coord": ["48.022667", "7.832583"] },
+    "EDTD": { "callsign": "Donaueschingen", "coord": ["47.9735", "8.522167"],
+      "topdown": ["ls/ZA", "ls/ZAW", "ls/SZE", "ls/SZS", "ls/SZ", "ls/SC", "ls/ZF"] },
+    "EDTE": { "callsign": "Eutingen Im Gäu", "coord": ["48.4855", "8.778167"] },
+    "EDTF": { "callsign": "Freiburg", "coord": ["48.022667", "7.832583"] },
     "EDTG": { "callsign": "Bremgarten", "coord": ["47.903241", "7.61779"] },
     "EDTH": { "callsign": "Heubach", "coord": ["48.8", "9.933333"] },
     "EDTK": { "callsign": "Karlsruhe-Forchheim", "coord": ["48.979667", "8.331167"] },
-    "EDTM": { "callsign": "Mengen-Hohentengen", "coord": ["48.053833", "9.372833"] },
+    "EDTM": { "callsign": "Mengen-Hohentengen", "coord": ["48.053833", "9.372833"],
+      "topdown": ["ls/ARFA", "ls/ZA", "ls/SZE", "ls/SZS", "ls/SZ", "ls/SC", "ZUG", "TRU", "RDG"] },
     "EDTN": { "callsign": "Nabern/Teck", "coord": ["48.612623", "9.477242"] },
     "EDTO": { "callsign": "Offenburg", "coord": ["48.44985", "7.924684"] },
     "EDTP": { "callsign": "Pfullendorf", "coord": ["47.916667", "9.25"] },
@@ -14334,8 +14557,9 @@
     "EDTS": { "callsign": "Schwenningen (Neckar)", "coord": ["48.066667", "8.566667"] },
     "EDTU": { "callsign": "Saulgau", "coord": ["48.029355", "9.50725"] },
     "EDTW": { "callsign": "Winzeln-Schramberg", "coord": ["48.279167", "8.428333"] },
-    "EDTX": { "callsign": "Sch.Hall-Weckrieden", "coord": ["49.125", "9.783333"] },
-    "EDTY": { "callsign": "Sch.Hall-Hessental", "coord": ["49.12", "9.778333"] },
+    "EDTX": { "callsign": "Weckrieden", "coord": ["49.125", "9.783333"] },
+    "EDTY": { "callsign": "Schwäbisch Hall", "coord": ["49.12", "9.778333"],
+      "topdown": ["STG", "REU", "BAD", "LBU", "GG-SH", "GG-SOL", "GG-SOH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"] },
     "EDTZ": { "callsign": "Konstanz", "coord": ["47.68306", "9.18306"] },
     "EDUA": { "callsign": "Stechow-Ferchesar", "coord": ["52.650697", "12.487837"] },
     "EDUF": { "callsign": "Falkenberg-Loennewitz", "coord": ["51.547806", "13.228139"] },
@@ -14409,33 +14633,43 @@
     "EDXU": { "callsign": "Huettenbusch", "coord": ["53.286262", "8.947278"] },
     "EDXY": { "callsign": "Wyk (Foehr)", "coord": ["54.683333", "8.533333"] },
     "EDXZ": { "callsign": "Kuehrstedt-Bederkesa", "coord": ["53.568056", "8.78935"] },
-    "ETAD": { "callsign": "Spangdahlem", "coord": ["49.972667", "6.6925"] },
-    "ETAR": { "callsign": "Ramstein", "coord": ["49.436667", "7.6"] },
-    "ETEB": { "callsign": "Ansbach", "coord": ["49.308167", "10.638667"] },
+    "ETAD": { "callsign": "Spangdahlem", "coord": ["49.972667", "6.6925"],
+      "topdown": ["TADA", "EIF", "RUD", "PFA", "KIR", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"] },
+    "ETAR": { "callsign": "Ramstein", "coord": ["49.436667", "7.6"],
+      "topdown": ["TARA", "PFA", "KIR", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"] },
+    "ETEB": { "callsign": "Ansbach", "coord": ["49.308167", "10.638667"],
+      "topdown": ["DKB", "KTG", "GG-OH", "GG-SOL", "GG-SOH", "GG-MOL", "GG-MOH", "GG-XSL", "GG-XSH"] },
     "ETEK": { "callsign": "Baumholder", "coord": ["49.6515", "7.307167"] },
     "ETHA": { "callsign": "Altenstadt", "coord": ["47.8355", "10.871333"] },
     "ETHB": { "callsign": "Buckeburg", "coord": ["52.2785", "9.082167"] },
     "ETHC": { "callsign": "Celle", "coord": ["52.596333", "10.025833"] },
-    "ETHF": { "callsign": "Fritzlar", "coord": ["51.1145", "9.285833"] },
+    "ETHF": { "callsign": "Fritzlar", "coord": ["51.1145", "9.285833"],
+      "topdown": ["THFA", "HEF", "GED", "GIN", "GG-MH", "GG-MWL", "GG-MWH", "GG-MOL", "GG-MOH", "GG-MNL", "GG-MNH", "GG-XNL", "GG-XNH"] },
     "ETHL": { "callsign": "Laupheim", "coord": ["48.220108", "9.910208"] },
-    "ETHN": { "callsign": "Niederstetten", "coord": ["49.393333", "9.96"] },
+    "ETHN": { "callsign": "Stetten", "coord": ["49.393333", "9.96"],
+      "topdown": ["THNA", "DKB", "KTG", "GG-OH", "GG-SOL", "GG-SOH", "GG-MOL", "GG-MOH", "GG-XSL", "GG-XSH"] },
     "ETHS": { "callsign": "Fassberg", "coord": ["52.919333", "10.183833"] },
     "ETIC": { "callsign": "Grafenwohr", "coord": ["49.69948", "11.941217"] },
     "ETIH": { "callsign": "Hohenfels", "coord": ["49.2165", "11.836167"] },
-    "ETIK": { "callsign": "Illesheim", "coord": ["49.473833", "10.387833"] },
+    "ETIK": { "callsign": "Illesheim", "coord": ["49.473833", "10.387833"],
+      "topdown": ["DKB", "KTG", "GG-OH", "GG-SOL", "GG-SOH", "GG-MOL", "GG-MOH", "GG-XSL", "GG-XSH"] },
     "ETMN": { "callsign": "Nordholz", "coord": ["53.768333", "8.658333"] },
     "ETND": { "callsign": "Diepholz", "coord": ["52.583333", "8.35"] },
-    "ETNG": { "callsign": "Geilenkirchen", "coord": ["50.960836", "6.041944"] },
+    "ETNG": { "callsign": "Frisbee", "coord": ["50.960836", "6.041944"],
+      "topdown": ["TNGA", "BOT", "DLD", "DLA", "GG-AL", "GG-AH", "GG-NAL", "GG-NAH", "GG-XNL", "GG-XNH"] },
     "ETNH": { "callsign": "Hohn", "coord": ["54.313333", "9.54"] },
     "ETNJ": { "callsign": "Jever", "coord": ["53.533333", "7.883333"] },
-    "ETNN": { "callsign": "Norvenich", "coord": ["50.831167", "6.658167"] },
+    "ETNN": { "callsign": "Nörvenich", "coord": ["50.831167", "6.658167"],
+      "topdown": ["TNNA", "DKA", "GG-AL", "GG-AH", "GG-NAL", "GG-NAH", "GG-XNL", "GG-XNH"] },
     "ETNS": { "callsign": "Schleswig", "coord": ["54.459333", "9.516333"] },
     "ETNT": { "callsign": "Wittmundhafen", "coord": ["53.547833", "7.667333"] },
     "ETNW": { "callsign": "Wunstorf", "coord": ["52.454333", "9.423"] },
     "ETOI": { "callsign": "Vilseck Aaf", "coord": ["49.634033", "11.767861"] },
-    "ETOU": { "callsign": "Wiesbaden", "coord": ["50.049833", "8.3255"] },
+    "ETOU": { "callsign": "Wiesbaden", "coord": ["50.049833", "8.3255"],
+      "topdown": ["DFDN", "DFDS", "DFAN", "DFAS", "RUD", "KIR", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"] },
     "ETSA": { "callsign": "Landsberg", "coord": ["48.070556", "10.906111"] },
-    "ETSB": { "callsign": "Buchel", "coord": ["50.173889", "7.063333"] },
+    "ETSB": { "callsign": "Büchel", "coord": ["50.173889", "7.063333"],
+      "topdown": ["TSBA", "EIF", "RUD", "PFA", "KIR", "GG-WH", "GG-MWL", "GG-MWH", "GG-SWL", "GG-SWH", "GG-XSL", "GG-XSH"] },
     "ETSF": { "callsign": "Furstenfeldbruck", "coord": ["48.204713", "11.267825"] },
     "ETSH": { "callsign": "Holzdorf", "coord": ["51.767833", "13.167667"] },
     "ETSI": { "callsign": "Ingolstadt-Manching", "coord": ["48.715", "11.503333"] },
