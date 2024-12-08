@@ -12280,7 +12280,7 @@
       "id": "Celle High",
       "group": "EDYY",
       "uid": "CH",
-      "owner": ["CH", "SH", "MH", "CL", "SL", "MH", "YY-BB", "DST", "EIDW", "WWC"],
+      "owner": ["CH", "SH", "MH", "CL", "SL", "ML", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
           "min": 355,
