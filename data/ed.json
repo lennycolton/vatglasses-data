@@ -8995,7 +8995,7 @@
     {
       "id": "Münster High",
       "group": "EDYY",
-      "uid": "MNSH",
+      "uid": "MH",
       "owner": ["MH", "RH", "ML", "RL", "GG-NH", "GG-NAH", "GG-MNH", "GG-XNH", "SH", "SL", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
@@ -9042,7 +9042,7 @@
     {
       "id": "Münster Low",
       "group": "EDYY",
-      "uid": "MNSL",
+      "uid": "ML",
       "owner": ["ML", "MH", "RL", "RH", "GG-NH", "GG-NAH", "GG-MNH", "GG-XNH", "SL", "SH", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
@@ -9162,7 +9162,7 @@
     {
       "id": "Ruhr High",
       "group": "EDYY",
-      "uid": "RHRH",
+      "uid": "RH",
       "owner": ["RH", "MH", "RL", "ML", "GG-AH", "GG-NAH", "GG-XNH"],
       "sectors": [
         {
@@ -9203,7 +9203,7 @@
     {
       "id": "Ruhr Low",
       "group": "EDYY",
-      "uid": "RHRL",
+      "uid": "RL",
       "owner": ["RL", "RH", "ML", "MH", "GG-AH", "GG-NAH", "GG-XNH"],
       "sectors": [
         {
@@ -12213,7 +12213,7 @@
     {
       "id": "Celle Low",
       "group": "EDYY",
-      "uid": "CELL",
+      "uid": "CL",
       "owner": ["CL", "CH", "SL", "SH", "ML", "MH", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
@@ -12279,7 +12279,7 @@
     {
       "id": "Celle High",
       "group": "EDYY",
-      "uid": "CELH",
+      "uid": "CH",
       "owner": ["CH", "SH", "MH", "CL", "SL", "MH", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
@@ -12546,7 +12546,7 @@
     {
       "id": "Jever High",
       "group": "EDYY",
-      "uid": "JEVH",
+      "uid": "JH",
       "owner": [
         "JH",
 	"HH", 
@@ -12623,7 +12623,7 @@
     {
       "id": "Solling Low",
       "group": "EDYY",
-      "uid": "SOLL",
+      "uid": "SL",
       "owner": ["SL", "SH", "CL", "CH", "ML", "MH", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
@@ -12697,7 +12697,7 @@
     {
       "id": "Solling High",
       "group": "EDYY",
-      "uid": "SOLH",
+      "uid": "SH",
       "owner": ["SH", "CH", "MH", "SL", "CL", "ML", "YY-BB", "DST", "EIDW", "WWC"],
       "sectors": [
         {
