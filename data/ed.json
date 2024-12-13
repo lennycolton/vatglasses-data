@@ -9005,6 +9005,7 @@
         "SH",
         "SL",
 	"YY-BB",
+	"EMS",
         "DST",
         "EIDW",
         "WWC"
@@ -9064,6 +9065,7 @@
         "SL",
         "SH",
 	"YY-BB",
+	"EMS",
         "DST",
         "EIDW",
         "WWC"
@@ -9237,7 +9239,7 @@
       "owner": [
         "RL",
         "RH",
-	"LL",
+	"ML",
 	"MH",
         "PADH"
       ],
@@ -12792,7 +12794,7 @@
       "group": "EDYY",
       "uid": "SH",
       "owner": [
-        "SL",
+        "SH",
         "CH",
 	"MH",
 	"SL",
@@ -12877,7 +12879,7 @@
     "EDWW": { "name": "Bremen" },
     "EDMM": { "name": "München" },
     "APP": { "name": "Approach" },
-    "EDUU": { "name": "Rhein (Karlsruhe)" },
+    "EDUU": { "name": "Rhein" },
     "EDYY": { "name": "Maastricht" },
     "EDWWMIL": { "name": "Bremen (Military)" },
     "EDMMMIL": { "name": "München (Military)" },
