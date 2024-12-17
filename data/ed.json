@@ -9835,7 +9835,7 @@
       "id": "Aller",
       "group": "EDWW",
       "uid": "ALR",
-      "owner": ["ALR", "EIDW", "WWC"],
+      "owner": ["ALR", "HEI", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 244,
