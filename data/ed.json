@@ -8997,6 +8997,7 @@
       "group": "EDYY",
       "uid": "MH",
       "owner": [
+      	"MM",
         "MH",
         "RH",
 	"ML",
@@ -9057,6 +9058,7 @@
       "group": "EDYY",
       "uid": "ML",
       "owner": [
+      	"MM",
         "ML",
         "MH",
 	"RL",
@@ -13359,6 +13361,13 @@
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "129.840",
+      "callsign": "Maastricht Radar"
+    },
+    "MM": {
+      "colours": [{ "hex": "#a3062d" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "130.110",
       "callsign": "Maastricht Radar"
     },
     "ML": {
