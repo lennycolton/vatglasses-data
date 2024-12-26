@@ -3,18 +3,7 @@
     {
       "id": "EHAM CTR1",
       "group": "TWR",
-      "owner": [
-        "TW1",
-        "TW2",
-        "TWW",
-        "FD1",
-        "FD2",
-        "AR1",
-        "AR2",
-        "ACW",
-        "ACS",
-        "ACE"
-      ],
+      "owner": ["TW1","TW2","TWW","AR1","AR2","FD1","FD2","ACW","ACL","ACA","ACS","ACE"],
       "sectors": [
         {
           "min": 0,
@@ -74,21 +63,10 @@
         }
       ]
     },
-    {  
-	  "id": "EHAM TMA 7",
+    {
+      "id": "EHAM TMA 7",
       "group": "TWR",
-      "owner": [
-        "TWW",
-        "TW1",
-        "TW2",
-        "FD1",
-        "FD2",
-        "AR1",
-        "AR2",
-        "ACW",
-        "ACS",
-        "ACE"
-      ],
+      "owner": ["TWW","TW1","TW2","AR1","AR2","FD1","FD2","ACW","ACL","ACA","ACS","ACE"],
       "sectors": [
         {
           "min": 13,
@@ -113,18 +91,7 @@
     {
       "id": "EHAM TMA 8",
       "group": "TWR",
-      "owner": [
-        "TW1",
-        "TW2",
-        "TWW",
-        "FD1",
-        "FD2",
-        "AR1",
-        "AR2",
-        "ACW",
-        "ACS",
-        "ACE"
-      ],
+      "owner": ["TW1","TW2","TWW","AR1","AR2","FD1","FD2","ACW","ACL","ACA","ACS","ACE"],
       "sectors": [
         {
           "min": 13,
@@ -152,7 +119,7 @@
     {
       "id": "EHBK CTR",
       "group": "TWR",
-      "owner": ["TBK", "ABK", "ACS", "ACE", "ACW"],
+      "owner": ["TBK","ABK","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 0,
@@ -220,7 +187,7 @@
 	{
       "id": "EHDL CTR",
       "group": "TWR",
-      "owner": ["TDL", "CRW", "CEA", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["TDL","CRW","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 0,
@@ -268,10 +235,12 @@
         }
       ]
     },
-	{
+	
+	
+    {
       "id": "EHDP CTR",
       "group": "TWR",
-      "owner": ["CVT", "CET", "CRS", "CEA", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CVT","CET","CRS","CEA","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 0,
@@ -315,7 +284,7 @@
     {
       "id": "EHEH CTR",
       "group": "TWR",
-      "owner": ["CET", "CEA", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CET","CEA","CRS","MIL","ACL","ACA","ACS","ACE","ACW"],
       "sectors": [
         {
           "min": 0,
@@ -355,7 +324,7 @@
     {
       "id": "EHGR CTR",
       "group": "TWR",
-      "owner": ["CGT", "MIL", "ACS", "ACW", "ACE"],
+      "owner": ["CGT","CRW","MIL","ACS","ACL","ACA","ACW","ACE"],
       "sectors": [
         {
           "min": 0,
@@ -420,7 +389,7 @@
     {
       "id": "EHLE CTR1",
       "group": "TWR",
-      "owner": ["TLE", "CLE", "FD2", "FD1", "ACE", "ACW"],
+      "owner": ["TLE","CLE","FD2","FD1","ACE","ACL","ACA","ACW"],
       "sectors": [
         {
           "min": 0,
@@ -441,7 +410,7 @@
     {
       "id": "EHLE CTR2",
       "group": "TWR",
-      "owner": ["TLE", "CLE", "FD2", "FD1", "ACE", "ACW"],
+      "owner": ["TLE","CLE","FD2","FD1","ACE","ACL","ACA","ACW"],
       "sectors": [
         {
           "min": 0,
@@ -462,7 +431,7 @@
 	{
       "id": "EHLW CTR",
       "group": "TWR",
-      "owner": ["TLW", "CRN", "MIL", "ACE", "ACW"],
+      "owner": ["TLW","CRN","MIL","ACE","ACL","ACA","ACW"],
       "sectors": [
         {
           "min": 0,
@@ -514,7 +483,7 @@
     {
       "id": "EHRD CTR",
       "group": "TWR",
-      "owner": ["TRD", "RAP", "FD1", "FD2", "ACS", "ACW"],
+      "owner": ["TRD","RAP","FD1","FD2","ACS","ACL","ACA","ACW"],
       "sectors": [
         {
           "min": 0,
@@ -568,7 +537,7 @@
     {
       "id": "EHVK CTR",
       "group": "TWR",
-      "owner": ["CVT", "CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CVT","CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 0,
@@ -608,7 +577,7 @@
     {
       "id": "EHWO CTR",
       "group": "TWR",
-      "owner": ["CWT", "MIL", "ACS", "ACW", "ACE"],
+      "owner": ["CWT","MIL","ACS","ACL","ACA","ACW","ACE"],
       "sectors": [
         {
           "min": 0,
@@ -666,7 +635,7 @@
     {
       "id": "EHAM ARR E",
       "group": "APP",
-      "owner": ["AR2", "AR1", "AR3", "FD2", "FD1", "ACE", "ACS", "ACW"],
+      "owner": ["AR2","AR1","AR3","FD2","FD1","ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 35,
@@ -726,7 +695,7 @@
     {
       "id": "EHAM ARR W",
       "group": "APP",
-      "owner": ["AR1", "AR3", "AR2", "FD1", "FD2", "ACW", "ACS", "ACE"],
+      "owner": ["AR1","AR3","AR2","FD1","FD2","ACW","ACL","ACA","ACS","ACE"],
       "sectors": [
         {
           "min": 20,
@@ -762,7 +731,7 @@
     {
       "id": "EHAM TMA 1E",
       "group": "APP",
-      "owner": ["FD2", "FD1", "AR2", "AR1", "AR3", "ACE", "ACS", "ACW"],
+      "owner": ["FD2","FD1","ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 55,
@@ -795,7 +764,7 @@
     {
       "id": "EHAM TMA 1W",
       "group": "APP",
-      "owner": ["FD1", "FD2", "AR1", "AR3", "AR2", "ACW", "ACS", "ACE"],
+      "owner": ["FD1","FD2","ACW","ACL","ACA","ACS","ACE"],
       "sectors": [
         {
           "min": 55,
@@ -833,7 +802,7 @@
     {
       "id": "EHAM TMA 2",
       "group": "APP",
-      "owner": ["FD1", "FD2", "AR3", "AR1", "AR2", "ACW", "ACS", "ACE"],
+      "owner": ["FD1","FD2","ACW","ACL","ACA","ACS","ACE"],
       "sectors": [
         {
           "min": 35,
@@ -856,7 +825,7 @@
     {
       "id": "EHAM TMA 3",
       "group": "APP",
-      "owner": ["FD2", "FD1", "AR2", "AR1", "AR3", "ACE", "ACS", "ACW"],
+      "owner": ["FD2","FD1","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 55,
@@ -879,7 +848,7 @@
     {
       "id": "EHAM TMA 4",
       "group": "APP",
-      "owner": ["FD2", "FD1", "AR2", "AR1", "AR3", "ACE", "ACS", "ACW"],
+      "owner": ["FD2","FD1","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 55,
@@ -898,7 +867,7 @@
     {
       "id": "EHAM TMA 5",
       "group": "APP",
-      "owner": ["FD2", "FD1", "AR2", "AR1", "AR3", "ACE", "ACS", "ACW"],
+      "owner": ["FD2","FD1","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 55,
@@ -922,7 +891,7 @@
     {
       "id": "EHAM TMA 6",
       "group": "APP",
-      "owner": ["FD1", "FD2", "AR1", "AR3", "AR2", "ACW", "ACS", "ACE"],
+      "owner": ["FD1","FD2","ACW","ACL","ACA","ACS","ACE"],
       "sectors": [
         {
           "min": 35,
@@ -942,7 +911,7 @@
     {
       "id": "EHBK TMA1",
       "group": "APP",
-      "owner": ["ABK", "ACS", "ACE", "ACW"],
+      "owner": ["ABK","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 20,
@@ -1019,7 +988,7 @@
     {
       "id": "EHEH TMA1",
       "group": "APP",
-      "owner": ["CEA", "CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CEA","CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1059,7 +1028,7 @@
     {
       "id": "EHEH TMA2",
       "group": "APP",
-      "owner": ["CEA", "CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CEA","CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 35,
@@ -1080,7 +1049,7 @@
 	  "id": "EHMC TMA D",
 	  "comment": "TMA D below EHEHTMA2",
       "group": "EHMC",
-      "owner": ["CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
 	   {
           "min": 15,
@@ -1100,7 +1069,7 @@
     {
       "id": "EHEH TMA3",
       "group": "APP",
-      "owner": ["CEA", "CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CEA","CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 35,
@@ -1127,7 +1096,7 @@
 	  "id": "EHMC TMA D",
 	  "comment": "TMA D below EHEHTMA3",
       "group": "EHMC",
-      "owner": ["CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
 	  {
           "min": 15,
@@ -1153,7 +1122,7 @@
     {
       "id": "EHEH TMA4",
       "group": "APP",
-      "owner": ["CEA", "CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CEA","CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 55,
@@ -1203,7 +1172,7 @@
 	  "id": "EHMC TMA D",
 	  "comment": "TMA D below EHEHTMA4",
       "group": "EHMC",
-      "owner": ["CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
 	  {
           "min": 15,
@@ -1252,7 +1221,7 @@
     {
       "id": "EHGG TMA",
       "group": "APP",
-      "owner": ["AGG", "ACE", "ACW", "ACS"],
+      "owner": ["AGG","ACE","ACL","ACA","ACW","ACS"],
       "sectors": [
         {
           "min": 20,
@@ -1285,7 +1254,7 @@
 	{
       "id": "EHGG CTR",
       "group": "TWR",
-      "owner": ["TGG", "AGG", "ACE", "ACW", "ACS"],
+      "owner": ["TGG","AGG","ACE","ACL","ACA","ACW","ACS"],
       "sectors": [
         {
           "min": 0,
@@ -1335,7 +1304,7 @@
     {
       "id": "EHLE TMA1",
       "group": "APP",
-      "owner": ["CLE", "FD2", "FD1", "ACE", "ACW"],
+      "owner": ["CLE","FD2","FD1","ACE","ACL","ACA","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1356,7 +1325,7 @@
     {
       "id": "EHLE TMA2",
       "group": "APP",
-      "owner": ["CLE", "FD2", "FD1", "ACE", "ACW"],
+      "owner": ["CLE","FD2","FD1","ACE","ACL","ACA","ACW"],
       "sectors": [
         {
           "min": 20,
@@ -1380,7 +1349,7 @@
     {
       "id": "EHLE TMA3",
       "group": "APP",
-      "owner": ["CLE", "FD2", "FD1", "ACE", "ACW"],
+      "owner": ["CLE","FD2","FD1","ACE","ACL","ACA","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1403,7 +1372,7 @@
     {
       "id": "EHLE TMA4",
       "group": "APP",
-      "owner": ["CLE", "FD2", "FD1", "ACE", "ACW"],
+      "owner": ["CLE","FD2","FD1","ACE","ACL","ACA","ACW"],
       "sectors": [
         {
           "min": 25,
@@ -1431,7 +1400,7 @@
       "id": "EHMC TMA B",
 	  "comment": "TMA B under EHLE TMA4",
       "group": "EHMC",
-      "owner": ["CRW", "MIL", "ACE", "ACS", "ACW"],
+      "owner": ["CRW","MIL","ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1458,7 +1427,7 @@
     {
       "id": "EHLE TMA5",
       "group": "APP",
-      "owner": ["CLE", "FD2", "FD1", "ACE", "ACW"],
+      "owner": ["CLE","FD2","FD1","ACE","ACL","ACA","ACW"],
       "sectors": [
         {
           "min": 45,
@@ -1482,7 +1451,7 @@
       "id": "EHMC TMA B",
 	  "comment": "TMA B under EHLE TMA5",
       "group": "EHMC",
-      "owner": ["CRW", "MIL", "ACE", "ACS", "ACW"],
+      "owner": ["CRW","MIL","ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1505,7 +1474,7 @@
     {
       "id": "EHMC TMA B",
       "group": "EHMC",
-      "owner": ["CRW", "MIL", "ACE", "ACS", "ACW"],
+      "owner": ["CRW","MIL","ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1532,7 +1501,7 @@
     {
       "id": "EHMC TMA B",
       "group": "EHMC",
-      "owner": ["CRW", "MIL", "ACE", "ACS", "ACW"],
+      "owner": ["CRW","MIL","ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1575,7 +1544,7 @@
     {
       "id": "EHMC TMA C",
       "group": "EHMC",
-      "owner": ["MIL", "ACE", "ACS", "ACW"],
+      "owner": ["MIL","ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1603,7 +1572,7 @@
     {
       "id": "EHMC TMA D",
       "group": "EHMC",
-      "owner": ["CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1629,7 +1598,7 @@
     {
       "id": "EHMC TMA D",
       "group": "EHMC",
-      "owner": ["CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1653,7 +1622,7 @@
     {
       "id": "EHMC TMA D",
       "group": "EHMC",
-      "owner": ["CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 65,
@@ -1783,7 +1752,7 @@
     {
       "id": "EHMC TMA D",
       "group": "EHMC",
-      "owner": ["MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 195,
@@ -1809,7 +1778,7 @@
     {
       "id": "EHMC TMA D 1",
       "group": "EHMC",
-      "owner": ["CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["CRS","MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1843,7 +1812,7 @@
     {
       "id": "EHMC TMA D 2",
       "group": "EHMC",
-      "owner": ["CRS", "MIL", "ACS", "ACE", "ACW"],
+      "owner": ["MIL","ACS","ACL","ACA","ACE","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1873,7 +1842,7 @@
     {
       "id": "EHMC TMA E",
       "group": "EHMC",
-      "owner": ["CRW", "MIL", "ACE", "ACS", "ACW"],
+      "owner": ["CRW","MIL","ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 15,
@@ -1904,7 +1873,7 @@
     {
       "id": "EHMC TMA G1",
       "group": "EHMC",
-      "owner": ["CRW", "MIL", "ACE", "ACS", "ACW"],
+      "owner": ["CRW","MIL","ACS","ACL","ACA","ACW","ACE"],
       "sectors": [
         {
           "min": 15,
@@ -1946,7 +1915,7 @@
     {
       "id": "EHMC TMA G2",
       "group": "EHMC",
-      "owner": ["CRW", "MIL", "ACE", "ACS", "ACW"],
+      "owner": ["CRW","MIL","ACS","ACL","ACA","ACW","ACE"],
       "sectors": [
         {
           "min": 35,
@@ -1978,95 +1947,10 @@
         }
       ]
     },
-    {
-      "id": "EHRD TMA1",
-      "group": "APP",
-      "owner": ["RAP", "FD1", "FD2", "ACS", "ACW"],
-      "sectors": [
-        {
-          "min": 20,
-          "max": 54,
-          "points": [
-            ["521706", "0035911"],
-            ["520225", "0040522"],
-            ["515920", "0040640"],
-            ["515920", "0040640"],
-            ["515610", "0042115"],
-            ["515536", "0042633"],
-            ["515536", "0042633"],
-            ["515311", "0044941"],
-            ["515311", "0044941"],
-            ["513600", "0043615"],
-            ["513600", "0043615"],
-            ["513600", "0041132"],
-            ["513701", "0041000"],
-            ["513647", "0040733"],
-            ["513800", "0040554"],
-            ["513800", "0040419"],
-            ["513654", "0035909"],
-            ["513745", "0035451"],
-            ["513745", "0035451"],
-            ["515625", "0034501"],
-            ["515625", "0034501"],
-            ["521706", "0035911"]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "EHRD TMA2",
-      "group": "APP",
-      "owner": ["RAP", "FD1", "FD2", "ACS", "ACW"],
-      "sectors": [
-        {
-          "min": 25,
-          "max": 54,
-          "points": [
-            ["513550", "0033110"],
-            ["513538", "0033500"],
-            ["513506", "0033737"],
-            ["513558", "0034052"],
-            ["513549", "0034448"],
-            ["513618", "0034757"],
-            ["513616", "0035018"],
-            ["513544", "0035207"],
-            ["513544", "0035207"],
-            ["513745", "0035451"],
-            ["513745", "0035451"],
-            ["515625", "0034501"],
-            ["515625", "0034501"],
-            ["513550", "0033110"]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "EHRD TMA3",
-      "group": "APP",
-      "owner": ["RAP", "FD1", "FD2", "ACS", "ACW"],
-      "sectors": [
-        {
-          "min": 35,
-          "max": 54,
-          "points": [
-            ["513550", "0031349"],
-            ["513550", "0033110"],
-            ["513550", "0033110"],
-            ["515625", "0034501"],
-            ["515625", "0034501"],
-            ["521706", "0035911"],
-            ["521706", "0035911"],
-            ["521729", "0034147"],
-            ["521729", "0034147"],
-            ["513550", "0031349"]
-          ]
-        }
-      ]
-    },
 	{
       "id": "EHMC TMA A",
       "group": "EHMC",
-      "owner": ["CRN", "MIL", "ACE", "ACW", "ACS"],
+      "owner": ["CRN","MIL","ACE","ACL","ACA","ACW","ACS"],
       "sectors": [
         {
           "min": 15,
@@ -2171,40 +2055,123 @@
 			["530729", "0050134"],
 			["530804", "0050341"],
 			["530852", "0050535"],
-			["530943", "0050659"]			
+			["530943", "0050659"]
           ]
         }
       ]
     },	
+	
+	
+    {
+      "id": "EHRD TMA1",
+      "group": "APP",
+      "owner": ["RAP", "FD1", "FD2", "ACS","ACL","ACA","ACW","ACE"],
+      "sectors": [
+        {
+          "min": 20,
+          "max": 54,
+          "points": [
+            ["521706", "0035911"],
+            ["520225", "0040522"],
+            ["515920", "0040640"],
+            ["515920", "0040640"],
+            ["515610", "0042115"],
+            ["515536", "0042633"],
+            ["515536", "0042633"],
+            ["515311", "0044941"],
+            ["515311", "0044941"],
+            ["513600", "0043615"],
+            ["513600", "0043615"],
+            ["513600", "0041132"],
+            ["513701", "0041000"],
+            ["513647", "0040733"],
+            ["513800", "0040554"],
+            ["513800", "0040419"],
+            ["513654", "0035909"],
+            ["513745", "0035451"],
+            ["513745", "0035451"],
+            ["515625", "0034501"],
+            ["515625", "0034501"],
+            ["521706", "0035911"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EHRD TMA2",
+      "group": "APP",
+      "owner": ["RAP", "FD1", "FD2", "ACS","ACL","ACA","ACW","ACE"],
+      "sectors": [
+        {
+          "min": 25,
+          "max": 54,
+          "points": [
+            ["513550", "0033110"],
+            ["513538", "0033500"],
+            ["513506", "0033737"],
+            ["513558", "0034052"],
+            ["513549", "0034448"],
+            ["513618", "0034757"],
+            ["513616", "0035018"],
+            ["513544", "0035207"],
+            ["513544", "0035207"],
+            ["513745", "0035451"],
+            ["513745", "0035451"],
+            ["515625", "0034501"],
+            ["515625", "0034501"],
+            ["513550", "0033110"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EHRD TMA3",
+      "group": "APP",
+      "owner": ["RAP", "FD1", "FD2", "ACS","ACL","ACA","ACW","ACE"],
+      "sectors": [
+        {
+          "min": 35,
+          "max": 54,
+          "points": [
+            ["513550", "0031349"],
+            ["513550", "0033110"],
+            ["513550", "0033110"],
+            ["515625", "0034501"],
+            ["515625", "0034501"],
+            ["521706", "0035911"],
+            ["521706", "0035911"],
+            ["521729", "0034147"],
+            ["521729", "0034147"],
+            ["513550", "0031349"]
+          ]
+        }
+      ]
+    },
     {
       "id": "Delta Low",
       "group": "EDYY",
-      "owner": [
-        "YYD",
-        "ACE",
-        "ACW",
-        "fss/EUCMW"
-    ],
+      "owner": ["YYD","ACA","fss/EUCMW"],
       "sectors": [
         {
           "max": 314,
           "min": 245,
           "points": [
-            ["522700","0050000"],
-            ["524400","0053500"],
-            ["524038","0065337"],
-            ["524008","0070328"],
-            ["523948","0071008"],
-            ["524038","0065337"],
-            ["521259","0055220"],
-            ["520427","0054200"],
-            ["515559","0053128"],
-            ["514301","0060242"],
-            ["511521","0053324"],
-            ["511137","0053117"],
-            ["511510","0051252"],
-            ["512353","0042415"],
-            ["512558","0041214"]
+            ["515702","0022123"],
+			["532716","0033623"],
+			["524400","0053500"],
+			["524038","0065337"],
+			["521259","0055220"],
+			["520427","0054200"],
+			["515559","0053128"],
+			["514301","0060242"],
+			["511521","0053324"],
+			["511137","0053117"],
+			["511510","0051252"],
+			["512353","0042415"],
+			["512558","0041214"],
+			["513628","0031019"],
+			["515757","0031019"],
+			["515702","0022123"]
           ]
         }
       ]
@@ -2212,32 +2179,31 @@
     {
       "id": "Delta Low",
       "group": "EDYY",
-      "owner": [
-        "YYD",
-        "ACE",
-        "ACS",
-        "ACW",
-        "fss/EUCMW"
-    ],
+      "owner": ["YYD","ACA","fss/EUCMW"],
       "sectors": [
         {
           "max": 334,
           "min": 315,
           "points": [
-            ["522700","0050000"],
-            ["524400","0053500"],
-            ["524038","0065337"],
-            ["524008","0070328"],
-            ["523948","0071008"],
-            ["522636","0065406"],
-            ["522409","0065108"],
-            ["520230","0062525"],
-            ["515754","0061956"],
-            ["511521","0053324"],
-            ["511137","0053117"],
-            ["511510","0051252"],
-            ["512353","0042415"],
-            ["512558","0041214"]
+            ["515702","0022123"],
+			["532716","0033623"],
+			["524400","0053500"],
+			["524038","0065337"],
+			["524008","0070328"],
+			["523948","0071008"],
+			["522636","0065406"],
+			["522409","0065108"],
+			["515754","0061956"],
+			["515206","0061314"],
+			["514301","0060242"],
+			["511521","0053324"],
+			["511137","0053117"],
+			["511510","0051252"],
+			["512353","0042415"],
+			["512558","0041214"],
+			["513628","0031019"],
+			["515757","0031019"],
+			["515702","0022123"]
           ]
         }
       ]
@@ -2245,32 +2211,31 @@
     {
       "id": "Delta Middle",
       "group": "EDYY",
-      "owner": [
-        "YYD",
-        "ACE",
-        "ACS",
-        "ACW",
-        "fss/EUCMW"
-    ],
+      "owner": ["YYD","ACA","fss/EUCMW"],
       "sectors": [
         {
           "max": 364,
           "min": 335,
           "points": [
-            ["522700","0050000"],
-            ["524400","0053500"],
-            ["524038","0065337"],
-            ["524008","0070328"],
-            ["523948","0071008"],
-            ["522636","0065406"],
-            ["522409","0065108"],
-            ["520230","0062525"],
-            ["515754","0061956"],
-            ["511521","0053324"],
-            ["511137","0053117"],
-            ["511510","0051252"],
-            ["512353","0042415"],
-            ["512558","0041214"]
+            ["515702","0022123"],
+			["532716","0033623"],
+			["524400","0053500"],
+			["524038","0065337"],
+			["524008","0070328"],
+			["523948","0071008"],
+			["522636","0065406"],
+			["522409","0065108"],
+			["515754","0061956"],
+			["515206","0061314"],
+			["514301","0060242"],
+			["511521","0053324"],
+			["511137","0053117"],
+			["511510","0051252"],
+			["512353","0042415"],
+			["512558","0041214"],
+			["513628","0031019"],
+			["515757","0031019"],
+			["515702","0022123"]
           ]
         }
       ]
@@ -2278,108 +2243,30 @@
     {
       "id": "Delta High",
       "group": "EDYY",
-      "owner": [
-        "YYD",
-        "ACE",
-        "ACS",
-        "ACW",
-        "fss/EUCMW"
-    ],
-      "sectors": [
-        {
-          "min": 365,
-          "points": [
-            ["522700","0050000"],
-            ["524400","0053500"],
-            ["524038","0065337"],
-            ["524008","0070328"],
-            ["523948","0071008"],
-            ["522636","0065406"],
-            ["522409","0065108"],
-            ["520230","0062525"],
-            ["515754","0061956"],
-            ["511521","0053324"],
-            ["511137","0053117"],
-            ["511510","0051252"],
-            ["512353","0042415"],
-            ["512558","0041214"]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Delta Low",
-      "group": "EDYY",
-      "owner": [
-        "YYD",
-        "ACW",
-        "ACS",
-        "ACE",
-        "fss/EUCMW"
-    ],
-      "sectors": [
-        {
-          "max": 334,
-          "min": 245,
-          "points": [
-            ["515702","0022123"],
-            ["532716","0033623"],
-            ["524400","0053500"],
-            ["522700","0050000"],
-            ["512558","0041214"],
-            ["513628","0031019"],
-            ["515757","0031019"]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Delta Middle",
-      "group": "EDYY",
-      "owner": [
-        "YYD",
-        "ACW",
-        "ACS",
-        "ACE",
-        "fss/EUCMW"
-    ],
-      "sectors": [
-        {
-          "max": 364,
-          "min": 335,
-          "points": [
-            ["515702","0022123"],
-            ["532716","0033623"],
-            ["524400","0053500"],
-            ["522700","0050000"],
-            ["512558","0041214"],
-            ["513628","0031019"],
-            ["515757","0031019"]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Delta High",
-      "group": "EDYY",
-      "owner": [
-        "YYD",
-        "ACW",
-        "ACS",
-        "ACE",
-        "fss/EUCMW"
-    ],
+      "owner": ["YYD","ACA","fss/EUCMW"],
       "sectors": [
         {
           "min": 365,
           "points": [
             ["515702","0022123"],
-            ["532716","0033623"],
-            ["524400","0053500"],
-            ["522700","0050000"],
-            ["512558","0041214"],
-            ["513628","0031019"],
-            ["515757","0031019"]
+			["532716","0033623"],
+			["524400","0053500"],
+			["524038","0065337"],
+			["524008","0070328"],
+			["523948","0071008"],
+			["522636","0065406"],
+			["522409","0065108"],
+			["515754","0061956"],
+			["515206","0061314"],
+			["514301","0060242"],
+			["511521","0053324"],
+			["511137","0053117"],
+			["511510","0051252"],
+			["512353","0042415"],
+			["512558","0041214"],
+			["513628","0031019"],
+			["515757","0031019"],
+			["515702","0022123"]
           ]
         }
       ]
@@ -2387,7 +2274,7 @@
     {
       "id": "EHAA CTA E1",
       "group": "EHAA",
-      "owner": ["ACE", "ACS", "ACW"],
+      "owner": ["ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 65,
@@ -2437,7 +2324,7 @@
     {
       "id": "EHAA CTA E1",
       "group": "EHAA",
-      "owner": ["ACE", "ACS", "ACW"],
+      "owner": ["ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 95,
@@ -2496,7 +2383,7 @@
     {
       "id": "EHAA CTA E2",
       "group": "EHAA",
-      "owner": ["ACE", "ACS", "ACW"],
+      "owner": ["ACE","ACL","ACA","ACS","ACW"],
       "sectors": [
         {
           "min": 95,
@@ -2527,7 +2414,7 @@
     {
       "id": "EHAA CTA S",
       "group": "EHAA",
-      "owner": ["ACS", "ACW", "ACE"],
+      "owner": ["ACS","ACL","ACA","ACW","ACE"],
       "sectors": [
         {
           "min": 55,
@@ -2572,7 +2459,7 @@
     {
       "id": "EHAA CTA S",
       "group": "EHAA",
-      "owner": ["ACS", "ACW", "ACE"],
+      "owner": ["ACS","ACL","ACA","ACW","ACE"],
       "sectors": [
         {
           "min": 135,
@@ -2703,7 +2590,7 @@
     {
       "id": "EHAA CTA W",
       "group": "EHAA",
-      "owner": ["ACW", "ACS", "ACE"],
+      "owner": ["ACW","ACL","ACA","ACS","ACE"],
       "sectors": [
         {
           "min": 55,
@@ -2748,7 +2635,7 @@
     {
       "id": "EHAA CTA W",
       "group": "EHAA",
-      "owner": ["ACW", "ACS", "ACE"],
+      "owner": ["ACW","ACL","ACA","ACS","ACE"],
       "sectors": [
         {
           "min": 55,
@@ -2768,7 +2655,7 @@
     {
       "id": "EHAA CTA W",
       "group": "EHAA",
-      "owner": ["ACW", "ACS", "ACE"],
+      "owner": ["ACW","ACL","ACA","ACS","ACE"],
       "sectors": [
         {
           "min": 95,
@@ -2828,7 +2715,7 @@
     {
       "id": "EHMC CTA N1",
       "group": "EHMC",
-      "owner": ["MIL", "ACE", "ACW"],
+      "owner": ["MIL", "ACE","ACL","ACA","ACW"],
       "sectors": [
         {
           "min": 55,
@@ -2862,7 +2749,7 @@
     {
       "id": "EHMC CTA N2",
       "group": "EHMC",
-      "owner": ["MIL", "ACW"],
+      "owner": ["MIL", "ACW","ACL","ACA"],
       "sectors": [
         {
           "min": 55,
@@ -3077,10 +2964,24 @@
     },
     "ACW": {
       "callsign": "Amsterdam Radar",
-      "frequency": "125.750",
+      "frequency": "123.705",
       "type": "CTR",
       "pre": ["EHAA"],
       "colours": [{ "hex": "#4dffff" }]
+    },
+	"ACL": {
+      "callsign": "Amsterdam Radar",
+      "frequency": "125.750",
+      "type": "CTR",
+      "pre": ["EHAA"],
+      "colours": [{ "hex": "#fbc6cf" }]
+    },
+	"ACA": {
+      "callsign": "Amsterdam Radar",
+      "frequency": "134.375",
+      "type": "CTR",
+      "pre": ["EHAA"],
+      "colours": [{ "hex": "#fde21" }]
     },
     "RAL": {
       "callsign": "Ameland Radio",
@@ -3094,7 +2995,7 @@
       "frequency": "118.405",
       "type": "APP",
       "pre": ["EHAM"],
-      "colours": [{ "hex": "#000007" }]
+      "colours": [{ "hex": "#0000ff" }]
     },
     "AR3": {
       "callsign": "Schiphol Arrival",
@@ -3157,21 +3058,21 @@
       "frequency": "123.980",
       "type": "APP",
       "pre": ["EHBK"],
-      "colours": [{ "hex": "#0000aa" }]
+      "colours": [{ "hex": "#000005" }]
     },
     "TBK": {
       "callsign": "Beek Tower",
       "frequency": "119.480",
       "type": "TWR",
       "pre": ["EHBK"],
-      "colours": [{ "hex": "#00bb00" }]
+      "colours": [{ "hex": "#00b000" }]
     },
     "TDL": {
       "callsign": "Deelen Tower",
       "frequency": "129.930",
       "type": "TWR",
       "pre": ["EHDL"],
-      "colours": [{ "hex": "#00aa00" }]
+      "colours": [{ "hex": "#002100" }]
     },
     "RDR": {
       "callsign": "Drachten Radio",
@@ -3213,7 +3114,7 @@
       "frequency": "123.580",
       "type": "APP",
       "pre": ["EHGR"],
-      "colours": [{ "hex": "#ff0000" }]
+      "colours": [{ "hex": "#000021" }]
     },
     "CGT": {
       "callsign": "Gilze Rijen Tower",
@@ -3248,7 +3149,7 @@
       "frequency": "120.130",
       "type": "TWR",
       "pre": ["EHKD"],
-      "colours": [{ "hex": "#008800" }]
+      "colours": [{ "hex": "#003100" }]
     },
     "CLE": {
       "callsign": "Lelystad Arrival",
@@ -3269,7 +3170,7 @@
       "frequency": "132.030",
       "type": "APP",
       "pre": ["EHLW"],
-      "colours": [{ "hex": "#0000cc" }]
+      "colours": [{ "hex": "#ffffff" }]
     },
     "CLT": {
       "callsign": "Leeuwarden Tower",
@@ -3318,14 +3219,14 @@
       "frequency": "122.990",
       "type": "APP",
       "pre": ["EHRD"],
-      "colours": [{ "hex": "#007700" }]
+      "colours": [{ "hex": "#ff0000" }]
     },
     "TRD": {
       "callsign": "Rotterdam Tower",
       "frequency": "118.205",
       "type": "TWR",
       "pre": ["EHRD"],
-      "colours": [{ "hex": "#00aa00" }]
+      "colours": [{ "hex": "#220a22" }]
     },
     "RSE": {
       "callsign": "Seppe Radio",
@@ -3426,6 +3327,8 @@
         "FD2",
         "AR1",
         "AR2",
+		"ACL",
+		"ACA",
         "ACW",
         "ACS",
         "ACE"
@@ -3438,6 +3341,8 @@
       "topdown": [
         "ABK",
 		"ACS",
+		"ACL",
+		"ACA",
         "ACE",
         "ACW"
       ]
@@ -3450,6 +3355,8 @@
 		"CRW",
 		"MIL",
 		"ACE",
+		"ACL",
+		"ACA",
 		"ACW"
 		]
 	},
@@ -3461,6 +3368,7 @@
 		"MIL"
 		]
 	},
+	
     "EHDR": { "callsign": "Drachten", "coord": [53.12, 6.13] },
     "EHEH": {
       "callsign": "Eindhoven",
@@ -3469,6 +3377,8 @@
         "CEA",
 		"MIL",
         "ACS",
+		"ACL",
+		"ACA",
         "ACE",
         "ACW"
       ]
@@ -3479,6 +3389,8 @@
       "topdown": [
         "AGG",
 		"ACE",
+		"ACL",
+		"ACA",
         "ACW"
       ]
     },
@@ -3489,7 +3401,7 @@
 			"CRW",
 			"MIL"
 		]
-	},
+	},	
     "EHHA": { "callsign": "Amsterdam Heliport", "coord": [52.413333, 4.804167] },
     "EHHO": { "callsign": "Hoogeveen", "coord": [52.731667, 6.516667] },
     "EHHV": { "callsign": "Hilversum", "coord": [52.191667, 5.146667] },
@@ -3509,6 +3421,8 @@
 		"FD2",
         "FD1",
         "ACE",
+		"ACL",
+		"ACA",
         "ACW"
       ]
     },
@@ -3530,6 +3444,8 @@
 		"FD1",
         "FD2",
         "ACS",
+		"ACL",
+		"ACA",
         "ACW"
       ]
     },
@@ -3541,7 +3457,6 @@
     "EHTW": { "callsign": "Twente", "coord": [52.276667, 6.89] },
     "EHTX": { "callsign": "Texel", "coord": [53.115, 4.833333] },
     "EHVB": { "callsign": "Valkenburg", "coord": [52.166111, 4.418056] },
-    "EHVK": { "callsign": "Volkel", "coord": [51.657194, 5.707833] },
     "EHVK": { 
 		"callsign": "Volkel", 
 		"coord": [51.657194, 5.707833],
