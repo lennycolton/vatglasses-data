@@ -2981,7 +2981,7 @@
       "frequency": "134.375",
       "type": "CTR",
       "pre": ["EHAA"],
-      "colours": [{ "hex": "#fde21" }]
+      "colours": [{ "hex": "#00ffff" }]
     },
     "RAL": {
       "callsign": "Ameland Radio",
@@ -3002,7 +3002,7 @@
       "frequency": "131.155",
       "type": "APP",
       "pre": ["EHAM"],
-      "colours": [{ "hex": "#00001d" }]
+      "colours": [{ "hex": "#53d1df" }]
     },
     "FD2": {
       "callsign": "Schiphol Approach",
