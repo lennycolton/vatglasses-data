@@ -2686,9 +2686,6 @@
     "LPPC": {
       "name": "Lisboa"
     },
-    "LPPO": {
-      "name": "Santa Maria"
-    },
     "LPPR": {
       "name": "Porto"
     },
@@ -2874,41 +2871,6 @@
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#788c00" }]
-    },
-    "SMAO1": {
-      "callsign": "Santa Maria Radio",
-      "frequency": "124.850",
-      "type": "FSS",
-      "pre": ["LPPO"],
-      "colours": [{ "hex": "#00d400" }]
-    },
-    "SMAO2": {
-      "callsign": "Santa Maria Radio",
-      "frequency": "132.000",
-      "type": "FSS",
-      "pre": ["LPPO"],
-      "colours": [{ "hex": "#004200" }]
-    },
-    "SMAO3": {
-      "callsign": "Santa Maria Radio",
-      "frequency": "132.025",
-      "type": "FSS",
-      "pre": ["LPPO"],
-      "colours": [{ "hex": "#008d00" }]
-    },
-    "SMARDR": {
-      "callsign": "Santa Maria Radar",
-      "frequency": "132.150",
-      "type": "CTR",
-      "pre": ["LPPO"],
-      "colours": [{ "hex": "#d78c00" }]
-    },
-    "SMAOCA": {
-      "callsign": "Santa Maria Radio",
-      "frequency": "132.075",
-      "type": "FSS",
-      "pre": ["LPPO"],
-      "colours": [{ "hex": "#007d00" }]
     },
     "PRAPP": {
       "callsign": "Porto Approach",
