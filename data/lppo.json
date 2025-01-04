@@ -1149,7 +1149,7 @@
         }, 
         "POR": {
             "callsign": "Santa Maria Radio", 
-            "frequency": "132.075", 
+            "frequency": "133.060", 
             "type": "FSS", 
             "pre": ["LPPO"], 
             "colours": [{"hex": "#004500"}]
