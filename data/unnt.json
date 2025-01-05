@@ -1912,19 +1912,19 @@
   },
   "airports": {
     "UNBB": { "callsign": "Barnaul", "coord": ["53.363333", "83.541667"], "topdown": ["NCS", "NC", "fss/RUESC"] },
-    "UNBG": { "callsign": "Dializ", "coord": ["51.966667", "85.833333"], "topdown": ["NCS", "NC", "fss/RUESC"] },
+    "UNBG": { "callsign": "Gorno-Altaysk", "coord": ["51.966667", "85.833333"], "topdown": ["NCS", "NC", "fss/RUESC"] },
     "UNBI": { "callsign": "Biysk", "coord": ["52.479472", "85.338527"] },
     "UNCC": { "callsign": "Novosibirsk (Severny)", "coord": ["55.102907", "82.908166"] },
     "UNCK": { "callsign": "Kedrovy", "coord": ["57.6", "79.483"] },
     "UNEE": { "callsign": "Kemerovo", "coord": ["55.27", "86.108333"], "topdown": ["NCE", "NC", "fss/RUESC"] },
     "UNLL": { "callsign": "Kolpashevo", "coord": ["58.327", "82.933"] },
     "UNNE": { "callsign": "Novosibirsk (Yeltsovka)", "coord": ["55.092", "83.025"] },
-    "UNNT": { "callsign": "Novosibirsk", "coord": ["55.01106", "82.652"], "topdown": ["NCS", "NC", "fss/RUESC"] },
-    "UNOO": { "callsign": "Omsk", "coord": ["54.966667", "73.31"], "topdown": ["NCW", "NC", "fss/RUESC"] },
+    "UNNT": { "callsign": "Novosibirsk (Tolmachevo)", "coord": ["55.01106", "82.652"], "topdown": ["NCS", "NC", "fss/RUESC"] },
+    "UNOO": { "callsign": "Omsk (Tsentralny)", "coord": ["54.966667", "73.31"], "topdown": ["NCW", "NC", "fss/RUESC"] },
     "UNOS": { "callsign": "Omsk (Severny)", "coord": ["54.973", "73.558"] },
     "UNSA": { "callsign": "Aleksandrovskoye", "coord": ["60.417", "77.85"] },
-    "UNSS": { "callsign": "Karavay", "coord": ["60.716667", "77.65"], "topdown": ["NC", "NCN", "fss/RUESC"] },
-    "UNTT": { "callsign": "Tomsk", "coord": ["56.383333", "85.211667"], "topdown": ["NC", "NCE", "fss/RUESC"] },
+    "UNSS": { "callsign": "Strezhevoy", "coord": ["60.716667", "77.65"], "topdown": ["NC", "NCN", "fss/RUESC"] },
+    "UNTT": { "callsign": "Tomsk (Bogashevo)", "coord": ["56.383333", "85.211667"], "topdown": ["NC", "NCE", "fss/RUESC"] },
     "UNWW": { "callsign": "Novokuznetsk", "coord": ["53.811003", "86.877022"], "topdown": ["NC", "NCS", "fss/RUESC"] }
   }
 }
