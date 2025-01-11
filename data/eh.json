@@ -2749,7 +2749,7 @@
     {
       "id": "EHMC CTA N2",
       "group": "EHMC",
-      "owner": ["MIL", "ACW","ACL","ACA"],
+      "owner": ["MIL", "ACW","ACL","ACA", "ACE", "ACS"],
       "sectors": [
         {
           "min": 55,
@@ -2781,7 +2781,7 @@
     {
       "id": "GODOS AREA",
       "group": "EHAA",
-      "owner": ["ACW", "ACS", "ACE"],
+      "owner": ["ACW", "ACL", "ACA", "ACS", "ACE"],
       "sectors": [
         {
           "min": 175,
@@ -2804,7 +2804,7 @@
     {
       "id": "MOLIX AREA",
       "group": "EHAA",
-      "owner": ["ACW", "ACS", "ACE"],
+      "owner": ["ACW", "ACL", "ACA", "ACS", "ACE"],
       "sectors": [
         {
           "min": 175,
@@ -2828,7 +2828,7 @@
     {
       "id": "SONEB AREA",
       "group": "EHAA",
-      "owner": ["ACE", "ACS", "ACW"],
+      "owner": ["ACE", "ACL", "ACA", "ACS", "ACW"],
       "sectors": [
         {
           "min": 105,
@@ -2849,7 +2849,7 @@
     {
       "id": "TEBRO AREA",
       "group": "EHAA",
-      "owner": ["ACE", "ACS", "ACW"],
+      "owner": ["ACE", "ACL", "ACA", "ACS", "ACW"],
       "sectors": [
         {
           "min": 205,
@@ -2886,7 +2886,7 @@
     {
       "id": "EHAA B S3A",
       "group": "EHMC",
-      "owner": ["MIL", "ACS", "ACE", "ACW"],
+      "owner": ["MIL", "ACS", "ACL", "ACA", "ACE", "ACW"],
       "sectors": [
         {
           "min": 95,
@@ -3072,7 +3072,7 @@
       "frequency": "129.930",
       "type": "TWR",
       "pre": ["EHDL"],
-      "colours": [{ "hex": "#002100" }]
+      "colours": [{ "hex": "#00ff00" }]
     },
     "RDR": {
       "callsign": "Drachten Radio",
@@ -3114,7 +3114,7 @@
       "frequency": "123.580",
       "type": "APP",
       "pre": ["EHGR"],
-      "colours": [{ "hex": "#000021" }]
+      "colours": [{ "hex": "#0000aa" }]
     },
     "CGT": {
       "callsign": "Gilze Rijen Tower",
@@ -3282,7 +3282,7 @@
       "frequency": "136.080",
       "type": "TWR",
       "pre": ["EHVK"],
-      "colours": [{ "hex": "#002900" }]
+      "colours": [{ "hex": "#00ffff" }]
     },
     "CWT": {
       "callsign": "Woensdrecht Tower",
