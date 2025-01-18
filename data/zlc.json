@@ -4568,7 +4568,7 @@
     },
     "B1S": {
       "callsign": "Big Sky Approach",
-      "frequency": "120.500",
+      "frequency": "119.600",
       "pre": ["BOI"],
       "type": "APP",
       "colours": [
@@ -4579,7 +4579,7 @@
     },
     "B1A": {
       "callsign": "Big Sky Approach",
-      "frequency": "120.500",
+      "frequency": "126.900",
       "pre": ["BOI"],
       "type": "APP",
       "colours": [
