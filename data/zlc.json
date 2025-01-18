@@ -4733,7 +4733,8 @@
     "KBMC": {
       "callsign": "Brigham City Rgnl",
       "coord": ["41.554306", "-112.06225"],
-      "pre": ["BMC", "S5H", "S5K"]
+      "pre": ["BMC"]
+      "topdown": ["S5H", "S5K"]
     },
     "KBNO": {
       "callsign": "Burns Muni OR",
@@ -4837,6 +4838,7 @@
       "callsign": "Ennis - Big Sky",
       "coord": ["45.274361", "-111.648861"],
       "pre": ["EKS"]
+      "topdown": ["B1S", "B1A"]
     },
     "KELY": {
       "callsign": "Ely NV",
@@ -4886,7 +4888,8 @@
     "KGFA": {
       "callsign": "Malmstrom AFB MT",
       "coord": ["47.5", "-111.18306"],
-      "pre": ["GFA", "GTF"]
+      "pre": ["GFA"]
+      "topdown": ["GTF"]
     },
     "KGGW": {
       "callsign": "Glasgow Intl MT",
@@ -5023,6 +5026,7 @@
       "callsign": "Nampa Muni",
       "coord": ["43.581341", "-116.523063"],
       "pre": ["MAN"]
+      "topdown": ["B1S", "B1A"
     },
     "KMLD": {
       "callsign": "Malad City ID",
