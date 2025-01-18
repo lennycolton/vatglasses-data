@@ -4733,7 +4733,7 @@
     "KBMC": {
       "callsign": "Brigham City Rgnl",
       "coord": ["41.554306", "-112.06225"],
-      "pre": ["BMC"]
+      "pre": ["BMC", "S5H", "S5K"]
     },
     "KBNO": {
       "callsign": "Burns Muni OR",
@@ -4886,7 +4886,7 @@
     "KGFA": {
       "callsign": "Malmstrom AFB MT",
       "coord": ["47.5", "-111.18306"],
-      "pre": ["GFA"]
+      "pre": ["GFA", "GTF"]
     },
     "KGGW": {
       "callsign": "Glasgow Intl MT",
@@ -4919,7 +4919,7 @@
       "callsign": "Hill AFB - Ogden UT",
       "coord": ["41.123939", "-111.973044"],
       "pre": ["HIF"],
-      "topdown": ["S5H", "S5F", "S5V", "S5K", "03", "08", "06", "44"]
+      "topdown": ["S5H", "S5K", "03", "08", "06", "44"]
     },
     "KHLN": {
       "callsign": "Helena",
@@ -5065,7 +5065,7 @@
       "callsign": "Ogden",
       "coord": ["41.195944", "-112.012175"],
       "pre": ["OGD"],
-      "topdown": ["S5H", "S5G", "S5B", "S5S", "S5K", "03", "08", "06", "44"]
+      "topdown": ["S5H", "S5K", "03", "08", "06", "44"]
     },
     "KOLF": {
       "callsign": "Wolf Point Clayton MT",
@@ -5168,7 +5168,6 @@
       "callsign": "Salt Lake City",
       "coord": ["40.788389", "-111.977772"],
       "pre": ["SLC"],
-      "default": false,
       "runways": ["34L/R, 35", "16L/R, 17"],
       "topdown": [
         "SLC",
