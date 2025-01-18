@@ -4919,7 +4919,7 @@
       "callsign": "Hill AFB - Ogden UT",
       "coord": ["41.123939", "-111.973044"],
       "pre": ["HIF"],
-      "topdown": ["S5H", "S5F", "S5K", "S56", "03", "08", "06", "44"]
+      "topdown": ["S5H", "S5F", "S5V", "S5K", "03", "08", "06", "44"]
     },
     "KHLN": {
       "callsign": "Helena",
@@ -5065,7 +5065,7 @@
       "callsign": "Ogden",
       "coord": ["41.195944", "-112.012175"],
       "pre": ["OGD"],
-      "topdown": ["S56H", "S56G", "S56B", "S56S", "S56", "03", "08", "06", "44"]
+      "topdown": ["S5H", "S5G", "S5B", "S5S", "S5K", "03", "08", "06", "44"]
     },
     "KOLF": {
       "callsign": "Wolf Point Clayton MT",
@@ -5107,7 +5107,7 @@
       "callsign": "Provo",
       "coord": ["40.219194", "-111.723361"],
       "pre": ["PVU"],
-      "topdown": ["S56A", "S56J", "S56K", "04", "03", "44"]
+      "topdown": ["S5A", "S5J", "S5K", "04", "03", "44"]
     },
     "KPWD": {
       "callsign": "Sher-Wood",
@@ -5171,18 +5171,17 @@
       "default": false,
       "runways": ["34L/R, 35", "16L/R, 17"],
       "topdown": [
+        "SLC",
         "S56C",
         "S56E",
         "S56W",
         "S5F",
-        "S5K",
-        "S56",
         "S5S",
         "S5H",
         "S5B",
         "S5G",
-        "S5A",
         "S5V",
+        "S5K",
         "04",
         "03",
         "44"
