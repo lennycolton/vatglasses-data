@@ -1,73 +1,9 @@
 {
   "airspace": [
     {
-      "id": "Jūrmala",
-      "group": "TWR",
-      "owner": ["RI", "RB", "RA", "RCE", "RC"],
-      "sectors": [
-        {
-          "min": 0,
-          "max": 14,
-          "points": [
-            ["570712", "0230830"],
-            ["570331", "0231425"],
-            ["570328", "0231513"],
-            ["570316", "0231658"],
-            ["570256", "0231839"],
-            ["570229", "0232014"],
-            ["570154", "0232140"],
-            ["570114", "0232258"],
-            ["570027", "0232404"],
-            ["565937", "0232458"],
-            ["565842", "0232538"],
-            ["565745", "0232604"],
-            ["565647", "0232615"],
-            ["565227", "0233203"],
-            ["565154", "0233142"],
-            ["565102", "0233053"],
-            ["565014", "0232957"],
-            ["564928", "0232852"],
-            ["564846", "0232741"],
-            ["564807", "0232623"],
-            ["564732", "0232500"],
-            ["564701", "0232330"],
-            ["564634", "0232157"],
-            ["564612", "0232019"],
-            ["564555", "0231839"],
-            ["564554", "0231818"],
-            ["564935", "0231227"],
-            ["564942", "0231045"],
-            ["564958", "0230902"],
-            ["565022", "0230724"],
-            ["565053", "0230553"],
-            ["565130", "0230431"],
-            ["565214", "0230319"],
-            ["565303", "0230219"],
-            ["565355", "0230132"],
-            ["565451", "0230058"],
-            ["565549", "0230040"],
-            ["565656", "0230040"],
-            ["570036", "0225445"],
-            ["570111", "0225509"],
-            ["570203", "0225558"],
-            ["570251", "0225654"],
-            ["570337", "0225759"],
-            ["570419", "0225910"],
-            ["570458", "0230028"],
-            ["570533", "0230151"],
-            ["570604", "0230321"],
-            ["570631", "0230454"],
-            ["570653", "0230632"],
-            ["570710", "0230812"],
-            ["570712", "0230830"]
-          ]
-        }
-      ]
-    },
-    {
       "id": "Riga A",
       "group": "APP",
-      "owner": ["RA", "RCE", "RC", "euc/EN"],
+      "owner": ["RA", "RCE", "RCN", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -235,7 +171,7 @@
     {
       "id": "Riga A",
       "group": "APP",
-      "owner": ["RA", "RCE", "RC"],
+      "owner": ["RA", "RCE", "RCN"],
       "sectors": [
         {
           "min": 30,
@@ -403,7 +339,7 @@
     {
       "id": "Riga B",
       "group": "APP",
-      "owner": ["RB", "RA", "RCE", "RC"],
+      "owner": ["RB", "RA", "RCE", "RCN"],
       "sectors": [
         {
           "min": 15,
@@ -613,7 +549,7 @@
     {
       "id": "Riga C",
       "group": "APP",
-      "owner": ["RA", "RCE", "RC"],
+      "owner": ["RA", "RCE", "RCN"],
       "sectors": [
         {
           "min": 30,
@@ -644,7 +580,7 @@
     {
       "id": "Riga",
       "group": "TWR",
-      "owner": ["RT", "RB", "RA", "RCE", "RC"],
+      "owner": ["RT", "RB", "RA", "RCE", "RCN"],
       "sectors": [
         {
           "min": 0,
@@ -668,7 +604,7 @@
     {
       "id": "East",
       "group": "EVRR",
-      "owner": ["RCE", "RC"],
+      "owner": ["RCE", "RCN"],
       "sectors": [
         {
           "min": 95,
@@ -1040,7 +976,7 @@
     {
       "id": "East",
       "group": "EVRR",
-      "owner": ["RCE", "RC", "euc/EN"],
+      "owner": ["RCE", "RCN", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -1412,7 +1348,7 @@
     {
       "id": "East",
       "group": "EVRR",
-      "owner": ["RCE", "RC", "euc/EN"],
+      "owner": ["RCE", "RCN", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -1917,7 +1853,7 @@
     {
       "id": "North",
       "group": "EVRR",
-      "owner": ["RCN", "RCW", "RC"],
+      "owner": ["RCN", "RCW"],
       "sectors": [
         {
           "min": 95,
@@ -1968,7 +1904,7 @@
     {
       "id": "North",
       "group": "EVRR",
-      "owner": ["RCN", "RCW", "RC", "euc/EN"],
+      "owner": ["RCN", "RCW", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -2019,7 +1955,7 @@
     {
       "id": "South",
       "group": "EVRR",
-      "owner": ["RCS", "RCW", "RC"],
+      "owner": ["RCS", "RCW", "RCN"],
       "sectors": [
         {
           "min": 95,
@@ -2115,7 +2051,7 @@
     {
       "id": "South",
       "group": "EVRR",
-      "owner": ["RCS", "RCW", "RC", "euc/EN"],
+      "owner": ["RCS", "RCW", "RCN", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -2221,16 +2157,9 @@
     }
   },
   "positions": {
-    "BALT": {
-      "callsign": "Baltic Control",
-      "frequency": "132.300",
-      "type": "CTR",
-      "pre": ["BALT"],
-      "colours": [{ "hex": "#818c00" }]
-    },
     "LT": {
       "callsign": "Lielvarde Tower",
-      "frequency": "118.150",
+      "frequency": "118.155",
       "type": "TWR",
       "pre": ["EVGA"],
       "colours": [{ "hex": "#00b700" }]
@@ -2258,17 +2187,10 @@
     },
     "RT": {
       "callsign": "Riga Tower",
-      "frequency": "118.100",
+      "frequency": "118.105",
       "type": "TWR",
       "pre": ["EVRA"],
       "colours": [{ "hex": "#00d900" }]
-    },
-    "RC": {
-      "callsign": "Riga Control",
-      "frequency": "135.100",
-      "type": "CTR",
-      "pre": ["EVRR"],
-      "colours": [{ "hex": "#ad8c00" }]
     },
     "RCE": {
       "callsign": "Riga Control",
@@ -2327,12 +2249,12 @@
     "EVLA": {
       "callsign": "Liepaja",
       "coord": [56.517525, 21.097058],
-      "topdown": ["RI", "RCS", "RCW", "RC"]
+      "topdown": ["RI", "RCS", "RCW", "RCN"]
     },
     "EVRA": {
       "callsign": "Riga",
       "coord": [56.923661, 23.971197],
-      "topdown": ["RB", "RA", "RCE", "RC"]
+      "topdown": ["RB", "RA", "RCE", "RCN"]
     }
   },
   "EVAA": { "callsign": "Aizpute", "coord": [56.697045, 21.629099] },

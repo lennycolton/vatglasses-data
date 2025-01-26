@@ -14084,7 +14084,7 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -14158,7 +14158,7 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -14233,7 +14233,7 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -14414,7 +14414,7 @@
 				"owner":[
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -14496,7 +14496,7 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -14531,7 +14531,7 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -14567,7 +14567,7 @@
 					"LKAA_U_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -14657,7 +14657,7 @@
 				"owner":[
 					"LKAA_N_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -15670,7 +15670,7 @@
 				"owner":[
 					"LKAA_S_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -15929,7 +15929,7 @@
 					"LKAA_U_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -16002,7 +16002,7 @@
 					"LKAA_U_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -16075,7 +16075,7 @@
 					"LKAA_U_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -16146,7 +16146,7 @@
 				"owner":[
 					"LKAA_W_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -16396,7 +16396,7 @@
 					"LKAA_U_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -16443,7 +16443,7 @@
 					"LKAA_U_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -16490,7 +16490,7 @@
 					"LKAA_U_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
-					"euc/EEN"
+					"fss/EUCEN"
 				],
 				"sectors":[
 					{
@@ -16540,29 +16540,29 @@
 		"LKAA_CTR": {"colours": [{"hex": "#bf9000"}], "pre": ["LKAA"], "type": "CTR", "frequency": "118.375", "callsign": "Praha Radar"},
 		"LKAA_I_CTR": {"colours": [{"hex": "#ffbf00"}], "pre": ["LKAA"], "type": "CTR", "frequency": "126.100", "callsign": "Praha Information"},
 		"LKAA_N_CTR": {"colours": [{"hex": "#6495ed"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.825", "callsign": "Praha Radar"},
-		"LKAA_U_CTR": {"colours": [{"hex": "#6fa8dc"}], "pre": ["LKAA"], "type": "CTR", "frequency": "133.425", "callsign": "Praha Radar"},
-		"LKAA_W_CTR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKAA"], "type": "CTR", "frequency": "120.275", "callsign": "Praha Radar"},
 		"LKAA_S_CTR": {"colours": [{"hex": "#40E0D0"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.125", "callsign": "Praha Radar"},
-		"LKAA_APP": {"colours": [{"hex": "#008080"}], "pre": ["LKAA"], "type": "APP", "frequency": "125.375", "callsign": "Praha Radar"},
-		"LKCV_APP": {"colours": [{"hex": "#247513"}], "pre": ["LKCV"], "type": "APP", "frequency": "130.275", "callsign": "Čáslav Approach"},
-		"LKCV_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKCV"], "type": "TWR", "frequency": "136.650", "callsign": "Čáslav Tower"},
-		"LKKB_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKKB"], "type": "TWR", "frequency": "120.875", "callsign": "Kbely Tower"},
-		"LKKU_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKKU"], "type": "TWR", "frequency": "120.100", "callsign": "Kunovice Tower"},
+		"LKAA_U_CTR": {"colours": [{"hex": "#6fa8dc"}], "pre": ["LKAA"], "type": "CTR", "frequency": "124.775", "callsign": "Praha Radar"},
+		"LKAA_W_CTR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKAA"], "type": "CTR", "frequency": "120.275", "callsign": "Praha Radar"},
+		"LKAA_APP": {"colours": [{"hex": "#008080"}], "pre": ["LKAA"], "type": "APP", "frequency": "125.380", "callsign": "Praha Radar"},
+		"LKCV_APP": {"colours": [{"hex": "#247513"}], "pre": ["LKCV"], "type": "APP", "frequency": "130.280", "callsign": "Čáslav Approach"},
+		"LKCV_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKCV"], "type": "TWR", "frequency": "134.205", "callsign": "Čáslav Tower"},
+		"LKKB_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKKB"], "type": "TWR", "frequency": "120.880", "callsign": "Kbely Tower"},
+		"LKKU_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKKU"], "type": "TWR", "frequency": "120.105", "callsign": "Kunovice Tower"},
 		"LKKV_APP": {"colours": [{"hex": "#ffbf00"}], "pre": ["LKKV"], "type": "APP", "frequency": "118.650", "callsign": "Praha Radar"},
-		"LKKV_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKKV"], "type": "TWR", "frequency": "121.225", "callsign": "Vary Tower"},
+		"LKKV_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKKV"], "type": "TWR", "frequency": "121.230", "callsign": "Vary Tower"},
 		"LKMT_APP": {"colours": [{"hex": "#8e7cc3"}], "pre": ["LKMT"], "type": "APP", "frequency": "119.375", "callsign": "Praha Radar"},
-		"LKMT_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKMT"], "type": "TWR", "frequency": "120.800", "callsign": "Mošnov Tower"},
-		"LKNA_APP": {"colours": [{"hex": "#93c47d"}], "pre": ["LKNA"], "type": "APP", "frequency": "118.150", "callsign": "Náměšť Approach"},
-		"LKNA_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKNA"], "type": "TWR", "frequency": "126.500", "callsign": "Náměšť Tower"},
-		"LKPD_APP": {"colours": [{"hex": "#073763"}], "pre": ["LKPD"], "type": "APP", "frequency": "128.375", "callsign": "Pardubice Approach"},
-		"LKPD_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKPD"], "type": "TWR", "frequency": "120.150", "callsign": "Pardubice Tower"},
-		"LKPR_APP": {"colours": [{"hex": "#9900ff"}], "pre": ["LKPR"], "type": "APP", "frequency": "127.575", "callsign": "Praha Radar"},
-		"LKPR_D_APP": {"colours":  [{"hex": "#ff00ff"}], "pre": ["LKPR"], "type": "APP", "frequency": "119.000", "callsign": "Ruzyně Radar"},
-		"LKPR_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKPR"], "type": "TWR", "frequency": "134.550", "callsign": "Ruzyně Tower"},
-		"LKPR_DEP": {"colours": [{"hex": "#cfe2f3"}], "pre": ["LKPR"], "type": "DEP", "frequency": "120.525", "callsign": "Praha Radar"},
+		"LKMT_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKMT"], "type": "TWR", "frequency": "120.805", "callsign": "Mošnov Tower"},
+		"LKNA_APP": {"colours": [{"hex": "#93c47d"}], "pre": ["LKNA"], "type": "APP", "frequency": "118.155", "callsign": "Náměšť Approach"},
+		"LKNA_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKNA"], "type": "TWR", "frequency": "126.505", "callsign": "Náměšť Tower"},
+		"LKPD_APP": {"colours": [{"hex": "#073763"}], "pre": ["LKPD"], "type": "APP", "frequency": "128.365", "callsign": "Pardubice Approach"},
+		"LKPD_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKPD"], "type": "TWR", "frequency": "120.155", "callsign": "Pardubice Tower"},
+		"LKPR_APP": {"colours": [{"hex": "#9900ff"}], "pre": ["LKPR"], "type": "APP", "frequency": "127.580", "callsign": "Praha Radar"},
+		"LKPR_D_APP": {"colours":  [{"hex": "#ff00ff"}], "pre": ["LKPR"], "type": "APP", "frequency": "119.010", "callsign": "Ruzyně Radar"},
+		"LKPR_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKPR"], "type": "TWR", "frequency": "134.560", "callsign": "Ruzyně Tower"},
+		"LKPR_DEP": {"colours": [{"hex": "#cfe2f3"}], "pre": ["LKPR"], "type": "DEP", "frequency": "120.530", "callsign": "Praha Radar"},
 		"LKTB_APP": {"colours": [{"hex": "#cc0000"}], "pre": ["LKTB"], "type": "APP", "frequency": "127.350", "callsign": "Praha Radar"},
-		"LKTB_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKTB"], "type": "TWR", "frequency": "119.600", "callsign": "Tuřany Tower"},
-		"LKVO_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKVO"], "type": "TWR", "frequency": "133.075", "callsign": "Vodochody Tower"}
+		"LKTB_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKTB"], "type": "TWR", "frequency": "119.605", "callsign": "Tuřany Tower"},
+		"LKVO_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKVO"], "type": "TWR", "frequency": "133.080", "callsign": "Vodochody Tower"}
 	},
 	"callsigns":{
 		"DEL":{

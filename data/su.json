@@ -1,11 +1,11 @@
 {
     "airspace": [
       {
-        "id": "Oceanic (Class G)",
+        "id": "Oceánico (Class G)",
         "group": "SUEO",
         "owner": [
           "MC",
-          "sam/SS"
+          "fss/SAMS"
         ],
         "sectors": [
           {
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "id": "Oceanic (Class G)",
+        "id": "Oceánico (Class G)",
         "group": "SUEO",
         "owner": [
           "MC"
@@ -44,7 +44,7 @@
         "group": "SUEO",
         "owner": [
           "MC",
-          "sam/SS"
+          "fss/SAMS"
         ],
         "sectors": [
           {
@@ -1104,7 +1104,7 @@
         "group": "SUEO",
         "owner": [
             "MC",
-            "sam/SS"
+            "fss/SAMS"
         ],
         "sectors": [
             {

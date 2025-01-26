@@ -5456,7 +5456,7 @@
     {
       "id": "ESMM 2-1",
       "group": "ESMM",
-      "owner": ["M2", "MW", "M5", "M7", "M8", "S1", "euc/EN"],
+      "owner": ["M2", "MW", "M5", "M7", "M8", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -5512,7 +5512,7 @@
     {
       "id": "ESMM 3-1",
       "group": "ESMM",
-      "owner": ["M3", "M2", "MW", "M5", "M7", "M8", "S1", "euc/EN"],
+      "owner": ["M3", "M2", "MW", "M5", "M7", "M8", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 365,
@@ -5568,7 +5568,7 @@
     {
       "id": "ESMM 4-1",
       "group": "ESMM",
-      "owner": ["M4", "M5", "M2", "S1", "euc/EN"],
+      "owner": ["M4", "M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -5684,7 +5684,7 @@
     {
       "id": "ESMM 4-2",
       "group": "ESMM",
-      "owner": ["M4", "M5", "M2", "S1", "euc/EN"],
+      "owner": ["M4", "M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -5748,7 +5748,7 @@
     {
       "id": "ESMM 4-3",
       "group": "ESMM",
-      "owner": ["M4", "M5", "M2", "S1", "euc/EN"],
+      "owner": ["M4", "M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -7960,7 +7960,7 @@
     {
       "id": "ESMM 4-4",
       "group": "ESMM",
-      "owner": ["M4", "M5", "M2", "S1", "euc/EN"],
+      "owner": ["M4", "M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8008,7 +8008,7 @@
     {
       "id": "ESMM 4-5",
       "group": "ESMM",
-      "owner": ["M4", "M5", "M2", "S1", "euc/EN"],
+      "owner": ["M4", "M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8074,7 +8074,7 @@
     {
       "id": "ESMM 4-6",
       "group": "ESMM",
-      "owner": ["M4", "M5", "M2", "S1", "euc/EN"],
+      "owner": ["M4", "M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8144,7 +8144,7 @@
     {
       "id": "ESMM 5-1",
       "group": "ESMM",
-      "owner": ["M5", "M2", "S1", "euc/EN"],
+      "owner": ["M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8212,7 +8212,7 @@
     {
       "id": "ESMM 5-2",
       "group": "ESMM",
-      "owner": ["M5", "M2", "S1", "euc/EN"],
+      "owner": ["M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8240,7 +8240,7 @@
     {
       "id": "ESMM 5-3",
       "group": "ESMM",
-      "owner": ["M5", "M2", "S1", "euc/EN"],
+      "owner": ["M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -8264,7 +8264,7 @@
     {
       "id": "ESMM 5-4",
       "group": "ESMM",
-      "owner": ["M5", "M2", "S1", "euc/EN"],
+      "owner": ["M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -8318,7 +8318,7 @@
     {
       "id": "ESMM 5-5",
       "group": "ESMM",
-      "owner": ["M5", "M2", "S1", "euc/EN"],
+      "owner": ["M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8371,7 +8371,7 @@
     {
       "id": "ESMM 5-6",
       "group": "ESMM",
-      "owner": ["M5", "M2", "S1", "euc/EN"],
+      "owner": ["M5", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8398,7 +8398,7 @@
     {
       "id": "ESMM 6-1",
       "group": "ESMM",
-      "owner": ["M6", "M3", "M7", "M8", "M2", "S1", "euc/EN"],
+      "owner": ["M6", "M3", "M7", "M8", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 365,
@@ -8482,7 +8482,7 @@
     {
       "id": "ESMM 7-1",
       "group": "ESMM",
-      "owner": ["M7", "M6", "M8", "M2", "S1", "euc/EN"],
+      "owner": ["M7", "M6", "M8", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8541,7 +8541,7 @@
     {
       "id": "ESMM 7-2",
       "group": "ESMM",
-      "owner": ["M7", "M6", "M8", "M2", "S1", "euc/EN"],
+      "owner": ["M7", "M6", "M8", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8588,7 +8588,7 @@
     {
       "id": "ESMM 7-3",
       "group": "ESMM",
-      "owner": ["M7", "M6", "M8", "M2", "S1", "euc/EN"],
+      "owner": ["M7", "M6", "M8", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8615,7 +8615,7 @@
     {
       "id": "ESMM 7-4",
       "group": "ESMM",
-      "owner": ["M7", "M6", "M8", "M2", "S1", "euc/EN"],
+      "owner": ["M7", "M6", "M8", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -8639,7 +8639,7 @@
     {
       "id": "ESMM 7-5",
       "group": "ESMM",
-      "owner": ["M7", "M6", "M8", "M2", "S1", "euc/EN"],
+      "owner": ["M7", "M6", "M8", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -8727,7 +8727,7 @@
     {
       "id": "ESMM 8-1",
       "group": "ESMM",
-      "owner": ["M8", "M2", "M7", "M5", "S1", "euc/EN"],
+      "owner": ["M8", "M2", "M7", "M5", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8792,7 +8792,7 @@
     {
       "id": "ESMM 8-2",
       "group": "ESMM",
-      "owner": ["M8", "M2", "M7", "M5", "S1", "euc/EN"],
+      "owner": ["M8", "M2", "M7", "M5", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8819,7 +8819,7 @@
     {
       "id": "ESMM 8-3",
       "group": "ESMM",
-      "owner": ["M8", "M2", "M7", "M5", "S1", "euc/EN"],
+      "owner": ["M8", "M2", "M7", "M5", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -8920,7 +8920,7 @@
     {
       "id": "ESMM 8-4",
       "group": "ESMM",
-      "owner": ["M8", "M2", "M7", "M5", "S1", "euc/EN"],
+      "owner": ["M8", "M2", "M7", "M5", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -8977,7 +8977,7 @@
     {
       "id": "ESMM 9-1",
       "group": "ESMM",
-      "owner": ["M9", "M3", "M8", "M2", "M7", "M5", "S1", "euc/EN"],
+      "owner": ["M9", "M3", "M8", "M2", "M7", "M5", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 365,
@@ -9092,7 +9092,7 @@
     {
       "id": "ESMM K-1",
       "group": "ESMM",
-      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "euc/EN"],
+      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -9183,7 +9183,7 @@
     {
       "id": "ESMM K-2",
       "group": "ESMM",
-      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "euc/EN"],
+      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -9239,7 +9239,7 @@
     {
       "id": "ESMM K-3",
       "group": "ESMM",
-      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "euc/EN"],
+      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -9305,7 +9305,7 @@
     {
       "id": "ESMM K-4",
       "group": "ESMM",
-      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "euc/EN"],
+      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -9366,7 +9366,7 @@
     {
       "id": "ESMM K-5",
       "group": "ESMM",
-      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "euc/EN"],
+      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -9421,7 +9421,7 @@
     {
       "id": "ESMM K-6",
       "group": "ESMM",
-      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "euc/EN"],
+      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -9471,7 +9471,7 @@
     {
       "id": "ESMM K-7",
       "group": "ESMM",
-      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "euc/EN"],
+      "owner": ["MK", "M2", "M5", "M8", "M7", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -9541,7 +9541,7 @@
     {
       "id": "ESMM L-1",
       "group": "ESMM",
-      "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "S1", "euc/EN"],
+      "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -9735,7 +9735,7 @@
     {
       "id": "ESMM L-3",
       "group": "ESMM",
-      "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "S1", "euc/EN"],
+      "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -9782,7 +9782,7 @@
     {
       "id": "ESMM L-5",
       "group": "ESMM",
-      "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "S1", "euc/EN"],
+      "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -9805,7 +9805,7 @@
     {
       "id": "ESMM W-1",
       "group": "ESMM",
-      "owner": ["MW", "M7", "M2", "S1", "euc/EN"],
+      "owner": ["MW", "M7", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -9843,7 +9843,7 @@
     {
       "id": "ESMM Y-1",
       "group": "ESMM",
-      "owner": ["MY", "M6", "M7", "M2", "S1", "euc/EN"],
+      "owner": ["MY", "M6", "M7", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -9915,7 +9915,7 @@
     {
       "id": "ESMM Y-2",
       "group": "ESMM",
-      "owner": ["MY", "M6", "M7", "M2", "S1", "euc/EN"],
+      "owner": ["MY", "M6", "M7", "M2", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -10015,7 +10015,7 @@
     {
       "id": "ESOS 1-2",
       "group": "ESOS",
-      "owner": ["S1", "S3", "euc/EN"],
+      "owner": ["S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -10111,7 +10111,7 @@
     {
       "id": "ESOS 2-1",
       "group": "ESOS",
-      "owner": ["S2", "S7", "S1", "S3", "euc/EN"],
+      "owner": ["S2", "S7", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -10171,7 +10171,7 @@
     {
       "id": "ESOS 2-2",
       "group": "ESOS",
-      "owner": ["S2", "S7", "S1", "S3", "euc/EN"],
+      "owner": ["S2", "S7", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -10237,7 +10237,7 @@
     {
       "id": "ESOS 2-3",
       "group": "ESOS",
-      "owner": ["S2", "S7", "S1", "S3", "euc/EN"],
+      "owner": ["S2", "S7", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -10314,7 +10314,7 @@
     {
       "id": "ESOS 2-4",
       "group": "ESOS",
-      "owner": ["S2", "S7", "S1", "S3", "euc/EN"],
+      "owner": ["S2", "S7", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -10522,7 +10522,7 @@
     {
       "id": "ESOS 3-1",
       "group": "ESOS",
-      "owner": ["S3", "S1", "euc/EN"],
+      "owner": ["S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -10692,7 +10692,7 @@
     {
       "id": "ESOS 3-3",
       "group": "ESOS",
-      "owner": ["S3", "S1", "euc/EN"],
+      "owner": ["S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -10761,7 +10761,7 @@
     {
       "id": "ESOS 3-4",
       "group": "ESOS",
-      "owner": ["S3", "S1", "euc/EN"],
+      "owner": ["S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -10793,7 +10793,7 @@
     {
       "id": "ESOS 3-5",
       "group": "ESOS",
-      "owner": ["S3", "S1", "euc/EN"],
+      "owner": ["S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -10856,7 +10856,7 @@
     {
       "id": "ESOS 4-1",
       "group": "ESOS",
-      "owner": ["S4", "SF", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["S4", "SF", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -10922,7 +10922,7 @@
     {
       "id": "ESOS 4-2",
       "group": "ESOS",
-      "owner": ["S4", "SF", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["S4", "SF", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -10988,7 +10988,7 @@
     {
       "id": "ESOS 4-3",
       "group": "ESOS",
-      "owner": ["S4", "SF", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["S4", "SF", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11056,7 +11056,7 @@
     {
       "id": "ESOS 4-4",
       "group": "ESOS",
-      "owner": ["S4", "SF", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["S4", "SF", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11087,7 +11087,7 @@
     {
       "id": "ESOS 4-5",
       "group": "ESOS",
-      "owner": ["S4", "SF", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["S4", "SF", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -11146,7 +11146,7 @@
     {
       "id": "ESOS 6-1",
       "group": "ESOS",
-      "owner": ["S6", "S1", "S3", "euc/EN"],
+      "owner": ["S6", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11186,7 +11186,7 @@
     {
       "id": "ESOS 6-2",
       "group": "ESOS",
-      "owner": ["S6", "S1", "S3", "euc/EN"],
+      "owner": ["S6", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -11302,7 +11302,7 @@
     {
       "id": "ESOS 6-3",
       "group": "ESOS",
-      "owner": ["S6", "S1", "S3", "euc/EN"],
+      "owner": ["S6", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11363,7 +11363,7 @@
     {
       "id": "ESOS 6-4",
       "group": "ESOS",
-      "owner": ["S6", "S1", "S3", "euc/EN"],
+      "owner": ["S6", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11433,7 +11433,7 @@
     {
       "id": "ESOS 6-5",
       "group": "ESOS",
-      "owner": ["S6", "S1", "S3", "euc/EN"],
+      "owner": ["S6", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11516,7 +11516,7 @@
     {
       "id": "ESOS 7-1",
       "group": "ESOS",
-      "owner": ["S7", "S1", "S3", "euc/EN"],
+      "owner": ["S7", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11614,7 +11614,7 @@
     {
       "id": "ESOS 7-3",
       "group": "ESOS",
-      "owner": ["S7", "S1", "S3", "euc/EN"],
+      "owner": ["S7", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11670,7 +11670,7 @@
     {
       "id": "ESOS 7-4",
       "group": "ESOS",
-      "owner": ["S7", "S1", "S3", "euc/EN"],
+      "owner": ["S7", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11724,7 +11724,7 @@
     {
       "id": "ESOS 7-5",
       "group": "ESOS",
-      "owner": ["S7", "S1", "S3", "euc/EN"],
+      "owner": ["S7", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11780,7 +11780,7 @@
     {
       "id": "ESOS 7-6",
       "group": "ESOS",
-      "owner": ["S7", "S1", "S3", "euc/EN"],
+      "owner": ["S7", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11845,7 +11845,7 @@
     {
       "id": "ESOS 8-1",
       "group": "ESOS",
-      "owner": ["S8", "S3", "S1", "euc/EN"],
+      "owner": ["S8", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11903,7 +11903,7 @@
     {
       "id": "ESOS 8-2",
       "group": "ESOS",
-      "owner": ["S8", "S3", "S1", "euc/EN"],
+      "owner": ["S8", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -11954,7 +11954,7 @@
     {
       "id": "ESOS 8-3",
       "group": "ESOS",
-      "owner": ["S8", "S3", "S1", "euc/EN"],
+      "owner": ["S8", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -12023,7 +12023,7 @@
     {
       "id": "ESOS 9-1",
       "group": "ESOS",
-      "owner": ["S9", "S1", "S3", "euc/EN"],
+      "owner": ["S9", "S1", "S3", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -12135,7 +12135,7 @@
     {
       "id": "ESOS F-1",
       "group": "ESOS",
-      "owner": ["SF", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SF", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -12196,7 +12196,7 @@
     {
       "id": "ESOS F-2",
       "group": "ESOS",
-      "owner": ["SF", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SF", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -12439,7 +12439,7 @@
     {
       "id": "ESOS K-1",
       "group": "ESOS",
-      "owner": ["SK", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SK", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -12675,7 +12675,7 @@
     {
       "id": "ESOS K-11",
       "group": "ESOS",
-      "owner": ["SK", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SK", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -12722,7 +12722,7 @@
     {
       "id": "ESOS K-4",
       "group": "ESOS",
-      "owner": ["SK", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SK", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -12776,7 +12776,7 @@
     {
       "id": "ESOS K-5",
       "group": "ESOS",
-      "owner": ["SK", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SK", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -12859,7 +12859,7 @@
     {
       "id": "ESOS K-8",
       "group": "ESOS",
-      "owner": ["SK", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SK", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -12887,7 +12887,7 @@
     {
       "id": "ESOS K-9",
       "group": "ESOS",
-      "owner": ["SK", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SK", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 345,
@@ -12947,7 +12947,7 @@
     {
       "id": "ESOS KX-1",
       "group": "ESOS",
-      "owner": ["SK", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SK", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -13013,7 +13013,7 @@
     {
       "id": "ESOS KX-2",
       "group": "ESOS",
-      "owner": ["SK", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SK", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -13044,7 +13044,7 @@
     {
       "id": "ESOS KY-1",
       "group": "ESOS",
-      "owner": ["SK", "SN", "S3", "S1", "euc/EN"],
+      "owner": ["SK", "SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 285,
@@ -13152,7 +13152,7 @@
     {
       "id": "ESOS N-1",
       "group": "ESOS",
-      "owner": ["SN", "S3", "S1", "euc/EN"],
+      "owner": ["SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -13259,7 +13259,7 @@
     {
       "id": "ESOS N-2",
       "group": "ESOS",
-      "owner": ["SN", "S3", "S1", "euc/EN"],
+      "owner": ["SN", "S3", "S1", "fss/EUCN"],
       "sectors": [
         {
           "min": 245,
@@ -13372,49 +13372,49 @@
     },
     "GA": {
       "callsign": "Göteborg Arrival",
-      "frequency": "120.125",
+      "frequency": "120.130",
       "type": "APP",
       "pre": ["ESGG"],
       "colours": [{ "hex": "#cbf1f8" }]
     },
     "GE": {
       "callsign": "Göteborg Approach",
-      "frequency": "124.675",
+      "frequency": "124.680",
       "type": "APP",
       "pre": ["ESGG"],
       "colours": [{ "hex": "#11f069" }]
     },
     "GG": {
       "callsign": "Landvetter Tower",
-      "frequency": "118.600",
+      "frequency": "118.605",
       "type": "TWR",
       "pre": ["ESGG"],
       "colours": [{ "hex": "#c16e36" }]
     },
     "GW": {
       "callsign": "Göteborg Approach",
-      "frequency": "124.200",
+      "frequency": "124.205",
       "type": "APP",
       "pre": ["ESGG"],
       "colours": [{ "hex": "#b78529" }]
     },
     "GJ": {
       "callsign": "Jönköping Tower",
-      "frequency": "118.250",
+      "frequency": "118.255",
       "type": "TWR",
       "pre": ["ESGJ"],
       "colours": [{ "hex": "#3f7976" }]
     },
     "GP": {
       "callsign": "Säve Tower",
-      "frequency": "119.050",
+      "frequency": "119.055",
       "type": "TWR",
       "pre": ["ESGP"],
       "colours": [{ "hex": "#a398a7" }]
     },
     "GT": {
       "callsign": "Trollhättan Tower",
-      "frequency": "122.725",
+      "frequency": "122.730",
       "type": "TWR",
       "pre": ["ESGT"],
       "colours": [{ "hex": "#bb8d29" }]
@@ -13449,133 +13449,133 @@
     },
     "KM": {
       "callsign": "Mora Information",
-      "frequency": "129.850",
+      "frequency": "119.055",
       "type": "TWR",
       "pre": ["ESKM"],
       "colours": [{ "hex": "#7fd830" }]
     },
     "KN": {
       "callsign": "Skavsta Tower",
-      "frequency": "127.700",
+      "frequency": "127.705",
       "type": "TWR",
       "pre": ["ESKN"],
       "colours": [{ "hex": "#baec90" }]
     },
     "KS": {
       "callsign": "Sälen Tower",
-      "frequency": "124.450",
+      "frequency": "124.460",
       "type": "TWR",
       "pre": ["ESKS"],
       "colours": [{ "hex": "#30652a" }]
     },
     "KT": {
       "callsign": "Kristianstad Tower",
-      "frequency": "129.350",
+      "frequency": "129.355",
       "type": "TWR",
       "pre": ["ESMK"],
       "colours": [{ "hex": "#9fc927" }]
     },
     "M2": {
       "callsign": "Sweden Control",
-      "frequency": "127.750",
+      "frequency": "127.755",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#deaf23" }]
     },
     "M3": {
       "callsign": "Sweden Control",
-      "frequency": "128.050",
+      "frequency": "128.055",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#9b7baf" }]
     },
     "M4": {
       "callsign": "Sweden Control",
-      "frequency": "124.400",
+      "frequency": "124.405",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#51a100" }]
     },
     "M5": {
       "callsign": "Sweden Control",
-      "frequency": "128.625",
+      "frequency": "132.765",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#5f8f74" }]
     },
     "M6": {
       "callsign": "Sweden Control",
-      "frequency": "135.800",
+      "frequency": "135.805",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#cafad4" }]
     },
     "M7": {
       "callsign": "Sweden Control",
-      "frequency": "124.150",
+      "frequency": "124.155",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#8e4aca" }]
     },
     "M8": {
       "callsign": "Sweden Control",
-      "frequency": "128.175",
+      "frequency": "128.180",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#31bc90" }]
     },
     "M9": {
       "callsign": "Sweden Control",
-      "frequency": "135.975",
+      "frequency": "135.980",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#8a7612" }]
     },
     "MK": {
       "callsign": "Sweden Control",
-      "frequency": "131.275",
+      "frequency": "131.280",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#2e155c" }]
     },
     "MW": {
       "callsign": "Sweden Control",
-      "frequency": "133.250",
+      "frequency": "133.260",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#91665d" }]
     },
     "MY": {
       "callsign": "Sweden Control",
-      "frequency": "134.450",
+      "frequency": "134.455",
       "type": "CTR",
       "pre": ["ESMM"],
       "colours": [{ "hex": "#413f04" }]
     },
     "MQ": {
       "callsign": "Kalmar Tower",
-      "frequency": "130.800",
+      "frequency": "130.805",
       "type": "TWR",
       "pre": ["ESMQ"],
       "colours": [{ "hex": "#5d5cbf" }]
     },
     "ML": {
       "callsign": "Sweden Control",
-      "frequency": "134.975",
+      "frequency": "134.980",
       "type": "APP",
       "pre": ["ESMS"],
       "colours": [{ "hex": "#02fcc6" }]
     },
     "MS": {
       "callsign": "Sturup Tower",
-      "frequency": "118.800",
+      "frequency": "118.805",
       "type": "TWR",
       "pre": ["ESMS"],
       "colours": [{ "hex": "#8bd6ee" }]
     },
     "MT": {
       "callsign": "Halmstad Tower",
-      "frequency": "130.100",
+      "frequency": "130.105",
       "type": "TWR",
       "pre": ["ESMT"],
       "colours": [{ "hex": "#9fac7e" }]
@@ -13596,21 +13596,21 @@
     },
     "MX": {
       "callsign": "Kronoberg Tower",
-      "frequency": "118.150",
+      "frequency": "118.155",
       "type": "TWR",
       "pre": ["ESMX"],
       "colours": [{ "hex": "#489bf4" }]
     },
     "ND": {
       "callsign": "Sveg Information",
-      "frequency": "122.200",
+      "frequency": "122.205",
       "type": "TWR",
       "pre": ["ESND"],
       "colours": [{ "hex": "#a52546" }]
     },
     "NG": {
       "callsign": "Gällivare Information",
-      "frequency": "122.325",
+      "frequency": "122.330",
       "type": "TWR",
       "pre": ["ESNG"],
       "colours": [{ "hex": "#946fa4" }]
@@ -13631,182 +13631,182 @@
     },
     "NK": {
       "callsign": "Kramfors Information",
-      "frequency": "122.150",
+      "frequency": "122.155",
       "type": "TWR",
       "pre": ["ESNK"],
       "colours": [{ "hex": "#14abe3" }]
     },
     "NL": {
       "callsign": "Lycksele Information",
-      "frequency": "122.225",
+      "frequency": "122.230",
       "type": "TWR",
       "pre": ["ESNL"],
       "colours": [{ "hex": "#005729" }]
     },
     "NN": {
       "callsign": "Sundsvall Tower",
-      "frequency": "129.550",
+      "frequency": "129.555",
       "type": "TWR",
       "pre": ["ESNN"],
       "colours": [{ "hex": "#7099db" }]
     },
     "NO": {
       "callsign": "Örnsköldsvik Tower",
-      "frequency": "122.250",
+      "frequency": "122.255",
       "type": "TWR",
       "pre": ["ESNO"],
       "colours": [{ "hex": "#2c61b7" }]
     },
     "NQ": {
       "callsign": "Kiruna Tower",
-      "frequency": "130.150",
+      "frequency": "130.155",
       "type": "TWR",
       "pre": ["ESNQ"],
       "colours": [{ "hex": "#b16a5b" }]
     },
     "NS": {
       "callsign": "Skellefteå Tower",
-      "frequency": "122.050",
+      "frequency": "122.055",
       "type": "TWR",
       "pre": ["ESNS"],
       "colours": [{ "hex": "#793add" }]
     },
     "NU": {
       "callsign": "Umeå Tower",
-      "frequency": "119.800",
+      "frequency": "119.805",
       "type": "TWR",
       "pre": ["ESNU"],
       "colours": [{ "hex": "#691259" }]
     },
     "NV": {
       "callsign": "Vilhelmina Information",
-      "frequency": "122.550",
+      "frequency": "122.555",
       "type": "TWR",
       "pre": ["ESNV"],
       "colours": [{ "hex": "#899e1f" }]
     },
     "NX": {
       "callsign": "Arvidsjaur Tower",
-      "frequency": "122.725",
+      "frequency": "122.730",
       "type": "TWR",
       "pre": ["ESNX"],
       "colours": [{ "hex": "#1ab73d" }]
     },
     "NZ": {
       "callsign": "Östersund Tower",
-      "frequency": "135.650",
+      "frequency": "135.655",
       "type": "TWR",
       "pre": ["ESNZ"],
       "colours": [{ "hex": "#60d208" }]
     },
     "OE": {
       "callsign": "Örebro Tower",
-      "frequency": "120.275",
+      "frequency": "120.280",
       "type": "TWR",
       "pre": ["ESOE"],
       "colours": [{ "hex": "#5f1f08" }]
     },
     "OH": {
       "callsign": "Hagfors Information",
-      "frequency": "122.225",
+      "frequency": "122.230",
       "type": "TWR",
       "pre": ["ESOH"],
       "colours": [{ "hex": "#125d56" }]
     },
     "OK": {
       "callsign": "Karlstad Tower",
-      "frequency": "119.450",
+      "frequency": "119.455",
       "type": "TWR",
       "pre": ["ESOK"],
       "colours": [{ "hex": "#27a602" }]
     },
     "S1": {
       "callsign": "Sweden Control",
-      "frequency": "118.400",
+      "frequency": "118.405",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#c30451" }]
     },
     "S2": {
       "callsign": "Sweden Control",
-      "frequency": "133.700",
+      "frequency": "133.705",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#c6ba6e" }]
     },
     "S3": {
       "callsign": "Sweden Control",
-      "frequency": "131.125",
+      "frequency": "131.130",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#719752" }]
     },
     "S4": {
       "callsign": "Sweden Control",
-      "frequency": "118.200",
+      "frequency": "118.205",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#4ec2f8" }]
     },
     "S6": {
       "callsign": "Sweden Control",
-      "frequency": "132.475",
+      "frequency": "132.480",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#999d96" }]
     },
     "S7": {
       "callsign": "Sweden Control",
-      "frequency": "118.275",
+      "frequency": "118.280",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#6e8e18" }]
     },
     "S8": {
       "callsign": "Sweden Control",
-      "frequency": "129.175",
+      "frequency": "129.180",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#3d9c5c" }]
     },
     "S9": {
       "callsign": "Sweden Control",
-      "frequency": "127.525",
+      "frequency": "127.530",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#741171" }]
     },
     "SF": {
       "callsign": "Sweden Control",
-      "frequency": "124.425",
+      "frequency": "124.430",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#605674" }]
     },
     "SK": {
       "callsign": "Sweden Control",
-      "frequency": "131.050",
+      "frequency": "131.055",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#6a5879" }]
     },
     "SN": {
       "callsign": "Sweden Control",
-      "frequency": "132.150",
+      "frequency": "132.155",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#1bf0e6" }]
     },
     "PLAN": {
       "callsign": "Sweden Planner",
-      "frequency": "136.975",
+      "frequency": "136.980",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#2e9174" }]
     },
     "SKX": {
       "callsign": "Sweden Control",
-      "frequency": "126.950",
+      "frequency": "126.955",
       "type": "CTR",
       "pre": ["ESOS"],
       "colours": [{ "hex": "#2d950d" }]
@@ -13820,21 +13820,21 @@
     },
     "OWA": {
       "callsign": "Västerås Approach",
-      "frequency": "125.950",
+      "frequency": "125.955",
       "type": "APP",
       "pre": ["ESOW"],
       "colours": [{ "hex": "#702e6d" }]
     },
     "OW": {
       "callsign": "Västerås Tower",
-      "frequency": "130.600",
+      "frequency": "130.605",
       "type": "TWR",
       "pre": ["ESOW"],
       "colours": [{ "hex": "#56a406" }]
     },
     "PAA": {
       "callsign": "Kallax Approach",
-      "frequency": "125.450",
+      "frequency": "125.455",
       "type": "APP",
       "pre": ["ESPA"],
       "colours": [{ "hex": "#bc767d" }]
@@ -13869,105 +13869,105 @@
     },
     "A": {
       "callsign": "Stockholm Arrival",
-      "frequency": "120.500",
+      "frequency": "120.505",
       "type": "APP",
       "pre": ["ESSA"],
       "colours": [{ "hex": "#bc8865" }]
     },
     "E": {
       "callsign": "Stockholm Approach",
-      "frequency": "126.650",
+      "frequency": "126.655",
       "type": "APP",
       "pre": ["ESSA"],
       "colours": [{ "hex": "#a155ec" }]
     },
     "DE": {
       "callsign": "Stockholm Departure",
-      "frequency": "130.325",
+      "frequency": "130.330",
       "type": "DEP",
       "pre": ["ESSA"],
       "colours": [{ "hex": "#ab9c9a" }]
     },
     "TE": {
       "callsign": "Arlanda Tower",
-      "frequency": "128.725",
+      "frequency": "128.730",
       "type": "TWR",
       "pre": ["ESSA"],
       "colours": [{ "hex": "#bda490" }]
     },
     "AW": {
       "callsign": "Stockholm Arrival",
-      "frequency": "119.625",
+      "frequency": "119.630",
       "type": "APP",
       "pre": ["ESSA"],
       "colours": [{ "hex": "#3deccc" }]
     },
     "TS": {
       "callsign": "Arlanda Tower",
-      "frequency": "125.125",
+      "frequency": "125.130",
       "type": "TWR",
       "pre": ["ESSA"],
       "colours": [{ "hex": "#698bec" }]
     },
     "W": {
       "callsign": "Stockholm Approach",
-      "frequency": "123.750",
+      "frequency": "123.755",
       "type": "APP",
       "pre": ["ESSA"],
       "colours": [{ "hex": "#bd6666" }]
     },
     "D": {
       "callsign": "Stockholm Departure",
-      "frequency": "124.100",
+      "frequency": "124.105",
       "type": "DEP",
       "pre": ["ESSA"],
       "colours": [{ "hex": "#d4c6e6" }]
     },
     "TW": {
       "callsign": "Arlanda Tower",
-      "frequency": "118.500",
+      "frequency": "118.505",
       "type": "TWR",
       "pre": ["ESSA"],
       "colours": [{ "hex": "#6a6bfc" }]
     },
     "S": {
       "callsign": "Stockholm Approach",
-      "frequency": "120.150",
+      "frequency": "120.155",
       "type": "APP",
       "pre": ["ESSB"],
       "colours": [{ "hex": "#c4530b" }]
     },
     "SB": {
       "callsign": "Bromma Tower",
-      "frequency": "118.100",
+      "frequency": "118.105",
       "type": "TWR",
       "pre": ["ESSB"],
       "colours": [{ "hex": "#e3c3b1" }]
     },
     "SD": {
       "callsign": "Borlänge Tower",
-      "frequency": "127.300",
+      "frequency": "127.305",
       "type": "TWR",
       "pre": ["ESSD"],
       "colours": [{ "hex": "#6419e1" }]
     },
     "SL": {
       "callsign": "Saab Tower",
-      "frequency": "118.800",
+      "frequency": "118.805",
       "type": "TWR",
       "pre": ["ESSL"],
       "colours": [{ "hex": "#bccca8" }]
     },
     "OKC": {
       "callsign": "Östgöta Approach",
-      "frequency": "132.950",
+      "frequency": "132.955",
       "type": "APP",
       "pre": ["ESSP"],
       "colours": [{ "hex": "#29c403" }]
     },
     "SP": {
       "callsign": "Kungsängen Tower",
-      "frequency": "120.350",
+      "frequency": "120.355",
       "type": "TWR",
       "pre": ["ESSP"],
       "colours": [{ "hex": "#d5e35a" }]
@@ -13981,70 +13981,70 @@
     },
     "ST": {
       "callsign": "Torsby Information",
-      "frequency": "122.050",
+      "frequency": "122.055",
       "type": "TWR",
       "pre": ["ESST"],
       "colours": [{ "hex": "#6ad755" }]
     },
     "SU": {
       "callsign": "Eskilstuna Information",
-      "frequency": "126.850",
+      "frequency": "126.855",
       "type": "TWR",
       "pre": ["ESSU"],
       "colours": [{ "hex": "#cf18c1" }]
     },
     "SVA": {
       "callsign": "Visby Approach",
-      "frequency": "126.150",
+      "frequency": "126.155",
       "type": "APP",
       "pre": ["ESSV"],
       "colours": [{ "hex": "#3b229d" }]
     },
     "SV": {
       "callsign": "Visby Tower",
-      "frequency": "120.300",
+      "frequency": "120.305",
       "type": "TWR",
       "pre": ["ESSV"],
       "colours": [{ "hex": "#4042f2" }]
     },
     "TAA": {
       "callsign": "Ängelholm Approach",
-      "frequency": "132.450",
+      "frequency": "132.455",
       "type": "APP",
       "pre": ["ESTA"],
       "colours": [{ "hex": "#4cacf8" }]
     },
     "TA": {
       "callsign": "Ängelholm Tower",
-      "frequency": "127.100",
+      "frequency": "127.105",
       "type": "TWR",
       "pre": ["ESTA"],
       "colours": [{ "hex": "#ea38a9" }]
     },
     "TLA": {
       "callsign": "Ljungbyhed Approach",
-      "frequency": "129.550",
+      "frequency": "129.555",
       "type": "APP",
       "pre": ["ESTL"],
       "colours": [{ "hex": "#c756be" }]
     },
     "TL": {
       "callsign": "Ljungbyhed Tower",
-      "frequency": "130.700",
+      "frequency": "130.705",
       "type": "TWR",
       "pre": ["ESTL"],
       "colours": [{ "hex": "#ad0e7c" }]
     },
     "UP": {
       "callsign": "Pajala Information",
-      "frequency": "118.375",
+      "frequency": "118.380",
       "type": "TWR",
       "pre": ["ESUP"],
       "colours": [{ "hex": "#da70a7" }]
     },
     "UT": {
       "callsign": "Hemavan Information",
-      "frequency": "122.975",
+      "frequency": "122.980",
       "type": "TWR",
       "pre": ["ESUT"],
       "colours": [{ "hex": "#4d4352" }]

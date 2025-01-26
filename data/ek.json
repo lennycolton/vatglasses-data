@@ -6,10 +6,8 @@
         "owner": [
             "A",
             "C",
-            "V",
-            "B",
-            "D",
-            "euc/EN"
+            "DK",
+            "fss/EUCN"
         ],
         "sectors": [
             {
@@ -62,11 +60,12 @@
       "id": "B",
       "group": "CPH",
       "owner": [
-          "I",
           "B",
+          "I",
           "D",
-          "V",
-          "euc/EN"
+          "E",
+		  "DK",
+          "fss/EUCN"
       ],
       "sectors": [
           {
@@ -143,13 +142,14 @@
       ]
     },
     {
-        "id": "B",
-        "group": "CPH",
-        "owner": [
-            "I",
-            "B",
-            "D",
-            "V"
+      "id": "B",
+      "group": "CPH",
+      "owner": [
+          "B",
+          "I",
+          "D",
+          "E",
+		  "DK"
         ],
         "sectors": [
             {
@@ -247,10 +247,9 @@
         "group": "EKDK",
         "owner": [
             "C",
-            "V",
-            "D",
-            "B",
-            "euc/EN"
+            "A",
+            "DK",
+            "fss/EUCN"
         ],
         "sectors": [
             {
@@ -292,11 +291,12 @@
         "id": "D",
         "group": "CPH",
         "owner": [
-            "E",
             "D",
+            "E",
+            "I",
             "B",
-            "V",
-            "euc/EN"
+            "DK",			
+            "fss/EUCN"
         ],
         "sectors": [
             {
@@ -384,10 +384,11 @@
         "id": "D",
         "group": "CPH",
         "owner": [
-            "E",
             "D",
+            "E",
+            "I",
             "B",
-            "V"
+            "DK"			
         ],
         "sectors": [
             {
@@ -518,8 +519,10 @@
         "owner": [
             "E",
             "D",
+            "I",
             "B",
-            "V"
+            "DK"
+			
         ],
         "sectors": [
             {
@@ -665,8 +668,9 @@
             "I",
             "B",
             "D",
-            "V",
-            "euc/EN"
+            "E",
+            "DK",
+            "fss/EUCN"
         ],
         "sectors": [
             {
@@ -755,7 +759,8 @@
             "I",
             "B",
             "D",
-            "V"
+            "E",
+			"DK"
         ],
         "sectors": [
             {
@@ -843,9 +848,10 @@
         "owner": [
             "L",
             "V",
-            "D",
-            "B",
-            "euc/EN"
+            "N",
+            "S",
+			"DK",
+            "fss/EUCN"
         ],
         "sectors": [
             {
@@ -909,8 +915,9 @@
         "owner": [
             "L",
             "V",
-            "D",
-            "B"
+            "N",
+            "S",
+			"DK"
         ],
         "sectors": [
             {
@@ -1040,10 +1047,11 @@
         "group": "EKDK",
         "owner": [
             "N",
+            "S",
             "V",
-            "D",
-            "B",
-            "euc/EN"
+            "L",
+			"DK",
+            "fss/EUCN"
         ],
         "sectors": [
             {
@@ -1085,9 +1093,10 @@
         "group": "EKDK",
         "owner": [
             "N",
+            "S",
             "V",
-            "D",
-            "B"
+            "L",
+			"DK"
         ],
         "sectors": [
             {
@@ -1153,9 +1162,10 @@
         "group": "EKDK",
         "owner": [
             "S",
+            "N",
             "V",
-            "D",
-            "B"
+            "L",
+			"DK"
         ],
         "sectors": [
             {
@@ -1246,10 +1256,11 @@
         "group": "EKDK",
         "owner": [
             "S",
+            "N",
             "V",
-            "D",
-            "B",
-            "euc/EN"
+            "L",
+			"DK",
+            "fss/EUCN"
         ],
         "sectors": [
             {
@@ -1286,9 +1297,11 @@
         "group": "EKDK",
         "owner": [
             "V",
-            "D",
-            "B",
-            "euc/EN"
+            "L",
+            "S",
+			"N",
+			"DK",
+            "fss/EUCN"
         ],
         "sectors": [
             {
@@ -1327,9 +1340,11 @@
           "group": "LTA",
           "owner": [
               "AH",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -1390,10 +1405,11 @@
           "group": "LTA",
           "owner": [
               "BI",
-              "V",
-              "D",
-              "B",
-              "S"
+              "S",
+              "N",
+              "L",
+			  "V",
+ 			  "DK"
           ],
           "sectors": [
             {
@@ -1638,9 +1654,11 @@
           "group": "LTA",
           "owner": [
               "KA",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -1775,9 +1793,11 @@
           "group": "LTA",
           "owner": [
               "YT",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -1844,9 +1864,11 @@
           "owner": [
               "AT",
               "AH",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -1876,10 +1898,11 @@
           "owner": [
               "BT",
               "BI",
-              "V",
-              "D",
-              "B",
-              "S"
+              "S",
+              "N",
+              "L",
+			  "V",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -1909,7 +1932,8 @@
               "I",
               "B",
               "D",
-              "V"
+              "E",
+			  "DK"
           ],
           "sectors": [
               {
@@ -1933,11 +1957,11 @@
           "owner": [
               "ET",
               "BI",
-              "Info",
-              "V",
-              "D",
-              "B",
-              "S"
+              "S",
+              "N",
+              "L",
+			  "V",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -1972,9 +1996,11 @@
           "owner": [
               "KT",
               "KA",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -2009,11 +2035,11 @@
               "CD",
               "CA",
               "O",
-              "E",
               "I",
               "B",
               "D",
-              "V"
+              "E",
+              "DK"
           ],
           "sectors": [
               {
@@ -2041,8 +2067,9 @@
           "group": "TWR",
           "owner": [
               "RN",
-              "B",
-              "V"
+              "A",
+              "C",
+			  "DK"
           ],
           "sectors": [
               {
@@ -2102,9 +2129,11 @@
           "owner": [
               "ST",
               "SA",
-              "V",
-              "D",
-              "B"
+              "S",
+              "N",
+              "L",
+			  "V",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -2134,11 +2163,11 @@
           "owner": [
               "STA",
               "BI",
-              "Info",
-              "V",
-              "D",
-              "B",
-              "S"
+              "S",
+              "N",
+              "L",
+			  "V",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -2180,9 +2209,11 @@
           "owner": [
               "YTT",
               "YT",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -2214,11 +2245,11 @@
               "ARR",
               "CA",
               "O",
-              "E",
               "I",
               "B",
               "D",
-              "V"
+              "E",
+              "DK"
           ],
           "sectors": [
               {
@@ -2246,10 +2277,10 @@
               "O",
               "CA",
               "I",
-              "E",
               "B",
               "D",
-              "V"
+              "E",
+              "DK"
           ],
           "sectors": [
               {
@@ -2281,9 +2312,11 @@
           "group": "APP",
           "owner": [
               "AH",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -2313,10 +2346,11 @@
           "owner": [
               "BF",
               "BI",
-              "V",
-              "D",
-              "B",
-              "S"
+              "S",
+              "N",
+              "L",
+			  "V",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -2398,10 +2432,11 @@
           "group": "APP",
           "owner": [
               "BI",
-              "V",
-              "D",
-              "B",
-              "S"
+              "S",
+              "N",
+              "L",
+			  "V",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -2536,10 +2571,10 @@
               "CD",
               "CDS",
               "I",
-              "E",
               "B",
               "D",
-              "V"
+              "E",
+              "DK"
           ],
           "sectors": [
               {
@@ -2791,11 +2826,11 @@
               "O",
               "CDS",
               "CD",
-              "E",
               "I",
               "B",
               "D",
-              "V"
+              "E",
+              "DK"
           ],
           "sectors": [
             {
@@ -3355,9 +3390,11 @@
           "group": "APP",
           "owner": [
               "KA",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -3382,12 +3419,11 @@
           "id": "Odense",
           "group": "TIA",
           "owner": [
-              "Info",
+              "D",
               "E",
               "I",
-              "D",
-              "B",
-              "V"
+			  "B",
+ 			  "DK"
           ],
           "sectors": [
               {
@@ -3412,11 +3448,11 @@
               "CD",
               "CA",
               "O",
-              "E",
               "I",
               "B",
               "D",
-              "V"
+              "E",
+              "DK"
           ],
           "sectors": [
               {
@@ -3514,8 +3550,9 @@
           "group": "TWR",
           "owner": [
               "RN",
-              "B",
-              "V"
+              "A",
+              "C",
+			  "DK"
           ],
           "sectors": [
               {
@@ -3657,8 +3694,9 @@
           "group": "TWR",
           "owner": [
               "RN",
-              "B",
-              "V"
+              "A",
+              "C",
+			  "DK"
           ],
           "sectors": [
               {
@@ -3820,9 +3858,11 @@
           "owner": [
               "SA",
               "Info",
-              "V",
-              "D",
-              "B"
+              "S",
+              "N",
+              "L",
+			  "V",
+			  "DK"
           ],
           "sectors": [
               {
@@ -3845,9 +3885,11 @@
           "group": "APP",
           "owner": [
               "SA",
-              "V",
-              "D",
-              "B"
+              "S",
+              "N",
+              "L",
+			  "V",
+			  "DK"
           ],
           "sectors": [
               {
@@ -3874,9 +3916,11 @@
           "owner": [
               "YF",
               "YT",
+			  "L",
               "V",
-              "D",
-              "B"
+              "S",
+              "N",
+			  "DK"
           ],
           "sectors": [
               {
@@ -3927,9 +3971,11 @@
           "group": "APP",
           "owner": [
               "YT",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+			  "DK"
           ],
           "sectors": [
               {
@@ -3982,11 +4028,11 @@
               "ARR",
               "CA",
               "O",
-              "E",
               "I",
               "B",
               "D",
-              "V"
+              "E",
+              "DK"
           ],
           "sectors": [
               {
@@ -4201,7 +4247,7 @@
       },
       "BI": {
           "callsign": "Billund Approach",
-          "frequency": "127.575",
+          "frequency": "127.580",
           "type": "APP",
           "pre": [
               "EKBI"
@@ -4227,7 +4273,7 @@
       },
       "BT": {
           "callsign": "Billund Tower",
-          "frequency": "119.000",
+          "frequency": "119.005",
           "type": "TWR",
           "pre": [
               "EKBI"
@@ -4240,7 +4286,7 @@
       },
       "CTA": {
           "callsign": "Kastrup Tower",
-          "frequency": "118.100",
+          "frequency": "118.105",
           "type": "TWR",
           "pre": [
               "EKCH"
@@ -4253,7 +4299,7 @@
       },
       "TC": {
           "callsign": "Kastrup Tower",
-          "frequency": "118.575",
+          "frequency": "118.580",
           "type": "TWR",
           "pre": [
               "EKCH"
@@ -4266,7 +4312,7 @@
       },
       "TD": {
           "callsign": "Kastrup Tower",
-          "frequency": "119.350",
+          "frequency": "119.355",
           "type": "TWR",
           "pre": [
               "EKCH"
@@ -4279,7 +4325,7 @@
       },
       "O": {
           "callsign": "Copenhagen Approach",
-          "frequency": "118.450",
+          "frequency": "118.455",
           "type": "APP",
           "pre": [
               "EKCH"
@@ -4292,7 +4338,7 @@
       },
       "CD": {
           "callsign": "Kastrup Departure",
-          "frequency": "124.975",
+          "frequency": "124.980",
           "type": "DEP",
           "pre": [
               "EKCH"
@@ -4305,7 +4351,7 @@
       },
       "ARR": {
           "callsign": "Kastrup Final",
-          "frequency": "120.200",
+          "frequency": "120.205",
           "type": "APP",
           "pre": [
               "EKCH"
@@ -4318,7 +4364,7 @@
       },
       "CA": {
           "callsign": "Copenhagen Approach",
-          "frequency": "119.800",
+          "frequency": "119.805",
           "type": "APP",
           "pre": [
               "EKCH"
@@ -4331,7 +4377,7 @@
       },
       "CDS": {
           "callsign": "Kastrup Departure",
-          "frequency": "120.250",
+          "frequency": "120.255",
           "type": "DEP",
           "pre": [
               "EKCH"
@@ -4342,22 +4388,35 @@
               }
           ]
       },
-      "A": {
+      "DK": {
           "callsign": "Copenhagen Control",
-          "frequency": "199.998",
+          "frequency": "136.485",
           "type": "CTR",
           "pre": [
               "EKDK"
           ],
           "colours": [
               {
-                  "hex": "#ffffff"
+                  "hex": "#FF5656"
+              }
+          ]
+      },
+      "A": {
+          "callsign": "Copenhagen Control",
+          "frequency": "135.290",
+          "type": "CTR",
+          "pre": [
+              "EKDK"
+          ],
+          "colours": [
+              {
+                  "hex": "#1a8c00"
               }
           ]
       },
       "B": {
           "callsign": "Copenhagen Control",
-          "frequency": "121.375",
+          "frequency": "119.555",
           "type": "CTR",
           "pre": [
               "EKDK"
@@ -4370,7 +4429,7 @@
       },
       "C": {
           "callsign": "Copenhagen Control",
-          "frequency": "128.225",
+          "frequency": "128.215",
           "type": "CTR",
           "pre": [
               "EKDK"
@@ -4383,7 +4442,7 @@
       },
       "D": {
           "callsign": "Copenhagen Control",
-          "frequency": "133.150",
+          "frequency": "133.155",
           "type": "CTR",
           "pre": [
               "EKDK"
@@ -4396,46 +4455,46 @@
       },
       "E": {
         "callsign": "Copenhagen Control",
-        "frequency": "123.725",
-        "type": "APP",
+        "frequency": "123.730",
+        "type": "CTR",
         "pre": [
             "CPH"
         ],
         "colours": [
             {
-                "hex": "#ffffff"
+                "hex": "#208c00"
             }
         ]
       },
       "I": {
         "callsign": "Copenhagen Control",
-        "frequency": "119.550",
-        "type": "APP",
+        "frequency": "121.380",
+        "type": "CTR",
         "pre": [
             "CPH"
         ],
         "colours": [
             {
-                "hex": "#ffffff"
+                "hex": "#208c00"
             }
         ]
       },
       "L": {
           "callsign": "Copenhagen Control",
-          "frequency": "124.550",
+          "frequency": "124.555",
           "type": "CTR",
           "pre": [
               "EKDK"
           ],
           "colours": [
               {
-                  "hex": "#ffffff"
+                  "hex": "#848c00"
               }
           ]
       },
       "N": {
           "callsign": "Copenhagen Control",
-          "frequency": "134.675",
+          "frequency": "134.680",
           "type": "CTR",
           "pre": [
               "EKDK"
@@ -4448,43 +4507,30 @@
       },
       "S": {
           "callsign": "Copenhagen Control",
-          "frequency": "136.550",
+          "frequency": "136.555",
           "type": "CTR",
           "pre": [
               "EKDK"
           ],
           "colours": [
               {
-                  "hex": "#fa8c00"
+                  "hex": "#848c00"
               }
           ]
       },
       "V": {
           "callsign": "Copenhagen Control",
-          "frequency": "126.050",
+          "frequency": "135.565",
           "type": "CTR",
           "pre": [
               "EKDK"
           ],
           "colours": [
               {
-                  "hex": "#178c00"
+                  "hex": "#848c00"
               }
           ]
       },
-      "Info": {
-        "callsign": "Copenhagen Information",
-        "frequency": "127.075",
-        "type": "CTR",
-        "pre": [
-            "EKDK"
-        ],
-        "colours": [
-            {
-                "hex": "#d18c00"
-            }
-        ]
-    },
       "ET": {
           "callsign": "Esbjerg Information",
           "frequency": "120.150",
@@ -4539,7 +4585,7 @@
       },
       "RD": {
           "callsign": "Roskilde Approach",
-          "frequency": "125.525",
+          "frequency": "125.530",
           "type": "APP",
           "pre": [
               "EKRK"
@@ -4552,7 +4598,7 @@
       },
       "RT": {
           "callsign": "Roskilde Tower",
-          "frequency": "118.900",
+          "frequency": "118.905",
           "type": "TWR",
           "pre": [
               "EKRK"
@@ -4736,11 +4782,11 @@
             "ARR",
             "CA",
             "O",
-            "E",
             "I",
             "B",
             "D",
-            "V"
+            "E",
+            "DK"
           ]
         },
         "EKCR": { "callsign": "Christianshede", "coord": [56.105, 9.392778] },
@@ -4752,10 +4798,11 @@
           "coord": [55.525833, 8.551111],
           "topdown": [
               "BI",
+              "S",
+              "N",
+              "L",
               "V",
-              "D",
-              "B",
-              "S"
+			  "DK"
           ]
         },
         "EKEL": { "callsign": "Endelave", "coord": [55.756389, 10.248611] },
@@ -4787,9 +4834,11 @@
           "coord": [56.298611, 9.111111],
           "topdown": [
               "KA",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+			  "DK"
           ]
         },
         "EKKH": { "callsign": "Kolding Hems", "coord": [55.504722, 9.483611] },
@@ -4811,8 +4860,10 @@
           "coord": [55.476664, 10.330933],
           "topdown": [
               "D",
-              "B",
-              "V"
+              "E",
+              "I",
+			  "B",
+			  "DK"
           ]
         },
         "EKOH": { "callsign": "Odense Hems", "coord": [55.384508, 10.363936] },
@@ -4832,19 +4883,20 @@
             "CD",
             "CA",
             "O",
-            "E",
             "I",
             "B",
             "D",
-            "V"
+            "E",
+            "DK"
           ]
         },
         "EKRN": {
           "callsign": "Roenne",
           "coord": [55.063267, 14.759558],
           "topdown": [
-            "B",
-            "V"
+            "A",
+            "C",
+			"DK"
           ]
         },
         "EKRO": { "callsign": "Rolfsted", "coord": [55.325833, 10.581944] },
@@ -4856,9 +4908,7 @@
           "coord": [54.964367, 9.791731],
           "topdown": [
             "SA",
-            "V",
-            "D",
-            "B"
+            "DK"
           ]
         },
         "EKSC": { "callsign": "Skjold", "coord": [55.531594, 4.906689] },
@@ -4875,9 +4925,7 @@
           "coord": [55.225553, 9.263931],
           "topdown": [
             "SA",
-            "V",
-            "D",
-            "B"
+            "DK"
           ]
         },
         "EKSS": { "callsign": "Samsoe", "coord": [55.889864, 10.613753] },
@@ -4899,10 +4947,7 @@
           "coord": [55.990278, 8.353611],
           "topdown": [
             "BI",
-            "V",
-            "D",
-            "B",
-            "S"
+            "DK"
           ]
         },
         "EKVL": { "callsign": "Vaerloese", "coord": [55.769444, 12.323889] },
@@ -4913,9 +4958,11 @@
           "runways": ["26", "08"],
           "topdown": [
               "YT",
+              "L",
               "V",
-              "D",
-              "B"
+              "S",
+			  "N",
+			  "DK"
           ]
         }
     }

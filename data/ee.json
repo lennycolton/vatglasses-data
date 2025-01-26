@@ -1362,7 +1362,7 @@
 		}, {
 			"id": "E1",
 			"group": "EETT",
-			"owner": ["E", "S", "W", "N", "euc/EN"],
+			"owner": ["E", "S", "W", "N", "fss/EUCN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -1732,7 +1732,7 @@
 		}, {
 			"id": "E2",
 			"group": "EETT",
-			"owner": ["S", "E", "W", "N", "euc/EN"],
+			"owner": ["S", "E", "W", "N", "fss/EUCN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -1871,7 +1871,7 @@
 		}, {
 			"id": "W11",
 			"group": "EETT",
-			"owner": ["W", "N", "E", "S", "euc/EN"],
+			"owner": ["W", "N", "E", "S", "fss/EUCN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -1931,7 +1931,7 @@
 		}, {
 			"id": "W12",
 			"group": "EETT",
-			"owner": ["N", "W", "E", "S", "euc/EN"],
+			"owner": ["N", "W", "E", "S", "fss/EUCN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -2002,7 +2002,7 @@
 		}, {
 			"id": "W21",
 			"group": "EETT",
-			"owner": ["N", "W", "E", "S", "euc/EN"],
+			"owner": ["N", "W", "E", "S", "fss/EUCN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -2090,7 +2090,7 @@
 		}, {
 			"id": "W23",
 			"group": "EETT",
-			"owner": ["N", "W", "E", "S", "euc/EN"],
+			"owner": ["N", "W", "E", "S", "fss/EUCN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -2159,7 +2159,7 @@
 		}, {
 			"id": "W31",
 			"group": "EETT",
-			"owner": ["W", "N", "E", "S", "euc/EN"],
+			"owner": ["W", "N", "E", "S", "fss/EUCN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -2247,7 +2247,7 @@
 		}, {
 			"id": "W32",
 			"group": "EETT",
-			"owner": ["W", "N", "E", "S", "euc/EN"],
+			"owner": ["W", "N", "E", "S", "fss/EUCN"],
 			"sectors": [{
 				"min": 245,
 				"max": 659,
@@ -2303,7 +2303,7 @@
 		},
 		"EEKA": {
 			"callsign": "Kärdla Information",
-			"frequency": "133.400",
+			"frequency": "133.405",
 			"type": "TWR",
 			"pre": ["EEKA"],
 			"colours": [{
@@ -2312,7 +2312,7 @@
 		},
 		"EEKE": {
 			"callsign": "Kuressaare Information",
-			"frequency": "118.050",
+			"frequency": "118.055",
 			"type": "TWR",
 			"pre": ["EEKE"],
 			"colours": [{
@@ -2321,7 +2321,7 @@
 		},
 		"EEPU": {
 			"callsign": "Pärnu Information",
-			"frequency": "135.300",
+			"frequency": "135.305",
 			"type": "TWR",
 			"pre": ["EEPU"],
 			"colours": [{
@@ -2330,7 +2330,7 @@
 		},
 		"APP": {
 			"callsign": "Tallinn Radar",
-			"frequency": "127.900",
+			"frequency": "127.905",
 			"type": "APP",
 			"pre": ["EETN"],
 			"colours": [{
@@ -2339,7 +2339,7 @@
 		},
 		"EETW": {
 			"callsign": "Tallinn Tower",
-			"frequency": "135.900",
+			"frequency": "135.905",
 			"type": "TWR",
 			"pre": ["EETN"],
 			"colours": [{
@@ -2348,7 +2348,7 @@
 		},
 		"E": {
 			"callsign": "Tallinn Control",
-			"frequency": "119.375",
+			"frequency": "119.380",
 			"type": "CTR",
 			"pre": ["EETT"],
 			"colours": [{
@@ -2357,7 +2357,7 @@
 		},
 		"FED": {
 			"callsign": "Tallinn Control",
-			"frequency": "126.700",
+			"frequency": "126.705",
 			"type": "APP",
 			"pre": ["EETT"],
 			"colours": [{
@@ -2366,7 +2366,7 @@
 		},
 		"FIS": {
 			"callsign": "Tallinn Control",
-			"frequency": "128.975",
+			"frequency": "128.980",
 			"type": "CTR",
 			"pre": ["EETT"],
 			"colours": [{
@@ -2384,7 +2384,7 @@
 		},
 		"S": {
 			"callsign": "Tallinn Control",
-			"frequency": "124.425",
+			"frequency": "124.415",
 			"type": "CTR",
 			"pre": ["EETT"],
 			"colours": [{
@@ -2402,7 +2402,7 @@
 		},
 		"EETU": {
 			"callsign": "Tartu Information",
-			"frequency": "133.900",
+			"frequency": "133.905",
 			"type": "TWR",
 			"pre": ["EETU"],
 			"colours": [{

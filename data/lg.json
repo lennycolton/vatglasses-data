@@ -3,7 +3,7 @@
     {
       "id": "Athinai",
       "group": "FIN",
-      "owner": ["ARR3", "ARR2", "ARR4", "AC5", "AC2", "AC1", "FAV"],
+      "owner": ["ARR3", "ARR2", "ARR1", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 20,
@@ -212,9 +212,9 @@
       ]
     },
     {
-      "id": "Athinai West",
-      "group": "APS",
-      "owner": ["ARR2", "ARR4", "AC5", "AC2", "AC1", "FAV"],
+      "id": "Athinai",
+      "group": "ARR",
+      "owner": ["ARR2", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 125,
@@ -246,7 +246,7 @@
     {
       "id": "Athinai",
       "group": "DEP",
-      "owner": ["DEP1", "ARR2", "ARR4", "AC5", "AC2", "AC1", "FAV"],
+      "owner": ["DEP1", "ARR2", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 85,
@@ -647,9 +647,9 @@
       ]
     },
     {
-      "id": "Athinai East",
-      "group": "APS",
-      "owner": ["ARR4", "ARR2", "AC5", "AC2", "AC1", "FAV"],
+      "id": "Athinai",
+      "group": "ARR",
+      "owner": ["ARR1", "ARR2", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 125,
@@ -831,7 +831,7 @@
     },
     {
       "id": "Iraklion",
-      "group": "APS",
+      "group": "RAD",
       "owner": ["HER", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
@@ -1025,7 +1025,7 @@
     },
     {
       "id": "Kerkira",
-      "group": "APS",
+      "group": "RAD",
       "owner": ["CFU", "AC6", "AC1", "FAV"],
       "sectors": [
         {
@@ -1338,7 +1338,7 @@
     },
     {
       "id": "Rodos",
-      "group": "APS",
+      "group": "RAD",
       "owner": ["RHO", "AC2", "AC1", "FAV"],
       "sectors": [
         {
@@ -1651,7 +1651,7 @@
     },
     {
       "id": "Thessaloniki",
-      "group": "APS",
+      "group": "RAD",
       "owner": ["SKG", "AC10", "AC4", "AC1", "FAV"],
       "sectors": [
         {
@@ -1699,7 +1699,7 @@
     {
       "id": "LGGGKAV",
       "group": "LGGG",
-      "owner": ["AC9", "AC2", "AC1", "FAV"],
+      "owner": ["AC13", "AC19", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "max": 154,
@@ -1747,7 +1747,7 @@
     {
       "id": "LGGGKAV",
       "group": "LGGG",
-      "owner": ["AC9", "AC2", "AC1", "FAV"],
+      "owner": ["AC13", "AC19", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 155,
@@ -1790,7 +1790,7 @@
     {
       "id": "LGGGKAV",
       "group": "LGGG",
-      "owner": ["AC9", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC13", "AC19", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -1833,7 +1833,7 @@
     {
       "id": "LGGGKAV",
       "group": "LGGG",
-      "owner": ["AC15", "AC9", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC13", "AC19", "AC9", "AC20", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -1873,7 +1873,7 @@
       ]
     },
     {
-      "id": "LGGGKFN",
+      "id": "LGGGKFNL",
       "group": "LGGG",
       "owner": ["AC11", "AC7", "AC6", "AC1", "FAV"],
       "sectors": [
@@ -1901,7 +1901,7 @@
       ]
     },
     {
-      "id": "LGGGKFN",
+      "id": "LGGGKFNL",
       "group": "LGGG",
       "owner": ["AC11", "AC7", "AC6", "AC1", "FAV"],
       "sectors": [
@@ -1927,7 +1927,7 @@
       ]
     },
     {
-      "id": "LGGGKFN",
+      "id": "LGGGKFNL",
       "group": "LGGG",
       "owner": ["AC11", "AC7", "AC6", "AC1", "FAV"],
       "sectors": [
@@ -1960,7 +1960,7 @@
       ]
     },
     {
-      "id": "LGGGKFN",
+      "id": "LGGGKFNL",
       "group": "LGGG",
       "owner": ["AC11", "AC7", "AC6", "AC1", "FAV"],
       "sectors": [
@@ -2008,9 +2008,9 @@
       ]
     },
     {
-      "id": "LGGGKFN",
+      "id": "LGGGKFNL",
       "group": "LGGG",
-      "owner": ["AC11", "AC7", "AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC11", "AC7", "AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -2050,9 +2050,9 @@
       ]
     },
     {
-      "id": "LGGGKFN",
+      "id": "LGGGKFNU",
       "group": "LGGG",
-      "owner": ["AC15", "AC11", "AC7", "AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC18", "AC12", "AC20", "AC11", "AC7", "AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -2091,7 +2091,7 @@
       ]
     },
     {
-      "id": "LGGGKRK",
+      "id": "LGGGKRKL",
       "group": "LGGG",
       "owner": ["AC6", "AC1", "FAV"],
       "sectors": [
@@ -2115,7 +2115,7 @@
       ]
     },
     {
-      "id": "LGGGKRK",
+      "id": "LGGGKRKL",
       "group": "LGGG",
       "owner": ["AC6", "AC1", "FAV"],
       "sectors": [
@@ -2148,7 +2148,7 @@
       ]
     },
     {
-      "id": "LGGGKRK",
+      "id": "LGGGKRKL",
       "group": "LGGG",
       "owner": ["AC6", "AC1", "FAV"],
       "sectors": [
@@ -2170,7 +2170,7 @@
       ]
     },
     {
-      "id": "LGGGKRK",
+      "id": "LGGGKRKL",
       "group": "LGGG",
       "owner": ["AC6", "AC1", "FAV"],
       "sectors": [
@@ -2189,7 +2189,7 @@
       ]
     },
     {
-      "id": "LGGGKRK",
+      "id": "LGGGKRKL",
       "group": "LGGG",
       "owner": ["AC6", "AC1", "FAV"],
       "sectors": [
@@ -2224,7 +2224,7 @@
       ]
     },
     {
-      "id": "LGGGKRK",
+      "id": "LGGGKRKL",
       "group": "LGGG",
       "owner": ["AC6", "AC1", "FAV"],
       "sectors": [
@@ -2278,7 +2278,7 @@
       ]
     },
     {
-      "id": "LGGGKRK",
+      "id": "LGGGKRKL",
       "group": "LGGG",
       "owner": ["AC6", "AC1", "FAV"],
       "sectors": [
@@ -2332,9 +2332,9 @@
       ]
     },
     {
-      "id": "LGGGKRK",
+      "id": "LGGGKRKL",
       "group": "LGGG",
-      "owner": ["AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -2405,9 +2405,9 @@
       ]
     },
     {
-      "id": "LGGGKRK",
+      "id": "LGGGKRKU",
       "group": "LGGG",
-      "owner": ["AC15", "AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC12", "AC20", "AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -2477,9 +2477,9 @@
       ]
     },
     {
-      "id": "LGMDKVL",
+      "id": "LGMDKVLL",
       "group": "LGMD",
-      "owner": ["AC3", "AC14", "AC4", "AC1", "FAV"],
+      "owner": ["AC14", "AC4", "AC1", "FAV"],
       "sectors": [
         {
           "max": 154,
@@ -2563,9 +2563,9 @@
       ]
     },
     {
-      "id": "LGMDKVL",
+      "id": "LGMDKVLL",
       "group": "LGMD",
-      "owner": ["AC3", "AC14", "AC4", "AC1", "FAV"],
+      "owner": ["AC14", "AC4", "AC1", "FAV"],
       "sectors": [
         {
           "max": 164,
@@ -2664,9 +2664,9 @@
       ]
     },
     {
-      "id": "LGMDKVL",
+      "id": "LGMDKVLL",
       "group": "LGMD",
-      "owner": ["AC3", "AC14", "AC4", "AC1", "FAV"],
+      "owner": ["AC14", "AC4", "AC1", "FAV"],
       "sectors": [
         {
           "min": 155,
@@ -2740,9 +2740,9 @@
       ]
     },
     {
-      "id": "LGMDKVL",
+      "id": "LGMDKVLL",
       "group": "LGMD",
-      "owner": ["AC3", "AC14", "AC4", "AC1", "FAV"],
+      "owner": ["AC14", "AC4", "AC1", "FAV"],
       "sectors": [
         {
           "min": 165,
@@ -2872,9 +2872,9 @@
       ]
     },
     {
-      "id": "LGMDKVL",
+      "id": "LGMDKVLL",
       "group": "LGMD",
-      "owner": ["AC3", "AC14", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC14", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -2990,9 +2990,9 @@
       ]
     },
     {
-      "id": "LGMDKVL",
+      "id": "LGMDKVLU",
       "group": "LGMD",
-      "owner": ["AC16", "AC15", "AC3", "AC14", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC3", "AC17", "AC20", "AC14", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -3109,9 +3109,9 @@
       ]
     },
     {
-      "id": "LGMDLMO",
+      "id": "LGMDLMOL",
       "group": "LGMD",
-      "owner": ["AC14", "AC4", "AC1", "FAV"],
+      "owner": ["AC16", "AC14", "AC4", "AC1", "FAV"],
       "sectors": [
         {
           "max": 94,
@@ -3178,9 +3178,9 @@
       ]
     },
     {
-      "id": "LGMDLMO",
+      "id": "LGMDLMOL",
       "group": "LGMD",
-      "owner": ["AC14", "AC4", "AC1", "FAV"],
+      "owner": ["AC16", "AC14", "AC4", "AC1", "FAV"],
       "sectors": [
         {
           "min": 95,
@@ -3253,9 +3253,9 @@
       ]
     },
     {
-      "id": "LGMDLMO",
+      "id": "LGMDLMOL",
       "group": "LGMD",
-      "owner": ["AC14", "AC4", "AC1", "FAV"],
+      "owner": ["AC16", "AC14", "AC4", "AC1", "FAV"],
       "sectors": [
         {
           "min": 145,
@@ -3323,9 +3323,9 @@
       ]
     },
     {
-      "id": "LGMDLMO",
+      "id": "LGMDLMOL",
       "group": "LGMD",
-      "owner": ["AC14", "AC4", "AC1", "FAV"],
+      "owner": ["AC16", "AC14", "AC4", "AC1", "FAV"],
       "sectors": [
         {
           "min": 155,
@@ -3389,9 +3389,9 @@
       ]
     },
     {
-      "id": "LGMDLMO",
+      "id": "LGMDLMOL",
       "group": "LGMD",
-      "owner": ["AC14", "AC4", "AC1", "FAV"],
+      "owner": ["AC16", "AC14", "AC4", "AC1", "FAV"],
       "sectors": [
         {
           "min": 195,
@@ -3451,9 +3451,9 @@
       ]
     },
     {
-      "id": "LGMDLMO",
+      "id": "LGMDLMOL",
       "group": "LGMD",
-      "owner": ["AC14", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC16", "AC14", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -3515,9 +3515,9 @@
       ]
     },
     {
-      "id": "LGMDLMO",
+      "id": "LGMDLMOU",
       "group": "LGMD",
-      "owner": ["AC16", "AC15", "AC14", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC8", "AC3", "AC17", "AC20", "AC16", "AC14", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -3578,7 +3578,7 @@
       ]
     },
     {
-      "id": "LGGGMIL",
+      "id": "LGGGMILL",
       "group": "LGGG",
       "owner": ["AC5", "AC2", "AC1", "FAV"],
       "sectors": [
@@ -3684,7 +3684,7 @@
       ]
     },
     {
-      "id": "LGGGMIL",
+      "id": "LGGGMILL",
       "group": "LGGG",
       "owner": ["AC5", "AC2", "AC1", "FAV"],
       "sectors": [
@@ -3730,9 +3730,9 @@
       ]
     },
     {
-      "id": "LGGGMIL",
+      "id": "LGGGMILL",
       "group": "LGGG",
-      "owner": ["AC5", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC5", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -3777,9 +3777,9 @@
       ]
     },
     {
-      "id": "LGGGMIL",
+      "id": "LGGGMILU",
       "group": "LGGG",
-      "owner": ["AC15", "AC5", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC15", "AC20", "AC5", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -3825,7 +3825,7 @@
     {
       "id": "LGGGPLH",
       "group": "LGGG",
-      "owner": ["AC7", "AC6", "AC1", "FAV"],
+      "owner": ["AC7", "AC11", "AC6", "AC1", "FAV"],
       "sectors": [
         {
           "max": 154,
@@ -3867,7 +3867,7 @@
     {
       "id": "LGGGPLH",
       "group": "LGGG",
-      "owner": ["AC7", "AC6", "AC1", "FAV"],
+      "owner": ["AC7", "AC11", "AC6", "AC1", "FAV"],
       "sectors": [
         {
           "min": 155,
@@ -3907,7 +3907,7 @@
     {
       "id": "LGGGPLH",
       "group": "LGGG",
-      "owner": ["AC7", "AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC7", "AC11", "AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -3947,7 +3947,7 @@
     {
       "id": "LGGGPLH",
       "group": "LGGG",
-      "owner": ["AC15", "AC7", "AC6", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC7", "AC18", "AC12", "AC20", "AC11", "AC6", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -4289,7 +4289,7 @@
       ]
     },
     {
-      "id": "LGGGRDS",
+      "id": "LGGGRDSL",
       "group": "LGGG",
       "owner": ["AC2", "AC1", "FAV"],
       "sectors": [
@@ -4394,7 +4394,7 @@
       ]
     },
     {
-      "id": "LGGGRDS",
+      "id": "LGGGRDSL",
       "group": "LGGG",
       "owner": ["AC2", "AC1", "FAV"],
       "sectors": [
@@ -4493,7 +4493,7 @@
       ]
     },
     {
-      "id": "LGGGRDS",
+      "id": "LGGGRDSL",
       "group": "LGGG",
       "owner": ["AC2", "AC1", "FAV"],
       "sectors": [
@@ -4598,9 +4598,9 @@
       ]
     },
     {
-      "id": "LGGGRDS",
+      "id": "LGGGRDSL",
       "group": "LGGG",
-      "owner": ["AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -4698,9 +4698,9 @@
       ]
     },
     {
-      "id": "LGGGRDS",
+      "id": "LGGGRDSU",
       "group": "LGGG",
-      "owner": ["AC15", "AC2", "AC1", "euc/ESW", "FAV"],
+      "owner": ["AC9", "AC20", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -4799,7 +4799,7 @@
     {
       "id": "LGGGSIT",
       "group": "LGGG",
-      "owner": ["AC9", "AC5", "AC2", "AC1", "FAV"],
+      "owner": ["AC19", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "max": 124,
@@ -4842,7 +4842,7 @@
     {
       "id": "LGGGSIT",
       "group": "LGGG",
-      "owner": ["AC9", "AC5", "AC2", "AC1", "FAV"],
+      "owner": ["AC19", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 125,
@@ -4886,7 +4886,7 @@
     {
       "id": "LGGGSIT",
       "group": "LGGG",
-      "owner": ["AC9", "AC5", "AC2", "AC1", "FAV"],
+      "owner": ["AC19", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "min": 155,
@@ -4924,7 +4924,7 @@
     {
       "id": "LGGGSIT",
       "group": "LGGG",
-      "owner": ["AC9", "AC5", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC19", "AC5", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -4962,7 +4962,7 @@
     {
       "id": "LGGGSIT",
       "group": "LGGG",
-      "owner": ["AC15", "AC9", "AC5", "AC2", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC19", "AC15", "AC9", "AC20", "AC5", "AC2", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -4997,7 +4997,7 @@
       ]
     },
     {
-      "id": "LGMDSKP",
+      "id": "LGMDWL",
       "group": "LGMD",
       "owner": ["AC4", "AC1", "FAV"],
       "sectors": [
@@ -5021,7 +5021,7 @@
       ]
     },
     {
-      "id": "LGMDSKP",
+      "id": "LGMDWL",
       "group": "LGMD",
       "owner": ["AC4", "AC1", "FAV"],
       "sectors": [
@@ -5039,7 +5039,7 @@
       ]
     },
     {
-      "id": "LGMDSKP",
+      "id": "LGMDWL",
       "group": "LGMD",
       "owner": ["AC4", "AC1", "FAV"],
       "sectors": [
@@ -5069,7 +5069,7 @@
       ]
     },
     {
-      "id": "LGMDSKP",
+      "id": "LGMDWL",
       "group": "LGMD",
       "owner": ["AC4", "AC1", "FAV"],
       "sectors": [
@@ -5113,9 +5113,9 @@
       ]
     },
     {
-      "id": "LGMDSKP",
+      "id": "LGMDWL",
       "group": "LGMD",
-      "owner": ["AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -5149,9 +5149,9 @@
       ]
     },
     {
-      "id": "LGMDSKP",
+      "id": "LGMDSKPU",
       "group": "LGMD",
-      "owner": ["AC16", "AC15", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC17", "AC20", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -5184,9 +5184,9 @@
       ]
     },
     {
-      "id": "LGMDTSL",
+      "id": "LGMDWL",
       "group": "LGMD",
-      "owner": ["AC10", "AC4", "AC1", "FAV"],
+      "owner": ["AC4", "AC1", "FAV"],
       "sectors": [
         {
           "max": 244,
@@ -5242,9 +5242,9 @@
       ]
     },
     {
-      "id": "LGMDTSL",
+      "id": "LGMDWL",
       "group": "LGMD",
-      "owner": ["AC10", "AC4", "AC1", "FAV"],
+      "owner": ["AC4", "AC1", "FAV"],
       "sectors": [
         {
           "min": 105,
@@ -5265,9 +5265,9 @@
       ]
     },
     {
-      "id": "LGMDTSL",
+      "id": "LGMDWL",
       "group": "LGMD",
-      "owner": ["AC10", "AC4", "AC1", "FAV"],
+      "owner": ["AC4", "AC1", "FAV"],
       "sectors": [
         {
           "min": 195,
@@ -5292,9 +5292,9 @@
       ]
     },
     {
-      "id": "LGMDTSL",
+      "id": "LGMDWL",
       "group": "LGMD",
-      "owner": ["AC10", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -5349,9 +5349,9 @@
       ]
     },
     {
-      "id": "LGMDTSL",
+      "id": "LGMDTSLU",
       "group": "LGMD",
-      "owner": ["AC16", "AC15", "AC10", "AC4", "AC1", "FAV", "euc/ESW"],
+      "owner": ["AC10", "AC17", "AC20", "AC4", "AC1", "FAV", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -5407,9 +5407,9 @@
       ]
     },
     {
-      "id": "LGMDTSLN",
+      "id": "LGMDWL",
       "group": "LGMD",
-      "owner": ["AC10", "AC4", "AC1", "FAV"],
+      "owner": ["AC4", "AC1", "FAV"],
       "sectors": [
         {
           "max": 244,
@@ -5546,7 +5546,7 @@
     {
       "id": "Venizelos",
       "group": "TWR",
-      "owner": ["TWRW", "DEP1", "ARR2", "AC5", "AC2", "AC1", "FAV"],
+      "owner": ["TWRW","TWRE", "DEP1", "ARR2", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "max": 19,
@@ -5953,7 +5953,7 @@
     {
       "id": "Syros",
       "group": "FIZ",
-      "owner": ["TSO", "DEP1", "ARR4", "ARR2", "AC5", "AC2", "AC1", "FAV"],
+      "owner": ["TSO", "DEP1", "ARR1", "ARR2", "AC5", "AC2", "AC1", "FAV"],
       "sectors": [
         {
           "max": 69,
@@ -5980,14 +5980,17 @@
     "DEP": {
       "name": "Departure"
     },
-    "APS": {
-      "name": "Approach"
+    "RAD": {
+      "name": "Approach (Radar)"
+    },
+    "ARR":{
+      "name": "Arrival"
     },
     "APP": {
       "name": "Approach (Non-Radar)"
     },
     "FIN": {
-      "name": "Final Approach"
+      "name": "Director"
     },
     "TWR": {
       "name": "Tower"
@@ -5997,6 +6000,146 @@
     }
   },
   "positions": {
+    "AC1": {
+      "callsign": "Athinai Radar",
+      "frequency": "129.675",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#097ede" }]
+    },
+    "AC2": {
+      "callsign": "Athinai Radar",
+      "frequency": "133.325",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#09de49" }]
+    },
+    "AC3": {
+      "callsign": "Makedonia Radar",
+      "frequency": "133.425",
+      "type": "CTR",
+      "pre": ["LGMD"],
+      "colours": [{ "hex": "#076958" }]
+    },
+    "AC4": {
+      "callsign": "Makedonia Radar",
+      "frequency": "132.375",
+      "type": "CTR",
+      "pre": ["LGMD"],
+      "colours": [{ "hex": "#a3ab13" }]
+    },
+    "AC5": {
+      "callsign": "Athinai Radar",
+      "frequency": "125.200",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#1369ab" }]
+    },
+    "AC6": {
+      "callsign": "Athinai Radar",
+      "frequency": "134.325",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#ab13a8" }]
+    },
+    "AC7": {
+      "callsign": "Athinai Radar",
+      "frequency": "124.625",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#13ab66" }]
+    },
+    "AC8": {
+      "callsign": "Makedonia Radar",
+      "frequency": "127.475",
+      "type": "CTR",
+      "pre": ["LGMD"],
+      "colours": [{ "hex": "#07690b" }]
+    },
+    "AC9": {
+      "callsign": "Athinai Radar",
+      "frequency": "126.125",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#075f69" }]
+    },
+    "AC10": {
+      "callsign": "Makedonia Radar",
+      "frequency": "133.880",
+      "type": "CTR",
+      "pre": ["LGMD"],
+      "colours": [{ "hex": "#707314" }]
+    },
+    "AC11": {
+      "callsign": "Athinai Radar",
+      "frequency": "133.725",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#ab7813" }]
+    },
+    "AC12": {
+      "callsign": "Athinai Radar",
+      "frequency": "131.330",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#825b0e" }]
+    },
+    "AC13": {
+      "callsign": "Athinai Radar",
+      "frequency": "123.725",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#ab1336" }]
+    },
+    "AC14": {
+      "callsign": "Makedonia Radar",
+      "frequency": "133.575",
+      "type": "CTR",
+      "pre": ["LGMD"],
+      "colours": [{ "hex": "#de375e" }]
+    },
+    "AC15": {
+      "callsign": "Athinai Radar",
+      "frequency": "123.830",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#1f4b9c" }]
+    },
+    "AC16": {
+      "callsign": "Makedonia Radar",
+      "frequency": "133.655",
+      "type": "CTR",
+      "pre": ["LGMD"],
+      "colours": [{ "hex": "#7371e3" }]
+    },
+    "AC17": {
+      "callsign": "Makedonia Radar",
+      "frequency": "125.355",
+      "type": "CTR",
+      "pre": ["LGMD"],
+      "colours": [{ "hex": "#611f9c" }]
+    },
+    "AC18": {
+      "callsign": "Athinai Radar",
+      "frequency": "125.985",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#c47547" }]
+    },
+    "AC19": {
+      "callsign": "Athinai Radar",
+      "frequency": "127.975",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#95b320" }]
+    },
+    "AC20": {
+      "callsign": "Athinai Radar",
+      "frequency": "135.875",
+      "type": "CTR",
+      "pre": ["LGGG"],
+      "colours": [{ "hex": "#07692e" }]
+    },
     "AAD": {
       "callsign": "Andravida Approach",
       "frequency": "121.125",
@@ -6032,7 +6175,7 @@
       "pre": ["LGAV"],
       "colours": [{ "hex": "#e7970d" }]
     },
-    "ARR4": {
+    "ARR1": {
       "callsign": "Athinai Arrival",
       "frequency": "126.575",
       "type": "APP",
@@ -6060,6 +6203,13 @@
       "pre": ["LGAV"],
       "colours": [{ "hex": "#2904e7" }]
     },
+    "TAX": {
+      "callsign": "Alexandria Tower",
+      "frequency": "132.775",
+      "type": "TWR",
+      "pre": ["LGAX"],
+      "colours": [{ "hex": "#2904e7" }]
+    },
     "VOL": {
       "callsign": "Almiros Approach",
       "frequency": "120.350",
@@ -6067,75 +6217,12 @@
       "pre": ["LGBL"],
       "colours": [{ "hex": "#7b0956" }]
     },
-    "TBL": {
-      "callsign": "Almiros Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGBL"],
-      "colours": [{ "hex": "#009100" }]
-    },
     "TEL": {
       "callsign": "Elefsis Tower",
       "frequency": "120.150",
       "type": "TWR",
       "pre": ["LGEL"],
       "colours": [{ "hex": "#005d00" }]
-    },
-    "AC2": {
-      "callsign": "Athinai Radar",
-      "frequency": "133.325",
-      "type": "CTR",
-      "pre": ["LGGG-E"],
-      "colours": [{ "hex": "#5460bb" }]
-    },
-    "AC9": {
-      "callsign": "Athinai Radar",
-      "frequency": "127.975",
-      "type": "CTR",
-      "pre": ["LGGG-H"],
-      "colours": [{ "hex": "#a454bb" }]
-    },
-    "AC11": {
-      "callsign": "Athinai Radar",
-      "frequency": "133.725",
-      "type": "CTR",
-      "pre": ["LGGG-K"],
-      "colours": [{ "hex": "#d69585" }]
-    },
-    "AC7": {
-      "callsign": "Athinai Radar",
-      "frequency": "124.625",
-      "type": "CTR",
-      "pre": ["LGGG-P"],
-      "colours": [{ "hex": "#fd08dc" }]
-    },
-    "AC5": {
-      "callsign": "Athinai Radar",
-      "frequency": "125.200",
-      "type": "CTR",
-      "pre": ["LGGG-S"],
-      "colours": [{ "hex": "#e2caca" }]
-    },
-    "AC15": {
-      "callsign": "Athinai Radar",
-      "frequency": "123.825",
-      "type": "CTR",
-      "pre": ["LGGG-U"],
-      "colours": [{ "hex": "#f93e3e" }]
-    },
-    "AC6": {
-      "callsign": "Athinai Radar",
-      "frequency": "134.325",
-      "type": "CTR",
-      "pre": ["LGGG-W"],
-      "colours": [{ "hex": "#b7c21e" }]
-    },
-    "AC1": {
-      "callsign": "Athinai Radar",
-      "frequency": "129.675",
-      "type": "CTR",
-      "pre": ["LGGG"],
-      "colours": [{ "hex": "#4effff" }]
     },
     "FAV": {
       "callsign": "Athinai Information",
@@ -6235,13 +6322,6 @@
       "pre": ["LGKL"],
       "colours": [{ "hex": "#00002f" }]
     },
-    "TKL": {
-      "callsign": "Kalamata Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGKL"],
-      "colours": [{ "hex": "#005a00" }]
-    },
     "TKN": {
       "callsign": "Kotroni Tower",
       "frequency": "120.900",
@@ -6272,21 +6352,21 @@
     },
     "CFU": {
       "callsign": "Kerkira Radar",
-      "frequency": "122.350",
+      "frequency": "122.355",
       "type": "APP",
       "pre": ["LGKR"],
       "colours": [{ "hex": "#dc3295" }]
     },
     "CD": {
       "callsign": "Kerkira Director",
-      "frequency": "118.075",
+      "frequency": "118.080",
       "type": "APP",
       "pre": ["LGKR"],
       "colours": [{ "hex": "#000023" }]
     },
     "TKR": {
       "callsign": "Kerkira Tower",
-      "frequency": "120.850",
+      "frequency": "120.855",
       "type": "TWR",
       "pre": ["LGKR"],
       "colours": [{ "hex": "#000700" }]
@@ -6333,61 +6413,12 @@
       "pre": ["LGLM"],
       "colours": [{ "hex": "#c9a1b8" }]
     },
-    "TLM": {
-      "callsign": "Limnos Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGLM"],
-      "colours": [{ "hex": "#00a200" }]
-    },
     "LRA": {
       "callsign": "Larissa Approach",
       "frequency": "120.550",
       "type": "APP",
       "pre": ["LGLR"],
       "colours": [{ "hex": "#7a5086" }]
-    },
-    "TLR": {
-      "callsign": "Larissa Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGLR"],
-      "colours": [{ "hex": "#000b00" }]
-    },
-    "AC14": {
-      "callsign": "Makedonia Radar",
-      "frequency": "133.575",
-      "type": "CTR",
-      "pre": ["LGMD-E"],
-      "colours": [{ "hex": "#ee9f44" }]
-    },
-    "AC3": {
-      "callsign": "Makedonia Radar",
-      "frequency": "133.425",
-      "type": "CTR",
-      "pre": ["LGMD-K"],
-      "colours": [{ "hex": "#44a4ee" }]
-    },
-    "AC10": {
-      "callsign": "Makedonia Radar",
-      "frequency": "126.525",
-      "type": "CTR",
-      "pre": ["LGMD-T"],
-      "colours": [{ "hex": "#df7fe1" }]
-    },
-    "AC16": {
-      "callsign": "Makedonia Radar",
-      "frequency": "125.350",
-      "type": "CTR",
-      "pre": ["LGMD-U"],
-      "colours": [{ "hex": "#d93646" }]
-    },
-    "AC4": {
-      "callsign": "Makedonia Radar",
-      "frequency": "132.375",
-      "type": "CTR",
-      "pre": ["LGMD"],
-      "colours": [{ "hex": "#607568" }]
     },
     "TMG": {
       "callsign": "Megara Tower",
@@ -6451,13 +6482,6 @@
       "type": "APP",
       "pre": ["LGPZ"],
       "colours": [{ "hex": "#dd97f7" }]
-    },
-    "TRD": {
-      "callsign": "Maritsa Tower",
-      "frequency": "118.100",
-      "type": "TWR",
-      "pre": ["LGRD"],
-      "colours": [{ "hex": "#004500" }]
     },
     "RHO": {
       "callsign": "Rodos Radar",
@@ -6536,13 +6560,6 @@
       "pre": ["LGSR"],
       "colours": [{ "hex": "#7dd66b" }]
     },
-    "TSR": {
-      "callsign": "Santorini Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGSR"],
-      "colours": [{ "hex": "#005500" }]
-    },
     "TSI": {
       "callsign": "Sitia Information",
       "frequency": "122.600",
@@ -6551,8 +6568,8 @@
       "colours": [{ "hex": "#00ff00" }]
     },
     "TSV": {
-      "callsign": "Stefanovikio Information",
-      "frequency": "123.500",
+      "callsign": "Stefanovikio Tower",
+      "frequency": "132.725",
       "type": "TWR",
       "pre": ["LGSV"],
       "colours": [{ "hex": "#005200" }]
@@ -6571,20 +6588,6 @@
       "pre": ["LGTG"],
       "colours": [{ "hex": "#8c989b" }]
     },
-    "TTG": {
-      "callsign": "Tanagra Tower",
-      "frequency": "122.100",
-      "type": "TWR",
-      "pre": ["LGTG"],
-      "colours": [{ "hex": "#003700" }]
-    },
-    "TTL": {
-      "callsign": "Kasteli Tower",
-      "frequency": "120.350",
-      "type": "TWR",
-      "pre": ["LGTL"],
-      "colours": [{ "hex": "#002900" }]
-    },
     "SKG": {
       "callsign": "Thessaloniki Radar",
       "frequency": "120.800",
@@ -6594,14 +6597,14 @@
     },
     "TD": {
       "callsign": "Thessaloniki Director",
-      "frequency": "118.275",
+      "frequency": "118.280",
       "type": "APP",
       "pre": ["LGTS"],
       "colours": [{ "hex": "#000014" }]
     },
     "TTS": {
       "callsign": "Makedonia Tower",
-      "frequency": "118.100",
+      "frequency": "118.105",
       "type": "TWR",
       "pre": ["LGTS"],
       "colours": [{ "hex": "#001600" }]
@@ -6619,18 +6622,25 @@
       "type": "TWR",
       "pre": ["LGZA"],
       "colours": [{ "hex": "#002700" }]
+    },
+    "RKM": {
+      "callsign": "Lydia Radio",
+      "frequency": "135.505",
+      "type": "RDO",
+      "pre": ["LGKM"],
+      "colours": [{ "hex": "#7b0956" }]
     }
   },
 
   "callsigns": {
     "DEL": {
-      "": "Delivery",
-      "C": "Coordinator"
+      "": "Delivery"
     },
     "GND": {
-      "": "Ground",
-      "P":"Planner",
-      "S":"South"
+      "": "Ground"
+    },
+    "RDO": {
+      "": "Radio"
     },
     "TWR": {
       "": "Tower",
@@ -6638,7 +6648,6 @@
     },
     "APP": {
       "": "Approach",
-      "E":"East",
       "F": "Director"
     },
     "DEP": {
@@ -6647,46 +6656,47 @@
   },
   "airports": {
       "LGAD": { "callsign": "Andravida", "coord": [37.925278, 21.291389], "topdown": ["AC11", "AC7", "AC6", "AC1"] },
-      "LGAL": { "callsign": "Alexandroupolis", "coord": [40.856667, 25.956667], "topdown": ["AC3", "AC14", "AC4", "AC1"]  },
+      "LGAL": { "callsign": "Alexandroupolis", "coord": [40.856667, 25.956667], "topdown": ["AC14", "AC4", "AC1"]  },
       "LGAV": { "callsign": "Athens-Venizelos", "coord": [37.9367, 23.9445], "runways": ["03", "21"], "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
+      "LGAX": { "callsign": "Alexandria", "coord": [39.220556, 22.795833], "topdown": ["TAX", "SKG", "AC4", "AC1"] },
       "LGBL": { "callsign": "Nea Anghialos", "coord": [39.220556, 22.795833], "topdown": ["AC4", "AC1"] },
       "LGEL": { "callsign": "Elefsis", "coord": [38.069444, 23.554167],"default": false, "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
-      "LGHI": { "callsign": "Chios", "coord": [38.344444, 26.141111], "topdown": ["AC14", "AC4", "AC1"] },
+      "LGHI": { "callsign": "Chios", "coord": [38.344444, 26.141111], "topdown": ["AC16", "AC14", "AC4", "AC1"] },
       "LGIK": { "callsign": "Ikaria", "coord": [37.68167, 26.35], "topdown": ["AC2", "AC1"] },
       "LGIO": { "callsign": "Ioannina", "coord": [39.698333, 20.8225], "topdown": ["AC6", "AC1"] },
       "LGIR": { "callsign": "Iraklion", "coord": [35.338056, 25.1775], "topdown": ["AC5", "AC2", "AC1"] },
-      "LGKA": { "callsign": "Kastoria", "coord": [40.450278, 21.277222], "topdown": ["AC10", "AC4", "AC1"] },
+      "LGKA": { "callsign": "Kastoria", "coord": [40.450278, 21.277222], "topdown": ["AC4", "AC1"] },
       "LGKC": { "callsign": "Kithira", "coord": [36.291667, 23.025], "default": false, "topdown": ["KLX", "AC11", "AC7", "AC6", "AC1"] },
       "LGKF": { "callsign": "Kefallinia", "coord": [38.121111, 20.501111],"default": false, "topdown": ["AAD", "AC11", "AC7", "AC6", "AC1"] },
-      "LGKJ": { "callsign": "Kastelorizo", "coord": [36.13167, 29.57333], "topdown": ["AC2", "AC1"] },
+      "LGKJ": { "callsign": "Kastelorizo", "coord": [36.13167, 29.57333], "topdown": ["AC13", "AC2", "AC1"] },
       "LGKL": { "callsign": "Kalamata", "coord": [37.07, 22.025833], "topdown": ["AC11", "AC7", "AC6", "AC1"] },
       "LGKO": { "callsign": "Kos", "coord": [36.795556, 27.091667], "topdown": ["AC2", "AC1"] },
-      "LGKP": { "callsign": "Karpathos", "coord": [35.416667, 27.15], "topdown": ["AC2", "AC1"] },
+      "LGKP": { "callsign": "Karpathos", "coord": [35.416667, 27.15], "topdown": ["HER", "AC2", "AC1"] },
       "LGKR": { "callsign": "Kerkira", "coord": [39.6025, 19.9125], "topdown": ["AC6", "AC1"] },
-      "LGKV": { "callsign": "Kavala", "coord": [40.915, 24.620278], "topdown": ["AC3", "AC14", "AC4", "AC1"] },
+      "LGKV": { "callsign": "Kavala", "coord": [40.915, 24.620278], "topdown": ["AC14", "AC4", "AC1"] },
       "LGKY": { "callsign": "Kalymnos", "coord": [36.963333, 26.94], "topdown": ["AC2", "AC1"] },
-      "LGKZ": { "callsign": "Kozani", "coord": [40.286667, 21.8425], "topdown": ["AC10", "AC4", "AC1"] },
-      "LGLM": { "callsign": "Limnos", "coord": [39.918056, 25.236944], "topdown": ["AC14", "AC4", "AC1"] },
+      "LGKZ": { "callsign": "Kozani", "coord": [40.286667, 21.8425], "topdown": ["AC4", "AC1"] },
+      "LGLM": { "callsign": "Limnos", "coord": [39.918056, 25.236944], "topdown": ["AC16", "AC14", "AC4", "AC1"] },
       "LGLR": { "callsign": "Larisa", "coord": [39.648611, 22.448611], "topdown": ["AC4", "AC1"] },
       "LGMG": { "callsign": "Athens-Megara", "coord": [37.98, 23.36833],"default": false, "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
       "LGMK": { "callsign": "Mikonos", "coord": [37.438333, 25.347778], "topdown": ["AC2", "AC1"] },
       "LGML": { "callsign": "Milos", "coord": [36.69667, 24.475], "topdown": ["AC5", "AC2", "AC1"] },
-      "LGMT": { "callsign": "Mitilini", "coord": [39.058333, 26.600278], "topdown": ["AC14", "AC4", "AC1"] },
+      "LGMT": { "callsign": "Mitilini", "coord": [39.058333, 26.600278], "topdown": ["AC16", "AC14", "AC4", "AC1"] },
       "LGNX": { "callsign": "Naxos", "coord": [37.08167, 25.38333], "topdown": ["AC2", "AC1"] },
       "LGPA": { "callsign": "Paros", "coord": [37.01333, 25.12667], "topdown": ["AC5", "AC2", "AC1"] },
       "LGPZ": { "callsign": "Preveza", "coord": [38.926111, 20.766667], "topdown": ["AC6", "AC1"] },
       "LGRP": { "callsign": "Rhodes", "coord": [36.405556, 28.086944], "topdown": ["AC2", "AC1"] },
       "LGRX": { "callsign": "Araxos", "coord": [38.15, 21.416667],"default": false, "topdown": ["AAD", "AC11", "AC7", "AC6", "AC1"] },
       "LGSA": { "callsign": "Chania", "coord": [35.532222, 24.151667], "topdown": ["AC5", "AC2", "AC1"] },
-      "LGSD": { "callsign": "Thessaloniki-Sedes", "coord": [40.53333, 23.03333], "default": false, "topdown": ["SKG","AC1", "AC4", "AC1"] },
+      "LGSD": { "callsign": "Thessaloniki-Sedes", "coord": [40.53333, 23.03333], "default": false, "topdown": ["SKG", "AC10", "AC4", "AC1"] },
       "LGSK": { "callsign": "Skiathos", "coord": [39.178333, 23.504167], "topdown": ["AC4", "AC1"] },
       "LGSM": { "callsign": "Samos", "coord": [37.690278, 26.912778], "topdown": ["AC2", "AC1"] },
-      "LGSO": { "callsign": "Syros", "coord": [37.41, 24.95],"default": false, "topdown": ["DEP1", "ARR4", "ARR2", "AC5", "AC2", "AC1"] },
+      "LGSO": { "callsign": "Syros", "coord": [37.41, 24.95],"default": false, "topdown": ["DEP1", "ARR1", "ARR2", "AC5", "AC2", "AC1"] },
       "LGSR": { "callsign": "Santorini", "coord": [36.401389, 25.479167], "topdown": ["AC5", "AC2", "AC1"] },
       "LGST": { "callsign": "Sitia", "coord": [35.22, 26.1], "default":false, "topdown": ["HER", "AC5", "AC2", "AC1"] },
       "LGSY": { "callsign": "Skiros", "coord": [38.96667, 24.48833], "topdown": ["AC4", "AC1"] },
       "LGTG": { "callsign": "Tanagra", "coord": [38.333333, 23.55], "topdown": ["AC4", "AC1"] },
-      "LGTS": {"callsign": "Thessaloniki-Makedonia", "coord": [40.519444, 22.973611], "topdown": ["AC10", "AC4", "AC1"] },
+      "LGTS": {"callsign": "Thessaloniki-Makedonia", "coord": [40.519444, 22.973611], "topdown": ["AC4", "AC1"] },
       "LGTT": { "callsign": "Tatoi", "coord": [38.108333, 23.766667],"default": false, "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
       "LGZA": { "callsign": "Zakinthos", "coord": [37.752222, 20.884722], "default": false, "topdown": ["AAD", "AC11", "AC7", "AC6", "AC1"] }
   }

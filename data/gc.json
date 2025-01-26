@@ -5708,6 +5708,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "21"
+                            ]
+                        }
+                    ],
                     "max": 31,
                     "min": 10,
                     "points": [
@@ -6134,6 +6142,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "21"
+                            ]
+                        }
+                    ],
                     "max": 55,
                     "min": 31,
                     "points": [
@@ -6271,6 +6287,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "03"
+                            ]
+                        }
+                    ],
                     "max": 31,
                     "min": 10,
                     "points": [
@@ -6696,6 +6720,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "03"
+                            ]
+                        }
+                    ],
                     "max": 55,
                     "min": 31,
                     "points": [
@@ -6834,6 +6866,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "03"
+                            ]
+                        }
+                    ],
                     "max": 31,
                     "min": 10,
                     "points": [
@@ -7316,6 +7356,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "03"
+                            ]
+                        }
+                    ],
                     "max": 55,
                     "min": 31,
                     "points": [
@@ -7477,6 +7525,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "21"
+                            ]
+                        }
+                    ],
                     "max": 31,
                     "min": 10,
                     "points": [
@@ -7958,6 +8014,14 @@
             ],
             "sectors": [
                 {
+                    "runways": [
+                        {
+                            "icao": "GCLP",
+                            "runway": [
+                                "21"
+                            ]
+                        }
+                    ],
                     "max": 55,
                     "min": 31,
                     "points": [
@@ -20117,11 +20181,10 @@
 },
 "positions": {
   "AAP": { "colours": [{ "hex": "#7f3beb" }], "pre": [ "GCCA" ], "type": "APP", "frequency": "129.300", "callsign": "Canarias Approach" },
-  "CC": { "colours": [{ "hex": "#f43e36" }], "pre": [ "GCCC" ], "type": "CTR", "frequency": "127.900", "callsign": "Canarias Control" },
-  "INB": { "colours": [{ "hex": "#6d3049" }], "pre": [ "GCCC" ], "type": "CTR", "frequency": "126.500", "callsign": "Canarias Control" },
+  "INB": { "colours": [{ "hex": "#6d3049" }], "pre": [ "GCCA" ], "type": "APP", "frequency": "126.100", "callsign": "Canarias Approach" },
   "R6": { "colours": [{ "hex": "#8b26aa" }], "pre": [ "GCCC" ], "type": "CTR", "frequency": "123.650", "callsign": "Canarias Control" },
   "RES": { "colours": [{ "hex": "#a24fde" }], "pre": [ "GCCC" ], "type": "CTR", "frequency": "129.100", "callsign": "Canarias Control" },
-  "RW3": { "colours": [{ "hex": "#059319" }], "pre": [ "GCCC" ], "type": "CTR", "frequency": "126.100", "callsign": "Canarias Control" },
+  "RW3": { "colours": [{ "hex": "#059319" }], "pre": [ "GCCC" ], "type": "CTR", "frequency": "126.500", "callsign": "Canarias Control" },
   "CCO": { "colours": [{ "hex": "#77087c" }], "pre": [ "GCCO" ], "type": "CTR", "frequency": "130.950", "callsign": "Canarias Radio" },
   "FVG": { "colours": [{ "hex": "#cb8695" }], "pre": [ "GCFV" ], "type": "GND", "frequency": "121.700", "callsign": "Fuerteventura Ground" },
   "FVT": { "colours": [{ "hex": "#802133" }], "pre": [ "GCFV" ], "type": "TWR", "frequency": "118.475", "callsign": "Fuerteventura Tower" },
@@ -20131,6 +20194,7 @@
   "LAT": { "colours": [{ "hex": "#1583f7" }], "pre": [ "GCLA" ], "type": "TWR", "frequency": "118.900", "callsign": "La Palma Tower" },
   "LPD": { "colours": [{ "hex": "#cebab8" }], "pre": [ "GCLP" ], "type": "DEL", "frequency": "125.000", "callsign": "Gran Canaria Clearance" },
   "GCA": { "colours": [{ "hex": "#33c6c6" }], "pre": [ "GCLP" ], "type": "APP", "frequency": "124.300", "callsign": "Gran Canaria Approach" },
+  "LPF": { "colours": [{ "hex": "#33c6c6" }], "pre": [ "GCLP" ], "type": "APP", "frequency": "121.300", "callsign": "Gran Canaria Approach" },
   "LPG": { "colours": [{ "hex": "#0b3eb3" }], "pre": [ "GCLP" ], "type": "GND", "frequency": "121.700", "callsign": "Gran Canaria Ground" },
   "LPT": { "colours": [{ "hex": "#9ebb98" }], "pre": [ "GCLP" ], "type": "TWR", "frequency": "118.300", "callsign": "Gran Canaria Tower" },
   "RRG": { "colours": [{ "hex": "#638c09" }], "pre": [ "GCRR" ], "type": "GND", "frequency": "121.800", "callsign": "Lanzarote Ground" },
@@ -20204,6 +20268,10 @@
            -15.389490697683046
       ],
       "default": false,
+      "runways": [
+          "03",
+          "21"
+      ],
       "topdown": [
           "LPT",
           "GCA",

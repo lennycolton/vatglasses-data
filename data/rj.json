@@ -4,9 +4,7 @@
       "id": "Oceanic (Class A)",
       "group": "RJTG",
       "owner": [
-        "FSS",
-        "FS1",
-        "FS2"
+        "FSS"
       ],
       "sectors": [
         {
@@ -99,9 +97,7 @@
       "id": "Oceanic (Class G)",
       "group": "RJTG",
       "owner": [
-        "FSS",
-        "FS1",
-        "FS2"
+        "FSS"
       ],
       "sectors": [
         {
@@ -206,9 +202,7 @@
     }
   },
   "positions": {
-    "FSS": { "colours": [{ "hex": "#db0d3f" }], "pre": [ "RJTG" ], "type": "FSS","frequency": "123.600","callsign": "Tokyo Radio" },
-    "FS1": { "colours": [{ "hex": "#db0d3f" }], "pre": [ "RJTG" ], "type": "FSS","frequency": "127.300","callsign": "Tokyo Radio" },
-    "FS2": { "colours": [{ "hex": "#db0d3f" }], "pre": [ "RJTG" ], "type": "FSS","frequency": "127.400","callsign": "Tokyo Radio" }
+    "FSS": { "colours": [{ "hex": "#db0d3f" }], "pre": [ "RJTG" ], "type": "FSS","frequency": "127.400","callsign": "Tokyo Radio" }
   },
   "callsigns": {
     "DEL": {

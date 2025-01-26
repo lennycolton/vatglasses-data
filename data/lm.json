@@ -5,9 +5,7 @@
       "group": "LMMM",
       "owner": [
         "MMW",
-        "MME",
-        "li/RRS",
-        "li/RRN"
+        "MME"
       ],
       "sectors": [
         {
@@ -38,9 +36,7 @@
       "owner": [
         "MMW",
         "MME",
-        "li/RRS",
-        "li/RRN",
-        "euc/EES"
+        "fss/EUCES"
       ],
       "sectors": [
         {
@@ -70,9 +66,7 @@
       "group": "LMMM",
       "owner": [
         "MME",
-        "MMW",
-        "li/RRS",
-        "li/RRN"
+        "MMW"
       ],
       "sectors": [
         {
@@ -97,9 +91,7 @@
       "owner": [
         "MME",
         "MMW",
-        "li/RRS",
-        "li/RRN",
-        "euc/EES"
+        "fss/EUCES"
       ],
       "sectors": [
         {
@@ -124,9 +116,7 @@
       "owner": [
         "MLR",
         "MMW",
-        "MME",
-        "li/RRS",
-        "li/RRN"
+        "MME"
       ],
       "sectors": [
         {
@@ -161,9 +151,7 @@
       "owner": [
         "CDA",
         "MMW",
-        "MME",
-        "li/RRS",
-        "li/RRN"
+        "MME"
       ],
       "sectors": [
         {
@@ -222,9 +210,7 @@
         "MLT",
         "MLR",
         "MMW",
-        "MME",
-        "li/RRS",
-        "li/RRN"
+        "MME"
       ],
       "sectors": [
         {
@@ -283,9 +269,7 @@
         "CDT",
         "CDA",
         "MMW",
-        "MME",
-        "li/RRS",
-        "li/RRN"
+        "MME"
       ],
       "sectors": [
         {
@@ -419,9 +403,7 @@
       ],
       "topdown":[
         "MMW",
-        "MME",
-        "li/RRS",
-        "li/RRN"
+        "MME"
       ]
     },
     "LICD":{
@@ -432,9 +414,7 @@
       ],
       "topdown":[
         "MMW",
-        "MME",
-        "li/RRS",
-        "li/RRN"
+        "MME"
       ]
     }
   }

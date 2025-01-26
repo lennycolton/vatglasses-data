@@ -1,0 +1,11 @@
+{
+  "airspace": [],
+  "groups": {},
+  "positions": {
+    "G": { "colours": [{ "hex": "#ffffff" }], "pre": ["GULF"], "type": "FSS", "frequency": "133.650", "callsign": "Gulf Control"},
+    "GE": { "colours": [{ "hex": "#ffffff" }], "pre": ["GULF"], "type": "FSS", "frequency": "133.600", "callsign": "Gulf Control"},
+    "GW": { "colours": [{ "hex": "#ffffff" }], "pre": ["GULF"], "type": "FSS", "frequency": "133.500", "callsign": "Gulf Control"}
+  },
+  "callsigns": {},
+  "airports": {}
+}
