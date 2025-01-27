@@ -2300,7 +2300,7 @@
         },
         {
           "max": 224,
-          "min": 95,
+          "min": 145,
           "runways": [
             {
               "icao": "KSLC",
@@ -2464,7 +2464,7 @@
           ]
         },
         {
-          "max": 114,
+          "max": 144,
           "runways": [
             {
               "icao": "KSLC",
@@ -3361,7 +3361,7 @@
           ]
         },
         {
-          "max": 154,
+          "max": 144,
           "runways": [
             {
               "icao": "KSLC",
