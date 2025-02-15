@@ -282,7 +282,7 @@
     {
       "id": "A 07 MALAD CITY LO/HI",
       "group": "ZLC A",
-      "owner": ["07", "08", "06", "44"],
+      "owner": ["07", "08", "18", "06", "44"],
       "sectors": [
         {
           "max": 314,
@@ -355,7 +355,7 @@
     {
       "id": "A 08 ASHTON LO/HI",
       "group": "ZLC A",
-      "owner": ["08", "06", "44"],
+      "owner": ["08", "18", "06", "44"],
       "sectors": [
         {
           "max": 314,
@@ -533,7 +533,7 @@
     {
       "id": "A 14 BLACKFOOT LO/HI",
       "group": "ZLC A",
-      "owner": ["14", "08", "06", "44"],
+      "owner": ["14", "08", "18", "06", "44"],
       "sectors": [
         {
           "max": 314,
