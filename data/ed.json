@@ -3264,10 +3264,10 @@
       ]
     },
     {
-      "id": "Bottrop (Düsseldorf North)",
-      "group": "APP",
+      "id": "Bottrop",
+      "group": "EDGG",
       "uid": "BOT",
-      "owner": ["BOT", "DLD", "DLA", "DLF", "PADH"],
+      "owner": ["BOT", "DLD", "DLA", "DLAT", "PADH"],
       "sectors": [
         {
           "max": 244,
@@ -3499,9 +3499,9 @@
     },
     {
       "id": "Köln",
-      "group": "APP",
+      "group": "EDGG",
       "uid": "DKA",
-      "owner": ["DKA", "DKF", "NOR", "PADH"],
+      "owner": ["DKA", "DKAT", "NOR", "PADH"],
       "sectors": [
         {
           "max": 144,
@@ -3665,57 +3665,41 @@
           "max": 244,
           "min": 105,
           "points": [
-            ["491920", "0102220"],
-            ["491043", "0103516"],
-            ["491043", "0103516"],
-            ["490640", "0102845"],
-            ["490640", "0102845"],
-            ["490102", "0101527"],
-            ["490102", "0101527"],
-            ["485655", "0100549"],
-            ["485655", "0100549"],
-            ["490323", "0095347"],
-            ["490323", "0095347"],
-            ["490700", "0094700"],
-            ["490700", "0094700"],
-            ["491620", "0092710"],
-            ["491620", "0092710"],
-            ["491722", "0093921"],
-            ["491722", "0093921"],
-            ["491604", "0095033"],
-            ["491604", "0095033"],
-            ["491907", "0100738"],
-            ["491907", "0100738"],
-            ["491920", "0102220"]
+			["491920", "0102220"],
+			["491043", "0103516"],
+			["490640", "0102845"],
+			["490102", "0101527"],
+			["485655", "0100549"],
+			["490323", "0095347"],
+			["490700", "0094700"],
+			["491620", "0092710"],
+			["491722", "0093921"],
+			["491604", "0095033"],
+			["491907", "0100738"],
+			["491920", "0102220"]
           ]
         },
         {
           "max": 244,
           "min": 85,
           "points": [
-            ["493815", "0094435"],
-            ["493323", "0095422"],
-            ["493323", "0095422"],
-            ["491920", "0102220"],
-            ["491920", "0102220"],
-            ["491907", "0100738"],
-            ["491907", "0100738"],
-            ["491604", "0095033"],
-            ["491604", "0095033"],
-            ["491722", "0093921"],
-            ["491722", "0093921"],
-            ["491620", "0092710"],
-            ["491620", "0092710"],
-            ["493402", "0094113"],
-            ["493402", "0094113"],
-            ["493815", "0094435"]
+			["493815", "0094435"],
+			["493323", "0095422"],
+			["491920", "0102220"],
+			["491907", "0100738"],
+			["491604", "0095033"],
+			["491722", "0093921"],
+			["491620", "0092710"],
+			["492657", "0093535"],
+			["493240", "0094008"],
+			["493815", "0094435"]
           ]
         }
       ]
     },
     {
-      "id": "Eifel (Frankfurt Hahn)",
-      "group": "APP",
+      "id": "Eifel",
+      "group": "EDGG",
       "uid": "EIF",
       "owner": ["EIF", "RUD", "GIN", "KTG"],
       "sectors": [
@@ -4515,24 +4499,16 @@
           "max": 244,
           "min": 135,
           "points": [
-            ["501548", "0091113"],
-            ["501441", "0092624"],
-            ["501441", "0092624"],
-            ["501710", "0093720"],
-            ["501710", "0093720"],
-            ["495839", "0094133"],
-            ["495839", "0094133"],
-            ["500031", "0092955"],
-            ["500031", "0092955"],
-            ["500014", "0091439"],
-            ["500014", "0091439"],
-            ["500004", "0090549"],
-            ["500004", "0090549"],
-            ["501056", "0090241"],
-            ["501056", "0090241"],
-            ["501329", "0090754"],
-            ["501329", "0090754"],
-            ["501548", "0091113"]
+			["501548", "0091113"],
+			["501441", "0092624"],
+			["501710", "0093720"],
+			["495839", "0094133"],
+			["500031", "0092955"],
+			["500014", "0091439"],
+			["500004", "0090549"],
+			["501056", "0090241"],
+			["501329", "0090754"],
+			["501548", "0091113"]
           ]
         },
         {
@@ -4791,8 +4767,8 @@
       ]
     },
     {
-      "id": "Hamm (Münster)",
-      "group": "APP",
+      "id": "Hamm",
+      "group": "EDGG",
       "uid": "HMM",
       "owner": ["HMM", "PADH"],
       "sectors": [
@@ -5048,136 +5024,125 @@
           "max": 244,
           "min": 0,
           "points": [
-            ["494520", "0093054"],
-            ["494332", "0093424"],
-            ["494332", "0093424"],
-            ["493402", "0094113"],
-            ["493402", "0094113"],
-            ["491620", "0092710"],
-            ["491620", "0092710"],
-            ["491527", "0091023"],
-            ["491527", "0091023"],
-            ["492630", "0090424"],
-            ["492630", "0090424"],
-            ["493105", "0090503"],
-            ["493105", "0090503"],
-            ["494204", "0090638"],
-            ["494204", "0090638"],
-            ["494356", "0090648"],
-            ["494356", "0090648"],
-            ["494404", "0090803"],
-            ["494404", "0090803"],
-            ["494435", "0091258"],
-            ["494435", "0091258"],
-            ["494445", "0091652"],
-            ["494445", "0091652"],
-            ["494520", "0093054"]
+			["493921", "0092756"],
+			["493640", "0093249"],
+			["492657", "0093535"],
+			["491620", "0092710"],
+			["491527", "0091023"],
+			["492630", "0090424"],
+			["493105", "0090503"],
+			["494204", "0090638"],
+			["493921", "0092756"]
           ]
         },
         {
           "max": 134,
           "min": 0,
           "points": [
-            ["494946", "0091219"],
-            ["494632", "0093215"],
-            ["494632", "0093215"],
-            ["494520", "0093054"],
-            ["494520", "0093054"],
-            ["494445", "0091652"],
-            ["494445", "0091652"],
-            ["494435", "0091258"],
-            ["494435", "0091258"],
-            ["494404", "0090803"],
-            ["494404", "0090803"],
-            ["494608", "0091107"],
-            ["494608", "0091107"],
-            ["494946", "0091219"]
+			["494946", "0091219"],
+			["494632", "0093215"],
+			["494520", "0093054"],
+			["494445", "0091652"],
+			["494435", "0091258"],
+			["494404", "0090803"],
+			["494608", "0091107"],
+			["494946", "0091219"]
+          ]
+        },
+        {
+          "max": 194,
+          "min": 85,
+          "points": [			
+			["494332", "0093424"],
+			["493815", "0094435"],
+			["493240", "0094008"],
+			["493640", "0093249"],
+			["494245", "0093105"],
+			["494332", "0093424"]
           ]
         },
         {
           "max": 244,
           "min": 85,
           "points": [
-            ["494332", "0093424"],
-            ["493815", "0094435"],
-            ["493815", "0094435"],
-            ["493402", "0094113"],
-            ["493402", "0094113"],
-            ["494332", "0093424"]
+			["493640", "0093249"],
+			["493240", "0094008"],
+			["492657", "0093535"],
+			["493640", "0093249"]
           ]
         },
         {
           "max": 174,
           "min": 135,
           "points": [
-            ["495354", "0090225"],
-            ["495112", "0090728"],
-            ["495112", "0090728"],
-            ["494356", "0090648"],
-            ["494356", "0090648"],
-            ["494258", "0085738"],
-            ["494258", "0085738"],
-            ["494836", "0085544"],
-            ["494836", "0085544"],
-            ["495354", "0090225"]
+			["495354", "0090225"],
+			["495112", "0090728"],
+			["494356", "0090648"],
+			["494258", "0085738"],
+			["494836", "0085544"],
+			["495354", "0090225"]
           ]
         },
         {
           "max": 174,
           "min": 0,
           "points": [
-            ["494356", "0090648"],
-            ["494204", "0090638"],
-            ["494204", "0090638"],
-            ["494258", "0085738"],
-            ["494258", "0085738"],
-            ["494356", "0090648"]
+			["494356", "0090648"],
+			["494204", "0090638"],
+			["494258", "0085738"],
+			["494356", "0090648"]
           ]
         },
         {
           "max": 174,
           "min": 0,
           "points": [
-            ["494258", "0085738"],
-            ["494204", "0090638"],
-            ["494204", "0090638"],
-            ["493105", "0090503"],
-            ["493105", "0090503"],
-            ["493435", "0090252"],
-            ["493435", "0090252"],
-            ["494258", "0085738"]
+			["494258", "0085738"],
+			["494204", "0090638"],
+			["493105", "0090503"],
+			["493435", "0090252"],
+			["494258", "0085738"]
           ]
         },
         {
-          "max": 244,
+          "max": 194,
           "min": 135,
           "points": [
-            ["495112", "0090728"],
-            ["494520", "0093054"],
-            ["494520", "0093054"],
-            ["494445", "0091652"],
-            ["494445", "0091652"],
-            ["494435", "0091258"],
-            ["494435", "0091258"],
-            ["494404", "0090803"],
-            ["494404", "0090803"],
-            ["494356", "0090648"],
-            ["494356", "0090648"],
-            ["495112", "0090728"]
+			["495112", "0090728"],
+			["494520", "0093054"],
+			["494445", "0091652"],
+			["494435", "0091258"],
+			["494404", "0090803"],
+			["494356", "0090648"],
+			["495112", "0090728"]
           ]
         },
         {
           "max": 214,
           "min": 0,
-          "points": [
-            ["492630", "0090424"],
-            ["491527", "0091023"],
-            ["491527", "0091023"],
-            ["491507", "0090421"],
-            ["491507", "0090421"],
-            ["491433", "0090244"],
-            ["491433", "0090244"],
-            ["492630", "0090424"]
+          "points": [	
+			["492630", "0090424"],
+			["491527", "0091023"],
+			["491507", "0090421"],
+			["491433", "0090244"],
+			["492630", "0090424"]
+          ]
+        },
+        {
+          "max": 194,
+          "min": 0,
+          "points": [				
+			["494520", "0093054"],
+			["494332", "0093424"],
+			["494245", "0093105"],
+			["493640", "0093249"],
+			["493921", "0092756"],
+			["494204", "0090638"],
+			["494356", "0090648"],
+			["494404", "0090803"],
+			["494435", "0091258"],
+			["494445", "0091652"],
+			["494520", "0093054"]
           ]
         }
       ]
@@ -5338,7 +5303,7 @@
       "id": "Main",
       "group": "EDGG",
       "uid": "MAN",
-      "owner": ["MAIN", "NKRH", "BAD", "DKB", "KTG"],
+      "owner": ["MAN", "NKRH", "BAD", "DKB", "KTG"],
       "sectors": [
         {
           "max": 174,
@@ -5547,8 +5512,8 @@
       ]
     },
     {
-      "id": "Neckar Low (Mannheim)",
-      "group": "APP",
+      "id": "Neckar Low",
+      "group": "EDGG",
       "uid": "NKRL",
       "owner": ["NKRL", "NKRH", "BAD", "DKB", "KTG"],
       "sectors": [
@@ -5619,8 +5584,8 @@
       ]
     },
     {
-      "id": "Nörvenich (Köln Upper)",
-      "group": "APP",
+      "id": "Nörvenich",
+      "group": "EDGG",
       "uid": "NOR",
       "owner": ["NOR", "PADH"],
       "sectors": [
@@ -6329,73 +6294,59 @@
           "max": 244,
           "min": 135,
           "points": [
-            ["515255", "0085200"],
-            ["514730", "0085200"],
-            ["514730", "0085200"],
-            ["514000", "0085200"],
-            ["514000", "0085200"],
-            ["513019", "0085312"],
-            ["513019", "0085312"],
-            ["512502", "0085351"],
-            ["512502", "0085351"],
-            ["512045", "0085422"],
-            ["512045", "0085422"],
-            ["512000", "0085428"],
-            ["512000", "0085428"],
-            ["511459", "0084929"],
-            ["511459", "0084929"],
-            ["511224", "0084656"],
-            ["511224", "0084656"],
-            ["510959", "0084431"],
-            ["510959", "0084431"],
-            ["510536", "0084014"],
-            ["510536", "0084014"],
-            ["510101", "0083546"],
-            ["510101", "0083546"],
-            ["505743", "0083042"],
-            ["505743", "0083042"],
-            ["505549", "0082747"],
-            ["505549", "0082747"],
-            ["505525", "0081811"],
-            ["505525", "0081811"],
-            ["505447", "0080408"],
-            ["505447", "0080408"],
-            ["505733", "0080108"],
-            ["505733", "0080108"],
-            ["510827", "0083102"],
-            ["510827", "0083102"],
-            ["511701", "0081508"],
-            ["511701", "0081508"],
-            ["510756", "0074945"],
-            ["510756", "0074945"],
-            ["512239", "0073922"],
-            ["512239", "0073922"],
-            ["512848", "0073501"],
-            ["512848", "0073501"],
-            ["514300", "0081928"],
-            ["514300", "0081928"],
-            ["515255", "0085200"]
+            ["515255","0085200"],
+            ["514730","0085200"],
+            ["514000","0085200"],
+            ["513019","0085312"],
+            ["512502","0085351"],
+            ["512045","0085422"],
+            ["512000","0085428"],
+            ["511459","0084929"],
+            ["511224","0084656"],
+            ["510959","0084431"],
+            ["510536","0084014"],
+            ["510101","0083546"],
+            ["505743","0083042"],
+            ["505549","0082747"],
+            ["505525","0081811"],
+            ["505447","0080408"],
+            ["505733","0080108"],
+            ["510827","0083102"],
+            ["511701","0081508"],
+            ["510756","0074945"],
+            ["512239","0073922"],
+            ["512848","0073501"],
+            ["514300","0081928"],
+            ["515255","0085200"]
           ]
         },
         {
           "max": 244,
           "min": 115,
           "points": [
-            ["511701", "0081508"],
-            ["510827", "0083102"],
-            ["510827", "0083102"],
-            ["505733", "0080108"],
-            ["505733", "0080108"],
-            ["510756", "0074945"],
-            ["510756", "0074945"],
-            ["511701", "0081508"]
+            ["511701","0081508"],
+            ["510827","0083102"],
+            ["505733","0080108"],
+            ["510756","0074945"],
+            ["511701","0081508"]
+          ]
+        },
+        {
+          "max": 294,
+          "min": 245,
+          "points": [
+            ["511621","0082440"],
+            ["510631","0083512"],
+            ["505852","0081450"],
+            ["511044","0080415"],
+            ["511621","0082440"]
           ]
         }
       ]
     },
     {
-      "id": "Paderborn Low (Dortmund)",
-      "group": "APP",
+      "id": "Paderborn Low",
+      "group": "EDGG",
       "uid": "PADL",
       "owner": ["PADL", "HMM", "PADH"],
       "sectors": [
@@ -6532,8 +6483,8 @@
       ]
     },
     {
-      "id": "Pfalz (Saarbrücken)",
-      "group": "APP",
+      "id": "Pfalz",
+      "group": "EDGG",
       "uid": "PFA",
       "owner": ["PFA", "EIF", "RUD", "GIN", "KTG"],
       "sectors": [
@@ -6918,8 +6869,8 @@
       ]
     },
     {
-      "id": "Reutlingen (Stuttgart South)",
-      "group": "APP",
+      "id": "Reutlingen",
+      "group": "EDGG",
       "uid": "REU",
       "owner": ["REU", "STG", "BAD", "DKB", "KTG"],
       "sectors": [
@@ -7993,8 +7944,8 @@
       ]
     },
     {
-      "id": "Stuttgart (North)",
-      "group": "APP",
+      "id": "Stuttgart",
+      "group": "EDGG",
       "uid": "STG",
       "owner": ["STG", "REU", "BAD", "DKB", "KTG"],
       "sectors": [
@@ -8611,18 +8562,21 @@
     {
       "id": "Münster High",
       "group": "EDYY",
-      "uid": "MNSH",
+      "uid": "MH",
       "owner": [
-        "MNS",
-        "RHR",
+      	"MM",
+        "MH",
+        "RH",
+	"ML",
+	"RL",
         "PADH",
-        "CEL",
-        "SOL",
-        "EMS",
+        "SH",
+        "SL",
+	"YY-BB",
+	"EMS",
         "DST",
         "EIDW",
-        "WWC",
-        "fss/EUCMW"
+        "WWC"
       ],
       "sectors": [
         {
@@ -8669,18 +8623,21 @@
     {
       "id": "Münster Low",
       "group": "EDYY",
-      "uid": "MNS",
+      "uid": "ML",
       "owner": [
-        "MNS",
-        "RHR",
+      	"MM",
+        "ML",
+        "MH",
+	"RL",
+	"RH",
         "PADH",
-        "CEL",
-        "SOL",
-        "EMS",
+        "SL",
+        "SH",
+	"YY-BB",
+	"EMS",
         "DST",
         "EIDW",
-        "WWC",
-        "fss/EUCMW"
+        "WWC"
       ],
       "sectors": [
         {
@@ -8800,8 +8757,14 @@
     {
       "id": "Ruhr High",
       "group": "EDYY",
-      "uid": "RHRH",
-      "owner": ["RHR", "PADH", "fss/EUCMW"],
+      "uid": "RH",
+      "owner": [
+        "RH",
+        "MH",
+	"RL",
+	"ML",
+        "PADH"
+      ],
       "sectors": [
         {
           "min": 355,
@@ -8841,8 +8804,14 @@
     {
       "id": "Ruhr Low",
       "group": "EDYY",
-      "uid": "RHR",
-      "owner": ["RHR", "PADH", "fss/EUCMW"],
+      "uid": "RL",
+      "owner": [
+        "RL",
+        "RH",
+	"ML",
+	"MH",
+        "PADH"
+      ],
       "sectors": [
         {
           "max": 294,
@@ -8962,15 +8931,15 @@
     },
     {
       "id": "Frankfurt North",
-      "group": "APP",
-      "uid": "FAN",
+      "group": "EDGG",
+      "uid": "DFAN",
       "owner": [
-        "FAN",
-        "FFN",
-        "FDN",
-        "FAS",
-        "FFS",
-        "FDS",
+        "DFAN",
+        "DFANT",
+        "DFDN",
+        "DFAS",
+        "DFAST",
+        "DFDS",
         "GIN",
         "RUD",
         "DKB",
@@ -9106,15 +9075,15 @@
     },
     {
       "id": "Frankfurt South",
-      "group": "APP",
-      "uid": "FAS",
+      "group": "EDGG",
+      "uid": "DFAS",
       "owner": [
-        "FAS",
-        "FFS",
-        "FDS",
-        "FAN",
-        "FFN",
-        "FDN",
+        "DFAS",
+        "DFAST",
+        "DFDS",
+        "DFAN",
+        "DFANT",
+        "DFDN",
         "GIN",
         "RUD",
         "DKB",
@@ -9281,9 +9250,9 @@
     },
     {
       "id": "Düsseldorf",
-      "group": "APP",
+      "group": "EDGG",
       "uid": "DLA",
-      "owner": ["DLA", "BOT", "DLD", "DLF", "PADH"],
+      "owner": ["DLA", "BOT", "DLD", "DLAT", "PADH"],
       "sectors": [
         {
           "max": 74,
@@ -9378,7 +9347,7 @@
       "id": "Aller",
       "group": "EDWW",
       "uid": "ALR",
-      "owner": ["ALR", "EIDW", "WWC"],
+      "owner": ["ALR", "HEI", "EIDW", "WWC"],
       "sectors": [
         {
           "max": 244,
@@ -11875,8 +11844,19 @@
     {
       "id": "Celle Low",
       "group": "EDYY",
-      "uid": "CEL",
-      "owner": ["CEL", "SOL", "DST", "EIDW", "WWC", "fss/EUCMW"],
+      "uid": "CL",
+      "owner": [
+        "CL",
+        "CH",
+	"SL",
+	"SH",
+        "ML",
+        "MH",
+	"YY-BB",
+        "DST",
+        "EIDW",
+        "WWC"
+      ],
       "sectors": [
         {
           "max": 354,
@@ -11941,16 +11921,18 @@
     {
       "id": "Celle High",
       "group": "EDYY",
-      "uid": "CELH",
+      "uid": "CH",
       "owner": [
-        "CELH",
-        "SOLH",
-        "CEL",
-        "SOL",
+        "CH",
+        "SH",
+	"MH",
+	"CL",
+        "SL",
+        "ML",
+	"YY-BB",
         "DST",
         "EIDW",
-        "WWC",
-        "fss/EUCMW"
+        "WWC"
       ],
       "sectors": [
         {
@@ -11995,11 +11977,11 @@
     {
       "id": "Holstein Low",
       "group": "EDYY",
-      "uid": "HOL",
-      "owner": ["HOL", "JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "uid": "HL",
+      "owner": ["HL", "HH", "JL", "JH", "YY-BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
-          "max": 354,
+          "max": 364,
           "min": 245,
           "points": [
             ["532800", "0085400"],
@@ -12043,7 +12025,7 @@
           ]
         },
         {
-          "max": 354,
+          "max": 364,
           "min": 315,
           "points": [
             ["531436", "0092355"],
@@ -12057,7 +12039,7 @@
           ]
         },
         {
-          "max": 354,
+          "max": 364,
           "min": 315,
           "points": [
             ["531436", "0092355"],
@@ -12081,13 +12063,13 @@
     {
       "id": "Holstein High",
       "group": "EDYY",
-      "uid": "HOLH",
+      "uid": "HH",
       "owner": [
-        "JEVH",
-        "HOL",
-        "JEV",
-        "CELH",
-        "CEL",
+        "HH",
+	"JH",
+	"HL",
+	"JL",      
+        "YY-BB",
         "EIDE",
         "ALR",
         "EIDW",
@@ -12096,7 +12078,7 @@
       ],
       "sectors": [
         {
-          "min": 355,
+          "min": 365,
           "points": [
             ["532343", "0112649"],
             ["531150", "0112041"],
@@ -12149,11 +12131,11 @@
     {
       "id": "Jever Low",
       "group": "EDYY",
-      "uid": "JEV",
-      "owner": ["JEV", "CEL", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
+      "uid": "JL",
+      "owner": ["JL", "JH", "HH", "YY-BB", "EIDE", "ALR", "EIDW", "WWC", "fss/EUCMW"],
       "sectors": [
         {
-          "max": 354,
+          "max": 364,
           "min": 245,
           "points": [
             ["543809", "0085130"],
@@ -12217,12 +12199,12 @@
     {
       "id": "Jever High",
       "group": "EDYY",
-      "uid": "JEVH",
+      "uid": "JH",
       "owner": [
-        "JEVH",
-        "CELH",
-        "JEV",
-        "CEL",
+        "JH",
+	"HH", 
+	"JL",      
+        "YY-BB",      
         "EIDE",
         "ALR",
         "EIDW",
@@ -12231,7 +12213,7 @@
       ],
       "sectors": [
         {
-          "min": 355,
+          "min": 365,
           "points": [
             ["543809", "0085130"],
             ["541455", "0082130"],
@@ -12294,8 +12276,19 @@
     {
       "id": "Solling Low",
       "group": "EDYY",
-      "uid": "SOL",
-      "owner": ["SOL", "CEL", "DST", "EIDW", "WWC", "fss/EUCMW"],
+      "uid": "SL",
+      "owner": [
+        "SL",
+        "SH",
+	"CL",
+	"CH",
+        "ML",
+        "MH",
+	"YY-BB",
+        "DST",
+        "EIDW",
+        "WWC"
+      ],
       "sectors": [
         {
           "max": 354,
@@ -12368,16 +12361,18 @@
     {
       "id": "Solling High",
       "group": "EDYY",
-      "uid": "SOLH",
+      "uid": "SH",
       "owner": [
-        "SOLH",
-        "CELH",
-        "SOL",
-        "CEL",
+        "SH",
+        "CH",
+	"MH",
+	"SL",
+        "CL",
+        "ML",
+	"YY-BB",
         "DST",
         "EIDW",
-        "WWC",
-        "fss/EUCMW"
+        "WWC"
       ],
       "sectors": [
         {
@@ -12453,7 +12448,7 @@
     "EDWW": { "name": "Bremen" },
     "EDMM": { "name": "München" },
     "APP": { "name": "Approach" },
-    "EDUU": { "name": "Rhein (Karlsruhe)" },
+    "EDUU": { "name": "Rhein" },
     "EDYY": { "name": "Maastricht" },
     "EDWWMIL": { "name": "Bremen (Military)" },
     "EDMMMIL": { "name": "München (Military)" },
@@ -12723,7 +12718,7 @@
       "frequency": "127.050",
       "callsign": "Langen Radar"
     },
-    "MAIN": {
+    "MAN": {
       "colours": [{ "hex": "#22de14" }],
       "pre": ["EDGG"],
       "type": "CTR",
@@ -12812,7 +12807,7 @@
       "colours": [{ "hex": "#e79d14" }],
       "pre": ["EDUU"],
       "type": "CTR",
-      "frequency": "133.655",
+      "frequency": "122.785",
       "callsign": "Rhein Radar"
     },
     "HVL": {
@@ -12886,63 +12881,98 @@
       "callsign": "Rhein Radar"
     },
 
-    "CEL": {
+    "CL": {
       "colours": [{ "hex": "#cbef87" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "133.955",
       "callsign": "Maastricht Radar"
     },
-    "CELH": {
+    "CH": {
       "colours": [{ "hex": "#bebc35" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "128.810",
       "callsign": "Maastricht Radar"
     },
-    "HOL": {
+    "HL": {
       "colours": [{ "hex": "#e0377f" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "120.860",
       "callsign": "Maastricht Radar"
     },
-    "JEV": {
+    "HH": {
+      "colours": [{ "hex": "#714d2a" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "132.780",
+      "callsign": "Maastricht Radar"
+    },
+    "JL": {
       "colours": [{ "hex": "#d514ad" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "136.465",
       "callsign": "Maastricht Radar"
     },
-    "JEVH": {
+    "JH": {
       "colours": [{ "hex": "#ff2f6d" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "129.735",
       "callsign": "Maastricht Radar"
     },
-    "MNS": {
+    "YY-BB": {
+      "colours": [{ "hex": "#bad4d7" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "129.840",
+      "callsign": "Maastricht Radar"
+    },
+    "MM": {
+      "colours": [{ "hex": "#a3062d" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "130.110",
+      "callsign": "Maastricht Radar"
+    },
+    "ML": {
       "colours": [{ "hex": "#67d78e" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "122.185",
       "callsign": "Maastricht Radar"
     },
-    "RHR": {
+    "MH": {
+      "colours": [{ "hex": "#909090" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "133.215",
+      "callsign": "Maastricht Radar"
+    },
+    "RL": {
       "colours": [{ "hex": "#cf75aa" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "128.790",
       "callsign": "Maastricht Radar"
     },
-    "SOL": {
+    "RH": {
+      "colours": [{ "hex": "#646b63" }],
+      "pre": ["EDYY"],
+      "type": "CTR",
+      "frequency": "122.835",
+      "callsign": "Maastricht Radar"
+    },
+    "SL": {
       "colours": [{ "hex": "#1357b1" }],
       "pre": ["EDYY"],
       "type": "CTR",
       "frequency": "134.710",
       "callsign": "Maastricht Radar"
     },
-    "SOLH": {
+    "SH": {
       "colours": [{ "hex": "#810958" }],
       "pre": ["EDYY"],
       "type": "CTR",
@@ -12962,21 +12992,21 @@
       "pre": ["EDDM"],
       "type": "APP",
       "frequency": "128.030",
-      "callsign": "München Arrival"
+      "callsign": "München Radar"
     },
     "DMSH": {
       "colours": [{ "hex": "#0c384a" }],
       "pre": ["EDDM"],
       "type": "APP",
       "frequency": "120.780",
-      "callsign": "München Arrival"
+      "callsign": "München Radar"
     },
     "DMNAT": {
       "colours": [{ "hex": "#9c322e" }],
       "pre": ["EDDM"],
       "type": "APP",
       "frequency": "118.830",
-      "callsign": "München Director"
+      "callsign": "München Arrival"
     },
     "DMNL": {
       "colours": [{ "hex": "#9f568b" }],
@@ -12997,7 +13027,7 @@
       "pre": ["EDDM"],
       "type": "APP",
       "frequency": "132.305",
-      "callsign": "München Director"
+      "callsign": "München Arrival"
     },
     "FRK": {
       "colours": [{ "hex": "#25c081" }],
@@ -13011,7 +13041,7 @@
       "pre": ["EDDN"],
       "type": "APP",
       "frequency": "119.475",
-      "callsign": "Nürnberg Director"
+      "callsign": "Nürnberg Arrival"
     },
     "TRS": {
       "colours": [{ "hex": "#05048b" }],
@@ -13025,7 +13055,7 @@
       "pre": ["EDDP"],
       "type": "APP",
       "frequency": "120.840",
-      "callsign": "Leipzig Director"
+      "callsign": "Leipzig Arrival"
     },
     "TRN": {
       "colours": [{ "hex": "#43563b" }],
@@ -13039,7 +13069,7 @@
       "pre": ["EDDP"],
       "type": "APP",
       "frequency": "129.765",
-      "callsign": "Leipzig Director"
+      "callsign": "Leipzig Arrival"
     },
     "ILR": {
       "colours": [{ "hex": "#bff2fc" }],
@@ -13075,14 +13105,14 @@
       "pre": ["EDDB"],
       "type": "APP",
       "frequency": "136.105",
-      "callsign": "Berlin Director"
+      "callsign": "Berlin Arrival"
     },
     "DBAST": {
       "colours": [{ "hex": "#8cd620" }],
       "pre": ["EDDB"],
       "type": "APP",
       "frequency": "121.130",
-      "callsign": "Berlin Director"
+      "callsign": "Berlin Arrival"
     },
     "DBDN": {
       "colours": [{ "hex": "#5cb9a2" }],
@@ -13103,21 +13133,21 @@
       "pre": ["EDDH"],
       "type": "APP",
       "frequency": "118.205",
-      "callsign": "Hamburg Director"
+      "callsign": "Hamburg Arrival"
     },
     "DVF": {
       "colours": [{ "hex": "#5c124a" }],
       "pre": ["EDDV"],
       "type": "APP",
       "frequency": "119.605",
-      "callsign": "Hannover Director"
+      "callsign": "Hannover Arrival"
     },
     "DWF": {
       "colours": [{ "hex": "#434c5f" }],
       "pre": ["EDDW"],
       "type": "APP",
       "frequency": "120.350",
-      "callsign": "Bremen Director"
+      "callsign": "Bremen Arrival"
     },
     "FRI": {
       "colours": [{ "hex": "#6750cc" }],
@@ -13161,42 +13191,42 @@
       "frequency": "123.600",
       "callsign": "Wittmund Radar"
     },
-    "FAN": {
+    "DFAN": {
       "colours": [{ "hex": "#88623f" }],
       "pre": ["EDDF"],
       "type": "APP",
       "frequency": "120.805",
       "callsign": "Langen Radar"
     },
-    "FAS": {
+    "DFAS": {
       "colours": [{ "hex": "#227c85" }],
       "pre": ["EDDF"],
       "type": "APP",
       "frequency": "125.355",
       "callsign": "Langen Radar"
     },
-    "FFN": {
+    "DFANT": {
       "colours": [{ "hex": "#cb8695" }],
       "pre": ["EDDF"],
       "type": "APP",
       "frequency": "127.280",
-      "callsign": "Frankfurt Director"
+      "callsign": "Frankfurt Arrival"
     },
-    "FFS": {
+    "DFAST": {
       "colours": [{ "hex": "#7da5a1" }],
       "pre": ["EDDF"],
       "type": "APP",
       "frequency": "118.505",
-      "callsign": "Frankfurt Director"
+      "callsign": "Frankfurt Arrival"
     },
-    "FDN": {
+    "DFDN": {
       "colours": [{ "hex": "#3ec1fe" }],
       "pre": ["EDDF"],
       "type": "DEP",
       "frequency": "120.155",
       "callsign": "Langen Radar"
     },
-    "FDS": {
+    "DFDS": {
       "colours": [{ "hex": "#fcb71d" }],
       "pre": ["EDDF"],
       "type": "DEP",
@@ -13217,12 +13247,12 @@
       "frequency": "135.350",
       "callsign": "Langen Radar"
     },
-    "DKF": {
+    "DKAT": {
       "colours": [{ "hex": "#055a5a" }],
       "pre": ["EDDK"],
       "type": "APP",
       "frequency": "121.055",
-      "callsign": "Köln/Bonn Director"
+      "callsign": "Köln/Bonn Arrival"
     },
     "NOR": {
       "colours": [{ "hex": "#802133" }],
@@ -13238,12 +13268,12 @@
       "frequency": "128.555",
       "callsign": "Langen Radar"
     },
-    "DLF": {
+    "DLAT": {
       "colours": [{ "hex": "#06cc9c" }],
       "pre": ["EDDL"],
       "type": "APP",
       "frequency": "128.655",
-      "callsign": "Düsseldorf Director"
+      "callsign": "Düsseldorf Arrival"
     },
     "DLD": {
       "colours": [{ "hex": "#96707a" }],
@@ -13266,12 +13296,12 @@
       "frequency": "129.675",
       "callsign": "Langen Radar"
     },
-    "SF": {
+    "DSAT": {
       "colours": [{ "hex": "#23f6ac" }],
       "pre": ["EDDS"],
       "type": "APP",
       "frequency": "119.850",
-      "callsign": "Stuttgart Director"
+      "callsign": "Stuttgart Arrival"
     },
     "STG": {
       "colours": [{ "hex": "#bf9000" }],
@@ -13307,6 +13337,55 @@
       "type": "APP",
       "frequency": "125.225",
       "callsign": "Langen Radar"
+    },
+    "TADA": {
+      "colours": [{ "hex": "#343e40" }],
+      "pre": ["ETAD"],
+      "type": "APP",
+      "frequency": "129.475",
+      "callsign": "Spangdahlem GCA"
+    },
+    "TARA": {
+      "colours": [{ "hex": "#308446" }],
+      "pre": ["ETAR"],
+      "type": "APP",
+      "frequency": "124.280",
+      "callsign": "Ramstein GCA"
+    },
+    "THFA": {
+      "colours": [{ "hex": "#606e8c" }],
+      "pre": ["ETHF"],
+      "type": "APP",
+      "frequency": "120.865",
+      "callsign": "Fritzlar Radar"
+    },
+    "THNA": {
+      "colours": [{ "hex": "#0e294b" }],
+      "pre": ["ETHN"],
+      "type": "APP",
+      "frequency": "127.190",
+      "callsign": "Stetten Radar"
+    },
+    "TNGA": {
+      "colours": [{ "hex": "#bdecB6" }],
+      "pre": ["ETNG"],
+      "type": "APP",
+      "frequency": "123.730",
+      "callsign": "Frisbee Radar"
+    },
+    "TNNA": {
+      "colours": [{ "hex": "#922b3e" }],
+      "pre": ["ETNN"],
+      "type": "APP",
+      "frequency": "129.055",
+      "callsign": "Nörvenich Radar"
+    },
+    "TSBA": {
+      "colours": [{ "hex": "#4c514a" }],
+      "pre": ["ETSB"],
+      "type": "APP",
+      "frequency": "130.155",
+      "callsign": "Büchel Radar"
     },
 
     "INFO": {
@@ -13409,22 +13488,22 @@
       "callsign": "Frankfurt",
       "coord": [50.033333333333, 8.5705],
       "runways": ["25", "07"],
-      "topdown": ["FAS", "FAN", "GIN", "RUD", "DKB", "BAD", "KTG"]
+      "topdown": ["DFAS", "DFAN", "GIN", "RUD", "DKB", "BAD", "KTG"]
     },
     "EDDG": {
       "callsign": "Münster",
       "coord": [52.134666666667, 7.6848333333333],
-      "topdown": ["HMM", "PAD", "PADH", "MNS", "RHR"]
+      "topdown": ["HMM", "PAD", "PADH"]
     },
     "EDDK": {
       "callsign": "Köln/Bonn",
       "coord": [50.866, 7.1426666666667],
-      "topdown": ["DKF", "DKA", "NOR", "PADH", "RHR"]
+      "topdown": ["DKAT", "DKA", "NOR", "PADH"]
     },
     "EDDL": {
       "callsign": "Düsseldorf",
       "coord": [51.281, 6.7573333333333],
-      "topdown": ["DLF", "DLD", "BOT", "DLA", "PADH", "RHR"]
+      "topdown": ["DLAT", "DLD", "BOT", "DLA", "PADH"]
     },
     "EDDS": {
       "callsign": "Stuttgart",
@@ -13444,22 +13523,22 @@
     "EDLN": {
       "callsign": "Mönchengladbach",
       "coord": [51.230333333333, 6.5045],
-      "topdown": ["DLF", "DLA", "DLD", "BOT", "PADH", "RHR"]
+      "topdown": ["DLAT", "DLA", "DLD", "BOT", "PADH"]
     },
     "EDLP": {
       "callsign": "Paderborn",
       "coord": [51.614166666667, 8.6163333333333],
-      "topdown": ["PADL", "HMML", "PADH", "MNS", "RHR"]
+      "topdown": ["PADL", "HMML", "PADH"]
     },
     "EDLV": {
       "callsign": "Niederrhein",
       "coord": [51.602333333333, 6.1421666666667],
-      "topdown": ["BOT", "DLD", "DLA", "DLF", "PADH", "RHR"]
+      "topdown": ["BOT", "DLD", "DLA", "DLAT", "PADH"]
     },
     "EDLW": {
       "callsign": "Dortmund",
       "coord": [51.518333333333, 7.6121666666667],
-      "topdown": ["PADL", "HMML", "PADH", "MNS", "RHR"]
+      "topdown": ["PADL", "HMML", "PADH"]
     },
     "EDSB": {
       "callsign": "Baden",
@@ -13591,7 +13670,8 @@
     "EDCW": { "callsign": "Wismar", "coord": ["53.916667", "11.5"] },
     "EDCX": { "callsign": "Purkshof", "coord": ["54.160882", "12.248418"] },
     "EDCY": { "callsign": "Spremberg-Welzow", "coord": ["51.583333", "14.133333"] },
-    "EDDR": { "callsign": "Saarbrucken", "coord": ["49.214444", "7.109444"] },
+    "EDDR": { "callsign": "Saarbrücken", "coord": ["49.214444", "7.109444"],
+      "topdown": ["PFA", "EIF", "RUD", "GIN", "KTG"] },
     "EDEB": { "callsign": "Bad Langensalza", "coord": ["51.129183", "10.621664"] },
     "EDEF": { "callsign": "Babenhausen", "coord": ["49.952883", "8.969258"] },
     "EDEG": { "callsign": "Gotha-Ost", "coord": ["50.970556", "10.728056"] },
@@ -13617,7 +13697,8 @@
     "EDFN": { "callsign": "Marburg-Schonstadt", "coord": ["50.866667", "8.816667"] },
     "EDFO": { "callsign": "Michelstadt", "coord": ["49.678", "8.973833"] },
     "EDFP": { "callsign": "Ober-Moerlen", "coord": ["50.361867", "8.710659"] },
-    "EDFQ": { "callsign": "Allendorf", "coord": ["51.035333", "8.680833"] },
+    "EDFQ": { "callsign": "Allendorf", "coord": ["51.035333", "8.680833"],
+      "topdown": ["GIN", "RUD", "KTG"] },
     "EDFR": { "callsign": "Rothenburg o. d. Tauber", "coord": ["49.383333", "10.216667"] },
     "EDFS": { "callsign": "Schweinfurt-Sued", "coord": ["50.010526", "10.251273"] },
     "EDFT": { "callsign": "Lauterbach", "coord": ["50.683222", "9.410276"] },
@@ -13639,7 +13720,8 @@
     "EDGP": { "callsign": "Oppenheim", "coord": ["49.841", "8.375833"] },
     "EDGQ": { "callsign": "Schameder", "coord": ["51.000128", "8.306823"] },
     "EDGR": { "callsign": "Giessen-Reiskirchen", "coord": ["50.566845", "8.8698"] },
-    "EDGS": { "callsign": "Siegerland", "coord": ["50.875", "8.083333"] },
+    "EDGS": { "callsign": "Siegerland", "coord": ["50.875", "8.083333"],
+      "topdown": ["SIG", "TAU", "GIN", "RUD", "KTG"] },
     "EDGT": { "callsign": "Bottenhorn", "coord": ["50.795205", "8.458514"] },
     "EDGU": { "callsign": "Unterschuepf", "coord": ["49.515578", "9.66831"] },
     "EDGW": { "callsign": "Wolfhagen \"Graner Berg\"", "coord": ["51.30704", "9.175305"] },
@@ -13793,7 +13875,8 @@
     "EDQD": { "callsign": "Bayreuth", "coord": ["49.98306", "11.63306"] },
     "EDQE": { "callsign": "Burg Feuerstein", "coord": ["49.794303", "11.132417"] },
     "EDQF": { "callsign": "Ansbach-Petersdorf", "coord": ["49.366667", "10.666667"] },
-    "EDQG": { "callsign": "Giebelstadt", "coord": ["49.648167", "9.9665"] },
+    "EDQG": { "callsign": "Giebelstadt", "coord": ["49.648167", "9.9665"],
+      "topdown": ["THNA", "DKB", "KTG", "BAD"] },
     "EDQH": { "callsign": "Herzogenaurach", "coord": ["49.5825", "10.878"] },
     "EDQI": { "callsign": "Lauf-Lillinghof", "coord": ["49.604746", "11.283908"] },
     "EDQK": { "callsign": "Kulmbach", "coord": ["50.133333", "11.466667"] },
@@ -13829,7 +13912,8 @@
     "EDRW": { "callsign": "Dierdorf-Wienau", "coord": ["50.566285", "7.653864"] },
     "EDRX": { "callsign": "Neunkirchen-Bexbach", "coord": ["49.335306", "7.265874"] },
     "EDRY": { "callsign": "Speyer", "coord": ["49.302775", "8.451194"] },
-    "EDRZ": { "callsign": "Zweibrucken", "coord": ["49.21", "7.401667"] },
+    "EDRZ": { "callsign": "Zweibrücken", "coord": ["49.21", "7.401667"],
+      "topdown": ["PFA", "EIF", "RUD", "GIN", "KTG"] },
     "EDSA": { "callsign": "Albstadt-Degerfeld", "coord": ["48.249667", "9.060333"] },
     "EDSE": { "callsign": "Goeppingen-Bezgenriet", "coord": ["48.658333", "9.625"] },
     "EDSF": { "callsign": "Huetten-Hotzenwald", "coord": ["47.633981", "7.937261"] },
@@ -13848,13 +13932,15 @@
     "EDSZ": { "callsign": "Rottweil-Zepfenhan", "coord": ["48.186553", "8.721245"] },
     "EDTB": { "callsign": "Baden-Oos", "coord": ["48.79176", "8.186586"] },
     "EDTC": { "callsign": "Bruchsal", "coord": ["49.135058", "8.563473"] },
-    "EDTD": { "callsign": "Donaueschingen-Villingen", "coord": ["47.9735", "8.522167"] },
+    "EDTD": { "callsign": "Donaueschingen", "coord": ["47.9735", "8.522167"],
+      "topdown": ["ls/ZA", "ls/ZAW", "ls/SZE", "ls/SZS", "ls/SZ", "ls/SC", "ls/ZF"] },
     "EDTE": { "callsign": "Eutingen Im Gaeu", "coord": ["48.4855", "8.778167"] },
     "EDTF": { "callsign": "Freiburg i. Br.", "coord": ["48.022667", "7.832583"] },
     "EDTG": { "callsign": "Bremgarten", "coord": ["47.903241", "7.61779"] },
     "EDTH": { "callsign": "Heubach", "coord": ["48.8", "9.933333"] },
     "EDTK": { "callsign": "Karlsruhe-Forchheim", "coord": ["48.979667", "8.331167"] },
-    "EDTM": { "callsign": "Mengen-Hohentengen", "coord": ["48.053833", "9.372833"] },
+    "EDTM": { "callsign": "Mengen", "coord": ["48.053833", "9.372833"],
+      "topdown": ["ls/ARFA", "ls/ZA", "ls/SZE", "ls/SZS", "ls/SZ", "ls/SC", "ZUG", "TRU", "RDG"] },
     "EDTN": { "callsign": "Nabern/Teck", "coord": ["48.612623", "9.477242"] },
     "EDTO": { "callsign": "Offenburg", "coord": ["48.44985", "7.924684"] },
     "EDTP": { "callsign": "Pfullendorf", "coord": ["47.916667", "9.25"] },
@@ -13864,7 +13950,8 @@
     "EDTU": { "callsign": "Saulgau", "coord": ["48.029355", "9.50725"] },
     "EDTW": { "callsign": "Winzeln-Schramberg", "coord": ["48.279167", "8.428333"] },
     "EDTX": { "callsign": "Sch.Hall-Weckrieden", "coord": ["49.125", "9.783333"] },
-    "EDTY": { "callsign": "Sch.Hall-Hessental", "coord": ["49.12", "9.778333"] },
+    "EDTY": { "callsign": "Schwäbisch Hall", "coord": ["49.12", "9.778333"],
+      "topdown": ["STG", "REU", "BAD", "DKB", "KTG"] },
     "EDTZ": { "callsign": "Konstanz", "coord": ["47.68306", "9.18306"] },
     "EDUA": { "callsign": "Stechow-Ferchesar", "coord": ["52.650697", "12.487837"] },
     "EDUF": { "callsign": "Falkenberg-Loennewitz", "coord": ["51.547806", "13.228139"] },
@@ -13938,33 +14025,43 @@
     "EDXU": { "callsign": "Huettenbusch", "coord": ["53.286262", "8.947278"] },
     "EDXY": { "callsign": "Wyk (Foehr)", "coord": ["54.683333", "8.533333"] },
     "EDXZ": { "callsign": "Kuehrstedt-Bederkesa", "coord": ["53.568056", "8.78935"] },
-    "ETAD": { "callsign": "Spangdahlem", "coord": ["49.972667", "6.6925"] },
-    "ETAR": { "callsign": "Ramstein", "coord": ["49.436667", "7.6"] },
-    "ETEB": { "callsign": "Ansbach", "coord": ["49.308167", "10.638667"] },
+    "ETAD": { "callsign": "Spangdahlem", "coord": ["49.972667", "6.6925"],
+      "topdown": ["TADA", "EIF", "RUD", "GIN", "KTG"] },
+    "ETAR": { "callsign": "Ramstein", "coord": ["49.436667", "7.6"],
+      "topdown": ["TARA", "PFA", "EIF", "RUD", "GIN", "KTG"] },
+    "ETEB": { "callsign": "Ansbach", "coord": ["49.308167", "10.638667"],
+      "topdown": ["DKB", "KTG", "BAD"] },
     "ETEK": { "callsign": "Baumholder", "coord": ["49.6515", "7.307167"] },
     "ETHA": { "callsign": "Altenstadt", "coord": ["47.8355", "10.871333"] },
     "ETHB": { "callsign": "Buckeburg", "coord": ["52.2785", "9.082167"] },
     "ETHC": { "callsign": "Celle", "coord": ["52.596333", "10.025833"] },
-    "ETHF": { "callsign": "Fritzlar", "coord": ["51.1145", "9.285833"] },
+    "ETHF": { "callsign": "Fritzlar", "coord": ["51.1145", "9.285833"],
+      "topdown": ["THFA", "HEF", "GIN", "RUD", "KTG"] },
     "ETHL": { "callsign": "Laupheim", "coord": ["48.220108", "9.910208"] },
-    "ETHN": { "callsign": "Niederstetten", "coord": ["49.393333", "9.96"] },
+    "ETHN": { "callsign": "Stetten", "coord": ["49.393333", "9.96"],
+      "topdown": ["THNA", "DKB", "KTG", "BAD"] },
     "ETHS": { "callsign": "Fassberg", "coord": ["52.919333", "10.183833"] },
     "ETIC": { "callsign": "Grafenwohr", "coord": ["49.69948", "11.941217"] },
     "ETIH": { "callsign": "Hohenfels", "coord": ["49.2165", "11.836167"] },
-    "ETIK": { "callsign": "Illesheim", "coord": ["49.473833", "10.387833"] },
+    "ETIK": { "callsign": "Illesheim", "coord": ["49.473833", "10.387833"],
+      "topdown": ["DKB", "KTG", "BAD"] },
     "ETMN": { "callsign": "Nordholz", "coord": ["53.768333", "8.658333"] },
     "ETND": { "callsign": "Diepholz", "coord": ["52.583333", "8.35"] },
-    "ETNG": { "callsign": "Geilenkirchen", "coord": ["50.960836", "6.041944"] },
+    "ETNG": { "callsign": "Geilenkirchen", "coord": ["50.960836", "6.041944"],
+      "topdown": ["TNGA", "BOT", "DLD", "DLA", "DLAT", "PADH"] },
     "ETNH": { "callsign": "Hohn", "coord": ["54.313333", "9.54"] },
     "ETNJ": { "callsign": "Jever", "coord": ["53.533333", "7.883333"] },
-    "ETNN": { "callsign": "Norvenich", "coord": ["50.831167", "6.658167"] },
+    "ETNN": { "callsign": "Nörvenich", "coord": ["50.831167", "6.658167"],
+      "topdown": ["TNNA", "DKA", "NOR", "PADH"] },
     "ETNS": { "callsign": "Schleswig", "coord": ["54.459333", "9.516333"] },
     "ETNT": { "callsign": "Wittmundhafen", "coord": ["53.547833", "7.667333"] },
     "ETNW": { "callsign": "Wunstorf", "coord": ["52.454333", "9.423"] },
     "ETOI": { "callsign": "Vilseck Aaf", "coord": ["49.634033", "11.767861"] },
-    "ETOU": { "callsign": "Wiesbaden", "coord": ["50.049833", "8.3255"] },
+    "ETOU": { "callsign": "Wiesbaden", "coord": ["50.049833", "8.3255"],
+      "topdown": ["DFDN", "DFDS", "DFAN", "DFAS", "GIN", "RUD", "DKB", "BAD", "KTG"] },
     "ETSA": { "callsign": "Landsberg", "coord": ["48.070556", "10.906111"] },
-    "ETSB": { "callsign": "Buchel", "coord": ["50.173889", "7.063333"] },
+    "ETSB": { "callsign": "Büchel", "coord": ["50.173889", "7.063333"],
+      "topdown": ["TSBA", "EIF", "RUD", "GIN", "KTG"] },
     "ETSF": { "callsign": "Furstenfeldbruck", "coord": ["48.204713", "11.267825"] },
     "ETSH": { "callsign": "Holzdorf", "coord": ["51.767833", "13.167667"] },
     "ETSI": { "callsign": "Ingolstadt-Manching", "coord": ["48.715", "11.503333"] },
