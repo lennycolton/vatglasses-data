@@ -2015,7 +2015,7 @@
     {
       "id": "Billings - West",
       "group": "APP",
-      "owner": ["B1W", "B1E", "17", "16", "03", "44"],
+      "owner": ["B1W", "B1E", "15", "16", "04", "44"],
       "sectors": [
         {
           "max": 144,
@@ -2055,7 +2055,7 @@
     {
       "id": "Big Sky - Sage",
       "group": "APP",
-      "owner": ["B1S", "B1A", "40", "41", "43", "44"],
+      "owner": ["B1S", "B1A", "31", "30", "40", "41", "43", "44"],
       "sectors": [
         {
           "max": 164,
@@ -2131,7 +2131,7 @@
     {
       "id": "Big Sky - Alpine",
       "group": "APP",
-      "owner": ["B1A", "B1S", "40", "41", "43", "44"],
+      "owner": ["B1A", "B1S", "30", "31", "40", "41", "43", "44"],
       "sectors": [
         {
           "max": 164,
@@ -2437,7 +2437,7 @@
     {
       "id": "Mountain Home - Cowboy Control",
       "group": "RAP",
-      "owner": ["M1S", "M1N", "41", "40", "44"],
+      "owner": ["M1S", "M1N", "31", "30", "41", "40", "44"],
       "sectors": [
         {
           "max": 234,
@@ -2507,7 +2507,7 @@
     {
       "id": "Mountain Home Muni - Sage/X-RAY South",
       "group": "APP",
-      "owner": ["M1S", "M1N", "B1S", "41", "40", "44"],
+      "owner": ["M1S", "M1N", "B1S", "31", "30", "41", "40", "44"],
       "sectors": [
         {
           "max": 104,
@@ -2533,7 +2533,7 @@
     {
       "id": "Mountain Home Muni - Alpine/X-RAY South",
       "group": "APP",
-      "owner": ["M1S", "M1N", "B1A", "B1S", "41", "40", "44"],
+      "owner": ["M1S", "M1N", "B1A", "B1S", "31", "30", "41", "40", "44"],
       "sectors": [
         {
           "max": 104,
@@ -2559,7 +2559,7 @@
     {
       "id": "Mountain Home - XRAY North",
       "group": "RAP",
-      "owner": ["M1N", "M1S", "41", "40", "44"],
+      "owner": ["M1N", "M1S", "31", "30", "41", "40", "44"],
       "sectors": [
         {
           "max": 234,
