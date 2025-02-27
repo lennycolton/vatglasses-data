@@ -3970,7 +3970,7 @@
     },
     "42": {
       "callsign": "Salt Lake Center",
-      "frequency": "128.725",
+      "frequency": "120.725",
       "pre": ["SLC"],
       "type": "CTR",
       "colours": [
