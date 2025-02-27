@@ -1983,7 +1983,7 @@
     {
       "id": "Big Sky - Bozeman",
       "group": "APP",
-      "owner": ["B1Z", "06", "44"],
+      "owner": ["B1Z", "06", "03", "44"],
       "sectors": [
         {
           "max": 154,
@@ -2027,7 +2027,7 @@
     {
       "id": "Great Falls",
       "group": "APP",
-      "owner": ["GTF", "19", "20", "06", "44"],
+      "owner": ["GTF", "19", "20", "06", "03", "44"],
       "sectors": [
         {
           "max": 124,
@@ -2059,7 +2059,7 @@
     {
       "id": "Helena",
       "group": "NAPP",
-      "owner": ["HLN", "19", "20", "06", "44"],
+      "owner": ["HLN", "19", "20", "06", "03", "44"],
       "sectors": [
         {
           "max": 124,
@@ -2122,7 +2122,7 @@
     {
       "id": "Spokane - Missoula",
       "group": "APP",
-      "owner": ["MSO", "12", "20", "06", "44"],
+      "owner": ["MSO", "12", "20", "06", "03", "44"],
       "sectors": [
         {
           "max": 144,
