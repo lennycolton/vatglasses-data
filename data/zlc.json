@@ -129,7 +129,7 @@
     {
       "id": "A 06 SALMON LO/HI/UH",
       "group": "ZLC A",
-      "owner": ["06", "44"],
+      "owner": ["06", "03", "44"],
       "sectors": [
         {
           "min": 155,
@@ -282,7 +282,7 @@
     {
       "id": "A 07 MALAD CITY LO/HI",
       "group": "ZLC A",
-      "owner": ["07", "08", "06", "44"],
+      "owner": ["07", "08", "06", "03", "44"],
       "sectors": [
         {
           "max": 314,
@@ -355,7 +355,7 @@
     {
       "id": "A 08 ASHTON LO/HI",
       "group": "ZLC A",
-      "owner": ["08", "06", "44"],
+      "owner": ["08", "06", "03", "44"],
       "sectors": [
         {
           "max": 314,
@@ -474,7 +474,7 @@
     {
       "id": "A 12 LAKESIDE LO",
       "group": "ZLC A",
-      "owner": ["12", "20", "06", "44"],
+      "owner": ["12", "20", "06", "03", "44"],
       "sectors": [
         {
           "min": 145,
@@ -533,7 +533,7 @@
     {
       "id": "A 14 BLACKFOOT LO/HI",
       "group": "ZLC A",
-      "owner": ["14", "08", "06", "44"],
+      "owner": ["14", "08", "06", "03", "44"],
       "sectors": [
         {
           "max": 314,
@@ -582,7 +582,7 @@
     {
       "id": "B 15 SHERIDAN LO/HI/UH",
       "group": "ZLC B",
-      "owner": ["15", "16", "04", "44"],
+      "owner": ["15", "16", "03", "04", "44"],
       "sectors": [
         {
           "min": 145,
@@ -772,7 +772,7 @@
     {
       "id": "A 18 BIG PINEY HI/UH",
       "group": "ZLC A",
-      "owner": ["18", "08", "06", "44"],
+      "owner": ["18", "08", "06", "03", "44"],
       "sectors": [
         {
           "min": 315,
@@ -812,7 +812,7 @@
     {
       "id": "A 19 JUDITH MOUNTAIN LO/HI",
       "group": "ZLC A",
-      "owner": ["19", "20", "06", "44"],
+      "owner": ["19", "20", "06", "03", "44"],
       "sectors": [
         {
           "max": 344,
@@ -954,7 +954,7 @@
     {
       "id": "A 20 LAKESIDE UH",
       "group": "ZLC A",
-      "owner": ["20", "06", "44"],
+      "owner": ["20", "06", "03", "44"],
       "sectors": [
         {
           "min": 345,
