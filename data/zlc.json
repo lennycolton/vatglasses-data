@@ -129,7 +129,7 @@
     {
       "id": "A 06 SALMON LO/HI/UH",
       "group": "ZLC A",
-      "owner": ["06", "44"],
+      "owner": ["06", "03", "44"],
       "sectors": [
         {
           "min": 165,
@@ -282,7 +282,7 @@
     {
       "id": "A 07 MALAD CITY LO/HI",
       "group": "ZLC A",
-      "owner": ["07", "14", "18", "08", "06", "44"],
+      "owner": ["07", "14", "18", "08", "06", "03", "44"],
       "sectors": [
         {
           "max": 314,
@@ -355,7 +355,7 @@
     {
       "id": "A 08 ASHTON LO/HI",
       "group": "ZLC A",
-      "owner": ["08", "18", "06", "44"],
+      "owner": ["08", "18", "06", "03", "44"],
       "sectors": [
         {
           "max": 314,
@@ -474,7 +474,7 @@
     {
       "id": "A 12 LAKESIDE LO",
       "group": "ZLC A",
-      "owner": ["12", "19", "20", "06", "44"],
+      "owner": ["12", "19", "20", "06", "03", "44"],
       "sectors": [
         {
           "min": 145,
@@ -533,7 +533,7 @@
     {
       "id": "A 14 BLACKFOOT LO/HI",
       "group": "ZLC A",
-      "owner": ["14", "18", "08", "07", "06", "44"],
+      "owner": ["14", "18", "08", "07", "06", "03", "44"],
       "sectors": [
         {
           "max": 314,
@@ -582,7 +582,7 @@
     {
       "id": "B 15 SHERIDAN LO/HI/UH",
       "group": "ZLC B",
-      "owner": ["15", "16", "04", "44"],
+      "owner": ["15", "16", "03", "04", "44"],
       "sectors": [
         {
           "min": 145,
@@ -700,7 +700,7 @@
     {
       "id": "B 17 GLASGOW LO",
       "group": "ZLC B",
-      "owner": ["17", "16", "03", "44"],
+      "owner": ["17", "16", "39", "03", "44"],
       "sectors": [
         {
           "max": 264,
@@ -772,7 +772,7 @@
     {
       "id": "A 18 BIG PINEY HI/UH",
       "group": "ZLC A",
-      "owner": ["18", "08", "06", "44"],
+      "owner": ["18", "08", "06", "03", "44"],
       "sectors": [
         {
           "min": 315,
@@ -812,7 +812,7 @@
     {
       "id": "A 19 JUDITH MOUNTAIN LO/HI",
       "group": "ZLC A",
-      "owner": ["19", "12", "20", "06", "44"],
+      "owner": ["19", "12", "20", "06", "03", "44"],
       "sectors": [
         {
           "max": 344,
@@ -954,7 +954,7 @@
     {
       "id": "A 20 LAKESIDE UH",
       "group": "ZLC A",
-      "owner": ["20", "12", "19", "06", "44"],
+      "owner": ["20", "12", "19", "06", "03", "44"],
       "sectors": [
         {
           "min": 345,
@@ -2013,7 +2013,7 @@
     {
       "id": "Billings - East",
       "group": "APP",
-      "owner": ["B1E", "B1W", "17", "16", "03", "44"],
+      "owner": ["B1E", "B1W", "17", "16", "39", "03", "44"],
       "sectors": [
         {
           "max": 144,
@@ -2041,7 +2041,7 @@
     {
       "id": "Billings - West",
       "group": "APP",
-      "owner": ["B1W", "B1E", "15", "16", "04", "44"],
+      "owner": ["B1W", "B1E", "15", "16", "04", "03", "39", "44"],
       "sectors": [
         {
           "max": 144,
@@ -2081,7 +2081,7 @@
     {
       "id": "Big Sky - Sage",
       "group": "APP",
-      "owner": ["B1S", "B1A", "31", "30", "40", "41", "43", "44"],
+      "owner": ["B1S", "B1A", "31", "30", "41", "40", "43", "44"],
       "sectors": [
         {
           "max": 164,
@@ -2157,7 +2157,7 @@
     {
       "id": "Big Sky - Alpine",
       "group": "APP",
-      "owner": ["B1A", "B1S", "30", "31", "40", "41", "43", "44"],
+      "owner": ["B1A", "B1S", "30", "31", "41", "40", "43", "44"],
       "sectors": [
         {
           "max": 164,
@@ -2233,7 +2233,7 @@
     {
       "id": "Big Sky - Bozeman",
       "group": "APP",
-      "owner": ["B1Z", "06", "44"],
+      "owner": ["B1Z", "06", "03", "44"],
       "sectors": [
         {
           "max": 164,
@@ -2338,7 +2338,7 @@
     {
       "id": "Great Falls",
       "group": "APP",
-      "owner": ["GTF", "19", "20", "06", "44"],
+      "owner": ["GTF", "19", "20", "06", "03", "44"],
       "sectors": [
         {
           "max": 134,
@@ -2370,7 +2370,7 @@
     {
       "id": "Helena",
       "group": "NAPP",
-      "owner": ["HLN", "19", "20", "06", "44"],
+      "owner": ["HLN", "19", "20", "06", "03", "44"],
       "sectors": [
         {
           "max": 134,
@@ -2433,7 +2433,7 @@
     {
       "id": "Spokane - Missoula",
       "group": "APP",
-      "owner": ["MSO", "12", "20", "06", "44"],
+      "owner": ["MSO", "12", "20", "06", "03", "44"],
       "sectors": [
         {
           "max": 144,
@@ -4570,7 +4570,7 @@
       "type": "CTR",
       "colours": [
         {
-          "hex": "#000095"
+          "hex": "#6e4585"
         }
       ]
     },
@@ -4790,7 +4790,7 @@
       "type": "CTR",
       "colours": [
         {
-          "hex": "#00aeef"
+          "hex": "#158f17"
         }
       ]
     },
@@ -4818,7 +4818,7 @@
     },
     "42": {
       "callsign": "Salt Lake Center",
-      "frequency": "128.725",
+      "frequency": "120.725",
       "pre": ["SLC"],
       "type": "CTR",
       "colours": [
@@ -4911,7 +4911,7 @@
       "type": "APP",
       "colours": [
         {
-          "hex": "#cc9125"
+          "hex": "#8f1536"
         }
       ]
     },
@@ -5237,7 +5237,7 @@
       "callsign": "Billings",
       "coord": ["45.807664", "-108.542861"],
       "pre": ["BIL"],
-      "topdown": ["B1W", "B1E", "17", "16", "03", "44"]
+      "topdown": ["B1W", "B1E", "17", "16", "39", "03", "44"]
     },
     "KBKE": {
       "callsign": "Baker Muni OR",
