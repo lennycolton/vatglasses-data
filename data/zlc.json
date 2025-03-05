@@ -387,7 +387,7 @@
     {
       "id": "C 11 DELTA LO/HI",
       "group": "ZLC C",
-      "owner": ["11", "47", "44"],
+      "owner": ["11", "32", "47", "44"],
       "sectors": [
         {
           "max": 334,
@@ -700,7 +700,7 @@
     {
       "id": "B 17 GLASGOW LO",
       "group": "ZLC B",
-      "owner": ["17", "16", "03", "44"],
+      "owner": ["17", "16", "39", "03", "44"],
       "sectors": [
         {
           "max": 264,
@@ -1763,7 +1763,7 @@
     {
       "id": "Billings - East",
       "group": "APP",
-      "owner": ["B1E", "B1W", "17", "16", "03", "44"],
+      "owner": ["B1E", "B1W", "17", "16", "39", "03", "44"],
       "sectors": [
         {
           "max": 144,
@@ -1831,7 +1831,7 @@
     {
       "id": "Big Sky - Sage",
       "group": "APP",
-      "owner": ["B1S", "B1A", "40", "41", "43", "44"],
+      "owner": ["B1S", "B1A", "41", "40", "43", "44"],
       "sectors": [
         {
           "max": 154,
@@ -1907,7 +1907,7 @@
     {
       "id": "Big Sky - Alpine",
       "group": "APP",
-      "owner": ["B1A", "B1S", "40", "41", "43", "44"],
+      "owner": ["B1A", "B1S", "41", "40", "43", "44"],
       "sectors": [
         {
           "max": 154,
@@ -4312,7 +4312,7 @@
       "callsign": "Billings",
       "coord": ["45.807664", "-108.542861"],
       "pre": ["BIL"],
-      "topdown": ["B1W", "B1E", "17", "16", "03", "44"]
+      "topdown": ["B1W", "B1E", "17", "16", "39", "03", "44"]
     },
     "KBKE": {
       "callsign": "Baker Muni OR",
