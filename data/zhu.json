@@ -2,7 +2,7 @@
     "airspace": [
         {   "id": "Austin",
             "group": "APP",
-            "owner": [ "U1E", "U1W", "96", "83", "78", "38", "81" ],
+            "owner": [ "U1E", "U1W", "96", "83", "38", "46" ],
             "sectors": [
                 {
                     "min": 0,
@@ -80,7 +80,7 @@
         },      
         {   "id": "Baton Rouge",
             "group": "APP",
-            "owner": [ "Z1E", "Z1W", "34", "27", "81" ],
+            "owner": [ "Z1E", "Z1W", "34", "27", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -122,7 +122,7 @@
         },
         {   "id": "Corpus Christi",
             "group": "APP",
-            "owner": [ "C1H", "C1N", "C1S", "58", "87", "81" ],
+            "owner": [ "C1H", "C1N", "C1S", "58", "87", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -159,7 +159,7 @@
         },
         {   "id": "Del Rio",
             "group": "RAP",
-            "owner": [ "D1A", "98", "50", "78", "38", "81" ],
+            "owner": [ "D1A", "98", "50", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -232,7 +232,7 @@
         },
         {   "id": "Gulfport",
             "group": "APP",
-            "owner": [ "G1E", "G1W", "63", "27", "81" ],
+            "owner": [ "G1E", "G1W", "63", "37", "27", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -264,7 +264,7 @@
         },
         {   "id": "I90",
             "group": "APP",
-            "owner": [ "I1D", "83", "81" ],
+            "owner": [ "I1D", "49", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -318,7 +318,7 @@
         },
         {   "id": "I90 - Beaumont Satellite",
             "group": "APP",
-            "owner": [ "I1J", "I1D", "36", "43", "81" ],
+            "owner": [ "I1J", "I1D", "36", "43", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -351,7 +351,7 @@
         },
         {   "id": "I90 - College Satellite",
             "group": "APP",
-            "owner": [ "I1U", "I1N", "I1D", "83", "78", "38", "81" ],
+            "owner": [ "I1U", "I1N", "I1D", "83", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -406,7 +406,7 @@
         },
         {   "id": "Kingsville",
             "group": "RAP",
-            "owner": [ "C1A", "C1N", "58", "87", "81" ],
+            "owner": [ "C1A", "C1N", "58", "87", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -437,7 +437,7 @@
         },
         {   "id": "Lake Charles",
             "group": "APP",
-            "owner": [ "L1E", "L1W", "36", "43", "81" ],
+            "owner": [ "L1E", "L1W", "36", "43", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -466,7 +466,7 @@
         },
         {   "id": "Lafayette",
             "group": "APP",
-            "owner": [ "E1E", "E1W", "34", "27", "81" ],
+            "owner": [ "E1E", "E1W", "34", "27", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -496,7 +496,7 @@
         },  
         {   "id": "Mobile",
             "group": "APP",
-            "owner": [ "B1E", "B1W", "25", "27", "81" ],
+            "owner": [ "B1E", "B1W", "25", "27", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -550,7 +550,7 @@
         },
         {   "id": "New Orleans",
             "group": "APP",
-            "owner": [ "N1W", "N1S", "N1N", "N1H", "34", "27", "81" ],
+            "owner": [ "N1W", "N1S", "N1N", "N1H", "27", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -658,7 +658,7 @@
         },
         {   "id": "Polk",
             "group": "RAP",
-            "owner": [ "P1P", "40", "42", "38", "81" ],
+            "owner": [ "P1P", "40", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -699,7 +699,7 @@
         },
         {   "id": "San Antonio",
             "group": "APP",
-            "owner": [ "S1N", "S1W", "S1S", "S1R", "50", "78", "38", "81" ],
+            "owner": [ "S1N", "S1W", "S1S", "S1R", "50", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -804,7 +804,7 @@
         },
         {   "id": "Valley",
             "group": "APP",
-            "owner": [ "C1Z", "C1N", "58", "87", "81" ],
+            "owner": [ "C1Z", "C1N", "58", "87", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -838,7 +838,7 @@
         },
         {   "id": "24 LEEVILLE",
             "group": "NEW",
-            "owner": [ "24", "37", "27", "81" ],
+            "owner": [ "24", "27", "38", "46" ],
             "sectors": [
             {
                 "min": 105,
@@ -899,7 +899,7 @@
         },
         {   "id": "25 BROOKLEY",
             "group": "NEW",
-            "owner": [ "25", "27", "24", "38", "81" ],
+            "owner": [ "25", "27", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -999,7 +999,7 @@
         },        
         {   "id": "27 PICAYUNE",
             "group": "NEW",
-            "owner": [ "27", "24", "38", "81" ],
+            "owner": [ "27", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -1136,7 +1136,7 @@
         },
         {   "id": "28 OFFSHORE WEST",
             "group": "OCN",
-            "owner": [ "28", "53", "24", "38", "81" ],
+            "owner": [ "28", "53", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -1186,7 +1186,7 @@
         },
         {   "id": "30 OFFSHORE EAST",
             "group": "OCN",
-            "owner": [ "30", "53", "24", "38", "81" ],
+            "owner": [ "30", "53", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -1257,7 +1257,7 @@
         },
         {   "id": "34 BATON ROUGE",
             "group": "NEW",
-            "owner": [ "34", "27", "24", "38", "81" ],
+            "owner": [ "34", "27", "38", "46" ],
             "sectors": [
             {
                 "min": 105,
@@ -1337,7 +1337,7 @@
         },
         {   "id": "36 LIBERTY",
             "group": "LCH",
-            "owner": [ "36", "43", "68", "38", "81" ],
+            "owner": [ "36", "43", "38", "46" ],
             "sectors": [
             {
                 "min": 105,
@@ -1387,7 +1387,7 @@
         },
         {   "id": "38 DAISETTA",
             "group": "LFK",
-            "owner": [ "38", "81" ],
+            "owner": [ "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -1451,7 +1451,7 @@
         },
         {   "id": "40 POLK",
             "group": "LFK",
-            "owner": [ "40", "38", "42", "38", "81" ],
+            "owner": [ "40", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -1517,7 +1517,7 @@
         },
         {   "id": "43 TRINITY",
             "group": "LCH",
-            "owner": [ "43", "68", "81" ],
+            "owner": [ "43", "38", "46" ],
             "sectors": [
             {
                 "min": 105,
@@ -1586,7 +1586,7 @@
         },
         {   "id": "49 LUFKIN",
             "group": "LFK",
-            "owner": [ "49", "38", "81" ],
+            "owner": [ "49", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -1668,7 +1668,7 @@
         },
         {   "id": "50 STONEWALL",
             "group": "RSG",
-            "owner": [ "50", "78", "38", "81" ],
+            "owner": [ "50", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -1740,7 +1740,7 @@
         },
         {   "id": "53 OFFSHORE CENTRAL",
             "group": "OCN",
-            "owner": [ "53", "24", "38", "81" ],
+            "owner": [ "53", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -1776,7 +1776,7 @@
         },
         {   "id": "56 SHINER",
             "group": "CRP",
-            "owner": [ "56", "87", "68", "38", "81" ],
+            "owner": [ "56", "87", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -1927,7 +1927,7 @@
         },
         {   "id": "58 BROWNSVILLE",
             "group": "CRP",
-            "owner": [ "58", "87", "68", "38", "81" ],
+            "owner": [ "58", "87", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -2081,7 +2081,7 @@
         },
         {   "id": "80 INDUSTRY",
             "group": "AUS",
-            "owner": [ "80", "83", "78", "38", "81" ],
+            "owner": [ "80", "83", "38", "46" ],
             "sectors": [
             {
                 "min": 125,
@@ -2161,7 +2161,7 @@
         },
         {   "id": "83 CUGAR",
             "group": "AUS",
-            "owner": [ "83", "78", "38", "81" ],
+            "owner": [ "83", "38", "46" ],
             "sectors": [
             {
                 "min": 125,
@@ -2237,7 +2237,7 @@
         },
         {   "id": "85 KELLY",
             "group": "RSG",
-            "owner": [ "85", "50", "78", "38", "81" ],
+            "owner": [ "85", "50", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -2342,7 +2342,7 @@
         },
         {   "id": "87 EAGLE LAKE",
             "group": "CRP",
-            "owner": [ "87", "68", "38", "81" ],
+            "owner": [ "87", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -2477,7 +2477,7 @@
         },
         {   "id": "93 LAREDO",
             "group": "CRP",
-            "owner": [ "93", "87", "68", "38", "81" ],
+            "owner": [ "93", "87", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -2519,7 +2519,7 @@
         },
         {   "id": "96 BERGSTROM",
             "group": "AUS",
-            "owner": [ "96", "83", "78", "38", "81" ],
+            "owner": [ "96", "83", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -2620,7 +2620,7 @@
         },
         {   "id": "98 ROCKSPRINGS",
             "group": "RSG",
-            "owner": [ "98", "50", "78", "38", "81" ],
+            "owner": [ "98", "50", "38", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -2751,7 +2751,7 @@
         },
         {   "id": "72 OCEAN EAST",
             "group": "OCN",
-            "owner": [ "72", "79", "53", "24", "81" ],
+            "owner": [ "72", "79", "53", "46" ],
             "sectors": [
             {
                 "min": 0,
@@ -2801,7 +2801,7 @@
         },
         {   "id": "79 OCEAN WEST",
             "group": "OCN",
-            "owner": [ "79", "24", "81" ],
+            "owner": [ "79", "53", "46" ],
             "sectors": [
             {
                 "min": 105,
@@ -2858,7 +2858,7 @@
         },
         {   "id": "26 WOODVILLE",
             "group": "LFK",
-            "owner": [ "26", "46", "38", "81" ],
+            "owner": [ "26", "46", "38", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -2886,7 +2886,7 @@
         },
         {   "id": "42 ALEXANDRIA",
             "group": "LFK",
-            "owner": [ "42", "46", "38", "81" ],
+            "owner": [ "42", "46", "38", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -2934,7 +2934,7 @@
         },
         {   "id": "46 HOUSTON",
             "group": "LFK",
-            "owner": [ "46", "38", "81" ],
+            "owner": [ "46", "38", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -2967,7 +2967,7 @@
         },
         {   "id": "59 CORPUS",
             "group": "CRP",
-            "owner": [ "59", "84", "87", "68", "81" ],
+            "owner": [ "59", "84", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -3018,7 +3018,7 @@
         },
         {   "id": "63 MOBILE",
             "group": "NEW",
-            "owner": [ "63", "37", "27", "24", "81" ],
+            "owner": [ "63", "37", "27", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -3059,7 +3059,7 @@
         },
         {   "id": "65 MCCOMB",
             "group": "NEW",
-            "owner": [ "65", "37", "24", "81" ],
+            "owner": [ "65", "37", "27", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -3095,7 +3095,7 @@
         },
         {   "id": "68 GALVESTON",
             "group": "LCH",
-            "owner": [ "68", "23", "43", "68", "81" ],
+            "owner": [ "68", "23", "43", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -3155,7 +3155,7 @@
         },
         {   "id": "70 TIBBY",
             "group": "LCH",
-            "owner": [ "70", "23", "43", "68", "81" ],
+            "owner": [ "70", "23", "43", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -3208,7 +3208,7 @@
         },
         {   "id": "74 ALAMO",
             "group": "RSG",
-            "owner": [ "74", "88", "50", "78", "81" ],
+            "owner": [ "74", "88", "50", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -3247,7 +3247,7 @@
         },
         {   "id": "78 AUSTIN",
             "group": "AUS",
-            "owner": [ "78", "83", "81" ],
+            "owner": [ "78", "83", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -3278,7 +3278,7 @@
         },
         {   "id": "82 BILEE",
             "group": "AUS",
-            "owner": [ "82", "78", "83", "81" ],
+            "owner": [ "82", "78", "83", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -3303,7 +3303,7 @@
         },
         {   "id": "95 PALACIOS",
             "group": "CRP",
-            "owner": [ "95", "84", "87", "68", "81" ],
+            "owner": [ "95", "84", "46" ],
             "sectors": [
             {
                 "min": 235,
@@ -3336,7 +3336,7 @@
         },
         {   "id": "97 JUNCTION",
             "group": "RSG",
-            "owner": [ "97", "88", "50", "78", "81" ],
+            "owner": [ "97", "88", "50", "46" ],
             "sectors": [
             {
                 "min": 275,
@@ -3381,7 +3381,7 @@
         },
         {   "id": "23 WHITE LAKE",
             "group": "LCH",
-            "owner": [ "23", "43", "68", "81" ],
+            "owner": [ "23", "43", "46" ],
             "sectors": [
             {
                 "min": 345,
@@ -3421,7 +3421,7 @@
         },
         {   "id": "37 HATTIESBURG",
             "group": "NEW",
-            "owner": [ "37", "27", "24", "81" ],
+            "owner": [ "37", "27", "46" ],
             "sectors": [
             {
                 "min": 345,
@@ -3477,7 +3477,7 @@
         },    
         {   "id": "76 SLIMM",
             "group": "RSG",
-            "owner": [ "76", "88", "50", "78", "81" ],
+            "owner": [ "76", "88", "50", "46" ],
             "sectors": [
             {
                 "min": 355,
@@ -3513,7 +3513,7 @@
         },  
         {   "id": "81 ESLER",
             "group": "LFK",
-            "owner": [ "46", "38", "81" ],
+            "owner": [ "46", "38", "46" ],
             "sectors": [
             {
                 "min": 345,
@@ -3546,7 +3546,7 @@
         }, 
         {   "id": "84 SOTEX",
             "group": "CRP",
-            "owner": [ "84", "87", "68", "81" ],
+            "owner": [ "84", "87", "46" ],
             "sectors": [
             {
                 "min": 345,
@@ -3611,7 +3611,7 @@
         }, 
         {   "id": "88 FRIO",
             "group": "RSG",
-            "owner": [ "88", "50", "68", "81" ],
+            "owner": [ "88", "50", "46" ],
             "sectors": [
             {
                 "min": 355,
@@ -3654,7 +3654,7 @@
         },
         {   "id": "92 VOODOO",
             "group": "NEW",
-            "owner": [ "92", "37", "27", "24", "81" ],
+            "owner": [ "92", "37", "27", "46" ],
             "sectors": [
             {
                 "min": 345,
@@ -3832,55 +3832,55 @@
     },
 
     "airports": {
-        "KAUS": { "pre": ["AUS"], "callsign": "Austin", "coord": ["30.198282199828", "-97.6663568547333"], "topdown": [ "U1W", "U1E", "U1S", "U1F", "96", "83", "78", "38", "81" ], "ctaf": "121.000" },
-        "KBPT": { "pre": ["BPT"], "callsign": "Beaumont", "coord": ["29.953424793377", "-94.0211570976805"], "topdown": [ "I1J", "I1D", "36", "43", "68", "38", "81" ], "ctaf": "119.500" },
-        "KBRO": { "pre": ["BRO"], "callsign": "Brownsville", "coord": ["25.907019124692", "-97.4252048352102"], "topdown": [ "C1Z", "C1N", "58", "87", "68", "38", "81" ], "ctaf": "118.900" },
-        "KBTR": { "pre": ["BTR"], "callsign": "Ryan", "coord": ["30.533276104072", "-91.1523750967967"], "topdown": [ "Z1W", "Z1E", "34", "27", "24", "38", "81" ], "ctaf": "118.450" },
-        "KCLL": { "pre": ["CLL"], "callsign": "Easterwood", "coord": ["30.590922205576", "-96.3636663952576"], "topdown": [ "I1U", "I1N", "I1D", "83", "78", "38", "81" ], "ctaf": "118.500" },
-        "KCRP": { "pre": ["CRP"], "callsign": "Corpus", "coord": ["27.776462089188", "-97.5023091561595"], "topdown": [ "C1S", "C1H", "C1N", "58", "87", "68", "38", "81" ], "ctaf": "119.400" },
-        "KDLF": { "pre": ["DLF"], "callsign": "Laughlin", "coord": ["29.360902351936", "-100.778947326013"], "topdown": [ "D1A", "98", "50", "78", "38", "81" ], "ctaf": "125.200" },
-        "KGPT": { "pre": ["GPT"], "callsign": "Gulfport", "coord": ["30.413357782403", "-89.0727157450699"], "topdown": [ "G1W", "G1E", "63", "37", "27", "24", "81" ], "ctaf": "123.700" },
-        "KHOU": { "pre": ["HOU"], "callsign": "Hobby", "coord": ["29.646119147798", "-95.2768629316695"], "topdown": [ "I1G", "I1X", "I1N", "I1D", "87", "68", "38", "81" ], "ctaf": "118.700" },
-        "KIAH": { "pre": ["IAH"], "callsign": "Houston", "coord": ["29.987457392149", "-95.3422180518931"], "topdown": [ "I1N", "I1D", "49", "38", "81" ], "ctaf": "125.350" },
-        "KLCH": { "pre": ["LCH"], "callsign": "Lake Charles", "coord": ["30.123173492858", "-93.2211612180917"], "topdown": [ "L1W", "L1E", "36", "43", "68", "38", "81" ], "ctaf": "120.700" },
-        "KLFT": { "pre": ["LFT"], "callsign": "Lafayette", "coord": ["30.205088235182", "-91.9888114739112"], "topdown": [ "E1W", "E1E", "34", "27", "24", "38", "81" ], "ctaf": "118.500" },
-        "KMOB": { "pre": ["MOB"], "callsign": "Mobile", "coord": ["30.692734974344", "-88.2455167162266"], "topdown": [ "B1W", "B1E", "25", "27", "24", "38", "81" ], "ctaf": "118.300" },
-        "KMSY": { "pre": ["MSY"], "callsign": "New Orleans", "coord": ["29.991391095966", "-90.2599564461531"], "topdown": [ "N1W", "N1S", "N1N", "N1H", "34", "27", "24", "38", "81" ], "ctaf": "119.500" },
-        "KNQI": { "pre": ["NQI"], "callsign": "Kingsville", "coord": ["27.507391515836", "-97.8093572083207"], "topdown": [ "C1A", "C1N", "58", "87", "68", "38", "81" ], "ctaf": "124.100" },
-        "KPOE": { "pre": ["POE"], "callsign": "Polk", "coord": ["31.046653479285", "-93.1896192499120"], "topdown": [ "P1P", "40", "38", "42", "38", "81" ], "ctaf": "119.000" },
-        "KSAT": { "pre": ["SAT"], "callsign": "San Antonio", "coord": ["29.533780040603", "-98.4700060739291"], "topdown": [ "S1W", "S1S", "S1N", "S1R", "50", "78", "38", "81" ], "ctaf": "119.800" },
+        "KAUS": { "pre": ["AUS"], "callsign": "Austin", "coord": ["30.198282199828", "-97.6663568547333"], "topdown": [ "U1W", "U1E", "U1S", "U1F", "96", "83", "78", "38", "46" ], "ctaf": "121.000" },
+        "KBPT": { "pre": ["BPT"], "callsign": "Beaumont", "coord": ["29.953424793377", "-94.0211570976805"], "topdown": [ "I1J", "I1D", "36", "43", "68", "38", "46" ], "ctaf": "119.500" },
+        "KBRO": { "pre": ["BRO"], "callsign": "Brownsville", "coord": ["25.907019124692", "-97.4252048352102"], "topdown": [ "C1Z", "C1N", "58", "87", "68", "38", "46" ], "ctaf": "118.900" },
+        "KBTR": { "pre": ["BTR"], "callsign": "Ryan", "coord": ["30.533276104072", "-91.1523750967967"], "topdown": [ "Z1W", "Z1E", "34", "27", "24", "38", "46" ], "ctaf": "118.450" },
+        "KCLL": { "pre": ["CLL"], "callsign": "Easterwood", "coord": ["30.590922205576", "-96.3636663952576"], "topdown": [ "I1U", "I1N", "I1D", "83", "78", "38", "46" ], "ctaf": "118.500" },
+        "KCRP": { "pre": ["CRP"], "callsign": "Corpus", "coord": ["27.776462089188", "-97.5023091561595"], "topdown": [ "C1S", "C1H", "C1N", "58", "87", "68", "38", "46" ], "ctaf": "119.400" },
+        "KDLF": { "pre": ["DLF"], "callsign": "Laughlin", "coord": ["29.360902351936", "-100.778947326013"], "topdown": [ "D1A", "98", "50", "78", "38", "46" ], "ctaf": "125.200" },
+        "KGPT": { "pre": ["GPT"], "callsign": "Gulfport", "coord": ["30.413357782403", "-89.0727157450699"], "topdown": [ "G1W", "G1E", "63", "37", "27", "24", "46" ], "ctaf": "123.700" },
+        "KHOU": { "pre": ["HOU"], "callsign": "Hobby", "coord": ["29.646119147798", "-95.2768629316695"], "topdown": [ "I1G", "I1X", "I1N", "I1D", "87", "68", "38", "46" ], "ctaf": "118.700" },
+        "KIAH": { "pre": ["IAH"], "callsign": "Houston", "coord": ["29.987457392149", "-95.3422180518931"], "topdown": [ "I1N", "I1D", "49", "38", "46" ], "ctaf": "125.350" },
+        "KLCH": { "pre": ["LCH"], "callsign": "Lake Charles", "coord": ["30.123173492858", "-93.2211612180917"], "topdown": [ "L1W", "L1E", "36", "43", "68", "38", "46" ], "ctaf": "120.700" },
+        "KLFT": { "pre": ["LFT"], "callsign": "Lafayette", "coord": ["30.205088235182", "-91.9888114739112"], "topdown": [ "E1W", "E1E", "34", "27", "24", "38", "46" ], "ctaf": "118.500" },
+        "KMOB": { "pre": ["MOB"], "callsign": "Mobile", "coord": ["30.692734974344", "-88.2455167162266"], "topdown": [ "B1W", "B1E", "25", "27", "24", "38", "46" ], "ctaf": "118.300" },
+        "KMSY": { "pre": ["MSY"], "callsign": "New Orleans", "coord": ["29.991391095966", "-90.2599564461531"], "topdown": [ "N1W", "N1S", "N1N", "N1H", "34", "27", "24", "38", "46" ], "ctaf": "119.500" },
+        "KNQI": { "pre": ["NQI"], "callsign": "Kingsville", "coord": ["27.507391515836", "-97.8093572083207"], "topdown": [ "C1A", "C1N", "58", "87", "68", "38", "46" ], "ctaf": "124.100" },
+        "KPOE": { "pre": ["POE"], "callsign": "Polk", "coord": ["31.046653479285", "-93.1896192499120"], "topdown": [ "P1P", "40", "38", "42", "38", "46" ], "ctaf": "119.000" },
+        "KSAT": { "pre": ["SAT"], "callsign": "San Antonio", "coord": ["29.533780040603", "-98.4700060739291"], "topdown": [ "S1W", "S1S", "S1N", "S1R", "50", "78", "38", "46" ], "ctaf": "119.800" },
         
-        "KAEX": { "pre": ["AEX"], "callsign": "Alexandria Intl", "coord": ["31.327372", "-92.548556"], "topdown": ["P1P", "40", "38", "42", "38", "81"], "ctaf": "127.350" },
-        "KARA": { "pre": ["ARA"], "callsign": "Acadiana Rgnl", "coord": ["30.037758", "-91.883897"], "topdown": ["E1W", "E1E", "34", "27", "24", "38", "81"], "ctaf": "125.000" },
-        "KBAZ": { "pre": ["BAZ"], "callsign": "New Braunfels Rgnl", "coord": ["29.70575", "-98.0432222"], "topdown": ["S1W", "S1S", "S1N", "S1R", "50", "78", "38", "81"], "ctaf": "127.050" },
-        "KBFM": { "pre": ["BFM"], "callsign": "Mobile Downtown", "coord": ["30.626469", "-88.068"], "topdown": ["B1W", "B1E", "25", "27", "24", "38", "81"], "ctaf": "118.800" },
-        "KBIX": { "pre": ["BIX"], "callsign": "Keesler AFB", "coord": ["30.411092", "-88.923872"], "topdown": ["G1W", "G1E", "63", "37", "27", "24", "81"], "ctaf": "120.750" },
-        "KCWF": { "pre": ["CWF"], "callsign": "Chenault Airpark", "coord": ["30.210592", "-93.143189"], "topdown": ["L1W", "L1E", "36", "43", "68", "38", "81"], "ctaf": "124.200" },
-        "KCXO": { "pre": ["CXO"], "callsign": "Conroe Montgomery Cnty", "coord": ["30.351833", "-95.414467"], "topdown": ["I1N", "I1D", "49", "38", "81"], "ctaf": "124.125" },
-        "KDWH": { "pre": ["DWH"], "callsign": "Houston Hooks Meml", "coord": ["30.061861", "-95.552778"], "topdown": ["I1N", "I1D", "49", "38", "81"], "ctaf": "118.400" },
-        "KEDC": { "pre": ["EDC"], "callsign": "Austin Executive", "coord": ["30.3974931", "-97.5663935"], "topdown": ["U1W", "U1E", "U1S", "U1F", "96", "83", "78", "38", "81"], "ctaf": "120.300" },
-        "KEFD": { "pre": ["EFD"], "callsign": "Houston Ellington", "coord": ["29.607333", "-95.15875"], "topdown": ["I1N", "I1D", "49", "38", "81"], "ctaf": "126.050" },
-        "KGLS": { "pre": ["GLS"], "callsign": "Galveston Scholes Field", "coord": ["29.265322", "-94.860406"], "topdown": ["I1N", "I1D", "49", "38", "81"], "ctaf": "120.575" },
-        "KGTU": { "pre": ["GTU"], "callsign": "Georgetown Muni", "coord": ["30.6788056", "-97.6793889"], "topdown": ["U1W", "U1E", "U1S", "U1F", "96", "83", "78", "38", "81"], "ctaf": "120.225" },
-        "KHDC": { "pre": ["HDC"], "callsign": "Hammond Northshore Rgnl", "coord": ["30.521687", "-90.418381"], "topdown": ["N1W", "N1S", "N1N", "N1H", "34", "27", "24", "38", "81"], "ctaf": "120.575" },
-        "KHSA": { "pre": ["HSA"], "callsign": "Stennis Intl", "coord": ["30.3678056", "-89.4546111"], "topdown": ["G1W", "G1E", "63", "37", "27", "24", "81"], "ctaf": "127.150" },
-        "KHUM": { "pre": ["HUM"], "callsign": "Houma-Terrebonne", "coord": ["29.5665", "-90.660417"], "topdown": ["N1W", "N1S", "N1N", "N1H", "34", "27", "24", "38", "81"], "ctaf": "125.300" },
-        "KHYI": { "pre": ["HYI"], "callsign": "San Marcos Rgnl", "coord": ["29.89275", "-97.863"], "topdown": ["U1W", "U1E", "U1S", "U1F", "96", "83", "78", "38", "81"], "ctaf": "126.825" },
-        "KLRD": { "pre": ["LRD"], "callsign": "Laredo Intl", "coord": ["27.543739", "-99.461544"], "topdown": ["93", "87", "68", "38", "81"], "ctaf": "120.100" },
-        "KMFE": { "pre": ["MFE"], "callsign": "Mcallen Miller Intl", "coord": ["26.175833", "-98.238611"], "topdown": ["C1S", "C1H", "C1N", "58", "87", "68", "38", "81"], "ctaf": "118.500" },
-        "KNBG": { "pre": ["NBG"], "callsign": "New Orleans Navy", "coord": ["29.826156", "-90.025583"], "topdown": ["N1W", "N1S", "N1N", "N1H", "34", "27", "24", "38", "81"], "ctaf": "123.800" },
-        "KNEW": { "pre": ["NEW"], "callsign": "New Orleans Lakefront", "coord": ["30.042425", "-90.028267"], "topdown": ["N1W", "N1S", "N1N", "N1H", "34", "27", "24", "38", "81"], "ctaf": "118.950" },
-        "KNGP": { "pre": ["NGP"], "callsign": "Corpus Christi Navy", "coord": ["27.693089", "-97.291378"], "topdown": ["C1S", "C1H", "C1N", "58", "87", "68", "38", "81"], "ctaf": "125.525" },
-        "KNGW": { "pre": ["NGW"], "callsign": "Cabiness Field", "coord": ["27.7225", "-97.44222"], "topdown": ["C1S", "C1H", "C1N", "58", "87", "68", "38", "81"], "ctaf": "119.650" },
-        "KNOG": { "pre": ["NOG"], "callsign": "Orange Grove Navy", "coord": ["27.88917", "-98.04389"], "topdown": ["C1S", "C1H", "C1N", "58", "87", "68", "38", "81"], "ctaf": "128.400" },
-        "KNWL": { "pre": ["NWL"], "callsign": "Waldron Fld NOLF", "coord": ["27.635", "-97.312222"], "topdown": ["C1S", "C1H", "C1N", "58", "87", "68", "38", "81"], "ctaf": "133.850" },
-        "KPQL": { "pre": ["PQL"], "callsign": "Pascagoula Lott Intl", "coord": ["30.462781", "-88.529228"], "topdown": ["B1W", "B1E", "25", "27", "24", "38", "81"], "ctaf": "118.575" },
-        "KRND": { "pre": ["RND"], "callsign": "Randolph AFB", "coord": ["29.528903", "-98.278014"], "topdown": ["S1W", "S1S", "S1N", "S1R", "50", "78", "38", "81"], "ctaf": "120.500" },
-        "KSGR": { "pre": ["SGR"], "callsign": "Sugar Land Rgnl", "coord": ["29.62225", "-95.6565278"], "topdown": ["I1N", "I1D", "49", "38", "81"], "ctaf": "118.650" },
-        "KSKF": { "pre": ["SKF"], "callsign": "Kelly AFB", "coord": ["29.384231", "-98.581103"], "topdown": ["S1W", "S1S", "S1N", "S1R", "50", "78", "38", "81"], "ctaf": "124.300" },
-        "KSSF": { "pre": ["SSF"], "callsign": "Stinson Muni", "coord": ["29.337008", "-98.471142"], "topdown": ["S1W", "S1S", "S1N", "S1R", "50", "78", "38", "81"], "ctaf": "118.200" },
-        "KTME": { "pre": ["TME"], "callsign": "Houston Executive", "coord": ["29.8050278", "-95.8978889"], "topdown": ["I1N", "I1D", "49", "38", "81"], "ctaf": "126.975" },
-        "KVCT": { "pre": ["VCT"], "callsign": "Victoria Rgnl", "coord": ["28.852556", "-96.918486"], "topdown": ["58", "87", "68", "38", "81"], "ctaf": "126.075" },        
+        "KAEX": { "pre": ["AEX"], "callsign": "Alexandria Intl", "coord": ["31.327372", "-92.548556"], "topdown": ["P1P", "40", "38", "42", "38", "46"], "ctaf": "127.350" },
+        "KARA": { "pre": ["ARA"], "callsign": "Acadiana Rgnl", "coord": ["30.037758", "-91.883897"], "topdown": ["E1W", "E1E", "34", "27", "24", "38", "46"], "ctaf": "125.000" },
+        "KBAZ": { "pre": ["BAZ"], "callsign": "New Braunfels Rgnl", "coord": ["29.70575", "-98.0432222"], "topdown": ["S1W", "S1S", "S1N", "S1R", "50", "78", "38", "46"], "ctaf": "127.050" },
+        "KBFM": { "pre": ["BFM"], "callsign": "Mobile Downtown", "coord": ["30.626469", "-88.068"], "topdown": ["B1W", "B1E", "25", "27", "24", "38", "46"], "ctaf": "118.800" },
+        "KBIX": { "pre": ["BIX"], "callsign": "Keesler AFB", "coord": ["30.411092", "-88.923872"], "topdown": ["G1W", "G1E", "63", "37", "27", "24", "46"], "ctaf": "120.750" },
+        "KCWF": { "pre": ["CWF"], "callsign": "Chenault Airpark", "coord": ["30.210592", "-93.143189"], "topdown": ["L1W", "L1E", "36", "43", "68", "38", "46"], "ctaf": "124.200" },
+        "KCXO": { "pre": ["CXO"], "callsign": "Conroe Montgomery Cnty", "coord": ["30.351833", "-95.414467"], "topdown": ["I1N", "I1D", "49", "38", "46"], "ctaf": "124.125" },
+        "KDWH": { "pre": ["DWH"], "callsign": "Houston Hooks Meml", "coord": ["30.061861", "-95.552778"], "topdown": ["I1N", "I1D", "49", "38", "46"], "ctaf": "118.400" },
+        "KEDC": { "pre": ["EDC"], "callsign": "Austin Executive", "coord": ["30.3974931", "-97.5663935"], "topdown": ["U1W", "U1E", "U1S", "U1F", "96", "83", "78", "38", "46"], "ctaf": "120.300" },
+        "KEFD": { "pre": ["EFD"], "callsign": "Houston Ellington", "coord": ["29.607333", "-95.15875"], "topdown": ["I1N", "I1D", "49", "38", "46"], "ctaf": "126.050" },
+        "KGLS": { "pre": ["GLS"], "callsign": "Galveston Scholes Field", "coord": ["29.265322", "-94.860406"], "topdown": ["I1N", "I1D", "49", "38", "46"], "ctaf": "120.575" },
+        "KGTU": { "pre": ["GTU"], "callsign": "Georgetown Muni", "coord": ["30.6788056", "-97.6793889"], "topdown": ["U1W", "U1E", "U1S", "U1F", "96", "83", "78", "38", "46"], "ctaf": "120.225" },
+        "KHDC": { "pre": ["HDC"], "callsign": "Hammond Northshore Rgnl", "coord": ["30.521687", "-90.418381"], "topdown": ["N1W", "N1S", "N1N", "N1H", "34", "27", "24", "38", "46"], "ctaf": "120.575" },
+        "KHSA": { "pre": ["HSA"], "callsign": "Stennis Intl", "coord": ["30.3678056", "-89.4546111"], "topdown": ["G1W", "G1E", "63", "37", "27", "24", "46"], "ctaf": "127.150" },
+        "KHUM": { "pre": ["HUM"], "callsign": "Houma-Terrebonne", "coord": ["29.5665", "-90.660417"], "topdown": ["N1W", "N1S", "N1N", "N1H", "34", "27", "24", "38", "46"], "ctaf": "125.300" },
+        "KHYI": { "pre": ["HYI"], "callsign": "San Marcos Rgnl", "coord": ["29.89275", "-97.863"], "topdown": ["U1W", "U1E", "U1S", "U1F", "96", "83", "78", "38", "46"], "ctaf": "126.825" },
+        "KLRD": { "pre": ["LRD"], "callsign": "Laredo Intl", "coord": ["27.543739", "-99.461544"], "topdown": ["93", "87", "68", "38", "46"], "ctaf": "120.100" },
+        "KMFE": { "pre": ["MFE"], "callsign": "Mcallen Miller Intl", "coord": ["26.175833", "-98.238611"], "topdown": ["C1S", "C1H", "C1N", "58", "87", "68", "38", "46"], "ctaf": "118.500" },
+        "KNBG": { "pre": ["NBG"], "callsign": "New Orleans Navy", "coord": ["29.826156", "-90.025583"], "topdown": ["N1W", "N1S", "N1N", "N1H", "34", "27", "24", "38", "46"], "ctaf": "123.800" },
+        "KNEW": { "pre": ["NEW"], "callsign": "New Orleans Lakefront", "coord": ["30.042425", "-90.028267"], "topdown": ["N1W", "N1S", "N1N", "N1H", "34", "27", "24", "38", "46"], "ctaf": "118.950" },
+        "KNGP": { "pre": ["NGP"], "callsign": "Corpus Christi Navy", "coord": ["27.693089", "-97.291378"], "topdown": ["C1S", "C1H", "C1N", "58", "87", "68", "38", "46"], "ctaf": "125.525" },
+        "KNGW": { "pre": ["NGW"], "callsign": "Cabiness Field", "coord": ["27.7225", "-97.44222"], "topdown": ["C1S", "C1H", "C1N", "58", "87", "68", "38", "46"], "ctaf": "119.650" },
+        "KNOG": { "pre": ["NOG"], "callsign": "Orange Grove Navy", "coord": ["27.88917", "-98.04389"], "topdown": ["C1S", "C1H", "C1N", "58", "87", "68", "38", "46"], "ctaf": "128.400" },
+        "KNWL": { "pre": ["NWL"], "callsign": "Waldron Fld NOLF", "coord": ["27.635", "-97.312222"], "topdown": ["C1S", "C1H", "C1N", "58", "87", "68", "38", "46"], "ctaf": "133.850" },
+        "KPQL": { "pre": ["PQL"], "callsign": "Pascagoula Lott Intl", "coord": ["30.462781", "-88.529228"], "topdown": ["B1W", "B1E", "25", "27", "24", "38", "46"], "ctaf": "118.575" },
+        "KRND": { "pre": ["RND"], "callsign": "Randolph AFB", "coord": ["29.528903", "-98.278014"], "topdown": ["S1W", "S1S", "S1N", "S1R", "50", "78", "38", "46"], "ctaf": "120.500" },
+        "KSGR": { "pre": ["SGR"], "callsign": "Sugar Land Rgnl", "coord": ["29.62225", "-95.6565278"], "topdown": ["I1N", "I1D", "49", "38", "46"], "ctaf": "118.650" },
+        "KSKF": { "pre": ["SKF"], "callsign": "Kelly AFB", "coord": ["29.384231", "-98.581103"], "topdown": ["S1W", "S1S", "S1N", "S1R", "50", "78", "38", "46"], "ctaf": "124.300" },
+        "KSSF": { "pre": ["SSF"], "callsign": "Stinson Muni", "coord": ["29.337008", "-98.471142"], "topdown": ["S1W", "S1S", "S1N", "S1R", "50", "78", "38", "46"], "ctaf": "118.200" },
+        "KTME": { "pre": ["TME"], "callsign": "Houston Executive", "coord": ["29.8050278", "-95.8978889"], "topdown": ["I1N", "I1D", "49", "38", "46"], "ctaf": "126.975" },
+        "KVCT": { "pre": ["VCT"], "callsign": "Victoria Rgnl", "coord": ["28.852556", "-96.918486"], "topdown": ["58", "87", "68", "38", "46"], "ctaf": "126.075" },        
 
         "KACP": { "callsign": "Allen Parish", "coord": ["30.7505","-92.688491"], "pre": ["ACP"] },
         "KALI": { "callsign": "Alice Intl TX", "coord": ["27.740889","-98.026944"], "pre": ["ALI"] },
