@@ -2382,7 +2382,7 @@
       ]
     },
     {
-      "id": "Mountain Home Muni - Sage/X-RAY South",
+      "id": "Mountain Home - Sage/X-RAY South",
       "group": "APP",
       "owner": ["M1S", "M1N", "B1S", "31", "30", "41", "40", "44"],
       "sectors": [
@@ -2408,7 +2408,7 @@
       ]
     },
     {
-      "id": "Mountain Home Muni - Alpine/X-RAY South",
+      "id": "Mountain Home - Alpine/X-RAY South",
       "group": "APP",
       "owner": ["M1S", "M1N", "B1A", "B1S", "31", "30", "41", "40", "44"],
       "sectors": [
@@ -2434,7 +2434,7 @@
       ]
     },
     {
-      "id": "Mountain Home - XRAY North",
+      "id": "Mountain Home - X-RAY North",
       "group": "RAP",
       "owner": ["M1N", "M1S", "31", "30", "41", "40", "44"],
       "sectors": [
@@ -4125,7 +4125,7 @@
       ]
     },
     {
-      "id": "Salt Lake Tower - East ",
+      "id": "Salt Lake - East",
       "group": "TWR",
       "owner": ["SLE", "SLC", "SLA", "S5K", "32", "11", "03", "44"],
       "sectors": [
@@ -4170,7 +4170,7 @@
       ]
     },
     {
-      "id": "Salt Lake Tower - Center ",
+      "id": "Salt Lake - Center",
       "group": "TWR",
       "owner": ["SLC", "SLA", "S5F", "S5J", "S5K", "32", "11", "03", "44"],
       "sectors": [
@@ -4213,7 +4213,7 @@
       ]
     },
     {
-      "id": "Salt Lake Tower - West ",
+      "id": "Salt Lake - West",
       "group": "TWR",
       "owner": ["SLW", "SLC", "SLA", "S5F", "S5B", "S5K", "32", "11", "03", "44"],
       "sectors": [
@@ -4272,7 +4272,7 @@
       ]
     },
     {
-      "id": "Bozeman - Local",
+      "id": "Bozeman",
       "group": "TWR",
       "owner": ["B1L", "B1Z", "06", "44"],
       "sectors": [
@@ -4330,19 +4330,19 @@
   ],
   "groups": {
     "ZLC": {
-      "name": "Salt Lake Center"
+      "name": "Salt Lake"
     },
     "ZLC A": {
-      "name": "Salt Lake A"
+      "name": "Salt Lake"
     },
     "ZLC B": {
-      "name": "Salt Lake B"
+      "name": "Salt Lake"
     },
     "ZLC C": {
-      "name": "Salt Lake C"
+      "name": "Salt Lake"
     },
     "ZLC D": {
-      "name": "Salt Lake D"
+      "name": "Salt Lake"
     },
     "TWR": {
       "name": "Tower"
