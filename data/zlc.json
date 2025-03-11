@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-      "id": "B 03 MYTON LO/HI/UH",
+      "id": "Myton LO/HI/UH (03)",
       "group": "ZLC B",
       "owner": ["03", "18", "44"],
       "sectors": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": "B 04 SUNNYSIDE LO/HI/UH",
+      "id": "Sunnyside LO/HI/UH (04)",
       "group": "ZLC B",
       "owner": ["04", "16", "03", "44"],
       "sectors": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "id": "B 05 GREEN RIVER LO/HI/UH",
+      "id": "Green River LO/HI/UH (05)",
       "group": "ZLC B",
       "owner": ["05", "03", "04", "44"],
       "sectors": [
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "id": "A 06 SALMON LO/HI/UH",
+      "id": "Salmon LO/HI/UH (06)",
       "group": "ZLC A",
       "owner": ["06", "03", "44"],
       "sectors": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "id": "A 07 MALAD CITY LO/HI",
+      "id": "Malad City LO/HI (07)",
       "group": "ZLC A",
       "owner": ["07", "14", "18", "08", "06", "03", "44"],
       "sectors": [
@@ -353,7 +353,7 @@
       ]
     },
     {
-      "id": "A 08 ASHTON LO/HI",
+      "id": "Ashton LO/HI (08)",
       "group": "ZLC A",
       "owner": ["08", "18", "06", "03", "44"],
       "sectors": [
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "id": "C 11 DELTA LO/HI",
+      "id": "Delta LO/HI (11)",
       "group": "ZLC C",
       "owner": ["11", "32", "47", "44"],
       "sectors": [
@@ -472,7 +472,7 @@
       ]
     },
     {
-      "id": "A 12 LAKESIDE LO",
+      "id": "Lakeside LO (12)",
       "group": "ZLC A",
       "owner": ["12", "19", "20", "06", "03", "44"],
       "sectors": [
@@ -531,7 +531,7 @@
       ]
     },
     {
-      "id": "A 14 BLACKFOOT LO/HI",
+      "id": "Blackfoot LO/HI (14)",
       "group": "ZLC A",
       "owner": ["14", "18", "08", "07", "06", "03", "44"],
       "sectors": [
@@ -580,7 +580,7 @@
       ]
     },
     {
-      "id": "B 15 SHERIDAN LO/HI/UH",
+      "id": "Sheridan LO/HI/UH (15)",
       "group": "ZLC B",
       "owner": ["15", "16", "03", "04", "44"],
       "sectors": [
@@ -671,7 +671,7 @@
       ]
     },
     {
-      "id": "B 16 BOYSEN LO/HI/UH",
+      "id": "Boysen LO/HI/UH (16)",
       "group": "ZLC B",
       "owner": ["16", "03", "44"],
       "sectors": [
@@ -698,7 +698,7 @@
       ]
     },
     {
-      "id": "B 17 GLASGOW LO",
+      "id": "Glasgow LO (17)",
       "group": "ZLC B",
       "owner": ["17", "16", "39", "03", "44"],
       "sectors": [
@@ -770,7 +770,7 @@
       ]
     },
     {
-      "id": "A 18 BIG PINEY HI/UH",
+      "id": "Big Piney HI/UH (18)",
       "group": "ZLC A",
       "owner": ["18", "08", "06", "03", "44"],
       "sectors": [
@@ -810,7 +810,7 @@
       ]
     },
     {
-      "id": "A 19 JUDITH MOUNTAIN LO/HI",
+      "id": "Judith Mountain LO/HI (19)",
       "group": "ZLC A",
       "owner": ["19", "12", "20", "06", "03", "44"],
       "sectors": [
@@ -952,7 +952,7 @@
       ]
     },
     {
-      "id": "A 20 LAKESIDE UH",
+      "id": "Lakeside UH (20)",
       "group": "ZLC A",
       "owner": ["20", "12", "19", "06", "03", "44"],
       "sectors": [
@@ -994,7 +994,7 @@
       ]
     },
     {
-      "id": "D 30 ROME LO",
+      "id": "Rome LO (30)",
       "group": "ZLC D",
       "owner": ["30", "31", "43", "41", "40", "44"],
       "sectors": [
@@ -1110,7 +1110,7 @@
       ]
     },
     {
-      "id": "D 31 BLISS LO",
+      "id": "Bliss LO (31)",
       "group": "ZLC D",
       "owner": ["31", "30", "41", "40", "43", "44"],
       "sectors": [
@@ -1262,7 +1262,7 @@
       ]
     },
     {
-      "id": "C 32 FAIRFIELD LO",
+      "id": "Fairfield LO (32)",
       "group": "ZLC C",
       "owner": ["32", "11", "46", "44"],
       "sectors": [
@@ -1336,7 +1336,7 @@
       ]
     },
     {
-      "id": "C 33 DELTA UH",
+      "id": "Delta UH (33)",
       "group": "ZLC C",
       "owner": ["33", "44"],
       "sectors": [
@@ -1366,7 +1366,7 @@
       ]
     },
     {
-      "id": "C 34 HANKVILLE UH",
+      "id": "Hankville UH (34)",
       "group": "ZLC C",
       "owner": ["34", "46", "47", "44"],
       "sectors": [
@@ -1398,7 +1398,7 @@
       ]
     },
     {
-      "id": "B 39 MILES CITY UH",
+      "id": "Miles City UH (39)",
       "group": "ZLC B",
       "owner": ["39", "17", "99", "16", "03", "44"],
       "sectors": [
@@ -1432,7 +1432,7 @@
       ]
     },
     {
-      "id": "D 40 GRASSY MTN LO/HI/UH",
+      "id": "Grassy Mountain LO/HI/UH (40)",
       "group": "ZLC D",
       "owner": ["40", "44"],
       "sectors": [
@@ -1539,7 +1539,7 @@
       ]
     },
     {
-      "id": "D 41 BURLEY HI/UH",
+      "id": "Burley HI/UH (41)",
       "group": "ZLC D",
       "owner": ["41", "40", "43", "44"],
       "sectors": [
@@ -1579,7 +1579,7 @@
       ]
     },
     {
-      "id": "D 42 BATTLE MOUNTAIN UH",
+      "id": "Battle Mountain UH (42)",
       "group": "ZLC D",
       "owner": ["42", "43", "40", "44"],
       "sectors": [
@@ -1609,7 +1609,7 @@
       ]
     },
     {
-      "id": "D 43 ELKO LO/HI",
+      "id": "Elko LO/HI (43)",
       "group": "ZLC D",
       "owner": ["43", "40", "41", "44"],
       "sectors": [
@@ -1691,7 +1691,7 @@
       ]
     },
     {
-      "id": "C 44 CEDAR CITY LO/HI",
+      "id": "Cedar City LO/HI (44)",
       "group": "ZLC",
       "owner": ["44"],
       "sectors": [
@@ -1721,7 +1721,7 @@
       ]
     },
     {
-      "id": "C 45 TONOPAH UH",
+      "id": "Tonopah UH (45)",
       "group": "ZLC C",
       "owner": ["45", "47", "44"],
       "sectors": [
@@ -1751,7 +1751,7 @@
       ]
     },
     {
-      "id": "C 46 HANKVILLE LO/HI",
+      "id": "Hankville LO/HI (46)",
       "group": "ZLC C",
       "owner": ["46", "34", "47", "44"],
       "sectors": [
@@ -1783,7 +1783,7 @@
       ]
     },
     {
-      "id": "C 47 ELY LO/HI",
+      "id": "Ely LO/HI (47)",
       "group": "ZLC C",
       "owner": ["47", "45", "44"],
       "sectors": [
@@ -1813,7 +1813,7 @@
       ]
     },
     {
-      "id": "B FAV 99 SHERIDAN HI",
+      "id": "Sheridan HI (99)",
       "group": "ZLC B",
       "owner": ["17", "39", "16", "04", "03", "44"],
       "sectors": [
