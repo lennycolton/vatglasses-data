@@ -1,0 +1,62 @@
+{
+    "positions": {
+        "SNE": { "colours": [{ "hex": "#deaf23" }], "pre": [ "EISN" ], "type": "CTR","frequency": "134.260","callsign": "Shannon Control" },
+        "SNB": { "colours": [{ "hex": "#ded123" }], "pre": [ "EISN" ], "type": "CTR","frequency": "127.130","callsign": "Shannon Control" },
+        "SNS": { "colours": [{ "hex": "#309df0" }], "pre": [ "EISN" ], "type": "CTR","frequency": "135.230","callsign": "Shannon Control" },
+        "SNO": { "colours": [{ "hex": "#3063f0" }], "pre": [ "EISN" ], "type": "CTR","frequency": "135.600","callsign": "Shannon Control" },
+        "SNN": { "colours": [{ "hex": "#368524" }], "pre": [ "EISN" ], "type": "CTR","frequency": "122.980","callsign": "Shannon Control" },
+        "SNW": { "colours": [{ "hex": "#e34b29" }], "pre": [ "EISN" ], "type": "CTR","frequency": "131.150","callsign": "Shannon Control" },
+        "SND": { "colours": [{ "hex": "#3063f0" }], "pre": [ "EISN" ], "type": "CTR","frequency": "129.665","callsign": "Shannon Control" },
+        "SNES": { "colours": [{ "hex": "#deaf23" }], "pre": [ "EISN" ], "type": "CTR","frequency": "135.730","callsign": "Shannon Control" },
+        "SNBS": { "colours": [{ "hex": "#ded123" }], "pre": [ "EISN" ], "type": "CTR","frequency": "134.630","callsign": "Shannon Control" },
+        "SNSS": { "colours": [{ "hex": "#309df0" }], "pre": [ "EISN" ], "type": "CTR","frequency": "133.360","callsign": "Shannon Control" },
+        "SNNS": { "colours": [{ "hex": "#368524" }], "pre": [ "EISN" ], "type": "CTR","frequency": "120.040","callsign": "Shannon Control" },
+        "SNWS": { "colours": [{ "hex": "#e34b29" }], "pre": [ "EISN" ], "type": "CTR","frequency": "132.150","callsign": "Shannon Control" },
+        "ZLWN": { "colours": [{ "online": ["ZLOW"], "hex": "#3063f0" }, { "hex": "#309df0" }], "pre": [ "EISN" ], "type": "CTR","frequency": "119.075","callsign": "Shannon Control" },
+        "ZLOW": { "colours": [{ "hex": "#309df0" }], "pre": [ "EISN" ], "type": "CTR","frequency": "124.700","callsign": "Shannon Control" },
+        "ZLWF": { "pre": [ "EISN" ], "type": "CTR","frequency": "127.500","callsign": "Shannon Information" },
+        "UNN": { "colours": [{ "hex": "#ab713c" }], "pre": [ "EIDW" ], "type": "CTR","frequency": "129.180","callsign": "Dublin Control" },
+        "LNN": { "colours": [{ "hex": "#ab713c" }], "pre": [ "EIDW" ], "type": "CTR","frequency": "132.580","callsign": "Dublin Control" },
+        "USS": { "colours": [{ "online": ["UNN"], "hex": "#c928bf" }, { "online": ["LNN"], "hex": "#c928bf" }, { "hex": "#ab713c" }], "pre": [ "EIDW" ], "type": "CTR","frequency": "135.655","callsign": "Dublin Control" },
+        "LSS": { "colours": [{ "online": ["UNN"], "hex": "#c928bf" }, { "online": ["LNN"], "hex": "#c928bf" }, { "hex": "#ab713c" }], "pre": [ "EIDW" ], "type": "CTR","frequency": "120.755","callsign": "Dublin Control" },
+        "DFIS": { "pre": [ "EIDW" ], "type": "CTR","frequency": "118.500","callsign": "Dublin Information" },
+        "DA": { "pre": [ "EIDW" ], "type": "APP","frequency": "121.100","callsign": "Dublin Approach" },
+        "FIN": { "pre": [ "EIDW" ], "type": "APP","frequency": "119.930","callsign": "Dublin Finals" },
+        "DTS": { "pre": [ "EIDW" ], "type": "TWR","frequency": "118.600","callsign": "Dublin Tower" },
+        "DTN": { "pre": [ "EIDW" ], "type": "TWR","frequency": "124.680","callsign": "Dublin Tower" },
+        "NNA": { "pre": [ "EINN" ], "type": "APP","frequency": "121.400","callsign": "Shannon Approach" },
+        "NNT": { "pre": [ "EINN" ], "type": "TWR","frequency": "118.700","callsign": "Shannon Tower" },
+        "CKA": { "pre": [ "EICK" ], "type": "APP","frequency": "119.900","callsign": "Cork Approach" },
+        "CKT": { "pre": [ "EICK" ], "type": "TWR","frequency": "119.300","callsign": "Cork Tower" },
+        "MIL": { "pre": [ "EIME" ], "type": "APP","frequency": "122.000","callsign": "Mil Radar" },
+        "BAL": { "pre": [ "EIME" ], "type": "TWR","frequency": "123.500","callsign": "Bal Tower" },
+        "KNT": { "pre": [ "EIKN" ], "type": "TWR","frequency": "130.700","callsign": "Connaught Tower" },
+        "SGT": { "pre": [ "EISG" ], "type": "TWR","frequency": "122.100","callsign": "Sligo Tower" },
+        "WFT": { "pre": [ "EIWF" ], "type": "TWR","frequency": "129.850","callsign": "Waterford Tower" },
+        "DLT": { "pre": [ "EIDL" ], "type": "TWR","frequency": "129.800","callsign": "Donegal Tower" },
+        "KYT": { "pre": [ "EGKY" ], "type": "TWR","frequency": "123.325","callsign": "Kerry Tower" },
+        "WTT": { "pre": [ "EIWT" ], "type": "TWR","frequency": "122.400","callsign": "Weston Tower" }
+      },
+      "callsigns": {
+        "DEL": {
+          "": "Delivery",
+          "P": "Planner"
+        },
+        "GND": {
+          "": "Ground",
+          "N": "Ground North",
+          "S": "Ground South",
+          "W": "Ground West"
+        },
+        "TWR": {
+          "": "Tower",
+          "N": "Tower North",
+          "S": "Tower South"
+        },
+        "APP": {
+          "": "Approach",
+          "F": "Finals",
+          "H": "Holding"
+        }
+      }
+}

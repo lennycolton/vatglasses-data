@@ -1,0 +1,132 @@
+{
+    "name": "<b>Default</b>",
+    "description": "Copied from the static Shannon ownership file.",
+    "airspace": {
+        "DUN": ["UNN","SNE"],
+        "DLN": ["LNN","UNN","SNE"],
+        "DUS": ["USS","UNN","SNE"],
+        "DLS": ["LSS","LNN","UNN","SNE"],
+
+        "SLN": ["ZLWN","ZLOW","SNE"],
+        "SLS": ["ZLOW","SNE"],
+
+        "NOTAL": ["SNN","SNE"],
+
+        "1AU": ["SNN","SNE"],
+        "1BU": ["SNN","SNE"],
+        "1CU": ["SNN","SNE"],
+        "1DU": ["SNN","SNE"],
+        "1EU": ["SNW","SNN","SNE"],
+
+        "1AS": ["SNNS","SNN","SNE"],
+        "1BS": ["SNNS","SNN","SNE"],
+        "1CS": ["SNNS","SNN","SNE"],
+        "1DS": ["SNNS","SNN","SNE"],
+        "1ES": ["SNWS","SNW","SNN","SNE"],
+
+        "2AU": ["SNW","SNN","SNE"],
+        "2BU": ["SNW","SNN","SNE"],
+        "2CU": ["SNW","SNN","SNE"],
+        "2DU": ["SNW","SNO","SNS","SNB","SNE"],
+        "2EU": ["SNW","SNO","SNS","SNB","SNE"],
+        "2FU": ["SNO","SNS","SNB","SNE"],
+        "2GU": ["SNO","SNS","SNB","SNE"],
+
+        "2AS": ["SNWS","SNW","SNN","SNE"],
+        "2BS": ["SNWS","SNW","SNN","SNE"],
+        "2CS": ["SNWS","SNW","SNN","SNE"],
+        "2DS": ["SNWS","SNW","SNO","SNS","SNB","SNE"],
+        "2ES": ["SNWS","SNW","SNO","SNS","SNB","SNE"],
+        "2FS": ["SNSS","SNO","SNS","SNB","SNE"],
+        "2GS": ["SNSS","SNO","SNS","SNB","SNE"],
+
+        "3AU": ["SND","SNW","SNN","SNE"],
+        "3BU": ["SND","SNW","SNN","SNE"],
+        "3CU": ["SND","SNW","SNN","SNE"],
+        "3DU": ["SND","SNW","SNO","SNB","SNE"],
+        "3EU": ["SNO","SNB","SNE"],
+
+        "3AS": ["SNWS","SND","SNW","SNN","SNE"],
+        "3BS": ["SNWS","SND","SNW","SNN","SNE"],
+        "3CS": ["SNWS","SND","SNW","SNN","SNE"],
+        "3DS": ["SNWS","SND","SNW","SNO","SNB","SNE"],
+        "3ES": ["SNSS","SNO","SNB","SNE"],
+
+        "4AU": ["SNE"],
+        "4BU": ["SND","SNE"],
+        "4CU": ["SND","SNE"],
+        "4DU": ["SNB","SNE"],
+        "4EU": ["SNB","SNE"],
+        "4FU": ["SND","SNB","SNE"],
+        "4GU": ["SNB","SNE"],
+
+        "4AS": ["SNES","SNE"],
+        "4BS": ["SNES","SND","SNE"],
+        "4CS": ["SNES","SND","SNE"],
+        "4DS": ["SNBS","SNB","SNE"],
+        "4ES": ["SNBS","SNB","SNE"],
+        "4FS": ["SNBS","SND","SNB","SNE"],
+        "4GS": ["SNBS","SNB","SNE"],
+
+        "SOTAL": ["SNS","SNB","SNE"],
+
+        "5AU": ["SNS","SNB","SNE"],
+        "5BU": ["SNS","SNB","SNE"],
+        "5CU": ["SNS","SNB","SNE"],
+        "5DU": ["SNS","SNB","SNE"],
+        "5EU": ["SNO","SNS","SNB","SNE"],
+
+        "5AS": ["SNSS","SNS","SNB","SNE"],
+        "5BS": ["SNSS","SNS","SNB","SNE"],
+        "5CS": ["SNSS","SNS","SNB","SNE"],
+        "5DS": ["SNSS","SNS","SNB","SNE"],
+        "5ES": ["SNSS","SNO","SNS","SNB","SNE"],
+
+        "6AU": ["SNO","SNS","SNB","SNE"],
+        "6BU": ["SNO","SNS","SNB","SNE"],
+        "6CU": ["SNO","SNS","SNB","SNE"],
+        "6DU": ["SNO","SNS","SNB","SNE"],
+
+        "6AS": ["SNSS","SNO","SNS","SNB","SNE"],
+        "6BS": ["SNSS","SNO","SNS","SNB","SNE"],
+        "6CS": ["SNSS","SNO","SNS","SNB","SNE"],
+        "6DS": ["SNSS","SNO","SNS","SNB","SNE"],
+
+        "MET": ["BAL","MIL","LSS","LNN","UNN","SNE"],
+
+        "KNT": ["KNT","ZLWN","ZLOW","SNE"],
+
+        "CKT": ["CKT","CKA","ZLOW","SNE"],
+        "CKA": ["CKA","ZLOW","SNE"],
+
+        "DLT": ["DLT","ZLWN","ZLOW","SNE"],
+
+        "DWTS": ["DTS","DA","LNN","UNN","SNE"],
+        "DWTN": ["DTN","DTS","DA","LNN","UNN","SNE"],
+        "DWA": ["DA","LNN","UNN","SNE"],
+        "DWF": ["FIN","DA","LNN","UNN","SNE"],
+
+        "KYT": ["KYT","ZLOW","SNE"],
+
+        "NNT": ["NNT","NNA","ZLOW","SNE"],
+        "NNA": ["NNA","ZLOW","SNE"],
+
+        "SGT": ["SGT","ZLWN","ZLOW","SNE"],
+
+        "WFT": ["WFT","ZLOW","SNE"],
+
+        "WTT": ["WTT","LSS","LNN","UNN","SNE"]
+    },
+    "airports": {
+        "EICK": { "sector": "SLS" },
+        "EIDL": { "sector": "SLN" },
+        "EIDW": { "sector": "DLN" },
+        "EIKN": { "sector": "SLN" },
+        "EIKY": { "sector": "SLS" },
+        "EIME": { "sector": "DLS" },
+        "EINN": { "sector": "SLS" },
+        "EISG": { "sector": "SLS" },
+        "EIWF": { "sector": "SLS" },
+        "EIWT": { "sector": "DLS" }
+    }
+}
