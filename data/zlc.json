@@ -2300,7 +2300,7 @@
     {
       "id": "Mountain Home - Cowboy Control",
       "group": "RAP",
-      "owner": ["M1S", "M1N", "31", "30", "41", "40", "44"],
+      "owner": ["M1S", "31", "30", "41", "40", "44"],
       "sectors": [
         {
           "max": 234,
