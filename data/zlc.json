@@ -4274,7 +4274,7 @@
     {
       "id": "Bozeman",
       "group": "TWR",
-      "owner": ["B1L", "B1Z", "06", "44"],
+      "owner": ["B1L", "B1Z", "06", "03", "44"],
       "sectors": [
         {
           "max": 74,
@@ -4475,7 +4475,7 @@
       "type": "CTR",
       "colours": [
         {
-          "hex": "#39b54a"
+          "hex": "#b22934"
         }
       ]
     },
@@ -4486,7 +4486,7 @@
       "type": "CTR",
       "colours": [
         {
-          "hex": "#36463c"
+          "hex": "#ff0005"
         }
       ]
     },
@@ -4508,7 +4508,7 @@
       "type": "CTR",
       "colours": [
         {
-          "hex": "#39b54a"
+          "hex": "#af7867"
         }
       ]
     },
@@ -4552,7 +4552,7 @@
       "type": "CTR",
       "colours": [
         {
-          "hex": "#fc0335"
+          "hex": "#009b00"
         }
       ]
     },
@@ -4629,7 +4629,7 @@
       "type": "CTR",
       "colours": [
         {
-          "hex": "#aeef00"
+          "hex": "#edd0d7"
         }
       ]
     },
@@ -4717,7 +4717,7 @@
       "type": "APP",
       "colours": [
         {
-          "hex": "#db1d2c"
+          "hex": "#ebe42f"
         }
       ]
     },
@@ -4739,7 +4739,7 @@
       "type": "APP",
       "colours": [
         {
-          "hex": "#ebe42f"
+          "hex": "#db1d2c"
         }
       ]
     },
@@ -4794,7 +4794,7 @@
       "type": "TWR",
       "colours": [
         {
-          "hex": "#a1fa25"
+          "hex": "#f9b175"
         }
       ]
     },
@@ -4805,7 +4805,7 @@
       "type": "TWR",
       "colours": [
         {
-          "hex": "#f20c0c"
+          "hex": "#333333"
         }
       ]
     },
@@ -5193,13 +5193,13 @@
       "callsign": "Glacier Park International",
       "coord": ["48.311417", "-114.255083"],
       "pre": ["FCA"],
-      "topdown": ["12", "20", "06", "44"]
+      "topdown": ["12", "20", "06", "03", "44"]
     },
     "KGTF": {
       "callsign": "Great Falls",
       "coord": ["47.482003", "-111.370686"],
       "pre": ["GTF"],
-      "top-down": ["GTF", "19", "20", "06", "44"]
+      "top-down": ["GTF", "19", "20", "06", "03", "44"]
     },
     "KHCR": {
       "callsign": "Heber Valley",
@@ -5210,13 +5210,13 @@
       "callsign": "Hill AFB - Ogden UT",
       "coord": ["41.123939", "-111.973044"],
       "pre": ["HIF"],
-      "topdown": ["S5H", "S5B", "S5K", "03", "08", "06", "44"]
+      "topdown": ["S5H", "S5B", "S5K", "32", "08", "06", "03", "44"]
     },
     "KHLN": {
       "callsign": "Helena",
       "coord": ["46.606819", "-111.98275"],
       "pre": ["HLN"],
-      "topdown": ["HLN", "19", "06", "44"]
+      "topdown": ["HLN", "19", "06", "03", "44"]
     },
     "KHMM": {
       "callsign": "Hamilton- Ravalli County MT",
@@ -5247,7 +5247,7 @@
       "callsign": "Idaho Falls",
       "coord": ["43.513719", "-112.070722"],
       "pre": ["IDA"],
-      "topdown": ["08", "20", "06", "44"]
+      "topdown": ["08", "20", "06", "03", "44"]
     },
     "KISN": {
       "callsign": "Williston Sloulin Field Intl ND",
@@ -5258,7 +5258,7 @@
       "callsign": "Jackson",
       "coord": ["43.6073333", "-110.73775"],
       "pre": ["JAC"],
-      "topdown": ["16", "03", "44"]
+      "topdown": ["16", "03", "03", "44"]
     },
     "KJDN": {
       "callsign": "Jordan MT",
@@ -5341,7 +5341,7 @@
       "callsign": "Missoula",
       "coord": ["46.916306", "-114.090556"],
       "pre": ["MSO"],
-      "topdown": ["MSO", "12", "20", "06", "44"]
+      "topdown": ["MSO", "12", "20", "06", "03", "44"]
     },
     "KMUO": {
       "callsign": "Mountain Home",
@@ -5358,7 +5358,7 @@
       "callsign": "Ogden",
       "coord": ["41.195944", "-112.012175"],
       "pre": ["OGD"],
-      "topdown": ["S5H", "S5B", "S5K", "03", "08", "06", "44"]
+      "topdown": ["S5H", "S5B", "S5K", "32", "08", "06", "03", "44"]
     },
     "KOLF": {
       "callsign": "Wolf Point Clayton MT",
@@ -5400,7 +5400,7 @@
       "callsign": "Provo",
       "coord": ["40.219194", "-111.723361"],
       "pre": ["PVU"],
-      "topdown": ["S5A", "S5J", "S5K", "04", "03", "44"]
+      "topdown": ["S5A", "S5J", "S5K", "32", "11", "04", "03", "44"]
     },
     "KPWD": {
       "callsign": "Sher-Wood",
@@ -5468,14 +5468,16 @@
         "SLW",
         "SLA",
         "S5F",
+        "S5J",
         "S5K",
-        "S56",
         "S5S",
         "S5H",
         "S5B",
         "S5G",
         "S5A",
         "S5V",
+        "32",
+        "11",
         "04",
         "03",
         "44"
@@ -5495,7 +5497,7 @@
       "callsign": "Hailey",
       "coord": ["43.50485", "-114.296603"],
       "pre": ["SUN"],
-      "topdown": ["41", "40", "44"]
+      "topdown": ["31", "41", "40", "44"]
     },
     "KTMT": {
       "callsign": "Austin",
