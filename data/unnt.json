@@ -3501,7 +3501,7 @@
     },
     "NCC": {
         "callsign": "Novosibirsk Control",
-        "frequency": "126.100",
+        "frequency": "132.300",
         "type": "CTR",
         "pre": [
             "UNNT"
