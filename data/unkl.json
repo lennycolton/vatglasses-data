@@ -4924,9 +4924,35 @@
             }
         ]
     },
-    "KCN": {
+    "KXS": {
+        "callsign": "Krasnoyarsk Control",
+        "frequency": "118.900",
+        "type": "CTR",
+        "pre": [
+            "UNKL"
+        ],
+        "colours": [
+            {
+                "hex": "#5f8c00"
+            }
+        ]
+    },
+    "KZC": {
         "callsign": "Krasnoyarsk Control",
         "frequency": "132.500",
+        "type": "CTR",
+        "pre": [
+            "UNKL"
+        ],
+        "colours": [
+            {
+                "hex": "#5f8c00"
+            }
+        ]
+    },
+    "KCN": {
+        "callsign": "Krasnoyarsk Control",
+        "frequency": "133.400",
         "type": "CTR",
         "pre": [
             "UNKL"
@@ -4947,6 +4973,45 @@
         "colours": [
             {
                 "hex": "#0000e4"
+            }
+        ]
+    },
+    "KQC": {
+        "callsign": "Krasnoyarsk Control",
+        "frequency": "133.100",
+        "type": "CTR",
+        "pre": [
+            "UNKL"
+        ],
+        "colours": [
+            {
+                "hex": "#dd8c00"
+            }
+        ]
+    },
+    "KWS": {
+        "callsign": "Krasnoyarsk Control",
+        "frequency": "132.100",
+        "type": "CTR",
+        "pre": [
+            "UNKL"
+        ],
+        "colours": [
+            {
+                "hex": "#dd8c00"
+            }
+        ]
+    },
+    "KES": {
+        "callsign": "Krasnoyarsk Control",
+        "frequency": "133.200",
+        "type": "CTR",
+        "pre": [
+            "UNKL"
+        ],
+        "colours": [
+            {
+                "hex": "#dd8c00"
             }
         ]
     },
