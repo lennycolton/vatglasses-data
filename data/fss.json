@@ -35,7 +35,6 @@
     "RUESC": { "colours": [{ "hex": "#ffffff" }], "pre": ["RU-ESC"], "type": "FSS", "frequency": "135.225", "callsign": "Siberia Control" },
     "RUWSC": { "colours": [{ "hex": "#ffffff" }], "pre": ["RU-WSC"], "type": "FSS", "frequency": "134.500", "callsign": "Ural Radar" },
     "RUCEN": { "colours": [{ "hex": "#ffffff" }], "pre": ["RU-CEN"], "type": "FSS", "frequency": "132.850", "callsign": "Asia Center" },
-    "RUNWC": { "colours": [{ "hex": "#ffffff" }], "pre": ["RU-NWC"], "type": "FSS", "frequency": "135.625", "callsign": "North West Control" },
     "RUSC": { "colours": [{ "hex": "#ffffff" }], "pre": ["RU-SC"], "type": "FSS", "frequency": "136.000", "callsign": "Caucasus Radar" },
     "SAME": { "colours": [{ "hex": "#ffffff" }], "pre": ["SAM", "SAM-E"], "type": "FSS", "frequency": "134.150", "callsign": "South America Control"},
     "SAMN": { "colours": [{ "hex": "#ffffff" }], "pre": ["SAM", "SAM-N"], "type": "FSS", "frequency": "134.250", "callsign": "South America Control"},
