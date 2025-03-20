@@ -263,7 +263,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -579,7 +579,7 @@
       "owner": [
         "21R",
         "10R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -947,7 +947,7 @@
       "owner": [
         "21R",
         "10R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -2068,44 +2068,44 @@
           "min": 0,
           "points": [
             [
-              "711839",
-              "0254816"
-            ],
-            [
               "711547",
               "0252745"
             ],
             [
-              "710411",
-              "0251549"
-            ],
-            [
-              "705636",
-              "0253057"
-            ],
-            [
-              "705427",
-              "0253812"
-            ],
-            [
-              "705250",
-              "0254447"
-            ],
-            [
-              "705330",
-              "0260000"
-            ],
-            [
-              "710700",
-              "0263300"
+              "711839",
+              "0254816"
             ],
             [
               "711300",
               "0261000"
             ],
             [
-              "711839",
-              "0254816"
+              "710700",
+              "0263300"
+            ],
+            [
+              "705134",
+              "0261127"
+            ],
+            [
+              "705250",
+              "0254447"
+            ],
+            [
+              "705427",
+              "0253812"
+            ],
+            [
+              "705636",
+              "0253057"
+            ],
+            [
+              "710411",
+              "0251549"
+            ],
+            [
+              "711547",
+              "0252745"
             ]
           ]
         }
@@ -2309,8 +2309,8 @@
       "group": "Polaris FIR",
       "owner": [
         "MLI",
-        "QR",
         "QD",
+        "QR",
         "RCN",
         "18R",
         "24R",
@@ -3287,7 +3287,7 @@
       ],
       "sectors": [
         {
-          "max": 34,
+          "max": 44,
           "min": 0,
           "points": [
             [
@@ -3698,7 +3698,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -4236,7 +4236,7 @@
       "owner": [
         "21R",
         "10R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -4357,7 +4357,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -4660,7 +4660,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -5020,7 +5020,7 @@
       "owner": [
         "21R",
         "10R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -5174,7 +5174,7 @@
       "owner": [
         "GCH",
         "21R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -35244,7 +35244,7 @@
       "owner": [
         "21R",
         "10R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -39726,7 +39726,7 @@
       "group": "Polaris FIR",
       "owner": [
         "10R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -39811,7 +39811,7 @@
       "group": "Polaris FIR",
       "owner": [
         "10R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -39852,7 +39852,7 @@
       "group": "Polaris FIR",
       "owner": [
         "10R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -39950,7 +39950,7 @@
       "group": "Polaris FIR",
       "owner": [
         "10R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -40046,7 +40046,7 @@
       "id": "S16-LOWER1",
       "group": "Polaris FIR",
       "owner": [
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -40090,7 +40090,7 @@
       "id": "S16-LOWER2",
       "group": "Polaris FIR",
       "owner": [
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -40134,7 +40134,7 @@
       "id": "S16-TOP",
       "group": "Polaris FIR",
       "owner": [
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -40215,7 +40215,7 @@
       "id": "S16-UPPER",
       "group": "Polaris FIR",
       "owner": [
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -94678,7 +94678,7 @@
       "group": "Polaris FIR",
       "owner": [
         "21R",
-        "15R",
+        "16R",
         "17R",
         "9R",
         "NS",
@@ -95185,7 +95185,7 @@
         "ENGM"
       ],
       "type": "APP",
-      "frequency": "136.400",
+      "frequency": "136.405",
       "callsign": "Oslo Director"
     },
     "GER": {
@@ -95198,7 +95198,7 @@
         "ENGM"
       ],
       "type": "APP",
-      "frequency": "118.475",
+      "frequency": "118.480",
       "callsign": "Oslo Approach"
     },
     "B": {
@@ -95211,7 +95211,7 @@
         "ENGM"
       ],
       "type": "TWR",
-      "frequency": "120.100",
+      "frequency": "120.105",
       "callsign": "Gardermoen Tower"
     },
     "FF": {
@@ -95224,7 +95224,7 @@
         "ENGM"
       ],
       "type": "APP",
-      "frequency": "128.900",
+      "frequency": "128.905",
       "callsign": "Oslo Final"
     },
     "GWR": {
@@ -95237,7 +95237,7 @@
         "ENGM"
       ],
       "type": "APP",
-      "frequency": "120.450",
+      "frequency": "120.455",
       "callsign": "Oslo Approach"
     },
     "A": {
@@ -95250,7 +95250,7 @@
         "ENGM"
       ],
       "type": "TWR",
-      "frequency": "118.300",
+      "frequency": "118.305",
       "callsign": "Gardermoen Tower"
     },
     "HDT": {
@@ -95263,7 +95263,7 @@
         "ENHD"
       ],
       "type": "TWR",
-      "frequency": "120.500",
+      "frequency": "120.505",
       "callsign": "Karmøy Tower"
     },
     "HFI": {
@@ -95458,7 +95458,7 @@
         "ENNO"
       ],
       "type": "TWR",
-      "frequency": "118.800",
+      "frequency": "118.805",
       "callsign": "Notodden Information"
     },
     "R6": {
@@ -95562,7 +95562,7 @@
         "ENOS"
       ],
       "type": "CTR",
-      "frequency": "118.825",
+      "frequency": "118.830",
       "callsign": "Polaris Control"
     },
     "2R": {
@@ -95575,7 +95575,7 @@
         "ENOS"
       ],
       "type": "CTR",
-      "frequency": "126.625",
+      "frequency": "126.630",
       "callsign": "Polaris Control"
     },
     "3R": {
@@ -95588,7 +95588,7 @@
         "ENOS"
       ],
       "type": "CTR",
-      "frequency": "125.050",
+      "frequency": "125.055",
       "callsign": "Polaris Control"
     },
     "4R": {
@@ -95601,7 +95601,7 @@
         "ENOS"
       ],
       "type": "CTR",
-      "frequency": "118.875",
+      "frequency": "118.880",
       "callsign": "Polaris Control"
     },
     "7R": {
@@ -95614,7 +95614,7 @@
         "ENOS"
       ],
       "type": "CTR",
-      "frequency": "124.775",
+      "frequency": "124.780",
       "callsign": "Polaris Control"
     },
     "8R": {
@@ -95627,7 +95627,7 @@
         "ENOS"
       ],
       "type": "CTR",
-      "frequency": "134.350",
+      "frequency": "134.355",
       "callsign": "Polaris Control"
     },
     "5R": {
@@ -95640,7 +95640,7 @@
         "ENOS"
       ],
       "type": "CTR",
-      "frequency": "127.250",
+      "frequency": "127.255",
       "callsign": "Polaris Control"
     },
     "6R": {
@@ -95653,7 +95653,7 @@
         "ENOS"
       ],
       "type": "CTR",
-      "frequency": "120.375",
+      "frequency": "120.380",
       "callsign": "Polaris Control"
     },
     "OVI": {
@@ -95757,7 +95757,7 @@
         "ENRY"
       ],
       "type": "TWR",
-      "frequency": "119.500",
+      "frequency": "119.505",
       "callsign": "Rygge Tower"
     },
     "SBI": {
@@ -95887,10 +95887,10 @@
         "ENSV"
       ],
       "type": "CTR",
-      "frequency": "124.575",
+      "frequency": "124.580",
       "callsign": "Polaris Control"
     },
-    "15R": {
+    "16R": {
       "colours": [
         {
           "hex": "#fcbd28"
@@ -95900,7 +95900,7 @@
         "ENSV"
       ],
       "type": "CTR",
-      "frequency": "135.675",
+      "frequency": "135.680",
       "callsign": "Polaris Control"
     },
     "9R": {
@@ -95913,7 +95913,7 @@
         "ENSV"
       ],
       "type": "CTR",
-      "frequency": "120.650",
+      "frequency": "120.655",
       "callsign": "Polaris Control"
     },
     "13R": {
@@ -95926,7 +95926,7 @@
         "ENSV"
       ],
       "type": "CTR",
-      "frequency": "134.925",
+      "frequency": "134.930",
       "callsign": "Polaris Control"
     },
     "17R": {
@@ -95939,7 +95939,7 @@
         "ENSV"
       ],
       "type": "CTR",
-      "frequency": "124.700",
+      "frequency": "124.705",
       "callsign": "Polaris Control"
     },
     "21R": {
@@ -95952,7 +95952,7 @@
         "ENSV"
       ],
       "type": "CTR",
-      "frequency": "134.200",
+      "frequency": "134.205",
       "callsign": "Polaris Control (Offshore)"
     },
     "10R": {
@@ -95965,7 +95965,7 @@
         "ENSV"
       ],
       "type": "CTR",
-      "frequency": "136.275",
+      "frequency": "136.280",
       "callsign": "Polaris Control"
     },
     "TC": {
@@ -96004,7 +96004,7 @@
         "ENTO"
       ],
       "type": "APP",
-      "frequency": "134.050",
+      "frequency": "134.055",
       "callsign": "Farris Approach"
     },
     "FER": {
@@ -96017,7 +96017,7 @@
         "ENTO"
       ],
       "type": "APP",
-      "frequency": "124.350",
+      "frequency": "124.355",
       "callsign": "Farris Approach"
     },
     "TOT": {
@@ -96030,7 +96030,7 @@
         "ENTO"
       ],
       "type": "TWR",
-      "frequency": "118.650",
+      "frequency": "118.655",
       "callsign": "Torp Tower"
     },
     "CR": {
@@ -96095,7 +96095,7 @@
         "ENZV"
       ],
       "type": "APP",
-      "frequency": "119.600",
+      "frequency": "119.605",
       "callsign": "Sola Approach"
     },
     "ZER": {
@@ -96108,7 +96108,7 @@
         "ENZV"
       ],
       "type": "APP",
-      "frequency": "119.400",
+      "frequency": "119.405",
       "callsign": "Sola Arrival"
     },
     "ZVT": {
@@ -96121,7 +96121,7 @@
         "ENZV"
       ],
       "type": "TWR",
-      "frequency": "118.350",
+      "frequency": "118.355",
       "callsign": "Sola Tower"
     }
   },
@@ -96932,6 +96932,13 @@
       "coord": [
         60.379867,
         5.346088
+      ]
+    },
+    "ENBH": {
+      "callsign": "Bergen/Haakonsven (Heliport)",
+      "coord": [
+        60.336563611111,
+        5.2278811111111
       ]
     },
     "ENBI": {
@@ -97862,6 +97869,13 @@
         1.743333
       ]
     },
+    "ENWH": {
+      "callsign": "Hod B (Offshore Helideck)",
+      "coord": [
+        56.180277777778,
+        3.4636111111111
+      ]
+    },
     "ENWI": {
       "callsign": "Ivar Aasen (Offshore Helideck)",
       "coord": [
@@ -97874,13 +97888,6 @@
       "coord": [
         58.571389,
         1.695278
-      ]
-    },
-    "ENWR": {
-      "callsign": "Randgrid (Offshore Helideck)",
-      "coord": [
-        58.583333,
-        1.732778
       ]
     },
     "ENWS": {
