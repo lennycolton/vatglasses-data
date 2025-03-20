@@ -1163,6 +1163,25 @@
             ]
         }
     },
+    "callsigns": {
+        "DEL": {
+            "": "Delivery",
+            "P": "Planner"
+        },
+        "GND": {
+            "": "Ground",
+            "P": "Planner"
+        },
+        "TWR": {
+            "": "Tower",
+            "H": "Kopter",
+            "I": "Information",
+            "R": "Radio"
+        },
+        "APP": {
+            "": "Radar"
+        }
+    },
     "airports": {
         "OOAD": {
             "callsign": "Adam",

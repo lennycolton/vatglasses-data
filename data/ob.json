@@ -1349,9 +1349,28 @@
             ]
         }
     },
+    "callsigns": {
+        "DEL": {
+            "": "Delivery",
+            "P": "Planner"
+        },
+        "GND": {
+            "": "Ground",
+            "P": "Planner"
+        },
+        "TWR": {
+            "": "Tower",
+            "H": "Kopter",
+            "I": "Information",
+            "R": "Radio"
+        },
+        "APP": {
+            "": "Approach"
+        }
+    },
     "airports": {
         "OBBI": {
-            "callsign": "Bahrain Intl",
+            "callsign": "Bahrain",
             "coord": [
                 26.270833,
                 50.633611

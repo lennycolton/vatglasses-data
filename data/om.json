@@ -3582,9 +3582,6 @@
         },
         "DEP": {
             "": "Departures"
-        },
-        "CTR": {
-            "": "Radar"
         }
     },
     "airports": {
