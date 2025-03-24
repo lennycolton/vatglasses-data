@@ -4370,6 +4370,11 @@
       }
     },
     "airports": {
+      "K10U": {
+        "callsign": "Owyhee",
+        "coord": ["41.950642", "-116.183435"],
+        "pre": ["10U"]
+      },    
       "KAFO": {
         "callsign": "Afton Muni",
         "coord": ["42.708778", "-110.942167"],
