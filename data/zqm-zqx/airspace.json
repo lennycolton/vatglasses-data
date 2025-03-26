@@ -1,6 +1,6 @@
 {
     "airspace": {
-        "QBZWY": {
+        "BZWY": {
             "id": "Cape Breton",
             "comment":"KZWY Delegation",
             "group": "CZQM",
@@ -30,7 +30,7 @@
                 }
             ]
         },
-        "QB": {
+        "B": {
             "id": "Cape Breton",
             "group": "CZQM",
             "sectors": [
@@ -131,7 +131,7 @@
                 }
             ]
         },
-        "QC": {
+        "C": {
             "id": "Charlo",
             "group": "CZQM",
             "sectors": [
@@ -245,7 +245,7 @@
                 }
             ]
         },
-        "QCLO": {
+        "CLO": {
             "id": "Charlo Low (No Control)",
             "group": "CZQM",
             "sectors": [
@@ -326,7 +326,7 @@
                 }
             ]
         },
-        "QD": {
+        "D": {
             "id": "Digby",
             "group": "CZQM",
             "sectors": [
@@ -412,7 +412,7 @@
                 }
             ]
         },
-        "QDZWY": {
+        "DZWY": {
             "id": "Digby",
             "group": "CZQM",
             "comment": "KZWY Delegation",
@@ -433,8 +433,7 @@
                 }
             ]
         },
-
-        "QLE": {
+        "LE": {
             "id": "Low East",
             "group": "CZQX",
             "sectors": [
@@ -653,7 +652,7 @@
                 }
             ]
         },
-        "QLEZWY": {
+        "LEZWY": {
             "id": "Low East",
             "comment": "KZWY Delegation",
             "group": "CZQX",
@@ -682,7 +681,7 @@
                 }
             ]
         },
-        "QLN": {
+        "LN": {
             "id": "Low North",
             "group": "CZQX",
             "sectors": [
@@ -853,7 +852,7 @@
                 }
             ]
         },
-        "QLW": {
+        "LW": {
             "id": "Low West",
             "group": "CZQX",
             "sectors": [
