@@ -4370,6 +4370,26 @@
       }
     },
     "airports": {
+      "K10U": {
+        "callsign": "Owyhee",
+        "coord": ["41.950642", "-116.183435"],
+        "pre": ["10U"]
+      },   
+      "K26U": {
+        "callsign": "Mc Dermitt State",
+        "coord": ["42.006940", "-117.727456"],
+        "pre": ["26U"]
+      },    
+      "K3U0": {
+        "callsign": "Murphy Hot Springs-Three Creek",
+        "coord": ["42.024816", "-115.334340"],
+        "pre": ["3U0"]
+      },    
+      "K9S5": {
+        "callsign": "Three Forks",
+        "coord": ["45.879627", "-111.567516"],
+        "pre": ["9S5"]
+      },      
       "KAFO": {
         "callsign": "Afton Muni",
         "coord": ["42.708778", "-110.942167"],
@@ -4570,6 +4590,7 @@
         "callsign": "Malmstrom AFB MT",
         "coord": ["47.5", "-111.18306"],
         "pre": ["GFA"]
+          
       },
       "KGGW": {
         "callsign": "Glasgow Intl MT",
@@ -4854,7 +4875,7 @@
         "pre": ["SPK"]
       },
       "KSUN": {
-        "callsign": "Hailey",
+        "callsign": "Hailey-Sun Valley-Friedman Meml",
         "coord": ["43.50485", "-114.296603"],
         "pre": ["SUN"]
       },
@@ -4874,7 +4895,7 @@
         "pre": ["TVY"]
       },
       "KTWF": {
-        "callsign": "Twin Falls",
+        "callsign": "Twin Falls-Joslin-Magic Valley Regl",
         "coord": ["42.481803", "-114.487736"],
         "pre": ["TWF"]
       },
@@ -4908,10 +4929,20 @@
         "coord": ["39.5", "-117.08306"],
         "pre": ["U31"]
       },
+      "KU42": {
+        "callsign": "South Valley Regl",
+        "coord": ["40.620225", "-111.993053"],
+        "pre": ["U42"]
+      },    
       "KU67": {
-        "callsign": "Roosevelt Ut UT",
+        "callsign": "Roosevelt UT",
         "coord": ["40.29972", "-109.98306"],
         "pre": ["U67"]
+      },
+      "KU69": {
+        "callsign": "Duchesne Muni",
+        "coord": ["40.193040", "-110.384289"],
+        "pre": ["U69"]
       },
       "KU71": {
         "callsign": "Vernal UT",
@@ -4928,6 +4959,11 @@
         "coord": ["42.64972", "-111.58306"],
         "pre": ["U78"]
       },
+      "KU91": {
+        "callsign": "Grasmere",
+        "coord": ["42.373017", "-115.880686"],
+        "pre": ["U91"]
+      },    
       "KVEL": {
         "callsign": "Vernal UT",
         "coord": ["40.440903", "-109.509919"],
