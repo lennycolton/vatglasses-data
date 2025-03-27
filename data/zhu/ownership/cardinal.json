@@ -1,6 +1,6 @@
 {
-    "name": "<b>Default</b>",
-    "description": "No specified enroute splits.",
+    "name": "<b>N/S/E/W</b>",
+    "description": "Cardinal direction-based enroute split.",
     "airspace": {
         "23": [ "23", "43", "46" ],
         "24": [ "24", "27", "38", "46" ],
@@ -74,8 +74,8 @@
         "KCRP": { "default": true, "sector": "CRP" },
         "KDLF": { "default": true, "sector": "DLF" },
         "KGPT": { "default": true, "sector": "GPT" },
-        "KHOU": { "default": true, "sector": "I90" },
-        "KIAH": { "default": true, "sector": "I90" },
+        "KHOU": { "default": true, "sector": "I1D" },
+        "KIAH": { "default": true, "sector": "I1D" },
         "KLCH": { "default": true, "sector": "LCH" },
         "KLFT": { "default": true, "sector": "LFT" },
         "KMOB": { "default": true, "sector": "MOB" },
