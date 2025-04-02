@@ -521,7 +521,7 @@
           "callsign": "Bozeman Tower",
           "frequency": "118.200",
           "pre": ["BZN"],
-          "type": "APP",
+          "type": "TWR",
           "colours": [
             {
               "hex": "#59ff00"
@@ -568,7 +568,7 @@
           "type": "APP",
           "colours": [
             {
-              "hex": "#d10069"
+              "hex": "#faff00"
             }
           ]
         },
