@@ -416,19 +416,6 @@
                 }
             ]
         },
-        "XA": {
-            "callsign": "Gander Centre",
-            "frequency": "132.300",
-            "type": "CTR",
-            "pre": [
-                "CZQX"
-            ],
-            "colours": [
-                {
-                    "hex": "#2e8c00"
-                }
-            ]
-        },
         "X1": {
             "callsign": "Gander Centre",
             "frequency": "132.300",
@@ -439,19 +426,6 @@
             "colours": [
                 {
                     "hex": "#618c00"
-                }
-            ]
-        },
-        "XB": {
-            "callsign": "Gander Centre",
-            "frequency": "133.000",
-            "type": "CTR",
-            "pre": [
-                "CZQX"
-            ],
-            "colours": [
-                {
-                    "hex": "#ee8c00"
                 }
             ]
         },
@@ -468,19 +442,6 @@
                 }
             ]
         },
-        "XC": {
-            "callsign": "Gander Centre",
-            "frequency": "125.075",
-            "type": "CTR",
-            "pre": [
-                "CZQX"
-            ],
-            "colours": [
-                {
-                    "hex": "#5b8c00"
-                }
-            ]
-        },
         "X3": {
             "callsign": "Gander Centre",
             "frequency": "125.075",
@@ -491,19 +452,6 @@
             "colours": [
                 {
                     "hex": "#d08c00"
-                }
-            ]
-        },
-        "XD": {
-            "callsign": "Gander Centre",
-            "frequency": "128.175",
-            "type": "CTR",
-            "pre": [
-                "CZQX"
-            ],
-            "colours": [
-                {
-                    "hex": "#878c00"
                 }
             ]
         },
@@ -520,19 +468,6 @@
                 }
             ]
         },
-        "XE": {
-            "callsign": "Gander Centre",
-            "frequency": "132.050",
-            "type": "CTR",
-            "pre": [
-                "CZQX"
-            ],
-            "colours": [
-                {
-                    "hex": "#958c00"
-                }
-            ]
-        },
         "X5": {
             "callsign": "Gander Centre",
             "frequency": "132.050",
@@ -543,19 +478,6 @@
             "colours": [
                 {
                     "hex": "#f98c00"
-                }
-            ]
-        },
-        "XF": {
-            "callsign": "Gander Centre",
-            "frequency": "119.850",
-            "type": "CTR",
-            "pre": [
-                "CZQX"
-            ],
-            "colours": [
-                {
-                    "hex": "#188c00"
                 }
             ]
         },

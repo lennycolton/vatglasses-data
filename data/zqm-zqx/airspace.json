@@ -2416,8 +2416,8 @@
                 }
             ]
         },
-        "URTAK-UNK": {
-            "id": "URTAK-UNK",
+        "TOXIT": {
+            "id": "TOXIT",
             "group": "CZQX",
             "sectors": [
                 {
@@ -2436,8 +2436,8 @@
                 }
             ]
         },
-        "URTAK-UNKZQO": {
-            "id": "URTAK-UNK",
+        "TOXITZQO": {
+            "id": "TOXIT",
             "group": "CZQX",
             "sectors": [
                 {
