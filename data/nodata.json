@@ -1967,23 +1967,6 @@
             ]
         },
         {
-            "id": "Port Vila",
-            "group": "FIR",
-            "owner": ["NVVV"],
-            "sectors": [
-                {
-                    "max": 245,
-                    "points": [
-                        ["-140000","1630000"],
-                        ["-210000","1703000"],
-                        ["-130000","1703000"],
-                        ["-130001","1644539"],
-                        ["-140000","1630000"]
-                    ]
-                }
-            ]
-        },
-        {
             "id": "Tahiti",
             "group": "FIR",
             "owner": ["NTTC"],
@@ -11191,7 +11174,6 @@
         "LLSC": { "colours": [{ "hex": "#888888" }], "pre": ["LLSC"], "type": "CTR", "callsign": "Tel Aviv Control" },
         "MTEG": { "colours": [{ "hex": "#888888" }], "pre": ["MTEG"], "type": "CTR", "callsign": "Port-au-Prince Center" },
         "NFFN": { "colours": [{ "hex": "#888888" }], "pre": ["NFFN"], "type": "CTR", "callsign": "Nadi Centre" },
-        "NVVV": { "colours": [{ "hex": "#888888" }], "pre": ["NVVV"], "type": "CTR", "callsign": "Vila Centre" },
         "NTTC": { "colours": [{ "hex": "#888888" }], "pre": ["NTTC"], "type": "CTR", "callsign": "Tahiti Control" },
         "NCRG": { "colours": [{ "hex": "#888888" }], "pre": ["NCRG"], "type": "CTR", "callsign": "Rarotonga Control" },
         "NSFA": { "colours": [{ "hex": "#888888" }], "pre": ["NSFA"], "type": "CTR", "callsign": "Faleolo Control" },
@@ -13681,34 +13663,6 @@
         "NTTW": { "callsign": "Tetiaroa", "coord": ["-17.015752","-149.588814"] },
         "NTTX": { "callsign": "Mururoa", "coord": ["-21.81667","-138.8"] },
         "NTUV": { "callsign": "Vahitahi", "coord": ["-18.781167","-138.856333"] },
-        "NVSA": { "callsign": "Mota Lava", "coord": ["-13.666","167.712"] },
-        "NVSC": { "callsign": "Sola Vanua Lava", "coord": ["-13.84972","167.55"] },
-        "NVSD": { "callsign": "Torres", "coord": ["-13.327667","166.637667"] },
-        "NVSE": { "callsign": "Emae", "coord": ["-17.097","168.335333"] },
-        "NVSF": { "callsign": "Craig Cove", "coord": ["-16.2","167.5"] },
-        "NVSG": { "callsign": "Longana", "coord": ["-15.316667","167.96666"] },
-        "NVSH": { "callsign": "Sara", "coord": ["-15.470833","168.152222"] },
-        "NVSL": { "callsign": "Lamap Malekula", "coord": ["-16.41667","167.8"] },
-        "NVSM": { "callsign": "Lamen Bay", "coord": ["-16.586794","168.160406"] },
-        "NVSN": { "callsign": "Maewo", "coord": ["-14.996747","168.080797"] },
-        "NVSO": { "callsign": "Lonorore", "coord": ["-15.865556","168.171944"] },
-        "NVSP": { "callsign": "Norsup", "coord": ["-16.078","167.399667"] },
-        "NVSQ": { "callsign": "Gaua", "coord": ["-14.219667","167.588"] },
-        "NVSR": { "callsign": "Redcliffe", "coord": ["-15.471663","167.835556"] },
-        "NVSS": { "callsign": "Pekoa Santo", "coord": ["-15.50565","167.221275"] },
-        "NVST": { "callsign": "Tongoa Island", "coord": ["-16.891111","168.551389"] },
-        "NVSU": { "callsign": "Ulei", "coord": ["-16.333","168.283"] },
-        "NVSV": { "callsign": "Valesdir", "coord": ["-16.796111","168.176944"] },
-        "NVSW": { "callsign": "Walaha", "coord": ["-15.412","168.691"] },
-        "NVSX": { "callsign": "Southwest Bay", "coord": ["-16.495","167.438"] },
-        "NVSZ": { "callsign": "North West Santo", "coord": ["-14.881667","166.558056"] },
-        "NVVA": { "callsign": "Anelghowhat", "coord": ["-20.249167","169.771389"] },
-        "NVVB": { "callsign": "Aniwa", "coord": ["-19.24","169.605"] },
-        "NVVD": { "callsign": "Dillon's Bay", "coord": ["-18.769444","169.001389"] },
-        "NVVF": { "callsign": "Futuna Island", "coord": ["-19.516389","170.231944"] },
-        "NVVI": { "callsign": "Ipota", "coord": ["-18.856333","169.283"] },
-        "NVVV": { "callsign": "Bauerfield Efate", "coord": ["-17.703889","168.312222"] },
-        "NVVW": { "callsign": "Tanna", "coord": ["-19.459667","169.2255"] },
         "OABN": { "callsign": "Bamyan", "coord": ["34.81","67.8205"] },
         "OABT": { "callsign": "Bost", "coord": ["31.56","64.365"] },
         "OACC": { "callsign": "Chakhcharan", "coord": ["34.526333","65.270833"] },
