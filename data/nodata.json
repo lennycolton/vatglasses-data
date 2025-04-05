@@ -2149,26 +2149,6 @@
             ]
         },
         {
-            "id": "Noumea",
-            "group": "FIR",
-            "owner": ["NWWW"],
-            "sectors": [
-                {
-                    "max": 245,
-                    "points": [
-                        ["-140000","1611500"],
-                        ["-165817","1623944"],
-                        ["-174000","1630000"],
-                        ["-240000","1630000"],
-                        ["-240000","1703000"],
-                        ["-210000","1703000"],
-                        ["-140000","1630000"],
-                        ["-140000","1611500"]
-                    ]
-                }
-            ]
-        },
-        {
             "id": "Kabul",
             "group": "FIR",
             "owner": ["OAKX", "fss/ASIAW"],
@@ -11215,7 +11195,6 @@
         "NTTC": { "colours": [{ "hex": "#888888" }], "pre": ["NTTC"], "type": "CTR", "callsign": "Tahiti Control" },
         "NCRG": { "colours": [{ "hex": "#888888" }], "pre": ["NCRG"], "type": "CTR", "callsign": "Rarotonga Control" },
         "NSFA": { "colours": [{ "hex": "#888888" }], "pre": ["NSFA"], "type": "CTR", "callsign": "Faleolo Control" },
-        "NWWW": { "colours": [{ "hex": "#888888" }], "pre": ["NWWW"], "type": "CTR", "callsign": "Tontouta Control" },
         "OAKX": { "colours": [{ "hex": "#888888" }], "pre": ["OAKX"], "type": "CTR", "callsign": "Kabul Center" },
         "OEJD": { "colours": [{ "hex": "#888888" }], "pre": ["OEJD"], "type": "CTR", "callsign": "Jeddah Control" },
         "OERD": { "colours": [{ "hex": "#888888" }], "pre": ["OERD"], "type": "CTR", "callsign": "Riyadh Control" },
@@ -13730,24 +13709,6 @@
         "NVVI": { "callsign": "Ipota", "coord": ["-18.856333","169.283"] },
         "NVVV": { "callsign": "Bauerfield Efate", "coord": ["-17.703889","168.312222"] },
         "NVVW": { "callsign": "Tanna", "coord": ["-19.459667","169.2255"] },
-        "NWWA": { "callsign": "Tiga", "coord": ["-21.096","167.803833"] },
-        "NWWB": { "callsign": "Bourail Poe", "coord": ["-21.609722","165.397778"] },
-        "NWWC": { "callsign": "Wala", "coord": ["-19.721167","163.6635"] },
-        "NWWD": { "callsign": "Kone", "coord": ["-21.054333","164.837"] },
-        "NWWE": { "callsign": "Moue Ile Des Pins", "coord": ["-22.6","167.44972"] },
-        "NWWH": { "callsign": "Houailou", "coord": ["-21.259667","165.620167"] },
-        "NWWK": { "callsign": "Koumac Nlle-Caledonie", "coord": ["-20.56667","164.28306"] },
-        "NWWL": { "callsign": "Ouanaham Ile Lifou", "coord": ["-20.76667","167.23306"] },
-        "NWWM": { "callsign": "Noumea Magenta", "coord": ["-22.258333","166.472833"] },
-        "NWWO": { "callsign": "Ile Ouen-Edmond Cane", "coord": ["-22.463888","166.78305"] },
-        "NWWP": { "callsign": "Poum Malabou", "coord": ["-20.289167","164.099333"] },
-        "NWWQ": { "callsign": "Nickel", "coord": ["-21.316668","165"] },
-        "NWWR": { "callsign": "La Roche Ile Mare", "coord": ["-21.48306","168.03306"] },
-        "NWWT": { "callsign": "La Foa Oua Tom", "coord": ["-21.819722","165.860833"] },
-        "NWWU": { "callsign": "Touho", "coord": ["-20.79","166.2595"] },
-        "NWWV": { "callsign": "Ouloup Ile Ouvea", "coord": ["-20.64972","166.58306"] },
-        "NWWW": { "callsign": "La Tontouta Nlle-Caledonie", "coord": ["-22.016389","166.216111"] },
-        "NWWX": { "callsign": "Canala", "coord": ["-21.522833","165.975667"] },
         "OABN": { "callsign": "Bamyan", "coord": ["34.81","67.8205"] },
         "OABT": { "callsign": "Bost", "coord": ["31.56","64.365"] },
         "OACC": { "callsign": "Chakhcharan", "coord": ["34.526333","65.270833"] },

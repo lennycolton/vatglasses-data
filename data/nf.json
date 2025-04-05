@@ -127,29 +127,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "Upper (Class A)",
-      "group": "NWWW",
-      "owner": [
-        "NWWW",
-        "NFFF"
-      ],
-      "sectors": [
-        {
-          "min": 245,
-          "points": [
-            ["-140000","1611500"],
-            ["-165817","1623944"],
-            ["-174000","1630000"],
-            ["-240000","1630000"],
-            ["-240000","1703000"],
-            ["-210000","1703000"],
-            ["-140000","1630000"],
-            ["-140000","1611500"]
-          ]
-        }
-      ]
     }
   ],
   "groups": {
@@ -159,10 +136,6 @@
     },
     "NVVV": {
       "name": "Port Vila",
-      "colour": "#ffffff"
-    },
-    "NWWW": {
-      "name": "Noumea",
       "colour": "#ffffff"
     },
     "APP": {
@@ -177,8 +150,7 @@
   "positions": {
     "NFFF": { "colours": [{ "hex": "#9e039e" }], "pre": [ "NFFF" ], "type": "FSS","frequency": "123.600","callsign": "Nadi Radio" },
     "NFFN": { "colours": [{ "hex": "#f002f0" }], "pre": [ "NFFN" ], "type": "CTR","frequency": "120.900","callsign": "Nadi Centre" },
-    "NVVV": { "colours": [{ "hex": "#e34b29" }], "pre": [ "NVVV" ], "type": "CTR","frequency": "120.700","callsign": "Vila Centre" },
-    "NWWW": { "colours": [{ "hex": "#702716" }], "pre": [ "NWWW" ], "type": "CTR","frequency": "128.200","callsign": "Tontoua Control" }
+    "NVVV": { "colours": [{ "hex": "#e34b29" }], "pre": [ "NVVV" ], "type": "CTR","frequency": "120.700","callsign": "Vila Centre" }
   },
   "callsigns": {
     "DEL": {
