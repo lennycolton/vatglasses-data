@@ -6657,7 +6657,7 @@
   "airports": {
       "LGAD": { "callsign": "Andravida", "coord": [37.925278, 21.291389], "topdown": ["AC11", "AC7", "AC6", "AC1"] },
       "LGAL": { "callsign": "Alexandroupolis", "coord": [40.856667, 25.956667], "topdown": ["AC14", "AC4", "AC1"]  },
-      "LGAV": { "callsign": "Athens-Venizelos", "coord": [37.9367, 23.9445], "runways": ["03", "21"], "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
+      "LGAV": { "callsign": "Venizelos", "coord": [37.9367, 23.9445], "runways": ["03", "21"], "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
       "LGAX": { "callsign": "Alexandria", "coord": [39.220556, 22.795833], "topdown": ["TAX", "SKG", "AC4", "AC1"] },
       "LGBL": { "callsign": "Nea Anghialos", "coord": [39.220556, 22.795833], "topdown": ["AC4", "AC1"] },
       "LGEL": { "callsign": "Elefsis", "coord": [38.069444, 23.554167],"default": false, "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
@@ -6688,7 +6688,7 @@
       "LGRP": { "callsign": "Rhodes", "coord": [36.405556, 28.086944], "topdown": ["AC2", "AC1"] },
       "LGRX": { "callsign": "Araxos", "coord": [38.15, 21.416667],"default": false, "topdown": ["AAD", "AC11", "AC7", "AC6", "AC1"] },
       "LGSA": { "callsign": "Chania", "coord": [35.532222, 24.151667], "topdown": ["AC5", "AC2", "AC1"] },
-      "LGSD": { "callsign": "Thessaloniki-Sedes", "coord": [40.53333, 23.03333], "default": false, "topdown": ["SKG", "AC10", "AC4", "AC1"] },
+      "LGSD": { "callsign": "Sedes", "coord": [40.53333, 23.03333], "default": false, "topdown": ["SKG", "AC10", "AC4", "AC1"] },
       "LGSK": { "callsign": "Skiathos", "coord": [39.178333, 23.504167], "topdown": ["AC4", "AC1"] },
       "LGSM": { "callsign": "Samos", "coord": [37.690278, 26.912778], "topdown": ["AC2", "AC1"] },
       "LGSO": { "callsign": "Syros", "coord": [37.41, 24.95],"default": false, "topdown": ["DEP1", "ARR1", "ARR2", "AC5", "AC2", "AC1"] },
@@ -6696,7 +6696,7 @@
       "LGST": { "callsign": "Sitia", "coord": [35.22, 26.1], "default":false, "topdown": ["HER", "AC5", "AC2", "AC1"] },
       "LGSY": { "callsign": "Skiros", "coord": [38.96667, 24.48833], "topdown": ["AC4", "AC1"] },
       "LGTG": { "callsign": "Tanagra", "coord": [38.333333, 23.55], "topdown": ["AC4", "AC1"] },
-      "LGTS": {"callsign": "Thessaloniki-Makedonia", "coord": [40.519444, 22.973611], "topdown": ["AC4", "AC1"] },
+      "LGTS": { "callsign": "Thessaloniki", "coord": [40.519444, 22.973611], "topdown": ["AC4", "AC1"] },
       "LGTT": { "callsign": "Tatoi", "coord": [38.108333, 23.766667],"default": false, "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
       "LGZA": { "callsign": "Zakinthos", "coord": [37.752222, 20.884722], "default": false, "topdown": ["AAD", "AC11", "AC7", "AC6", "AC1"] }
   }
