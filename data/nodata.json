@@ -11228,7 +11228,7 @@
         "ORBB": { "colours": [{ "hex": "#888888" }], "pre": ["ORBB"], "type": "CTR", "callsign": "Baghdad Radar" },
         "OSTT": { "colours": [{ "hex": "#888888" }], "pre": ["OSTT"], "type": "CTR", "callsign": "Damascus Radar" },
         "OYSC": { "colours": [{ "hex": "#888888" }], "pre": ["OYSC"], "type": "CTR", "callsign": "Sana'a Radio" },
-        "RCAA": { "colours": [{ "hex": "#888888" }], "pre": ["RCAA"], "type": "CTR", "callsign": "Taipei Control" },
+        "RCAA": { "colours": [{ "hex": "#888888" }], "pre": ["TPE"], "type": "CTR", "callsign": "Taipei Control" },
         "RJCG": { "colours": [{ "hex": "#888888" }], "pre": ["RJCG"], "type": "CTR", "callsign": "Sapporo Control" },
         "RJBG": { "colours": [{ "hex": "#888888" }], "pre": ["RJBG"], "type": "CTR", "callsign": "Fukuoka Control" },
         "RJDG": { "colours": [{ "hex": "#888888" }], "pre": ["RJDG"], "type": "CTR", "callsign": "Fukuoka Control" },
