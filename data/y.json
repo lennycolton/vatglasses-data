@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-      "id": "Indian Ocean (Class A)",
+      "id": "Indian (Class A)",
       "group": "YMMO",
       "owner": [
         "IND"
@@ -523,15 +523,11 @@
       "colour": "#ffffff"
     },
     "YBBO": {
-      "name": "Brisbane Oceanic",
+      "name": "Brisbane",
       "colour": "#ffffff"
     },
     "YMMM": {
       "name": "Melbourne",
-      "colour": "#ffffff"
-    },
-    "YMMO": {
-      "name": "Melbourne Oceanic",
       "colour": "#ffffff"
     },
     "APP": {
@@ -546,7 +542,7 @@
   "positions": {
     "COL": { "colours": [{ "hex": "#56de37" }], "pre": [ "BN-COL" ], "type": "FSS","frequency": "133.150","callsign": "Brisbane Radio" },
     "FLD": { "colours": [{ "hex": "#56de37" }], "pre": [ "BN-FLD" ], "type": "FSS","frequency": "132.850","callsign": "Brisbane Radio" },
-    "HWE": { "colours": [{ "hex": "#56de37" }], "pre": [ "BN-HWE" ], "type": "FSS","frequency": "124.650","callsign": "Brisbane Radio" },
+    "HWE": { "colours": [{ "hex": "#56de37" }], "pre": [ "BN-HWE" ], "type": "FSS","frequency": "124.650","callsign": "Brisbane Centre" },
     "TSN": { "colours": [{ "hex": "#56de37" }], "pre": [ "BN-TSN" ], "type": "FSS","frequency": "124.650","callsign": "Brisbane Radio" },
     "IND": { "colours": [{ "hex": "#deaf23" }], "pre": [ "ML-IND" ], "type": "FSS","frequency": "129.250","callsign": "Brisbane Radio" },
     "INE": { "colours": [{ "hex": "#ded123" }], "pre": [ "ML-INE" ], "type": "FSS","frequency": "123.650","callsign": "Brisbane Radio" },
