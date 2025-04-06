@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-      "id": "Centro Sur",
+      "id": "South",
       "group": "SACF",
       "owner": ["COS","COR","fss/SAMS"],
       "sectors": [
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "id": "Centro Sur",
+      "id": "South",
       "group": "SACF",
       "owner": ["COS","COR"],
       "sectors": [
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "id": "Centro Norte",
+      "id": "North",
       "group": "SACF",
       "owner": ["CON","COR","fss/SAMS"],
       "sectors": [
@@ -1458,7 +1458,7 @@
       ]
     },
     {
-      "id": "Centro Norte",
+      "id": "North",
       "group": "SACF",
       "owner": ["CON","COR"],
       "sectors": [
@@ -3229,7 +3229,7 @@
       ]
     },
     {
-      "id": "Centro Sur",
+      "id": "South",
       "group": "SAEF",
       "owner": ["EZS","EZC","fss/SAMS"],
       "sectors": [
@@ -3463,7 +3463,7 @@
       ]
     },
     {
-      "id": "Centro Sur",
+      "id": "South",
       "group": "SAEF",
       "owner": ["EZS","EZC"],
       "sectors": [
@@ -3697,7 +3697,7 @@
       ]
     },
     {
-      "id": "Centro Norte",
+      "id": "North",
       "group": "SAEF",
       "owner": ["EZN","EZC","fss/SAMS"],
       "sectors": [
@@ -3905,7 +3905,7 @@
       ]
     },
     {
-      "id": "Centro Norte",
+      "id": "North",
       "group": "SAEF",
       "owner": ["EZN","EZC"],
       "sectors": [
@@ -5488,7 +5488,7 @@
       ]
     },
     {
-      "id": "Centro",
+      "id": "Center",
       "group": "SAMF",
       "owner": ["MEC", "fss/SAMS"],
       "sectors": [
@@ -6165,7 +6165,7 @@
       ]
     },
     {
-      "id": "Centro",
+      "id": "Center",
       "group": "SAMF",
       "owner": ["MEC"],
       "sectors": [
@@ -7290,7 +7290,7 @@
       ]
     },
     {
-      "id": "Centro",
+      "id": "Center",
       "group": "SARR",
       "owner": ["REC", "fss/SAMS"],
       "sectors": [
@@ -7745,7 +7745,7 @@
       ]
     },
     {
-      "id": "Centro",
+      "id": "Center",
       "group": "SARR",
       "owner": ["REC"],
       "sectors": [
@@ -8813,7 +8813,7 @@
       ]
     },
     {
-      "id": "Centro Norte",
+      "id": "North",
       "group": "SAVF",
       "owner": ["CMN","CMC","fss/SAMS"],
       "sectors": [
@@ -9078,7 +9078,7 @@
       ]
     },
     {
-      "id": "Centro Norte",
+      "id": "North",
       "group": "SAVF",
       "owner": ["CMN","CMC"],
       "sectors": [
@@ -9343,7 +9343,7 @@
       ]
     },
     {
-      "id": "Centro Sur",
+      "id": "South",
       "group": "SAVF",
       "owner": ["CMS","CMC","fss/SAMS"],
       "sectors": [
@@ -9766,7 +9766,7 @@
       ]
     },
     {
-      "id": "Centro Sur",
+      "id": "South",
       "group": "SAVF",
       "owner": ["CMS","CMC"],
       "sectors": [
@@ -10941,28 +10941,28 @@
 
       "positions": {
         "COR": {
-          "callsign": "Cordoba Centro",
+          "callsign": "Cordoba Center",
           "frequency": "128.800",
           "type": "CTR",
           "pre": ["SACF"],
           "colours": [{ "online": "CON", "hex": "#428c00" }, { "hex": "#f58c00" }]
         },
         "CON": {
-          "callsign": "Cordoba Centro",
+          "callsign": "Cordoba Center",
           "frequency": "125.100",
           "type": "CTR",
           "pre": ["SACF"],
           "colours": [{ "hex": "#f18c00" }]
         },
         "COS": {
-          "callsign": "Cordoba Centro",
+          "callsign": "Cordoba Center",
           "frequency": "126.500",
           "type": "CTR",
           "pre": ["SACF"],
           "colours": [{ "hex": "#428c00" }]
         },
         "CET": {
-          "callsign": "Escuela Torre",
+          "callsign": "Escuela Tower",
           "frequency": "120.600",
           "type": "TWR",
           "pre": ["SACE"],
@@ -10976,7 +10976,7 @@
           "colours": [{ "hex": "#000020" }]
         },
         "COT": {
-          "callsign": "Cordoba Torre",
+          "callsign": "Cordoba Tower",
           "frequency": "118.300",
           "type": "TWR",
           "pre": ["SACO"],
@@ -10990,21 +10990,21 @@
           "colours": [{ "hex": "#000072" }]
         },
         "SGA": {
-          "callsign": "Santiago Torre",
+          "callsign": "Santiago Tower",
           "frequency": "118.700",
           "type": "APP",
           "pre": ["SANE"],
           "colours": [{ "hex": "#0000b3" }]
         },
         "LRA": {
-          "callsign": "La Rioja Torre",
+          "callsign": "La Rioja Tower",
           "frequency": "118.450",
           "type": "APP",
           "pre": ["SANL"],
           "colours": [{ "hex": "#0000e5" }]
         },
         "TET": {
-          "callsign": "Termas Torre",
+          "callsign": "Termas Tower",
           "frequency": "119.850",
           "type": "TWR",
           "pre": ["SANR"],
@@ -11018,7 +11018,7 @@
           "colours": [{ "hex": "#0000de" }]
         },
         "TUT": {
-          "callsign": "Tucuman Torre",
+          "callsign": "Tucuman Tower",
           "frequency": "119.500",
           "type": "TWR",
           "pre": ["SANT"],
@@ -11032,7 +11032,7 @@
           "colours": [{ "hex": "#0000a2" }]
         },
         "CLT": {
-          "callsign": "Conlara Torre",
+          "callsign": "Conlara Tower",
           "frequency": "119.950",
           "type": "APP",
           "pre": ["SAOS"],
@@ -11046,21 +11046,21 @@
           "colours": [{ "hex": "#0000fb" }]
         },
         "SAT": {
-          "callsign": "Salta Torre",
+          "callsign": "Salta Tower",
           "frequency": "128.850",
           "type": "TWR",
           "pre": ["SASA"],
           "colours": [{ "hex": "#009b00" }]
         },
         "JYT": {
-          "callsign": "Jujuy Torre",
+          "callsign": "Jujuy Tower",
           "frequency": "118.700",
           "type": "TWR",
           "pre": ["SASJ"],
           "colours": [{ "hex": "#002200" }]
         },
         "EZC": {
-          "callsign": "Ezeiza Centro",
+          "callsign": "Ezeiza Radar",
           "frequency": "134.500",
           "type": "CTR",
           "pre": ["SAEF"],
@@ -11074,14 +11074,14 @@
           "colours": [{ "hex": "#00e400" }]
         },
         "EZN": {
-          "callsign": "Ezeiza Centro",
+          "callsign": "Ezeiza Radar",
           "frequency": "135.500",
           "type": "CTR",
           "pre": ["SAEF"],
           "colours": [{ "hex": "#798c00" }]
         },
         "EZS": {
-          "callsign": "Ezeiza Centro",
+          "callsign": "Ezeiza Radar",
           "frequency": "125.200",
           "type": "CTR",
           "pre": ["SAEF"],
@@ -11095,21 +11095,21 @@
           "colours": [{ "hex": "#d48c00" }]
         },
         "CNT": {
-          "callsign": "Concordia Torre",
+          "callsign": "Concordia Tower",
           "frequency": "118.300",
           "type": "APP",
           "pre": ["SAAC"],
           "colours": [{ "hex": "#0000d8" }]
         },
         "GUA": {
-          "callsign": "Gualeguaychu Torre",
+          "callsign": "Gualeguaychu Tower",
           "frequency": "118.400",
           "type": "APP",
           "pre": ["SAAG"],
           "colours": [{ "hex": "#0000b2" }]
         },
         "PIT": {
-          "callsign": "Punta Indio Torre",
+          "callsign": "Punta Indio Tower",
           "frequency": "130.800",
           "type": "TWR",
           "pre": ["SAAI"],
@@ -11137,49 +11137,49 @@
           "colours": [{ "hex": "#00e100" }]
         },
         "AET": {
-          "callsign": "Aeroparque Torre",
+          "callsign": "Aeroparque Tower",
           "frequency": "118.850",
           "type": "TWR",
           "pre": ["SABE"],
           "colours": [{ "hex": "#00df00" }]
         },
         "SFT": {
-          "callsign": "Fernando Torre",
+          "callsign": "Fernando Tower",
           "frequency": "119.000",
           "type": "TWR",
           "pre": ["SADF"],
           "colours": [{ "hex": "#004700" }]
         },
         "MOT": {
-          "callsign": "Moreno Torre",
+          "callsign": "Moreno Tower",
           "frequency": "119.700",
           "type": "TWR",
           "pre": ["SADJ"],
           "colours": [{ "hex": "#000e00" }]
         },
         "PAI": {
-          "callsign": "La Plata Infomarción",
+          "callsign": "La Plata Information",
           "frequency": "119.300",
           "type": "TWR",
           "pre": ["SADL"],
           "colours": [{ "hex": "#00dc00" }]
         },
         "MNT": {
-          "callsign": "Moron Torre",
+          "callsign": "Moron Tower",
           "frequency": "118.500",
           "type": "TWR",
           "pre": ["SADM"],
           "colours": [{ "hex": "#007f00" }]
         },
         "PLT": {
-          "callsign": "Palomar Torre",
+          "callsign": "Palomar Tower",
           "frequency": "120.300",
           "type": "TWR",
           "pre": ["SADP"],
           "colours": [{ "hex": "#002b00" }]
         },
         "EZT": {
-          "callsign": "Ezeiza Torre",
+          "callsign": "Ezeiza Tower",
           "frequency": "118.600",
           "type": "TWR",
           "pre": ["SAEZ"],
@@ -11193,14 +11193,14 @@
           "colours": [{ "hex": "#000094" }]
         },
         "BBT": {
-          "callsign": "Bahia Blanca Torre",
+          "callsign": "Bahia Blanca Tower",
           "frequency": "119.150",
           "type": "TWR",
           "pre": ["SAZB"],
           "colours": [{ "hex": "#00ee00" }]
         },
         "GPA": {
-          "callsign": "Pico Torre",
+          "callsign": "Pico Tower",
           "frequency": "119.000",
           "type": "TWR",
           "pre": ["SAZG"],
@@ -11221,7 +11221,7 @@
           "colours": [{ "hex": "#0000c2" }]
         },
         "SOA": {
-          "callsign": "Santa Rosa Torre",
+          "callsign": "Santa Rosa Tower",
           "frequency": "118.300",
           "type": "APP",
           "pre": ["SAZR"],
@@ -11235,28 +11235,28 @@
           "colours": [{ "hex": "#000022" }]
         },
         "TAA": {
-          "callsign": "Tandil Torre",
+          "callsign": "Tandil Tower",
           "frequency": "120.900",
           "type": "APP",
           "pre": ["SAZT"],
           "colours": [{ "hex": "#0000ec" }]
         },
         "GET": {
-          "callsign": "Gesell Torre",
+          "callsign": "Gesell Tower",
           "frequency": "119.000",
           "type": "TWR",
           "pre": ["SAZV"],
           "colours": [{ "hex": "#004700" }]
         },
         "CHA": {
-          "callsign": "Chapelco Torre",
+          "callsign": "Chapelco Tower",
           "frequency": "119.600",
           "type": "APP",
           "pre": ["SAZY"],
           "colours": [{ "hex": "#00007e" }]
         },
         "MEC": {
-          "callsign": "Mendoza Centro",
+          "callsign": "Mendoza Center",
           "frequency": "126.600",
           "type": "CTR",
           "pre": ["SAMF"],
@@ -11270,21 +11270,21 @@
           "colours": [{ "hex": "#000042" }]
         },
         "MET": {
-          "callsign": "Mendoza Torre",
+          "callsign": "Mendoza Tower",
           "frequency": "119.900",
           "type": "TWR",
           "pre": ["SAME"],
           "colours": [{ "hex": "#00ea00" }]
         },
         "MLA": {
-          "callsign": "Malargue Torre",
+          "callsign": "Malargue Tower",
           "frequency": "118.250",
           "type": "APP",
           "pre": ["SAMM"],
           "colours": [{ "hex": "#000003" }]
         },
         "SRA": {
-          "callsign": "San Rafael Torre",
+          "callsign": "San Rafael Tower",
           "frequency": "118.100",
           "type": "APP",
           "pre": ["SAMR"],
@@ -11298,7 +11298,7 @@
           "colours": [{ "hex": "#0000d9" }]
         },
         "RYA": {
-          "callsign": "Reynolds Torre",
+          "callsign": "Reynolds Tower",
           "frequency": "119.300",
           "type": "APP",
           "pre": ["SAOR"],
@@ -11312,14 +11312,14 @@
           "colours": [{ "hex": "#000092" }]
         },
         "REC": {
-          "callsign": "Resistencia Centro",
+          "callsign": "Resistencia Center",
           "frequency": "124.300",
           "type": "CTR",
           "pre": ["SARR"],
           "colours": [{ "hex": "#ad8c00" }]
         },
         "CRT": {
-          "callsign": "Corrientes Torre",
+          "callsign": "Corrientes Tower",
           "frequency": "118.300",
           "type": "TWR",
           "pre": ["SARC"],
@@ -11333,56 +11333,56 @@
           "colours": [{ "hex": "#0000b3" }]
         },
         "RET": {
-          "callsign": "Resistencia Torre",
+          "callsign": "Resistencia Tower",
           "frequency": "118.700",
           "type": "TWR",
           "pre": ["SARE"],
           "colours": [{ "hex": "#00c800" }]
         },
         "FOT": {
-          "callsign": "Formosa Torre",
+          "callsign": "Formosa Tower",
           "frequency": "119.100",
           "type": "TWR",
           "pre": ["SARF"],
           "colours": [{ "hex": "#003c00" }]
         },
         "IGT": {
-          "callsign": "Cataratas Torre",
+          "callsign": "Cataratas Tower",
           "frequency": "120.700",
           "type": "TWR",
           "pre": ["SARI"],
           "colours": [{ "hex": "#001700" }]
         },
         "PLA": {
-          "callsign": "Paso de los Libres Torre",
+          "callsign": "Paso de los Libres Tower",
           "frequency": "120.300",
           "type": "APP",
           "pre": ["SARL"],
           "colours": [{ "hex": "#0000b6" }]
         },
         "POT": {
-          "callsign": "Posada Torre",
+          "callsign": "Posada Tower",
           "frequency": "120.100",
           "type": "APP",
           "pre": ["SARP"],
           "colours": [{ "hex": "#000079" }]
         },
         "GOT": {
-          "callsign": "Goya Torre",
+          "callsign": "Goya Tower",
           "frequency": "118.100",
           "type": "TWR",
           "pre": ["SATG"],
           "colours": [{ "hex": "#000100" }]
         },
         "RSA": {
-          "callsign": "Reconquista Torre",
+          "callsign": "Reconquista Tower",
           "frequency": "119.000",
           "type": "APP",
           "pre": ["SATR"],
           "colours": [{ "hex": "#000087" }]
         },
         "CMC": {
-          "callsign": "Comodoro Centro",
+          "callsign": "Comodoro Center",
           "frequency": "126.750",
           "type": "CTR",
           "pre": ["SAVF"],
@@ -11396,14 +11396,14 @@
           "colours": [{ "hex": "#e54a89" }]
         },
         "CMN": {
-          "callsign": "Comodoro Centro",
+          "callsign": "Comodoro Center",
           "frequency": "125.500",
           "type": "CTR",
           "pre": ["SAVF"],
           "colours": [{ "hex": "#c68c00" }]
         },
         "CMS": {
-          "callsign": "Comodoro Centro",
+          "callsign": "Comodoro Center",
           "frequency": "125.700",
           "type": "CTR",
           "pre": ["SAVF"],
@@ -11417,7 +11417,7 @@
           "colours": [{ "hex": "#00003f" }]
         },
         "CMT": {
-          "callsign": "Comodoro Torre",
+          "callsign": "Comodoro Tower",
           "frequency": "119.900",
           "type": "TWR",
           "pre": ["SAVC"],
@@ -11445,14 +11445,14 @@
           "colours": [{ "hex": "#0000d7" }]
         },
         "MAT": {
-          "callsign": "Madryn Torre",
+          "callsign": "Madryn Tower",
           "frequency": "119.500",
           "type": "TWR",
           "pre": ["SAVY"],
           "colours": [{ "hex": "#004400" }]
         },
         "MBA": {
-          "callsign": "Marambio Torre",
+          "callsign": "Marambio Tower",
           "frequency": "118.100",
           "type": "APP",
           "pre": ["SAWB"],
@@ -11466,7 +11466,7 @@
           "colours": [{ "hex": "#000020" }]
         },
         "CFT": {
-          "callsign": "Calafate Torre",
+          "callsign": "Calafate Tower",
           "frequency": "119.950",
           "type": "TWR",
           "pre": ["SAWC"],
@@ -11487,14 +11487,14 @@
           "colours": [{ "hex": "#000007" }]
         },
         "GAT": {
-          "callsign": "Gallegos Torre",
+          "callsign": "Gallegos Tower",
           "frequency": "119.400",
           "type": "TWR",
           "pre": ["SAWG"],
           "colours": [{ "hex": "#009f00" }]
         },
         "UHA": {
-          "callsign": "Ushuaia Torre",
+          "callsign": "Ushuaia Tower",
           "frequency": "118.100",
           "type": "APP",
           "pre": ["SAWH"],
@@ -11503,16 +11503,16 @@
   },
   "callsigns": {
     "DEL": {
-      "": "Autorizaciones"
+      "": "Clearances"
     },
     "GND": {
-      "": "Superficie"
+      "": "Ground"
     },
     "TWR": {
-      "": "Torre"
+      "": "Tower"
     },
     "APP": {
-      "": "Aproximación"
+      "": "Approach"
     }
   },
   "airports": {

@@ -1,7 +1,7 @@
 {
     "airspace": [
       {
-        "id": "Oceánico (Class G)",
+        "id": "Oceanic (Class G)",
         "group": "SUEO",
         "owner": [
           "MC",
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "id": "Oceánico (Class G)",
+        "id": "Oceanic (Class G)",
         "group": "SUEO",
         "owner": [
           "MC"
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "id": "Oriental (Class G)",
+        "id": "East (Class G)",
         "group": "SUEO",
         "owner": [
           "MC",
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "id": "Oriental (Class G)",
+        "id": "East (Class G)",
         "group": "SUEO",
         "owner": [
           "MC"
@@ -2310,7 +2310,7 @@
     },
     "positions": {
       "AT": {
-          "callsign": "Adami Torre",
+          "callsign": "Adami Tower",
           "frequency": "118.400",
           "type": "TWR",
           "pre": [
@@ -2323,7 +2323,7 @@
           ]
       },
       "ART": {
-          "callsign": "Artigas Torre",
+          "callsign": "Artigas Tower",
           "frequency": "122.100",
           "type": "TWR",
           "pre": [
@@ -2336,7 +2336,7 @@
           ]
       },
       "CAT": {
-          "callsign": "Colonia Torre",
+          "callsign": "Colonia Tower",
           "frequency": "120.800",
           "type": "TWR",
           "pre": [
@@ -2349,7 +2349,7 @@
           ]
       },
       "DAP": {
-          "callsign": "Durazno Aproximación",
+          "callsign": "Durazno Approach",
           "frequency": "120.400",
           "type": "APP",
           "pre": [
@@ -2362,7 +2362,7 @@
           ]
       },
       "DUT": {
-          "callsign": "Durazno Torre",
+          "callsign": "Durazno Tower",
           "frequency": "126.200",
           "type": "TWR",
           "pre": [
@@ -2388,7 +2388,7 @@
           ]
       },
       "LST": {
-          "callsign": "Curbelo Torre",
+          "callsign": "Curbelo Tower",
           "frequency": "118.300",
           "type": "TWR",
           "pre": [
@@ -2401,7 +2401,7 @@
           ]
       },
       "MLT": {
-          "callsign": "Melo Torre",
+          "callsign": "Melo Tower",
           "frequency": "118.600",
           "type": "TWR",
           "pre": [
@@ -2414,7 +2414,7 @@
           ]
       },
       "CA": {
-          "callsign": "Carrasco Aproximación",
+          "callsign": "Carrasco Approach",
           "frequency": "119.200",
           "type": "APP",
           "pre": [
@@ -2427,7 +2427,7 @@
           ]
       },
       "CT": {
-          "callsign": "Carrasco Torre",
+          "callsign": "Carrasco Tower",
           "frequency": "118.100",
           "type": "TWR",
           "pre": [
@@ -2440,7 +2440,7 @@
           ]
       },
       "RVT": {
-          "callsign": "Rivera Torre",
+          "callsign": "Rivera Tower",
           "frequency": "118.000",
           "type": "TWR",
           "pre": [
@@ -2453,7 +2453,7 @@
           ]
       },
       "SAT": {
-          "callsign": "Salto Torre",
+          "callsign": "Salto Tower",
           "frequency": "118.800",
           "type": "TWR",
           "pre": [
@@ -2468,7 +2468,7 @@
     },
     "callsigns": {
       "DEL": {
-        "": "Clearance Delivery"
+        "": "Clearances"
       },
       "GND": {
         "": "Ground"
