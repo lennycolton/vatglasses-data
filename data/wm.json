@@ -3026,6 +3026,7 @@
             ["060000", "0973000"],
             ["060000", "0960618"],
             ["060000", "0954129"],
+            ["060000", "0942500"],
             ["064317", "0942500"],
             ["075840", "0942500"]
           ]
@@ -6182,10 +6183,10 @@
       "name": "Lumpur - Terminal Area"
     },
     "APP": {
-      "name": "Terminal Area"
+      "name": "Terminal"
     },
     "TWR": {
-      "name": "Control Zone"
+      "name": "Tower"
     }
   },
   "positions": {
@@ -6639,6 +6640,26 @@
       "callsign": "Subang/Sultan Abdul Aziz Shah",
       "coord": [3.132222, 101.550278],
       "topdown": ["KKD", "KKAN", "KKA", "LR5", "LRS", "LR"]
-    }
+    },
+    "WMAC": { "callsign": "Benta", "coord": ["4.049722","101.981944"] },
+    "WMAD": { "callsign": "Bentong", "coord": ["3.549722","101.881944"] },
+    "WMAH": { "callsign": "Grik", "coord": ["5.433056","101.115278"] },
+    "WMAJ": { "callsign": "Jenderata", "coord": ["3.899722","100.948611"] },
+    "WMAN": { "callsign": "Sungai Tiang", "coord": ["4.330278","102.395"], "pre": ["SXT"] },
+    "WMAP": { "callsign": "Kluang", "coord": ["2.043889","103.3075"] },
+    "WMAU": { "callsign": "Mersing", "coord": ["2.383333","103.865"], "pre": ["MEP"] },
+    "WMAV": { "callsign": "Muar/Bakri", "coord": ["2.05","102.648333"] },
+    "WMAZ": { "callsign": "Segamat", "coord": ["2.5","102.831667"] },
+    "WMBA": { "callsign": "Sitiawan", "coord": ["4.21667","100.7"] },
+    "WMBE": { "callsign": "Termeloh", "coord": ["3.466389","102.381667"] },
+    "WMBF": { "callsign": "Ulu Bernam", "coord": ["3.749722","101.168056"] },
+    "WMBH": { "callsign": "Kroh", "coord": ["5.683056","100.981944"] },
+    "WMBI": { "callsign": "Taiping", "coord": ["4.866944","100.716944"], "pre": ["TPG"] },
+    "WMBT": { "callsign": "Pulau Tioman", "coord": ["2.819167","104.16"], "pre": ["TOD"] },
+    "WMGK": { "callsign": "Gong Kedak", "coord": ["5.798889","102.490278"] },
+    "WMKE": { "callsign": "Kerteh", "coord": ["4.538333","103.426667"], "pre": ["KTE"] },
+    "WMKF": { "callsign": "Rmaf Kuala Lumpur/Simpang", "coord": ["3.111389","101.702778"] },
+    "WMPA": { "callsign": "Pulau Pangkor", "coord": ["4.244722","100.553333"], "pre": ["PKG"] },
+    "WMPR": { "callsign": "Pulau Redang", "coord": ["5.768333","103.005833"], "pre": ["RDN"] }
   }
 }

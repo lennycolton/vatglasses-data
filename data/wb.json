@@ -5895,6 +5895,30 @@
       "callsign": "Brunei",
       "coord": [4.94415, 114.928606],
       "topdown": ["SBA", "SEC2", "WBFC", "fss/ASEAS", "fss/ASEAN"]
-    }
+    },
+    "WBAK": { "callsign": "Anduki", "coord": ["4.637528","114.38225"] },
+    "WBGA": { "callsign": "Long Akah", "coord": ["3.312778","114.786389"], "pre": ["LKH"] },
+    "WBGC": { "callsign": "Belaga", "coord": ["2.636111","113.760556"], "pre": ["BLG"] },
+    "WBGD": { "callsign": "Long Semado", "coord": ["4.216389","115.582778"], "pre": ["LSM"] },
+    "WBGF": { "callsign": "Long Lellang", "coord": ["3.421389","115.153333"], "pre": ["LGL"] },
+    "WBGI": { "callsign": "Long Seridan", "coord": ["3.976944","115.068611"], "pre": ["ODN"] },
+    "WBGK": { "callsign": "Mukah", "coord": ["2.8820222","112.043438"] },
+    "WBGL": { "callsign": "Long Banga", "coord": ["3.201389","115.401667"], "pre": ["LBP"] },
+    "WBGM": { "callsign": "Marudi", "coord": ["4.179017","114.327639"], "pre": ["MUR"] },
+    "WBGP": { "callsign": "Kapit", "coord": ["2.009722","112.931944"], "pre": ["KPI"] },
+    "WBGQ": { "callsign": "Bakelalan", "coord": ["3.974722","115.618889"], "pre": ["BKM"] },
+    "WBGZ": { "callsign": "Bario", "coord": ["3.735278","115.477778"], "pre": ["BBN"] },
+    "WBKA": { "callsign": "Semporna", "coord": ["4.449722","118.596389"], "pre": ["SMM"] },
+    "WBKB": { "callsign": "Kota Belud", "coord": ["6.366389","116.463333"] },
+    "WBKG": { "callsign": "Keningau", "coord": ["5.357222","116.159167"], "pre": ["KGU"] },
+    "WBKH": { "callsign": "Sahabat", "coord": ["5.089444","119.087778"], "pre": ["SXS"] },
+    "WBKM": { "callsign": "Tommanggong", "coord": ["5.399722","118.646389"], "pre": ["TMG"] },
+    "WBKN": { "callsign": "Long Pasia", "coord": ["4.409444","115.718889"], "pre": ["GSA"] },
+    "WBKO": { "callsign": "Sepulot", "coord": ["4.712222","116.453611"], "pre": ["SPE"] },
+    "WBKP": { "callsign": "Pamol", "coord": ["5.992778","117.396389"], "pre": ["PAY"] },
+    "WBKT": { "callsign": "Kudat", "coord": ["6.91667","116.83306"] },
+    "WBKU": { "callsign": "Kuala Penyu", "coord": ["5.599722","115.574444"] },
+    "WBMU": { "callsign": "Mulu", "coord": ["4.049483","114.809569"], "pre": ["MZV"] },
+    "WBTM": { "callsign": "Tanjung Manis", "coord": ["2.176667","111.202222"], "pre": ["TGC"] }
   }
 }
