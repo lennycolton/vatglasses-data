@@ -82,10 +82,11 @@
           "major": "KBOI"
         },
         "KGFA": {
-          "major": "KGTF"
+          "sector": "GTF"
         },
         "KGPI": {
-          "sector": "12"
+          "default": false,
+          "sector": "FCA"
         },
         "KGTF": {
           "default": false,
