@@ -586,11 +586,22 @@
         "FCA": {
           "callsign": "Glacier Tower",
           "frequency": "124.550",
-          "pre": ["FCA"],
+          "pre": ["GPI"],
           "type": "TWR",
           "colours": [
             {
               "hex": "#98996b"
+            }
+          ]
+        },
+        "MVR": {
+          "callsign": "Twin Falls Tower",
+          "frequency": "118.200",
+          "pre": ["TWF"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#ff00bf"
             }
           ]
         },
