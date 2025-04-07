@@ -87,7 +87,7 @@
         },
         "KGPI": {
           "default": false,
-          "sector": "FCA"
+          "sector": "12"
         },
         "KGTF": {
           "default": false,
