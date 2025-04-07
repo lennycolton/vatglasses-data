@@ -584,7 +584,7 @@
           ]
         },
         "FCA": {
-          "callsign": "Glacier Tower",
+          "callsign": "Kalispell Tower",
           "frequency": "124.550",
           "pre": ["GPI"],
           "type": "TWR",
