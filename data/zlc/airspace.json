@@ -4362,7 +4362,7 @@
             }
           ]
         },
-        "GPI": {
+        "FCA": {
           "id": "Kalispell",
           "group": "TWR",
           "owner": ["FCA", "12", "19", "20", "06", "03", "44"],
@@ -4749,7 +4749,7 @@
       "KGPI": {
         "callsign": "Glacier Park International",
         "coord": ["48.311417", "-114.255083"],
-        "pre": ["FCA"]
+        "pre": ["GPI"]
       },
       "KGTF": {
         "callsign": "Great Falls",
