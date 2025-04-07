@@ -57,7 +57,8 @@
       "SLC": ["SLC", "SLA", "S5F", "S5J", "S5K", "32", "11", "03", "44"],
       "SLW": ["SLW", "SLC", "SLA", "S5F", "S5B", "S5K", "32", "11", "03", "44"],
       "B1L": ["B1L", "B1Z", "06", "44"],
-      "TWF": ["TWF", "31", "41", "40", "44"]
+      "TWF": ["TWF", "31", "41", "40", "44"],
+      "FCA": ["FCA", "12", "19", "20", "06", "03", "44"]
     },
     "airports": {
         "KBIL": {
@@ -82,10 +83,11 @@
           "major": "KBOI"
         },
         "KGFA": {
-          "major": "KGTF"
+          "sector": "GTF"
         },
         "KGPI": {
-          "sector": "12"
+          "default": false,
+          "sector": "FCA"
         },
         "KGTF": {
           "default": false,
