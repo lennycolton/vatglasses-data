@@ -594,7 +594,7 @@
             }
           ]
         },
-        "MVR": {
+        "T1L": {
           "callsign": "Twin Falls Tower",
           "frequency": "118.200",
           "pre": ["TWF"],
