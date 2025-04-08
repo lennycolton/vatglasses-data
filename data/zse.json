@@ -82,7 +82,7 @@
     {
       "id": "Sector 4",
       "group": "CTR",
-      "owner": ["S4", "S6", "S16"],
+      "owner": ["S4", "S16"],
       "sectors": [
         {
           "min": 91,
@@ -297,7 +297,7 @@
     {
       "id": "Sector 34",
       "group": "CTR",
-      "owner": ["S34", "S6", "S16"],
+      "owner": ["S34", "S16"],
       "sectors": [
         {
           "min": 0,
@@ -324,7 +324,7 @@
     {
       "id": "Sector 5",
       "group": "CTR",
-      "owner": ["S5", "S6", "S16"],
+      "owner": ["S5", "S16"],
       "sectors": [
         {
           "min": 131,
@@ -549,7 +549,7 @@
     {
       "id": "Sector 35",
       "group": "CTR",
-      "owner": ["S35", "S6", "S16"],
+      "owner": ["S35", "S16"],
       "sectors": [
         {
           "min": 0,
@@ -655,7 +655,7 @@
     {
       "id": "Sector 8",
       "group": "CTR",
-      "owner": ["S8", "S6", "S16"],
+      "owner": ["S8", "S48", "S16"],
       "sectors": [
         {
           "max": 239,
@@ -696,7 +696,7 @@
     {
       "id": "Sector 18",
       "group": "CTR",
-      "owner": ["S18", "S6", "S16"],
+      "owner": ["S18", "S48", "S16"],
       "sectors": [
         {
           "min": 160,
@@ -773,7 +773,7 @@
     {
       "id": "Sector 9",
       "group": "CTR",
-      "owner": ["S9", "S6", "S16"],
+      "owner": ["S9", "S48", "S16"],
       "sectors": [
         {
           "min": 101,
@@ -866,7 +866,7 @@
     {
       "id": "Sector 7",
       "group": "CTR",
-      "owner": ["S7", "S16"],
+      "owner": ["S7", "S48", "S16"],
       "sectors": [
         {
           "min": 240,
@@ -970,7 +970,7 @@
     {
       "id": "Sector 10",
       "group": "CTR",
-      "owner": ["S10", "S6", "S16"],
+      "owner": ["S10", "S14", "S16"],
       "sectors": [
         {
           "max": 239,
@@ -1039,7 +1039,7 @@
     {
       "id": "Sector 36",
       "group": "CTR",
-      "owner": ["S36", "S14", "S6", "S16"],
+      "owner": ["S36", "S14", "S16"],
       "sectors": [
         {
           "max": 239,
@@ -1480,7 +1480,7 @@
     {
       "id": "Sector 2",
       "group": "CTR",
-      "owner": ["S2", "S31", "S16"],
+      "owner": ["S2", "S1", "S16"],
       "sectors": [
         {
           "max": 90,
@@ -1695,7 +1695,7 @@
     {
       "id": "Sector 12",
       "group": "CTR",
-      "owner": ["S2", "S31", "S16"],
+      "owner": ["S12", "S1", "S16"],
       "sectors": [
         {
           "max": 150,
@@ -1816,7 +1816,7 @@
     {
       "id": "Sector 31",
       "group": "CTR",
-      "owner": ["S31", "S16"],
+      "owner": ["S3", "S1", "S16"],
       "sectors": [
         {
           "max": 159,
@@ -2014,7 +2014,7 @@
     {
       "id": "Sector 1",
       "group": "CTR",
-      "owner": ["S1", "S31", "S16"],
+      "owner": ["S1", "S16"],
       "sectors": [
         {
           "max": 89,
@@ -2077,7 +2077,7 @@
     {
       "id": "Sector 32",
       "group": "CTR",
-      "owner": ["S32", "S31", "S16"],
+      "owner": ["S32", "S1", "S16"],
       "sectors": [
         {
           "runways": [
@@ -2194,7 +2194,7 @@
       "name": "Tower"
     },
     "CTR": {
-      "name": "Seattle Center"
+      "name": "Seattle"
     }
   },
   "positions": {
@@ -2271,7 +2271,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#decd10"
+          "hex": "#3063f0"
         }
       ]
     },
@@ -2381,7 +2381,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#9c9443"
+          "hex": "#3063f0"
         }
       ]
     },
@@ -2414,7 +2414,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#d13d32"
+          "hex": "#3063f0"
         }
       ]
     },
