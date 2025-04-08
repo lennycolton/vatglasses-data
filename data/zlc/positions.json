@@ -18,7 +18,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#008400"
+              "hex": "#2f4f4f"
             }
           ]
         },
@@ -95,7 +95,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#514d28"
+              "hex": "#ba55d3"
             }
           ]
         },
@@ -326,7 +326,7 @@
           "type": "APP",
           "colours": [
             {
-              "hex": "#ea0a8c"
+              "hex": "#4169e1"
             }
           ]
         },
@@ -370,7 +370,7 @@
           "type": "APP",
           "colours": [
             {
-              "hex": "#a9d6be"
+              "hex": "#f0e68c"
             }
           ]
         },
@@ -425,7 +425,7 @@
           "type": "TWR",
           "colours": [
             {
-              "hex": "#ff00bf"
+              "hex": "#b03060"
             }
           ]
         },
@@ -447,7 +447,7 @@
           "type": "TWR",
           "colours": [
             {
-              "hex": "#333333"
+              "hex": "#808000"
             }
           ]
         },
@@ -458,7 +458,7 @@
           "type": "TWR",
           "colours": [
             {
-              "hex": "#3bd1bb"
+              "hex": "#deb887"
             }
           ]
         },
@@ -612,7 +612,7 @@
           "type": "APP",
           "colours": [
             {
-              "hex": "#959500"
+              "hex": "#556b2f"
             }
           ]
         }
