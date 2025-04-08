@@ -4455,10 +4455,10 @@
             }
           ]
         },
-        "MVR": {
-          "id": "Twin Falls/Magic Valley",
+        "T1L": {
+          "id": "Twin Falls",
           "group": "TWR",
-          "owner": ["MVR", "TWF", "31", "41", "40", "44"],
+          "owner": ["T1L", "TWF", "31", "41", "40", "44"],
           "sectors": [
             {
               "max": 64,
