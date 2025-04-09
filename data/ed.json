@@ -667,7 +667,7 @@
       "id": "Meißen",
       "group": "EDMM",
       "uid": "MEI",
-      "owner": ["MEI", "GER", "HAL", "HOF"],
+      "owner": ["MEI", "GER", "HOF", "HAL"],
       "sectors": [
         {
           "max": 314,
@@ -942,7 +942,7 @@
       "id": "Sachsen Low (Dresden)",
       "group": "APP",
       "uid": "SAS",
-      "owner": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF"],
+      "owner": ["SAS", "MEI", "TRS", "GER", "HOF", "HAL"],
       "sectors": [
         {
           "max": 164,
@@ -1450,7 +1450,7 @@
       "id": "Thüringen (Leipzig) North",
       "group": "APP",
       "uid": "TRN",
-      "owner": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF"],
+      "owner": ["TRN", "TRS", "GER", "HAL", "MEI", "HOF"],
       "sectors": [
         {
           "max": 194,
@@ -1550,7 +1550,7 @@
       "id": "Thüringen (Leipzig) South",
       "group": "APP",
       "uid": "TRS",
-      "owner": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF"],
+      "owner": ["TRS", "TRN", "GER", "HAL", "MEI", "HOF"],
       "sectors": [
         {
           "max": 194,
@@ -2504,7 +2504,6 @@
       "owner": [
         "ISA",
         "CHI",
-        "DON",
         "NDG",
         "WLD",
         "TRU",
@@ -2556,7 +2555,6 @@
       "owner": [
         "ISA",
         "CHI",
-        "DON",
         "NDG",
         "WLD",
         "TRU",
@@ -2608,7 +2606,6 @@
       "owner": [
         "ISA",
         "CHI",
-        "DON",
         "NDG",
         "WLD",
         "TRU",
@@ -2661,7 +2658,6 @@
       "owner": [
         "ISA",
         "CHI",
-        "DON",
         "NDG",
         "WLD",
         "TRU",
@@ -2713,9 +2709,9 @@
         "SAL",
         "SPE",
         "GER",
-        "HAL",
         "MEI",
         "HOF",
+        "HAL",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2789,9 +2785,9 @@
         "SAL",
         "SPE",
         "GER",
-        "HAL",
         "MEI",
         "HOF",
+        "HAL",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2865,8 +2861,8 @@
         "SAL",
         "MEI",
         "GER",
-        "HAL",
         "HOF",
+        "HAL",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2935,8 +2931,8 @@
         "SAL",
         "MEI",
         "GER",
-        "HAL",
         "HOF",
+        "HAL",
         "fss/EUCME"
       ],
       "sectors": [
@@ -12225,7 +12221,7 @@
     "EDDP": {
       "callsign": "Leipzig",
       "coord": [51.424, 12.236333333333],
-      "topdown": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF"]
+      "topdown": ["TRN", "TRS", "GER", "HAL", "MEI", "HOF"]
     },
     "EDJA": {
       "callsign": "Memmingen",
@@ -12263,12 +12259,12 @@
     "EDDE": {
       "callsign": "Erfurt",
       "coord": [50.979833333333, 10.958166666667],
-      "topdown": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF"]
+      "topdown": ["TRS", "TRN", "GER", "HAL", "MEI", "HOF"]
     },
     "EDDC": {
       "callsign": "Dresden",
       "coord": [51.134333333333, 13.768],
-      "topdown": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF"]
+      "topdown": ["SAS", "MEI", "TRS", "GER", "HOF", "HAL"]
     },
     "EDDF": {
       "callsign": "Frankfurt",
