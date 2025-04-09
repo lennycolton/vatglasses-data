@@ -18,7 +18,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#008400"
+              "hex": "#2f4f4f"
             }
           ]
         },
@@ -62,7 +62,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#784ea7"
+              "hex": "#bc8f8f"
             }
           ]
         },
@@ -84,7 +84,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#411e75"
+              "hex": "#1e90ff"
             }
           ]
         },
@@ -95,7 +95,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#514d28"
+              "hex": "#ba55d3"
             }
           ]
         },
@@ -117,7 +117,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#b22934"
+              "hex": "#ff00ff"
             }
           ]
         },
@@ -139,7 +139,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#bb6d2c"
+              "hex": "#b03060"
             }
           ]
         },
@@ -172,7 +172,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#b539a4"
+              "hex": "#dda0dd"
             }
           ]
         },
@@ -194,7 +194,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#009b00"
+              "hex": "#8a2be2"
             }
           ]
         },
@@ -227,7 +227,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#158f17"
+              "hex": "#ff6347"
             }
           ]
         },
@@ -238,7 +238,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#b59d14"
+              "hex": "#ffff54"
             }
           ]
         },
@@ -260,7 +260,7 @@
           "type": "CTR",
           "colours": [
             {
-              "hex": "#f7941d"
+              "hex": "#708090"
             }
           ]
         },
@@ -326,7 +326,7 @@
           "type": "APP",
           "colours": [
             {
-              "hex": "#ea0a8c"
+              "hex": "#4169e1"
             }
           ]
         },
@@ -370,7 +370,7 @@
           "type": "APP",
           "colours": [
             {
-              "hex": "#a9d6be"
+              "hex": "#f0e68c"
             }
           ]
         },
@@ -425,7 +425,7 @@
           "type": "TWR",
           "colours": [
             {
-              "hex": "#ff00bf"
+              "hex": "#b03060"
             }
           ]
         },
@@ -447,7 +447,7 @@
           "type": "TWR",
           "colours": [
             {
-              "hex": "#333333"
+              "hex": "#808000"
             }
           ]
         },
@@ -458,7 +458,7 @@
           "type": "TWR",
           "colours": [
             {
-              "hex": "#3bd1bb"
+              "hex": "#deb887"
             }
           ]
         },
@@ -583,6 +583,28 @@
             }
           ]
         },
+        "FCA": {
+          "callsign": "Kalispell Tower",
+          "frequency": "124.550",
+          "pre": ["GPI"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#98996b"
+            }
+          ]
+        },
+        "T1L": {
+          "callsign": "Twin Falls Tower",
+          "frequency": "118.200",
+          "pre": ["TWF"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#ff00bf"
+            }
+          ]
+        },
         "TWF": {
           "callsign": "Twin Falls Approach",
           "frequency": "126.700",
@@ -590,7 +612,7 @@
           "type": "APP",
           "colours": [
             {
-              "hex": "#959500"
+              "hex": "#556b2f"
             }
           ]
         }

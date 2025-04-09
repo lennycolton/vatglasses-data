@@ -11,7 +11,7 @@ Please take a look at the [wiki](https://github.com/lennycolton/vatglasses-data/
 - File Creation Tools
 
 ## New Data Sets
-As a general rule, you should be local staff, an instructor, or (in small vACCs only) a mentor to add a new region to VATGlasses. This provides a point of contact for all future changes to the region and helps prevent incorrect information from making it onto the platform.
+As a general rule, you should be local staff to add a new region to VATGlasses. This provides a point of contact for all future changes to the region and helps prevent incorrect information from making it onto the platform.
 
 If you're a member of local staff looking to add your local vACC to the platform, feel free to open an issue with your name, vACC staff role, and Discord username. We'll get back to you as soon as possible.
 
