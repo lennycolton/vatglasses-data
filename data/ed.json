@@ -667,7 +667,7 @@
       "id": "Meißen",
       "group": "EDMM",
       "uid": "MEI",
-      "owner": ["MEI", "GER", "HAL", "HOF"],
+      "owner": ["MEI", "GER", "HOF", "HAL"],
       "sectors": [
         {
           "max": 314,
@@ -942,7 +942,7 @@
       "id": "Sachsen Low (Dresden)",
       "group": "APP",
       "uid": "SAS",
-      "owner": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF"],
+      "owner": ["SAS", "MEI", "TRS", "GER", "HOF", "HAL"],
       "sectors": [
         {
           "max": 164,
@@ -992,7 +992,7 @@
       "id": "Starnberg",
       "group": "EDMM",
       "uid": "STA",
-      "owner": ["STA", "TEG", "ZUG", "TRU", "RDG"],
+      "owner": ["STA", "FUE", "TEG", "TRU", "ZUG", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -1217,7 +1217,6 @@
         "DMSL",
         "DMNAT",
         "DMSAT",
-        "NDG",
         "ZUG",
         "RDG"
       ],
@@ -1279,7 +1278,6 @@
         "DMSH",
         "DMNAT",
         "DMSAT",
-        "NDG",
         "ZUG",
         "RDG"
       ],
@@ -1341,7 +1339,6 @@
         "DMNL",
         "DMSAT",
         "DMNAT",
-        "NDG",
         "ZUG",
         "RDG"
       ],
@@ -1401,7 +1398,6 @@
         "DMNH",
         "DMSAT",
         "DMNAT",
-        "NDG",
         "ZUG",
         "RDG"
       ],
@@ -1454,7 +1450,7 @@
       "id": "Thüringen (Leipzig) North",
       "group": "APP",
       "uid": "TRN",
-      "owner": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF"],
+      "owner": ["TRN", "TRS", "GER", "HAL", "MEI", "HOF"],
       "sectors": [
         {
           "max": 194,
@@ -1554,7 +1550,7 @@
       "id": "Thüringen (Leipzig) South",
       "group": "APP",
       "uid": "TRS",
-      "owner": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF"],
+      "owner": ["TRS", "TRN", "GER", "HAL", "MEI", "HOF"],
       "sectors": [
         {
           "max": 194,
@@ -1614,7 +1610,7 @@
       "id": "Traun",
       "group": "EDMM",
       "uid": "TRU",
-      "owner": ["TRU", "TEG", "STA", "NDG", "ZUG", "RDG"],
+      "owner": ["TRU", "TEG", "STA", "ZUG", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -1728,7 +1724,7 @@
       "id": "Zugspitze",
       "group": "EDMM",
       "uid": "ZUG",
-      "owner": ["ZUG", "STA", "TRU", "RDG"],
+      "owner": ["ZUG", "FUE", "STA", "TRU", "RDG"],
       "sectors": [
         {
           "max": 314,
@@ -1799,9 +1795,9 @@
       "owner": [
         "ALP",
         "ISA",
-        "DON",
-        "ERL",
+        "CHI",
         "ZUG",
+        "FUE",
         "STA",
         "TRU",
         "RDG",
@@ -1856,9 +1852,9 @@
       "owner": [
         "ALP",
         "ISA",
-        "DON",
-        "ERL",
+        "CHI",
         "ZUG",
+        "FUE",
         "STA",
         "TRU",
         "RDG",
@@ -1913,9 +1909,9 @@
       "owner": [
         "ALP",
         "ISA",
-        "DON",
-        "ERL",
+        "CHI",
         "ZUG",
+        "FUE",
         "STA",
         "TRU",
         "RDG",
@@ -1971,9 +1967,9 @@
       "owner": [
         "ALP",
         "ISA",
-        "DON",
-        "ERL",
+        "CHI",
         "ZUG",
+        "FUE",
         "STA",
         "TRU",
         "RDG",
@@ -2028,12 +2024,9 @@
         "CHI",
         "ISA",
         "ALP",
-        "DON",
-        "ERL",
         "TRU",
         "STA",
         "TEG",
-        "NDG",
         "ZUG",
         "RDG",
         "fss/EUCME"
@@ -2070,12 +2063,9 @@
         "CHI",
         "ISA",
         "ALP",
-        "DON",
-        "ERL",
         "TRU",
         "STA",
         "TEG",
-        "NDG",
         "ZUG",
         "RDG",
         "fss/EUCME"
@@ -2112,12 +2102,9 @@
         "CHI",
         "ISA",
         "ALP",
-        "DON",
-        "ERL",
         "TRU",
         "STA",
         "TEG",
-        "NDG",
         "ZUG",
         "RDG",
         "fss/EUCME"
@@ -2155,12 +2142,9 @@
         "CHI",
         "ISA",
         "ALP",
-        "DON",
-        "ERL",
         "TRU",
         "STA",
         "TEG",
-        "NDG",
         "ZUG",
         "RDG",
         "fss/EUCME"
@@ -2194,8 +2178,8 @@
       "uid": "DON1",
       "owner": [
         "DON",
-        "ALP",
         "ERL",
+        "CHI",
         "RDG",
         "EGG",
         "ALB",
@@ -2256,8 +2240,8 @@
       "uid": "DON2",
       "owner": [
         "DON",
-        "ALP",
         "ERL",
+        "CHI",
         "RDG",
         "EGG",
         "ALB",
@@ -2318,8 +2302,8 @@
       "uid": "DON3",
       "owner": [
         "DON",
-        "ALP",
         "ERL",
+        "CHI",
         "RDG",
         "EGG",
         "ALB",
@@ -2381,8 +2365,8 @@
       "uid": "DON4",
       "owner": [
         "DON",
-        "ALP",
         "ERL",
+        "CHI",
         "RDG",
         "EGG",
         "ALB",
@@ -2442,7 +2426,6 @@
       "uid": "ERL1",
       "owner": [
         "ERL",
-        "DON",
         "SAL",
         "BBG",
         "HOF",
@@ -2482,7 +2465,6 @@
       "uid": "ERL2",
       "owner": [
         "ERL",
-        "DON",
         "SAL",
         "BBG",
         "HOF",
@@ -2522,9 +2504,6 @@
       "owner": [
         "ISA",
         "CHI",
-        "ALP",
-        "DON",
-        "ERL",
         "NDG",
         "WLD",
         "TRU",
@@ -2576,9 +2555,6 @@
       "owner": [
         "ISA",
         "CHI",
-        "ALP",
-        "DON",
-        "ERL",
         "NDG",
         "WLD",
         "TRU",
@@ -2630,9 +2606,6 @@
       "owner": [
         "ISA",
         "CHI",
-        "ALP",
-        "DON",
-        "ERL",
         "NDG",
         "WLD",
         "TRU",
@@ -2685,9 +2658,6 @@
       "owner": [
         "ISA",
         "CHI",
-        "ALP",
-        "DON",
-        "ERL",
         "NDG",
         "WLD",
         "TRU",
@@ -2738,12 +2708,10 @@
       "owner": [
         "SAL",
         "SPE",
-        "HVL",
-        "ERL",
         "GER",
-        "HAL",
         "MEI",
         "HOF",
+        "HAL",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2816,12 +2784,10 @@
       "owner": [
         "SAL",
         "SPE",
-        "HVL",
-        "ERL",
         "GER",
-        "HAL",
         "MEI",
         "HOF",
+        "HAL",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2893,12 +2859,10 @@
       "owner": [
         "SPE",
         "SAL",
-        "HVL",
-        "ERL",
         "MEI",
         "GER",
-        "HAL",
         "HOF",
+        "HAL",
         "fss/EUCME"
       ],
       "sectors": [
@@ -2965,12 +2929,10 @@
       "owner": [
         "SPE",
         "SAL",
-        "HVL",
-        "ERL",
         "MEI",
         "GER",
-        "HAL",
         "HOF",
+        "HAL",
         "fss/EUCME"
       ],
       "sectors": [
@@ -6098,14 +6060,8 @@
           "min": 0,
           "points": [
             ["494956", "0074145"],
-            ["494947", "0074210"],
-            ["494947", "0074210"],
-            ["494451", "0075558"],
-            ["494451", "0075558"],
             ["493946", "0081003"],
-            ["493946", "0081003"],
-            ["494220", "0073100"],
-            ["494220", "0073100"],
+            ["493922", "0073236"],
             ["494956", "0074145"]
           ]
         },
@@ -12247,7 +12203,6 @@
         "DMSH",
         "DMNAT",
         "DMSAT",
-        "NDG",
         "ZUG",
         "RDG"
       ]
@@ -12260,7 +12215,7 @@
     "EDDP": {
       "callsign": "Leipzig",
       "coord": [51.424, 12.236333333333],
-      "topdown": ["TRN", "TRS", "GER", "MEI", "HAL", "HOF"]
+      "topdown": ["TRN", "TRS", "GER", "HAL", "MEI", "HOF"]
     },
     "EDJA": {
       "callsign": "Memmingen",
@@ -12276,7 +12231,6 @@
         "DMNH",
         "DMSH",
         "SWA",
-        "NDG",
         "ZUG",
         "RDG"
       ]
@@ -12284,7 +12238,7 @@
     "EDMO": {
       "callsign": "Oberpfaffenhofen",
       "coord": [48.081333333333, 11.283],
-      "topdown": ["DMSL", "DMNL", "DMSH", "DMNH", "NDG", "ZUG", "RDG"]
+      "topdown": ["DMSL", "DMNL", "DMSH", "DMNH", "ZUG", "RDG"]
     },
     "EDNY": {
       "callsign": "Friedrichshafen",
@@ -12299,12 +12253,12 @@
     "EDDE": {
       "callsign": "Erfurt",
       "coord": [50.979833333333, 10.958166666667],
-      "topdown": ["TRS", "TRN", "GER", "MEI", "HAL", "HOF"]
+      "topdown": ["TRS", "TRN", "GER", "HAL", "MEI", "HOF"]
     },
     "EDDC": {
       "callsign": "Dresden",
       "coord": [51.134333333333, 13.768],
-      "topdown": ["SAS", "MEI", "TRS", "GER", "HAL", "HOF"]
+      "topdown": ["SAS", "MEI", "TRS", "GER", "HOF", "HAL"]
     },
     "EDDF": {
       "callsign": "Frankfurt",
