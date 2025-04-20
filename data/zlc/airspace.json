@@ -5023,6 +5023,11 @@
         "coord": ["43.50485", "-114.296603"],
         "pre": ["SUN"]
       },
+      "KSVR": {
+        "callsign": "South Valley Regional",
+        "coord": ["40.371007", "-111.593502"],
+        "pre": ["SVR"]
+      },
       "KTMT": {
         "callsign": "Austin",
         "coord": ["39.467943", "-117.197454"],
@@ -5072,12 +5077,7 @@
         "callsign": "Austin NV",
         "coord": ["39.5", "-117.08306"],
         "pre": ["U31"]
-      },
-      "KU42": {
-        "callsign": "South Valley Regl",
-        "coord": ["40.620225", "-111.993053"],
-        "pre": ["U42"]
-      },    
+      },   
       "KU67": {
         "callsign": "Roosevelt UT",
         "coord": ["40.29972", "-109.98306"],
