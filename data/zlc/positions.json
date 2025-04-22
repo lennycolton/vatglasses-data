@@ -605,6 +605,17 @@
             }
           ]
         },
+        "IDA": {
+          "callsign": "Idaho Falls Tower",
+          "frequency": "118.500",
+          "pre": ["IDA"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#fcba03"
+            }
+          ]
+        },
         "T1L": {
           "callsign": "Twin Falls Tower",
           "frequency": "118.200",
