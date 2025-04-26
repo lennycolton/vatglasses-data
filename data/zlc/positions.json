@@ -594,6 +594,39 @@
             }
           ]
         },
+        "PIH": {
+          "callsign": "Pocatello Tower",
+          "frequency": "119.100",
+          "pre": ["PIH"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#bf1c0a"
+            }
+          ]
+        },
+        "IDA": {
+          "callsign": "Idaho Falls Tower",
+          "frequency": "118.500",
+          "pre": ["IDA"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#fcba03"
+            }
+          ]
+        },
+        "JAC": {
+          "callsign": "Jackson Hole Tower",
+          "frequency": "118.075",
+          "pre": ["JAC"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#ff8000"
+            }
+          ]
+        },
         "T1L": {
           "callsign": "Twin Falls Tower",
           "frequency": "118.200",
