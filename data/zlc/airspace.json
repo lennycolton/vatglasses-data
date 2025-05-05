@@ -2160,7 +2160,7 @@
           ]
         },
         "B1E": {
-          "id": "Billings - East",
+          "id": "Billings - North",
           "group": "APP",
           "owner": ["B1E", "B1W", "17", "16", "39", "03", "44"],
           "sectors": [
@@ -2188,7 +2188,7 @@
           ]
         },
         "B1W": {
-          "id": "Billings - West",
+          "id": "Billings - South",
           "group": "APP",
           "owner": ["B1W", "B1E", "15", "16", "04", "03", "39", "44"],
           "sectors": [
