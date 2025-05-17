@@ -1,0 +1,670 @@
+{
+    "positions": {
+        "03": {
+          "callsign": "Salt Lake Center",
+          "frequency": "119.950",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#6e4585"
+            }
+          ]
+        },
+        "04": {
+          "callsign": "Salt Lake Center",
+          "frequency": "135.775",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#2f4f4f"
+            }
+          ]
+        },
+        "05": {
+          "callsign": "Salt Lake Center",
+          "frequency": "124.350",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#411e75"
+            }
+          ]
+        },
+        "06": {
+          "callsign": "Salt Lake Center",
+          "frequency": "132.400",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#00aeef"
+            }
+          ]
+        },
+        "07": {
+          "callsign": "Salt Lake Center",
+          "frequency": "127.700",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#db0922"
+            }
+          ]
+        },
+        "08": {
+          "callsign": "Salt Lake Center",
+          "frequency": "128.350",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#bc8f8f"
+            }
+          ]
+        },
+        "11": {
+          "callsign": "Salt Lake Center",
+          "frequency": "127.825",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#39b54a"
+            }
+          ]
+        },
+        "12": {
+          "callsign": "Salt Lake Center",
+          "frequency": "127.075",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#1e90ff"
+            }
+          ]
+        },
+        "14": {
+          "callsign": "Salt Lake Center",
+          "frequency": "133.800",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#ba55d3"
+            }
+          ]
+        },
+        "15": {
+          "callsign": "Salt Lake Center",
+          "frequency": "127.750",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#ef9942"
+            }
+          ]
+        },
+        "16": {
+          "callsign": "Salt Lake Center",
+          "frequency": "133.250",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#ff00ff"
+            }
+          ]
+        },
+        "17": {
+          "callsign": "Salt Lake Center",
+          "frequency": "126.850",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#ff0005"
+            }
+          ]
+        },
+        "18": {
+          "callsign": "Salt Lake Center",
+          "frequency": "125.925",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#b03060"
+            }
+          ]
+        },
+        "19": {
+          "callsign": "Salt Lake Center",
+          "frequency": "133.400",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#af7867"
+            }
+          ]
+        },
+        "20": {
+          "callsign": "Salt Lake Center",
+          "frequency": "119.750",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#4a39b5"
+            }
+          ]
+        },
+        "30": {
+          "callsign": "Salt Lake Center",
+          "frequency": "128.050",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#dda0dd"
+            }
+          ]
+        },
+        "31": {
+          "callsign": "Salt Lake Center",
+          "frequency": "118.050",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#f7941d"
+            }
+          ]
+        },
+        "32": {
+          "callsign": "Salt Lake Center",
+          "frequency": "133.900",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#8a2be2"
+            }
+          ]
+        },
+        "33": {
+          "callsign": "Salt Lake Center",
+          "frequency": "120.275",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#00455f"
+            }
+          ]
+        },
+        "34": {
+          "callsign": "Salt Lake Center",
+          "frequency": "127.925",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#1df794"
+            }
+          ]
+        },
+        "39": {
+          "callsign": "Salt Lake Center",
+          "frequency": "132.425",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#ff6347"
+            }
+          ]
+        },
+        "40": {
+          "callsign": "Salt Lake Center",
+          "frequency": "128.550",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#ffff54"
+            }
+          ]
+        },
+        "41": {
+          "callsign": "Salt Lake Center",
+          "frequency": "121.150",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#0b240e"
+            }
+          ]
+        },
+        "42": {
+          "callsign": "Salt Lake Center",
+          "frequency": "120.725",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#708090"
+            }
+          ]
+        },
+        "43": {
+          "callsign": "Salt Lake Center",
+          "frequency": "132.250",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#edd0d7"
+            }
+          ]
+        },
+        "44": {
+          "callsign": "Salt Lake Center",
+          "frequency": "125.575",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#000095"
+            }
+          ]
+        },
+        "45": {
+          "callsign": "Salt Lake Center",
+          "frequency": "134.525",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#0037ef"
+            }
+          ]
+        },
+        "46": {
+          "callsign": "Salt Lake Center",
+          "frequency": "133.600",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#950000"
+            }
+          ]
+        },
+        "47": {
+          "callsign": "Salt Lake Center",
+          "frequency": "133.450",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#009500"
+            }
+          ]
+        },
+        "S5A": {
+          "callsign": "Salt Lake City Approach",
+          "frequency": "118.850",
+          "pre": ["SLC"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#4169e1"
+            }
+          ]
+        },
+        "S5B": {
+          "callsign": "Salt Lake City Approach",
+          "frequency": "124.900",
+          "pre": ["SLC"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#250b47"
+            }
+          ]
+        },
+        "S5F": {
+          "callsign": "Salt Lake City Approach",
+          "frequency": "125.700",
+          "pre": ["SLC"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#8f1536"
+            }
+          ]
+        },
+        "S5G": {
+          "callsign": "Salt Lake City Approach",
+          "frequency": "126.250",
+          "pre": ["SLC"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#edd0d7"
+            }
+          ]
+        },
+        "S5H": {
+          "callsign": "Salt Lake City Approach",
+          "frequency": "121.100",
+          "pre": ["SLC"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#f0e68c"
+            }
+          ]
+        },
+        "S5J": {
+          "callsign": "Salt Lake City Approach",
+          "frequency": "128.600",
+          "pre": ["SLC"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#db1d2c"
+            }
+          ]
+        },
+        "S5K": {
+          "callsign": "Salt Lake City Approach",
+          "frequency": "135.500",
+          "pre": ["SLC"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#ffae21"
+            }
+          ]
+        },
+        "S5S": {
+          "callsign": "Salt Lake City Approach",
+          "frequency": "128.100",
+          "pre": ["SLC"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#856d45"
+            }
+          ]
+        },
+        "S5V": {
+          "callsign": "Salt Lake City Approach",
+          "frequency": "120.900",
+          "pre": ["SLC"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#6a7694"
+            }
+          ]
+        },
+        "SLC": {
+          "callsign": "Salt Lake City Tower",
+          "frequency": "119.050",
+          "pre": ["SLC"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#b03060"
+            }
+          ]
+        },
+        "SLW": {
+          "callsign": "Salt Lake City Tower",
+          "frequency": "132.650",
+          "pre": ["SLC"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#f9b175"
+            }
+          ]
+        },
+        "SLE": {
+          "callsign": "Salt Lake City Tower",
+          "frequency": "118.300",
+          "pre": ["SLC"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#808000"
+            }
+          ]
+        },
+        "SLA": {
+          "callsign": "Salt Lake City Tower",
+          "frequency": "120.200",
+          "pre": ["SLC"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#deb887"
+            }
+          ]
+        },
+        "B1E": {
+          "callsign": "Billings Approach",
+          "frequency": "119.200",
+          "pre": ["BIL"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#d9c172"
+            }
+          ]
+        },
+        "B1W": {
+          "callsign": "Billings Approach",
+          "frequency": "120.500",
+          "pre": ["BIL"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#10565e"
+            }
+          ]
+        },
+        "B1S": {
+          "callsign": "Big Sky Approach",
+          "frequency": "119.600",
+          "pre": ["BOI"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#ea0a8c"
+            }
+          ]
+        },
+        "B1A": {
+          "callsign": "Big Sky Approach",
+          "frequency": "126.900",
+          "pre": ["BOI"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#D10000"
+            }
+          ]
+        },
+        "B1Z": {
+          "callsign": "Big Sky Approach",
+          "frequency": "118.975",
+          "pre": ["BZN"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#ff0004"
+            }
+          ]
+        },
+        "B1L": {
+          "callsign": "Bozeman Tower",
+          "frequency": "118.200",
+          "pre": ["BZN"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#59ff00"
+            }
+          ]
+        },
+        "GTF": {
+          "callsign": "Great Falls Approach",
+          "frequency": "128.600",
+          "pre": ["GTF"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#00d1d1"
+            }
+          ]
+        },
+        "HLN": {
+          "callsign": "Helena Approach",
+          "frequency": "119.500",
+          "pre": ["HLN"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#551514"
+            }
+          ]
+        },
+        "MSO": {
+          "callsign": "Spokane Approach",
+          "frequency": "124.900",
+          "pre": ["MSO"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#D10000"
+            }
+          ]
+        },
+        "M1S": {
+          "callsign": "Mountain Home Approach",
+          "frequency": "134.100",
+          "pre": ["MUO"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#faff00"
+            }
+          ]
+        },
+        "M1N": {
+          "callsign": "Mountain Home Approach",
+          "frequency": "124.800",
+          "pre": ["MUO"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#6BD425"
+            }
+          ]
+        },
+        "FCA": {
+          "callsign": "Kalispell Tower",
+          "frequency": "124.550",
+          "pre": ["GPI"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#98996b"
+            }
+          ]
+        },
+        "PIH": {
+          "callsign": "Pocatello Tower",
+          "frequency": "119.100",
+          "pre": ["PIH"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#bf1c0a"
+            }
+          ]
+        },
+        "IDA": {
+          "callsign": "Idaho Falls Tower",
+          "frequency": "118.500",
+          "pre": ["IDA"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#fcba03"
+            }
+          ]
+        },
+        "JAC": {
+          "callsign": "Jackson Hole Tower",
+          "frequency": "118.075",
+          "pre": ["JAC"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#ff8000"
+            }
+          ]
+        },
+        "T1L": {
+          "callsign": "Twin Falls Tower",
+          "frequency": "118.200",
+          "pre": ["TWF"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#ff00bf"
+            }
+          ]
+        },
+        "TWF": {
+          "callsign": "Twin Falls Approach",
+          "frequency": "126.700",
+          "pre": ["TWF"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#556b2f"
+            }
+          ]
+        }
+    },
+    "callsigns": {
+    "DEL": {
+        "": "Clearance"
+    },
+    "GND": {
+        "": "Ground"
+    },
+    "TWR": {
+        "": "Tower"
+    },
+    "APP": {
+        "": "Approach"
+    },
+    "DEP": {
+        "": "Departure"
+    }
+    }
+}

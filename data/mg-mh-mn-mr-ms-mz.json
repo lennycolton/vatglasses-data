@@ -5,7 +5,8 @@
       "group": "MHCC",
       "owner": [
         "C1A",
-        "C2A"
+        "C2A",
+        "C2B"
       ],
       "sectors": [
         {
@@ -46,6 +47,7 @@
       "owner": [
         "C1A",
         "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -120,6 +122,7 @@
         "C1B",
         "C1A",
         "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -175,6 +178,7 @@
       "group": "MHCC",
       "owner": [
         "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -307,6 +311,7 @@
         "C3B",
         "C1A",
         "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -355,6 +360,7 @@
         "C3B",
         "C3A",
         "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -401,6 +407,7 @@
       "owner": [
         "C1A",
         "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -444,6 +451,7 @@
       "group": "MHCC",
       "owner": [
         "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [

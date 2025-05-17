@@ -1,0 +1,619 @@
+{
+    "positions": {
+        "FT": {
+            "callsign": "Fredericton Tower",
+            "frequency": "119.000",
+            "type": "TWR",
+            "pre": [
+                "CYFC"
+            ],
+            "colours": [
+                {
+                    "hex": "#008000"
+                }
+            ]
+        },
+        "HA": {
+            "callsign": "Halifax Terminal",
+            "frequency": "119.200",
+            "type": "APP",
+            "pre": [
+                "CYHZ"
+            ],
+            "colours": [
+                {
+                    "hex": "#00001f"
+                }
+            ]
+        },
+        "HI": {
+            "callsign": "Halifax Arrivals",
+            "frequency": "128.550",
+            "type": "APP",
+            "pre": [
+                "CYHZ"
+            ],
+            "colours": [
+                {
+                    "hex": "#000006"
+                }
+            ]
+        },
+        "HT": {
+            "callsign": "Halifax Tower",
+            "frequency": "118.400",
+            "type": "TWR",
+            "pre": [
+                "CYHZ"
+            ],
+            "colours": [
+                {
+                    "hex": "#00fd00"
+                }
+            ]
+        },
+        "QA": {
+            "callsign": "Moncton Centre",
+            "frequency": "124.400",
+            "type": "APP",
+            "pre": [
+                "CYQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#000073"
+                }
+            ]
+        },
+        "QT": {
+            "callsign": "Moncton Tower",
+            "frequency": "120.800",
+            "type": "TWR",
+            "pre": [
+                "CYQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#00c500"
+                }
+            ]
+        },
+        "YJ": {
+            "callsign": "Moncton Centre",
+            "frequency": "124.300",
+            "type": "APP",
+            "pre": [
+                "CYSJ"
+            ],
+            "colours": [
+                {
+                    "hex": "#0000ed"
+                }
+            ]
+        },
+        "SJ": {
+            "callsign": "Saint John Radio",
+            "frequency": "118.500",
+            "type": "TWR",
+            "pre": [
+                "CYSJ"
+            ],
+            "colours": [
+                {
+                    "hex": "#005f00"
+                }
+            ]
+        },
+        "YF": {
+            "callsign": "Charlottetown Radio",
+            "frequency": "118.000",
+            "type": "TWR",
+            "pre": [
+                "CYYG"
+            ],
+            "colours": [
+                {
+                    "hex": "#003700"
+                }
+            ]
+        },
+        "ZX": {
+            "callsign": "Greenwood Terminal",
+            "frequency": "120.600",
+            "type": "APP",
+            "pre": [
+                "CYZX"
+            ],
+            "colours": [
+                {
+                    "hex": "#000037"
+                }
+            ]
+        },
+        "ZA": {
+            "callsign": "Greenwood Tower",
+            "frequency": "119.500",
+            "type": "TWR",
+            "pre": [
+                "CYZX"
+            ],
+            "colours": [
+                {
+                    "hex": "#00c300"
+                }
+            ]
+        },
+        "Q1": {
+            "callsign": "Moncton Centre",
+            "frequency": "135.200",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#858c00"
+                }
+            ]
+        },
+        "Q2": {
+            "callsign": "Moncton Centre",
+            "frequency": "132.700",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#398c00"
+                }
+            ]
+        },
+        "Q3": {
+            "callsign": "Moncton Centre",
+            "frequency": "135.650",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#f58c00"
+                }
+            ]
+        },
+        "Q4": {
+            "callsign": "Moncton Centre",
+            "frequency": "123.700",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#7b8c00"
+                }
+            ]
+        },
+        "Q5": {
+            "callsign": "Moncton Centre",
+            "frequency": "126.450",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#5d8c00"
+                }
+            ]
+        },
+        "Q6": {
+            "callsign": "Moncton Centre",
+            "frequency": "125.750",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#178c00"
+                }
+            ]
+        },
+        "Q7": {
+            "callsign": "Moncton Centre",
+            "frequency": "132.800",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#4a8c00"
+                }
+            ]
+        },
+        "Q8": {
+            "callsign": "Moncton Centre",
+            "frequency": "132.250",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#a28c00"
+                }
+            ]
+        },
+        "QB": {
+            "callsign": "Moncton Centre",
+            "frequency": "118.600",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#268c00"
+                }
+            ]
+        },
+        "QM": {
+            "callsign": "Moncton Centre",
+            "frequency": "132.200",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#6b8c00"
+                }
+            ]
+        },
+        "QC": {
+            "callsign": "Moncton Centre",
+            "frequency": "134.250",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#958c00"
+                }
+            ]
+        },
+        "QD": {
+            "callsign": "Moncton Centre",
+            "frequency": "123.900",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#5f8c00"
+                }
+            ]
+        },
+        "QS": {
+            "callsign": "Moncton Centre",
+            "frequency": "134.250",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#048c00"
+                }
+            ]
+        },
+        "ZV": {
+            "callsign": "Moncton Centre",
+            "frequency": "133.350",
+            "type": "CTR",
+            "pre": [
+                "CZQM"
+            ],
+            "colours": [
+                {
+                    "hex": "#648c00"
+                }
+            ]
+        },
+        "DR": {
+            "callsign": "Deer Lake Radio",
+            "frequency": "122.200",
+            "type": "TWR",
+            "pre": [
+                "CYDF"
+            ],
+            "colours": [
+                {
+                    "hex": "#00c100"
+                }
+            ]
+        },
+        "GZ": {
+            "callsign": "Gander Centre",
+            "frequency": "128.500",
+            "type": "APP",
+            "pre": [
+                "CYQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#000018"
+                }
+            ]
+        },
+        "GT": {
+            "callsign": "Gander Tower",
+            "frequency": "118.100",
+            "type": "TWR",
+            "pre": [
+                "CYQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#007d00"
+                }
+            ]
+        },
+        "YR": {
+            "callsign": "Goose Bay RATCON",
+            "frequency": "119.500",
+            "type": "APP",
+            "pre": [
+                "CYYR"
+            ],
+            "colours": [
+                {
+                    "hex": "#000095"
+                }
+            ]
+        },
+        "YA": {
+            "callsign": "Goose Bay Tower",
+            "frequency": "119.100",
+            "type": "TWR",
+            "pre": [
+                "CYYR"
+            ],
+            "colours": [
+                {
+                    "hex": "#005000"
+                }
+            ]
+        },
+        "YT": {
+            "callsign": "Gander Centre",
+            "frequency": "133.150",
+            "type": "APP",
+            "pre": [
+                "CYYT"
+            ],
+            "colours": [
+                {
+                    "hex": "#00000e"
+                }
+            ]
+        },
+        "SA": {
+            "callsign": "St John's Tower",
+            "frequency": "120.600",
+            "type": "TWR",
+            "pre": [
+                "CYYT"
+            ],
+            "colours": [
+                {
+                    "hex": "#007700"
+                }
+            ]
+        },
+        "X1": {
+            "callsign": "Gander Centre",
+            "frequency": "132.300",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#618c00"
+                }
+            ]
+        },
+        "X2": {
+            "callsign": "Gander Centre",
+            "frequency": "133.000",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#988c00"
+                }
+            ]
+        },
+        "X3": {
+            "callsign": "Gander Centre",
+            "frequency": "125.075",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#d08c00"
+                }
+            ]
+        },
+        "X4": {
+            "callsign": "Gander Centre",
+            "frequency": "128.175",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#ac8c00"
+                }
+            ]
+        },
+        "X5": {
+            "callsign": "Gander Centre",
+            "frequency": "132.050",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#f98c00"
+                }
+            ]
+        },
+        "X6": {
+            "callsign": "Gander Centre",
+            "frequency": "119.850",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#b68c00"
+                }
+            ]
+        },
+        "X7": {
+            "callsign": "Gander Centre",
+            "frequency": "132.500",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#b68c00"
+                }
+            ]
+        },
+        "QX": {
+            "callsign": "Gander Centre",
+            "frequency": "132.100",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#3e8c00"
+                }
+            ]
+        },
+        "XG": {
+            "callsign": "Gander Centre",
+            "frequency": "135.150",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#598c00"
+                }
+            ]
+        },
+        "QL": {
+            "callsign": "Gander Centre",
+            "frequency": "124.600",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#348c00"
+                }
+            ]
+        },
+        "QN": {
+            "callsign": "Gander Centre",
+            "frequency": "127.675",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#918c00"
+                }
+            ]
+        },
+        "XO": {
+            "callsign": "Gander Centre",
+            "frequency": "128.650",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#368c00"
+                }
+            ]
+        },
+        "XS": {
+            "callsign": "Gander Centre",
+            "frequency": "134.600",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#608c00"
+                }
+            ]
+        },
+        "XT": {
+            "callsign": "Gander Centre",
+            "frequency": "129.000",
+            "type": "CTR",
+            "pre": [
+                "CZQX"
+            ],
+            "colours": [
+                {
+                    "hex": "#468c00"
+                }
+            ]
+        }
+    },
+    "callsigns": {
+        "DEL": {
+            "": "Delivery"
+        },
+        "GND": {
+            "": "Ground"
+        },
+        "TWR": {
+            "": "Tower"
+        },
+        "APP": {
+            "": "Arrivals"
+        },
+        "DEP": {
+            "": "Departures"
+        }
+    }
+}
