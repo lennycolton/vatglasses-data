@@ -1,36 +1,36 @@
 {
     "positions": {
-        "25":     { "callsign": "Chicago Center",    "frequency": "126.125", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#f77f00"}] },
-        "26":     { "callsign": "Chicago Center",    "frequency": "133.200", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#f77f00"}] },
-        "35":     { "callsign": "Chicago Center",    "frequency": "134.875", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#56de37"}] },
-        "36":     { "callsign": "Chicago Center",    "frequency": "126.325", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#56de37"}] },
-        "44":     { "callsign": "Chicago Center",    "frequency": "120.125", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#ffcb05"}] },
-        "46":     { "callsign": "Chicago Center",    "frequency": "121.275", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#ffcb05"}] },
-        "51":     { "callsign": "Chicago Center",    "frequency": "135.150", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#ffcb05"}] },
-        "52":     { "callsign": "Chicago Center",    "frequency": "132.225", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#ffcb05"}] },
-        "55":     { "callsign": "Chicago Center",    "frequency": "118.750", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#ffcb05"}] },
-        "60":     { "callsign": "Chicago Center",    "frequency": "126.875", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#f77f00"}] },
-        "62":     { "callsign": "Chicago Center",    "frequency": "123.825", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#f77f00"}] },
-        "63":     { "callsign": "Chicago Center",    "frequency": "133.950", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#f77f00"}] },
-        "64":     { "callsign": "Chicago Center",    "frequency": "133.300", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#f77f00"}] },        
-        "74":     { "callsign": "Chicago Center",    "frequency": "133.350", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#309df0"}] },
-        "75":     { "callsign": "Chicago Center",    "frequency": "127.775", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#309df0"}] },
-        "77":     { "callsign": "Chicago Center",    "frequency": "134.825", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#309df0"}] },
-        "81":     { "callsign": "Chicago Center",    "frequency": "120.350", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#56de37"}] },
-        "89":     { "callsign": "Chicago Center",    "frequency": "126.475", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#56de37"}] },
-        "94":     { "callsign": "Chicago Center",    "frequency": "125.575", "pre": ["CHI"],        "type": "CTR", "colours": [{"hex": "#309df0"}] },
-        "C90":    { "callsign": "Chicago Approach",   "frequency": "119.000", "pre": ["CHI"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "AZO":    { "callsign": "Great Lakes Approach",   "frequency": "128.400", "pre": ["AZO"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "CID":    { "callsign": "Cedar Rapids Approach",   "frequency": "119.700", "pre": ["CID"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "CMI":    { "callsign": "Champaign Approach",   "frequency": "121.350", "pre": ["CMI"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "FWA":    { "callsign": "Fort Wayne Approach",   "frequency": "127.200", "pre": ["FWA"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "MKE":    { "callsign": "Milwaukee Approach",   "frequency": "118.00", "pre": ["MKE"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "MLI":    { "callsign": "Quad Cities Approach",   "frequency": "125.950", "pre": ["MLI"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "MSN":    { "callsign": "Madison Approach",   "frequency": "135.450", "pre": ["MSN"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "RFD":    { "callsign": "Rockford Approach",   "frequency": "121.000", "pre": ["RFD"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "SBN":    { "callsign": "South Bend Approach",   "frequency": "118.550", "pre": ["SBN"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "GUS":    { "callsign": "Grissom Approach",   "frequency": "121.050", "pre": ["GUS"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "VOK":    { "callsign": "Volk Approach",   "frequency": "135.250", "pre": ["VOK"],        "type": "APP", "colours": [{"hex": "#ffffff"}] }        
+        "25":     { "callsign": "Chicago Center", "frequency": "126.125", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#f77f00"}] },
+        "26":     { "callsign": "Chicago Center", "frequency": "133.200", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#f77f00"}] },
+        "35":     { "callsign": "Chicago Center", "frequency": "134.875", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#2ab7ab"}] },
+        "36":     { "callsign": "Chicago Center", "frequency": "126.325", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#2ab7ab"}] },
+        "44":     { "callsign": "Chicago Center", "frequency": "120.125", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#ffcb05"}] },
+        "46":     { "callsign": "Chicago Center", "frequency": "121.275", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#ffcb05"}] },
+        "51":     { "callsign": "Chicago Center", "frequency": "135.150", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#ffcb05"}] },
+        "52":     { "callsign": "Chicago Center", "frequency": "132.225", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#ffcb05"}] },
+        "55":     { "callsign": "Chicago Center", "frequency": "118.750", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#ffcb05"}] },
+        "60":     { "callsign": "Chicago Center", "frequency": "126.875", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#f77f00"}] },
+        "62":     { "callsign": "Chicago Center", "frequency": "123.825", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#f77f00"}] },
+        "63":     { "callsign": "Chicago Center", "frequency": "133.950", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#f77f00"}] },
+        "64":     { "callsign": "Chicago Center", "frequency": "133.300", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#f77f00"}] },
+        "74":     { "callsign": "Chicago Center", "frequency": "133.350", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#0562a4"}] },
+        "75":     { "callsign": "Chicago Center", "frequency": "127.775", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#0562a4"}] },
+        "77":     { "callsign": "Chicago Center", "frequency": "134.825", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#0562a4"}] },
+        "81":     { "callsign": "Chicago Center", "frequency": "120.350", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#2ab7ab"}] },
+        "89":     { "callsign": "Chicago Center", "frequency": "126.475", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#2ab7ab"}] },
+        "94":     { "callsign": "Chicago Center", "frequency": "125.575", "pre": ["CHI"], "type": "CTR", "colours": [{"hex": "#0562a4"}] },
+        "C90":    { "callsign": "Chicago Approach", "frequency": "119.000", "pre": ["CHI"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "AZO":    { "callsign": "Great Lakes Approach", "frequency": "128.400", "pre": ["AZO"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "CID":    { "callsign": "Cedar Rapids Approach", "frequency": "119.700", "pre": ["CID"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "CMI":    { "callsign": "Champaign Approach", "frequency": "121.350", "pre": ["CMI"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "FWA":    { "callsign": "Fort Wayne Approach", "frequency": "127.200", "pre": ["FWA"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "MKE":    { "callsign": "Milwaukee Approach", "frequency": "118.00", "pre": ["MKE"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "MLI":    { "callsign": "Quad Cities Approach", "frequency": "125.950", "pre": ["MLI"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "MSN":    { "callsign": "Madison Approach", "frequency": "135.450", "pre": ["MSN"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "RFD":    { "callsign": "Rockford Approach", "frequency": "121.000", "pre": ["RFD"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "SBN":    { "callsign": "South Bend Approach", "frequency": "118.550", "pre": ["SBN"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "GUS":    { "callsign": "Grissom Approach", "frequency": "121.050", "pre": ["GUS"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "VOK":    { "callsign": "Volk Approach", "frequency": "135.250", "pre": ["VOK"], "type": "APP", "colours": [{"hex": "#ffffff"}] }        
     },
     "callsigns": {
         "DEL": {
@@ -47,6 +47,9 @@
         },
         "DEP": {
             "": "Departure"
+        },
+        "CTR": { 
+            "": "Center"
         }
     }
 }
