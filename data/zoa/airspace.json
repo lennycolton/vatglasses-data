@@ -1,8 +1,9 @@
 {
     "airspace": {
         "10": {
-            "id": "Sector 10",
+            "id": "Area South - 10",
             "group": "ZOA",
+            "parent": "16",
             "sectors": [
                 {
                     "max": 89,
@@ -74,8 +75,9 @@
             ]
         },
         "11": {
-            "id": "Sector 11",
+            "id": "Area South - 11",
             "group": "ZOA",
+            "parent": "16",
             "sectors": [
                 {
                     "max": 279,
@@ -136,8 +138,9 @@
             ]
         },
         "13": {
-            "id": "Sector 13",
+            "id": "Area South - 13",
             "group": "ZOA",
+            "parent": "16",
             "sectors": [
                 {
                     "min": 280,
@@ -172,7 +175,7 @@
             ]
         },
         "14": {
-            "id": "Sector 14",
+            "id": "Pacific South - 14",
             "group": "ZOA",
             "sectors": [
                 {
@@ -214,8 +217,9 @@
             ]
         },
         "15": {
-            "id": "Sector 15",
+            "id": "Area South - 15",
             "group": "ZOA",
+            "parent": "16",
             "sectors": [
                 {
                     "min": 240,
@@ -246,7 +250,7 @@
             ]
         },
         "16": {
-            "id": "Sector 16",
+            "id": "Area South - 16",
             "group": "ZOA",
             "sectors": [
                 {
@@ -328,8 +332,9 @@
             ]
         },
         "22": {
-            "id": "Sector 22",
+            "id": "Area South - 22",
             "group": "ZOA",
+            "parent": "16",
             "sectors": [
                 {
                     "max": 199,
@@ -397,8 +402,9 @@
             ]
         },
         "29": {
-            "id": "Sector 29",
+            "id": "Area North - 29",
             "group": "ZOA",
+            "parent": "41",
             "sectors": [
                 {
                     "min": 200,
@@ -457,8 +463,9 @@
             ]
         },
         "30": {
-            "id": "Sector 30",
+            "id": "Area East - 30",
             "group": "ZOA",
+            "parent": "44",
             "sectors": [
                 {
                     "min": 300,
@@ -479,8 +486,9 @@
             ]
         },
         "31": {
-            "id": "Sector 31",
+            "id": "Pacific North -31",
             "group": "ZOA",
+            "parent": "36",
             "sectors": [
                 {
                     "min": 240,
@@ -514,8 +522,9 @@
             ]
         },
         "32": {
-            "id": "Sector 32",
+            "id": "Area North - 32",
             "group": "ZOA",
+            "parent": "41",
             "sectors": [
                 {
                     "min": 300,
@@ -554,8 +563,9 @@
             ]
         },
         "33": {
-            "id": "Sector 33",
+            "id": "Area East - 33",
             "group": "ZOA",
+            "parent": "44",
             "sectors": [
                 {
                     "min": 300,
@@ -579,8 +589,9 @@
             ]
         },
         "34": {
-            "id": "Sector 34",
+            "id": "Area East - 34",
             "group": "ZOA",
+            "parent": "44",
             "sectors": [
                 {
                     "min": 200,
@@ -616,8 +627,9 @@
             ]
         },
         "35": {
-            "id": "Sector 35",
+            "id": "Pacific South - 35",
             "group": "ZOA",
+            "parent": "14",
             "sectors": [
                 {
                     "max": 239,
@@ -687,7 +699,7 @@
             ]
         },
         "36": {
-            "id": "Sector 36",
+            "id": "Pacific North - 36",
             "group": "ZOA",
             "sectors": [
                 {
@@ -722,8 +734,9 @@
             ]
         },
         "40": {
-            "id": "Sector 40",
+            "id": "Area North - 40",
             "group": "ZOA",
+            "parent": "41",
             "sectors": [
                 {
                     "max": 89,
@@ -768,7 +781,7 @@
             ]
         },
         "41": {
-            "id": "Sector 41",
+            "id": "Area North - 41",
             "group": "ZOA",
             "sectors": [
                 {
@@ -832,8 +845,9 @@
             ]
         },
         "42": {
-            "id": "Sector 42",
+            "id": "Area North - 42",
             "group": "ZOA",
+            "parent": "41",
             "sectors": [
                 {
                     "max": 239,
@@ -890,8 +904,9 @@
             ]
         },
         "43": {
-            "id": "Sector 43",
+            "id": "Area North - 43",
             "group": "ZOA",
+            "parent": "41",
             "sectors": [
                 {
                     "min": 300,
@@ -912,7 +927,7 @@
             ]
         },
         "44": {
-            "id": "Sector 44",
+            "id": "Area East - 44",
             "group": "ZOA",
             "sectors": [
                 {
@@ -963,8 +978,9 @@
             ]
         },
         "45": {
-            "id": "Sector 45",
+            "id": "Area East - 45",
             "group": "ZOA",
+            "parent": "44",
             "sectors": [
                 {
                     "max": 299,
@@ -1040,8 +1056,9 @@
             ]
         },
         "46": {
-            "id": "Sector 46",
+            "id": "Area East - 46",
             "group": "ZOA",
+            "parent": "44",
             "sectors": [
                 {
                     "max": 299,
@@ -1126,8 +1143,10 @@
             ]
         },
         "N1L": {
-            "id": "NorCal - Licke",
+            "id": "NorCal A - Licke",
             "group": "APP",
+            "parent": "N1M",
+            "core": ["N1L", "N1M"],
             "sectors": [
                 {
                     "max": 39,
@@ -1556,8 +1575,9 @@
             ]
         },
         "N1M": {
-            "id": "NorCal - Morgan",
+            "id": "NorCal A - Morgan",
             "group": "APP",
+            "core": ["N1M"],
             "sectors": [
                 {
                     "min": 140,
@@ -1640,8 +1660,10 @@
             ]
         },
         "N1S": {
-            "id": "NorCal - Seca",
+            "id": "NorCal A - Seca",
             "group": "APP",
+            "parent": "N1M",
+            "core": ["N1S", "N1M"],
             "sectors": [
                 {
                     "max": 79,
@@ -1705,8 +1727,10 @@
             ]
         },
         "N1T": {
-            "id": "NorCal - Toga",
+            "id": "NorCal A - Toga",
             "group": "APP",
+            "parent": "N1M",
+            "core": ["N1T", "N1L", "N1M", "N4U"],
             "sectors": [
                 {
                     "max": 59,
@@ -2135,8 +2159,9 @@
             ]
         },
         "N2B": {
-            "id": "NorCal - Boulder",
+            "id": "NorCal B - Boulder",
             "group": "APP",
+            "core": ["N2B"],
             "sectors": [
                 {
                     "max": 129,
@@ -2597,8 +2622,10 @@
             ]
         },
         "N2Z": {
-            "id": "NorCal - Cedar",
+            "id": "NorCal B - Cedar",
             "group": "APP",
+            "parent": "N2B",
+            "core": ["N2Z", "N2B"],
             "sectors": [
                 {
                     "min": 140,
@@ -2820,8 +2847,10 @@
             ]
         },
         "N2F": {
-            "id": "NorCal - Foster",
+            "id": "NorCal B - Foster",
             "group": "APP",
+            "parent": "N2B",
+            "core": ["N2F", "N2W", "N2B"],
             "sectors": [
                 {
                     "min": 40,
@@ -3076,8 +3105,10 @@
             ]
         },
         "N2L": {
-            "id": "NorCal - Laguna",
+            "id": "NorCal B - Laguna",
             "group": "APP",
+            "parent": "N2B",
+            "core": ["N2L", "N2B"],
             "sectors": [
                 {
                     "min": 80,
@@ -3175,8 +3206,10 @@
             ]
         },
         "N2N": {
-            "id": "NorCal - Niles",
+            "id": "NorCal B - Niles",
             "group": "APP",
+            "parent": "N2B",
+            "core": ["N2N", "N2Z", "N2B"],
             "sectors": [
                 {
                     "min": 70,
@@ -3629,8 +3662,10 @@
             ]
         },
         "N2W": {
-            "id": "NorCal - Woodside",
+            "id": "NorCal B - Woodside",
             "group": "APP",
+            "parent": "N2B",
+            "core": ["N2W", "N2B"],
             "sectors": [
                 {
                     "max": 59,
@@ -3816,8 +3851,10 @@
             ]
         },
         "N3G": {
-            "id": "NorCal - Grove",
+            "id": "NorCal C - Grove",
             "group": "APP",
+            "parent": "N3Y",
+            "core": ["N3G", "N3S", "N3C"],
             "sectors": [
                 {
                     "max": 109,
@@ -4902,8 +4939,10 @@
             ]
         },
         "N3S": {
-            "id": "NorCal - Sunol",
+            "id": "NorCal C - Sunol",
             "group": "APP",
+            "parent": "N3Y",
+            "core": ["N3S", "N3C"],
             "sectors": [
                 {
                     "min": 80,
@@ -5335,8 +5374,9 @@
             ]
         },
         "N3Y": {
-            "id": "NorCal - Valley",
+            "id": "NorCal C - Valley",
             "group": "APP",
+            "core": ["N3Y", "N3C"],
             "sectors": [
                 {
                     "max": 99,
@@ -5543,8 +5583,9 @@
             ]
         },
         "N4R": {
-            "id": "NorCal - Richmond",
+            "id": "NorCal D - Richmond",
             "group": "APP",
+            "core": ["N4R", "N4U"],
             "sectors": [
                 {
                     "min": 120,
@@ -6648,8 +6689,10 @@
             ]
         },
         "N4U": {
-            "id": "NorCal - Sutro",
+            "id": "NorCal D - Sutro",
             "group": "APP",
+            "parent": "N4R",
+            "core": ["N4U"],
             "sectors": [
                 {
                     "min": 130,
@@ -7429,8 +7472,10 @@
             ]
         },
         "N5E": {
-            "id": "NorCal - Elkhorn",
+            "id": "NorCal E - Elkhorn",
             "group": "APP",
+            "parent": "N5P",
+            "core": ["N5E", "N5P"],
             "sectors": [
                 {
                     "max": 199,
@@ -7505,8 +7550,9 @@
             ]
         },
         "N5P": {
-            "id": "NorCal - Paradise",
+            "id": "NorCal E - Paradise",
             "group": "APP",
+            "core": ["N5P", "N5E"],
             "sectors": [
                 {
                     "max": 199,
@@ -7801,8 +7847,10 @@
             ]
         },
         "N8N": {
-            "id": "NorCal - Nugget",
+            "id": "NorCal R - Nugget",
             "group": "APP",
+            "parent": "N8S",
+            "core": ["N8N", "N8S"],
             "sectors": [
                 {
                     "max": 199,
@@ -7821,8 +7869,9 @@
             ]
         },
         "N8S": {
-            "id": "NorCal - Silver",
+            "id": "NorCal R - Silver",
             "group": "APP",
+            "core": ["N8S", "N8N"],
             "sectors": [
                 {
                     "max": 199,
@@ -7853,6 +7902,8 @@
         "DESERT": {
             "id": "Desert",
             "group": "RAP",
+            "parent": "NFL",
+            "core": ["NFLA"],
             "sectors": [
                 {
                     "max": 199,
@@ -7882,6 +7933,8 @@
         "NFL": {
             "id": "Fallon",
             "group": "RAP",
+            "parent": "45",
+            "core": ["NFLA"],
             "sectors": [
                 {
                     "max": 199,
@@ -7916,6 +7969,8 @@
         "FAT": {
             "id": "Fresno",
             "group": "APP",
+            "parent": "16",
+            "core": ["FATF", "FATC", "FATS"],
             "sectors": [
                 {
                     "max": 109,
@@ -7967,6 +8022,8 @@
         "NLC": {
             "id": "Lemoore",
             "group": "RAP",
+            "parent": "10",
+            "core": ["NLCA", "NLCF", "NLCM"],
             "sectors": [
                 {
                     "max": 159,
@@ -8015,6 +8072,8 @@
         "SUU": {
             "id": "Travis",
             "group": "RAP",
+            "parent": "40",
+            "core": ["SUUA", "SUUN", "SUUS"],
             "sectors": [
                 {
                     "max": 59,
@@ -8301,21 +8360,21 @@
     },
     "airports": {
         "KAHC": { "callsign": "Amedee Aaf", "coord": ["40.265918", "-120.150613"], "pre": ["AHC"] },
-        "KAPC": { "callsign": "Napa", "coord": ["38.213194", "-122.280694"], "pre": ["APC"] },
+        "KAPC": { "callsign": "Napa", "coord": ["38.213194", "-122.280694"], "pre": ["APC"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "40" } },
         "KAUN": { "callsign": "Auburn Muni", "coord": ["38.954833", "-121.081722"], "pre": ["AUN"] },
-        "KBAB": { "callsign": "Beale", "coord": ["39.136086", "-121.436564"], "pre": ["BAB"] },
+        "KBAB": { "callsign": "Beale", "coord": ["39.136086", "-121.436564"], "pre": ["BAB"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N5P" } },
         "KBIH": { "callsign": "Bishop CA", "coord": ["37.373094", "-118.363608"], "pre": ["BIH"] },
         "KBLU": { "callsign": "Emigrant Gap Blue Canyon Nyack CA", "coord": ["39.27583", "-120.70778"], "pre": ["BLU"] },
         "KBNY": { "callsign": "Burney CA", "coord": ["40.88306", "-121.66639"], "pre": ["BNY"] },
-        "KCCR": { "callsign": "Concord", "coord": ["37.989656", "-122.056897"], "pre": ["CCR"] },
-        "KCIC": { "callsign": "Chico", "coord": ["39.795383", "-121.858422"], "pre": ["CIC"] },
+        "KCCR": { "callsign": "Concord", "coord": ["37.989656", "-122.056897"], "pre": ["CCR"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "SUU" } },
+        "KCIC": { "callsign": "Chico", "coord": ["39.795383", "-121.858422"], "pre": ["CIC"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "42" } },
         "KCPU": { "callsign": "Calaveras Co-Maury Rasmussen Field", "coord": ["38.146111", "-120.648167"], "pre": ["CPU"] },
         "KCVH": { "callsign": "Hollister Muni", "coord": ["36.893348", "-121.410274"], "pre": ["CVH"] },
         "KCXP": { "callsign": "Carson", "coord": ["39.192306", "-119.732583"], "pre": ["CXP"] },
         "KDVO": { "callsign": "Gnoss Field", "coord": ["38.143576", "-122.557091"], "pre": ["DVO"] },
         "KDWA": { "callsign": "Yolo County", "coord": ["38.579389", "-121.856944"], "pre": ["DWA"] },
         "KEDU": { "callsign": "University", "coord": ["38.531462", "-121.786482"], "pre": ["EDU"] },
-        "KFAT": { "callsign": "Fresno", "coord": ["36.776194", "-119.718139"], "pre": ["FAT"] },
+        "KFAT": { "callsign": "Fresno", "coord": ["36.776194", "-119.718139"], "pre": ["FAT"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "FAT" } },
         "KFCH": { "callsign": "Fresno-Chandler CA", "coord": ["36.732364", "-119.819897"], "pre": ["FCH"] },
         "KFLX": { "callsign": "Fallon Muni", "coord": ["39.499169", "-118.748792"], "pre": ["FLX"] },
         "KGAB": { "callsign": "Gabbs", "coord": ["38.922264", "-117.958561"], "pre": ["GAB"] },
@@ -8325,58 +8384,58 @@
         "KHES": { "callsign": "Healdsburg Muni", "coord": ["38.652859", "-122.898642"], "pre": ["HES"] },
         "KHJO": { "callsign": "Hanford Muni", "coord": ["36.316722", "-119.627667"], "pre": ["HJO"] },
         "KHTH": { "callsign": "Hawthorne Muni NV", "coord": ["38.54972", "-118.63306"], "pre": ["HTH"] },
-        "KHWD": { "callsign": "Hayward", "coord": ["37.659264", "-122.122408"], "pre": ["HWD"] },
+        "KHWD": { "callsign": "Hayward", "coord": ["37.659264", "-122.122408"], "pre": ["HWD"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N3G" } },
         "KJAQ": { "callsign": "Westover Field Amador County", "coord": ["38.376803", "-120.793906"], "pre": ["JAQ"] },
         "KKIC": { "callsign": "Mesa Del Rey", "coord": ["36.228556", "-121.121306"], "pre": ["KIC"] },
         "KLHM": { "callsign": "Lincoln CA", "coord": ["38.9091667", "-121.3513333"], "pre": ["LHM"] },
         "KLLR": { "callsign": "Little River", "coord": ["39.262056", "-123.753778"], "pre": ["LLR"] },
         "KLOL": { "callsign": "Lovelock Derby Field NV", "coord": ["40.066406", "-118.565167"], "pre": ["LOL"] },
         "KLSN": { "callsign": "Los Banos Muni", "coord": ["37.063889", "-120.869861"], "pre": ["LSN"] },
-        "KLVK": { "callsign": "Livermore", "coord": ["37.693403", "-121.820344"], "pre": ["LVK"] },
+        "KLVK": { "callsign": "Livermore", "coord": ["37.693403", "-121.820344"], "pre": ["LVK"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N3G" } },
         "KMAE": { "callsign": "Madera Muni CA", "coord": ["36.985717", "-120.111983"], "pre": ["MAE"] },
-        "KMCC": { "callsign": "McClellen", "coord": ["38.667625", "-121.400594"], "pre": ["MCC"] },
+        "KMCC": { "callsign": "McClellen", "coord": ["38.667625", "-121.400594"], "pre": ["MCC"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N5P" } },
         "KMCE": { "callsign": "Merced Muni CA", "coord": ["37.284728", "-120.513886"], "pre": ["MCE"] },
-        "KMER": { "callsign": "Castle", "coord": ["37.380481", "-120.568189"], "pre": ["MER"] },
+        "KMER": { "callsign": "Castle", "coord": ["37.380481", "-120.568189"], "pre": ["MER"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N3Y" } },
         "KMEV": { "callsign": "Minden-Tahoe", "coord": ["39.0005", "-119.751111"], "pre": ["MEV"] },
-        "KMHR": { "callsign": "Mather", "coord": ["38.553897", "-121.297592"], "pre": ["MHR"] },
+        "KMHR": { "callsign": "Mather", "coord": ["38.553897", "-121.297592"], "pre": ["MHR"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N5P" } },
         "KMMH": { "callsign": "Mammoth- June Lakes CA", "coord": ["37.62405", "-118.837772"], "pre": ["MMH"] },
-        "KMOD": { "callsign": "Modesto", "coord": ["37.625817", "-120.954422"], "pre": ["MOD"] },
+        "KMOD": { "callsign": "Modesto", "coord": ["37.625817", "-120.954422"], "pre": ["MOD"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N3Y" } },
         "KMPI": { "callsign": "Mariposa-Yosemite", "coord": ["37.510861", "-120.039528"], "pre": ["MPI"] },
-        "KMRY": { "callsign": "Monterey", "coord": ["36.586983", "-121.842947"], "pre": ["MRY"] },
+        "KMRY": { "callsign": "Monterey", "coord": ["36.586983", "-121.842947"], "pre": ["MRY"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N1S" } },
         "KMYV": { "callsign": "Marysville Yuba County CA", "coord": ["39.097772", "-121.569825"], "pre": ["MYV"] },
-        "KNFL": { "callsign": "Fallon", "coord": ["39.416206", "-118.700164"], "pre": ["NFL"] },
+        "KNFL": { "callsign": "Fallon", "coord": ["39.416206", "-118.700164"], "pre": ["NFL"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "NFL" } },
         "KNGZ": { "callsign": "Alameda- Nas Ca. CA", "coord": ["37.78306", "-122.31639"], "pre": ["NGZ"] },
-        "KNLC": { "callsign": "Lemoore", "coord": ["36.333122", "-119.952153"], "pre": ["NLC"] },
+        "KNLC": { "callsign": "Lemoore", "coord": ["36.333122", "-119.952153"], "pre": ["NLC"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "NLC" } },
         "KNNZ": { "callsign": "Point Sur CA", "coord": ["36.29972", "-121.88306"], "pre": ["NNZ"] },
         "KNRC": { "callsign": "Crows Landing Navy CA", "coord": ["37.39972", "-121.09972"], "pre": ["NRC"] },
-        "KNUQ": { "callsign": "Moffett", "coord": ["37.414839", "-122.049572"], "pre": ["NUQ"] },
-        "KOAK": { "callsign": "Oakland", "coord": ["37.721292", "-122.220717"], "pre": ["OAK"], "runways": ["28/30", "10/12"] },
+        "KNUQ": { "callsign": "Moffett", "coord": ["37.414839", "-122.049572"], "pre": ["NUQ"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N1L" } },
+        "KOAK": { "callsign": "Oakland", "coord": ["37.721292", "-122.220717"], "pre": ["OAK"], "runways": ["28/30", "10/12"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N4R" } },
         "KOAR": { "callsign": "Marina Muni", "coord": ["36.681528", "-121.761667"], "pre": ["OAR"] },
         "KOVE": { "callsign": "Oroville Muni CA", "coord": ["39.48775", "-121.622"], "pre": ["OVE"] },
-        "KPAO": { "callsign": "Palo Alto", "coord": ["37.46667", "-122.11639"], "pre": ["PAO"] },
+        "KPAO": { "callsign": "Palo Alto", "coord": ["37.46667", "-122.11639"], "pre": ["PAO"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N1T" } },
         "KPRB": { "callsign": "Paso Robles Muni CA", "coord": ["35.672886", "-120.627056"], "pre": ["PRB"] },
         "KPVF": { "callsign": "Placerville", "coord": ["38.724228", "-120.753309"], "pre": ["PVF"] },
         "KRBL": { "callsign": "Red Bluff Muni CA", "coord": ["40.150656", "-122.252292"], "pre": ["RBL"] },
-        "KRDD": { "callsign": "Redding", "coord": ["40.508983", "-122.293403"], "pre": ["RDD"] },
-        "KRHV": { "callsign": "Reid Hillview", "coord": ["37.33306", "-121.81639"], "pre": ["RHV"] },
+        "KRDD": { "callsign": "Redding", "coord": ["40.508983", "-122.293403"], "pre": ["RDD"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "42" } },
+        "KRHV": { "callsign": "Reid Hillview", "coord": ["37.33306", "-121.81639"], "pre": ["RHV"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N1T" } },
         "KRIU": { "callsign": "Rancho Murieta", "coord": ["38.486778", "-121.102778"], "pre": ["RIU"] },
-        "KRNO": { "callsign": "Reno", "coord": ["39.498575", "-119.768064"], "pre": ["RNO"] },
+        "KRNO": { "callsign": "Reno", "coord": ["39.498575", "-119.768064"], "pre": ["RNO"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N8S" } },
         "KRTS": { "callsign": "Reno/Stead", "coord": ["39.668177", "-119.87644"], "pre": ["RTS"] },
-        "KSAC": { "callsign": "Executive", "coord": ["38.512528", "-121.493472"], "pre": ["SAC"] },
-        "KSCK": { "callsign": "Stockton", "coord": ["37.894267", "-121.238619"], "pre": ["SCK"] },
-        "KSFO": { "callsign": "San Francisco", "coord": ["37.619", "-122.374833"], "pre": ["SFO"], "runways": ["28/01", "28", "01", "10/19", "10", "19"] },
-        "KSJC": { "callsign": "San Jose", "coord": ["37.361861", "-121.929008"], "pre": ["SJC"], "runways": ["30", "12"] },
-        "KSMF": { "callsign": "Capitol", "coord": ["38.695422", "-121.590767"], "pre": ["SMF"], "runways": ["17", "35"] },
-        "KSNS": { "callsign": "Salinas", "coord": ["36.662792", "-121.606361"], "pre": ["SNS"] },
+        "KSAC": { "callsign": "Executive", "coord": ["38.512528", "-121.493472"], "pre": ["SAC"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N5P" } },
+        "KSCK": { "callsign": "Stockton", "coord": ["37.894267", "-121.238619"], "pre": ["SCK"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N3Y" } },
+        "KSFO": { "callsign": "San Francisco", "coord": ["37.619", "-122.374833"], "pre": ["SFO"], "runways": ["28/01", "28", "01", "10/19", "10", "19"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N4U" } },
+        "KSJC": { "callsign": "San Jose", "coord": ["37.361861", "-121.929008"], "pre": ["SJC"], "runways": ["30", "12"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N1T" } },
+        "KSMF": { "callsign": "Capitol", "coord": ["38.695422", "-121.590767"], "pre": ["SMF"], "runways": ["17", "35"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N5P" } },
+        "KSNS": { "callsign": "Salinas", "coord": ["36.662792", "-121.606361"], "pre": ["SNS"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N1S" } },
         "KSPZ": { "callsign": "Silver Springs", "coord": ["39.403056", "-119.251194"], "pre": ["SPZ"] },
-        "KSQL": { "callsign": "San Carlos", "coord": ["37.51667", "-122.25"], "pre": ["SQL"] },
+        "KSQL": { "callsign": "San Carlos", "coord": ["37.51667", "-122.25"], "pre": ["SQL"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "N2W" } },
         "KSRF": { "callsign": "Hamilton Army CA", "coord": ["38.06667", "-122.5"], "pre": ["SRF"] },
-        "KSTS": { "callsign": "Santa Rosa", "coord": ["38.508978", "-122.812881"], "pre": ["STS"] },
-        "KSUU": { "callsign": "Travis", "coord": ["38.262553", "-121.927575"], "pre": ["SUU"] },
+        "KSTS": { "callsign": "Santa Rosa", "coord": ["38.508978", "-122.812881"], "pre": ["STS"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "40" } },
+        "KSUU": { "callsign": "Travis", "coord": ["38.262553", "-121.927575"], "pre": ["SUU"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "SUU" } },
         "KSVE": { "callsign": "Susanville Muni CA", "coord": ["40.38306", "-120.56639"], "pre": ["SVE"] },
         "KTCY": { "callsign": "Tracy Muni", "coord": ["37.688896", "-121.441575"], "pre": ["TCY"] },
         "KTLR": { "callsign": "Mefford Field", "coord": ["36.156583", "-119.326556"], "pre": ["TLR"] },
-        "KTRK": { "callsign": "Truckee", "coord": ["39.320042", "-120.139564"], "pre": ["TRK"] },
+        "KTRK": { "callsign": "Truckee", "coord": ["39.320042", "-120.139564"], "pre": ["TRK"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "44" } },
         "KTVL": { "callsign": "South Lake Tahoe Lake Tahoe CA", "coord": ["38.893881", "-119.995336"], "pre": ["TVL"] },
         "KUKI": { "callsign": "Ukiah Muni", "coord": ["39.125944", "-123.200861"], "pre": ["UKI"] },
         "KVCB": { "callsign": "Nut Tree", "coord": ["38.378222", "-121.961194"], "pre": ["VCB"] },

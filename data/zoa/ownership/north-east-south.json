@@ -1,6 +1,7 @@
 {
     "name": "North / East / South",
     "description": "Area/Pacific North and NCT combine into 41, Area East combines into 44, Area/Pacific South combine into 14. 41 has priority over 42 for Sector 42.",
+    "type": "ownership",
     "airspace": {
         "30": ["30", "33", "34", "44", "42"],
         "33": ["33", "34", "44", "42"],
@@ -50,7 +51,7 @@
         "N4U": ["N4U", "N2B", "41", "42"],
 
         "N5E": ["N5E", "N5P", "N2B", "41", "42"],
-        "N5P": ["N5P", "N2B", "41", "42"],
+        "N5P": ["N5P", "N5E", "N2B", "41", "42"],
         
         "N8N": ["N8N", "N8S", "45", "46", "44", "42"],
         "N8S": ["N8S", "N8N", "45", "46", "44", "42"],

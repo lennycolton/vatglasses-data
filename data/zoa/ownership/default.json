@@ -1,6 +1,7 @@
 {
     "name": "<b>Default</b>",
     "description": "All areas are standalone and combine directly into 42. 42 covers NCT top down.",
+    "type": "ownership",
     "airspace": {
         "30": ["30", "33", "34", "44", "42"],
         "33": ["33", "34", "44", "42"],
@@ -37,7 +38,6 @@
         "N2B": ["N2B", "42"],
         "N2Z": ["N2Z", "N2B", "42"],
         "N2F": ["N2F", "N2W", "N2B", "42"],
-        "N2G": ["N2G", "N2B", "42"],
         "N2L": ["N2L", "N2B", "42"],
         "N2N": ["N2N", "N2Z", "N2B", "42"],
         "N2W": ["N2W", "N2B", "42"],
@@ -50,7 +50,7 @@
         "N4U": ["N4U", "N2B", "42"],
 
         "N5E": ["N5E", "N5P", "N2B", "42"],
-        "N5P": ["N5P", "N2B", "42"],
+        "N5P": ["N5P", "N5E", "N2B", "42"],
         
         "N8N": ["N8N", "N8S", "45", "46", "44", "42"],
         "N8S": ["N8S", "N8N", "45", "46", "44", "42"],
@@ -77,8 +77,8 @@
         "KMHR": { "major": "KSMF" },
         "KMOD": { "default": false, "sector": "N3Y" },
         "KMRY": { "default": false, "sector": "N1S" },
-        "KNFL": { "sector": "45" },
-        "KNLC": { "sector": "10" },
+        "KNFL": { "sector": "NFL" },
+        "KNLC": { "sector": "NLC" },
         "KNUQ": { "default": false, "sector": "N1L" },
         "KOAK": { "default": false, "sector": "N4R" },
         "KPAO": { "default": false, "sector": "N1T" },
@@ -93,7 +93,7 @@
         "KSNS": { "default": false, "sector": "N1S" },
         "KSQL": { "default": false, "sector": "N2W" },
         "KSTS": { "sector": "40" },
-        "KSUU": { "sector": "40" },
+        "KSUU": { "sector": "SUU" },
         "KTRK": { "sector": "44" }
     }
 }
