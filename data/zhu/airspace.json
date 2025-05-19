@@ -3,6 +3,7 @@
         "AUS": {
             "id": "Austin",
             "group": "APP",
+            "parent": "96",
             "sectors": [
                 {
                     "min": 0,
@@ -81,6 +82,7 @@
         "BTR": {
             "id": "Baton Rouge",
             "group": "APP",
+            "parent": "34",
             "sectors": [
             {
                 "min": 0,
@@ -123,6 +125,7 @@
         "CRP": {
             "id": "Corpus Christi",
             "group": "APP",
+            "parent": "58",
             "sectors": [
             {
                 "min": 0,
@@ -160,6 +163,7 @@
         "DLF": {
             "id": "Del Rio",
             "group": "RAP",
+            "parent": "98",
             "sectors": [
             {
                 "min": 0,
@@ -233,6 +237,7 @@
         "GPT": {
             "id": "Gulfport",
             "group": "APP",
+            "parent": "63",
             "sectors": [
             {
                 "min": 0,
@@ -265,6 +270,7 @@
         "I1N": {
             "id": "I90 North Arrival",
             "group": "APP",
+            "parent": "I1D",
             "sectors": [
                 {
                     "min": 55,
@@ -741,6 +747,7 @@
         "I1G": {
             "id": "I90 Gulf Arrival",
             "group": "APP",
+            "parent": "I1D",
             "sectors": [
                 {
                     "min": 55,
@@ -1004,6 +1011,7 @@
         "I1X": {
             "id": "I90 Eagle Lake Arrival ",
             "group": "APP",
+            "parent": "I1D",
             "sectors": [
                 {
                     "min": 105,
@@ -1409,7 +1417,7 @@
         "I1M": {
             "id": "I90 Departure North",
             "group": "DEP",
-
+            "parent": "I1D",
             "sectors": [
                 {
                     "min": 95,
@@ -2370,6 +2378,7 @@
         "I1E": {
             "id": "I90 Departure East",
             "group": "DEP",
+            "parent": "I1M",
             "sectors": [
                 {
                     "min": 35,
@@ -3355,6 +3364,7 @@
         "I1L": {
             "id": "I90 Departure South",
             "group": "DEP",
+            "parent": "I1M",
             "sectors": [
                 {
                     "min": 125,
@@ -3933,6 +3943,7 @@
         "I1W": {
             "id": "I90 Departure West",
             "group": "DEP",
+            "parent": "I1M",
             "sectors": [
                 {
                     "min": 135,
@@ -4980,7 +4991,7 @@
         "I1R": {
             "id": "I90 Tomball Satellite",
             "group": "APP",
-
+            "parent": "I1M",
             "sectors": [
                 {
                     "min": 0,
@@ -5450,7 +5461,7 @@
         "I1P": {
             "id": "I90 Lake Side Satellite",
             "group": "APP",
-
+            "parent": "I1M",
             "sectors": [
                 {
                     "min": 0,
@@ -5925,6 +5936,7 @@
         "I1B": {
             "id": "I90 SanJac Satellite",
             "group": "APP",
+            "parent": "I1M",
             "sectors": [
                 {
                     "min": 0,
@@ -6413,6 +6425,7 @@
         "I1J": {
             "id": "I90 Beaumont Satellite",
             "group": "APP",
+            "parent": "I1M",
             "sectors": [
                 {
                 "min": 0,
@@ -6588,6 +6601,7 @@
         "I1U": {
             "id": "I90 College Satellite",
             "group": "APP",
+            "parent": "I1M",
             "sectors": [
                 {
                 "min": 0,
@@ -6644,6 +6658,7 @@
         "I1Z": {
             "id": "I90 Industry Satellite",
             "group": "APP",
+            "parent": "I1U",
             "sectors": [
                 {
                 "min": 0,
@@ -6792,6 +6807,7 @@
         "I1A": {
             "id": "Houston North Finals",
             "group": "APP",
+            "parent": "I1D",
             "sectors": [
                 {
                 "min": 55,
@@ -6978,6 +6994,7 @@
         "I1O": {
             "id": "Houston South Finals",
             "group": "APP",
+            "parent": "I1D",
             "sectors": [
                 {
                     "min": 55,
@@ -7130,6 +7147,7 @@
         "NQI": {
             "id": "Kingsville",
             "group": "RAP",
+            "parent": "58",
             "sectors": [
             {
                 "min": 0,
@@ -7161,6 +7179,7 @@
         "LCH": {
             "id": "Lake Charles",
             "group": "APP",
+            "parent": "36",
             "sectors": [
             {
                 "min": 0,
@@ -7190,6 +7209,7 @@
         "LFT": {
             "id": "Lafayette",
             "group": "APP",
+            "parent": "34",
             "sectors": [
             {
                 "min": 0,
@@ -7220,6 +7240,7 @@
         "MOB": {
             "id": "Mobile",
             "group": "APP",
+            "parent": "25",
             "sectors": [
             {
                 "min": 0,
@@ -7274,6 +7295,7 @@
         "MSY": {
             "id": "New Orleans",
             "group": "APP",
+            "parent": "27",
             "sectors": [
             {
                 "min": 0,
@@ -7382,6 +7404,7 @@
         "POE": {
             "id": "Polk",
             "group": "RAP",
+            "parent": "40",
             "sectors": [
             {
                 "min": 0,
@@ -7423,6 +7446,7 @@
         "SAT": {
             "id": "San Antonio",
             "group": "APP",
+            "parent": "50",
             "sectors": [
             {
                 "min": 0,
@@ -7528,6 +7552,7 @@
         "VLY": {
             "id": "Valley",
             "group": "APP",
+            "parent": "58",
             "sectors": [
             {
                 "min": 0,
@@ -7562,6 +7587,7 @@
         "24": {
             "id": "24 LEEVILLE",
             "group": "NEW",
+            "parent": "27",
             "sectors": [
             {
                 "min": 105,
@@ -7623,6 +7649,7 @@
         "25": {
             "id": "25 BROOKLEY",
             "group": "NEW",
+            "parent": "27",
             "sectors": [
             {
                 "min": 0,
@@ -7860,6 +7887,7 @@
         "28": {
             "id": "28 OFFSHORE WEST",
             "group": "OCN",
+            "parent": "53",
             "sectors": [
             {
                 "min": 0,
@@ -7910,6 +7938,7 @@
         "30": {
             "id": "30 OFFSHORE EAST",
             "group": "OCN",
+            "parent": "53",
             "sectors": [
             {
                 "min": 0,
@@ -7981,6 +8010,7 @@
         "34": {
             "id": "34 BATON ROUGE",
             "group": "NEW",
+            "parent": "27",
             "sectors": [
             {
                 "min": 105,
@@ -8061,6 +8091,7 @@
         "36": {
             "id": "36 LIBERTY",
             "group": "LCH",
+            "parent": "43",
             "sectors": [
             {
                 "min": 105,
@@ -8175,6 +8206,7 @@
         "40": {
             "id": "40 POLK",
             "group": "LFK",
+            "parent": "38",
             "sectors": [
             {
                 "min": 0,
@@ -8310,6 +8342,7 @@
         "49": {
             "id": "49 LUFKIN",
             "group": "LFK",
+            "parent": "38",
             "sectors": [
             {
                 "min": 0,
@@ -8500,6 +8533,7 @@
         "56": {
             "id": "56 SHINER",
             "group": "CRP",
+            "parent": "87",
             "sectors": [
             {
                 "min": 0,
@@ -8651,6 +8685,7 @@
         "58": {
             "id": "58 BROWNSVILLE",
             "group": "CRP",
+            "parent": "87",
             "sectors": [
             {
                 "min": 0,
@@ -8805,6 +8840,7 @@
         "80": {
             "id": "80 INDUSTRY",
             "group": "AUS",
+            "parent": "83",
             "sectors": [
             {
                 "min": 125,
@@ -8961,6 +8997,7 @@
         "85": {
             "id": "85 KELLY",
             "group": "RSG",
+            "parent": "50",
             "sectors": [
             {
                 "min": 0,
@@ -9201,6 +9238,7 @@
         "93": {
             "id": "93 LAREDO",
             "group": "CRP",
+            "parent": "8s7",
             "sectors": [
             {
                 "min": 0,
@@ -9243,6 +9281,7 @@
         "96": {
             "id": "96 BERGSTROM",
             "group": "AUS",
+            "parent": "83",
             "sectors": [
             {
                 "min": 0,
@@ -9344,6 +9383,7 @@
         "98": {
             "id": "98 ROCKSPRINGS",
             "group": "RSG",
+            "parent": "50",
             "sectors": [
             {
                 "min": 0,
@@ -9475,6 +9515,7 @@
         "72": {
             "id": "72 OCEAN EAST",
             "group": "OCN",
+            "parent": "79",
             "sectors": [
             {
                 "min": 0,
@@ -9525,6 +9566,7 @@
         "79": {
             "id": "79 OCEAN WEST",
             "group": "OCN",
+            "parent": "53",
             "sectors": [
             {
                 "min": 105,
@@ -9582,6 +9624,7 @@
         "26": {
             "id": "26 WOODVILLE",
             "group": "LFK",
+            "parent": "46",
             "sectors": [
             {
                 "min": 235,
@@ -9610,6 +9653,7 @@
         "42": {
             "id": "42 ALEXANDRIA",
             "group": "LFK",
+            "parent": "46",
             "sectors": [
             {
                 "min": 235,
@@ -9658,6 +9702,7 @@
         "46": {
             "id": "46 HOUSTON",
             "group": "LFK",
+            "parent": "38",
             "sectors": [
             {
                 "min": 235,
@@ -9691,6 +9736,7 @@
         "59": {
             "id": "59 CORPUS",
             "group": "CRP",
+            "parent": "84",
             "sectors": [
             {
                 "min": 235,
@@ -9742,6 +9788,7 @@
         "63": {
             "id": "63 MOBILE",
             "group": "NEW",
+            "parent": "37",
             "sectors": [
             {
                 "min": 235,
@@ -9783,6 +9830,7 @@
         "65": {
             "id": "65 MCCOMB",
             "group": "NEW",
+            "parent": "37",
             "sectors": [
             {
                 "min": 235,
@@ -9819,6 +9867,7 @@
         "68": {
             "id": "68 GALVESTON",
             "group": "LCH",
+            "parent": "23",
             "sectors": [
             {
                 "min": 235,
@@ -9879,6 +9928,7 @@
         "70": {
             "id": "70 TIBBY",
             "group": "LCH",
+            "parent": "23",
             "sectors": [
             {
                 "min": 235,
@@ -9932,6 +9982,7 @@
         "74": {
             "id": "74 ALAMO",
             "group": "RSG",
+            "parent": "88",
             "sectors": [
             {
                 "min": 235,
@@ -9971,6 +10022,7 @@
         "78": {
             "id": "78 AUSTIN",
             "group": "AUS",
+            "parent": "83",
             "sectors": [
             {
                 "min": 235,
@@ -10002,6 +10054,7 @@
         "82": {
             "id": "82 BILEE",
             "group": "AUS",
+            "parent": "78",
             "sectors": [
             {
                 "min": 235,
@@ -10027,6 +10080,7 @@
         "95": {
             "id": "95 PALACIOS",
             "group": "CRP",
+            "parent": "84",
             "sectors": [
             {
                 "min": 235,
@@ -10060,6 +10114,7 @@
         "97": {
             "id": "97 JUNCTION",
             "group": "RSG",
+            "parent": "88",
             "sectors": [
             {
                 "min": 275,
@@ -10105,6 +10160,7 @@
         "23": {
             "id": "23 WHITE LAKE",
             "group": "LCH",
+            "parent": "43",
             "sectors": [
             {
                 "min": 345,
@@ -10145,6 +10201,7 @@
         "37": {
             "id": "37 HATTIESBURG",
             "group": "NEW",
+            "parent": "27",
             "sectors": [
             {
                 "min": 345,
@@ -10201,6 +10258,7 @@
         "76": {
             "id": "76 SLIMM",
             "group": "RSG",
+            "parent": "88",
             "sectors": [
             {
                 "min": 355,
@@ -10237,6 +10295,7 @@
         "81": {
             "id": "81 ESLER",
             "group": "LFK",
+            "parent": "46",
             "sectors": [
             {
                 "min": 345,
@@ -10270,6 +10329,7 @@
         "84": {
             "id": "84 SOTEX",
             "group": "CRP",
+            "parent": "87",
             "sectors": [
             {
                 "min": 345,
@@ -10335,6 +10395,7 @@
         "88": {
             "id": "88 FRIO",
             "group": "RSG",
+            "parent": "50",
             "sectors": [
             {
                 "min": 355,
@@ -10378,6 +10439,7 @@
         "92": {
             "id": "92 VOODOO",
             "group": "NEW",
+            "parent": "37",
             "sectors": [
             {
                 "min": 345,
