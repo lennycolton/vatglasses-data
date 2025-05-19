@@ -4,7 +4,7 @@
       "id": "Bellingham",
       "comment": "CZVR_BLI_TWR",
       "group": "TWR",
-      "owner": ["BT", "S12", "S16"],
+      "owner": ["BT", "S12", "S31", "S01", "S16"],
       "sectors": [
         {
           "min": 0,
@@ -82,7 +82,7 @@
     {
       "id": "Sector 4",
       "group": "CTR",
-      "owner": ["S4", "S16"],
+      "owner": ["S04", "S06", "S16"],
       "sectors": [
         {
           "min": 91,
@@ -138,7 +138,7 @@
     {
       "id": "Sector 6",
       "group": "CTR",
-      "owner": ["S6", "S16"],
+      "owner": ["S06", "S16"],
       "sectors": [
         {
           "min": 0,
@@ -297,7 +297,7 @@
     {
       "id": "Sector 34",
       "group": "CTR",
-      "owner": ["S34", "S16"],
+      "owner": ["S34", "S05", "S06", "S16"],
       "sectors": [
         {
           "min": 0,
@@ -324,7 +324,7 @@
     {
       "id": "Sector 5",
       "group": "CTR",
-      "owner": ["S5", "S16"],
+      "owner": ["S05", "S06", "S16"],
       "sectors": [
         {
           "min": 131,
@@ -549,7 +549,7 @@
     {
       "id": "Sector 35",
       "group": "CTR",
-      "owner": ["S35", "S16"],
+      "owner": ["S35", "S05", "S06", "S16"],
       "sectors": [
         {
           "min": 0,
@@ -572,7 +572,7 @@
     {
       "id": "Sector 42",
       "group": "CTR",
-      "owner": ["S42", "S16"],
+      "owner": ["S42", "S46", "S16"],
       "sectors": [
         {
           "min": 240,
@@ -655,7 +655,7 @@
     {
       "id": "Sector 8",
       "group": "CTR",
-      "owner": ["S8", "S48", "S16"],
+      "owner": ["S08", "S48", "S06", "S01", "S16"],
       "sectors": [
         {
           "max": 239,
@@ -696,7 +696,7 @@
     {
       "id": "Sector 18",
       "group": "CTR",
-      "owner": ["S18", "S48", "S16"],
+      "owner": ["S18", "S08", "S48", "S06", "S01", "S16"],
       "sectors": [
         {
           "min": 160,
@@ -773,7 +773,7 @@
     {
       "id": "Sector 9",
       "group": "CTR",
-      "owner": ["S9", "S48", "S16"],
+      "owner": ["S09", "S08", "S48", "S06", "S01", "S16"],
       "sectors": [
         {
           "min": 101,
@@ -866,7 +866,7 @@
     {
       "id": "Sector 7",
       "group": "CTR",
-      "owner": ["S7", "S48", "S16"],
+      "owner": ["S07", "S11", "S48", "S01", "S16"],
       "sectors": [
         {
           "min": 240,
@@ -896,7 +896,7 @@
     {
       "id": "Sector 11",
       "group": "CTR",
-      "owner": ["S7", "S48", "S16"],
+      "owner": ["S07", "S48", "S01", "S16"],
       "sectors": [
         {
           "min": 240,
@@ -923,7 +923,7 @@
     {
       "id": "Sector 48",
       "group": "CTR",
-      "owner": ["S48", "S16"],
+      "owner": ["S48", "S01", "S16"],
       "sectors": [
         {
           "min": 240,
@@ -944,7 +944,7 @@
     {
       "id": "Sector 47",
       "group": "CTR",
-      "owner": ["S47", "S48", "S16"],
+      "owner": ["S47", "S48", "S01", "S16"],
       "sectors": [
         {
           "min": 240,
@@ -970,7 +970,7 @@
     {
       "id": "Sector 10",
       "group": "CTR",
-      "owner": ["S10", "S14", "S16"],
+      "owner": ["S10", "S30", "S36", "S06", "S14", "S16"],
       "sectors": [
         {
           "max": 239,
@@ -1004,7 +1004,7 @@
     {
       "id": "Sector 30",
       "group": "CTR",
-      "owner": ["S30", "S14", "S16"],
+      "owner": ["S30", "S36", "S06", "S14", "S16"],
       "sectors": [
         {
           "max": 239,
@@ -1039,7 +1039,7 @@
     {
       "id": "Sector 36",
       "group": "CTR",
-      "owner": ["S36", "S14", "S16"],
+      "owner": ["S36", "S06", "S14", "S16"],
       "sectors": [
         {
           "max": 239,
@@ -1143,7 +1143,7 @@
     {
       "id": "Sector 3",
       "group": "CTR",
-      "owner": ["S3", "S31", "S16"],
+      "owner": ["S03", "S12", "S31", "S01", "S16"],
       "sectors": [
         {
           "min": 290,
@@ -1480,7 +1480,7 @@
     {
       "id": "Sector 2",
       "group": "CTR",
-      "owner": ["S2", "S1", "S16"],
+      "owner": ["S02", "S03", "S12", "S31", "S01", "S16"],
       "sectors": [
         {
           "max": 90,
@@ -1695,7 +1695,7 @@
     {
       "id": "Sector 12",
       "group": "CTR",
-      "owner": ["S12", "S1", "S16"],
+      "owner": ["S12", "S31", "S01", "S16"],
       "sectors": [
         {
           "max": 150,
@@ -1816,7 +1816,7 @@
     {
       "id": "Sector 31",
       "group": "CTR",
-      "owner": ["S3", "S1", "S16"],
+      "owner": ["S31", "S01", "S16"],
       "sectors": [
         {
           "max": 159,
@@ -2014,7 +2014,7 @@
     {
       "id": "Sector 1",
       "group": "CTR",
-      "owner": ["S1", "S16"],
+      "owner": ["S01", "S16"],
       "sectors": [
         {
           "max": 89,
@@ -2077,7 +2077,7 @@
     {
       "id": "Sector 32",
       "group": "CTR",
-      "owner": ["S32", "S1", "S16"],
+      "owner": ["S32", "S01", "S16"],
       "sectors": [
         {
           "runways": [
@@ -2205,106 +2205,106 @@
       "pre": ["BLI"],
       "colours": [
         {
-          "hex": "#00ef00"
+          "hex": "#ff00ff"
         }
       ]
     },
-    "S1": {
+    "S01": {
       "callsign": "Seattle Center",
       "frequency": "120.300",
       "type": "CTR",
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#00ff00"
         }
       ]
     },
-    "S2": {
+    "S02": {
       "callsign": "Seattle Center",
       "frequency": "128.300",
       "type": "CTR",
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#00ff00"
         }
       ]
     },
-    "S3": {
+    "S03": {
       "callsign": "Seattle Center",
       "frequency": "125.100",
       "type": "CTR",
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#00ff00"
         }
       ]
     },
-    "S4": {
+    "S04": {
       "callsign": "Seattle Center",
       "frequency": "124.200",
       "type": "CTR",
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ffff00"
         }
       ]
     },
-    "S5": {
+    "S05": {
       "callsign": "Seattle Center",
       "frequency": "128.150",
       "type": "CTR",
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ffff00"
         }
       ]
     },
-    "S6": {
+    "S06": {
       "callsign": "Seattle Center",
       "frequency": "125.800",
       "type": "CTR",
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ffff00"
         }
       ]
     },
-    "S7": {
+    "S07": {
       "callsign": "Seattle Center",
       "frequency": "128.450",
       "type": "CTR",
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#0e990e"
+          "hex": "#ff0000"
         }
       ]
     },
-    "S8": {
+    "S08": {
       "callsign": "Seattle Center",
       "frequency": "123.950",
       "type": "CTR",
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ff0000"
         }
       ]
     },
-    "S9": {
+    "S09": {
       "callsign": "Seattle Center",
       "frequency": "132.600",
       "type": "CTR",
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ff0000"
         }
       ]
     },
@@ -2315,7 +2315,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#0000ff"
         }
       ]
     },
@@ -2326,7 +2326,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ff0000"
         }
       ]
     },
@@ -2337,7 +2337,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#00ff00"
         }
       ]
     },
@@ -2348,7 +2348,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#0000ff"
         }
       ]
     },
@@ -2359,7 +2359,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#0000ff"
         }
       ]
     },
@@ -2370,7 +2370,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#0000ff"
         }
       ]
     },
@@ -2381,7 +2381,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ffff00"
         }
       ]
     },
@@ -2392,7 +2392,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ff0000"
         }
       ]
     },
@@ -2403,7 +2403,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#0000ff"
         }
       ]
     },
@@ -2414,7 +2414,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#00ff00"
         }
       ]
     },
@@ -2425,7 +2425,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#00ff00"
         }
       ]
     },
@@ -2436,7 +2436,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ffff00"
         }
       ]
     },
@@ -2447,7 +2447,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ffff00"
         }
       ]
     },
@@ -2458,7 +2458,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#0000ff"
         }
       ]
     },
@@ -2469,7 +2469,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ffff00"
         }
       ]
     },
@@ -2480,7 +2480,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ffff00"
         }
       ]
     },
@@ -2491,7 +2491,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ff0000"
         }
       ]
     },
@@ -2502,7 +2502,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#3063f0"
+          "hex": "#ff0000"
         }
       ]
     }
