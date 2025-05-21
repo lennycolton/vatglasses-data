@@ -3,7 +3,6 @@
         "AUS": {
             "id": "Austin",
             "group": "APP",
-            "parent": "96",
             "sectors": [
                 {
                     "min": 0,
@@ -82,7 +81,6 @@
         "BTR": {
             "id": "Baton Rouge",
             "group": "APP",
-            "parent": "34",
             "sectors": [
             {
                 "min": 0,
@@ -125,7 +123,6 @@
         "CRP": {
             "id": "Corpus Christi",
             "group": "APP",
-            "parent": "58",
             "sectors": [
             {
                 "min": 0,
@@ -163,7 +160,6 @@
         "DLF": {
             "id": "Del Rio",
             "group": "RAP",
-            "parent": "98",
             "sectors": [
             {
                 "min": 0,
@@ -237,7 +233,6 @@
         "GPT": {
             "id": "Gulfport",
             "group": "APP",
-            "parent": "63",
             "sectors": [
             {
                 "min": 0,
@@ -268,9 +263,8 @@
         ]
         },
         "I1N": {
-            "id": "I90 North Arrival",
+            "id": "I90 West Arrival",
             "group": "APP",
-            "parent": "I1D",
             "sectors": [
                 {
                     "min": 55,
@@ -747,7 +741,6 @@
         "I1G": {
             "id": "I90 Gulf Arrival",
             "group": "APP",
-            "parent": "I1D",
             "sectors": [
                 {
                     "min": 55,
@@ -1011,7 +1004,6 @@
         "I1X": {
             "id": "I90 Eagle Lake Arrival ",
             "group": "APP",
-            "parent": "I1D",
             "sectors": [
                 {
                     "min": 105,
@@ -1417,7 +1409,6 @@
         "I1M": {
             "id": "I90 Departure North",
             "group": "DEP",
-            "parent": "I1D",
             "sectors": [
                 {
                     "min": 95,
@@ -2378,7 +2369,6 @@
         "I1E": {
             "id": "I90 Departure East",
             "group": "DEP",
-            "parent": "I1M",
             "sectors": [
                 {
                     "min": 35,
@@ -3364,7 +3354,6 @@
         "I1L": {
             "id": "I90 Departure South",
             "group": "DEP",
-            "parent": "I1M",
             "sectors": [
                 {
                     "min": 125,
@@ -3943,7 +3932,6 @@
         "I1W": {
             "id": "I90 Departure West",
             "group": "DEP",
-            "parent": "I1M",
             "sectors": [
                 {
                     "min": 135,
@@ -4991,7 +4979,6 @@
         "I1R": {
             "id": "I90 Tomball Satellite",
             "group": "APP",
-            "parent": "I1M",
             "sectors": [
                 {
                     "min": 0,
@@ -5461,7 +5448,6 @@
         "I1P": {
             "id": "I90 Lake Side Satellite",
             "group": "APP",
-            "parent": "I1M",
             "sectors": [
                 {
                     "min": 0,
@@ -5936,7 +5922,6 @@
         "I1B": {
             "id": "I90 SanJac Satellite",
             "group": "APP",
-            "parent": "I1M",
             "sectors": [
                 {
                     "min": 0,
@@ -6425,7 +6410,6 @@
         "I1J": {
             "id": "I90 Beaumont Satellite",
             "group": "APP",
-            "parent": "I1M",
             "sectors": [
                 {
                 "min": 0,
@@ -6601,7 +6585,6 @@
         "I1U": {
             "id": "I90 College Satellite",
             "group": "APP",
-            "parent": "I1M",
             "sectors": [
                 {
                 "min": 0,
@@ -6658,7 +6641,6 @@
         "I1Z": {
             "id": "I90 Industry Satellite",
             "group": "APP",
-            "parent": "I1U",
             "sectors": [
                 {
                 "min": 0,
@@ -6805,9 +6787,8 @@
             ]
         },
         "I1A": {
-            "id": "Houston North Finals",
+            "id": "Houston North Final",
             "group": "APP",
-            "parent": "I1D",
             "sectors": [
                 {
                 "min": 55,
@@ -6992,9 +6973,8 @@
             ]
         },
         "I1O": {
-            "id": "Houston South Finals",
+            "id": "Houston South Final",
             "group": "APP",
-            "parent": "I1D",
             "sectors": [
                 {
                     "min": 55,
@@ -7144,10 +7124,185 @@
                 }
             ]
         },
+        "I1H": {
+            "id": "Hobby Final",
+            "group": "APP",
+            "sectors": [
+                {
+                    "min": 35,
+                    "max": 64,
+                    "runways": [
+                        {
+                        "icao": "KHOU",
+                        "runway": "4"
+                        }
+                    ],
+                    "points": [
+                        ["292538","-0954230"],
+                        ["291517","-0953003"],
+                        ["291851","-0952554"],
+                        ["292728","-0953603"],
+                        ["293111","-0953624"],
+                        ["292538","-0954230"]
+                    ]
+                },
+                {
+                    "min": 0,
+                    "max": 64,
+                    "runways": [
+                        {
+                        "icao": "KHOU",
+                        "runway": "4"
+                        }
+                    ],
+                    "points": [
+                        ["293111","-0953624"],
+                        ["292728","-0953603"],
+                        ["291851","-0952554"],
+                        ["292812","-0951502"],
+                        ["293308","-0951556"],
+                        ["293307","-0951745"],
+                        ["293325","-0951916"],
+                        ["293351","-0952017"],
+                        ["293208","-0952128"],
+                        ["293242","-0952224"],
+                        ["293305","-0952255"],
+                        ["293327","-0952322"],
+                        ["293412","-0952405"],
+                        ["293536","-0952504"],
+                        ["293705","-0952539"],
+                        ["293802","-0952551"],
+                        ["293949","-0952603"],
+                        ["293951","-0952642"],
+                        ["293111","-0953624"]
+                    ]
+                },
+                {
+                    "min": 5,
+                    "max": 64,
+                    "runways": [
+                        {
+                        "icao": "KHOU",
+                        "runway": "4"
+                        }
+                    ],
+                    "points": [
+                        ["293949","-0952603"],
+                        ["293802","-0952551"],
+                        ["293705","-0952539"],
+                        ["293536","-0952504"],
+                        ["293412","-0952405"],
+                        ["293327","-0952322"],
+                        ["293305","-0952255"],
+                        ["293242","-0952224"],
+                        ["293208","-0952128"],
+                        ["293351","-0952017"],
+                        ["293325","-0951916"],
+                        ["293307","-0951745"],
+                        ["293308","-0951556"],
+                        ["293923","-0951708"],
+                        ["293949","-0952603"]
+                    ]
+                },
+                {
+                    "min": 55,
+                    "max": 64,
+                    "runways": [
+                        {
+                        "icao": "KHOU",
+                        "runway": "22"
+                        }
+                    ],
+                    "points": [
+                        ["294018","-0951716"],
+                        ["293923","-0951708"],
+                        ["293212","-0951548"],
+                        ["293428","-0950920"],
+                        ["294018","-0951716"]
+                    ]
+                },
+                {
+                    "min": 5,
+                    "max": 64,
+                    "runways": [
+                        {
+                        "icao": "KHOU",
+                        "runway": "22"
+                        }
+                    ],
+                    "points": [
+                        ["294018","-0951716"],
+                        ["293615","-0951145"],
+                        ["294146","-0951158"],
+                        ["294332","-0950910"],
+                        ["294545","-0951145"],
+                        ["294545","-0951233"],
+                        ["294018","-0951716"]
+                    ]
+                },
+                {
+                    "min": 0,
+                    "max": 64,
+                    "runways": [
+                        {
+                        "icao": "KHOU",
+                        "runway": "22"
+                        }
+                    ],
+                    "points": [
+                        ["294332","-0950910"],
+                        ["294146","-0951158"],
+                        ["293615","-0951145"],
+                        ["293605","-0951133"],
+                        ["294110","-0950615"],
+                        ["294332","-0950910"]
+                    ]
+                },
+                {
+                    "min": 35,
+                    "max": 64,
+                    "runways": [
+                        {
+                        "icao": "KHOU",
+                        "runway": "22"
+                        }
+                    ],
+                    "points": [
+                        ["293605","-0951133"],
+                        ["293428","-0950920"],
+                        ["292928","-0944529"],
+                        ["293242","-0944451"],
+                        ["293742","-0944926"],
+                        ["294511","-0950207"],
+                        ["294110","-0950615"],
+                        ["293605","-0951133"]
+                    ]
+                },
+                {
+                    "min": 0,
+                    "max": 44,
+                    "runways": [
+                        {
+                        "icao": "KHOU",
+                        "runway": "22"
+                        }
+                    ],
+                    "points": [
+                        ["294545","-0951233"],
+                        ["294545","-0951145"],
+                        ["294332","-0950910"],
+                        ["294110","-0950615"],
+                        ["294511","-0950207"],
+                        ["294800","-0950624"],
+                        ["294801","-0951034"],
+                        ["294545","-0951233"]
+                    ]
+                }
+            ]
+        },
         "NQI": {
             "id": "Kingsville",
             "group": "RAP",
-            "parent": "58",
             "sectors": [
             {
                 "min": 0,
@@ -7179,7 +7334,6 @@
         "LCH": {
             "id": "Lake Charles",
             "group": "APP",
-            "parent": "36",
             "sectors": [
             {
                 "min": 0,
@@ -7209,7 +7363,6 @@
         "LFT": {
             "id": "Lafayette",
             "group": "APP",
-            "parent": "34",
             "sectors": [
             {
                 "min": 0,
@@ -7240,7 +7393,6 @@
         "MOB": {
             "id": "Mobile",
             "group": "APP",
-            "parent": "25",
             "sectors": [
             {
                 "min": 0,
@@ -7295,7 +7447,6 @@
         "MSY": {
             "id": "New Orleans",
             "group": "APP",
-            "parent": "27",
             "sectors": [
             {
                 "min": 0,
@@ -7404,7 +7555,6 @@
         "POE": {
             "id": "Polk",
             "group": "RAP",
-            "parent": "40",
             "sectors": [
             {
                 "min": 0,
@@ -7446,7 +7596,6 @@
         "SAT": {
             "id": "San Antonio",
             "group": "APP",
-            "parent": "50",
             "sectors": [
             {
                 "min": 0,
@@ -7552,7 +7701,6 @@
         "VLY": {
             "id": "Valley",
             "group": "APP",
-            "parent": "58",
             "sectors": [
             {
                 "min": 0,
@@ -7587,7 +7735,6 @@
         "24": {
             "id": "24 LEEVILLE",
             "group": "NEW",
-            "parent": "27",
             "sectors": [
             {
                 "min": 105,
@@ -7649,7 +7796,6 @@
         "25": {
             "id": "25 BROOKLEY",
             "group": "NEW",
-            "parent": "27",
             "sectors": [
             {
                 "min": 0,
@@ -7887,7 +8033,6 @@
         "28": {
             "id": "28 OFFSHORE WEST",
             "group": "OCN",
-            "parent": "53",
             "sectors": [
             {
                 "min": 0,
@@ -7938,7 +8083,6 @@
         "30": {
             "id": "30 OFFSHORE EAST",
             "group": "OCN",
-            "parent": "53",
             "sectors": [
             {
                 "min": 0,
@@ -8010,7 +8154,6 @@
         "34": {
             "id": "34 BATON ROUGE",
             "group": "NEW",
-            "parent": "27",
             "sectors": [
             {
                 "min": 105,
@@ -8091,7 +8234,6 @@
         "36": {
             "id": "36 LIBERTY",
             "group": "LCH",
-            "parent": "43",
             "sectors": [
             {
                 "min": 105,
@@ -8206,7 +8348,6 @@
         "40": {
             "id": "40 POLK",
             "group": "LFK",
-            "parent": "38",
             "sectors": [
             {
                 "min": 0,
@@ -8342,7 +8483,6 @@
         "49": {
             "id": "49 LUFKIN",
             "group": "LFK",
-            "parent": "38",
             "sectors": [
             {
                 "min": 0,
@@ -8533,7 +8673,6 @@
         "56": {
             "id": "56 SHINER",
             "group": "CRP",
-            "parent": "87",
             "sectors": [
             {
                 "min": 0,
@@ -8685,7 +8824,6 @@
         "58": {
             "id": "58 BROWNSVILLE",
             "group": "CRP",
-            "parent": "87",
             "sectors": [
             {
                 "min": 0,
@@ -8840,7 +8978,6 @@
         "80": {
             "id": "80 INDUSTRY",
             "group": "AUS",
-            "parent": "83",
             "sectors": [
             {
                 "min": 125,
@@ -8997,7 +9134,6 @@
         "85": {
             "id": "85 KELLY",
             "group": "RSG",
-            "parent": "50",
             "sectors": [
             {
                 "min": 0,
@@ -9238,7 +9374,6 @@
         "93": {
             "id": "93 LAREDO",
             "group": "CRP",
-            "parent": "87",
             "sectors": [
             {
                 "min": 0,
@@ -9281,7 +9416,6 @@
         "96": {
             "id": "96 BERGSTROM",
             "group": "AUS",
-            "parent": "83",
             "sectors": [
             {
                 "min": 0,
@@ -9383,7 +9517,6 @@
         "98": {
             "id": "98 ROCKSPRINGS",
             "group": "RSG",
-            "parent": "50",
             "sectors": [
             {
                 "min": 0,
@@ -9515,7 +9648,6 @@
         "72": {
             "id": "72 OCEAN EAST",
             "group": "OCN",
-            "parent": "79",
             "sectors": [
             {
                 "min": 0,
@@ -9566,7 +9698,6 @@
         "79": {
             "id": "79 OCEAN WEST",
             "group": "OCN",
-            "parent": "53",
             "sectors": [
             {
                 "min": 105,
@@ -9624,7 +9755,6 @@
         "26": {
             "id": "26 WOODVILLE",
             "group": "LFK",
-            "parent": "46",
             "sectors": [
             {
                 "min": 235,
@@ -9653,7 +9783,6 @@
         "42": {
             "id": "42 ALEXANDRIA",
             "group": "LFK",
-            "parent": "46",
             "sectors": [
             {
                 "min": 235,
@@ -9702,7 +9831,6 @@
         "46": {
             "id": "46 HOUSTON",
             "group": "LFK",
-            "parent": "38",
             "sectors": [
             {
                 "min": 235,
@@ -9736,7 +9864,6 @@
         "59": {
             "id": "59 CORPUS",
             "group": "CRP",
-            "parent": "84",
             "sectors": [
             {
                 "min": 235,
@@ -9788,7 +9915,6 @@
         "63": {
             "id": "63 MOBILE",
             "group": "NEW",
-            "parent": "37",
             "sectors": [
             {
                 "min": 235,
@@ -9830,7 +9956,6 @@
         "65": {
             "id": "65 MCCOMB",
             "group": "NEW",
-            "parent": "37",
             "sectors": [
             {
                 "min": 235,
@@ -9867,7 +9992,6 @@
         "68": {
             "id": "68 GALVESTON",
             "group": "LCH",
-            "parent": "23",
             "sectors": [
             {
                 "min": 235,
@@ -9928,7 +10052,6 @@
         "70": {
             "id": "70 TIBBY",
             "group": "LCH",
-            "parent": "23",
             "sectors": [
             {
                 "min": 235,
@@ -9982,7 +10105,6 @@
         "74": {
             "id": "74 ALAMO",
             "group": "RSG",
-            "parent": "88",
             "sectors": [
             {
                 "min": 235,
@@ -10022,7 +10144,6 @@
         "78": {
             "id": "78 AUSTIN",
             "group": "AUS",
-            "parent": "83",
             "sectors": [
             {
                 "min": 235,
@@ -10054,7 +10175,6 @@
         "82": {
             "id": "82 BILEE",
             "group": "AUS",
-            "parent": "78",
             "sectors": [
             {
                 "min": 235,
@@ -10080,7 +10200,6 @@
         "95": {
             "id": "95 PALACIOS",
             "group": "CRP",
-            "parent": "84",
             "sectors": [
             {
                 "min": 235,
@@ -10114,7 +10233,6 @@
         "97": {
             "id": "97 JUNCTION",
             "group": "RSG",
-            "parent": "88",
             "sectors": [
             {
                 "min": 275,
@@ -10160,7 +10278,6 @@
         "23": {
             "id": "23 WHITE LAKE",
             "group": "LCH",
-            "parent": "43",
             "sectors": [
             {
                 "min": 345,
@@ -10201,7 +10318,6 @@
         "37": {
             "id": "37 HATTIESBURG",
             "group": "NEW",
-            "parent": "27",
             "sectors": [
             {
                 "min": 345,
@@ -10258,7 +10374,6 @@
         "76": {
             "id": "76 SLIMM",
             "group": "RSG",
-            "parent": "88",
             "sectors": [
             {
                 "min": 355,
@@ -10295,7 +10410,6 @@
         "81": {
             "id": "81 ESLER",
             "group": "LFK",
-            "parent": "46",
             "sectors": [
             {
                 "min": 345,
@@ -10329,7 +10443,6 @@
         "84": {
             "id": "84 SOTEX",
             "group": "CRP",
-            "parent": "87",
             "sectors": [
             {
                 "min": 345,
@@ -10395,7 +10508,6 @@
         "88": {
             "id": "88 FRIO",
             "group": "RSG",
-            "parent": "50",
             "sectors": [
             {
                 "min": 355,
@@ -10439,7 +10551,6 @@
         "92": {
             "id": "92 VOODOO",
             "group": "NEW",
-            "parent": "37",
             "sectors": [
             {
                 "min": 345,
@@ -10524,7 +10635,7 @@
         "KCRP": { "pre": ["CRP"], "callsign": "Corpus", "coord": ["27.776462089188", "-97.5023091561595"], "ctaf": "119.400", "editor": true, "parent": { "automatch": false, "position": "46", "type": "sector" } },
         "KDLF": { "pre": ["DLF"], "callsign": "Laughlin", "coord": ["29.360902351936", "-100.778947326013"], "ctaf": "125.200", "editor": true, "parent": { "automatch": false, "position": "46", "type": "sector" } },
         "KGPT": { "pre": ["GPT"], "callsign": "Gulfport", "coord": ["30.413357782403", "-89.0727157450699"], "ctaf": "123.700", "editor": true, "parent": { "automatch": false, "position": "46", "type": "sector" } },
-        "KHOU": { "pre": ["HOU"], "callsign": "Hobby", "coord": ["29.646119147798", "-95.2768629316695"], "ctaf": "118.700", "editor": true, "parent": { "automatch": false, "position": "I1D", "type": "sector" } },
+        "KHOU": { "pre": ["HOU"], "callsign": "Hobby", "coord": ["29.646119147798", "-95.2768629316695"], "runways": ["4", "22"],"ctaf": "118.700", "editor": true, "parent": { "automatch": false, "position": "I1D", "type": "sector" } },
         "KIAH": { "pre": ["IAH"], "callsign": "Houston", "coord": ["29.987457392149", "-95.3422180518931"], "runways": ["8L/R, 9", "26R/L, 27"], "ctaf": "125.350", "editor": true, "parent": { "automatch": false, "position": "I1D", "type": "sector" } },
         "KLCH": { "pre": ["LCH"], "callsign": "Lake Charles", "coord": ["30.123173492858", "-93.2211612180917"], "ctaf": "120.700", "editor": true, "parent": { "automatch": false, "position": "46", "type": "sector" } },
         "KLFT": { "pre": ["LFT"], "callsign": "Lafayette", "coord": ["30.205088235182", "-91.9888114739112"], "ctaf": "118.500", "editor": true, "parent": { "automatch": false, "position": "46", "type": "sector" } },
