@@ -10437,7 +10437,6 @@
         "AYWK": { "callsign": "Wewak Intl", "coord": ["-3.583828","143.669186"] },
         "AYXM": { "callsign": "Komo", "coord": ["-6.063375","142.876806"] },
         "KAAA": {"callsign": "Logan County", "coord": ["40.158694", "-89.335028"]},
-        "KAAF": {"callsign": "Apalachicola Rgnl-Cleve Randolph Field", "coord": ["29.727549", "-85.027377"], "pre": ["AAF"]},
         "KAAO": {"callsign": "Colonel James Jabara", "coord": ["37.747583", "-97.221111"]},
         "KAAS": {"callsign": "Taylor County", "coord": ["37.358278", "-85.309417"], "pre": ["AAS"]},
         "KABE": {"callsign": "Allentown Intl PA", "coord": ["40.652364", "-75.440403"], "pre": ["ABE"], "topdown": ["KZNY"]},
