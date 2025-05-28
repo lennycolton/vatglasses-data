@@ -16543,7 +16543,7 @@
 		"LKPR_DEP": {"colours": [{"hex": "#cfe2f3"}], "pre": ["LKPR"], "type": "DEP", "frequency": "120.530", "callsign": "Praha Radar"},
 		"LKTB_APP": {"colours": [{"hex": "#cc0000"}], "pre": ["LKTB"], "type": "APP", "frequency": "127.350", "callsign": "Praha Radar"},
 		"LKTB_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKTB"], "type": "TWR", "frequency": "119.605", "callsign": "Tuřany Tower"},
-		"LKVO_APP": {"colours": [{"hex": "#073763"}], "pre": ["LKVO"], "type": "APP", "frequency": "127.480", "callsign": "Vodochody Approach"}
+		"LKVO_APP": {"colours": [{"hex": "#073763"}], "pre": ["LKVO"], "type": "APP", "frequency": "127.480", "callsign": "Vodochody Approach"},
 		"LKVO_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKVO"], "type": "TWR", "frequency": "133.080", "callsign": "Vodochody Tower"}
 	},
 	"callsigns":{
