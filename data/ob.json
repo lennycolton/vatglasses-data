@@ -7,8 +7,8 @@
                 "BBE",
                 "BB2",
                 "BB1",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -69,8 +69,8 @@
                 "BBE",
                 "BB2",
                 "BB1",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -101,8 +101,8 @@
                 "BBN",
                 "BB3",
                 "BB1",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -163,8 +163,8 @@
             "owner": [
                 "BB3",
                 "BB1",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -195,8 +195,8 @@
                 "BBE",
                 "BB2",
                 "BB1",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -224,8 +224,8 @@
             "owner": [
                 "BB2",
                 "BB1",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -252,8 +252,8 @@
             "group": "CTR",
             "owner": [
                 "BB1",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -339,8 +339,8 @@
                 "BBCL",
                 "BBCH",
                 "BB1",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -1188,30 +1188,6 @@
         }
     },
     "positions": {
-        "GCE": {
-            "callsign": "Gulf Control",
-            "frequency": "133.600",
-            "type": "FSS",
-            "pre": [
-                "GULF"
-            ]
-        },
-        "GC": {
-            "callsign": "Gulf Control",
-            "frequency": "133.650",
-            "type": "FSS",
-            "pre": [
-                "GULF"
-            ]
-        },
-        "GCW": {
-            "callsign": "Gulf Control",
-            "frequency": "133.500",
-            "type": "FSS",
-            "pre": [
-                "GULF"
-            ]
-        },
         "BB1": {
             "colours": [
                 {

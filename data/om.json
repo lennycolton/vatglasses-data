@@ -7,8 +7,8 @@
                 "AEA",
                 "AE2",
                 "AE1",
-                "GULFE",
-                "GULF"
+                "fss/GULFE",
+                "fss/GULFE"
             ],
             "sectors": [
                 {
@@ -126,8 +126,8 @@
             "owner": [
                 "AE2",
                 "AE1",
-                "GULFE",
-                "GULF"
+                "fss/GULFE",
+                "fss/GULFE"
             ],
             "sectors": [
                 {
@@ -189,8 +189,8 @@
                 "AE3",
                 "AE2",
                 "AE1",
-                "GULFE",
-                "GULF"
+                "fss/GULFE",
+                "fss/GULFE"
             ],
             "sectors": [
                 {
@@ -337,8 +337,8 @@
                 "AEE",
                 "AE4",
                 "AE1",
-                "GULFE",
-                "GULF"
+                "fss/GULFE",
+                "fss/GULFE"
             ],
             "sectors": [
                 {
@@ -604,8 +604,8 @@
             "owner": [
                 "AE4",
                 "AE1",
-                "GULFE",
-                "GULF"
+                "fss/GULFE",
+                "fss/GULFE"
             ],
             "sectors": [
                 {
@@ -645,8 +645,8 @@
             "group": "CTR",
             "owner": [
                 "AE1",
-                "GULFE",
-                "GULF"
+                "fss/GULFE",
+                "fss/GULFE"
             ],
             "sectors": [
                 {
@@ -678,8 +678,8 @@
                 "AEE",
                 "AE4",
                 "AE1",
-                "GULFE",
-                "GULF"
+                "fss/GULFE",
+                "fss/GULFE"
             ],
             "sectors": [
                 {
@@ -799,8 +799,8 @@
             "owner": [
                 "AE2",
                 "AE1",
-                "GULFE",
-                "GULF"
+                "fss/GULFE",
+                "fss/GULFE"
             ],
             "sectors": [
                 {
@@ -3102,22 +3102,6 @@
         }
     },
     "positions": {
-        "GULFE": {
-            "callsign": "Gulf Control",
-            "frequency": "133.600",
-            "type": "FSS",
-            "pre": [
-                "GULF"
-            ]
-        },
-        "GULF": {
-            "callsign": "Gulf Control",
-            "frequency": "133.650",
-            "type": "FSS",
-            "pre": [
-                "GULF"
-            ]
-        },
         "ARC": {
             "colours": [
                 {
