@@ -1,6 +1,6 @@
 {
     "name": "Default",
-    "description": "High E W / LOW / ZJX Limited Enroute Configuration / Events"
+    "description": "High E W / LOW / ZJX Limited Enroute Configuration / Events",
     "type": "ownership",
     "airspace": {
         "10": [ "10", "15", "30" ],
