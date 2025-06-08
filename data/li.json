@@ -11101,7 +11101,7 @@
       },   
       "OV1": {
         "callsign": "Roma Radar",
-        "frequency": "129.000",
+        "frequency": "123.415",
         "type": "CTR",
         "pre": ["LIRR"],
         "colours": [{ "hex": "#00fff2" }]
