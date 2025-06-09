@@ -3,6 +3,11 @@ Airport and sector data for the VATGlasses project.
 
 https://vatglasses.uk
 
+## Discord
+For discussions and tech support, join us on Discord!
+
+Invite Code: WSpH58quHA
+
 ## Wiki
 Please take a look at the [wiki](https://github.com/lennycolton/vatglasses-data/wiki) for information about:
 - The Data Format
