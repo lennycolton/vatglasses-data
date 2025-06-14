@@ -817,7 +817,7 @@
       "id": "Madeira",
       "comment": "LPMA_TMA",
       "group": "APP",
-      "owner": ["TMAMA", "MAAS", "MADL", "OESL", "C"],
+      "owner": ["TMAMA", "MAAS", "MADL", "WSTL", "OESX", "C"],
       "sectors": [
         {
           "min": 10,
@@ -1456,7 +1456,7 @@
       "id": "Centre Low",
       "comment": "CENTRE_LOWER",
       "group": "LPPC",
-      "owner": ["CENL", "ESTL", "C", "fss/EUCWS"],
+      "owner": ["CENL", "ESTL", "C"],
       "sectors": [
         {
           "min": 245,
@@ -1500,7 +1500,7 @@
       "id": "Centre Mid",
       "comment": "CENTRE_MID",
       "group": "LPPC",
-      "owner": ["CENU", "NORU", "CENL", "ESTL", "C", "fss/EUCWS"],
+      "owner": ["CENM", "NORM", "CENL", "ESTL", "C"],
       "sectors": [
         {
           "min": 345,
@@ -1544,7 +1544,7 @@
       "id": "Centre Top",
       "comment": "CENTRE_TOP",
       "group": "LPPC",
-      "owner": ["CENU", "NORU", "CENL", "ESTL", "C", "fss/EUCWS"],
+      "owner": ["CENM", "NORM", "CENL", "ESTL", "C"],
       "sectors": [
         {
           "min": 365,
@@ -1584,10 +1584,10 @@
       ]
     },
     {
-      "id": "Maderia",
+      "id": "Madeira",
       "comment": "DELFUN_E",
       "group": "APP",
-      "owner": ["TMAMA", "MADL", "OESL", "C"],
+      "owner": ["TMAMA", "MADL", "OESX", "C"],
       "sectors": [
         {
           "min": 55,
@@ -1650,7 +1650,7 @@
       "id": "Madeira",
       "comment": "DELFUN_W",
       "group": "APP",
-      "owner": ["TMAMA", "MADL", "OESL", "C"],
+      "owner": ["TMAMA", "MADL", "OESX", "C"],
       "sectors": [
         {
           "min": 55,
@@ -1711,7 +1711,7 @@
       "id": "DEMOS Low",
       "comment": "DELPOR_DEMOS",
       "group": "LPPC",
-      "owner": ["DEML", "OESL", "C"],
+      "owner": ["WSTL", "OESX", "C"],
       "sectors": [
         {
           "min": 55,
@@ -1742,7 +1742,7 @@
       "id": "DEMOS Low",
       "comment": "DEMOS_LOWER",
       "group": "LPPC",
-      "owner": ["DEML", "OESL", "C"],
+      "owner": ["WSTL", "OESX", "C"],
       "sectors": [
         {
           "min": 55,
@@ -1780,7 +1780,7 @@
       "id": "DEMOS Low",
       "comment": "DEMOS_LOWER",
       "group": "LPPC",
-      "owner": ["DEML", "OESL", "C", "fss/EUCWS"],
+      "owner": ["WSTL", "OESX", "C"],
       "sectors": [
         {
           "min": 245,
@@ -1821,7 +1821,7 @@
       "id": "DEMOS Upper",
       "comment": "DEMOS_UPPER",
       "group": "LPPC",
-      "owner": ["OESU", "DEML", "OESL", "C", "fss/EUCWS"],
+      "owner": ["WSTT, "WSTL", "OESX", "C"],
       "sectors": [
         {
           "min": 365,
@@ -1861,7 +1861,7 @@
       "id": "Madeira",
       "comment": "MADEIRA",
       "group": "LPPC",
-      "owner": ["MADL", "OESL", "C", "fss/EUCWS"],
+      "owner": ["MADL", "OESLX, "C"],
       "sectors": [
         {
           "min": 245,
@@ -1911,7 +1911,7 @@
       "id": "Madeira",
       "comment": "MADEIRA_E",
       "group": "LPPC",
-      "owner": ["MADL", "OESL", "C"],
+      "owner": ["MADL", "OESX", "C"],
       "sectors": [
         {
           "min": 55,
@@ -1971,10 +1971,10 @@
       ]
     },
     {
-      "id": "Maderia",
+      "id": "Madeira",
       "comment": "MADEIRA_W",
       "group": "LPPC",
-      "owner": ["MADL", "OESL", "C"],
+      "owner": ["MADL", "OESX", "C"],
       "sectors": [
         {
           "min": 55,
@@ -2239,7 +2239,7 @@
       "id": "North Low",
       "comment": "NORTH_LOWER",
       "group": "LPPC",
-      "owner": ["NORL", "ESTL", "C", "fss/EUCWS"],
+      "owner": ["NORL", "ESTL", "C"],
       "sectors": [
         {
           "min": 245,
@@ -2283,7 +2283,7 @@
       "id": "North Mid",
       "comment": "NORTH_MID",
       "group": "LPPC",
-      "owner": ["NORU", "NORL", "ESTL", "C", "fss/EUCWS"],
+      "owner": ["NORM", "NORL", "ESTL", "C"],
       "sectors": [
         {
           "min": 345,
@@ -2327,7 +2327,7 @@
       "id": "North Top",
       "comment": "NORTH_TOP",
       "group": "LPPC",
-      "owner": ["NORU", "NORL", "ESTL", "C", "fss/EUCWS"],
+      "owner": ["NORM", "NORL", "ESTL", "C"],
       "sectors": [
         {
           "min": 365,
@@ -2514,7 +2514,7 @@
       "id": "South Low",
       "comment": "SOUTH_LOWER",
       "group": "LPPC",
-      "owner": ["SULL", "ESTL", "C", "fss/EUCWS"],
+      "owner": ["SULL", "ESTL", "C"],
       "sectors": [
         {
           "min": 245,
@@ -2548,7 +2548,7 @@
       "id": "South Upper",
       "comment": "SOUTH_UPPER",
       "group": "LPPC",
-      "owner": ["SULL", "ESTL", "C", "fss/EUCWS"],
+      "owner": ["SULL", "ESTL", "C"],
       "sectors": [
         {
           "min": 365,
@@ -2581,7 +2581,7 @@
       "id": "VERAM Low",
       "comment": "VERAM_LOWER",
       "group": "LPPC",
-      "owner": ["OESL", "C"],
+      "owner": ["WSTL", "OESX", "C"],
       "sectors": [
         {
           "min": 55,
@@ -2616,7 +2616,7 @@
       "id": "VERAM Low",
       "comment": "VERAM_LOWER",
       "group": "LPPC",
-      "owner": ["OESL", "C", "fss/EUCWS"],
+      "owner": ["WSTL", "OESX", "C"],
       "sectors": [
         {
           "min": 245,
@@ -2651,7 +2651,7 @@
       "id": "VERAM Upper",
       "comment": "VERAM_UPPER",
       "group": "LPPC",
-      "owner": ["OESU", "OESL", "C", "fss/EUCWS"],
+      "owner": ["WSTT", "WSTL", "OESX", "C"],
       "sectors": [
         {
           "min": 365,
@@ -2797,12 +2797,12 @@
     },
     "C": {
       "callsign": "Lisboa Control",
-      "frequency": "125.550",
+      "frequency": "132.850",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#d58c00" }]
     },
-    "CENU": {
+    "CENM": {
       "callsign": "Lisboa Control",
       "frequency": "134.855",
       "type": "CTR",
@@ -2816,16 +2816,16 @@
       "pre": ["LPPC"],
       "colours": [{ "hex": "#a78c00" }]
     },
-    "DEML": {
+    "WSTL": {
       "callsign": "Lisboa Control",
-      "frequency": "128.900",
+      "frequency": "131.325",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#f28c00" }]
     },
     "ESTL": {
       "callsign": "Lisboa Control",
-      "frequency": "132.850",
+      "frequency": "125.550",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#108c00" }]
@@ -2837,7 +2837,7 @@
       "pre": ["LPPC"],
       "colours": [{ "hex": "#b28c00" }]
     },
-    "NORU": {
+    "NORM": {
       "callsign": "Lisboa Control",
       "frequency": "127.255",
       "type": "CTR",
@@ -2858,16 +2858,16 @@
       "pre": ["LPPC"],
       "colours": [{ "hex": "#0b8c00" }]
     },
-    "OESU": {
+    "WSTT": {
       "callsign": "Lisboa Control",
       "frequency": "124.350",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#ba8c00" }]
     },
-    "OESL": {
+    "OESX": {
       "callsign": "Lisboa Control",
-      "frequency": "131.325",
+      "frequency": "128.900",
       "type": "CTR",
       "pre": ["LPPC"],
       "colours": [{ "hex": "#788c00" }]
