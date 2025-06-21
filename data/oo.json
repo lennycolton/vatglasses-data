@@ -135,8 +135,8 @@
             "owner": [
                 "MCW",
                 "MCN",
-                "GFE",
-                "GF"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -238,8 +238,8 @@
             "owner": [
                 "MCS",
                 "MCN",
-                "GFE",
-                "GF"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -306,8 +306,8 @@
             "group": "CTR",
             "owner": [
                 "MCN",
-                "GFE",
-                "GF"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -392,8 +392,8 @@
                 "MCM",
                 "MCS",
                 "MCN",
-                "GFE",
-                "GF"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -499,8 +499,8 @@
             "owner": [
                 "MCC",
                 "MCN",
-                "GFE",
-                "GF"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -595,8 +595,8 @@
                 "MCB",
                 "MCA",
                 "MCN",
-                "GFE",
-                "GF"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -670,8 +670,8 @@
             "owner": [
                 "MCA",
                 "MCN",
-                "GFE",
-                "GF"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -1013,22 +1013,6 @@
         }
     },
     "positions": {
-        "GFE": {
-            "callsign": "Gulf Control",
-            "frequency": "133.600",
-            "type": "FSS",
-            "pre": [
-                "GULF"
-            ]
-        },
-        "GF": {
-            "callsign": "Gulf Control",
-            "frequency": "133.650",
-            "type": "FSS",
-            "pre": [
-                "GULF"
-            ]
-        },
         "MCA": {
             "colours": [
                 {

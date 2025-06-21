@@ -3,6 +3,11 @@ Airport and sector data for the VATGlasses project.
 
 https://vatglasses.uk
 
+## Discord
+For discussions and tech support, join us on Discord!
+
+Invite Code: WSpH58quHA
+
 ## Wiki
 Please take a look at the [wiki](https://github.com/lennycolton/vatglasses-data/wiki) for information about:
 - The Data Format
@@ -24,9 +29,5 @@ You are not able to apply to become a VATGlasses maintainer - we will reach out 
 Feel free to contribute to any of the data sets included in this repository. Please be aware that local vACC staff may perform bulk updates to data sets that they manage. VATGlasses-managed data sets rely on the community to keep them up-to-date and won't see bulk changes like this.
 
 Please ensure that you provide a source for your issues and pull-requests! Issues and pull requests without a valid source will be automatically closed.
-
-By committing changes to this repository, you acknowledge that the copyright ownership of any data committed transfers to Lenny Colton in its entirety.
-
-All data held in this repository is owned by Lenny Colton and is for exclusive use by the VATGlasses project. The data in this repository is not to be used for any other purposes without express, written permission.
 
 **N.B.** Data committed to this repository is immediately deployed to the VATGlasses site - please expect the project collaborators to be picky and test things thoroughly before we approve them!
