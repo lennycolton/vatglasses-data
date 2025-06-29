@@ -40,7 +40,7 @@
     "BT": ["BT", "BG", "HV", "RW", "GR", "TH"],
     "RC": ["RC", "BG", "HV", "RW", "GR", "TH"],
     "QB": ["QB", "QC", "CP", "RW", "GR", "TH"],
-    "OW": ["OW", "OD", "OA", "CP", "RW", "GR", "TH"],
+    "OW": ["OW", "OD", "OA", "CP", "TH"],
     "MX": ["MX", "DN", "DS", "AN", "AS", "TH"],
     "HU": ["HU", "DS", "DN", "AS", "AN", "TH"],
     "JN": ["JN", "DS", "DN", "AS", "AN", "TH"],
