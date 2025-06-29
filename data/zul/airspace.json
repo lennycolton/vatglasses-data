@@ -729,6 +729,8 @@
         },
         {
           "runways": [ {"icao": "CYUL", "runway": "24"} ],
+          "min": 115,
+          "max": 164,
           "points": [
             ["454731", "-0740630"],
             ["454253", "-0741208"],
@@ -740,6 +742,8 @@
         },
         {
           "runways": [ {"icao": "CYUL", "runway": "24"} ],
+          "min": 0,
+          "max": 74,
           "points": [
             ["453208", "-0735535"],
             ["452359", "-0740606"],
@@ -3063,7 +3067,7 @@
         }
       ]
     },
-    "NRYZ": {
+    "NRZYZ": {
       "id": "Noranda",
       "comment": "CZYZ delegation",
       "group": "CZUL",
@@ -3165,7 +3169,7 @@
         }
       ]
     },
-    "POYZ": {
+    "POZYZ": {
       "id": "Pontiac",
       "comment": "CZYZ delegation",
       "group": "CZUL",
