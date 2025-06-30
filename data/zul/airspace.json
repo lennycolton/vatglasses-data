@@ -729,6 +729,8 @@
         },
         {
           "runways": [ {"icao": "CYUL", "runway": "24"} ],
+          "min": 115,
+          "max": 164,
           "points": [
             ["454731", "-0740630"],
             ["454253", "-0741208"],
@@ -740,6 +742,8 @@
         },
         {
           "runways": [ {"icao": "CYUL", "runway": "24"} ],
+          "min": 0,
+          "max": 74,
           "points": [
             ["453208", "-0735535"],
             ["452359", "-0740606"],
@@ -3063,7 +3067,7 @@
         }
       ]
     },
-    "NRYZ": {
+    "NRZYZ": {
       "id": "Noranda",
       "comment": "CZYZ delegation",
       "group": "CZUL",
@@ -3165,7 +3169,7 @@
         }
       ]
     },
-    "POYZ": {
+    "POZYZ": {
       "id": "Pontiac",
       "comment": "CZYZ delegation",
       "group": "CZUL",
@@ -5414,7 +5418,7 @@
     "CSR3": { "callsign": "Victoriaville", "coord": [46.112778, -71.928888] },
     "CSR8": { "callsign": "La Sarre", "coord": [48.917221, -79.178611] },
     "CSU2": { "callsign": "Chisasibi", "coord": [53.805556, -78.916943] },
-    "CSW5": { "callsign": "Montreal (Bell)", "coord": [45.685, -73.93111111] },
+    "CSW5": { "callsign": "Bell", "coord": [45.685, -73.93111111] },
     "CTA4": {"callsign": "St. Bruno de Guigues","coord": [47.449167, -79.418055]},
     "CTG3": {"callsign": "Du Rocher-Perce (Pabok)","coord": [48.383333, -64.564443]},
     "CTH7": {"callsign": "Riviere-aux-Saumons","coord": [49.4025, -62.303611]},
@@ -5425,7 +5429,7 @@
     "CYAH": { "callsign": "La Grande-4", "coord": [53.75, -73.66639] },
     "CYAS": { "callsign": "Kangirsuk", "coord": [60.027222, -69.999166] },
     "CYBC": { "callsign": "Baie-Comeau", "coord": [49.132222, -68.207222] },
-    "CYBG": { "callsign": "CFB Bagotville", "coord": [48.330556, -70.996389] },
+    "CYBG": { "callsign": "Bagotville", "coord": [48.330556, -70.996389] },
     "CYBX": {"callsign": "Lourdes-De-Blanc-Sablon","coord": [51.443611, -57.185278]},
     "CYDO": { "callsign": "Lac-Saint-Jean", "coord": [48.7785, -72.374999] },
     "CYES": { "callsign": "Edmundston", "coord": [47.489938, -68.481785] },
@@ -5441,7 +5445,7 @@
     "CYHA": { "callsign": "Quaqtaq", "coord": [61.04972, -69.63306] },
     "CYHH": { "callsign": "Nemiscau", "coord": [51.690833, -76.134999] },
     "CYHR": { "callsign": "Chevery", "coord": [50.468889, -59.636666] },
-    "CYHU": { "callsign": "Montreal/MET", "coord": [45.5175, -73.416944] },
+    "CYHU": { "callsign": "St-Hubert", "coord": [45.5175, -73.416944] },
     "CYIF": { "callsign": "St-Augustin", "coord": [51.211666, -58.658332] },
     "CYIK": { "callsign": "Ivujivik", "coord": [62.417333, -77.925277] },
     "CYJN": { "callsign": "St-Jean", "coord": [45.294445, -73.28111] },
@@ -5457,18 +5461,18 @@
     "CYMT": {"callsign": "Chibougamau/Chapais","coord": [49.771667, -74.5275]},
     "CYMU": { "callsign": "Umiujaq", "coord": [56.53306, -76.51639] },
     "CYMW": { "callsign": "Maniwaki", "coord": [46.272778, -75.990555] },
-    "CYMX": {"callsign": "Montreal Intl (Mirabel)","coord": [45.679722, -74.038611]},
+    "CYMX": {"callsign": "Mirabel","coord": [45.679722, -74.038611]},
     "CYNA": { "callsign": "Natashquan", "coord": [50.189722, -61.789167] },
     "CYNC": { "callsign": "Wemindji", "coord": [53.010833, -78.830277] },
     "CYND": {"callsign": "Ottawa/Gatineau","coord": [45.521389, -75.564167]},
     "CYNM": { "callsign": "Matagami", "coord": [49.761389, -77.8025] },
-    "CYOW": {"callsign": "Ottawa/Macdonald-Cartier Intl","coord": [45.3225, -75.669167]},
+    "CYOW": {"callsign": "Ottawa","coord": [45.3225, -75.669167]},
     "CYOY": {"callsign": "Valcartier (W/C J.H.L. (Joe) Lecomte)","coord": [46.89972, -71.5]},
     "CYPH": { "callsign": "Inukjuak", "coord": [58.471667, -78.077221] },
     "CYPN": { "callsign": "Port-Menier", "coord": [49.836389, -64.288611] },
     "CYPX": { "callsign": "Puvirnituq", "coord": [60.04972, -77.28306] },
-    "CYQB": {"callsign": "Quebec/Jean Lesage Intl","coord": [46.793889, -71.393889]},
-    "CYRC": {"callsign": "Chicoutimi/St-Honore","coord": [48.520833, -71.050555]},
+    "CYQB": {"callsign": "Quebec","coord": [46.793889, -71.393889]},
+    "CYRC": {"callsign": "St-Honore","coord": [48.520833, -71.050555]},
     "CYRI": {"callsign": "Riviere-Du-Loup","coord": [47.764444, -69.584721]},
     "CYRJ": { "callsign": "Roberval", "coord": [48.52, -72.265556] },
     "CYRO": { "callsign": "Rockcliffe", "coord": [45.460685, -75.643267] },
@@ -5481,7 +5485,7 @@
     "CYSZ": {"callsign": "Ste-Anne-des-Monts","coord": [49.120277, -66.529166]},
     "CYTF": { "callsign": "Alma", "coord": [48.508888, -71.641944] },
     "CYTQ": { "callsign": "Tasiujaq", "coord": [58.66766, -69.95577] },
-    "CYUL": {"callsign": "Montreal/Pierre Elliott Trudeau Intl","coord": [45.468056, -73.741389],
+    "CYUL": {"callsign": "Montreal","coord": [45.468056, -73.741389],
       "runways": ["06", "24"]},
     "CYUY": { "callsign": "Rouyn-Noranda", "coord": [48.206667, -78.833889] },
     "CYVB": { "callsign": "Bonaventure", "coord": [48.071111, -65.460277] },
