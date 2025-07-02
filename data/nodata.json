@@ -2811,46 +2811,6 @@
             ]
         },
         {
-            "id": "Kuwait",
-            "group": "FIR",
-            "owner": ["OKAC", "fss/GULFE", "fss/GULF"],
-            "sectors": [
-                {
-                    "points": [
-                        ["283227","0482559"],
-                        ["283129","0474229"],
-                        ["283600","0473859"],
-                        ["284059","0473600"],
-                        ["284659","0473600"],
-                        ["285100","0473400"],
-                        ["290000","0472800"],
-                        ["290603","0463319"],
-                        ["291502","0464211"],
-                        ["294317","0470022"],
-                        ["294558","0470157"],
-                        ["295105","0470454"],
-                        ["300001","0470920"],
-                        ["300612","0472217"],
-                        ["300612","0474228"],
-                        ["300113","0475527"],
-                        ["295923","0480042"],
-                        ["300145","0480433"],
-                        ["300119","0480951"],
-                        ["295110","0482451"],
-                        ["295110","0484459"],
-                        ["291310","0494002"],
-                        ["290011","0492702"],
-                        ["284400","0494000"],
-                        ["283353","0492316"],
-                        ["282718","0491222"],
-                        ["281500","0485200"],
-                        ["283240","0484103"],
-                        ["283227","0482559"]
-                    ]
-                }
-            ]
-        },
-        {
             "id": "Beirut",
             "group": "FIR",
             "owner": ["OLBB", "fss/GULFW", "fss/GULF"],
@@ -10242,7 +10202,6 @@
         "OERD": { "colours": [{ "hex": "#888888" }], "pre": ["OERD"], "type": "CTR", "callsign": "Riyadh Control" },
         "OIIX": { "colours": [{ "hex": "#888888" }], "pre": ["TEH"], "type": "CTR", "callsign": "Tehran Radar" },
         "OJAC": { "colours": [{ "hex": "#888888" }], "pre": ["OJAC"], "type": "CTR", "callsign": "Amman Control" },
-        "OKAC": { "colours": [{ "hex": "#888888" }], "pre": ["OKAC"], "type": "CTR", "callsign": "Kuwait Center" },
         "OLBB": { "colours": [{ "hex": "#888888" }], "pre": ["OLBB"], "type": "CTR", "callsign": "Beirut Radar" },
         "OMAE": { "colours": [{ "hex": "#888888" }], "pre": ["OMAE"], "type": "CTR", "callsign": "U.A.E. Radar" },
         "OOMM": { "colours": [{ "hex": "#888888" }], "pre": ["OOMM"], "type": "CTR", "callsign": "Muscat Radar" },
@@ -12399,9 +12358,6 @@
         "OJMF": { "callsign": "Mafraq", "coord": ["32.35","36.25"] },
         "OJMS": { "callsign": "Muwaffaq Salti", "coord": ["31.825833","36.782"] },
         "OJPH": { "callsign": "Prince Hassan Air Base", "coord": ["32.150139","37.158333"] },
-        "OKAJ": { "callsign": "Ahmed Al Jaber Air Base", "coord": ["28.934917","47.791972"], "pre": ["XIJ"] },
-        "OKAS": { "callsign": "Ali Al Salem Air Base", "coord": ["29.346667","47.520556"] },
-        "OKKK": { "callsign": "Kuwait Intl", "coord": ["29.226567","47.968928"] },
         "OLBA": { "callsign": "Beirut Intl", "coord": ["33.818967","35.489683"] },
         "OLKA": { "callsign": "Kleyate", "coord": ["34.586167","36.002833"] },
         "OLRA": { "callsign": "Rayak", "coord": ["33.851667","35.993"] },
