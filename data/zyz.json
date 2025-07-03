@@ -10297,7 +10297,8 @@
         "frequency": "124.475",
         "type": "APP",
         "pre": [
-            "CYYZ"
+            "CYYZ",
+            "TOR"
         ],
         "colours": [
             {
@@ -10310,7 +10311,8 @@
         "frequency": "125.400",
         "type": "APP",
         "pre": [
-            "CYYZ"
+            "CYYZ",
+            "TOR"
         ],
         "colours": [
             {
@@ -10323,7 +10325,8 @@
         "frequency": "128.800",
         "type": "APP",
         "pre": [
-            "CYYZ"
+            "CYYZ",
+            "TOR"
         ],
         "colours": [
             {
@@ -10336,7 +10339,8 @@
         "frequency": "132.800",
         "type": "APP",
         "pre": [
-            "CYYZ"
+            "CYYZ",
+            "TOR"
         ],
         "colours": [
             {
@@ -10349,7 +10353,8 @@
         "frequency": "128.800",
         "type": "DEP",
         "pre": [
-            "CYYZ"
+            "CYYZ",
+            "TOR"
         ],
         "colours": [
             {
@@ -10362,7 +10367,8 @@
         "frequency": "127.575",
         "type": "DEP",
         "pre": [
-            "CYYZ"
+            "CYYZ",
+            "TOR"
         ],
         "colours": [
             {
@@ -10375,7 +10381,8 @@
         "frequency": "118.700",
         "type": "TWR",
         "pre": [
-            "CYYZ"
+            "CYYZ",
+            "TOR"
         ],
         "colours": [
             {
@@ -10388,7 +10395,8 @@
         "frequency": "118.350",
         "type": "TWR",
         "pre": [
-            "CYYZ"
+            "CYYZ",
+            "TOR"
         ],
         "colours": [
             {
@@ -10401,7 +10409,8 @@
         "frequency": "118.700",
         "type": "TWR",
         "pre": [
-            "CYYZ"
+            "CYYZ",
+            "TOR"
         ],
         "colours": [
             {
@@ -10466,6 +10475,7 @@
         "frequency": "133.400",
         "type": "APP",
         "pre": [
+            "CYYZ",
             "TOR"
         ],
         "colours": [
@@ -10687,6 +10697,7 @@
         "frequency": "119.300",
         "type": "APP",
         "pre": [
+            "CYYZ",
             "TOR"
         ],
         "colours": [
@@ -10713,6 +10724,7 @@
         "frequency": "135.300",
         "type": "APP",
         "pre": [
+            "CYYZ",
             "TOR"
         ],
         "colours": [
