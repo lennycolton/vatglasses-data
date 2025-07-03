@@ -10359,7 +10359,7 @@
     },
     "ND": {
         "callsign": "Toronto Departure",
-        "frequency": "127.570",
+        "frequency": "127.575",
         "type": "DEP",
         "pre": [
             "CYYZ"
@@ -10411,7 +10411,7 @@
     },
     "BA": {
         "callsign": "Toronto Centre",
-        "frequency": "134.570",
+        "frequency": "134.575",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10450,7 +10450,7 @@
     },
     "ER": {
         "callsign": "Toronto Centre",
-        "frequency": "124.920",
+        "frequency": "124.925",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10462,7 +10462,7 @@
         ]
     },
     "ES": {
-        "callsign": "Toronto East Satellite",
+        "callsign": "Toronto Terminal",
         "frequency": "133.400",
         "type": "APP",
         "pre": [
@@ -10489,7 +10489,7 @@
     },
     "HM": {
         "callsign": "Toronto Centre",
-        "frequency": "132.470",
+        "frequency": "132.475",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10502,7 +10502,7 @@
     },
     "HU": {
         "callsign": "Toronto Centre",
-        "frequency": "126.170",
+        "frequency": "126.175",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10515,7 +10515,7 @@
     },
     "KF": {
         "callsign": "Toronto Centre",
-        "frequency": "135.620",
+        "frequency": "135.625",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10528,7 +10528,7 @@
     },
     "LU": {
         "callsign": "Toronto Centre",
-        "frequency": "135.820",
+        "frequency": "135.825",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10541,7 +10541,7 @@
     },
     "MI": {
         "callsign": "Toronto Centre",
-        "frequency": "124.370",
+        "frequency": "124.375",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10554,7 +10554,7 @@
     },
     "NR": {
         "callsign": "Toronto Centre",
-        "frequency": "120.720",
+        "frequency": "120.725",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10567,7 +10567,7 @@
     },
     "OV": {
         "callsign": "Toronto Centre",
-        "frequency": "134.920",
+        "frequency": "134.925",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10580,7 +10580,7 @@
     },
     "PI": {
         "callsign": "Toronto Centre",
-        "frequency": "124.670",
+        "frequency": "124.675",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10606,7 +10606,7 @@
     },
     "RU": {
         "callsign": "Toronto Centre",
-        "frequency": "133.970",
+        "frequency": "133.975",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10619,7 +10619,7 @@
     },
     "SH": {
         "callsign": "Toronto Centre",
-        "frequency": "134.420",
+        "frequency": "134.425",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10671,7 +10671,7 @@
     },
     "VV": {
         "callsign": "Toronto Centre",
-        "frequency": "132.570",
+        "frequency": "132.575",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10683,7 +10683,7 @@
         ]
     },
     "WS": {
-        "callsign": "Toronto West Satellite",
+        "callsign": "Toronto Terminal",
         "frequency": "119.300",
         "type": "APP",
         "pre": [
@@ -10697,7 +10697,7 @@
     },
     "XI": {
         "callsign": "Toronto Centre",
-        "frequency": "121.220",
+        "frequency": "121.225",
         "type": "CTR",
         "pre": [
             "TOR"
@@ -10709,7 +10709,7 @@
         ]
     },
     "XU": {
-        "callsign": "London Satellite",
+        "callsign": "Toronto Terminal",
         "frequency": "135.300",
         "type": "APP",
         "pre": [
