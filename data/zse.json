@@ -82,7 +82,7 @@
     {
       "id": "Sector 4",
       "group": "CTR",
-      "owner": ["S04", "S06", "S16"],
+      "owner": ["S04", "S06", "S42", "S16"],
       "sectors": [
         {
           "min": 91,
@@ -138,7 +138,7 @@
     {
       "id": "Sector 6",
       "group": "CTR",
-      "owner": ["S06", "S16"],
+      "owner": ["S06", "S42", "S16"],
       "sectors": [
         {
           "min": 0,
@@ -896,7 +896,7 @@
     {
       "id": "Sector 11",
       "group": "CTR",
-      "owner": ["S07", "S48", "S01", "S16"],
+      "owner": ["S11","S07", "S48", "S01", "S16"],
       "sectors": [
         {
           "min": 240,
@@ -1004,7 +1004,7 @@
     {
       "id": "Sector 30",
       "group": "CTR",
-      "owner": ["S30", "S36", "S06", "S14", "S16"],
+      "owner": ["S30", "S36", "S06", "S15", "S14", "S16"],
       "sectors": [
         {
           "max": 239,
@@ -1039,7 +1039,7 @@
     {
       "id": "Sector 36",
       "group": "CTR",
-      "owner": ["S36", "S06", "S14", "S16"],
+      "owner": ["S36", "S06", "S15", "S14", "S16"],
       "sectors": [
         {
           "max": 239,
@@ -1143,7 +1143,7 @@
     {
       "id": "Sector 3",
       "group": "CTR",
-      "owner": ["S03", "S12", "S31", "S01", "S16"],
+      "owner": ["S03","S02", "S12", "S31", "S01", "S16"],
       "sectors": [
         {
           "min": 290,
@@ -2216,7 +2216,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#00ff00"
+          "hex": "#6a329f"
         }
       ]
     },
@@ -2227,7 +2227,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#00ff00"
+          "hex": "#a7e7e6"
         }
       ]
     },
@@ -2359,7 +2359,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#0000ff"
+          "hex": "#4dff00"
         }
       ]
     },
@@ -2370,7 +2370,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#0000ff"
+          "hex": "#ce7e00"
         }
       ]
     },
@@ -2381,7 +2381,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#ffff00"
+          "hex": "#ff1100"
         }
       ]
     },
@@ -2469,7 +2469,7 @@
       "pre": ["SEA"],
       "colours": [
         {
-          "hex": "#ffff00"
+          "hex": "#efff00"
         }
       ]
     },
