@@ -49,7 +49,7 @@
         "04": {
           "id": "Sunnyside LO/HI/UH (04)",
           "group": "ZLC B",
-          "owner": ["04", "16", "03", "44"],
+          "owner": ["04", "32", "03", "44"],
           "sectors": [
             {
               "min": 335,
