@@ -4845,7 +4845,7 @@
     {
       "id": "Area",
       "group": "KFOR",
-      "owner": ["LYC", "ADE", "AD"],
+      "owner": ["KFR", "ADE", "AD"],
       "sectors": [
         {
           "min": 205,
@@ -5060,7 +5060,7 @@
     {
       "id": "Area",
       "group": "KFOR",
-      "owner": ["LYC", "ADE", "AD", "fss/EUCSW"],
+      "owner": ["KFR", "ADE", "AD", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -5275,7 +5275,7 @@
     {
       "id": "Area",
       "group": "KFOR",
-      "owner": ["LYC", "ADU", "ADE", "AD", "fss/EUCSW"],
+      "owner": ["KFR", "ADU", "ADE", "AD", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -14904,6 +14904,13 @@
       "type": "TWR",
       "pre": ["LDDU"],
       "colours": [{ "hex": "#41046e" }]
+    },
+    "KFR": {
+      "callsign": "KFOR Radar",
+      "frequency": "133.185",
+      "type": "CTR",
+      "pre": ["KFOR"],
+      "colours": [{ "hex": "#244aa5" }]
     },
     "ZOT": {
       "callsign": "Losinj Tower",
