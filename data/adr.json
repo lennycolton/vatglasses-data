@@ -15335,7 +15335,7 @@
     }
   },
   "airports": {
-    "BKPR": {"callsign": "Pristina", "coord": ["42.572778", "21.035833"], "topdown": ["LYC", "ADE", "AD"] },
+    "BKPR": {"callsign": "Pristina", "coord": ["42.572778", "21.035833"], "topdown": ["KFR", "ADE", "AD"] },
     "LAKU": {"callsign": "Kukes", "coord": ["42.032833", "20.414944"], "topdown": ["PRA", "LAC", "ADE", "AD"] },
     "LATI": {"callsign": "Tirana", "coord": ["41.411667", "19.723333"], "topdown": ["LAC", "ADE", "AD"] },
     "LDDD": {"callsign": "Maksimir", "coord": ["45.81667", "16.03306"] },
