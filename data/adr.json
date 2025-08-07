@@ -12251,7 +12251,7 @@
     {
       "id": "Pristina",
       "group": "APP",
-      "owner": ["PRA", "LYC", "ADE", "AD"],
+      "owner": ["PRA", "KFR", "ADE", "AD"],
       "sectors": [
         {
           "min": 0,
