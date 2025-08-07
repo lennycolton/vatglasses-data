@@ -4845,7 +4845,7 @@
     {
       "id": "Area",
       "group": "KFOR",
-      "owner": ["LYC", "ADE", "AD"],
+      "owner": ["KFR", "ADE", "AD"],
       "sectors": [
         {
           "min": 205,
@@ -5060,7 +5060,7 @@
     {
       "id": "Area",
       "group": "KFOR",
-      "owner": ["LYC", "ADE", "AD", "fss/EUCSW"],
+      "owner": ["KFR", "ADE", "AD", "fss/EUCSW"],
       "sectors": [
         {
           "min": 245,
@@ -5275,7 +5275,7 @@
     {
       "id": "Area",
       "group": "KFOR",
-      "owner": ["LYC", "ADU", "ADE", "AD", "fss/EUCSW"],
+      "owner": ["KFR", "ADU", "ADE", "AD", "fss/EUCSW"],
       "sectors": [
         {
           "min": 325,
@@ -14905,6 +14905,13 @@
       "pre": ["LDDU"],
       "colours": [{ "hex": "#41046e" }]
     },
+    "KFR": {
+      "callsign": "KFOR Radar",
+      "frequency": "133.185",
+      "type": "CTR",
+      "pre": ["KFOR"],
+      "colours": [{ "hex": "#244aa5" }]
+    },
     "ZOT": {
       "callsign": "Losinj Tower",
       "frequency": "120.300",
@@ -15328,7 +15335,7 @@
     }
   },
   "airports": {
-    "BKPR": {"callsign": "Pristina", "coord": ["42.572778", "21.035833"], "topdown": ["LYC", "ADE", "AD"] },
+    "BKPR": {"callsign": "Pristina", "coord": ["42.572778", "21.035833"], "topdown": ["KFR", "ADE", "AD"] },
     "LAKU": {"callsign": "Kukes", "coord": ["42.032833", "20.414944"], "topdown": ["PRA", "LAC", "ADE", "AD"] },
     "LATI": {"callsign": "Tirana", "coord": ["41.411667", "19.723333"], "topdown": ["LAC", "ADE", "AD"] },
     "LDDD": {"callsign": "Maksimir", "coord": ["45.81667", "16.03306"] },
