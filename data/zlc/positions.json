@@ -462,7 +462,7 @@
             }
           ]
         },
-        "B1N": {
+        "B2N": {
           "callsign": "Billings Approach",
           "frequency": "119.200",
           "pre": ["BIL"],
@@ -473,7 +473,7 @@
             }
           ]
         },
-        "B1S": {
+        "B2S": {
           "callsign": "Billings Approach",
           "frequency": "120.500",
           "pre": ["BIL"],
