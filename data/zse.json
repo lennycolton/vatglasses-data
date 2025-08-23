@@ -896,7 +896,7 @@
     {
       "id": "Sector 11",
       "group": "CTR",
-      "owner": ["S07", "S48", "S01", "S16"],
+      "owner": ["S7", "S48", "S01", "S16"],
       "sectors": [
         {
           "min": 240,

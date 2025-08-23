@@ -24,7 +24,7 @@
         "CID":    { "callsign": "Cedar Rapids Approach", "frequency": "119.700", "pre": ["CID"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
         "CMI":    { "callsign": "Champaign Approach", "frequency": "121.350", "pre": ["CMI"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
         "FWA":    { "callsign": "Fort Wayne Approach", "frequency": "127.200", "pre": ["FWA"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
-        "MKE":    { "callsign": "Milwaukee Approach", "frequency": "118.00", "pre": ["MKE"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "MKE":    { "callsign": "Milwaukee Approach", "frequency": "118.000", "pre": ["MKE"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
         "MLI":    { "callsign": "Quad Cities Approach", "frequency": "125.950", "pre": ["MLI"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
         "MSN":    { "callsign": "Madison Approach", "frequency": "135.450", "pre": ["MSN"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
         "RFD":    { "callsign": "Rockford Approach", "frequency": "121.000", "pre": ["RFD"], "type": "APP", "colours": [{"hex": "#ffffff"}] },

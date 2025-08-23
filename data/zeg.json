@@ -3167,7 +3167,7 @@
         ]
     },
     "AE": {
-        "callsign": "Calgary East Arrival",
+        "callsign": "Calgary Arrival",
         "frequency": "125.900",
         "type": "APP",
         "pre": [
@@ -3180,7 +3180,7 @@
         ]
     },
     "D1": {
-        "callsign": "Calgary East Departure",
+        "callsign": "Calgary Departure",
         "frequency": "119.800",
         "type": "DEP",
         "pre": [
@@ -3193,7 +3193,7 @@
         ]
     },
     "ET": {
-        "callsign": "Calgary East Tower",
+        "callsign": "Calgary Tower",
         "frequency": "118.700",
         "type": "TWR",
         "pre": [
@@ -3232,7 +3232,7 @@
         ]
     },
     "A1": {
-        "callsign": "Calgary West Arrival",
+        "callsign": "Calgary Arrival",
         "frequency": "123.850",
         "type": "APP",
         "pre": [
@@ -3245,7 +3245,7 @@
         ]
     },
     "DW": {
-        "callsign": "Calgary West Departure",
+        "callsign": "Calgary Departure",
         "frequency": "124.525",
         "type": "DEP",
         "pre": [
@@ -3258,7 +3258,7 @@
         ]
     },
     "W1": {
-        "callsign": "Calgary West Tower",
+        "callsign": "Calgary Tower",
         "frequency": "118.400",
         "type": "TWR",
         "pre": [
