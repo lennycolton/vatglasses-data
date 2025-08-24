@@ -3561,7 +3561,7 @@
       "id": "Eifel",
       "group": "EDGG",
       "uid": "EIF",
-      "owner": ["EIF", "RUD", "GIN", "KTG"],
+      "owner": ["EIF", "PFA", "RUD", "GIN", "KTG"],
       "sectors": [
         {
           "max": 164,
@@ -5986,7 +5986,7 @@
       "id": "Pfalz",
       "group": "EDGG",
       "uid": "PFA",
-      "owner": ["PFA", "EIF", "RUD", "GIN", "KTG"],
+      "owner": ["PFA", "RUD", "GIN", "KTG"],
       "sectors": [
         {
           "max": 244,
