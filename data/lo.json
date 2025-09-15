@@ -5,10 +5,15 @@
 			"group":"ACC",
  			"owner":[
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_W_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
+				"LOVV_C_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_NU_CTR",
+				"LOVV_U_CTR"
 			],
 			"sectors":[
 				{
@@ -42,13 +47,16 @@
 			"id":"B2",
 			"group":"ACC",
  			"owner":[
+				"LOVV_BU_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_NU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_W_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
 			],
 			"sectors":[
 				{
@@ -78,13 +86,16 @@
 			"id":"B3",
 			"group":"ACC",
  			"owner":[
+				"LOVV_BU_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_NU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_W_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
 			],
 			"sectors":[
 				{
@@ -114,13 +125,16 @@
 			"id":"B4",
 			"group":"ACC",
  			"owner":[
+				"LOVV_BU_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_NU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_W_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
 			],
 			"sectors":[
 				{
@@ -150,13 +164,16 @@
 			"id":"B5",
 			"group":"ACC",
  			"owner":[
-            "LOVV_U_CTR",
-            "LOVV_B_CTR",
-            "LOVV_W_CTR",
-            "LOVV_N_CTR",
-            "LOVV_CTR",
-            "LOVV_C_CTR",
-			"fss/EUCME"
+				"LOVV_BU_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_NU_CTR",
+				"LOVV_U_CTR",
+				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
+				"LOVV_W_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR"
 			],
 			"sectors":[
 				{
@@ -186,13 +203,16 @@
 			"id":"B6",
 			"group":"ACC",
  			"owner":[
-            "LOVV_U_CTR",
-            "LOVV_B_CTR",
-            "LOVV_W_CTR",
-            "LOVV_N_CTR",
-            "LOVV_CTR",
-            "LOVV_C_CTR",
-			"fss/EUCME"
+				"LOVV_BU_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_NU_CTR",
+				"LOVV_U_CTR",
+				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
+				"LOVV_W_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR"
 			],
 			"sectors":[
 				{
@@ -222,13 +242,16 @@
 			"id":"B7",
 			"group":"ACC",
  			"owner":[
-            "LOVV_U_CTR",
-            "LOVV_B_CTR",
-            "LOVV_W_CTR",
-            "LOVV_N_CTR",
-            "LOVV_CTR",
-            "LOVV_C_CTR",
-			"fss/EUCME"
+				"LOVV_BU_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_NU_CTR",
+				"LOVV_U_CTR",
+				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
+				"LOVV_W_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR"
 			],
 			"sectors":[
 				{
@@ -260,7 +283,10 @@
 				"LOVV_E_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
+				"LOVV_C_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR",
+				"LOVV_U_CTR"
             ],
 			"sectors":[
       			{
@@ -342,12 +368,13 @@
 			"id":"E2",
 			"group":"ACC",
  			"owner":[
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_E_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -432,12 +459,13 @@
 			"id":"E3",
 			"group":"ACC",
  			"owner":[
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_E_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -522,12 +550,13 @@
 			"id":"E4",
 			"group":"ACC",
  			"owner":[
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_E_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -612,12 +641,13 @@
 			"id":"E5",
 			"group":"ACC",
  			"owner":[
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_E_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -702,12 +732,13 @@
 			"id":"E6",
 			"group":"ACC",
  			"owner":[
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_E_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -792,12 +823,13 @@
 			"id":"E7",
 			"group":"ACC",
  			"owner":[
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_E_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -885,7 +917,10 @@
 				"LOVV_N_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
+				"LOVV_C_CTR",
+				"LOVV_NU_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_U_CTR"
             ],
 			"sectors":[
       			{
@@ -934,12 +969,13 @@
 			"id":"N2",
 			"group":"ACC",
  			"owner":[
+				"LOVV_NU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_N_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -976,12 +1012,13 @@
 			"id":"N3",
 			"group":"ACC",
  			"owner":[
+				"LOVV_NU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_N_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       			{
@@ -1018,12 +1055,13 @@
 			"id":"N4",
 			"group":"ACC",
  			"owner":[
+				"LOVV_NU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_N_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -1060,12 +1098,13 @@
 			"id":"N5",
 			"group":"ACC",
  			"owner":[
+				"LOVV_NU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_N_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -1102,12 +1141,13 @@
 			"id":"N6",
 			"group":"ACC",
  			"owner":[
+				"LOVV_NU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_N_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -1144,12 +1184,13 @@
 			"id":"N7",
 			"group":"ACC",
  			"owner":[
+				"LOVV_NU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_N_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             ],
 			"sectors":[
       			{
@@ -1187,9 +1228,14 @@
  			"owner":[
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
+				"LOVV_C_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_U_CTR"
            		],
 			"sectors":[
       				{
@@ -1275,391 +1321,114 @@
 			"owner": [
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
+				"LOVV_C_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_U_CTR"
 			],
 			"sectors": [
 				{
 					"max": 314,
 					"min": 125,
 					"points": [
-						[
-							"463700",
-							"0153041"
-						],
-						[
-							"463650",
-							"0153006"
-						],
-						[
-							"463706",
-							"0152959"
-						],
-						[
-							"463713",
-							"0152917"
-						],
-						[
-							"463658",
-							"0152856"
-						],
-						[
-							"463651",
-							"0152805"
-						],
-						[
-							"463656",
-							"0152752"
-						],
-						[
-							"463928",
-							"0152515"
-						],
-						[
-							"463925",
-							"0152444"
-						],
-						[
-							"463909",
-							"0152137"
-						],
-						[
-							"463903",
-							"0152034"
-						],
-						[
-							"463207",
-							"0153113"
-						],
-						[
-							"461711",
-							"0155406"
-						],
-						[
-							"461722",
-							"0155448"
-						],
-						[
-							"461707",
-							"0155459"
-						],
-						[
-							"461750",
-							"0155752"
-						],
-						[
-							"461834",
-							"0155821"
-						],
-						[
-							"461856",
-							"0155919"
-						],
-						[
-							"461828",
-							"0160009"
-						],
-						[
-							"461850",
-							"0160117"
-						],
-						[
-							"462011",
-							"0160201"
-						],
-						[
-							"462042",
-							"0160436"
-						],
-						[
-							"462151",
-							"0160420"
-						],
-						[
-							"462206",
-							"0160408"
-						],
-						[
-							"462253",
-							"0160303"
-						],
-						[
-							"462335",
-							"0160329"
-						],
-						[
-							"462315",
-							"0160519"
-						],
-						[
-							"462418",
-							"0160839"
-						],
-						[
-							"462243",
-							"0161125"
-						],
-						[
-							"462241",
-							"0161803"
-						],
-						[
-							"462346",
-							"0161833"
-						],
-						[
-							"462459",
-							"0161627"
-						],
-						[
-							"462938",
-							"0161430"
-						],
-						[
-							"463057",
-							"0161606"
-						],
-						[
-							"463309",
-							"0162215"
-						],
-						[
-							"463112",
-							"0162741"
-						],
-						[
-							"462901",
-							"0163358"
-						],
-						[
-							"463004",
-							"0163134"
-						],
-						[
-							"463343",
-							"0163032"
-						],
-						[
-							"463753",
-							"0162356"
-						],
-						[
-							"464100",
-							"0162521"
-						],
-						[
-							"464303",
-							"0162058"
-						],
-						[
-							"464627",
-							"0161938"
-						],
-						[
-							"465046",
-							"0162019"
-						],
-						[
-							"465223",
-							"0161653"
-						],
-						[
-							"465241",
-							"0161404"
-						],
-						[
-							"465207",
-							"0161132"
-						],
-						[
-							"465120",
-							"0160837"
-						],
-						[
-							"465209",
-							"0160650"
-						],
-						[
-							"465019",
-							"0160330"
-						],
-						[
-							"465007",
-							"0155945"
-						],
-						[
-							"464504",
-							"0155908"
-						],
-						[
-							"464303",
-							"0160018"
-						],
-						[
-							"464240",
-							"0160142"
-						],
-						[
-							"464203",
-							"0160142"
-						],
-						[
-							"464109",
-							"0160232"
-						],
-						[
-							"463959",
-							"0160210"
-						],
-						[
-							"463922",
-							"0160215"
-						],
-						[
-							"463951",
-							"0160042"
-						],
-						[
-							"464046",
-							"0155959"
-						],
-						[
-							"464123",
-							"0155643"
-						],
-						[
-							"464236",
-							"0155441"
-						],
-						[
-							"464317",
-							"0155155"
-						],
-						[
-							"464322",
-							"0155007"
-						],
-						[
-							"464252",
-							"0154750"
-						],
-						[
-							"464156",
-							"0154612"
-						],
-						[
-							"464147",
-							"0154315"
-						],
-						[
-							"464156",
-							"0154149"
-						],
-						[
-							"464225",
-							"0154031"
-						],
-						[
-							"464220",
-							"0153858"
-						],
-						[
-							"464159",
-							"0153914"
-						],
-						[
-							"464129",
-							"0153910"
-						],
-						[
-							"464131",
-							"0153828"
-						],
-						[
-							"464117",
-							"0153801"
-						],
-						[
-							"464052",
-							"0153801"
-						],
-						[
-							"464046",
-							"0153711"
-						],
-						[
-							"464101",
-							"0153645"
-						],
-						[
-							"464053",
-							"0153620"
-						],
-						[
-							"464106",
-							"0153614"
-						],
-						[
-							"464116",
-							"0153629"
-						],
-						[
-							"464126",
-							"0153549"
-						],
-						[
-							"464101",
-							"0153523"
-						],
-						[
-							"464049",
-							"0153405"
-						],
-						[
-							"464031",
-							"0153400"
-						],
-						[
-							"464009",
-							"0153239"
-						],
-						[
-							"463854",
-							"0153307"
-						],
-						[
-							"463855",
-							"0153247"
-						],
-						[
-							"463837",
-							"0153240"
-						],
-						[
-							"463824",
-							"0153259"
-						],
-						[
-							"463748",
-							"0153231"
-						],
-						[
-							"463803",
-							"0153222"
-						],
-						[
-							"463716",
-							"0153109"
-						],
-						[
-							"463723",
-							"0153056"
-						],
-						[
-							"463712",
-							"0153037"
-						]
+						["463700","0153041"],
+						["463650","0153006"],
+						["463706","0152959"],
+						["463713","0152917"],
+						["463658","0152856"],
+						["463651","0152805"],
+						["463656","0152752"],
+						["463928","0152515"],
+						["463925","0152444"],
+						["463909","0152137"],
+						["463903","0152034"],
+						["463207","0153113"],
+						["461711","0155406"],
+						["461722","0155448"],
+						["461707","0155459"],
+						["461750","0155752"],
+						["461834","0155821"],
+						["461856","0155919"],
+						["461828","0160009"],
+						["461850","0160117"],
+						["462011","0160201"],
+						["462042","0160436"],
+						["462151","0160420"],
+						["462206","0160408"],
+						["462253","0160303"],
+						["462335","0160329"],
+						["462315","0160519"],
+						["462418","0160839"],
+						["462243","0161125"],
+						["462241","0161803"],
+						["462346","0161833"],
+						["462459","0161627"],
+						["462938","0161430"],
+						["463057","0161606"],
+						["463309","0162215"],
+						["463112","0162741"],
+						["462901","0163358"],
+						["463004","0163134"],
+						["463343","0163032"],
+						["463753","0162356"],
+						["464100","0162521"],
+						["464303","0162058"],
+						["464627","0161938"],
+						["465046","0162019"],
+						["465223","0161653"],
+						["465241","0161404"],
+						["465207","0161132"],
+						["465120","0160837"],
+						["465209","0160650"],
+						["465019","0160330"],
+						["465007","0155945"],
+						["464504","0155908"],
+						["464303","0160018"],
+						["464240","0160142"],
+						["464203","0160142"],
+						["464109","0160232"],
+						["463959","0160210"],
+						["463922","0160215"],
+						["463951","0160042"],
+						["464046","0155959"],
+						["464123","0155643"],
+						["464236","0155441"],
+						["464317","0155155"],
+						["464322","0155007"],
+						["464252","0154750"],
+						["464156","0154612"],
+						["464147","0154315"],
+						["464156","0154149"],
+						["464225","0154031"],
+						["464220","0153858"],
+						["464159","0153914"],
+						["464129","0153910"],
+						["464131","0153828"],
+						["464117","0153801"],
+						["464052","0153801"],
+						["464046","0153711"],
+						["464101","0153645"],
+						["464053","0153620"],
+						["464106","0153614"],
+						["464116","0153629"],
+						["464126","0153549"],
+						["464101","0153523"],
+						["464049","0153405"],
+						["464031","0153400"],
+						["464009","0153239"],
+						["463854","0153307"],
+						["463855","0153247"],
+						["463837","0153240"],
+						["463824","0153259"],
+						["463748","0153231"],
+						["463803","0153222"],
+						["463716","0153109"],
+						["463723","0153056"],
+						["463712","0153037"]
 					]
 				}
 			]
@@ -1670,9 +1439,14 @@
  			"owner":[
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
+				"LOVV_C_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_U_CTR"
             		],
 			"sectors":[
       				{
@@ -1758,14 +1532,17 @@
 			"id":"S2",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
-            		],
+				"LOVV_C_CTR"
+			],
 			"sectors":[
       				{
 					"max":344,
@@ -1848,13 +1625,16 @@
 			"id":"S2 MURA",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -1963,13 +1743,16 @@
 			"id":"S3",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -2053,13 +1836,16 @@
 			"id":"S3 MURA",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -2168,13 +1954,16 @@
 			"id":"S4",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -2258,13 +2047,16 @@
 			"id":"S4 MURA",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -2373,13 +2165,16 @@
 			"id":"S5",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -2463,13 +2258,16 @@
 			"id":"S5 MURA",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -2578,13 +2376,16 @@
 			"id":"S6",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -2668,13 +2469,16 @@
 			"id":"S6 MURA",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -2783,13 +2587,16 @@
 			"id":"S7",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -2872,13 +2679,16 @@
 			"id":"S7 MURA",
 			"group":"ACC",
  			"owner":[
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -2989,9 +2799,14 @@
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
+				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"LOVV_CTR"
-            		],
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_U_CTR"
+			],
 			"sectors":[
       				{
 					"max":314,
@@ -3042,13 +2857,16 @@
 			"id":"W2",
 			"group":"ACC",
  			"owner":[
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -3100,13 +2918,16 @@
 			"id":"W3",
 			"group":"ACC",
  			"owner":[
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -3158,13 +2979,16 @@
 			"id":"W4",
 			"group":"ACC",
  			"owner":[
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
             		],
 			"sectors":[
       				{
@@ -3216,13 +3040,16 @@
 			"id":"W5",
 			"group":"ACC",
  			"owner":[
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
            		],
 			"sectors":[
       				{
@@ -3274,13 +3101,16 @@
 			"id":"W6",
 			"group":"ACC",
  			"owner":[
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
            		],
 			"sectors":[
       				{
@@ -3332,13 +3162,16 @@
 			"id":"W7",
 			"group":"ACC",
  			"owner":[
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
 				"LOVV_U_CTR",
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR",
-				"fss/EUCME"
+				"LOVV_C_CTR"
            		],
 			"sectors":[
       				{
@@ -3394,10 +3227,14 @@
 				"LOVV_L_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
-            		],
+				"LOVV_C_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR"
+			],
 			"sectors":[
 				{
 					"max":164,
@@ -3691,8 +3528,11 @@
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
-				"LOVV_CTR"
-            		],
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       				{
 					"max":164,
@@ -3721,8 +3561,11 @@
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
-				"LOVV_CTR"
-            		],
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       				{
 					"max":164,
@@ -3758,8 +3601,11 @@
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
-				"LOVV_CTR"
-            		],
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       			{
 					"max":164,
@@ -3786,8 +3632,11 @@
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
-				"LOVV_CTR"
-            		],
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       				{
 					"max":164,
@@ -3824,8 +3673,11 @@
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
-				"LOVV_CTR"
-            		],
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
 				{
 					"runways":[
@@ -3883,8 +3735,11 @@
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
-				"LOVV_CTR"
-           		],
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
 				{
 					"runways":[
@@ -3941,8 +3796,11 @@
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
-				"LOVV_CTR"
-            		],
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
 				{
 					"runways":[
@@ -4016,8 +3874,11 @@
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
-				"LOVV_CTR"
-            		],
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       				{
                				"runways":[
@@ -4090,8 +3951,11 @@
 				"LOVV_W_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
-				"LOVV_CTR"
-            		],
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
 				{
 					"runways":[
@@ -4141,15 +4005,18 @@
 			"id":"Innsbruck - NW Low",
 			"group":"APP",
  			"owner":[
-            			"LOWI_APP",
-            			"LOWI_E_APP",
-            			"LOWI_S_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_W_CTR",
-            			"LOVV_S_CTR",
-            			"LOVV_B_CTR",
-            			"LOVV_CTR"
-            		],
+				"LOWI_APP",
+				"LOWI_E_APP",
+				"LOWI_S_APP",
+				"LOVV_L_CTR",
+				"LOVV_W_CTR",
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       				{
                				"runways":[
@@ -4199,16 +4066,19 @@
 			"id":"Innsbruck - SW Low",
 			"group":"APP",
  			"owner":[
-            			"LOWI_F_APP",
-            			"LOWI_S_APP",
-            			"LOWI_APP",
-            			"LOWI_E_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_W_CTR",
-            			"LOVV_S_CTR",
-            			"LOVV_B_CTR",
-            			"LOVV_CTR"
-            		],
+				"LOWI_F_APP",
+				"LOWI_S_APP",
+				"LOWI_APP",
+				"LOWI_E_APP",
+				"LOVV_L_CTR",
+				"LOVV_W_CTR",
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       				{
                				"runways":[
@@ -4281,14 +4151,17 @@
 			"id":"Innsbruck - SW Low",
 			"group":"APP",
  			"owner":[
-            			"LOWI_S_APP",
-            			"LOWI_APP",
-            			"LOWI_E_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_W_CTR",
-            			"LOVV_S_CTR",
-            			"LOVV_B_CTR",
-            			"LOVV_CTR"
+				"LOWI_S_APP",
+				"LOWI_APP",
+				"LOWI_E_APP",
+				"LOVV_L_CTR",
+				"LOVV_W_CTR",
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
             ],
 			"sectors":[
 				{
@@ -4362,15 +4235,18 @@
 			"id":"Innsbruck - SE High",
 			"group":"APP",
  			"owner":[
-            			"LOWI_S_APP",
-            			"LOWI_E_APP",
-            			"LOWI_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_W_CTR",
-            			"LOVV_S_CTR",
-            			"LOVV_B_CTR",
-            			"LOVV_CTR"
-            		],
+				"LOWI_S_APP",
+				"LOWI_E_APP",
+				"LOWI_APP",
+				"LOVV_L_CTR",
+				"LOVV_W_CTR",
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       				{
 					"max":164,
@@ -4390,15 +4266,19 @@
 			"id":"Klagenfurt",
 			"group":"APP",
  			"owner":[
-            			"LOWK_APP",
-            			"LOVV_S_APP",
-            			"LOVV_L_CTR",
+				"LOWK_APP",
+				"LOVV_S_APP",
+				"LOVV_L_CTR",
 				"LOVV_W_CTR",
-            			"LOVV_S_CTR",
-            			"LOVV_B_CTR",
-            			"LOVV_C_CTR",
-            			"LOVV_CTR"
-            		],
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
 				{
 					"max":164,
@@ -4625,14 +4505,16 @@
 			"id":"Linz",
 			"group":"APP",
  			"owner":[
-            			"LOWL_APP",
-            			"LOVV_N_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_N_CTR",
-            			"LOVV_E_CTR",
-            			"LOVV_CTR",
-            			"LOVV_C_CTR"
-            		],
+				"LOWL_APP",
+				"LOVV_N_APP",
+				"LOVV_L_CTR",
+				"LOVV_N_CTR",
+				"LOVV_E_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_NU_CTR",
+				"LOVV_EU_CTR"
+			],
 			"sectors":[
       				{
 					"max":164,
@@ -4739,15 +4621,19 @@
 			"id":"Salzburg",
 			"group":"APP",
  			"owner":[
-            			"LOWS_APP",
-            			"LOVV_N_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_B_CTR",
-            			"LOVV_W_CTR",
-            			"LOVV_N_CTR",
-            			"LOVV_CTR",
-            			"LOVV_C_CTR"
-            		],
+				"LOWS_APP",
+				"LOVV_N_APP",
+				"LOVV_L_CTR",
+				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
+				"LOVV_W_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_NU_CTR"
+			],
 			"sectors":[
       				{
 					"max":124,
@@ -4832,16 +4718,18 @@
 			"id":"Wien - BALAD",
 			"group":"APP",
  			"owner":[
-            			"LOWW_APP",
-            			"LOWW_P_APP",
-            			"LOWW_N_APP",
-            			"LOWW_M_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_E_CTR",
-            			"LOVV_N_CTR",
-            			"LOVV_CTR",
-            			"LOVV_C_CTR"
-            		],
+				"LOWW_APP",
+				"LOWW_P_APP",
+				"LOWW_N_APP",
+				"LOWW_M_APP",
+				"LOVV_L_CTR",
+				"LOVV_E_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR"
+			],
 			"sectors":[
 				{
 					"max":244,
@@ -5000,16 +4888,18 @@
 			"id":"Wien - NERDU",
 			"group":"APP",
  			"owner":[
-            			"LOWW_N_APP",
-            			"LOWW_M_APP",
-            			"LOWW_APP",
-            			"LOWW_P_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_E_CTR",
-            			"LOVV_N_CTR",
-            			"LOVV_CTR",
-            			"LOVV_C_CTR"
-            		],
+				"LOWW_N_APP",
+				"LOWW_M_APP",
+				"LOWW_APP",
+				"LOWW_P_APP",
+				"LOVV_L_CTR",
+				"LOVV_E_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR"
+			],
 			"sectors":[
 				{
 					"max":244,
@@ -5147,16 +5037,18 @@
 			"id":"Wien - PESAT",
 			"group":"APP",
  			"owner":[
-            			"LOWW_P_APP",
-            			"LOWW_M_APP",
-            			"LOWW_APP",
-            			"LOWW_N_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_E_CTR",
-            			"LOVV_N_CTR",
-            			"LOVV_CTR",
-            			"LOVV_C_CTR"
-           		],
+				"LOWW_P_APP",
+				"LOWW_M_APP",
+				"LOWW_APP",
+				"LOWW_N_APP",
+				"LOVV_L_CTR",
+				"LOVV_E_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR"
+			],
 			"sectors":[
       			{
 					"max":244,
@@ -5202,16 +5094,18 @@
 			"id":"Wien - MABOD",
 			"group":"APP",
  			"owner":[
-            			"LOWW_M_APP",
-            			"LOWW_P_APP",
-            			"LOWW_N_APP",
-            			"LOWW_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_E_CTR",
-            			"LOVV_N_CTR",
-            			"LOVV_CTR",
-            			"LOVV_C_CTR"
-            		],
+				"LOWW_M_APP",
+				"LOWW_P_APP",
+				"LOWW_N_APP",
+				"LOWW_APP",
+				"LOVV_L_CTR",
+				"LOVV_E_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR"
+			],
 			"sectors":[
 				{
 					"max":244,
@@ -5539,8 +5433,8 @@
 			"id":"Tulln",
 			"group":"APP",
  			"owner":[
-            			"LOXT_APP",
-            			"LOVV_M_CTR",
+				"LOXT_APP",
+				"LOVV_M_CTR",
 				"LOXT_APP",
 				"LOVV_M_CTR",
 				"LOWW_N_APP",
@@ -5551,7 +5445,9 @@
 				"LOVV_E_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
+				"LOVV_C_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR"
             ],
 			"sectors":[
 				{
@@ -5715,17 +5611,21 @@
 			"id":"Zeltweg",
 			"group":"APP",
  			"owner":[
-            			"LOXZ_APP",
-            			"LOVV_M_CTR",
+				"LOXZ_APP",
+				"LOVV_M_CTR",
 				"LOWG_APP",
 				"LOVV_S_APP",
 				"LOVV_L_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
-            		],
+				"LOVV_C_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR"
+			],
 			"sectors":[
       				{
 					"max":124,
@@ -5806,18 +5706,21 @@
 			"id":"Zeltweg",
 			"group":"APP",
  			"owner":[
-            			"LOXZ_APP",
-            			"LOVV_M_CTR",
+				"LOXZ_APP",
+				"LOVV_M_CTR",
 				"LOWK_APP",
-            			"LOVV_S_APP",
-            			"LOVV_L_CTR",
+				"LOVV_S_APP",
+				"LOVV_L_CTR",
 				"LOVV_W_CTR",
-            			"LOVV_S_CTR",
-            			"LOVV_B_CTR",
-				"LOVV_E_CTR",
-            			"LOVV_C_CTR",
-            			"LOVV_CTR"
-            		],
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       				{
 					"max":124,
@@ -5840,9 +5743,9 @@
 			"id":"Tulln",
 			"group":"TWR",
  			"owner":[
-			"LOXT_TWR",
-            			"LOXT_APP",
-            			"LOVV_M_CTR",
+				"LOXT_TWR",
+				"LOXT_APP",
+				"LOVV_M_CTR",
 				"LOXT_APP",
 				"LOVV_M_CTR",
 				"LOWW_N_APP",
@@ -5853,8 +5756,10 @@
 				"LOVV_E_CTR",
 				"LOVV_N_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
-            			],
+				"LOVV_C_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR"
+			],
 			"sectors":[
       				{
 					"max":24,
@@ -5883,17 +5788,21 @@
 			"group":"TWR",
  			"owner":[
 				"LOXZ_TWR",
-            			"LOXZ_APP",
-            			"LOVV_M_CTR",
+				"LOXZ_APP",
+				"LOVV_M_CTR",
 				"LOWG_APP",
 				"LOVV_S_APP",
 				"LOVV_L_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
 				"LOVV_CTR",
-				"LOVV_C_CTR"
-            		],
+				"LOVV_C_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR"
+			],
 			"sectors":[
       				{
 					"max":79,
@@ -5915,16 +5824,20 @@
 			"id":"Graz",
 			"group":"TWR",
  			"owner":[
-            			"LOWG_TWR",
+				"LOWG_TWR",
 				"LOWG_APP",
-            			"LOVV_S_APP",
+				"LOVV_S_APP",
 				"LOVV_L_CTR",
 				"LOVV_S_CTR",
 				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
 				"LOVV_E_CTR",
+				"LOVV_CTR",
 				"LOVV_C_CTR",
-				"LOVV_CTR"
-            		],
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_EU_CTR"
+			],
 			"sectors":[
       				{
 					"max":44,
@@ -5945,15 +5858,18 @@
 			"id":"Innsbruck",
 			"group":"TWR",
  			"owner":[
-            			"LOWI_TWR",
-            			"LOWI_APP",
-            			"LOWI_E_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_W_CTR",
-            			"LOVV_S_CTR",
-            			"LOVV_B_CTR",
-            			"LOVV_CTR"
-            		],
+				"LOWI_TWR",
+				"LOWI_APP",
+				"LOWI_E_APP",
+				"LOVV_L_CTR",
+				"LOVV_W_CTR",
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       				{
 					"max":69,
@@ -5984,15 +5900,17 @@
 			"id":"Linz",
 			"group":"TWR",
  			"owner":[
-            			"LOWL_TWR",
-            			"LOWL_APP",
-            			"LOVV_N_CTR",
-            			"LOVV_L_CTR",
-            			"LOVV_N_CTR",
-            			"LOVV_E_CTR",
-            			"LOVV_CTR",
-            			"LOVV_C_CTR"
-           		],
+				"LOWL_TWR",
+				"LOWL_APP",
+				"LOVV_N_APP",
+				"LOVV_L_CTR",
+				"LOVV_N_CTR",
+				"LOVV_E_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_NU_CTR",
+				"LOVV_EU_CTR"
+			],
 			"sectors":[
       				{
 					"max":24,
@@ -6015,16 +5933,20 @@
 			"id":"Klagenfurt",
 			"group":"TWR",
  			"owner":[
-            			"LOWK_TWR",
-            			"LOWK_APP",
-            			"LOVV_S_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_W_CTR",
-            			"LOVV_S_CTR",
-            			"LOVV_B_CTR",
-            			"LOVV_C_CTR",
-            			"LOVV_CTR"
-            		],
+				"LOWK_TWR",
+				"LOWK_APP",
+				"LOVV_S_APP",
+				"LOVV_L_CTR",
+				"LOVV_W_CTR",
+				"LOVV_S_CTR",
+				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_SU_CTR",
+				"LOVV_BU_CTR"
+			],
 			"sectors":[
       				{
 					"max":44,
@@ -6049,16 +5971,20 @@
 			"id":"Salzburg",
 			"group":"TWR",
  			"owner":[
-            			"LOWS_TWR",
-            			"LOWS_APP",
-            			"LOVV_N_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_B_CTR",
-            			"LOVV_W_CTR",
-            			"LOVV_N_CTR",
-            			"LOVV_CTR",
-            			"LOVV_C_CTR"
-           		],
+				"LOWS_TWR",
+				"LOWS_APP",
+				"LOVV_N_APP",
+				"LOVV_L_CTR",
+				"LOVV_B_CTR",
+				"LOVV_BC_CTR",
+				"LOVV_W_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_BU_CTR",
+				"LOVV_WU_CTR",
+				"LOVV_NU_CTR"
+			],
 			"sectors":[
       				{
 					"max":69,
@@ -6080,18 +6006,20 @@
 			"id":"Wien",
 			"group":"TWR",
  			"owner":[
-            			"LOWW_TWR",
-            			"LOWW_E_TWR",
-            			"LOWW_APP",
-            			"LOWW_P_APP",
-            			"LOWW_N_APP",
-            			"LOWW_M_APP",
-            			"LOVV_L_CTR",
-            			"LOVV_E_CTR",
-            			"LOVV_N_CTR",
-            			"LOVV_CTR",
-            			"LOVV_C_CTR"
-            		],
+				"LOWW_TWR",
+				"LOWW_E_TWR",
+				"LOWW_APP",
+				"LOWW_P_APP",
+				"LOWW_N_APP",
+				"LOWW_M_APP",
+				"LOVV_L_CTR",
+				"LOVV_E_CTR",
+				"LOVV_N_CTR",
+				"LOVV_CTR",
+				"LOVV_C_CTR",
+				"LOVV_EU_CTR",
+				"LOVV_NU_CTR"
+			],
 			"sectors":[
       				{
 					"max":24,
@@ -6127,18 +6055,24 @@
 	},
 	"positions":{
 		"LOVV_CTR":		{"colours":[{"hex":"#DFFF00"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"132.600",	"callsign":"Wien Radar"},
-		"LOVV_F_CTR":		{"colours":[{"hex":"#ffbf00"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"128.700",	"callsign":"Wien Radar"},
+		"LOVV_F_CTR":		{"colours":[{"hex":"#ffbf00"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"133.800",	"callsign":"Wien Radar"},
 		"LOVV_I_CTR":		{"colours":[{"hex":"#6495ed"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"124.400",	"callsign":"Vienna Info"},
 		"LOVV_L_CTR":		{"colours":[{"hex":"#ccccff"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"129.200",	"callsign":"Wien Radar"},
 		"LOVV_U_CTR":		{"colours":[{"hex":"#ff4f50"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"131.350",	"callsign":"Wien Radar"},
-		"LOVV_R_CTR":		{"colours":[{"hex":"#40E0D0"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"132.950",	"callsign":"Wien Radar"},
-		"LOVV_S_CTR":		{"colours":[{"hex":"#008080"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"133.800",	"callsign":"Wien Radar"},
+		"LOVV_S_CTR":		{"colours":[{"hex":"#008080"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"122.865",	"callsign":"Wien Radar"},
 		"LOVV_M_CTR":		{"colours":[{"hex":"#9FE2BF"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"131.025",	"callsign":"Wien Radar"},
 		"LOVV_W_CTR":		{"colours":[{"hex":"#c7b192"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"129.125",	"callsign":"Wien Radar"},
 		"LOVV_N_CTR":		{"colours":[{"hex":"#247513"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"134.350",	"callsign":"Wien Radar"},
 		"LOVV_E_CTR":		{"colours":[{"hex":"#8f7aec"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"134.440",	"callsign":"Wien Radar"},
 		"LOVV_B_CTR":		{"colours":[{"hex":"#37fbd2"}],	"pre":["LOVV"],		"type":"CTR",	"frequency":"132.190",	"callsign":"Wien Radar"},
 		"LOVV_C_CTR":		{"colours":[{"hex":"#aaec7f"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"132.160",	"callsign":"Wien Radar"},
+		"LOVV_S1_CTR":		{"colours":[{"hex":"#aaec7f"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"128.700",	"callsign":"Wien Radar"},
+		"LOVV_EU_CTR":		{"colours":[{"hex":"#999999"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"135.635",	"callsign":"Wien Radar"},
+		"LOVV_SU_CTR":		{"colours":[{"hex":"#ff00ff"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"133.965",	"callsign":"Wien Radar"},
+		"LOVV_WU_CTR":		{"colours":[{"hex":"#d5a6bd"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"129.965",	"callsign":"Wien Radar"},
+		"LOVV_BU_CTR":		{"colours":[{"hex":"#a64d79"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"136.390",	"callsign":"Wien Radar"},
+		"LOVV_NU_CTR":		{"colours":[{"hex":"#741b47"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"119.880",	"callsign":"Wien Radar"},
+		"LOVV_BC_CTR":		{"colours":[{"hex":"##bf9000"}],"pre":["LOVV"],		"type":"CTR",	"frequency":"132.950",	"callsign":"Wien Radar"},
 		"LOVV_N_APP":		{"colours":[{"hex":"#674ea7"}],	"pre":["LOVV"],		"type":"APP",	"frequency":"123.725",	"callsign":"Wien Radar"},
 		"LOVV_S_APP":		{"colours":[{"hex":"#741b47"}],	"pre":["LOVV"],		"type":"APP",	"frequency":"119.300",	"callsign":"Wien Radar"},
 		"LOWG_APP":		{"colours":[{"hex":"#bf9000"}],	"pre":["LOWG"],		"type":"APP",	"frequency":"119.300",	"callsign":"Graz Radar"},
