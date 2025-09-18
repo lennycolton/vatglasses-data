@@ -7731,7 +7731,7 @@
                   {
         "id": "LIPP-CE4",
         "group": "LIPP",
-        "owner": ["NE3", "NE8", "CE1"],
+        "owner": ["NE3", "NE8", "MMU", "CE1"],
         "sectors": [
           {
             "min": 305,
@@ -7794,7 +7794,7 @@
       {
         "id": "LIPP-CE5",
         "group": "LIPP",
-        "owner": ["NE6", "NE8", "NE3", "CE1"],
+        "owner": ["NE6", "NE8", "NE3", "MMU", "CE1"],
         "sectors": [
           {
             "min": 335,
@@ -7857,7 +7857,7 @@
       {
         "id": "LIPP-CE6",
         "group": "LIPP",
-        "owner": ["NE8", "NE6", "NE3", "CE1"],
+        "owner": ["NE8", "NE6", "NE3", "MMU", "CE1"],
         "sectors": [
           {
             "min": 365,
@@ -8057,7 +8057,7 @@
       {
         "id": "LIPP-CW4",
         "group": "LIPP",
-        "owner": ["NE3", "NE8", "CW3", "CE1"],
+        "owner": ["NE3", "NE8", "CW3", "MMU", "CE1"],
         "sectors": [
           {
             "min": 305,
@@ -8102,7 +8102,7 @@
       {
         "id": "LIPP-CW5",
         "group": "LIPP",
-        "owner": ["NE6", "NE8", "NE3", "CW3", "CE1"],
+        "owner": ["NE6", "NE8", "NE3", "CW3", "MMU", "CE1"],
         "sectors": [
           {
             "min": 335,
@@ -8147,7 +8147,7 @@
       {
         "id": "LIPP-CW6",
         "group": "LIPP",
-        "owner": ["NE8", "NE6", "NE3", "CW3", "CE1"],
+        "owner": ["NE8", "NE6", "NE3", "CW3", "MMU", "CE1"],
         "sectors": [
           {
             "min": 364,
@@ -8651,7 +8651,7 @@
       {
         "id": "LIPP-NE4",
         "group": "LIPP",
-        "owner": ["NE3", "NE6", "NE8", "NE2", "PNW1", "CE1"],
+        "owner": ["NE3", "NE6", "NE8", "MMU", "NE2", "PNW1", "CE1"],
         "sectors": [
           {
             "min": 285,
@@ -8786,7 +8786,7 @@
       {
         "id": "LIPP-NE5",
         "group": "LIPP",
-        "owner": ["NE6", "NE8", "NE3", "NE2", "PNW1", "CE1"],
+        "owner": ["NE6", "NE8", "NE3", "MMU", "NE2", "PNW1", "CE1"],
         "sectors": [
           {
             "min": 335,
@@ -8921,7 +8921,7 @@
       {
         "id": "LIPP-NE6",
         "group": "LIPP",
-        "owner": ["NE8", "NE6", "NE3", "NE2", "PNW1", "CE1"],
+        "owner": ["NE8", "NE6", "NE3", "MMU", "NE2", "PNW1", "CE1"],
         "sectors": [
           {
             "min": 365,
@@ -9384,7 +9384,7 @@
       {
         "id": "LIPP-NW3",
         "group": "LIPP",
-        "owner": ["NE3", "NE6", "NE8", "PNW1", "CE1"],
+        "owner": ["NE3", "NE6", "NE8", "MMU", "PNW1", "CE1"],
         "sectors": [
           {
             "min": 285,
@@ -9553,7 +9553,7 @@
       {
         "id": "LIPP-NW4",
         "group": "LIPP",
-        "owner": ["NE6", "NE8", "NE3", "PNW1", "CE1"],
+        "owner": ["NE6", "NE8", "NE3", "MMU", "PNW1", "CE1"],
         "sectors": [
           {
             "min": 335,
@@ -9722,7 +9722,7 @@
       {
         "id": "LIPP-NW5",
         "group": "LIPP",
-        "owner": ["NE8", "NE6", "NE3", "PNW1", "CE1"],
+        "owner": ["NE8", "NE6", "NE3", "MMU", "PNW1", "CE1"],
         "sectors": [
           {
             "min": 365,
@@ -10124,7 +10124,7 @@
       {
         "id": "LIPP-SD4",
         "group": "LIPP",
-        "owner": ["SD3", "SD7", "NE3", "NE8", "SD2", "CE1"],
+        "owner": ["SD3", "SD7", "NE3", "NE8", "MMU", "SD2", "CE1"],
         "sectors": [
           {
             "min": 305,
@@ -10201,7 +10201,7 @@
       {
         "id": "LIPP-SD5",
         "group": "LIPP",
-        "owner": ["SD5", "SD7", "SD3", "NE6", "NE8", "NE3", "SD2", "CE1"],
+        "owner": ["SD5", "SD7", "SD3", "NE6", "NE8", "NE3", "MMU", "SD2", "CE1"],
         "sectors": [
           {
             "min": 335,
@@ -10278,7 +10278,7 @@
       {
         "id": "LIPP-SD6",
         "group": "LIPP",
-        "owner": ["SD7", "SD5", "SD3", "NE8", "NE6", "NE3", "SD2", "CE1"],
+        "owner": ["SD7", "SD5", "SD3", "NE8", "NE6", "NE3", "MMU", "SD2", "CE1"],
         "sectors": [
           {
             "min": 365,
@@ -10444,7 +10444,7 @@
       {
         "id": "LIPP-SE4",
         "group": "LIPP",
-        "owner": ["NE3", "NE8", "CE1"],
+        "owner": ["NE3", "NE8", "MMU", "CE1"],
         "sectors": [
           {
             "min": 305,
@@ -10475,7 +10475,7 @@
       {
         "id": "LIPP-SE5",
         "group": "LIPP",
-        "owner": ["NE6", "NE8", "NE3", "CE1"],
+        "owner": ["NE6", "NE8", "NE3", "MMU", "CE1"],
         "sectors": [
           {
             "min": 335,
@@ -10506,7 +10506,7 @@
       {
         "id": "LIPP-SE6",
         "group": "LIPP",
-        "owner": ["NE8", "NE6", "NE3", "CE1"],
+        "owner": ["NE8", "NE6", "NE3", "MMU", "CE1"],
         "sectors": [
           {
             "min": 365,
@@ -10745,7 +10745,7 @@
       {
         "id": "LIPP-SW5",
         "group": "LIPP",
-        "owner": ["NE3", "NE8", "CW3", "CE1"],
+        "owner": ["NE3", "NE8", "CW3", "MMU", "CE1"],
         "sectors": [
           {
             "min": 305,
@@ -10790,7 +10790,7 @@
       {
         "id": "LIPP-SW6",
         "group": "LIPP",
-        "owner": ["NE6", "NE8", "NE3", "CW3", "CE1"],
+        "owner": ["NE6", "NE8", "NE3", "CW3", "MMU", "CE1"],
         "sectors": [
           {
             "min": 335,
@@ -10835,7 +10835,7 @@
       {
         "id": "LIPP-SW7",
         "group": "LIPP",
-        "owner": ["NE8", "NE6", "NE3", "CW3", "CE1"],
+        "owner": ["NE8", "NE6", "NE3", "CW3", "MMU", "CE1"],
         "sectors": [
           {
             "min": 365,
