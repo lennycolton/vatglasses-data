@@ -83001,7 +83001,7 @@
         "ENBR"
       ],
       "type": "APP",
-      "frequency": "118.850",
+      "frequency": "118.855",
       "callsign": "Flesland Director"
     },
     "BER": {
@@ -83014,7 +83014,7 @@
         "ENBR"
       ],
       "type": "APP",
-      "frequency": "126.100",
+      "frequency": "126.105",
       "callsign": "Flesland Approach"
     },
     "BR": {
@@ -83027,7 +83027,7 @@
         "ENBR"
       ],
       "type": "TWR",
-      "frequency": "119.100",
+      "frequency": "119.105",
       "callsign": "Flesland Tower"
     },
     "BWR": {
@@ -83040,7 +83040,7 @@
         "ENBR"
       ],
       "type": "APP",
-      "frequency": "121.000",
+      "frequency": "121.005",
       "callsign": "Flesland Approach"
     },
     "BS": {
@@ -83079,7 +83079,7 @@
         "ENCN"
       ],
       "type": "APP",
-      "frequency": "119.950",
+      "frequency": "119.955",
       "callsign": "Kjevik Approach"
     },
     "CN": {
@@ -83092,7 +83092,7 @@
         "ENCN"
       ],
       "type": "TWR",
-      "frequency": "118.100",
+      "frequency": "118.105",
       "callsign": "Kjevik Tower"
     },
     "LR": {
@@ -83131,7 +83131,7 @@
         "ENEV"
       ],
       "type": "APP",
-      "frequency": "120.100",
+      "frequency": "120.105",
       "callsign": "Evenes Approach"
     },
     "EV": {
@@ -83144,7 +83144,7 @@
         "ENEV"
       ],
       "type": "TWR",
-      "frequency": "118.000",
+      "frequency": "118.005",
       "callsign": "Evenes Tower"
     },
     "FL": {
@@ -83157,7 +83157,7 @@
         "ENFL"
       ],
       "type": "TWR",
-      "frequency": "119.200",
+      "frequency": "119.205",
       "callsign": "Florø Information"
     },
     "GC": {
@@ -83211,6 +83211,19 @@
       "type": "TWR",
       "frequency": "120.105",
       "callsign": "Gardermoen Tower"
+    },
+    "GMF": {
+      "colours": [
+        {
+          "hex": "#6a1b9a"
+        }
+      ],
+      "pre": [
+        "ENGM"
+      ],
+      "type": "FMP",
+      "frequency": "120.455",
+      "callsign": "Oslo Planner"
     },
     "FF": {
       "colours": [
@@ -83781,7 +83794,7 @@
         "ENSD"
       ],
       "type": "TWR",
-      "frequency": "119.800",
+      "frequency": "119.805",
       "callsign": "Anda Information"
     },
     "SG": {
@@ -83833,7 +83846,7 @@
         "ENSO"
       ],
       "type": "TWR",
-      "frequency": "120.200",
+      "frequency": "120.205",
       "callsign": "Sørstokken Information"
     },
     "SR": {
@@ -84191,7 +84204,7 @@
         16.144166666667
       ],
       "topdown": [
-        "AX",
+        "AN",
         "RCN",
         "25R",
         "26R",
@@ -84205,7 +84218,7 @@
         18.540277777778
       ],
       "topdown": [
-        "LR",
+        "DU",
         "RCN",
         "25R",
         "26R",
@@ -84250,7 +84263,7 @@
         14.365277777778
       ],
       "topdown": [
-        "AR",
+        "BO",
         "RCN",
         "24R",
         "25R",
@@ -84335,7 +84348,7 @@
         16.678333333333
       ],
       "topdown": [
-        "EX",
+        "EV",
         "RCN",
         "25R",
         "26R",
@@ -84392,7 +84405,7 @@
         29.887777777778
       ],
       "topdown": [
-        "KX",
+        "KR",
         "RCN",
         "26R",
         "25R",
@@ -84406,7 +84419,7 @@
         8.085
       ],
       "topdown": [
-        "CX",
+        "CN",
         "RCS",
         "8R",
         "5R",
@@ -84423,7 +84436,7 @@
         7.8261111111111
       ],
       "topdown": [
-        "PR",
+        "QD",
         "QR",
         "RCN",
         "18R",
@@ -84494,7 +84507,7 @@
         7.2625
       ],
       "topdown": [
-        "PR",
+        "QD",
         "QR",
         "RCN",
         "18R",
@@ -84538,8 +84551,8 @@
         9.2122222222222
       ],
       "topdown": [
-        "FR",
-        "FD",
+        "FWR",
+        "FER",
         "RCS",
         "4R",
         "5R",
@@ -84566,8 +84579,8 @@
         10.785555555556
       ],
       "topdown": [
-        "FR",
-        "FD",
+        "FWR",
+        "FER",
         "RCS",
         "4R",
         "5R",
@@ -84641,8 +84654,8 @@
         10.258611111111
       ],
       "topdown": [
-        "FR",
-        "FD",
+        "FWR",
+        "FER",
         "RCS",
         "4R",
         "5R",
@@ -84688,6 +84701,7 @@
         5.6377777777778
       ],
       "topdown": [
+        "ZED",
         "ZAR",
         "ZER",
         "RCS",
@@ -84771,7 +84785,7 @@
         18.917777777778
       ],
       "topdown": [
-        "TX",
+        "TC",
         "RCN",
         "25R",
         "26R",
@@ -84803,7 +84817,7 @@
         29.844722222222
       ],
       "topdown": [
-        "KX",
+        "KR",
         "RCN",
         "26R",
         "25R",
@@ -84848,7 +84862,7 @@
       ],
       "topdown": [
         "QR",
-        "PR",
+        "QD",
         "RCN",
         "18R",
         "24R",
@@ -84865,7 +84879,7 @@
       ],
       "topdown": [
         "QR",
-        "PR",
+        "QD",
         "RCN",
         "18R",
         "24R",
