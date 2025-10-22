@@ -83001,7 +83001,7 @@
         "ENBR"
       ],
       "type": "APP",
-      "frequency": "118.850",
+      "frequency": "118.855",
       "callsign": "Flesland Director"
     },
     "BER": {
@@ -83014,7 +83014,7 @@
         "ENBR"
       ],
       "type": "APP",
-      "frequency": "126.100",
+      "frequency": "126.105",
       "callsign": "Flesland Approach"
     },
     "BR": {
@@ -83027,7 +83027,7 @@
         "ENBR"
       ],
       "type": "TWR",
-      "frequency": "119.100",
+      "frequency": "119.105",
       "callsign": "Flesland Tower"
     },
     "BWR": {
@@ -83040,7 +83040,7 @@
         "ENBR"
       ],
       "type": "APP",
-      "frequency": "121.000",
+      "frequency": "121.005",
       "callsign": "Flesland Approach"
     },
     "BS": {
@@ -83079,7 +83079,7 @@
         "ENCN"
       ],
       "type": "APP",
-      "frequency": "119.950",
+      "frequency": "119.955",
       "callsign": "Kjevik Approach"
     },
     "CN": {
@@ -83092,7 +83092,7 @@
         "ENCN"
       ],
       "type": "TWR",
-      "frequency": "118.100",
+      "frequency": "118.105",
       "callsign": "Kjevik Tower"
     },
     "LR": {
@@ -83131,7 +83131,7 @@
         "ENEV"
       ],
       "type": "APP",
-      "frequency": "120.100",
+      "frequency": "120.105",
       "callsign": "Evenes Approach"
     },
     "EV": {
@@ -83144,7 +83144,7 @@
         "ENEV"
       ],
       "type": "TWR",
-      "frequency": "118.000",
+      "frequency": "118.005",
       "callsign": "Evenes Tower"
     },
     "FL": {
@@ -83157,7 +83157,7 @@
         "ENFL"
       ],
       "type": "TWR",
-      "frequency": "119.200",
+      "frequency": "119.205",
       "callsign": "Florø Information"
     },
     "GC": {
@@ -83211,6 +83211,19 @@
       "type": "TWR",
       "frequency": "120.105",
       "callsign": "Gardermoen Tower"
+    },
+    "GMF": {
+      "colours": [
+        {
+          "hex": "#6a1b9a"
+        }
+      ],
+      "pre": [
+        "ENGM"
+      ],
+      "type": "FMP",
+      "frequency": "120.455",
+      "callsign": "Oslo Planner"
     },
     "FF": {
       "colours": [
@@ -83781,7 +83794,7 @@
         "ENSD"
       ],
       "type": "TWR",
-      "frequency": "119.800",
+      "frequency": "119.805",
       "callsign": "Anda Information"
     },
     "SG": {
@@ -83833,7 +83846,7 @@
         "ENSO"
       ],
       "type": "TWR",
-      "frequency": "120.200",
+      "frequency": "120.205",
       "callsign": "Sørstokken Information"
     },
     "SR": {
