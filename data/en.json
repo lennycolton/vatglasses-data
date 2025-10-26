@@ -23188,735 +23188,735 @@
   "groups": { "Polaris FIR": { "name": "Polaris" }, "ENOB": { "name": "Bodø Oceanic" } },
   "positions": {
     "QR": {
-      "colours": [ { "hex": "#f4c82b" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENAL" ],
       "type": "APP",
       "frequency": "129.330",
       "callsign": "Møre Approach"
     },
     "AL": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENAL" ],
       "type": "TWR",
       "frequency": "118.105",
       "callsign": "Vigra Tower"
     },
     "AX": {
-      "colours": [ { "hex": "#25cece" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENAN" ],
       "type": "APP",
       "frequency": "118.705",
       "callsign": "Andøya Tower"
     },
     "AN": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENAN" ],
       "type": "TWR",
       "frequency": "118.205",
       "callsign": "Andøya Tower"
     },
     "AS": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENAS" ],
       "type": "TWR",
       "frequency": "123.900",
       "callsign": "Ny Ålesund Information"
     },
     "AT": {
-      "colours": [ { "hex": "#ff8c1f" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENAT" ],
       "type": "APP",
       "frequency": "120.405",
       "callsign": "Alta Tower"
     },
     "19R": {
-      "colours": [ { "hex": "#3889f9" } ],
+      "colours": [ { "hex": "#5e12c8" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "131.100",
       "callsign": "Polaris Control"
     },
     "25R": {
-      "colours": [ { "hex": "#ffa623" } ],
+      "colours": [ { "hex": "#adda25" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "126.450",
       "callsign": "Polaris Control"
     },
     "24R": {
-      "colours": [ { "hex": "#a01101" } ],
+      "colours": [ { "hex": "#1665c3" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "118.550",
       "callsign": "Polaris Control"
     },
     "26R": {
-      "colours": [ { "hex": "#2da2f3" } ],
+      "colours": [ { "hex": "#c40fcc" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "126.700",
       "callsign": "Polaris Control"
     },
     "23R": {
-      "colours": [ { "hex": "#b61f08" } ],
+      "colours": [ { "hex": "#21e039" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "124.300",
       "callsign": "Polaris Control (Offshore)"
     },
     "18R": {
-      "colours": [ { "hex": "#56fb7b" } ],
+      "colours": [ { "hex": "#d10b2c" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "125.700",
       "callsign": "Polaris Control"
     },
     "BL": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENBL" ],
       "type": "TWR",
       "frequency": "118.450",
       "callsign": "Bringeland Information"
     },
     "HR": {
-      "colours": [ { "hex": "#40f392" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENBN" ],
       "type": "APP",
       "frequency": "127.900",
       "callsign": "Polaris Control (Helgeland)"
     },
     "BN": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENBN" ],
       "type": "TWR",
       "frequency": "119.605",
       "callsign": "Brønnøy Information"
     },
     "AR": {
-      "colours": [ { "hex": "#3d7cf7" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENBO" ],
       "type": "APP",
       "frequency": "124.000",
       "callsign": "Bodø Approach"
     },
     "BO": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENBO" ],
       "type": "TWR",
       "frequency": "118.100",
       "callsign": "Bodø Tower"
     },
     "D": {
-      "colours": [ { "hex": "#38ee9e" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENBR" ],
       "type": "APP",
       "frequency": "118.855",
       "callsign": "Flesland Director"
     },
     "BER": {
-      "colours": [ { "hex": "#c3280b" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENBR" ],
       "type": "APP",
       "frequency": "126.105",
       "callsign": "Flesland Approach"
     },
     "BR": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENBR" ],
       "type": "TWR",
       "frequency": "119.105",
       "callsign": "Flesland Tower"
     },
     "BWR": {
-      "colours": [ { "hex": "#4b47c1" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENBR" ],
       "type": "APP",
       "frequency": "121.005",
       "callsign": "Flesland Approach"
     },
     "BS": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENBS" ],
       "type": "TWR",
       "frequency": "123.405",
       "callsign": "Båtsfjord Information"
     },
     "BV": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENBV" ],
       "type": "TWR",
       "frequency": "120.100",
       "callsign": "Berlevåg Information"
     },
     "CX": {
-      "colours": [ { "hex": "#cf330e" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENCN" ],
       "type": "APP",
       "frequency": "119.955",
       "callsign": "Kjevik Approach"
     },
     "CN": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENCN" ],
       "type": "TWR",
       "frequency": "118.105",
       "callsign": "Kjevik Tower"
     },
     "LR": {
-      "colours": [ { "hex": "#27d8c3" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENDU" ],
       "type": "APP",
       "frequency": "118.805",
       "callsign": "Bardufoss Approach"
     },
     "DU": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENDU" ],
       "type": "TWR",
       "frequency": "118.105",
       "callsign": "Bardufoss Tower"
     },
     "EX": {
-      "colours": [ { "hex": "#23171b" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENEV" ],
       "type": "APP",
       "frequency": "120.105",
       "callsign": "Evenes Approach"
     },
     "EV": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENEV" ],
       "type": "TWR",
       "frequency": "118.005",
       "callsign": "Evenes Tower"
     },
     "FL": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENFL" ],
       "type": "TWR",
       "frequency": "119.205",
       "callsign": "Florø Information"
     },
     "GC": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENGC" ],
       "type": "TWR",
       "frequency": "129.675",
       "callsign": "Tampen Information"
     },
     "DD": {
-      "colours": [ { "hex": "#4af886" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENGM" ],
       "type": "APP",
       "frequency": "136.405",
       "callsign": "Oslo Director"
     },
     "GER": {
-      "colours": [ { "hex": "#b9f040" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENGM" ],
       "type": "APP",
       "frequency": "118.480",
       "callsign": "Oslo Approach"
     },
     "B": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENGM" ],
       "type": "TWR",
       "frequency": "120.105",
       "callsign": "Gardermoen Tower"
     },
     "GMF": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENGM" ],
       "type": "FMP",
       "frequency": "120.455",
       "callsign": "Oslo Planner"
     },
     "FF": {
-      "colours": [ { "hex": "#4a54d7" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENGM" ],
       "type": "APP",
       "frequency": "128.905",
       "callsign": "Oslo Final"
     },
     "GWR": {
-      "colours": [ { "hex": "#920c00" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENGM" ],
       "type": "APP",
       "frequency": "120.455",
       "callsign": "Oslo Approach"
     },
     "A": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENGM" ],
       "type": "TWR",
       "frequency": "118.305",
       "callsign": "Gardermoen Tower"
     },
     "HD": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENHD" ],
       "type": "TWR",
       "frequency": "120.505",
       "callsign": "Karmøy Tower"
     },
     "HF": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENHF" ],
       "type": "TWR",
       "frequency": "121.005",
       "callsign": "Hammerfest Information"
     },
     "HK": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENHK" ],
       "type": "TWR",
       "frequency": "119.900",
       "callsign": "Hasvik Information"
     },
     "HV": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENHV" ],
       "type": "TWR",
       "frequency": "119.805",
       "callsign": "Valan Information"
     },
     "PR": {
-      "colours": [ { "hex": "#dc3e11" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENKB" ],
       "type": "APP",
       "frequency": "119.355",
       "callsign": "Møre Approach"
     },
     "KB": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENKB" ],
       "type": "TWR",
       "frequency": "118.305",
       "callsign": "Kvernberget Tower"
     },
     "KX": {
-      "colours": [ { "hex": "#70fe66" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENKR" ],
       "type": "APP",
       "frequency": "120.355",
       "callsign": "Kirkenes Tower"
     },
     "KR": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENKR" ],
       "type": "TWR",
       "frequency": "118.105",
       "callsign": "Kirkenes Tower"
     },
     "LE": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENLE" ],
       "type": "TWR",
       "frequency": "130.550",
       "callsign": "Ekofisk Information"
     },
     "LK": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENLK" ],
       "type": "TWR",
       "frequency": "120.500",
       "callsign": "Leknes Information"
     },
     "MH": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENMH" ],
       "type": "TWR",
       "frequency": "121.200",
       "callsign": "Mehamn Information"
     },
     "ML": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENML" ],
       "type": "TWR",
       "frequency": "119.950",
       "callsign": "Molde Information"
     },
     "MS": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENMS" ],
       "type": "TWR",
       "frequency": "123.405",
       "callsign": "Mosjøen Information"
     },
     "NA": {
-      "colours": [ { "hex": "#9cf94d" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENNA" ],
       "type": "APP",
       "frequency": "118.905",
       "callsign": "Banak Tower"
     },
     "NM": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENNM" ],
       "type": "TWR",
       "frequency": "119.900",
       "callsign": "Namsos Information"
     },
     "NO": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENNO" ],
       "type": "TWR",
       "frequency": "118.805",
       "callsign": "Notodden Information"
     },
     "OB": {
-      "colours": [ { "hex": "#7efd5d" } ],
+      "colours": [ { "hex": "#4ade22" } ],
       "pre": [ "ENOB" ],
       "type": "CTR",
       "frequency": "123.175",
       "callsign": "Bodø Oceanic Control"
     },
     "ER": {
-      "colours": [ { "hex": "#412e80" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENOL" ],
       "type": "APP",
       "frequency": "118.255",
       "callsign": "Ørland Approach"
     },
     "ED": {
-      "colours": [ { "hex": "#d4e336" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENOL" ],
       "type": "APP",
       "frequency": "126.205",
       "callsign": "Ørland Approach"
     },
     "OL": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENOL" ],
       "type": "TWR",
       "frequency": "118.705",
       "callsign": "Ørland Tower"
     },
     "OR": {
-      "colours": [ { "hex": "#f15716" } ],
+      "colours": [ { "hex": "#2213c6" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "125.500",
       "callsign": "Polaris Control"
     },
     "NC": {
-      "colours": [ { "hex": "#26b9e3" } ],
+      "colours": [ { "hex": "#2213c6" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "134.515",
       "callsign": "Polaris Control"
     },
     "NS": {
-      "colours": [ { "hex": "#30e7aa" } ],
+      "colours": [ { "hex": "#2213c6" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "121.550",
       "callsign": "Polaris Control"
     },
     "1R": {
-      "colours": [ { "hex": "#25c4d9" } ],
+      "colours": [ { "hex": "#d7a427" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "118.830",
       "callsign": "Polaris Control"
     },
     "2R": {
-      "colours": [ { "hex": "#352253" } ],
+      "colours": [ { "hex": "#5e12c8" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "126.630",
       "callsign": "Polaris Control"
     },
     "3R": {
-      "colours": [ { "hex": "#e0db32" } ],
+      "colours": [ { "hex": "#21e039" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "125.055",
       "callsign": "Polaris Control"
     },
     "4R": {
-      "colours": [ { "hex": "#4761e7" } ],
+      "colours": [ { "hex": "#d10b2c" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "118.880",
       "callsign": "Polaris Control"
     },
     "7R": {
-      "colours": [ { "hex": "#2be0b6" } ],
+      "colours": [ { "hex": "#c40fcc" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "124.780",
       "callsign": "Polaris Control"
     },
     "8R": {
-      "colours": [ { "hex": "#483aa5" } ],
+      "colours": [ { "hex": "#1ee3a1" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "134.355",
       "callsign": "Polaris Control"
     },
     "5R": {
-      "colours": [ { "hex": "#436ef1" } ],
+      "colours": [ { "hex": "#1665c3" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "127.255",
       "callsign": "Polaris Control"
     },
     "6R": {
-      "colours": [ { "hex": "#8dfc55" } ],
+      "colours": [ { "hex": "#adda25" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "120.380",
       "callsign": "Polaris Control"
     },
     "OV": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENOV" ],
       "type": "TWR",
       "frequency": "118.905",
       "callsign": "Hovden Information"
     },
     "RA": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENRA" ],
       "type": "TWR",
       "frequency": "119.955",
       "callsign": "Røssvoll Information"
     },
     "RCN": {
-      "colours": [ { "hex": "#900c00" } ],
+      "colours": [ { "hex": "#00ffff" } ],
       "pre": [ "ENRC" ],
       "type": "CTR",
       "frequency": "118.325",
       "callsign": "Bodø North RTC"
     },
     "RCS": {
-      "colours": [ { "hex": "#abf546" } ],
+      "colours": [ { "hex": "#00ffff" } ],
       "pre": [ "ENRC" ],
       "type": "CTR",
       "frequency": "118.425",
       "callsign": "Bodø South RTC"
     },
     "RM": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENRM" ],
       "type": "TWR",
       "frequency": "119.800",
       "callsign": "Rørvik Information"
     },
     "RO": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENRO" ],
       "type": "TWR",
       "frequency": "120.400",
       "callsign": "Røros Information"
     },
     "RS": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENRS" ],
       "type": "TWR",
       "frequency": "119.250",
       "callsign": "Røst Information"
     },
     "RY": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENRY" ],
       "type": "TWR",
       "frequency": "119.505",
       "callsign": "Rygge Tower"
     },
     "SB": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSB" ],
       "type": "TWR",
       "frequency": "118.100",
       "callsign": "Longyear Information"
     },
     "SD": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSD" ],
       "type": "TWR",
       "frequency": "119.805",
       "callsign": "Anda Information"
     },
     "SG": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSG" ],
       "type": "TWR",
       "frequency": "119.300",
       "callsign": "Sogndal Information"
     },
     "SH": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSH" ],
       "type": "TWR",
       "frequency": "120.200",
       "callsign": "Helle Information"
     },
     "SK": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSK" ],
       "type": "TWR",
       "frequency": "120.455",
       "callsign": "Skagen Information"
     },
     "SO": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSO" ],
       "type": "TWR",
       "frequency": "120.205",
       "callsign": "Sørstokken Information"
     },
     "SR": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSR" ],
       "type": "TWR",
       "frequency": "119.605",
       "callsign": "Sørkjosen Information"
     },
     "SS": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSS" ],
       "type": "TWR",
       "frequency": "122.150",
       "callsign": "Vardø Information"
     },
     "ST": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENST" ],
       "type": "TWR",
       "frequency": "120.300",
       "callsign": "Stokka Information"
     },
     "14R": {
-      "colours": [ { "hex": "#ff711b" } ],
+      "colours": [ { "hex": "#c40fcc" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "124.580",
       "callsign": "Polaris Control"
     },
     "16R": {
-      "colours": [ { "hex": "#fcbd28" } ],
+      "colours": [ { "hex": "#5e12c8" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "135.680",
       "callsign": "Polaris Control"
     },
     "9R": {
-      "colours": [ { "hex": "#f96418" } ],
+      "colours": [ { "hex": "#d7a427" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "120.655",
       "callsign": "Polaris Control"
     },
     "13R": {
-      "colours": [ { "hex": "#63fd70" } ],
+      "colours": [ { "hex": "#d56929" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "134.930",
       "callsign": "Polaris Control"
     },
     "17R": {
-      "colours": [ { "hex": "#aa1704" } ],
+      "colours": [ { "hex": "#21e039" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "124.705",
       "callsign": "Polaris Control"
     },
     "21R": {
-      "colours": [ { "hex": "#ff7f1d" } ],
+      "colours": [ { "hex": "#1ee3a1" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "134.205",
       "callsign": "Polaris Control (Offshore)"
     },
     "10R": {
-      "colours": [ { "hex": "#ff9921" } ],
+      "colours": [ { "hex": "#d10b2c" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "136.280",
       "callsign": "Polaris Control"
     },
     "TX": {
-      "colours": [ { "hex": "#29aeec" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENTC" ],
       "type": "APP",
       "frequency": "123.755",
       "callsign": "Tromsø Approach"
     },
     "TC": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENTC" ],
       "type": "TWR",
       "frequency": "118.305",
       "callsign": "Tromsø Tower"
     },
     "FR": {
-      "colours": [ { "hex": "#e74a13" } ],
+      "colours": [ { "hex": "#e39336" } ],
       "pre": [ "ENTO" ],
       "type": "APP",
       "frequency": "134.055",
       "callsign": "Farris Approach"
     },
     "FD": {
-      "colours": [ { "hex": "#ffb225" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENTO" ],
       "type": "APP",
       "frequency": "124.355",
       "callsign": "Farris Approach"
     },
     "TO": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENTO" ],
       "type": "TWR",
       "frequency": "118.655",
       "callsign": "Torp Tower"
     },
     "CR": {
-      "colours": [ { "hex": "#c7ea3b" } ],
+      "colours": [ { "hex": "#e39336" } ],
       "pre": [ "ENVA" ],
       "type": "APP",
       "frequency": "118.605",
       "callsign": "Værnes Approach"
     },
     "CD": {
-      "colours": [ { "hex": "#ebd22e" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENVA" ],
       "type": "APP",
       "frequency": "119.155",
       "callsign": "Værnes Director"
     },
     "VA": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENVA" ],
       "type": "TWR",
       "frequency": "119.405",
       "callsign": "Værnes Tower"
     },
     "VD": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENVD" ],
       "type": "TWR",
       "frequency": "118.405",
       "callsign": "Vadsø Information"
     },
     "ZAR": {
-      "colours": [ { "hex": "#3296f7" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENZV" ],
       "type": "APP",
       "frequency": "119.605",
       "callsign": "Sola Approach"
     },
     "ZER": {
-      "colours": [ { "hex": "#970d00" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENZV" ],
       "type": "APP",
       "frequency": "119.405",
       "callsign": "Sola Arrival"
     },
     "ZV": {
-      "colours": [ { "hex": "#6a1b9a" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENZV" ],
       "type": "TWR",
       "frequency": "118.355",
