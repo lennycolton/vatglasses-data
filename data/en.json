@@ -22357,7 +22357,7 @@
       "callsign": "Notodden Information"
     },
     "OB": {
-      "colours": [ { "hex": "#4ade22" } ],
+      "colours": [ { "hex": "#179ec1" } ],
       "pre": [ "ENOB" ],
       "type": "CTR",
       "frequency": "123.175",
@@ -22392,14 +22392,14 @@
       "callsign": "Polaris Control"
     },
     "NC": {
-      "colours": [ { "hex": "#2213c6" } ],
+      "colours": [ { "hex": "#4ade22" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "134.515",
       "callsign": "Polaris Control"
     },
     "NS": {
-      "colours": [ { "hex": "#2213c6" } ],
+      "colours": [ { "hex": "#cf0d6e" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "121.550",
