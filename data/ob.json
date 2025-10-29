@@ -1295,7 +1295,7 @@
         "BT": {
             "callsign": "Bahrain Tower",
             "frequency": "118.500",
-            "type": "APP",
+            "type": "TWR",
             "pre": [
                 "OBBI"
             ]
