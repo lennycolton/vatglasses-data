@@ -3,7 +3,7 @@
     {
       "id": "EKCHAREA30 TEMP2",
       "group": "EKCH",
-      "owner": ["O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -27,7 +27,7 @@
     {
       "id": "EKCHAREA30 TEMP1",
       "group": "EKCH",
-      "owner": ["P", "O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["P", "O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -57,7 +57,7 @@
     {
       "id": "EKCH-AREA22",
       "group": "EKCH",
-      "owner": ["P", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["P", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -81,7 +81,7 @@
     {
       "id": "EKCH AREA30 TEMPAPP",
       "group": "EKCH",
-      "owner": ["O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["P", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -111,7 +111,7 @@
     {
       "id": "EKCH AREA22 TEMPAPP",
       "group": "EKCH",
-      "owner": ["P", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["P", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -135,7 +135,7 @@
     {
       "id": "EKYTTWR",
       "group": "EKYT",
-      "owner": ["YTT", "YT", "L", "V", "N", "WE", "DK"],
+      "owner": ["YTT", "YT", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 0,
@@ -161,7 +161,7 @@
     {
       "id": "EKVJTIZ",
       "group": "TIZ",
-      "owner": ["STA", "BI", "N", "UN", "V", "WE", "DK"],
+      "owner": ["STA", "BI", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 0,
@@ -199,7 +199,7 @@
     {
       "id": "EKSPTWR",
       "group": "EKSP",
-      "owner": ["ST", "SA", "N", "UN", "V", "WE", "DK"],
+      "owner": ["ST", "SA", "N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 0,
@@ -225,7 +225,7 @@
     {
       "id": "EKRN TWR",
       "group": "TWR",
-      "owner": ["RN", "A", "C", "DK"],
+      "owner": ["RN", "A", "C", "UA", "UC", "DK"],
       "sectors": [
         {
           "min": 0,
@@ -281,7 +281,7 @@
     {
       "id": "EKRKTWR",
       "group": "EKRK",
-      "owner": ["RT", "RD", "R", "K", "W", "O", "I", "B", "D", "E", "DK"],
+      "owner": ["RT", "RD", "R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "min": 0,
@@ -306,7 +306,7 @@
     {
       "id": "EKKATWR",
       "group": "EKKA",
-      "owner": ["KT", "KA", "L", "V", "N", "WE", "DK"],
+      "owner": ["KT", "KA", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 0,
@@ -333,7 +333,7 @@
     {
       "id": "EKEBTIZ",
       "group": "TIZ",
-      "owner": ["ET", "BI", "N", "UN", "V", "WE", "DK"],
+      "owner": ["ET", "BI", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 0,
@@ -405,7 +405,7 @@
     {
       "id": "EKCHATWR",
       "group": "EKCH",
-      "owner": ["CTA","TD","TC","P","W","O","I","B","D","E","OE","DK"],
+      "owner": ["CTA", "TD", "TC", "P", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "min": 0,
@@ -428,7 +428,7 @@
     {
       "id": "EKBITWR",
       "group": "EKBI",
-      "owner": ["BT", "BI", "N", "UN", "V", "WE", "DK"],
+      "owner": ["BT", "BI", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 0,
@@ -446,7 +446,7 @@
     {
       "id": "EKAHTWR",
       "group": "EKAH",
-      "owner": ["AT", "AH", "L", "V", "N", "WE", "DK"],
+      "owner": ["AT", "AH", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 0,
@@ -472,7 +472,7 @@
     {
       "id": "EKYTLTA",
       "group": "EKYT",
-      "owner": ["YT", "L", "V", "N", "WE", "DK"],
+      "owner": ["YT", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -496,7 +496,7 @@
     {
       "id": "EKYTAPP",
       "group": "EKYT",
-      "owner": ["YT", "L", "V", "N", "WE", "DK"],
+      "owner": ["YT", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 15,
@@ -522,7 +522,7 @@
     {
       "id": "EKSPLTA",
       "group": "EKSP",
-      "owner": ["SA", "N", "UN", "V", "WE", "DK"],
+      "owner": ["SA", "N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -531,6 +531,7 @@
             ["552549", "0082655"],
             ["552630", "0083955"],
             ["552722", "0085712"],
+            ["552741", "0090824"],
             ["552957", "0095455"],
             ["551858", "0100346"],
             ["550348", "0100250"],
@@ -549,7 +550,7 @@
     {
       "id": "EKSPAPP",
       "group": "EKSP",
-      "owner": ["SA", "N", "UN", "V", "WE", "DK"],
+      "owner": ["SA", "N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 15,
@@ -569,7 +570,7 @@
     {
       "id": "EKSBTIA",
       "group": "TIA",
-      "owner": ["SB", "SA", "N", "UN", "V", "WE", "DK"],
+      "owner": ["SB", "SA", "N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 0,
@@ -587,7 +588,7 @@
     {
       "id": "EKRN TMA B",
       "group": "EKRN",
-      "owner": ["RN", "A", "C", "DK"],
+      "owner": ["RN", "A", "C", "UA", "UC", "DK"],
       "sectors": [
         {
           "min": 15,
@@ -742,7 +743,7 @@
     {
       "id": "EKRN TMA A",
       "group": "EKRN",
-      "owner": ["RN", "A", "C", "DK"],
+      "owner": ["RN", "A", "C", "UA", "UC", "DK"],
       "sectors": [
         {
           "min": 35,
@@ -875,7 +876,7 @@
     {
       "id": "EKRKAPP",
       "group": "EKRK",
-      "owner": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "DK"],
+      "owner": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "min": 25,
@@ -895,7 +896,7 @@
     {
       "id": "EKRKAPP",
       "group": "EKRK",
-      "owner": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "DK"],
+      "owner": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "min": 25,
@@ -914,7 +915,7 @@
     {
       "id": "EKRKAPP",
       "group": "EKRK",
-      "owner": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "DK"],
+      "owner": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "min": 25,
@@ -932,7 +933,7 @@
     {
       "id": "EKRKAPP",
       "group": "EKRK",
-      "owner": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "DK"],
+      "owner": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "min": 15,
@@ -953,7 +954,7 @@
     {
       "id": "EKRKAPP",
       "group": "EKRK",
-      "owner": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "DK"],
+      "owner": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "min": 15,
@@ -971,7 +972,7 @@
     {
       "id": "EKODTIA",
       "group": "TIA",
-      "owner": ["OD", "D", "I", "E", "B", "WE", "DK"],
+      "owner": ["OD", "D", "I", "E", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 0,
@@ -989,7 +990,7 @@
     {
       "id": "EKKALTA",
       "group": "EKKA",
-      "owner": ["KA", "L", "V", "N", "WE", "DK"],
+      "owner": ["KA", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -1010,7 +1011,7 @@
     {
       "id": "EKKAAPP",
       "group": "EKKA",
-      "owner": ["KA", "L", "V", "N", "WE", "DK"],
+      "owner": ["KA", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 15,
@@ -1033,7 +1034,7 @@
     {
       "id": "EKCHFIN22",
       "group": "EKCH",
-      "owner": ["P", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["P", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1061,7 +1062,7 @@
     {
       "id": "EKCHFIN04",
       "group": "EKCH",
-      "owner": ["P", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["P", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1091,7 +1092,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1134,7 +1135,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1177,7 +1178,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1220,7 +1221,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1257,7 +1258,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1293,7 +1294,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1325,7 +1326,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1357,7 +1358,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1400,7 +1401,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1443,7 +1444,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1484,7 +1485,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1520,7 +1521,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1555,7 +1556,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1588,7 +1589,7 @@
     {
       "id": "EKCHAPPW",
       "group": "EKCH",
-      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1621,7 +1622,7 @@
     {
       "id": "EKCHAPPS",
       "group": "EKCH",
-      "owner": ["O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1659,7 +1660,7 @@
     {
       "id": "EKCHAPPS",
       "group": "EKCH",
-      "owner": ["O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1696,7 +1697,7 @@
     {
       "id": "EKCHAPPS",
       "group": "EKCH",
-      "owner": ["O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1734,7 +1735,7 @@
     {
       "id": "EKCHAPPS",
       "group": "EKCH",
-      "owner": ["O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1772,7 +1773,7 @@
     {
       "id": "EKCHAPPN",
       "group": "EKCH",
-      "owner": ["W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1815,7 +1816,7 @@
     {
       "id": "EKCHAPPN",
       "group": "EKCH",
-      "owner": ["W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1856,7 +1857,7 @@
     {
       "id": "EKCHAPPN",
       "group": "EKCH",
-      "owner": ["W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1896,7 +1897,7 @@
     {
       "id": "EKCHAPPN",
       "group": "EKCH",
-      "owner": ["W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1933,7 +1934,7 @@
     {
       "id": "EKCHAPPN",
       "group": "EKCH",
-      "owner": ["W", "O", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["W", "O", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -1971,7 +1972,7 @@
     {
       "id": "EKCHAPPE",
       "group": "EKCH",
-      "owner": ["O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -2013,7 +2014,7 @@
     {
       "id": "EKCHAPPE",
       "group": "EKCH",
-      "owner": ["K", "R", "O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["K", "R", "O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -2055,7 +2056,7 @@
     {
       "id": "EKCHAPPE",
       "group": "EKCH",
-      "owner": ["K", "R", "O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["K", "R", "O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -2093,7 +2094,7 @@
     {
       "id": "EKCHAPPE",
       "group": "EKCH",
-      "owner": ["O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["K", "R", "O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -2135,7 +2136,7 @@
     {
       "id": "EKCHAPPE",
       "group": "EKCH",
-      "owner": ["K", "R", "O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["K", "R", "O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -2177,7 +2178,7 @@
     {
       "id": "EKCHAPPE",
       "group": "EKCH",
-      "owner": ["K", "R", "O", "W", "I", "B", "D", "E", "OE", "DK"],
+      "owner": ["K", "R", "O", "W", "I", "B", "D", "E", "UC", "DK"],
       "sectors": [
         {
           "runways": [
@@ -2211,7 +2212,7 @@
     {
       "id": "EKBILTA",
       "group": "EKBI",
-      "owner": ["BI", "N", "UN", "V", "WE", "DK"],
+      "owner": ["BI", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 105,
@@ -2227,6 +2228,7 @@
             ["552549", "0082655"],
             ["552630", "0083955"],
             ["552722", "0085712"],
+            ["552741", "0090824"],
             ["552957", "0095455"],
             ["555257", "0095455"],
             ["555957", "0093801"]
@@ -2237,7 +2239,7 @@
     {
       "id": "EKBIAPP",
       "group": "EKBI",
-      "owner": ["BI", "N", "UN", "V", "WE", "DK"],
+      "owner": ["BI", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 75,
@@ -2253,6 +2255,7 @@
             ["552549", "0082655"],
             ["552630", "0083955"],
             ["552722", "0085712"],
+            ["552741", "0090824"],
             ["552957", "0095455"],
             ["555257", "0095455"],
             ["555957", "0093801"]
@@ -2263,7 +2266,7 @@
     {
       "id": "EKBIAPP",
       "group": "EKBI",
-      "owner": ["BI", "N", "UN", "V", "WE", "DK"],
+      "owner": ["BI", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 45,
@@ -2271,6 +2274,7 @@
           "points": [
             ["552630", "0083955"],
             ["552722", "0085712"],
+            ["552741", "0090824"],
             ["552957", "0095455"],
             ["555257", "0095455"],
             ["555957", "0093801"],
@@ -2285,7 +2289,7 @@
     {
       "id": "EKBIAPP",
       "group": "EKBI",
-      "owner": ["BI", "N", "UN", "V", "WE", "DK"],
+      "owner": ["BI", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 25,
@@ -2308,7 +2312,7 @@
     {
       "id": "EKBIAPP",
       "group": "EKBI",
-      "owner": ["BI", "N", "UN", "V", "WE", "DK"],
+      "owner": ["BI", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 15,
@@ -2326,7 +2330,7 @@
     {
       "id": "EKAHLTA",
       "group": "EKAH",
-      "owner": ["AH", "L", "V", "N", "WE", "DK"],
+      "owner": ["AH", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -2348,7 +2352,7 @@
     {
       "id": "EKAHAPP",
       "group": "EKAH",
-      "owner": ["AH", "L", "V", "N", "WE", "DK"],
+      "owner": ["AH", "L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 15,
@@ -2374,10 +2378,38 @@
     {
       "id": "EKDK_V",
       "group": "EKDK",
-      "owner": ["V", "L", "N", "WE", "DK"],
+      "owner": ["V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 285,
+          "max": 364,
+          "points": [
+            ["554628", "0092455"],
+            ["554024", "0103448"],
+            ["555221", "0110000"],
+            ["562043", "0120139"],
+            ["563124", "0115721"],
+            ["565908", "0114558"],
+            ["571249", "0113458"],
+            ["573311", "0111818"],
+            ["574505", "0110826"],
+            ["583000", "0103000"],
+            ["580200", "0093130"],
+            ["570000", "0073000"],
+            ["560518", "0080440"],
+            ["555800", "0083700"],
+            ["554628", "0092455"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EKDK_UV",
+      "group": "EKDK",
+      "owner": ["UV", "V", "N", "DK"],
+      "sectors": [
+        {
+          "min": 365,
           "max": 659,
           "points": [
             ["554628", "0092455"],
@@ -2402,7 +2434,7 @@
     {
       "id": "EKDK_UN",
       "group": "EKDK",
-      "owner": ["UN", "N", "V", "WE", "DK"],
+      "owner": ["N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 365,
@@ -2429,7 +2461,7 @@
     {
       "id": "EKDK_UN",
       "group": "EKDK",
-      "owner": ["UN", "N", "V", "WE", "DK"],
+      "owner": ["N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 365,
@@ -2462,7 +2494,7 @@
     {
       "id": "EKDK_N",
       "group": "EKDK",
-      "owner": ["N", "UN", "V", "WE", "DK"],
+      "owner": ["N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 75,
@@ -2472,6 +2504,10 @@
             ["550129", "0083052"],
             ["545500", "0084000"],
             ["552741", "0090824"],
+            ["552722", "0085712"],
+            ["552630", "0083955"],
+            ["552549", "0082655"],
+            ["552454", "0080955"],
             ["552420", "0080007"],
             ["550000", "0074257"],
             ["550000", "0075500"],
@@ -2486,7 +2522,7 @@
     {
       "id": "EKDK_N",
       "group": "EKDK",
-      "owner": ["N", "UN", "V", "WE", "DK"],
+      "owner": ["N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 65,
@@ -2496,6 +2532,7 @@
             ["550129", "0083052"],
             ["545500", "0084000"],
             ["552741", "0090824"],
+            ["552722", "0085712"],
             ["552630", "0083955"],
             ["553544", "0081933"],
             ["554927", "0081746"],
@@ -2517,7 +2554,7 @@
     {
       "id": "EKDK_N",
       "group": "EKDK",
-      "owner": ["N", "UN", "V", "WE", "DK"],
+      "owner": ["N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 45,
@@ -2546,7 +2583,7 @@
     {
       "id": "EKDK_N",
       "group": "EKDK",
-      "owner": ["N", "UN", "V", "WE", "DK"],
+      "owner": ["N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -2558,6 +2595,8 @@
             ["545500", "0084000"],
             ["550417", "0082655"],
             ["552549", "0082655"],
+            ["552630", "0083955"],
+            ["552722", "0085712"],
             ["552746", "0090829"],
             ["553337", "0091337"],
             ["553306", "0085624"],
@@ -2582,7 +2621,7 @@
     {
       "id": "EKDK_N",
       "group": "EKDK",
-      "owner": ["N", "UN", "V", "WE", "DK"],
+      "owner": ["N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -2608,7 +2647,7 @@
     {
       "id": "EKDK_N",
       "group": "EKDK",
-      "owner": ["N", "UN", "V", "WE", "DK"],
+      "owner": ["N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 195,
@@ -2635,7 +2674,7 @@
     {
       "id": "EKDK_N",
       "group": "EKDK",
-      "owner": ["N", "UN", "V", "WE", "DK"],
+      "owner": ["N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 125,
@@ -2668,7 +2707,7 @@
     {
       "id": "EKDK_N",
       "group": "EKDK",
-      "owner": ["N", "UN", "V", "WE", "DK"],
+      "owner": ["N", "V", "DK", "UV"],
       "sectors": [
         {
           "min": 85,
@@ -2691,6 +2730,10 @@
             ["550129", "0083052"],
             ["545500", "0084000"],
             ["552741", "0090824"],
+            ["552722", "0085712"],
+            ["552630", "0083955"],
+            ["552549", "0082655"],
+            ["552454", "0080955"],
             ["552420", "0080007"],
             ["553657", "0080855"],
             ["560517", "0080440"],
@@ -2703,7 +2746,7 @@
     {
       "id": "EKDK_L",
       "group": "EKDK",
-      "owner": ["L", "V", "N", "WE", "DK"],
+      "owner": ["L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 125,
@@ -2731,7 +2774,7 @@
     {
       "id": "EKDK_L",
       "group": "EKDK",
-      "owner": ["L", "V", "N", "WE", "DK"],
+      "owner": ["L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 75,
@@ -2759,6 +2802,7 @@
             ["573858", "0102855"],
             ["572238", "0104525"],
             ["570158", "0104855"],
+            ["565138", "0102855"],
             ["563343", "0095455"],
             ["562132", "0095455"]
           ]
@@ -2768,7 +2812,7 @@
     {
       "id": "EKDK_L",
       "group": "EKDK",
-      "owner": ["L", "V", "N", "WE", "DK"],
+      "owner": ["L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 65,
@@ -2798,6 +2842,7 @@
             ["573858", "0102855"],
             ["572238", "0104525"],
             ["570158", "0104855"],
+            ["565138", "0102855"],
             ["563343", "0095455"],
             ["562132", "0095455"]
           ]
@@ -2807,7 +2852,7 @@
     {
       "id": "EKDK_L",
       "group": "EKDK",
-      "owner": ["L", "V", "N", "WE", "DK"],
+      "owner": ["L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 45,
@@ -2845,7 +2890,7 @@
     {
       "id": "EKDK_L",
       "group": "EKDK",
-      "owner": ["L", "V", "N", "WE", "DK"],
+      "owner": ["L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -2886,7 +2931,7 @@
     {
       "id": "EKDK_L",
       "group": "EKDK",
-      "owner": ["L", "V", "N", "WE", "DK"],
+      "owner": ["L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -2904,7 +2949,7 @@
     {
       "id": "EKDK_L",
       "group": "EKDK",
-      "owner": ["L", "V", "N", "WE", "DK"],
+      "owner": ["L", "V", "N", "DK", "UV"],
       "sectors": [
         {
           "min": 245,
@@ -2921,6 +2966,7 @@
             ["554614", "0122030"],
             ["554218", "0112244"],
             ["553928", "0104456"],
+            ["554024", "0103448"],
             ["554628", "0092455"]
           ]
         }
@@ -2929,7 +2975,7 @@
     {
       "id": "EKDK_I",
       "group": "EKDK",
-      "owner": ["I", "D", "B", "E", "OE", "WE", "DK"],
+      "owner": ["I", "A", "D", "B", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 195,
@@ -2954,7 +3000,7 @@
     {
       "id": "EKDK_I",
       "group": "EKDK",
-      "owner": ["I", "D", "B", "E", "OE", "WE", "DK"],
+      "owner": ["I", "A", "D", "B", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -2986,7 +3032,7 @@
     {
       "id": "EKDK_I",
       "group": "EKDK",
-      "owner": ["I", "D", "B", "E", "OE", "WE", "DK"],
+      "owner": ["I", "A", "D", "B", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 245,
@@ -3011,7 +3057,7 @@
     {
       "id": "EKDK_I",
       "group": "EKDK",
-      "owner": ["I", "D", "B", "E", "OE", "WE", "DK"],
+      "owner": ["I", "A", "D", "B", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 245,
@@ -3043,7 +3089,7 @@
     {
       "id": "EKDK_I",
       "group": "EKDK",
-      "owner": ["I", "D", "B", "E", "OE", "WE", "DK"],
+      "owner": ["I", "A", "D", "B", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -3066,7 +3112,7 @@
     {
       "id": "EKDK_E",
       "group": "EKDK",
-      "owner": ["E", "D", "I", "B", "OE", "WE", "DK"],
+      "owner": ["E", "C", "D", "I", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 195,
@@ -3089,7 +3135,7 @@
     {
       "id": "EKDK_E",
       "group": "EKDK",
-      "owner": ["E", "D", "I", "B", "OE", "WE", "DK"],
+      "owner": ["E", "C", "D", "I", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 75,
@@ -3120,7 +3166,7 @@
     {
       "id": "EKDK_E",
       "group": "EKDK",
-      "owner": ["E", "D", "I", "B", "OE", "WE", "DK"],
+      "owner": ["E", "C", "D", "I", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 65,
@@ -3153,7 +3199,7 @@
     {
       "id": "EKDK_E",
       "group": "EKDK",
-      "owner": ["E", "D", "I", "B", "OE", "WE", "DK"],
+      "owner": ["E", "C", "D", "I", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 45,
@@ -3188,7 +3234,7 @@
     {
       "id": "EKDK_E",
       "group": "EKDK",
-      "owner": ["E", "D", "I", "B", "OE", "WE", "DK"],
+      "owner": ["E", "C", "D", "I", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -3224,7 +3270,7 @@
     {
       "id": "EKDK_E",
       "group": "EKDK",
-      "owner": ["E", "D", "I", "B", "OE", "WE", "DK"],
+      "owner": ["E", "C", "D", "I", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 125,
@@ -3252,7 +3298,7 @@
     {
       "id": "EKDK_E",
       "group": "EKDK",
-      "owner": ["E", "D", "I", "B", "OE", "WE", "DK"],
+      "owner": ["E", "C", "D", "I", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -3274,7 +3320,7 @@
     {
       "id": "EKDK_D",
       "group": "EKDK",
-      "owner": ["D", "I", "E", "B", "OE", "WE", "DK"],
+      "owner": ["D", "C", "I", "E", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 195,
@@ -3295,7 +3341,7 @@
     {
       "id": "EKDK_D",
       "group": "EKDK",
-      "owner": ["D", "I", "E", "B", "OE", "WE", "DK"],
+      "owner": ["D", "C", "I", "E", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 125,
@@ -3330,7 +3376,7 @@
     {
       "id": "EKDK_D",
       "group": "EKDK",
-      "owner": ["D", "I", "E", "B", "OE", "WE", "DK"],
+      "owner": ["D", "C", "I", "E", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 65,
@@ -3367,7 +3413,7 @@
     {
       "id": "EKDK_D",
       "group": "EKDK",
-      "owner": ["D", "I", "E", "B", "OE", "WE", "DK"],
+      "owner": ["D", "C", "I", "E", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 45,
@@ -3401,7 +3447,7 @@
     {
       "id": "EKDK_D",
       "group": "EKDK",
-      "owner": ["D", "I", "E", "B", "OE", "WE", "DK"],
+      "owner": ["D", "C", "I", "E", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -3440,7 +3486,7 @@
     {
       "id": "EKDK_D",
       "group": "EKDK",
-      "owner": ["D", "I", "E", "B", "OE", "WE", "DK"],
+      "owner": ["D", "C", "I", "E", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 245,
@@ -3461,7 +3507,7 @@
     {
       "id": "EKDK_D",
       "group": "EKDK",
-      "owner": ["D", "I", "E", "B", "OE", "WE", "DK"],
+      "owner": ["D", "C", "I", "E", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 245,
@@ -3487,6 +3533,7 @@
             ["553622", "0112324"],
             ["554218", "0112244"],
             ["553928", "0104456"],
+            ["554024", "0103448"],
             ["554628", "0092455"],
             ["545500", "0084000"]
           ]
@@ -3496,7 +3543,7 @@
     {
       "id": "EKDK_D",
       "group": "EKDK",
-      "owner": ["D", "I", "E", "B", "OE", "WE", "DK"],
+      "owner": ["D", "C", "I", "E", "B", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 245,
@@ -3530,10 +3577,41 @@
     {
       "id": "EKDK_C",
       "group": "EKDK",
-      "owner": ["C", "A", "OE", "WE", "DK"],
+      "owner": ["C", "A", "UC", "UA", "DK", "UV"],
       "sectors": [
         {
           "min": 285,
+          "max": 364,
+          "points": [
+            ["543809", "0085130"],
+            ["543800", "0084500"],
+            ["544200", "0084000"],
+            ["544700", "0084000"],
+            ["545500", "0084000"],
+            ["554628", "0092455"],
+            ["554024", "0103448"],
+            ["555221", "0110000"],
+            ["562043", "0120139"],
+            ["560433", "0120806"],
+            ["555101", "0122524"],
+            ["554614", "0122030"],
+            ["552902", "0120300"],
+            ["552220", "0115630"],
+            ["551347", "0114745"],
+            ["543930", "0103000"],
+            ["543916", "0100258"],
+            ["543809", "0085130"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EKDK_UC",
+      "group": "EKDK",
+      "owner": ["UC", "C", "A", "UA", "DK", "UN", "UV"],
+      "sectors": [
+        {
+          "min": 365,
           "max": 659,
           "points": [
             ["543809", "0085130"],
@@ -3561,7 +3639,7 @@
     {
       "id": "EKDK_B",
       "group": "EKDK",
-      "owner": ["B", "I", "D", "E", "OE", "WE", "DK"],
+      "owner": ["B", "A", "I", "D", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -3583,7 +3661,7 @@
     {
       "id": "EKDK_B",
       "group": "EKDK",
-      "owner": ["B", "I", "D", "E", "OE", "WE", "DK"],
+      "owner": ["B", "A", "I", "D", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 195,
@@ -3607,7 +3685,7 @@
     {
       "id": "EKDK_B",
       "group": "EKDK",
-      "owner": ["B", "I", "D", "E", "OE", "WE", "DK"],
+      "owner": ["B", "A", "I", "D", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 35,
@@ -3639,7 +3717,7 @@
     {
       "id": "EKDK_B",
       "group": "EKDK",
-      "owner": ["B", "I", "D", "E", "OE", "WE", "DK"],
+      "owner": ["B", "A", "I", "D", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 245,
@@ -3671,7 +3749,7 @@
     {
       "id": "EKDK_B",
       "group": "EKDK",
-      "owner": ["B", "I", "D", "E", "OE", "WE", "DK"],
+      "owner": ["B", "A", "I", "D", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 245,
@@ -3695,7 +3773,7 @@
     {
       "id": "EKDK_B",
       "group": "EKDK",
-      "owner": ["B", "I", "D", "E", "OE", "WE", "DK"],
+      "owner": ["B", "A", "I", "D", "E", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 105,
@@ -3718,10 +3796,47 @@
     {
       "id": "EKDK_A",
       "group": "EKDK",
-      "owner": ["A", "C", "OE", "WE", "DK"],
+      "owner": ["A", "C", "UA", "UC", "DK", "UV"],
       "sectors": [
         {
           "min": 285,
+          "max": 364,
+          "points": [
+            ["543542", "0105300"],
+            ["543400", "0105900"],
+            ["542625", "0111725"],
+            ["541745", "0113811"],
+            ["541500", "0115334"],
+            ["542700", "0120000"],
+            ["542911", "0120354"],
+            ["543631", "0121708"],
+            ["544404", "0123053"],
+            ["544648", "0123552"],
+            ["545244", "0124649"],
+            ["545500", "0125100"],
+            ["553101", "0125032"],
+            ["553248", "0124817"],
+            ["553751", "0124158"],
+            ["555101", "0122524"],
+            ["554614", "0122030"],
+            ["552902", "0120300"],
+            ["552220", "0115630"],
+            ["551347", "0114745"],
+            ["543930", "0103000"],
+            ["543925", "0103500"],
+            ["543920", "0104000"],
+            ["543542", "0105300"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EKDK_UA",
+      "group": "EKDK",
+      "owner": ["UA", "A", "C", "UC", "DK", "UV"],
+      "sectors": [
+        {
+          "min": 365,
           "max": 659,
           "points": [
             ["543542", "0105300"],
@@ -3887,6 +4002,13 @@
       "pre": ["EKCH"],
       "colours": [{ "hex": "#ffff00" }]
     },
+    "DK": {
+      "callsign": "Copenhagen Control",
+      "frequency": "136.555",
+      "type": "CTR",
+      "pre": ["EKDK"],
+      "colours": [{ "hex": "#120a8f" }]
+    },
     "A": {
       "callsign": "Copenhagen Control",
       "frequency": "135.290",
@@ -3900,13 +4022,6 @@
       "type": "CTR",
       "pre": ["EKDK"],
       "colours": [{ "hex": "#cd853f" }]
-    },
-    "DK": {
-      "callsign": "Copenhagen Control",
-      "frequency": "136.485",
-      "type": "CTR",
-      "pre": ["EKDK"],
-      "colours": [{ "hex": "#120a8f" }]
     },
     "C": {
       "callsign": "Copenhagen Control",
@@ -3950,19 +4065,26 @@
       "pre": ["EKDK"],
       "colours": [{ "hex": "#4b0082" }]
     },
-    "OE": {
+    "UA": {
+      "callsign": "Copenhagen Control",
+      "frequency": "136.485",
+      "type": "CTR",
+      "pre": ["EKDK"],
+      "colours": [{ "hex": "#adff2f" }]
+    },
+    "UC": {
       "callsign": "Copenhagen Control",
       "frequency": "127.865",
       "type": "CTR",
       "pre": ["EKDK"],
       "colours": [{ "hex": "#fa8072" }]
     },
-    "UN": {
+    "UV": {
       "callsign": "Copenhagen Control",
-      "frequency": "136.555",
+      "frequency": "126.055",
       "type": "CTR",
       "pre": ["EKDK"],
-      "colours": [{ "hex": "#adff2f" }]
+      "colours": [{ "hex": "#c0c0c0" }]
     },
     "V": {
       "callsign": "Copenhagen Control",
@@ -3970,13 +4092,6 @@
       "type": "CTR",
       "pre": ["EKDK"],
       "colours": [{ "hex": "#ff00ff" }]
-    },
-    "WE": {
-      "callsign": "Copenhagen Control",
-      "frequency": "126.055",
-      "type": "CTR",
-      "pre": ["EKDK"],
-      "colours": [{ "hex": "#c0c0c0" }]
     },
     "ET": {
       "callsign": "Esbjerg Information",
@@ -4060,7 +4175,7 @@
       "frequency": "123.980",
       "type": "APP",
       "pre": ["EKYT"],
-      "colours": [{ "hex": "#000073" }]
+      "colours": [{ "hex": "#330a00" }]
     },
     "YF": {
       "callsign": "Aalborg Arrival",
@@ -4108,7 +4223,7 @@
     "EKAH": {
       "callsign": "Aarhus",
       "coord": [56.300017, 10.619008],
-      "topdown": ["AH", "L", "V", "N", "UN", "WE","DK"]
+      "topdown": ["AH", "L", "V", "N", "DK", "UV"]
     },
     "EKAL": { "callsign": "Aalborg Hems", "coord": [57.047017, 9.859056] },
     "EKAN": { "callsign": "Syd Arne Nord", "coord": [56.095833, 4.219167] },
@@ -4120,7 +4235,7 @@
     "EKBI": {
       "callsign": "Billund",
       "coord": [55.740322, 9.151778],
-      "topdown": ["BI", "N", "UN", "L", "V", "WE", "DK"]
+      "topdown": ["BI", "L", "V", "N", "DK", "UV"]
     },
     "EKBR": { "callsign": "Braedstrup", "coord": [55.943611, 9.653333] },
     "EKCB": { "callsign": "Aarslev", "coord": [56.134444, 10.081111] },
@@ -4130,7 +4245,7 @@
       "callsign": "Kastrup",
       "coord": [55.617917, 12.655972],
       "runways": ["22", "04", "30", "12"],
-      "topdown": ["P", "W", "O", "K", "R", "I", "D", "B", "E", "OE", "DK"]
+      "topdown": ["P", "W", "O", "I", "B", "D", "E", "UC", "DK"]
     },
     "EKCR": { "callsign": "Christianshede", "coord": [56.105, 9.392778] },
     "EKDB": { "callsign": "Dan B", "coord": [55.469039, 5.133064] },
@@ -4139,7 +4254,7 @@
     "EKEB": {
       "callsign": "Esbjerg",
       "coord": [55.525833, 8.551111],
-      "topdown": ["BI", "N", "UN", "L", "V", "WE", "DK"]
+      "topdown": ["BI", "L", "V", "N", "DK", "UV"]
     },
     "EKEL": { "callsign": "Endelave", "coord": [55.756389, 10.248611] },
     "EKFR": { "callsign": "Freerslev", "coord": [55.898611, 12.245] },
@@ -4168,7 +4283,7 @@
     "EKKA": {
       "callsign": "Karup",
       "coord": [56.298611, 9.111111],
-      "topdown": ["KA", "L", "V", "N", "UN", "DK"]
+      "topdown": ["KA", "L", "V", "N", "DK", "UV"]
     },
     "EKKH": { "callsign": "Kolding Hems", "coord": [55.504722, 9.483611] },
     "EKKL": { "callsign": "Kalundborg", "coord": [55.700033, 11.250061] },
@@ -4187,7 +4302,7 @@
     "EKOD": {
       "callsign": "Odense",
       "coord": [55.476664, 10.330933],
-      "topdown": ["D", "I", "E", "B", "OE", "WE", "DK"]
+      "topdown": ["D", "I", "E", "B", "UC", "UA", "DK", "UV"]
     },
     "EKOH": { "callsign": "Odense Hems", "coord": [55.384508, 10.363936] },
     "EKPB": { "callsign": "Krusaa-Padborg", "coord": [54.870306, 9.279014] },
@@ -4200,12 +4315,12 @@
     "EKRK": {
       "callsign": "Roskilde",
       "coord": [55.585567, 12.131428],
-      "topdown": ["RD", "R", "K", "W", "O", "I", "D", "B", "E", "OE", "DK"]
+      "topdown": ["RD", "R", "K", "W", "O", "I", "B", "D", "E", "UC", "DK"]
     },
     "EKRN": {
       "callsign": "Roenne",
       "coord": [55.063267, 14.759558],
-      "topdown": ["A", "C", "OE", "DK"]
+      "topdown": ["A", "C", "UA", "UC", "DK"]
     },
     "EKRO": { "callsign": "Rolfsted", "coord": [55.325833, 10.581944] },
     "EKRS": { "callsign": "Ringsted", "coord": [55.425853, 11.806822] },
@@ -4214,7 +4329,7 @@
     "EKSB": {
       "callsign": "Soenderborg",
       "coord": [54.964367, 9.791731],
-      "topdown": ["SA", "N", "UN", "L", "V", "WE", "DK"]
+      "topdown": ["SA", "N", "V", "DK", "UV"]
     },
     "EKSC": { "callsign": "Skjold", "coord": [55.531594, 4.906689] },
     "EKSD": { "callsign": "Spjald", "coord": [56.102778, 8.514167] },
@@ -4228,7 +4343,7 @@
     "EKSP": {
       "callsign": "Skrydstrup",
       "coord": [55.225553, 9.263931],
-      "topdown": ["SA", "N", "UN", "L", "V", "WE", "DK"]
+      "topdown": ["SA", "N", "V", "DK", "UV"]
     },
     "EKSS": { "callsign": "Samsoe", "coord": [55.889864, 10.613753] },
     "EKST": { "callsign": "Sydfyns Flyveplads", "coord": [55.01667, 10.56639] },
@@ -4247,14 +4362,14 @@
     "EKVJ": {
       "callsign": "Stauning",
       "coord": [55.990278, 8.353611],
-      "topdown": ["BI", "N", "UN", "L", "V", "WE", "DK"]
+      "topdown": ["BI", "L", "V", "N", "DK", "UV"]
     },
     "EKVL": { "callsign": "Vaerloese", "coord": [55.769444, 12.323889] },
     "EKVO": { "callsign": "Vejroe", "coord": [55.025833, 11.348611] },
     "EKYT": {
       "callsign": "Aalborg",
       "coord": [57.092789, 9.849164],
-      "topdown": ["YT", "L", "V", "N", "UN", "WE", "DK"]
+      "topdown": ["YT", "L", "V", "N", "DK", "UV"]
     }
   }
 }
