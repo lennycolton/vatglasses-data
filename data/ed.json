@@ -9271,7 +9271,7 @@
       "id": "Eider",
       "group": "EDWW",
       "uid": "EID",
-      "owner": ["EID", "ALR", "WWW", "WWC"],
+      "owner": ["EID", "ALR", "HEI", "WWW", "WWC"],
       "sectors": [
         {
           "max": 244,
@@ -9747,7 +9747,7 @@
       "id": "Friesland",
       "group": "APP",
       "uid": "FRI",
-      "owner": ["FRI", "EID", "ALR", "WWW", "WWC"],
+      "owner": ["FRI", "EID", "ALR", "HEI", "WWW", "WWC"],
       "sectors": [
         {
           "max": 104,
@@ -10785,7 +10785,6 @@
         "MH",
 	"YY-BB",
         "EMS",
-        "HRZ",
         "WWW",
         "WWC"
       ],
@@ -10848,7 +10847,6 @@
         "ML",
 	"YY-BB",
         "EMS",
-        "HRZ",
         "WWW",
         "WWC"
       ],
@@ -11145,7 +11143,6 @@
         "ML",
         "MH",
 	"YY-BB",
-        "HRZ",
         "EMS",
         "WWW",
         "WWC"
@@ -11214,7 +11211,6 @@
         "CL",
         "ML",
 	"YY-BB",
-        "HRZ",
         "EMS",
         "WWW",
         "WWC"
@@ -12379,7 +12375,7 @@
     "EDDW": {
       "callsign": "Bremen",
       "coord": [53.047333333333, 8.7866666666667],
-      "topdown": ["FRI", "EID", "ALR", "WWW", "WWC"]
+      "topdown": ["FRI", "EID", "ALR", "HEI", "WWW", "WWC"]
     },
     "EDHL": {
       "callsign": "Lübeck",
@@ -12399,7 +12395,7 @@
     "EDXW": {
       "callsign": "Sylt",
       "coord": [54.911666666667, 8.3423333333333],
-      "topdown": ["EID", "ALR", "WWW", "WWC"]
+      "topdown": ["EID", "ALR", "HEI", "WWW", "WWC"]
     },
     "EDAB": { "callsign": "Bautzen", "coord": ["51.193333", "14.52"] },
     "EDAC": { "callsign": "Altenburg", "coord": ["50.981944", "12.506389"] },
@@ -12544,7 +12540,7 @@
     "EDHI": { "callsign": "Hamburg-Finkenwerder", "coord": ["53.535278", "9.835556"],
       "topdown": ["HAM", "HEI", "ALR", "WWW", "WWC"] },
     "EDHK": { "callsign": "Kiel-Holtenau", "coord": ["54.379444", "10.145278"],
-	"topdown": ["EID", "ALR", "WWW", "WWC"] },
+	"topdown": ["EID", "ALR", "HEI", "WWW", "WWC"] },
     "EDHM": { "callsign": "Hartenholm", "coord": ["53.916667", "10.033333"] },
     "EDHN": { "callsign": "Neumunster", "coord": ["54.083333", "9.933333"] },
     "EDHO": { "callsign": "Ahrenlohe", "coord": ["53.699825", "9.740489"] },
@@ -12790,12 +12786,12 @@
     "EDVY": { "callsign": "Porta Westfalica", "coord": ["52.216667", "8.866667"] },
     "EDWC": { "callsign": "Damme", "coord": ["52.483333", "8.183333"] },
     "EDWE": { "callsign": "Emden", "coord": ["53.391111", "7.2275"],
-	"topdown": ["TNTA", "FRI", "EID", "ALR", "WWW", "WWC"] },
+	"topdown": ["TNTA", "FRI", "EID", "ALR", "HEI", "WWW", "WWC"] },
     "EDWF": { "callsign": "Leer-Papenburg", "coord": ["53.266667", "7.45"] },
     "EDWG": { "callsign": "Wangerooge", "coord": ["53.788333", "7.920556"] },
     "EDWH": { "callsign": "Oldenburg-Hatten", "coord": ["53.066667", "8.316667"] },
     "EDWI": { "callsign": "Jade Weser Airport", "coord": ["53.508019", "8.051903"],
-	"topdown": ["TNTA", "FRI", "EID", "ALR", "WWW", "WWC"] },
+	"topdown": ["TNTA", "FRI", "EID", "HEI", "ALR", "WWW", "WWC"] },
     "EDWJ": { "callsign": "Juist", "coord": ["53.683333", "7.05"] },
     "EDWK": { "callsign": "Karlshoefen", "coord": ["53.332645", "9.027822"] },
     "EDWL": { "callsign": "Langeoog", "coord": ["53.742107", "7.493922"] },
@@ -12859,19 +12855,19 @@
     "ETIK": { "callsign": "Illesheim", "coord": ["49.473833", "10.387833"],
       "topdown": ["DKB", "KTG", "BAD"] },
     "ETMN": { "callsign": "Nordholz", "coord": ["53.768333", "8.658333"],
-	"topdown": ["TMNA", "EID", "ALR", "WWW", "WWC"] },
+	"topdown": ["TMNA", "EID", "ALR", "HEI", "WWW", "WWC"] },
     "ETND": { "callsign": "Diepholz", "coord": ["52.583333", "8.35"] },
     "ETNG": { "callsign": "Geilenkirchen", "coord": ["50.960836", "6.041944"],
       "topdown": ["TNGA", "BOT", "DLD", "DLA", "DLAT", "PADH"] },
     "ETNH": { "callsign": "Hohn", "coord": ["54.313333", "9.54"],
-	"topdown": ["EID", "ALR", "WWW", "WWC"] },
+	"topdown": ["EID", "ALR", "HEI", "WWW", "WWC"] },
     "ETNJ": { "callsign": "Jever", "coord": ["53.533333", "7.883333"] },
     "ETNN": { "callsign": "Nörvenich", "coord": ["50.831167", "6.658167"],
       "topdown": ["TNNA", "DKA", "NOR", "PADH"] },
     "ETNS": { "callsign": "Schleswig", "coord": ["54.459333", "9.516333"],
-	"topdown": ["EID", "ALR", "WWW", "WWC"] },
+	"topdown": ["EID", "ALR", "HEI", "WWW", "WWC"] },
     "ETNT": { "callsign": "Wittmundhafen", "coord": ["53.547833", "7.667333"],
-	"topdown": ["TNTA", "FRI", "EID", "ALR", "WWW", "WWC"] },
+	"topdown": ["TNTA", "FRI", "EID", "ALR", "HEI", "WWW", "WWC"] },
     "ETNW": { "callsign": "Wunstorf", "coord": ["52.454333", "9.423"] },
     "ETOI": { "callsign": "Vilseck Aaf", "coord": ["49.634033", "11.767861"] },
     "ETOU": { "callsign": "Wiesbaden", "coord": ["50.049833", "8.3255"],
