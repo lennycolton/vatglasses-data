@@ -579,7 +579,7 @@
       ]
     },
     {
-      "id": "BANDAR ABBAS TMA",
+      "id": "Bandar Abbas TMA",
       "group": "APP",
       "owner": ["KBA"],
       "sectors": [
@@ -613,7 +613,7 @@
       ]
     },
     {
-      "id": "ESFAHAN TMA",
+      "id": "Esfahan TMA",
       "group": "APP",
       "owner": ["FMT"],
       "sectors": [
@@ -658,7 +658,7 @@
       ]
     },
     {
-      "id": "MASHHAD TMA",
+      "id": "Mashhad TMA",
       "group": "APP",
       "owner": ["MMA"],
       "sectors": [
@@ -700,7 +700,7 @@
       ]
     },
     {
-      "id": "SHIRAZ TMA",
+      "id": "Shiraz TMA",
       "group": "APP",
       "owner": ["SSA"],
       "sectors": [
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "id": "TEHRAN TMA",
+      "id": "Tehran TMA",
       "group": "APP",
       "owner": ["IIA"],
       "sectors": [
@@ -781,6 +781,41 @@
           ]
         }
       ]
+    },
+    {
+      "id": "Tabriz CTR",
+      "group": "APP",
+      "owner": ["TTA"],
+      "sectors": [
+        {
+          "max": 245,
+          "points": [
+            ["372913", "0463834"],
+            ["375147", "0452430"],
+            ["375911", "0452115"],
+            ["380656", "0451950"],
+            ["381445", "0452018"],
+            ["382220", "0452238"],
+            ["382925", "0452646"],
+            ["383545", "0453231"],
+            ["384106", "0453943"],
+            ["384537", "0454853"],
+            ["383820", "0465340"],
+            ["383644", "0465538"],
+            ["383049", "0470119"],
+            ["382413", "0470538"],
+            ["381707", "0470825"],
+            ["381029", "0470933"],
+            ["380303", "0470915"],
+            ["375628", "0470735"],
+            ["374929", "0470415"],
+            ["374339", "0465958"],
+            ["373858", "0465514"],
+            ["373520", "0465028"],
+            ["373146", "0464422"]
+          ]
+        }
+      ]
     }
   ],
   "groups": {
@@ -803,221 +838,228 @@
   },
   "positions": {
     "TC": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar",
       "frequency": "135.200"
     },
     "TCW": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar West",
       "frequency": "135.100"
     },
     "TCE": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar East",
       "frequency": "135.150"
     },
     "TCN": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar North",
       "frequency": "135.000"
     },
     "TCS": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar South",
       "frequency": "135.050"
     },
     "TC1": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 1",
       "frequency": "119.300"
     },
     "TC2": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 2",
       "frequency": "125.700"
     },
     "TC3": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 3",
       "frequency": "126.900"
     },
     "TC4": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 4",
       "frequency": "133.400"
     },
     "TC5": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 5",
       "frequency": "120.300"
     },
     "TC6": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 6",
       "frequency": "123.900"
     },
     "TC7": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 7",
       "frequency": "120.700"
     },
     "T6W": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 6 West",
       "frequency": "132.900"
     },
     "T4S": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 4 South",
       "frequency": "134.475"
     },
     "T1W": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 1 West",
       "frequency": "119.250"
     },
     "T6E": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 6 East",
       "frequency": "123.850"
     },
     "T1N": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 1 North",
       "frequency": "120.950"
     },
     "T2W": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 2 West",
       "frequency": "125.650"
     },
     "TE2": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 2 East",
       "frequency": "127.800"
     },
     "T3N": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 3 North",
       "frequency": "126.850"
     },
     "T1E": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 1 East",
       "frequency": "132.500"
     },
     "T4E": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 4 East",
       "frequency": "133.350"
     },
     "T3S": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 3 South",
       "frequency": "128.750"
     },
     "T4W": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 4 West",
       "frequency": "132.300"
     },
     "T5W": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 5 West",
       "frequency": "120.250"
     },
     "T5E": {
-      "colours": [{"hex": "#1C39BB"}],
+      "colours": [{ "hex": "#1C39BB" }],
       "pre": ["TEH"],
       "type": "CTR",
       "callsign": "Tehran Radar 5 East",
       "frequency": "132.100"
     },
     "KBA": {
-      "colours": [{"hex": "#CC3333"}],
+      "colours": [{ "hex": "#CC3333" }],
       "pre": ["OIKB"],
       "type": "APP",
       "callsign": "Bandar Abbas Approach",
       "frequency": "124.200"
     },
     "FMA": {
-      "colours": [{"hex": "#CC3333"}],
+      "colours": [{ "hex": "#CC3333" }],
       "pre": ["OIFM"],
       "type": "APP",
       "callsign": "Esfahan Radar",
       "frequency": "124.600"
     },
     "MMA": {
-      "colours": [{"hex": "#CC3333"}],
+      "colours": [{ "hex": "#CC3333" }],
       "pre": ["OIMM"],
       "type": "APP",
       "callsign": "Mashhad Radar",
       "frequency": "127.300"
     },
     "SSA": {
-      "colours": [{"hex": "#CC3333"}],
+      "colours": [{ "hex": "#CC3333" }],
       "pre": ["OISS"],
       "type": "APP",
       "callsign": "Shiraz Radar",
       "frequency": "125.400"
     },
     "IIA": {
-      "colours": [{"hex": "#CC3333"}],
+      "colours": [{ "hex": "#CC3333" }],
       "pre": ["OIII"],
       "type": "APP",
       "callsign": "Mehrabad Radar",
       "frequency": "125.100"
+    },
+    "TTA": {
+      "colours": [{ "hex": "#CC3333" }],
+      "pre": ["OITT"],
+      "type": "APP",
+      "callsign": "Tabriz Radar",
+      "frequency": "122.500"
     }
   },
   "callsigns": {
