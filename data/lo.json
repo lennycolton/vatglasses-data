@@ -6089,10 +6089,10 @@
 		"LOWW_M_APP":		{"colours":[{"hex":"#6aa84f"}],	"pre":["LOWW"],		"type":"APP",	"frequency":"125.175",	"callsign":"Wien Radar"},
 		"LOWW_F_APP":		{				"pre":["LOWW"],		"type":"APP",	"frequency":"119.800",	"callsign":"Wien Arrival"},
 		"LOWW_D_APP":		{				"pre":["LOWW"],		"type":"APP",	"frequency":"134.125",	"callsign":"Wien Arrival"},
-		"LOXT_APP":		{"colours":[{"hex":"#00ff00"}],	"pre":["LOXT"],		"type":"APP",	"frequency":"136.125",	"callsign":"Tulln Approach"},
-		"LOXT_P_APP":		{				"pre":["LOXT"],		"type":"APP",	"frequency":"136.425",	"callsign":"Tulln PAR"},
-		"LOXZ_APP":		{"colours":[{"hex":"#aaaa00"}],	"pre":["LOXZ"],		"type":"APP",	"frequency":"129.475",	"callsign":"Zeltweg Radar"},
-		"LOXZ_P_APP":		{				"pre":["LOXZ"],		"type":"APP",	"frequency":"136.000",	"callsign":"Zeltweg PAR"},
+		"LOXT_APP":		{"colours":[{"hex":"#00ff00"}],	"pre":["LOXT"],		"type":"APP",	"frequency":"136.130",	"callsign":"Tulln Approach"},
+		"LOXT_P_APP":		{				"pre":["LOXT"],		"type":"APP",	"frequency":"136.205",	"callsign":"Tulln PAR"},
+		"LOXZ_APP":		{"colours":[{"hex":"#aaaa00"}],	"pre":["LOXZ"],		"type":"APP",	"frequency":"129.480",	"callsign":"Zeltweg Radar"},
+		"LOXZ_P_APP":		{				"pre":["LOXZ"],		"type":"APP",	"frequency":"136.005",	"callsign":"Zeltweg PAR"},
 		"LOWG_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOWG"],		"type":"TWR",	"frequency":"118.200",	"callsign":"Graz Tower"},
 		"LOWI_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOWI"],		"type":"TWR",	"frequency":"120.100",	"callsign":"Innsbruck Tower"},
 		"LOWK_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOWK"],		"type":"TWR",	"frequency":"118.125",	"callsign":"Klagenfurt Tower"},
@@ -6100,8 +6100,8 @@
 		"LOWS_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOWS"],		"type":"TWR",	"frequency":"118.100",	"callsign":"Salzburg Tower"},
 		"LOWW_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOWW"],		"type":"TWR",	"frequency":"119.400",	"callsign":"Wien Tower"},
 		"LOWW_E_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOWW"],		"type":"TWR",	"frequency":"123.800",	"callsign":"Wien Tower"},
-		"LOXT_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOXT"],		"type":"TWR",	"frequency":"118.900",	"callsign":"Tulln Tower"},
-		"LOXZ_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOXZ"],		"type":"TWR",	"frequency":"135.375",	"callsign":"Zeltweg Tower"}
+		"LOXT_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOXT"],		"type":"TWR",	"frequency":"118.905",	"callsign":"Tulln Tower"},
+		"LOXZ_TWR":		{"colours":[{"hex":"#ff0000"}],	"pre":["LOXZ"],		"type":"TWR",	"frequency":"135.380",	"callsign":"Zeltweg Tower"}
 	},
 	"callsigns":{
 		"DEL":{
