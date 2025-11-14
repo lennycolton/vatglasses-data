@@ -63,6 +63,7 @@
       "FCA": ["FCA", "12", "19", "20", "06", "03", "44"],
       "PIH": ["PIH", "08", "18", "06", "03", "44"],
       "JAC": ["JAC", "16", "03", "44"],
+      "SUN": ["SUN", "31", "30", "41", "40", "43", "44"],
       "IDA": ["IDA", "08", "18", "06", "03", "44"],
       "T1L": ["T1L", "TWF", "31", "41", "40", "44"]
     },
@@ -80,7 +81,7 @@
         },
         "KBZN": {
           "default": false,
-          "sector": "B1Z"
+          "sector": "B1L"
         },
         "KEKS": {
           "major": "KBZN"
@@ -93,7 +94,7 @@
         },
         "KGPI": {
           "default": false,
-          "sector": "12"
+          "sector": "FCA"
         },
         "KGTF": {
           "default": false,
@@ -108,11 +109,11 @@
         },
         "KIDA": {
           "default": false,
-          "sector": "08"
+          "sector": "IDA"
         },
         "KJAC": {
           "default": false,
-          "sector": "16"
+          "sector": "JAC"
         },
         "KLVM": {
           "major": "KBZN"
@@ -133,7 +134,7 @@
         },
         "KPIH": {
           "default": false,
-          "sector": "08"
+          "sector": "PIH"
         },
         "KPVU": {
           "sector": "S5A"
@@ -146,25 +147,24 @@
             "SLW",
             "SLA",
             "S5F",
-            "S5K",
-            "S56",
-            "S5S",
-            "S5H",
+            "S5J",
             "S5B",
-            "S5G",
-            "S5A",
-            "S5V",
-            "04",
-            "03",
+            "S5K",
+            "32",
+            "11",
             "44"
           ]
         },
         "KSUN": {
-          "sector": "31"
+          "default": false,
+          "sector": "SUN"
+        },
+        "KSVR": {
+          "sector": "S5V"
         },
         "KTWF": {
           "default": false,
-          "sector": "31"
+          "sector": "T1L"
         }
       }
 }
