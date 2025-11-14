@@ -627,6 +627,17 @@
             }
           ]
         },
+        "SUN": {
+          "callsign": "Hailey Tower",
+          "frequency": "125.600",
+          "pre": ["SUN"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#ff1e00"
+            }
+          ]
+        },
         "T1L": {
           "callsign": "Twin Falls Tower",
           "frequency": "118.200",
