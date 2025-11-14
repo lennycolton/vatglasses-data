@@ -4957,7 +4957,7 @@
         "SUN": {
           "id": "Hailey-Friedman-Sun Valley",
           "group": "TWR",
-          "owner": ["SUN", "31", "41", "40", "43", "44"],
+          "owner": ["SUN", "31", "30", "41", "40", "43", "44"],
           "sectors": [
             {
               "max": 74,
