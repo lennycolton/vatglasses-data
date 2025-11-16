@@ -16520,7 +16520,7 @@
 		"LKAA_CTR": {"colours": [{"hex": "#bf9000"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.125", "callsign": "Praha Radar"},
 		"LKAA_I_CTR": {"colours": [{"hex": "#ffbf00"}], "pre": ["LKAA"], "type": "CTR", "frequency": "126.100", "callsign": "Praha Information"},
 		"LKAA_N_CTR": {"colours": [{"hex": "#6495ed"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.825", "callsign": "Praha Radar"},
-		"LKAA_R_CTR": {"colours": [{"hex": "#008080"}], "pre": ["LKAA"], "type": "APP", "frequency": "124.050", "callsign": "Praha Radar"},
+		"LKAA_R_CTR": {"colours": [{"hex": "#008080"}], "pre": ["LKAA"], "type": "CTR", "frequency": "124.050", "callsign": "Praha Radar"},
 		"LKAA_S_CTR": {"colours": [{"hex": "#40E0D0"}], "pre": ["LKAA"], "type": "CTR", "frequency": "133.410", "callsign": "Praha Radar"},
 		"LKAA_U_CTR": {"colours": [{"hex": "#6fa8dc"}], "pre": ["LKAA"], "type": "CTR", "frequency": "124.775", "callsign": "Praha Radar"},
 		"LKAA_W_CTR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKAA"], "type": "CTR", "frequency": "120.275", "callsign": "Praha Radar"},
