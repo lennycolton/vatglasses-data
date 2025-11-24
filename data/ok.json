@@ -707,7 +707,7 @@
         },
         "KAF": {
             "callsign": "Kuwait Director",
-            "frequency": "123.850",
+            "frequency": "123.825",
             "type": "APP",
             "pre": [
                 "OKKK"

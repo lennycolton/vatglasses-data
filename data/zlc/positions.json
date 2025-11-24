@@ -348,7 +348,7 @@
           "type": "APP",
           "colours": [
             {
-              "hex": "#faba00"
+              "hex": "#950000"
             }
           ]
         },
@@ -624,6 +624,17 @@
           "colours": [
             {
               "hex": "#ff8000"
+            }
+          ]
+        },
+        "SUN": {
+          "callsign": "Hailey Tower",
+          "frequency": "125.600",
+          "pre": ["SUN"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#ff1e00"
             }
           ]
         },
