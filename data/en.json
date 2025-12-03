@@ -22008,7 +22008,7 @@
       "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENBN" ],
       "type": "APP",
-      "frequency": "127.900",
+      "frequency": "127.905",
       "callsign": "Polaris Control (Helgeland)"
     },
     "BN": {
@@ -22022,14 +22022,14 @@
       "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENBO" ],
       "type": "APP",
-      "frequency": "124.000",
+      "frequency": "119.705",
       "callsign": "Bodø Approach"
     },
     "BO": {
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENBO" ],
       "type": "TWR",
-      "frequency": "118.100",
+      "frequency": "118.105",
       "callsign": "Bodø Tower"
     },
     "D": {
@@ -22071,7 +22071,7 @@
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENBV" ],
       "type": "TWR",
-      "frequency": "120.100",
+      "frequency": "120.105",
       "callsign": "Berlevåg Information"
     },
     "CX": {
@@ -22190,7 +22190,7 @@
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENHK" ],
       "type": "TWR",
-      "frequency": "119.900",
+      "frequency": "119.905",
       "callsign": "Hasvik Information"
     },
     "HV": {
@@ -22239,21 +22239,21 @@
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENLK" ],
       "type": "TWR",
-      "frequency": "120.500",
+      "frequency": "120.505",
       "callsign": "Leknes Information"
     },
     "MH": {
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENMH" ],
       "type": "TWR",
-      "frequency": "121.200",
+      "frequency": "121.205",
       "callsign": "Mehamn Information"
     },
     "ML": {
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENML" ],
       "type": "TWR",
-      "frequency": "119.950",
+      "frequency": "119.955",
       "callsign": "Molde Information"
     },
     "MS": {
@@ -22274,7 +22274,7 @@
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENNM" ],
       "type": "TWR",
-      "frequency": "119.900",
+      "frequency": "119.905",
       "callsign": "Namsos Information"
     },
     "NO": {
@@ -22421,21 +22421,21 @@
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENRM" ],
       "type": "TWR",
-      "frequency": "119.800",
+      "frequency": "119.805",
       "callsign": "Rørvik Information"
     },
     "RO": {
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENRO" ],
       "type": "TWR",
-      "frequency": "120.400",
+      "frequency": "120.405",
       "callsign": "Røros Information"
     },
     "RS": {
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENRS" ],
       "type": "TWR",
-      "frequency": "119.250",
+      "frequency": "119.255",
       "callsign": "Røst Information"
     },
     "RY": {
@@ -22463,14 +22463,14 @@
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSG" ],
       "type": "TWR",
-      "frequency": "119.300",
+      "frequency": "119.305",
       "callsign": "Sogndal Information"
     },
     "SH": {
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSH" ],
       "type": "TWR",
-      "frequency": "120.200",
+      "frequency": "120.205",
       "callsign": "Helle Information"
     },
     "SK": {
@@ -22498,14 +22498,14 @@
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENSS" ],
       "type": "TWR",
-      "frequency": "122.150",
+      "frequency": "122.155",
       "callsign": "Vardø Information"
     },
     "ST": {
       "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENST" ],
       "type": "TWR",
-      "frequency": "120.300",
+      "frequency": "120.305",
       "callsign": "Stokka Information"
     },
     "14R": {
