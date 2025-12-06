@@ -29524,6 +29524,7 @@
     "LS": { "colours": [{ "hex": "#309df0" }], "pre": [ "LON","LON-S" ], "type": "CTR","frequency": "129.430","callsign": "London Control", "comment": "S20" },
     "LD": { "colours": [{ "online": ["LDK"], "hex": "#1851f0" }, { "hex": "#3063f0" }], "pre": [ "LON","LON-D" ], "type": "CTR","frequency": "134.905","callsign": "London Control", "comment": "S15" },
     "LI": { "pre": [ "EGTT","EGTT-I","LON","LON-I" ], "type": "CTR","frequency": "124.600","callsign": "London Information", "comment": "Lon Info" },
+    "WR": { "pre": [ "EGTT","EGTT-WR","LON","LON-WR" ], "type": "CTR","frequency": "132.300","callsign": "Western Radar", "comment": "Western Radar" },
     "TC": { "colours": [{ "online": ["TCSW","TCSE"], "hex": "#ab713c" }, { "online": ["TCS"], "hex": "#c928bf" }, { "hex": "#ab713c" }], "pre": [ "LTC" ], "type": "CTR","frequency": "135.805","callsign": "London Control", "comment": "CPT" },
     "TCN": { "colours": [{ "online": ["TCNE"], "hex": "#d68b47" }, { "hex": "#ab713c" }], "pre": [ "LTC","LTC-N" ], "type": "CTR","frequency": "119.780","callsign": "London Control", "comment": "NW Deps" },
     "TCNW": { "colours": [{ "hex": "#e8974d" }], "pre": [ "LTC","LTC-NW" ], "type": "CTR","frequency": "121.280","callsign": "London Control", "comment": "BNN" },
@@ -30337,6 +30338,7 @@
           -2.167108
       ],
       "topdown": [
+          "WR",
           "L23",
           "LWL",
           "LWB",
@@ -30393,6 +30395,7 @@
           -2.658889
       ],
       "topdown": [
+          "WR",
           "LWX",
           "LWH",
           "OTMET",
@@ -30456,6 +30459,20 @@
           "L"
       ]
     },
+    "EGHC": {
+        "callsign": "Land's End",
+        "coord": [
+            50.102778,
+            -5.670556
+        ],
+        "topdown": [
+            "WR",
+            "L9",
+            "LWH",
+            "LW",
+            "L"
+        ]
+    },
     "EGTE": {
         "callsign": "Exeter",
         "coord": [
@@ -30463,6 +30480,7 @@
             -3.413889
         ],
         "topdown": [
+            "WR",
             "LWX",
             "LWH",
             "OTMET",
@@ -30477,6 +30495,7 @@
             -6.29972
         ],
         "topdown": [
+            "WR",
             "L9",
             "LWH",
             "LW",
@@ -30490,6 +30509,7 @@
             -4.995333
         ],
         "topdown": [
+            "WR",
             "L9",
             "LWH",
             "LW",
@@ -31158,7 +31178,6 @@
     "EGFP": { "callsign": "Pembrey", "coord": [ 51.713889, -4.312222 ] },
     "EGHA": { "callsign": "Compton", "coord": [ 50.9675, -2.153611 ] },
     "EGHB": { "callsign": "Maypole", "coord": [ 51.333333, 1.15 ] },
-    "EGHC": { "callsign": "Land's End", "coord": [ 50.102778, -5.670556 ] },
     "EGHD": { "callsign": "Roborough", "coord": [ 50.422778, -4.105833 ] },
     "EGHF": { "callsign": "Lee", "coord": [ 50.815278, -1.207222 ] },
     "EGHJ": { "callsign": "Bembridge", "coord": [ 50.694444, -1.109167 ] },
