@@ -9334,6 +9334,7 @@
         }
       ],
       "owner": [
+        "PCN",
         "PCNE",
         "PCE",
         "PC",
@@ -29533,6 +29534,7 @@
     "TCE": { "colours": [{ "hex": "#a98827" }], "pre": [ "LTC","LTC-E" ], "type": "CTR","frequency": "121.230","callsign": "London Control", "comment": "REDFA" },
     "PC": { "colours": [{ "online": ["PCNE"], "hex": "#368dd9" }, { "online": ["PCSE"], "hex": "#368dd9" }, { "online": ["PCE"], "hex": "#368dd9" }, { "hex": "#36d6d9" }], "pre": [ "MAN" ], "type": "CTR","frequency": "133.200","callsign": "Scottish Control", "comment": "WCoast Sby" },
     "PCE": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "MAN","MAN-E" ], "type": "CTR","frequency": "133.800","callsign": "Scottish Control", "comment": "TNT" },
+    "PCN":  { "colours": [{ "hex": "#36d6d9" }], "pre": [ "MAN-N" ], "type": "CTR","frequency": "135.715","callsign": "Scottish Control", "comment": "MAN N" },
     "PCNE": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "MAN","MAN-NE" ], "type": "CTR","frequency": "135.715","callsign": "Scottish Control", "comment": "MAN N" },
     "PCSE": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "MAN","MAN-SE" ], "type": "CTR","frequency": "134.430","callsign": "Scottish Control", "comment": "STAFA" },
     "PCW": { "colours": [{ "hex": "#368dd9" }], "pre": [ "MAN","MAN-W" ], "type": "CTR","frequency": "128.055","callsign": "Scottish Control", "comment": "WAL" },
@@ -29777,6 +29779,7 @@
             "CCF",
             "CCS",
             "CCN",
+            "TNT",
             "PCSE",
             "PCE",
             "PC",
@@ -29795,6 +29798,7 @@
         "topdown": [
             "NMF",
             "NMR",
+            "PCN",
             "PCNE",
             "PCE",
             "PC",
