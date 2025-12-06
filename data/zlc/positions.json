@@ -165,6 +165,17 @@
             }
           ]
         },
+        "26": {
+          "callsign": "Salt Lake Center",
+          "frequency": "120.975",
+          "pre": ["SLC"],
+          "type": "CTR",
+          "colours": [
+            {
+              "hex": "#950000"
+            }
+          ]
+        },
         "30": {
           "callsign": "Salt Lake Center",
           "frequency": "128.050",
