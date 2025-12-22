@@ -1,7 +1,7 @@
 {
     "airspace":[
        {
-          "id":"Antwerp",
+          "id":"EB-EBAW",
           "group":"TWR",
           "owner":[
              "WT",
@@ -52,7 +52,7 @@
           ]
        },
        {
-          "id":"Beauvechain",
+          "id":"EB-EBBE",
           "group":"TWR",
           "owner":[
              "MIL",
@@ -110,7 +110,7 @@
           ]
        },
        {
-          "id":"Kleine Brogel",
+          "id":"EB-EBBL",
           "group":"TWR",
           "owner":[
              "MIL",
@@ -187,7 +187,7 @@
           ]
        },
        {
-          "id":"Kleine Brogel",
+          "id":"EB-EBBL",
           "group":"TWR",
           "owner":[
              "MIL",
@@ -257,7 +257,7 @@
           ]
        },
        {
-          "id":"Brussels",
+          "id":"EB-EBBR",
           "group":"TWR",
           "owner":[
              "BT",
@@ -339,7 +339,7 @@
           ]
        },
        {
-          "id":"Brussels",
+          "id":"EB-EBBR",
           "group":"TWR",
           "owner":[
              "BT",
@@ -431,7 +431,7 @@
           ]
        },
        {
-          "id":"Charleroi",
+          "id":"EB-EBCI",
           "group":"TWR",
           "owner":[
              "CT",
@@ -533,7 +533,7 @@
           ]
        },
        {
-          "id":"Chievres",
+          "id":"EB-EBCV",
           "group":"TWR",
           "owner":[
             "MIL",
@@ -590,7 +590,7 @@
           ]
        },
        {
-          "id":"Koksijde",
+          "id":"EB-EBFN",
           "group":"TWR",
           "owner":[
              "MIL",
@@ -661,7 +661,7 @@
           ]
        },
        {
-          "id":"Koksijde",
+          "id":"EB-EBFN",
           "group":"TWR",
           "owner":[
              "MIL",
@@ -731,7 +731,7 @@
           ]
        },
        {
-          "id":"Florennes",
+          "id":"EB-EBFS",
           "group":"TWR",
           "owner":[
              "MIL",
@@ -802,7 +802,7 @@
           ]
        },
        {
-          "id":"Kortrijk-Wevelgem",
+          "id":"EB-EBKT",
           "group":"RMZ",
           "owner":[
              "KT",
@@ -837,7 +837,7 @@
           ]
        },
        {
-          "id":"Liège",
+          "id":"EB-EBLG",
           "group":"TWR",
           "owner":[
              "LT",
@@ -938,7 +938,7 @@
           ]
        },
        {
-          "id":"Moorsele",
+          "id":"EB-EBMO",
           "group":"ATZ",
           "owner":[
              "BI"
@@ -1000,7 +1000,7 @@
           ]
        },
        {
-          "id":"Suarlee",
+          "id":"EB-EBNM",
           "group":"ATZ",
           "owner":[
              "BI"
@@ -1093,7 +1093,7 @@
           ]
        },
        {
-          "id":"Ostend",
+          "id":"EB-EBOS",
           "group":"TWR",
           "owner":[
              "OT",
@@ -1170,7 +1170,7 @@
           ]
        },
        {
-          "id":"Sint-Truiden",
+          "id":"EB-EBST",
           "group":"ATZ",
           "owner":[
              "BI"
@@ -1197,7 +1197,7 @@
           ]
        },
        {
-          "id":"Ursel",
+          "id":"EB-EBUL",
           "group":"ATZ",
           "owner":[
              "BI"
@@ -1289,7 +1289,7 @@
           ]
        },
        {
-          "id":"Luxembourg",
+          "id":"EL-ELLX",
           "group":"TWR",
           "owner":[
              "XT",
@@ -1388,7 +1388,7 @@
           ]
        },
        {
-          "id":"Beauvechain",
+          "id":"EBBE-TMA1A",
           "comment":"EBBE TMA1A",
           "group":"MIL",
           "owner":[
@@ -1455,7 +1455,7 @@
           ]
        },
        {
-          "id":"Beauvechain",
+          "id":"EBBE-TMA1B",
           "comment":"EBBE TMA1B",
           "group":"MIL",
           "owner":[
@@ -1492,7 +1492,7 @@
           ]
        },
        {
-          "id":"Beauvechain",
+          "id":"EBBE-TMA2",
           "comment":"EBBE TMA2",
           "group":"MIL",
           "owner":[
@@ -1527,7 +1527,7 @@
           ]
        },
        {
-          "id":"Beauvechain",
+          "id":"EBBE-TMA3",
           "comment":"EBBE TMA3",
           "group":"MIL",
           "owner":[
@@ -1574,7 +1574,7 @@
           ]
        },
        {
-          "id":"Beauvechain",
+          "id":"EBBE-TMA4",
           "comment":"EBBE TMA4",
           "group":"MIL",
           "owner":[
@@ -1626,7 +1626,7 @@
           ]
        },
        {
-          "id":"Kleine Brogel",
+          "id":"EBBL-TMA1",
           "comment":"EBBL TMA1",
           "group":"MIL",
           "owner":[
@@ -1688,7 +1688,7 @@
           ]
        },
        {
-          "id":"Kleine Brogel",
+          "id":"EBBL-TMA1",
           "comment":"EBBL TMA2",
           "group":"MIL",
           "owner":[
@@ -1719,7 +1719,7 @@
           ]
        },
        {
-          "id":"Kleine Brogel",
+          "id":"EBBL-TMA3",
           "comment":"EBBL TMA3",
           "group":"MIL",
           "owner":[
@@ -1763,7 +1763,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"BR-TMA1",
           "comment":"EBBR TMA1",
           "group":"EBBU",
           "owner":[
@@ -1832,7 +1832,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"BR-TMA2",
           "comment":"EBBR TMA2",
           "group":"EBBU",
           "owner":[
@@ -1914,7 +1914,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"BR-TMA3A",
           "comment":"EBBR TMA3A",
           "group":"EBBU",
           "owner":[
@@ -1954,7 +1954,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"BR-TMA3B",
           "comment":"EBBR TMA3B",
           "group":"EBBU",
           "owner":[
@@ -1994,7 +1994,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"BR-TMA4",
           "comment":"EBBR TMA4",
           "group":"EBBU",
           "owner":[
@@ -2040,7 +2040,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"BR-TMA5",
           "comment":"EBBR TMA5",
           "group":"EBBU",
           "owner":[
@@ -2081,7 +2081,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"BR-TMA7",
           "comment":"EBBR TMA7",
           "group":"EBBU",
           "owner":[
@@ -2129,7 +2129,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"BR-TMA8",
           "comment":"EBBR TMA8",
           "group":"EBBU",
           "owner":[
@@ -2168,7 +2168,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"BR-TMA9A",
           "comment":"EBBR TMA9A",
           "group":"EBBU",
           "owner":[
@@ -2200,7 +2200,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"BR-TMA9B",
           "comment":"EBBR TMA9B",
           "group":"EBBU",
           "owner":[
@@ -2238,7 +2238,7 @@
           ]
        },
        {
-          "id":"Charleroi",
+          "id":"CI-TMA1",
           "comment":"EBCI TMA1",
           "group":"EBBU",
           "owner":[
@@ -2295,7 +2295,7 @@
           ]
        },
        {
-          "id":"Charleroi",
+          "id":"CI-TMA2A",
           "comment":"EBCI TMA2A",
           "group":"EBBU",
           "owner":[
@@ -2357,7 +2357,7 @@
           ]
        },
        {
-          "id":"Charleroi",
+          "id":"CI-TMA2B",
           "comment":"EBCI TMA2B",
           "group":"EBBU",
           "owner":[
@@ -2387,7 +2387,7 @@
           ]
        },
        {
-          "id":"Charleroi",
+          "id":"CI-TMA3A",
           "comment":"EBCI TMA3A",
           "group":"EBBU",
           "owner":[
@@ -2441,7 +2441,7 @@
           ]
        },
        {
-          "id":"Charleroi",
+          "id":"CI-TMA3B",
           "comment":"EBCI TMA3B",
           "group":"EBBU",
           "owner":[
@@ -2472,7 +2472,7 @@
           ]
        },
        {
-          "id":"Florennes",
+          "id":"EBFS-TMA",
           "comment":"EBFS TMA",
           "group":"MIL",
           "owner":[
@@ -2545,7 +2545,7 @@
           ]
        },
        {
-          "id":"Liège",
+          "id":"LG-TMA1",
           "comment":"EBLG TMA1",
           "group":"EBBU",
           "owner":[
@@ -2627,7 +2627,7 @@
           ]
        },
        {
-          "id":"Liège",
+          "id":"LG-TMA2",
           "comment":"EBLG TMA2",
           "group":"EBBU",
           "owner":[
@@ -2705,7 +2705,7 @@
           ]
        },
        {
-          "id":"Liège",
+          "id":"LG-TMA3",
           "comment":"EBLG TMA3",
           "group":"EBBU",
           "owner":[
@@ -2823,7 +2823,7 @@
           ]
        },
        {
-          "id":"Liège",
+          "id":"LG-TMA4",
           "comment":"EBLG TMA4",
           "group":"EBBU",
           "owner":[
@@ -2856,7 +2856,7 @@
           ]
        },
        {
-          "id":"Liège",
+          "id":"LG-TMA5",
           "comment":"EBLG TMA5",
           "group":"EBBU",
           "owner":[
@@ -2893,7 +2893,7 @@
           ]
        },
        {
-          "id":"Ostend",
+          "id":"OS-TMA1",
           "comment":"EBOS TMA1",
           "group":"EBBU",
           "owner":[
@@ -2952,7 +2952,7 @@
           ]
        },
        {
-          "id":"Ostend",
+          "id":"OS-TMA2",
           "comment":"EBOS TMA2 055-065",
           "group":"EBBU",
           "owner":[
@@ -2997,7 +2997,7 @@
           ]
        },
        {
-          "id":"Ostend",
+          "id":"OS-TMA2",
           "comment":"EBOS TMA2 065-095",
           "group":"EBBU",
           "owner":[
@@ -3036,7 +3036,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-BKTMA2",
           "comment":"EHBK TMA2",
           "group":"EBBU",
           "owner":[
@@ -3152,7 +3152,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA1A",
           "comment":"ELLX TMA1A AND 5",
           "group":"ELLX",
           "owner":[
@@ -3276,7 +3276,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA1B",
           "comment":"ELLX TMA1B",
           "group":"ELLX",
           "owner":[
@@ -3399,7 +3399,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA2A",
           "comment":"ELLX TMA2A",
           "group":"ELLX",
           "owner":[
@@ -3430,7 +3430,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA2B",
           "comment":"ELLX TMA2B",
           "group":"ELLX",
           "owner":[
@@ -3459,7 +3459,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA2C",
           "comment":"ELLX TMA2C",
           "group":"ELLX",
           "owner":[
@@ -3494,7 +3494,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA2E1",
           "comment":"ELLX TMA2E1",
           "group":"ELLX",
           "owner":[
@@ -3530,7 +3530,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA2E2",
           "comment":"ELLX TMA2E2",
           "group":"ELLX",
           "owner":[
@@ -3561,7 +3561,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA2F1",
           "comment":"ELLX TMA2F1",
           "group":"ELLX",
           "owner":[
@@ -3597,7 +3597,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA2F2",
           "comment":"ELLX TMA2F2",
           "group":"ELLX",
           "owner":[
@@ -3646,7 +3646,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA3",
           "comment":"ELLX TMA3",
           "group":"ELLX",
           "owner":[
@@ -3722,7 +3722,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"LX-TMA4",
           "comment":"ELLX TMA4",
           "group":"ELLX",
           "owner":[
@@ -3798,7 +3798,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"EB-CTAE1",
           "comment":"EBBU CTA E1",
           "group":"EBBU",
           "owner":[
@@ -3833,7 +3833,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"EB-CTAE2",
           "comment":"EBBU CTA E2",
           "group":"EBBU",
           "owner":[
@@ -3869,7 +3869,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"EBBU CTA E3",
           "group":"EBBU",
           "owner":[
@@ -3917,7 +3917,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"EBBU CTA E4",
           "group":"EBBU",
           "owner":[
@@ -3963,7 +3963,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"EBBU CTA E5",
           "group":"EBBU",
           "owner":[
@@ -3994,7 +3994,7 @@
           ]
        },
        {
-          "id":"Arrival",
+          "id":"EB-CTAE6",
           "comment":"EBBU CTA E6",
           "group":"EBBU",
           "owner":[
@@ -4029,7 +4029,7 @@
           ]
        },
        {
-          "id":"Departure",
+          "id":"EB-CTAS1",
           "comment":"EBBU CTA S1",
           "group":"EBBU",
           "owner":[
@@ -4076,7 +4076,7 @@
           ]
        },
        {
-          "id":"Approach",
+          "id":"EB-CTAS3",
           "comment":"EBBU CTA S3",
           "group":"ELLX",
           "owner":[
@@ -4121,7 +4121,7 @@
           ]
        },
        {
-          "id":"East High",
+          "id":"EB-EHS",
           "comment":"EBBU EHS 185-195",
           "group":"EBBU",
           "owner":[
@@ -4208,7 +4208,7 @@
           ]
        },
        {
-          "id":"East High",
+          "id":"EB-EHS",
           "comment":"EBBU EHS 195-245",
           "group":"EBBU",
           "owner":[
@@ -4310,7 +4310,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"EBBU ELS 045-075",
           "group":"EBBU",
           "owner":[
@@ -4394,7 +4394,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"EBBU ELS 075-095",
           "group":"EBBU",
           "owner":[
@@ -4522,7 +4522,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"EBBU ELS 095-185",
           "group":"EBBU",
           "owner":[
@@ -4655,7 +4655,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"EBBU ELS1 045-055",
           "group":"EBBU",
           "owner":[
@@ -4695,7 +4695,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"EBBU ELS1 055-075",
           "group":"EBBU",
           "owner":[
@@ -4735,7 +4735,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"EBBU ELS2 045-055",
           "group":"EBBU",
           "owner":[
@@ -4769,7 +4769,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"EBBU ELS2 055-075",
           "group":"EBBU",
           "owner":[
@@ -4818,7 +4818,7 @@
           ]
        },
        {
-          "id":"Huldenberg",
+          "id":"EB-HUS",
           "comment":"EBBU HUS 045-055",
           "group":"EBBU",
           "owner":[
@@ -4880,7 +4880,7 @@
           ]
        },
        {
-          "id":"Huldenberg",
+          "id":"EB-HUS",
           "comment":"EBBU HUS 055-075",
           "group":"EBBU",
           "owner":[
@@ -4930,7 +4930,7 @@
           ]
        },
        {
-          "id":"Huldenberg",
+          "id":"EB-HUS",
           "comment":"EBBU HUS 075-185",
           "group":"EBBU",
           "owner":[
@@ -4969,7 +4969,7 @@
           ]
        },
        {
-          "id":"Huldenberg",
+          "id":"EB-HUS",
           "comment":"EBBU HUS 185-245",
           "group":"EBBU",
           "owner":[
@@ -5006,7 +5006,7 @@
           ]
        },
        {
-          "id":"Luxembourg",
+          "id":"EB-LUS",
           "comment":"EBBU LUS 045-145",
           "group":"EBBU",
           "owner":[
@@ -5139,7 +5139,7 @@
           ]
        },
        {
-          "id":"Luxembourg",
+          "id":"EB-LUS",
           "comment":"EBBU LUS 145-165",
           "group":"EBBU",
           "owner":[
@@ -5192,7 +5192,7 @@
           ]
        },
        {
-          "id":"Luxembourg",
+          "id":"EB-LUS",
           "comment":"EBBU LUS 165-195",
           "group":"EBBU",
           "owner":[
@@ -5261,7 +5261,7 @@
           ]
        },
        {
-          "id":"Luxembourg",
+          "id":"EB-LUS",
           "comment":"EBBU LUS 195-245",
           "group":"EBBU",
           "owner":[
@@ -5339,7 +5339,7 @@
           ]
        },
        {
-          "id":"North Low",
+          "id":"EB-NLS",
           "comment":"EBBU NLS 045-055",
           "group":"EBBU",
           "owner":[
@@ -5408,7 +5408,7 @@
           ]
        },
        {
-          "id":"North Low",
+          "id":"EB-NLS",
           "comment":"EBBU NLS 045-075",
           "group":"EBBU",
           "owner":[
@@ -5475,7 +5475,7 @@
           ]
        },
        {
-          "id":"North Low",
+          "id":"EB-NLS",
           "comment":"EBBU NLS 055-075",
           "group":"EBBU",
           "owner":[
@@ -5531,7 +5531,7 @@
           ]
        },
        {
-          "id":"North Low",
+          "id":"EB-NLS",
           "comment":"EBBU NLS 075-095",
           "group":"EBBU",
           "owner":[
@@ -5624,7 +5624,7 @@
           ]
        },
        {
-          "id":"North Low",
+          "id":"EB-NLS",
           "comment":"EBBU NLS 095-185",
           "group":"EBBU",
           "owner":[
@@ -5703,7 +5703,7 @@
           ]
        },
        {
-          "id":"North Low",
+          "id":"EB-NLS",
           "comment":"EBBU NLS 095-245",
           "group":"EBBU",
           "owner":[
@@ -5742,7 +5742,7 @@
           ]
        },
        {
-          "id":"West High",
+          "id":"EB-WHS",
           "comment":"EBBU WHS 185-245",
           "group":"EBBU",
           "owner":[
@@ -5851,7 +5851,7 @@
           ]
        },
        {
-          "id":"West Low",
+          "id":"EB-WLS",
           "comment":"EBBU WLS 045-075",
           "group":"EBBU",
           "owner":[
@@ -5949,7 +5949,7 @@
           ]
        },
        {
-          "id":"West Low",
+          "id":"EB-WLS",
           "comment":"EBBU WLS 065-075",
           "group":"EBBU",
           "owner":[
@@ -5987,7 +5987,7 @@
           ]
        },
        {
-          "id":"West Low",
+          "id":"EB-WLS",
           "comment":"EBBU WLS 075-095",
           "group":"EBBU",
           "owner":[
@@ -6084,7 +6084,7 @@
           ]
        },
        {
-          "id":"West Low",
+          "id":"EB-WLS",
           "comment":"EBBU WLS 095-185",
           "group":"EBBU",
           "owner":[
@@ -6148,7 +6148,7 @@
           ]
        },
        {
-          "id":"West Low",
+          "id":"EB-WLS",
           "comment":"EBBU WLS 095-245",
           "group":"EBBU",
           "owner":[
@@ -6197,7 +6197,7 @@
           ]
        },
        {
-          "id":"West Low",
+          "id":"EB-WLS",
           "comment":"EBBU WLS SMALL 185-245",
           "group":"EBBU",
           "owner":[
@@ -6237,7 +6237,7 @@
           ]
        },
        {
-          "id":"Koksy",
+          "id":"EDYYKOH",
           "comment":"EDYYKOH",
           "group":"EDYY",
           "owner":[
@@ -6312,7 +6312,7 @@
           ]
        },
        {
-          "id":"Olno",
+          "id":"EDYYLNH",
           "comment":"EDYYLNH",
           "group":"EDYY",
           "owner":[
@@ -6354,7 +6354,7 @@
           ]
        },
        {
-          "id":"Olno",
+          "id":"EDYYLNH",
           "comment":"EDYYLNH 2",
           "group":"EDYY",
           "owner":[
@@ -6382,7 +6382,7 @@
           ]
        },
        {
-          "id":"Lux",
+          "id":"EDYYLXH",
           "comment":"EDYYLXH",
           "group":"EDYY",
           "owner":[
@@ -6456,7 +6456,7 @@
           ]
        },
        {
-          "id":"Nicky",
+          "id":"EDYYNIH",
           "comment":"EDYYNIH",
           "group":"EDYY",
           "owner":[
@@ -6509,7 +6509,7 @@
           ]
        },
        {
-          "id":"East Low",
+          "id":"EB-ELS",
           "comment":"VAALS B",
           "group":"EBBU",
           "owner":[
@@ -6549,7 +6549,7 @@
           ]
        },
        {
-          "id":"North Low",
+          "id":"EB-NLS",
           "comment":"ZEELAND A",
           "group":"EBBU",
           "owner":[
@@ -6636,7 +6636,7 @@
           ]
        },
        {
-          "id":"Koksy",
+          "id":"EDYYKOH",
           "comment":"ACI1",
           "group":"EDYY",
           "owner":[
@@ -6670,7 +6670,7 @@
           ]
        },
        {
-          "id":"Koksy",
+          "id":"EDYYKOH",
           "comment":"ACI1",
           "group":"EDYY",
           "owner":[
@@ -6703,7 +6703,7 @@
           ]
        },
        {
-          "id":"Koksy",
+          "id":"EDYYKOH",
           "comment":"CBWV1A",
           "group":"EDYY",
           "owner":[
@@ -6740,7 +6740,7 @@
           ]
        },
        {
-          "id":"Koksy",
+          "id":"EDYYKOH",
           "comment":"CBWV1A",
           "group":"EDYY",
           "owner":[
@@ -6776,7 +6776,7 @@
           ]
        },
        {
-          "id":"Koksy",
+          "id":"EDYYKOH",
           "comment":"CBWV1B",
           "group":"EDYY",
           "owner":[
@@ -6818,7 +6818,7 @@
           ]
        },
        {
-          "id":"Koksy",
+          "id":"EDYYKOH",
           "comment":"CBWV1B",
           "group":"EDYY",
           "owner":[
