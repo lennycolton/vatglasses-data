@@ -115,7 +115,7 @@
       "id": "Saiss",
       "comment": "GMFF_TWR",
       "group": "TWR",
-      "owner": ["FFT", "FFA", "CE", "CR", "CRA"],
+      "owner": ["FFT", "FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -161,7 +161,7 @@
       "id": "Ifrane",
       "comment": "GMFI_TWR",
       "group": "TWR",
-      "owner": ["FIT", "FFA", "CE", "CR", "CRA"],
+      "owner": ["FIT", "FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -217,7 +217,7 @@
       "id": "Bassatine",
       "comment": "GMFM_TWR",
       "group": "TWR",
-      "owner": ["FFA", "CE", "CR", "CRA"],
+      "owner": ["FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -238,7 +238,7 @@
       "id": "Angads",
       "comment": "GMFO_TWR",
       "group": "TWR",
-      "owner": ["FOT", "FOA", "CE", "CR", "CRA"],
+      "owner": ["FOT", "FOA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -284,7 +284,7 @@
       "id": "Benslimane",
       "comment": "GMMB_TWR",
       "group": "TWR",
-      "owner": ["MBT", "MNA", "CN", "CR", "CRA"],
+      "owner": ["MBT", "MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -342,7 +342,7 @@
       "id": "Beni Mellal",
       "comment": "GMMD_TWR-1",
       "group": "TWR",
-      "owner": ["MDT", "CS", "CR", "CRA"],
+      "owner": ["MDT", "CS", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -382,7 +382,7 @@
       "id": "Beni Mellal",
       "comment": "GMMD_TWR-2",
       "group": "TWR",
-      "owner": ["MDT", "CE", "CR", "CRA"],
+      "owner": ["MDT", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -419,7 +419,7 @@
       "id": "Sale",
       "comment": "GMME_TWR",
       "group": "TWR",
-      "owner": ["MET", "MEA", "MNA", "CN", "CR", "CRA"],
+      "owner": ["MET", "MEA", "MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -678,7 +678,7 @@
       "id": "Mohammed V",
       "comment": "GMMN_TWR",
       "group": "TWR",
-      "owner": ["MNT", "MND", "MNA", "CN", "CR", "CRA"],
+      "owner": ["MNT", "MND", "MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -734,7 +734,7 @@
       "id": "Tit Mellil",
       "comment": "GMMT_TWR",
       "group": "TWR",
-      "owner": ["MTT", "MNA", "CN", "CR", "CRA"],
+      "owner": ["MTT", "MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -790,7 +790,7 @@
       "id": "El Aroui",
       "comment": "GMMW_TWR",
       "group": "TWR",
-      "owner": ["MWT", "CE", "CR", "CRA"],
+      "owner": ["MWT", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -958,7 +958,7 @@
       "id": "Saniat R'mel",
       "comment": "GMTN_TWR-1",
       "group": "TWR",
-      "owner": ["TNT", "CN", "CR", "CRA"],
+      "owner": ["TNT", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -999,7 +999,7 @@
       "id": "Saniat R'mel",
       "comment": "GMTN_TWR-2",
       "group": "TWR",
-      "owner": ["TNT", "CE", "CR", "CRA"],
+      "owner": ["TNT", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -1023,7 +1023,7 @@
       "id": "Ibn Batouta",
       "comment": "GMTT_TWR",
       "group": "TWR",
-      "owner": ["TTT", "TTA", "CN", "CR", "CRA"],
+      "owner": ["TTT", "TTA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -1251,7 +1251,7 @@
       "id": "Saiss",
       "comment": "GMFF_APP",
       "group": "APP",
-      "owner": ["FFA", "CE", "CR", "CRA"],
+      "owner": ["FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 65,
@@ -1291,7 +1291,7 @@
       "id": "Saiss",
       "comment": "GMFF_APP-1",
       "group": "APP",
-      "owner": ["FFA", "CE", "CR", "CRA"],
+      "owner": ["FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -1344,7 +1344,7 @@
       "id": "Saiss",
       "comment": "GMFF_APP-2",
       "group": "APP",
-      "owner": ["FFA", "CE", "CR", "CRA"],
+      "owner": ["FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -1429,7 +1429,7 @@
       "id": "Saiss",
       "comment": "GMFF_APP-3",
       "group": "APP",
-      "owner": ["FFA", "CE", "CR", "CRA"],
+      "owner": ["FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -1476,7 +1476,7 @@
       "id": "Saiss",
       "comment": "GMFF_APP-4",
       "group": "APP",
-      "owner": ["FFA", "CE", "CR", "CRA"],
+      "owner": ["FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -1574,7 +1574,7 @@
       "id": "Bassatine",
       "comment": "GMFM_APP",
       "group": "APP",
-      "owner": ["FFA", "CE", "CR", "CRA"],
+      "owner": ["FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 55,
@@ -1600,7 +1600,7 @@
       "id": "Bassatine",
       "comment": "GMFM_APP-1",
       "group": "APP",
-      "owner": ["FFA", "CE", "CR", "CRA"],
+      "owner": ["FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -1620,7 +1620,7 @@
       "id": "Bassatine",
       "comment": "GMFM_APP-2",
       "group": "APP",
-      "owner": ["FFA", "CE", "CR", "CRA"],
+      "owner": ["FFA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -1643,7 +1643,7 @@
       "id": "Angads",
       "comment": "GMFO_APP",
       "group": "APP",
-      "owner": ["FOA", "CE", "CR", "CRA"],
+      "owner": ["FOA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 15,
@@ -1702,7 +1702,7 @@
       "id": "Angads",
       "comment": "GMFO_APP-1",
       "group": "APP",
-      "owner": ["FOA", "CE", "CR", "CRA"],
+      "owner": ["FOA", "CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -1777,7 +1777,7 @@
       "id": "Sale",
       "comment": "GMME_APP",
       "group": "APP",
-      "owner": ["MEA", "MNA", "CN", "CR", "CRA"],
+      "owner": ["MEA", "MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 15,
@@ -1830,7 +1830,7 @@
       "id": "Sale",
       "comment": "GMME_APP-1",
       "group": "APP",
-      "owner": ["MEA", "MNA", "CN", "CR", "CRA"],
+      "owner": ["MEA", "MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -1887,7 +1887,7 @@
       "id": "Sale",
       "comment": "GMME_APP-2",
       "group": "APP",
-      "owner": ["MEA", "MNA", "CN", "CR", "CRA"],
+      "owner": ["MEA", "MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -2261,7 +2261,7 @@
       "id": "Mohammed V",
       "comment": "GMMN_APP",
       "group": "APP",
-      "owner": ["MNA", "CN", "CR", "CRA"],
+      "owner": ["MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 20,
@@ -2303,7 +2303,7 @@
       "id": "Mohammed V",
       "comment": "GMMN_APP-1",
       "group": "APP",
-      "owner": ["MNA", "CN", "CR", "CRA"],
+      "owner": ["MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -2368,7 +2368,7 @@
       "id": "Mohammed V",
       "comment": "GMMN_APP-2",
       "group": "APP",
-      "owner": ["MNA", "CN", "CR", "CRA"],
+      "owner": ["MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -2503,7 +2503,7 @@
       "id": "Mohammed V",
       "comment": "GMMN_APP-3",
       "group": "APP",
-      "owner": ["MNA", "CN", "CR", "CRA"],
+      "owner": ["MNA", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -2574,7 +2574,7 @@
       "id": "Mohammed V",
       "comment": "GMMN_APP-U",
       "group": "APP",
-      "owner": ["MNA", "MND", "CN", "CR", "CRA"],
+      "owner": ["MNA", "MND", "CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 65,
@@ -3042,7 +3042,7 @@
       "id": "Ibn Batouta",
       "comment": "GMTT_APP",
       "group": "APP",
-      "owner": ["TTA", "CN", "CR", "CRA"],
+      "owner": ["TTA", "CNE", "CN", "CR", "CRA"],
       "sectors": [
         {
           "min": 15,
@@ -3090,7 +3090,7 @@
       "id": "Ibn Batouta",
       "comment": "GMTT_APP-1",
       "group": "APP",
-      "owner": ["TTA", "CN", "CR", "CRA"],
+      "owner": ["TTA", "CNE", "CN", "CR", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -3163,7 +3163,7 @@
     {
       "id": "GEML_U",
       "group": "GMMM",
-      "owner": ["CE", "CR", "CRA"],
+      "owner": ["CE", "CNE", "CR", "CRA"],
       "sectors": [
         {
           "min": 65,
@@ -3613,7 +3613,7 @@
       "id": "East",
       "comment": "GMFF_APP-U",
       "group": "GMMM",
-      "owner": ["CE", "CR", "CRA"],
+      "owner": ["CE", "CNE", "CR", "CRA"],
       "sectors": [
         {
           "min": 175,
@@ -3653,7 +3653,7 @@
       "id": "East",
       "comment": "GMFO_APP-U",
       "group": "GMMM",
-      "owner": ["CE", "CR", "CRA"],
+      "owner": ["CE", "CNE", "CR", "CRA"],
       "sectors": [
         {
           "min": 105,
@@ -3752,7 +3752,7 @@
       "id": "East",
       "comment": "GMMD_TWR-U2",
       "group": "GMMM",
-      "owner": ["CE", "CR", "CRA"],
+      "owner": ["CE", "CNE", "CR", "CRA"],
       "sectors": [
         {
           "min": 30,
@@ -3880,7 +3880,7 @@
       "id": "East",
       "comment": "GMMM-E",
       "group": "GMMM",
-      "owner": ["CE", "CR", "CRA", "fss/AFRN"],
+      "owner": ["CE", "CR", "CRA", "CNE", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -4028,7 +4028,7 @@
       "id": "East",
       "comment": "GMMM-E-L",
       "group": "GMMM",
-      "owner": ["CE", "CR", "CRA"],
+      "owner": ["CE", "CNE", "CR", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -4356,7 +4356,7 @@
       "id": "North",
       "comment": "GMMM-N",
       "group": "GMMM",
-      "owner": ["CN", "CR", "CRA", "fss/AFRN"],
+      "owner": ["CN", "CR", "CRA", "CNE", "fss/AFRN"],
       "sectors": [
         {
           "min": 195,
@@ -4411,7 +4411,7 @@
       "id": "North",
       "comment": "GMMM-N-L",
       "group": "GMMM",
-      "owner": ["CN", "CR", "CRA"],
+      "owner": ["CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 0,
@@ -4899,7 +4899,7 @@
       "id": "East",
       "comment": "GMMW_TWR-U",
       "group": "GMMM",
-      "owner": ["CE", "CR", "CRA"],
+      "owner": ["CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 30,
@@ -5049,7 +5049,7 @@
       "id": "North",
       "comment": "GMTN_TWR-U1",
       "group": "GMMM",
-      "owner": ["CN", "CR", "CRA"],
+      "owner": ["CN", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 65,
@@ -5090,7 +5090,7 @@
       "id": "East",
       "comment": "GMTN_TWR-U2",
       "group": "GMMM",
-      "owner": ["CE", "CR", "CRA"],
+      "owner": ["CE", "CR", "CNE", "CRA"],
       "sectors": [
         {
           "min": 65,
@@ -5114,7 +5114,7 @@
       "id": "North",
       "comment": "GMTT_APP-U",
       "group": "GMMM",
-      "owner": ["CN", "CR", "CRA"],
+      "owner": ["CN", "CNE", "CR", "CRA"],
       "sectors": [
         {
           "min": 105,
@@ -5168,7 +5168,7 @@
       "positions": {
         "AR": {
           "callsign": "Agadir Radar",
-          "frequency": "124.500",
+          "frequency": "131.500",
           "type": "CTR",
           "pre": ["GMAC"],
           "colours": [{ "hex": "#de3c3c" }]
@@ -5180,9 +5180,16 @@
           "pre": ["GMAC"],
           "colours": [{ "hex": "#de3c3c" }]
         },
-        "AO": {
+        "AON": {
           "callsign": "Agadir Radar",
           "frequency": "136.000",
+          "type": "CTR",
+          "pre": ["GMAC"],
+          "colours": [{ "hex": "#de3c3c" }]
+        },
+        "AO": {
+          "callsign": "Agadir Radar",
+          "frequency": "124.550",
           "type": "CTR",
           "pre": ["GMAC"],
           "colours": [{ "hex": "#de3c3c" }]
@@ -5193,13 +5200,20 @@
           "type": "CTR",
           "pre": ["GMAC"],
           "colours": [{ "hex": "#de3c3c" }]
-        },
-        "AW": {
+       },
+        "AWN": {
           "callsign": "Agadir Radar",
           "frequency": "128.800",
           "type": "CTR",
           "pre": ["GMAC"],
-          "colours": [{ "hex": "#de3c3c9" }]
+          "colours": [{ "hex": "#de3c3c" }]
+        },
+        "AW": {
+          "callsign": "Agadir Radar",
+          "frequency": "128.850",
+          "type": "CTR",
+          "pre": ["GMAC"],
+          "colours": [{ "hex": "#de3c3c" }]
         },
         "ADA": {
           "callsign": "Al Massira Approach",
@@ -5371,21 +5385,21 @@
         },
         "CRA": {
           "callsign": "Casablanca Radar",
-          "frequency": "131.925",
+          "frequency": "126.500",
           "type": "CTR",
           "pre": ["GMMM"],
           "colours": [{ "hex": "#de3c3c" }]
         },
         "CR": {
           "callsign": "Casablanca Radar",
-          "frequency": "126.500",
+          "frequency": "132.100",
           "type": "CTR",
           "pre": ["GMMM"],
           "colours": [{ "hex": "#de3c3c" }]
         },
-        "CE": {
+        "CS": {
           "callsign": "Casablanca Radar",
-          "frequency": "125.100",
+          "frequency": "126.700",
           "type": "CTR",
           "pre": ["GMMM"],
           "colours": [{ "hex": "#de3c3c" }]
@@ -5407,6 +5421,20 @@
         "CS": {
           "callsign": "Casablanca Radar",
           "frequency": "126.700",
+          "type": "CTR",
+          "pre": ["GMMM"],
+          "colours": [{ "hex": "#de3c3c" }]
+        },
+        "CE": {
+          "callsign": "Casablanca Radar",
+          "frequency": "125.100",
+          "type": "CTR",
+          "pre": ["GMMM"],
+          "colours": [{ "hex": "#de3c3c" }]
+        },
+        "CNE": {
+          "callsign": "Casablanca Radar",
+          "frequency": "132.325",
           "type": "CTR",
           "pre": ["GMMM"],
           "colours": [{ "hex": "#de3c3c" }]
