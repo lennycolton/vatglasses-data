@@ -47646,6 +47646,7 @@
       "owner": [
         "RZ",
         "RSI",
+        "RSA",
         "RR"
       ],
       "sectors": [
@@ -66531,6 +66532,7 @@
       ],
       "topdown": [
         "RSI",
+        "RSA",
         "RR"
       ]
     },
