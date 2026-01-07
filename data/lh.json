@@ -3025,11 +3025,11 @@
 		"TWR":{"name":"Tower"}
 	},
 	"positions":{
-		"LHBP_APP": {"colours": [{"hex": "#DFFF00"}], "pre": ["LHBP"], "type": "APP", "frequency": "122.975", "callsign": "Budapest Approach"},
+		"LHBP_APP": {"colours": [{"hex": "#DFFF00"}], "pre": ["LHBP"], "type": "APP", "frequency": "122.980", "callsign": "Budapest Approach"},
 		"LHBP_U_APP": {"colours": [{"hex": "#ffbf00"}], "pre": ["LHBP"], "type": "APP", "frequency": "123.850", "callsign": "Budapest Approach"},
-		"LHBP_TWR": {"colours": [{"hex": "#6495ed"}], "pre": ["LHBP"], "type": "TWR", "frequency": "118.100", "callsign": "Budapest Tower"},
-		"LHCC_W_CTR": {"colours": [{"hex": "#c7b192"}], "pre": ["LHCC"], "type": "CTR", "frequency": "133.200", "callsign": "Budapest Control"},
-		"LHCC_CTR": {"colours": [{"hex": "#247513"}], "pre": ["LHCC"], "type": "CTR", "frequency": "120.375", "callsign": "Budapest Control"},
+		"LHBP_TWR": {"colours": [{"hex": "#6495ed"}], "pre": ["LHBP"], "type": "TWR", "frequency": "118.715", "callsign": "Budapest Tower"},
+		"LHCC_W_CTR": {"colours": [{"hex": "#c7b192"}], "pre": ["LHCC"], "type": "CTR", "frequency": "133.205", "callsign": "Budapest Control"},
+		"LHCC_CTR": {"colours": [{"hex": "#247513"}], "pre": ["LHCC"], "type": "CTR", "frequency": "120.380", "callsign": "Budapest Control"},
 		"LHCC_2_CTR": {"colours": [{"hex": "#49836c"}], "pre": ["LHCC"], "type": "CTR", "frequency": "135.200", "callsign": "Budapest Control"},
 		"LHCC_1_CTR": {"colours": [{"hex": "#DFFF00"}], "pre": ["LHCC"], "type": "CTR", "frequency": "135.550", "callsign": "Budapest Control"},
 		"LHCC_N_CTR": {"colours": [{"hex": "#DFFF00"}], "pre": ["LHCC"], "type": "CTR", "frequency": "118.725", "callsign": "Budapest Control"},
