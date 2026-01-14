@@ -4776,7 +4776,7 @@
       "id": "Nörvenich",
       "group": "EDGG",
       "uid": "NOR",
-      "owner": ["NOR", "PADH"],
+      "owner": ["NOR", "DKLA", "GN", "GNH"],
       "sectors": [
         {
           "max": 244,
@@ -6704,7 +6704,7 @@
       "id": "Münster High",
       "group": "EDYY",
       "uid": "MH",
-      "owner": ["MM", "MH", "RH", "ML", "RL", "PADH", "NH", "AH", "SH", "SL", "YY-BB", "EMS", "WWW", "WWC"],
+      "owner": ["MM", "MH", "RH", "ML", "RL", "PADH", "GNH", "GAH", "SH", "SL", "YY-BB", "EMS", "WWW", "WWC"],
       "sectors": [
         {
           "min": 355,
@@ -6737,7 +6737,7 @@
       "id": "Münster Low",
       "group": "EDYY",
       "uid": "ML",
-      "owner": ["MM", "ML", "MH", "RL", "RH", "PADH", "NH", "AH", "SL", "SH", "YY-BB", "EMS", "WWW", "WWC"],
+      "owner": ["MM", "ML", "MH", "RL", "RH", "PADH", "GNH", "GAH", "SL", "SH", "YY-BB", "EMS", "WWW", "WWC"],
       "sectors": [
         {
           "max": 354,
@@ -6807,7 +6807,7 @@
       "id": "Ruhr High",
       "group": "EDYY",
       "uid": "RH",
-      "owner": ["RH", "MH", "RL", "ML", "NH"],
+      "owner": ["RH", "MH", "RL", "ML", "GNH"],
       "sectors": [
         {
           "min": 355,
@@ -6836,7 +6836,7 @@
       "id": "Ruhr Low",
       "group": "EDYY",
       "uid": "RL",
-      "owner": ["RL", "RH", "ML", "MH", "NH"],
+      "owner": ["RL", "RH", "ML", "MH", "GNH"],
       "sectors": [
         {
           "max": 294,
@@ -10380,14 +10380,14 @@
       "colours": [{ "hex": "#f43e36" }],
       "pre": ["EDUU"],
       "type": "CTR",
-      "frequency": "130.260",
+      "frequency": "136.560",
       "callsign": "Rhein Radar"
     },
     "UCW": {
       "colours": [{ "hex": "#bad4d7" }],
       "pre": ["EDUU"],
       "type": "CTR",
-      "frequency": "130.260",
+      "frequency": "134.690",
       "callsign": "Rhein Radar"
     },
     "ALP": {
