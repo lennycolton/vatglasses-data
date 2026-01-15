@@ -7425,7 +7425,7 @@
       "id": "Börde",
       "group": "EDWW",
       "uid": "BOR",
-      "owner": ["BOR", "MAR", "FLG", "MRZ", "WWC"],
+      "owner": ["BOR", "FLG", "MAR", "WWC"],
       "sectors": [
         {
           "max": 284,
@@ -7492,7 +7492,7 @@
         "id": "Berlin Arrival North",
         "group": "APP",
         "uid": "DBAN",
-        "owner": ["DBAN", "DBAS", "FLG", "BOR", "MAR", "MRZ", "WWC"],
+        "owner": ["DBAN", "DBAS", "FLG", "BOR", "MAR", "WWC"],
         "sectors": [
           {
             "max": 134,
@@ -7596,7 +7596,7 @@
         "id": "Berlin Arrival South",
         "group": "APP",
         "uid": "DBAS",
-        "owner": ["DBAS", "DBAN", "FLG", "BOR", "MAR", "MRZ", "WWC"],
+        "owner": ["DBAS", "DBAN", "FLG", "BOR", "MAR", "WWC"],
         "sectors": [
           {
             "max": 134,
@@ -7749,7 +7749,6 @@
           "FLG",
           "BOR",
           "MAR",
-          "MRZ",
           "WWC"
         ],
         "sectors": [
@@ -7831,7 +7830,6 @@
           "FLG",
           "BOR",
           "MAR",
-          "MRZ",
           "WWC"
         ],
         "sectors": [
@@ -8325,7 +8323,7 @@
         "id": "Fläming",
         "group": "EDWW",
         "uid": "FLG",
-        "owner": ["FLG", "BOR", "MAR", "MRZ", "WWC"],
+        "owner": ["FLG", "BOR", "MAR", "WWC"],
         "sectors": [
           {
             "max": 284,
@@ -8686,7 +8684,7 @@
         "id": "Mark",
         "group": "EDWW",
         "uid": "MAR",
-        "owner": ["MAR", "MRZ", "BOR", "FLG", "WWC"],
+        "owner": ["MAR", "BOR", "MRZ", "WWC"],
         "sectors": [
           {
             "max": 284,
@@ -8883,7 +8881,7 @@
         "id": "Müritz",
         "group": "EDWW",
         "uid": "MRZ",
-        "owner": ["MRZ", "MAR", "BOR", "WWC"],
+        "owner": ["MRZ", "MAR", "WWC"],
         "sectors": [
           {
             "max": 284,
@@ -8996,10 +8994,10 @@
         ]
       },
       {
-        "id": "Ostsee 1",
+        "id": "Ostsee 12",
         "group": "EDUU",
-        "uid": "OSE1",
-        "owner": ["OSE", "HVL", "MRZ", "MAR", "BOR", "WWC", "fss/EUCME"],
+        "uid": "OSE12",
+        "owner": ["OSE12", "HVL12", "MRZ", "MAR", "WWC", "fss/EUCME"],
         "sectors": [
           {
             "max": 364,
@@ -9145,10 +9143,10 @@
         ]
       },
       {
-        "id": "Ostsee 2",
+        "id": "Ostsee 22",
         "group": "EDUU",
-        "uid": "OSE2",
-        "owner": ["OH2", "OSE", "HVL", "MRZ", "MAR", "BOR", "WWC", "fss/EUCME"],
+        "uid": "OSE22",
+        "owner": ["OSE22", "OSE12", "HVL12", "MRZ", "MAR", "WWC", "fss/EUCME"],
         "sectors": [
           {
             "min": 365,
@@ -9293,10 +9291,10 @@
         ]
       },
       {
-        "id": "Havel 1",
+        "id": "Havel 12",
         "group": "EDUU",
-        "uid": "HVL1",
-        "owner": ["HVL", "OSE", "BOR", "FLG", "MAR", "MRZ", "WWC", "fss/EUCME"],
+        "uid": "HVL12",
+        "owner": ["HVL12", "OSE12", "BOR", "FLG", "MAR", "MRZ", "WWC", "fss/EUCME"],
         "sectors": [
           {
             "max": 364,
@@ -9370,13 +9368,13 @@
         ]
       },
       {
-        "id": "Havel 2",
+        "id": "Havel 22",
         "group": "EDUU",
-        "uid": "HVL2",
+        "uid": "HVL22",
         "owner": [
-          "OH2",
-          "HVL",
-          "OSE",
+          "OSE22",
+          "HVL12",
+          "OSE12",
           "BOR",
           "FLG",
           "MAR",
@@ -10291,7 +10289,7 @@
       "frequency": "122.785",
       "callsign": "Rhein Radar"
     },
-    "HVL": {
+    "HVL12": {
       "colours": [{ "hex": "#e212c5" }],
       "pre": ["EDUU"],
       "type": "CTR",
@@ -10312,14 +10310,14 @@
       "frequency": "132.080",
       "callsign": "Rhein Radar"
     },
-    "OSE": {
+    "OSE12": {
       "colours": [{ "hex": "#a24fde" }],
       "pre": ["EDUU"],
       "type": "CTR",
       "frequency": "133.035",
       "callsign": "Rhein Radar"
     },
-    "OH2": {
+    "OSE22": {
       "colours": [{ "hex": "#f43e36" }],
       "pre": ["EDUU"],
       "type": "CTR",
@@ -11032,18 +11030,18 @@
     "EDAH": {
       "callsign": "Heringsdorf",
       "coord": [53.878666666667, 14.152333333333],
-      "topdown": ["MRZ", "MAR", "BOR", "WWC"]
+      "topdown": ["MRZ", "MAR", "WWC"]
     },
     "ETNL": {
       "callsign": "Rostock-Laage",
       "coord": [53.918086, 12.279289],
-      "topdown": ["MRZ", "MAR", "BOR", "WWC"]
+      "topdown": ["MRZ", "MAR", "WWC"]
     },
     "EDDB": {
       "callsign": "Berlin",
       "coord": [52.362166666667, 13.500666666667],
       "runways": ["24", "06"],
-      "topdown": ["DBDS", "DBDN", "DBAS", "DBAN", "BOR", "MAR", "MRZ", "WWC"]
+      "topdown": ["DBDS", "DBDN", "DBAS", "DBAN", "BOR", "MAR", "WWC"]
     },
     "EDDH": {
       "callsign": "Hamburg",
@@ -11101,25 +11099,25 @@
     "EDAW": { "callsign": "Lobnitz-Roitzschjora", "coord": ["51.583333", "12.5"] },
     "EDAX": { "callsign": "Rechlin-Larz", "coord": ["53.3", "12.75"] },
     "EDAY": { "callsign": "Strausberg", "coord": ["52.583333", "13.916667"] ,
-	"topdown": ["DBDN", "DBDS", "DBAN", "DBAS", "FLG", "BOR", "MAR", "MRZ", "WWC"] },
+	"topdown": ["DBDN", "DBDS", "DBAN", "DBAS", "FLG", "BOR", "MAR", "WWC"] },
     "EDAZ": { "callsign": "Schonhagen", "coord": ["52.203833", "13.16"] ,
-	"topdown": ["DBDS", "DBDN", "DBAS", "DBAN", "FLG", "BOR", "MAR", "MRZ", "WWC"] },
+	"topdown": ["DBDS", "DBDN", "DBAS", "DBAN", "FLG", "BOR", "MAR", "WWC"] },
     "EDBA": { "callsign": "Arnstadt-Alkersleben", "coord": ["50.85", "11.066667"] },
     "EDBC": { "callsign": "Magdeburg-Cochstedt", "coord": ["51.855833", "11.418056"],
-	"topdown": ["BOR", "FLG", "MAR", "MRZ", "WWC"] },
+	"topdown": ["BOR", "FLG", "MAR", "WWC"] },
     "EDBE": { "callsign": "Brandenburg-Muehlenfeld", "coord": ["52.436366", "12.590603"] },
     "EDBF": { "callsign": "Ruppiner Land", "coord": ["52.8", "12.766667"] },
     "EDBG": { "callsign": "Burg", "coord": ["52.241664", "11.855999"] },
     "EDBH": { "callsign": "Barth", "coord": ["54.338333", "12.71"] ,
-	"topdown": ["MRZ", "MAR", "BOR", "WWC"] },
+	"topdown": ["MRZ", "MAR", "WWC"] },
     "EDBI": { "callsign": "Zwickau", "coord": ["50.7", "12.45"] },
     "EDBJ": { "callsign": "Jena", "coord": ["50.916667", "11.716667"] },
     "EDBK": { "callsign": "Kyritz", "coord": ["52.916667", "12.433333"] },
     "EDBL": { "callsign": "Laucha", "coord": ["51.245947", "11.692983"] },
     "EDBM": { "callsign": "Magdeburg", "coord": ["52.073611", "11.626389"] ,
-	"topdown": ["BOR", "FLG", "MAR", "MRZ", "WWC"] },
+	"topdown": ["BOR", "FLG", "MAR", "WWC"] },
     "EDBN": { "callsign": "Neubrandenburg", "coord": ["53.602167", "13.306"] ,
-	"topdown": ["MRZ", "MAR", "BOR", "WWC"] },
+	"topdown": ["MRZ", "MAR", "WWC"] },
     "EDBO": { "callsign": "Oehna", "coord": ["51.9", "13.05"] },
     "EDBP": { "callsign": "Pinnow", "coord": ["53.615114", "11.561033"] },
     "EDBQ": { "callsign": "Bronkow", "coord": ["51.670667", "13.960167"] },
