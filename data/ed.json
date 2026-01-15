@@ -10130,84 +10130,84 @@
     },
 
     "GN": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#b3befd" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "118.215",
       "callsign": "Langen Radar"
     },
     "GNH": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#afeaf7" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "136.480",
       "callsign": "Langen Radar"
     },
     "GC": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#b6deb3" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "133.815",
       "callsign": "Langen Radar"
     },
     "GCH": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#b9d1f1" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "127.925",
       "callsign": "Langen Radar"
     },
     "GCA": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#b6deb3" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "133.835",
       "callsign": "Langen Radar"
     },
     "GS": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#f9d1ba" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "136.315",
       "callsign": "Langen Radar"
     },
     "GSH": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#f0eea9" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "123.010",
       "callsign": "Langen Radar"
     },
     "GSA": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#f9d1ba" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "131.365",
       "callsign": "Langen Radar"
     },
     "GA": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#cba6f8" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "132.230",
       "callsign": "Langen Radar"
     },
     "GAH": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#ada6cd" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "125.935",
       "callsign": "Langen Radar"
     },
     "GCS": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#c4f6f8" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "135.310",
       "callsign": "Langen Radar"
     },
     "GCSH": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#c4cafa" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "135.030",
@@ -10215,28 +10215,28 @@
     },
 
     "BAD": {
-      "colours": [{ "hex": "#9ebb98" }],
+      "colours": [{ "hex": "#ada6cd" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "131.300",
       "callsign": "Langen Radar"
     },
     "BADH": {
-      "colours": [{ "hex": "#9ebb98" }],
+      "colours": [{ "hex": "#f5c5d6" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "124.035",
       "callsign": "Langen Radar"
     },
     "DKB": {
-      "colours": [{ "hex": "#6edd87" }],
+      "colours": [{ "hex": "#b5e1bb" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "125.200",
       "callsign": "Langen Radar"
     },
     "DKBH": {
-      "colours": [{ "hex": "#6edd87" }],
+      "colours": [{ "hex": "#f6e6b9" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "133.340",
@@ -10250,14 +10250,14 @@
       "callsign": "Langen Radar"
     },
     "GIN": {
-      "colours": [{ "hex": "#33C2D5" }],
+      "colours": [{ "hex": "#fbe0e4" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "124.730",
       "callsign": "Langen Radar"
     },
     "GINH": {
-      "colours": [{ "hex": "#33C2D5" }],
+      "colours": [{ "hex": "#b2f4a6" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "128.075",
@@ -10320,14 +10320,14 @@
       "callsign": "Langen Radar"
     },
     "PAD": {
-      "colours": [{ "hex": "#8d08c6" }],
+      "colours": [{ "hex": "#b8c2f1" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "135.650",
       "callsign": "Langen Radar"
     },
     "PADH": {
-      "colours": [{ "hex": "#8d08c6" }],
+      "colours": [{ "hex": "#cedccd" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "136.625",
@@ -10341,14 +10341,14 @@
       "callsign": "Langen Radar"
     },
     "RUD": {
-      "colours": [{ "hex": "#3b6ef1" }],
+      "colours": [{ "hex": "#d2d7d8" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "133.435",
       "callsign": "Langen Radar"
     },
     "RUDH": {
-      "colours": [{ "hex": "#3b6ef1" }],
+      "colours": [{ "hex": "#affff9" }],
       "pre": ["EDGG"],
       "type": "CTR",
       "frequency": "135.725",
@@ -10370,21 +10370,21 @@
     },
 
     "UC": {
-      "colours": [{ "hex": "#714d2a" }],
+      "colours": [{ "hex": "#d0888a" }],
       "pre": ["EDUU"],
       "type": "CTR",
       "frequency": "130.260",
       "callsign": "Rhein Radar"
     },
     "UW": {
-      "colours": [{ "hex": "#f43e36" }],
+      "colours": [{ "hex": "#b4d2a6" }],
       "pre": ["EDUU"],
       "type": "CTR",
       "frequency": "136.560",
       "callsign": "Rhein Radar"
     },
     "UCW": {
-      "colours": [{ "hex": "#bad4d7" }],
+      "colours": [{ "hex": "#c4cafa" }],
       "pre": ["EDUU"],
       "type": "CTR",
       "frequency": "134.690",
@@ -10884,7 +10884,7 @@
       "callsign": "Langen Radar"
     },
     "DKLA": {
-      "colours": [{ "hex": "#fffff" }],
+      "colours": [{ "hex": "#bed8b2" }],
       "pre": ["EDGG"],
       "type": "APP",
       "frequency": "134.065",
