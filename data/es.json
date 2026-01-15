@@ -1213,7 +1213,7 @@
         {
           "id": "ESOS 2-2",
           "group": "ESOS",
-          "owner": ["S2", "S7", "S9", "S1", "S3", "AA", "MW", "M7", "M2"],
+          "owner": ["S2", "S7", "S9", "S1", "S3", "AA"],
           "sectors": [
             {
               "min": 105,
@@ -1331,7 +1331,7 @@
         {
           "id": "ESMM Y-2",
           "group": "ESMM",
-          "owner": ["MY", "M6", "M7", "M2", "AA"],
+          "owner": ["MY", "MW", "M7", "M6", "M2", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -1354,7 +1354,7 @@
         {
           "id": "ESMM Y-1",
           "group": "ESMM",
-          "owner": ["MY", "M6", "M7", "M2", "AA"],
+          "owner": ["MY", "MW", "M7", "M6", "M2", "AA"],
           "sectors": [
             {
               "min": 285,
@@ -1387,7 +1387,7 @@
         {
           "id": "ESMM W-1",
           "group": "ESMM",
-          "owner": ["MW", "M7", "M2", "AA"],
+          "owner": ["MW", "M2", "MY", "M5", "M6", "AA"],
           "sectors": [
             {
               "min": 285,
@@ -1415,7 +1415,7 @@
         {
           "id": "ESMM L-5",
           "group": "ESMM",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 105,
@@ -1434,7 +1434,7 @@
         {
           "id": "ESMM L-3",
           "group": "ESMM",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 195,
@@ -1456,7 +1456,7 @@
         {
           "id": "ESMM L-2",
           "group": "ESMM",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -1574,7 +1574,7 @@
         {
           "id": "ESMM L-1",
           "group": "ESMM",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -1609,7 +1609,7 @@
         {
           "id": "ESMM K-7",
           "group": "ESMM",
-          "owner": ["MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 65,
@@ -1627,7 +1627,7 @@
         {
           "id": "ESMM K-6",
           "group": "ESMM",
-          "owner": ["MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -1650,7 +1650,7 @@
         {
           "id": "ESMM K-5",
           "group": "ESMM",
-          "owner": ["MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -1671,7 +1671,7 @@
         {
           "id": "ESMM K-4",
           "group": "ESMM",
-          "owner": ["MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 195,
@@ -1699,7 +1699,7 @@
         {
           "id": "ESMM K-3",
           "group": "ESMM",
-          "owner": ["MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 195,
@@ -1723,7 +1723,7 @@
         {
           "id": "ESMM K-2",
           "group": "ESMM",
-          "owner": ["MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 155,
@@ -1744,7 +1744,7 @@
         {
           "id": "ESMM K-1",
           "group": "ESMM",
-          "owner": ["MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -1787,7 +1787,7 @@
         {
           "id": "ESMM 9-1",
           "group": "ESMM",
-          "owner": ["M9", "M3", "M8", "M2", "M7", "M5", "AA"],
+          "owner": ["M9", "M8", "M6", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 365,
@@ -1822,7 +1822,7 @@
         {
           "id": "ESMM 8-4",
           "group": "ESMM",
-          "owner": ["M8", "M2", "M7", "M5", "AA"],
+          "owner": ["M8", "M7", "M6", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -1875,7 +1875,7 @@
         {
           "id": "ESMM 8-3",
           "group": "ESMM",
-          "owner": ["M8", "M2", "M7", "M5", "AA"],
+          "owner": ["M8", "M7", "M6", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 285,
@@ -1906,7 +1906,7 @@
         {
           "id": "ESMM 8-2",
           "group": "ESMM",
-          "owner": ["M8", "M2", "M7", "M5", "AA"],
+          "owner": ["M8", "M7", "M6", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 245,
@@ -1930,7 +1930,7 @@
         {
           "id": "ESMM 8-1",
           "group": "ESMM",
-          "owner": ["M8", "M2", "M7", "M5", "AA"],
+          "owner": ["M8", "M7", "M6", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 195,
@@ -1989,7 +1989,7 @@
         {
           "id": "ESMM 7-5",
           "group": "ESMM",
-          "owner": ["M7", "M6", "M8", "M2", "AA"],
+          "owner": ["M7", "M6", "M8", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 285,
@@ -2009,7 +2009,7 @@
         {
           "id": "ESMM 7-4",
           "group": "ESMM",
-          "owner": ["M7", "M6", "M8", "M2", "AA"],
+          "owner": ["M7", "M6", "M8", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 285,
@@ -2029,7 +2029,7 @@
         {
           "id": "ESMM 7-3",
           "group": "ESMM",
-          "owner": ["M7", "M6", "M8", "M2", "AA"],
+          "owner": ["M7", "M6", "M8", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 195,
@@ -2051,7 +2051,7 @@
         {
           "id": "ESMM 7-2",
           "group": "ESMM",
-          "owner": ["M7", "M6", "M8", "M2", "AA"],
+          "owner": ["M7", "M6", "M8", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -2069,7 +2069,7 @@
         {
           "id": "ESMM 7-1",
           "group": "ESMM",
-          "owner": ["M7", "M6", "M8", "M2", "AA"],
+          "owner": ["M7", "M6", "M8", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -2098,7 +2098,7 @@
         {
           "id": "ESMM 6-1",
           "group": "ESMM",
-          "owner": ["M6", "M3", "M7", "M8", "M2", "AA"],
+          "owner": ["M6", "M7", "M8", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 365,
@@ -2131,7 +2131,7 @@
         {
           "id": "ESMM 5-6",
           "group": "ESMM",
-          "owner": ["M5", "M2", "AA"],
+          "owner": ["M5", "M4", "M2", "AA"],
           "sectors": [
             {
               "min": 155,
@@ -2152,7 +2152,7 @@
         {
           "id": "ESMM 5-5",
           "group": "ESMM",
-          "owner": ["M5", "M2", "AA"],
+          "owner": ["M5", "M4", "M2", "AA"],
           "sectors": [
             {
               "min": 195,
@@ -2175,7 +2175,7 @@
         {
           "id": "ESMM 5-4",
           "group": "ESMM",
-          "owner": ["M5", "M2", "AA"],
+          "owner": ["M5", "M4", "M2", "AA"],
           "sectors": [
             {
               "min": 285,
@@ -2197,7 +2197,7 @@
         {
           "id": "ESMM 5-3",
           "group": "ESMM",
-          "owner": ["M5", "M2", "AA"],
+          "owner": ["M5", "M4", "M2", "AA"],
           "sectors": [
             {
               "min": 285,
@@ -2217,7 +2217,7 @@
         {
           "id": "ESMM 5-2",
           "group": "ESMM",
-          "owner": ["M5", "M2", "AA"],
+          "owner": ["M5", "M4", "M2", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -2240,7 +2240,7 @@
         {
           "id": "ESMM 5-1",
           "group": "ESMM",
-          "owner": ["M5", "M2", "AA"],
+          "owner": ["M5", "M4", "M2", "AA"],
           "sectors": [
             {
               "min": 95,
@@ -4006,7 +4006,7 @@
         {
           "id": "ESMM 3-1",
           "group": "ESMM",
-          "owner": ["M3", "M2", "MW", "M5", "M7", "M8", "AA"],
+          "owner": ["M3", "M2", "M5", "M6", "AA"],
           "sectors": [
             {
               "min": 365,
@@ -4044,7 +4044,7 @@
         {
           "id": "ESMM 2-1",
           "group": "ESMM",
-          "owner": ["M2", "MW", "M5", "M7", "M8", "AA"],
+          "owner": ["M2", "M5", "M6", "AA"],
           "sectors": [
             {
               "min": 285,
@@ -4821,7 +4821,7 @@
         {
           "id": "GOT APPW",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 155,
@@ -4845,7 +4845,7 @@
         {
           "id": "GOT APPW",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 45,
@@ -4870,7 +4870,7 @@
         {
           "id": "GOT APPW",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 25,
@@ -4893,7 +4893,7 @@
         {
           "id": "GOT APPW",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -4914,7 +4914,7 @@
         {
           "id": "GOT APPS21",
           "group": "TMA",
-          "owner": ["GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -4942,7 +4942,7 @@
         {
           "id": "GOT APPS21",
           "group": "TMA",
-          "owner": ["GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -4969,7 +4969,7 @@
         {
           "id": "GOT APPS21",
           "group": "TMA",
-          "owner": ["GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -4993,7 +4993,7 @@
         {
           "id": "GOT APPS03",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5021,7 +5021,7 @@
         {
           "id": "GOT APPS03",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5048,7 +5048,7 @@
         {
           "id": "GOT APPS03",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5072,7 +5072,7 @@
         {
           "id": "GOT APPN21",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5099,7 +5099,7 @@
         {
           "id": "GOT APPN21",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5130,7 +5130,7 @@
         {
           "id": "GOT APPN21",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5158,7 +5158,7 @@
         {
           "id": "GOT APPN21",
           "group": "TMA",
-          "owner": ["GW", "GE", "M5", "M2", "AA"],
+          "owner": ["GW", "GE", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5185,7 +5185,7 @@
         {
           "id": "GOT APPN03",
           "group": "TMA",
-          "owner": ["GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5212,7 +5212,7 @@
         {
           "id": "GOT APPN03",
           "group": "TMA",
-          "owner": ["GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5243,7 +5243,7 @@
         {
           "id": "GOT APPN03",
           "group": "TMA",
-          "owner": ["GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5271,7 +5271,7 @@
         {
           "id": "GOT APPN03",
           "group": "TMA",
-          "owner": ["GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "runways": [
@@ -5298,7 +5298,7 @@
         {
           "id": "GOT APPIB",
           "group": "TMA",
-          "owner": ["IBA", "IB", "RTM", "GE", "GW", "M5", "M2", "AA"],
+          "owner": ["IBA", "IB", "RTM", "GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 45,
@@ -5326,7 +5326,7 @@
         {
           "id": "GOT APPE",
           "group": "TMA",
-          "owner": ["GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 45,
@@ -5359,7 +5359,7 @@
         {
           "id": "GOT APPE",
           "group": "TMA",
-          "owner": ["GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 25,
@@ -5386,7 +5386,7 @@
         {
           "id": "GOT APPE",
           "group": "TMA",
-          "owner": ["GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -5454,7 +5454,7 @@
         {
           "id": "ESTL TMA C",
           "group": "TMA",
-          "owner": ["TLA", "TL", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["TLA", "TL", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -5474,7 +5474,7 @@
         {
           "id": "ESTL TMA B",
           "group": "TMA",
-          "owner": ["TLA", "TL", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["TLA", "TL", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -5492,7 +5492,7 @@
         {
           "id": "ESTL TMA A",
           "group": "TMA",
-          "owner": ["TLA", "TL", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["TLA", "TL", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -5510,19 +5510,7 @@
         {
           "id": "ESTL KLIPPAN",
           "group": "TMA",
-          "owner": [
-            "TLA",
-            "TL",
-            "RTM",
-            "TAA",
-            "TA",
-            "MK",
-            "M2",
-            "M5",
-            "M8",
-            "M7",
-            "AA"
-          ],
+          "owner": ["TLA", "TL", "RTM", "TAA", "TA", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -5541,7 +5529,7 @@
         {
           "id": "ESTA TMA C",
           "group": "TMA",
-          "owner": ["TAA", "TA", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["TAA", "TA", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 45,
@@ -5560,7 +5548,7 @@
         {
           "id": "ESTA TMA B",
           "group": "TMA",
-          "owner": ["TAA", "TA", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["TAA", "TA", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -5577,7 +5565,7 @@
         {
           "id": "ESTA TMA A",
           "group": "TMA",
-          "owner": ["TAA", "TA", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["TAA", "TA", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -5598,7 +5586,7 @@
         {
           "id": "ESTA LAHOLM",
           "group": "TMA",
-          "owner": ["TAA", "TA", "RTM", "MT", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["TAA", "TA", "RTM", "MT", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -7045,7 +7033,7 @@
         {
           "id": "ESMV TMA B",
           "group": "TMA",
-          "owner": ["MVA", "MV"],
+          "owner": ["MV", "MVA"],
           "sectors": [
             {
               "min": 45,
@@ -7065,7 +7053,7 @@
         {
           "id": "ESMV TMA A",
           "group": "TMA",
-          "owner": ["MVA", "MV"],
+          "owner": ["MV", "MVA"],
           "sectors": [
             {
               "min": 20,
@@ -7083,7 +7071,7 @@
         {
           "id": "ESMT TMA C",
           "group": "TMA",
-          "owner": ["MT", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MT", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -7102,7 +7090,7 @@
         {
           "id": "ESMT TMA B",
           "group": "TMA",
-          "owner": ["MT", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MT", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 45,
@@ -7121,7 +7109,7 @@
         {
           "id": "ESMT TMA A",
           "group": "TMA",
-          "owner": ["MT", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MT", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 20,
@@ -7179,7 +7167,7 @@
         {
           "id": "ESMM L TMA F",
           "group": "ESMM",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 45,
@@ -7198,7 +7186,7 @@
         {
           "id": "ESMM L TMA E",
           "group": "ESMM",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 65,
@@ -7232,7 +7220,7 @@
         {
           "id": "ESMM L TMA D",
           "group": "ESMM",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 35,
@@ -7254,7 +7242,7 @@
         {
           "id": "ESMM L TMA C",
           "group": "ESMM",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 25,
@@ -7277,7 +7265,7 @@
         {
           "id": "ESMM L TMA B",
           "group": "ESMM",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 45,
@@ -7294,7 +7282,7 @@
         {
           "id": "ESMM L TMA A",
           "group": "ESMM",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -7321,7 +7309,7 @@
         {
           "id": "ESMM K TMA E",
           "group": "ESMM",
-          "owner": ["MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 65,
@@ -7350,7 +7338,7 @@
         {
           "id": "ESMM K TMA C",
           "group": "ESMM",
-          "owner": ["MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 25,
@@ -7370,7 +7358,7 @@
         {
           "id": "ESMM K TMA B",
           "group": "ESMM",
-          "owner": ["MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 45,
@@ -7413,7 +7401,7 @@
         {
           "id": "ESMK TMA C",
           "group": "TMA",
-          "owner": ["KT", "RTM", "ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["KT", "RTM", "ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 45,
@@ -7431,7 +7419,7 @@
         {
           "id": "ESMK TMA B",
           "group": "TMA",
-          "owner": ["KT", "RTM", "ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["KT", "RTM", "ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 17,
@@ -7453,7 +7441,7 @@
         {
           "id": "ESMK TMA A",
           "group": "TMA",
-          "owner": ["KT", "RTM", "ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["KT", "RTM", "ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 17,
@@ -7659,7 +7647,7 @@
         {
           "id": "ESIB TMA",
           "group": "TMA",
-          "owner": ["IBA", "IB", "RTM", "GE", "GW", "M5", "M2", "AA"],
+          "owner": ["IBA", "IB", "RTM", "GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -7718,7 +7706,7 @@
         {
           "id": "ESGT TMA",
           "group": "TMA",
-          "owner": ["IBA", "IB", "GT", "RTM", "GE", "GW", "M5", "M2", "AA"],
+          "owner": ["IBA", "IB", "GT", "RTM", "GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 15,
@@ -7867,7 +7855,7 @@
         {
           "id": "EKRN TMA",
           "group": "TMA",
-          "owner": ["ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 45,
@@ -8057,7 +8045,7 @@
         {
           "id": "ESTL CTR",
           "group": "TWR",
-          "owner": ["TL", "TLA", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["TL", "TLA", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 0,
@@ -8077,7 +8065,7 @@
         {
           "id": "ESTA CTR",
           "group": "TWR",
-          "owner": ["TA", "TAA", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["TA", "TAA", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 0,
@@ -8572,7 +8560,7 @@
           "sectors": [
             {
               "min": 0,
-              "max": 30,
+              "max": 31,
               "points": [
                 ["680054", "0202744"],
                 ["675754", "0204244"],
@@ -8767,7 +8755,7 @@
         {
           "id": "ESMT CTR",
           "group": "TWR",
-          "owner": ["MT", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"],
+          "owner": ["MT", "RTM", "MK", "M2", "M5", "AA"],
           "sectors": [
             {
               "min": 0,
@@ -8789,7 +8777,7 @@
         {
           "id": "ESMS CTR",
           "group": "TWR",
-          "owner": ["MS", "RTM", "ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["MS", "RTM", "ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 0,
@@ -8829,7 +8817,7 @@
         {
           "id": "ESMK CTR",
           "group": "TWR",
-          "owner": ["KT", "RTM", "ML", "MK", "M8", "M2", "M5", "M7", "AA"],
+          "owner": ["KT", "RTM", "ML", "MK", "M8", "M7", "MY", "M2", "AA"],
           "sectors": [
             {
               "min": 0,
@@ -8959,7 +8947,7 @@
         {
           "id": "ESIB CTR",
           "group": "TWR",
-          "owner": ["IB", "IBA", "RTM", "GE", "GW", "M5", "M2", "AA"],
+          "owner": ["IB", "IBA", "RTM", "GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 0,
@@ -9001,7 +8989,7 @@
         {
           "id": "ESGT CTR",
           "group": "TWR",
-          "owner": ["GT", "RTM", "IBA", "IB", "GE", "GW", "M5", "M2", "AA"],
+          "owner": ["GT", "RTM", "IBA", "IB", "GE", "GW", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 0,
@@ -9015,26 +9003,6 @@
                 ["582604", "0120608"],
                 ["582849", "0121344"],
                 ["582440", "0122319"]
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ESGP CTR",
-          "group": "TWR",
-          "owner": ["GP", "RTM", "GW", "GE", "M5", "M2", "AA"],
-          "sectors": [
-            {
-              "min": 0,
-              "max": 14,
-              "points": [
-                ["575713", "0115009"],
-                ["575657", "0115750"],
-                ["574544", "0120411"],
-                ["573736", "0115453"],
-                ["573749", "0114550"],
-                ["574719", "0114041"],
-                ["575713", "0115009"]
               ]
             }
           ]
@@ -9064,7 +9032,7 @@
         {
           "id": "ESGG CTR",
           "group": "TWR",
-          "owner": ["GG", "GE", "GW", "RTM", "M5", "M2", "AA"],
+          "owner": ["GG", "GE", "GW", "RTM", "M4", "M5", "MK", "M2", "AA"],
           "sectors": [
             {
               "min": 0,
@@ -9283,13 +9251,6 @@
       "type": "TWR",
       "pre": ["ESGJ"],
       "colours": [{ "hex": "#006100" }]
-    },
-    "GP": {
-      "callsign": "Save Tower",
-      "frequency": "119.055",
-      "type": "TWR",
-      "pre": ["ESGP"],
-      "colours": [{ "hex": "#b0e0e6" }]
     },
     "GT": {
       "callsign": "Trollhattan Tower",
@@ -10018,13 +9979,12 @@
     },
     "ESFR": {
       "callsign": "Rada",
-      "coord": [58.498056, 13.054722],
-      "topdown": ["FRA", "GE", "GW", "RTC", "M5", "M2", "AA"]
+      "coord": [58.498056, 13.054722]
     },
     "ESGG": {
       "callsign": "Landvetter",
       "coord": [57.66, 12.291111],
-      "topdown":  ["GG", "GE", "GW", "RTM", "M5", "M2", "AA"],
+      "topdown":  ["GG", "GE", "GW", "RTM", "M4", "M5", "MK", "M2", "AA"],
       "runways": ["21", "03"]
     },
     "ESGJ": {
@@ -10032,15 +9992,10 @@
       "coord": [57.758333, 14.069167],
       "topdown": ["GJ", "RTC", "S1", "S9", "S3", "AA"]
     },
-    "ESGP": {
-      "callsign": "Save",
-      "coord": [57.774722, 11.870278],
-      "topdown": ["GP", "RTM", "GW", "GE", "M5", "M2", "AA"]
-    },
     "ESGT": {
-      "callsign": "Vanersborg",
+      "callsign": "Stallbacka",
       "coord": [58.318056, 12.345],
-      "topdown": ["GT", "RTM", "IBA", "IB", "GE", "GW", "M5", "M2", "AA"]
+      "topdown": ["GT", "RTM", "IBA", "IB", "GE", "GW", "M4", "M5", "MK", "M2", "AA"]
     },
     "ESIA": {
       "callsign": "Karlsborg",
@@ -10050,7 +10005,7 @@
     "ESIB": {
       "callsign": "Satenas",
       "coord": [58.428333, 12.711111],
-      "topdown": ["IB", "IBA", "RTM", "GE", "GW", "M5", "M2", "AA"]
+      "topdown": ["IB", "IBA", "RTM", "GE", "GW", "M4", "M5", "MK", "M2", "AA"]
     },
     "ESKN": {
       "callsign": "Skavsta",
@@ -10065,7 +10020,7 @@
     "ESMK": {
       "callsign": "Kristianstad",
       "coord": [55.920556, 14.085278],
-      "topdown": ["KT", "RTM", "ML", "MK", "M8", "M2", "M5", "M7", "AA"]
+      "topdown": ["KT", "RTM", "ML", "MK", "M8", "M7", "MY", "M2", "AA"]
     },
     "ESMQ": {
       "callsign": "Kalmar",
@@ -10075,12 +10030,12 @@
     "ESMS": {
       "callsign": "Malmo",
       "coord": [55.548333, 13.353333],
-      "topdown": ["MS", "RTM", "ML", "MK", "M8", "M2", "M5", "M7", "AA"]
+      "topdown": ["MS", "RTM", "ML", "MK", "M8", "M7", "MY", "M2", "AA"]
     },
     "ESMT": {
       "callsign": "Halmstad",
       "coord": [56.690833, 12.82],
-      "topdown": ["MT", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"]
+      "topdown": ["MT", "RTM", "MK", "M2", "M5", "AA"]
     },
     "ESMX": {
       "callsign": "Kronoberg",
@@ -10151,7 +10106,7 @@
       "callsign": "Arlanda",
       "coord": [59.651944, 17.918611],
       "topdown": ["TW", "TE", "TS", "E", "W", "RTC", "S9", "S1", "S3", "AA"],
-      "runways": ["19L", "19R", "01L", "O1R", "08", "26"]
+      "runways": ["19L", "19R", "01L", "01R", "08", "26"]
     },
     "ESSB": {
       "callsign": "Bromma",
@@ -10181,12 +10136,12 @@
     "ESTA": {
       "callsign": "Angelholm",
       "coord": [56.291111, 12.855],
-      "topdown": ["TA", "TAA", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"]
+      "topdown": ["TA", "TAA", "RTM", "MK", "M2", "M5", "AA"]
     },
     "ESTL": {
       "callsign": "Ljungbyhed",
       "coord": [56.085278, 13.206944],
-      "topdown": ["TL", "TLA", "RTM", "MK", "M2", "M5", "M8", "M7", "AA"]
+      "topdown": ["TL", "TLA", "RTM", "MK", "M2", "M5", "AA"]
     },
       "ESKM": { 
         "callsign": "Mora-Siljan", 
@@ -10196,7 +10151,7 @@
       "ESMV": { 
         "callsign": "Hagshult", 
         "coord": [57.292222, 14.137222],
-        "topdown": ["MVA", "MV"]
+        "topdown": ["MV", "MVA", "MK", "M2", "M5", "AA"]
     },
       "ESND": { 
         "callsign": "Sveg", 
