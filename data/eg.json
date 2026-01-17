@@ -29595,7 +29595,7 @@
     "LEN": { "colours": [{ "hex": "#deaf23" }], "pre": [ "LON","LON-EN" ], "type": "CTR","frequency": "133.940","callsign": "London Control", "comment": "S12" },
     "LES": { "colours": [{ "hex": "#deaf23" }], "pre": [ "LON","LON-ES" ], "type": "CTR","frequency": "128.160","callsign": "London Control", "comment": "S13" },
     "LSF": { "colours": [{ "hex": "#4da9f0" }], "pre": [ "LON","LON-SF" ], "type": "CTR","frequency": "135.055","callsign": "London Control", "comment": "S18" },
-    "LHW": { "colours": [{ "hex": "#1390f0" }], "pre": [ "LON","LON-HW" ], "type": "CTR","frequency": "127.830","callsign": "London Control", "comment": "S19" },
+    "LHW": { "colours": [{ "hex": "#1390f0" }], "pre": [ "LON","LON-HW" ], "type": "CTR","frequency": "127.830","callsign": "London Control", "comment": "S22" },
     "OTMET": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "LON","LON-O" ], "type": "CTR","frequency": "129.080","callsign": "London Control", "comment": "OCK" }, 
     "LSN": { "colours": [{ "hex": "#f002f0" }], "pre": [ "LON","LON-SN" ], "type": "CTR","frequency": "132.165","callsign": "London Control", "comment": "S25" },
     "LSU": { "colours": [{ "hex": "#9e039e" }], "pre": [ "LON","LON-SU" ], "type": "CTR","frequency": "132.840","callsign": "London Control", "comment": "S1" },
