@@ -1796,7 +1796,7 @@
         "LS"
       ],
       "owner": [
-        "LSH",
+        "LHW",
         "OTMET",
         "LH",
         "LS",
@@ -1981,7 +1981,7 @@
         "LS"
       ],
       "owner": [
-        "LSH",
+        "LHW",
         "OTMET",
         "LH",
         "LS",
@@ -2059,7 +2059,7 @@
         "LS"
       ],
       "owner": [
-        "LSH",
+        "LHW",
         "OTMET",
         "LH",
         "LS",
@@ -7570,7 +7570,7 @@
         }
       ],
       "owner": [
-        "LSH",
+        "LHW",
         "LS",
         "LSC",
         "L"
@@ -8834,7 +8834,7 @@
         }
       ],
       "owner": [
-        "LSH",
+        "LHW",
         "LS",
         "LSC",
         "L"
@@ -29599,7 +29599,6 @@
     "OTMET": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "LON","LON-O" ], "type": "CTR","frequency": "129.080","callsign": "London Control", "comment": "OCK" }, 
     "LSN": { "colours": [{ "hex": "#f002f0" }], "pre": [ "LON","LON-SN" ], "type": "CTR","frequency": "132.165","callsign": "London Control", "comment": "S25" },
     "LSU": { "colours": [{ "hex": "#9e039e" }], "pre": [ "LON","LON-SU" ], "type": "CTR","frequency": "132.840","callsign": "London Control", "comment": "S1" },
-    "L2": { "colours": [{ "hex": "#9e039e" }], "pre": [ "LON","LON-SU" ], "type": "CTR","frequency": "127.430","callsign": "London Control", "comment": "S2" },
     "LDK": { "colours": [{ "hex": "#3063f0" }], "pre": [ "LON","LON-DK" ], "type": "CTR","frequency": "128.430","callsign": "London Control", "comment": "S17" },
     "LDL": { "colours": [{ "hex": "#1851f0" }], "pre": [ "LON","LON-DL" ], "type": "CTR","frequency": "133.485","callsign": "London Control", "comment": "S16" },
     "VATON": { "colours": [{ "hex": "#3063f0" }], "pre": [ "LTC" ], "type": "CTR","frequency": "127.955","callsign": "London Control", "comment": "VATON" },
@@ -30316,7 +30315,7 @@
         "topdown": [
             "HIR",
             "SOL",
-            "LSH",
+            "LHW",
             "OTMET",
             "LS",
             "LSC",
@@ -30334,7 +30333,7 @@
           "HHF",
           "HHR",
           "SOL",
-          "LSH",
+          "LHW",
           "OTMET",
           "LS",
           "LSC",
