@@ -10,6 +10,7 @@
       "owner": [
         "LSU",
         "LSN",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -1614,6 +1615,7 @@
       ],
       "owner": [
         "LSF",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -1704,6 +1706,7 @@
         "LS"
       ],
       "owner": [
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -1793,8 +1796,9 @@
         "LS"
       ],
       "owner": [
-        "LSH",
+        "LHW",
         "OTMET",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -1977,8 +1981,9 @@
         "LS"
       ],
       "owner": [
-        "LSH",
+        "LHW",
         "OTMET",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -2054,8 +2059,9 @@
         "LS"
       ],
       "owner": [
-        "LSH",
+        "LHW",
         "OTMET",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -2641,6 +2647,7 @@
       "owner": [
         "LSU",
         "LSN",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -2669,6 +2676,7 @@
       ],
       "owner": [
         "LSN",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -4506,6 +4514,7 @@
       ],
       "owner": [
         "LSN",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -7561,7 +7570,7 @@
         }
       ],
       "owner": [
-        "LSH",
+        "LHW",
         "LS",
         "LSC",
         "L"
@@ -8825,7 +8834,7 @@
         }
       ],
       "owner": [
-        "LSH",
+        "LHW",
         "LS",
         "LSC",
         "L"
@@ -29514,7 +29523,7 @@
     }
   },
   "positions": {
-    "L": { "colours": [{ "hex": "#965793" }], "pre": [ "LON" ], "type": "CTR","frequency": "127.830","callsign": "London Control", "comment": "S22" },
+    "L": { "colours": [{ "hex": "#965793" }], "pre": [ "LON" ], "type": "CTR","frequency": "127.430","callsign": "London Control", "comment": "S22" },
     "LSC": { "colours": [{ "online": ["LMW","LME","LS"], "hex": "#deaf23" }, { "online": ["LM","LS"], "hex": "#deaf23" }, { "online": ["LS"], "hex": "#ded123" }, { "hex": "#309df0" }], "pre": [ "LON","LON-SC" ], "type": "CTR","frequency": "132.605","callsign": "London Control", "comment": "S26" },
     "LN": { "colours": [{ "online": ["LNU"], "hex": "#702716" }, { "online": ["LNW"], "hex": "#702716" }, { "hex": "#e34b29" }], "pre": [ "LON","LON-N" ], "type": "CTR","frequency": "133.705","callsign": "London Control", "comment": "S3" },
     "LW": { "colours": [{ "online": ["LWX"], "hex": "#368524" }, { "hex": "#56de37" }], "pre": [ "LON","LON-W" ], "type": "CTR","frequency": "126.080","callsign": "London Control", "comment": "S6" },
@@ -29522,6 +29531,7 @@
     "LM": { "colours": [{ "hex": "#ded123" }], "pre": [ "LON","LON-M" ], "type": "CTR","frequency": "120.025","callsign": "London Control", "comment": "DTY Sby" },
     "LE": { "colours": [{ "hex": "#deaf23" }], "pre": [ "LON","LON-E" ], "type": "CTR","frequency": "118.480","callsign": "London Control", "comment": "S14" },
     "LS": { "colours": [{ "hex": "#309df0" }], "pre": [ "LON","LON-S" ], "type": "CTR","frequency": "129.430","callsign": "London Control", "comment": "S20" },
+    "LH": { "colours": [{ "hex": "#309df0" }], "pre": [ "LON","LON-H" ], "type": "CTR","frequency": "134.440","callsign": "London Control", "comment": "S19" },
     "LD": { "colours": [{ "online": ["LDK"], "hex": "#1851f0" }, { "hex": "#3063f0" }], "pre": [ "LON","LON-D" ], "type": "CTR","frequency": "134.905","callsign": "London Control", "comment": "S15" },
     "LI": { "pre": [ "EGTT","EGTT-I","LON","LON-I" ], "type": "CTR","frequency": "124.600","callsign": "London Information", "comment": "Lon Info" },
     "WR": { "pre": [ "EGTT","EGTT-WR","LON","LON-WR" ], "type": "CTR","frequency": "132.300","callsign": "Western Radar", "comment": "Western Radar" },
@@ -29585,11 +29595,10 @@
     "LEN": { "colours": [{ "hex": "#deaf23" }], "pre": [ "LON","LON-EN" ], "type": "CTR","frequency": "133.940","callsign": "London Control", "comment": "S12" },
     "LES": { "colours": [{ "hex": "#deaf23" }], "pre": [ "LON","LON-ES" ], "type": "CTR","frequency": "128.160","callsign": "London Control", "comment": "S13" },
     "LSF": { "colours": [{ "hex": "#4da9f0" }], "pre": [ "LON","LON-SF" ], "type": "CTR","frequency": "135.055","callsign": "London Control", "comment": "S18" },
-    "LSH": { "colours": [{ "hex": "#1390f0" }], "pre": [ "LON","LON-SH" ], "type": "CTR","frequency": "134.440","callsign": "London Control", "comment": "S19" },
+    "LHW": { "colours": [{ "hex": "#1390f0" }], "pre": [ "LON","LON-HW" ], "type": "CTR","frequency": "127.830","callsign": "London Control", "comment": "S22" },
     "OTMET": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "LON","LON-O" ], "type": "CTR","frequency": "129.080","callsign": "London Control", "comment": "OCK" }, 
     "LSN": { "colours": [{ "hex": "#f002f0" }], "pre": [ "LON","LON-SN" ], "type": "CTR","frequency": "132.165","callsign": "London Control", "comment": "S25" },
     "LSU": { "colours": [{ "hex": "#9e039e" }], "pre": [ "LON","LON-SU" ], "type": "CTR","frequency": "132.840","callsign": "London Control", "comment": "S1" },
-    "L2": { "colours": [{ "hex": "#9e039e" }], "pre": [ "LON","LON-SU" ], "type": "CTR","frequency": "127.430","callsign": "London Control", "comment": "S2" },
     "LDK": { "colours": [{ "hex": "#3063f0" }], "pre": [ "LON","LON-DK" ], "type": "CTR","frequency": "128.430","callsign": "London Control", "comment": "S17" },
     "LDL": { "colours": [{ "hex": "#1851f0" }], "pre": [ "LON","LON-DL" ], "type": "CTR","frequency": "133.485","callsign": "London Control", "comment": "S16" },
     "VATON": { "colours": [{ "hex": "#3063f0" }], "pre": [ "LTC" ], "type": "CTR","frequency": "127.955","callsign": "London Control", "comment": "VATON" },
@@ -30237,6 +30246,7 @@
             "TCS",
             "TC",
             "LSF",
+            "LH",
             "LS",
             "LSC",
             "L"
@@ -30273,6 +30283,7 @@
             "TCS",
             "TC",
             "LSF",
+            "LH",
             "LS",
             "LSC",
             "L"
@@ -30291,6 +30302,7 @@
             "TCS",
             "TC",
             "LSF",
+            "LH",
             "LS",
             "LSC",
             "L"
@@ -30306,8 +30318,9 @@
         "topdown": [
             "HIR",
             "SOL",
-            "LSH",
+            "LHW",
             "OTMET",
+            "LH",
             "LS",
             "LSC",
             "L"
@@ -30324,8 +30337,9 @@
           "HHF",
           "HHR",
           "SOL",
-          "LSH",
+          "LHW",
           "OTMET",
+          "LH",
           "LS",
           "LSC",
           "L"
