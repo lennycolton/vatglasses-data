@@ -3477,7 +3477,7 @@
       "id": "W1",
       "group": "LFMM",
       "owner": [
-        "MWU",
+        "MMW",
         "MRAW",
         "MM"
       ],
@@ -21669,7 +21669,8 @@
       "group": "LFEE",
       "owner": [
         "KD",
-        "EE"
+        "EE",
+        "PAR"
       ],
       "sectors": [
         {
@@ -47645,6 +47646,7 @@
       "owner": [
         "RZ",
         "RSI",
+        "RSA",
         "RR"
       ],
       "sectors": [
@@ -62295,7 +62297,7 @@
     },
     "LLA": {
       "callsign": "Lyon Approach",
-      "frequency": "120.230",
+      "frequency": "131.315",
       "type": "APP",
       "pre": [
         "LFLL"
@@ -66530,6 +66532,7 @@
       ],
       "topdown": [
         "RSI",
+        "RSA",
         "RR"
       ]
     },
