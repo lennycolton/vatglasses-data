@@ -674,7 +674,7 @@
         {
             "id": "Lajes", 
             "group": "APP", 
-            "owner": ["LAA", "POC", "POR", "POR1"], 
+            "owner": ["LAA", "HRA", "PDA", "POC", "POR", "POR1"], 
             "sectors": [
                 {
                     "min": 7, 
@@ -943,7 +943,7 @@
         {
             "id": "Lajes", 
             "group": "TWR", 
-            "owner": ["LAT", "LAA", "POC", "POR", "POR1"], 
+            "owner": ["LAT", "LAA", "HRA", "PDA", "POC", "POR", "POR1"], 
             "sectors": [
                 {
                     "min": 0, 
@@ -1193,12 +1193,12 @@
         "LPLA": {
             "callsign": "Lajes", 
             "coord": [38.761842, -27.090797],
-            "topdown":["LAA","POC","POR"]
+            "topdown":["LAA","HRA","PDA","POC","POR"]
         },
         "LPGR": {
             "callsign": "Graciosa", 
             "coord": [39.09361, -28.02972],
-            "topdown":["LAA","POC","POR"]
+            "topdown":["LAA","HRA","PDA","POC","POR"]
         }, 
         "LPSJ": {
             "callsign": "Sao Jorge", 
