@@ -3764,7 +3764,7 @@
         }, {
             "id": "ZBHD TWR",
             "group": "TWR",
-            "owner": ["HDT", "BJSW", "BJW", "BJ", "BJG"],
+            "owner": ["HDT", "BJW", "BJ", "BJG"],
             "sectors": [{
                     "min": 0,
                     "max": 117,
