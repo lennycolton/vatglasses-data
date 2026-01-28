@@ -3058,7 +3058,7 @@
         },
 
         "CYFCT": {
-            "id": "CYFC_TWR",
+            "id": "Fredericton",
             "group": "TWR",
             "sectors": [
                 {
@@ -3157,7 +3157,7 @@
             ]
         },
         "CYDFT": {
-            "id": "CYDF_TWR",
+            "id": "Deer Lake",
             "group": "TWR",
             "sectors": [
                 {
@@ -3209,7 +3209,7 @@
             ]
         },
         "CYHZT": {
-            "id": "CYHZ_TWR",
+            "id": "Halifax",
             "group": "TWR",
             "sectors": [
                 {
@@ -3261,7 +3261,7 @@
             ]
         },
         "CYQMT": {
-            "id": "CYQM_TWR",
+            "id": "Moncton",
             "group": "TWR",
             "sectors": [
                 {
@@ -3313,7 +3313,7 @@
             ]
         },
         "CYQXT": {
-            "id": "CYQX_TWR",
+            "id": "Gander",
             "group": "TWR",
             "sectors": [
                 {
@@ -3365,7 +3365,7 @@
             ]
         },
         "CYSJT": {
-            "id": "CYSJ_F_TWR",
+            "id": "Saint John",
             "group": "TWR",
             "sectors": [
                 {
@@ -3417,7 +3417,7 @@
             ]
         },
         "CYYGT": {
-            "id": "CYYG_F_TWR",
+            "id": "Charlottetown",
             "group": "TWR",
             "sectors": [
                 {
@@ -3469,7 +3469,7 @@
             ]
         },
         "CYYRT": {
-            "id": "CYYR_TWR",
+            "id": "Goose Bay",
             "group": "TWR",
             "sectors": [
                 {
@@ -3521,7 +3521,7 @@
             ]
         },
         "CYYTT": {
-            "id": "CYYT_TWR",
+            "id": "St John's",
             "group": "TWR",
             "sectors": [
                 {
@@ -3573,7 +3573,7 @@
             ]
         },
         "CYZXT": {
-            "id": "CYZX_TWR",
+            "id": "Greenwood",
             "group": "TWR",
             "sectors": [
                 {
