@@ -1,0 +1,228 @@
+{
+  "positions": {
+    "CE": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "125.775",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#075985"} ]
+    },
+    "OV": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "134.925",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#0284c7"} ]
+    },
+    "LU": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "135.825",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#38bdf8"} ]
+    },
+    "MI": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "124.375",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#082f49"} ]
+    },
+    "PI": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "124.675",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#65a30d"} ]
+    },
+    "BA": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "134.575",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#a3e635"} ]
+    },
+    "XI": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "121.225",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#3f6212"} ]
+    },
+    "GR": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "133.300",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#1e40af"} ]
+    },
+    "HM": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "132.475",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#2563eb"} ]
+    },
+    "KF": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "135.625",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#60a5fa"} ]
+    },
+    "SI": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "127.000",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#166534"} ]
+    },
+    "ER": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "124.925",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#16a34a"} ]
+    },
+    "SH": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "134.425",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#991b1b"} ]
+    },
+    "SL": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "132.650",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#dc2626"} ]
+    },
+    "VV": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "132.575",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#f87171"} ]
+    },
+    "TS": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "128.300",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#9d174d"} ]
+    },
+    "YB": {
+      "pre": "TOR",
+      "type": "CTR",
+      "frequency": "127.250",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#db2777"} ]
+    },
+    "SD": {
+      "pre": "TOR",
+      "type": "APP",
+      "frequency": "128.800",
+      "callsign": "Toronto Departure",
+      "colours": [ {"hex": "#854d0e"} ]
+    },
+    "ND": {
+      "pre": "TOR",
+      "type": "APP",
+      "frequency": "127.575",
+      "callsign": "Toronto Departure",
+      "colours": [ {"hex": "#ca8a04"} ]
+    },
+    "AA": {
+      "pre": "TOR",
+      "type": "APP",
+      "frequency": "132.800",
+      "callsign": "Toronto Arrival",
+      "colours": [ {"hex": "#042f2e"} ]
+    },
+    "AB": {
+      "pre": "TOR",
+      "type": "APP",
+      "frequency": "124.475",
+      "callsign": "Toronto Arrival",
+      "colours": [ {"hex": "#115e59"} ]
+    },
+    "AC": {
+      "pre": "TOR",
+      "type": "APP",
+      "frequency": "125.400",
+      "callsign": "Toronto Arrival",
+      "colours": [ {"hex": "#0d9488"} ]
+    },
+    "XX": {
+      "pre": "TOR",
+      "type": "APP",
+      "frequency": "134.175",
+      "callsign": "Toronto Arrival",
+      "colours": [ {"hex": "#2dd4bf"} ]
+    },
+    "WS": {
+      "pre": "TOR",
+      "type": "APP",
+      "frequency": "119.300",
+      "callsign": "Toronto Terminal",
+      "colours": [ {"hex": "#7c3aed"} ]
+    },
+    "ES": {
+      "pre": "TOR",
+      "type": "APP",
+      "frequency": "133.400",
+      "callsign": "Toronto Terminal",
+      "colours": [ {"hex": "#a78bfa"} ]
+    },
+    "XU": {
+      "pre": "TOR",
+      "type": "APP",
+      "frequency": "135.300",
+      "callsign": "Toronto Centre",
+      "colours": [ {"hex": "#5b21b6"} ]
+    },
+    "TR": {
+      "pre": "CYTR",
+      "type": "APP",
+      "frequency": "128.400",
+      "callsign": "Trenton Terminal",
+      "colours": [ {"hex": "#9a3412"} ]
+    },
+    "QG": {
+      "pre": "CYQG",
+      "type": "TWR",
+      "frequency": "124.700",
+      "callsign": "Windsor Tower",
+      "colours": [ {"hex": "#fb923c"} ]
+    }
+  },
+  "callsigns": {
+    "CTR": {
+      "": "Centre"
+    },
+    "FSS": {
+      "": "Radio"
+    },
+    "APP": {
+      "": "Arrival",
+      "HO": "Terminal Coordinator"
+    },
+    "DEP": {
+      "": "Departure"
+    },
+    "TWR": {
+      "": "Tower"
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "RMP": {
+      "": "Apron",
+      "T": "Apron Coordinator"
+    },
+    "DEL": {
+      "": "Clearance"
+    }
+  }
+}
