@@ -8,6 +8,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -39,6 +40,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -74,6 +76,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -106,6 +109,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -133,6 +137,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -189,6 +194,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -231,6 +237,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -268,6 +275,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -313,6 +321,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -351,6 +360,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -378,6 +388,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -407,6 +418,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -435,6 +447,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -462,6 +475,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -485,6 +499,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -509,6 +524,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -563,6 +579,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -651,6 +668,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -695,6 +713,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -719,6 +738,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -744,6 +764,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -789,6 +810,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -866,6 +888,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -900,6 +923,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -927,6 +951,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -958,6 +983,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1007,6 +1033,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1035,6 +1062,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1070,6 +1098,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1101,6 +1130,7 @@
 					"LKKB_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1140,6 +1170,7 @@
 					"LKKB_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1179,6 +1210,7 @@
 					"LKKB_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1218,6 +1250,7 @@
 					"LKKB_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1258,6 +1291,7 @@
 					"LKKB_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1298,6 +1332,7 @@
 					"LKKB_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1338,6 +1373,7 @@
 					"LKKB_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1378,6 +1414,7 @@
 					"LKKB_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1420,6 +1457,7 @@
 					"LKKB_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1482,6 +1520,7 @@
 					"LKKB_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1544,6 +1583,7 @@
 					"LKKB_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1606,6 +1646,7 @@
 					"LKKB_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1669,6 +1710,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1719,6 +1761,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1756,6 +1799,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1785,6 +1829,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1809,6 +1854,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1837,6 +1883,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1889,6 +1936,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1945,6 +1993,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -1970,6 +2019,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2001,6 +2051,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2030,6 +2081,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2059,6 +2111,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2097,6 +2150,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2122,6 +2176,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2151,6 +2206,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2182,6 +2238,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2211,6 +2268,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2238,6 +2296,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2270,6 +2329,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2299,6 +2359,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2323,6 +2384,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2350,6 +2412,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2440,6 +2503,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2464,6 +2528,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2499,6 +2564,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2589,6 +2655,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2613,6 +2680,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2648,6 +2716,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2680,6 +2749,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2712,6 +2782,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2775,6 +2846,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2799,6 +2871,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2823,6 +2896,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2855,6 +2929,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2908,6 +2983,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2955,6 +3031,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -2980,6 +3057,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3019,6 +3097,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3057,6 +3136,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3090,6 +3170,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3127,6 +3208,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3162,6 +3244,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3197,6 +3280,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3222,6 +3306,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3277,6 +3362,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3307,6 +3393,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3333,6 +3420,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3365,6 +3453,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3393,6 +3482,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3425,6 +3515,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3453,6 +3544,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3492,6 +3584,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3531,6 +3624,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3584,6 +3678,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3623,6 +3718,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3676,6 +3772,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3715,6 +3812,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3770,6 +3868,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3810,6 +3909,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3865,6 +3965,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3905,6 +4006,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3950,6 +4052,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -3995,6 +4098,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4020,6 +4124,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4057,6 +4162,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4082,6 +4188,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4119,6 +4226,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4157,6 +4265,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4195,6 +4304,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4295,6 +4405,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4330,6 +4441,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4391,6 +4503,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4436,6 +4549,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4572,6 +4686,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -4600,6 +4715,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -4629,6 +4745,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4672,6 +4789,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4724,6 +4842,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4792,6 +4911,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4841,6 +4961,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4886,6 +5007,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4947,6 +5069,7 @@
 				"group":"APP",
 				"owner":[
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -4974,6 +5097,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -4998,6 +5122,7 @@
 				"group":"APP",
 				"owner":[
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -5028,6 +5153,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -5057,6 +5183,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5120,6 +5247,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5186,6 +5314,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5249,6 +5378,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5315,6 +5445,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5374,6 +5505,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5423,6 +5555,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5479,6 +5612,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5527,6 +5661,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5557,6 +5692,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5587,6 +5723,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5633,6 +5770,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5672,6 +5810,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5702,6 +5841,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5731,6 +5871,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5763,6 +5904,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5815,6 +5957,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5847,6 +5990,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5876,6 +6020,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5908,6 +6053,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5938,6 +6084,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -5975,6 +6122,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6012,6 +6160,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6094,6 +6243,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6176,6 +6326,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6206,6 +6357,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6252,6 +6404,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6299,6 +6452,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6329,6 +6483,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6368,6 +6523,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6407,6 +6563,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6437,6 +6594,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6466,6 +6624,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6507,6 +6666,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6549,6 +6709,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6584,6 +6745,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6619,6 +6781,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6714,6 +6877,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6762,6 +6926,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6802,6 +6967,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6887,6 +7053,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -6951,6 +7118,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_APP"
 				],
@@ -6978,6 +7146,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_APP"
 				],
@@ -7006,6 +7175,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7064,6 +7234,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7119,6 +7290,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7166,6 +7338,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7228,6 +7401,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7291,6 +7465,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7346,6 +7521,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7393,6 +7569,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7452,6 +7629,7 @@
 				"group":"APP",
 				"owner":[
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -7478,6 +7656,7 @@
 				"group":"APP",
 				"owner":[
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_APP"
 				],
@@ -7503,6 +7682,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7527,6 +7707,7 @@
 				"group":"APP",
 				"owner":[
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_APP"
 				],
@@ -7554,6 +7735,7 @@
 				"group":"APP",
 				"owner":[
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -7584,6 +7766,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_APP"
 				],
@@ -7609,6 +7792,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7679,6 +7863,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7723,6 +7908,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7793,6 +7979,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7838,6 +8025,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7876,6 +8064,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7901,6 +8090,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7939,6 +8129,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -7964,6 +8155,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8010,6 +8202,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8048,6 +8241,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8075,6 +8269,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8111,6 +8306,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8150,6 +8346,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8204,6 +8401,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8235,6 +8433,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8278,6 +8477,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8321,6 +8521,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8352,6 +8553,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8386,6 +8588,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8420,6 +8623,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8481,6 +8685,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8517,6 +8722,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8543,6 +8749,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8579,6 +8786,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8605,6 +8813,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8642,6 +8851,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8679,6 +8889,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8733,6 +8944,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8768,6 +8980,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8822,6 +9035,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8857,6 +9071,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8921,6 +9136,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -8954,6 +9170,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9018,6 +9235,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9050,6 +9268,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9086,6 +9305,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9123,6 +9343,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9155,6 +9376,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9187,6 +9409,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9231,6 +9454,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9275,6 +9499,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9310,6 +9535,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9345,6 +9571,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9393,6 +9620,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9458,6 +9686,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9493,6 +9722,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9536,6 +9766,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9597,6 +9828,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9722,6 +9954,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -9750,6 +9983,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -9779,6 +10013,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9834,6 +10069,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9884,6 +10120,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -9954,6 +10191,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10017,6 +10255,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10072,6 +10311,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10118,6 +10358,7 @@
 				"group":"APP",
 				"owner":[
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -10145,6 +10386,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10169,6 +10411,7 @@
 				"group":"APP",
 				"owner":[
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -10199,6 +10442,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -10227,6 +10471,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10311,6 +10556,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10357,6 +10603,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10441,6 +10688,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10488,6 +10736,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10529,6 +10778,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10587,6 +10837,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10631,6 +10882,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10681,6 +10933,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10733,6 +10986,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10765,6 +11019,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10803,6 +11058,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10831,6 +11087,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10856,6 +11113,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10894,6 +11152,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10921,6 +11180,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10949,6 +11209,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -10981,6 +11242,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11042,6 +11304,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11092,6 +11355,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11121,6 +11385,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11156,6 +11421,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11197,6 +11463,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11226,6 +11493,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11263,6 +11531,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11293,6 +11562,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11328,6 +11598,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11364,6 +11635,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11401,6 +11673,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11436,6 +11709,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11474,6 +11748,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11510,6 +11785,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11546,6 +11822,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11603,6 +11880,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11641,6 +11919,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11675,6 +11954,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11732,6 +12012,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11770,6 +12051,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11803,6 +12085,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11837,6 +12120,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11872,6 +12156,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11906,6 +12191,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11940,6 +12226,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -11989,6 +12276,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12015,6 +12303,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12064,6 +12353,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12103,6 +12393,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12138,6 +12429,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12170,6 +12462,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12218,6 +12511,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12259,6 +12553,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12296,6 +12591,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12338,6 +12634,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12371,6 +12668,7 @@
 				"owner":[
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12432,6 +12730,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12549,6 +12848,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -12577,6 +12877,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -12606,6 +12907,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12661,6 +12963,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12712,6 +13015,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12779,6 +13083,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12818,6 +13123,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12878,6 +13184,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12918,6 +13225,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -12974,6 +13282,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13020,6 +13329,7 @@
 				"group":"APP",
 				"owner":[
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -13047,6 +13357,7 @@
 				"owner":[
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13071,6 +13382,7 @@
 				"group":"APP",
 				"owner":[
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -13101,6 +13413,7 @@
 					"LKKV_APP",
 					"LKAA_R_CTR",
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
 					"LKPR_APP"
@@ -13131,6 +13444,7 @@
 					"LKPR_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13213,6 +13527,7 @@
 				"group":"APP",
 				"owner":[
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13261,26 +13576,6 @@
 					}
 				]
 			},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 			{
 				"id":"Brno Tuřany",
 				"remark":"LKTB_CTR",
@@ -13290,6 +13585,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13342,6 +13638,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13384,6 +13681,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13421,6 +13719,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13452,6 +13751,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13479,6 +13779,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13508,6 +13809,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13536,6 +13838,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13563,6 +13866,7 @@
 					"LKTB_APP",
 					"LKAA_R_CTR",
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13589,6 +13893,7 @@
 					"LKVO_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13619,6 +13924,7 @@
 					"LKVO_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13649,6 +13955,7 @@
 					"LKVO_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13679,6 +13986,7 @@
 					"LKVO_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13710,6 +14018,7 @@
 					"LKVO_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13767,6 +14076,7 @@
 					"LKVO_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13824,6 +14134,7 @@
 					"LKVO_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13881,6 +14192,7 @@
 					"LKVO_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13940,6 +14252,7 @@
 					"LKVO_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -13970,6 +14283,7 @@
 					"LKVO_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14000,6 +14314,7 @@
 					"LKVO_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14030,6 +14345,7 @@
 					"LKVO_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14057,8 +14373,8 @@
 				"remark":"N1T",
 				"group":"ACC",
 				"owner":[
-					"LKAA_N_CTR",
 					"LKAA_U_CTR",
+					"LKAA_N_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -14131,8 +14447,8 @@
 				"remark":"N1H",
 				"group":"ACC",
 				"owner":[
-					"LKAA_N_CTR",
 					"LKAA_U_CTR",
+					"LKAA_N_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -14206,8 +14522,8 @@
 				"remark":"N1M",
 				"group":"ACC",
 				"owner":[
-					"LKAA_N_CTR",
 					"LKAA_U_CTR",
+					"LKAA_N_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -14282,6 +14598,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14389,6 +14706,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -14469,8 +14787,8 @@
 				"remark":"N2T",
 				"group":"ACC",
 				"owner":[
-					"LKAA_N_CTR",
 					"LKAA_U_CTR",
+					"LKAA_N_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -14504,8 +14822,8 @@
 				"remark":"N2H",
 				"group":"ACC",
 				"owner":[
-					"LKAA_N_CTR",
 					"LKAA_U_CTR",
+					"LKAA_N_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -14540,8 +14858,8 @@
 				"remark":"N2M",
 				"group":"ACC",
 				"owner":[
-					"LKAA_N_CTR",
 					"LKAA_U_CTR",
+					"LKAA_N_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -14577,6 +14895,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14632,6 +14951,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -14659,6 +14979,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14687,6 +15008,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14725,6 +15047,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14759,6 +15082,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14819,6 +15143,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14849,6 +15174,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14873,6 +15199,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14904,6 +15231,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14936,6 +15264,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -14995,6 +15324,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15020,6 +15350,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15051,6 +15382,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15080,6 +15412,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15109,6 +15442,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15147,6 +15481,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15171,6 +15506,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15203,6 +15539,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15232,6 +15569,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15255,6 +15593,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15306,6 +15645,7 @@
 					"LKMT_APP",
 					"LKAA_R_CTR",
 					"LKAA_N_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15395,6 +15735,7 @@
 					"LKKB_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15457,6 +15798,7 @@
 					"LKKB_APP",
 					"LKPR_DEP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15519,6 +15861,7 @@
 					"LKKB_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15581,6 +15924,7 @@
 					"LKKB_APP",
 					"LKPR_D_APP",
 					"LKPR_APP",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15641,6 +15985,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -15727,6 +16072,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15844,6 +16190,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_S_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -15898,8 +16245,8 @@
 				"remark":"SM",
 				"group":"ACC",
 				"owner":[
-					"LKAA_S_CTR",
 					"LKAA_U_CTR",
+					"LKAA_S_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -15971,8 +16318,8 @@
 				"remark":"SH",
 				"group":"ACC",
 				"owner":[
-					"LKAA_S_CTR",
 					"LKAA_U_CTR",
+					"LKAA_S_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16044,8 +16391,8 @@
 				"remark":"ST",
 				"group":"ACC",
 				"owner":[
-					"LKAA_S_CTR",
 					"LKAA_U_CTR",
+					"LKAA_S_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16117,6 +16464,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16163,6 +16511,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -16272,6 +16621,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKAA_W_CTR",
+					"LKAA_L_CTR",
 					"LKAA_CTR"
 				],
 				"sectors":[
@@ -16365,8 +16715,8 @@
 				"remark":"WM",
 				"group":"ACC",
 				"owner":[
-					"LKAA_W_CTR",
 					"LKAA_U_CTR",
+					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16412,8 +16762,8 @@
 				"remark":"WH",
 				"group":"ACC",
 				"owner":[
-					"LKAA_W_CTR",
 					"LKAA_U_CTR",
+					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16459,8 +16809,8 @@
 				"remark":"WT",
 				"group":"ACC",
 				"owner":[
-					"LKAA_W_CTR",
 					"LKAA_U_CTR",
+					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16511,11 +16861,12 @@
 	"positions":{
 		"LKAA_CTR": {"colours": [{"hex": "#bf9000"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.125", "callsign": "Praha Radar"},
 		"LKAA_I_CTR": {"colours": [{"hex": "#ffbf00"}], "pre": ["LKAA"], "type": "CTR", "frequency": "126.100", "callsign": "Praha Information"},
-		"LKAA_N_CTR": {"colours": [{"hex": "#6495ed"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.825", "callsign": "Praha Radar"},
+		"LKAA_L_CTR": {"colours": [{"hex": "#75f94d"}], "pre": ["LKAA"], "type": "CTR", "frequency": "135.135", "callsign": "Praha Radar"},
+		"LKAA_N_CTR": {"colours": [{"hex": "#ffffff"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.825", "callsign": "Praha Radar"},
 		"LKAA_R_CTR": {"colours": [{"hex": "#008080"}], "pre": ["LKAA"], "type": "CTR", "frequency": "124.050", "callsign": "Praha Radar"},
-		"LKAA_S_CTR": {"colours": [{"hex": "#40E0D0"}], "pre": ["LKAA"], "type": "CTR", "frequency": "133.410", "callsign": "Praha Radar"},
+		"LKAA_S_CTR": {"colours": [{"hex": "#d7141a"}], "pre": ["LKAA"], "type": "CTR", "frequency": "133.410", "callsign": "Praha Radar"},
 		"LKAA_U_CTR": {"colours": [{"hex": "#6fa8dc"}], "pre": ["LKAA"], "type": "CTR", "frequency": "124.775", "callsign": "Praha Radar"},
-		"LKAA_W_CTR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKAA"], "type": "CTR", "frequency": "120.275", "callsign": "Praha Radar"},
+		"LKAA_W_CTR": {"colours": [{"hex": "#11457e"}], "pre": ["LKAA"], "type": "CTR", "frequency": "120.275", "callsign": "Praha Radar"},
 		"LKCV_APP": {"colours": [{"hex": "#247513"}], "pre": ["LKCV"], "type": "APP", "frequency": "130.280", "callsign": "Čáslav Approach"},
 		"LKCV_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKCV"], "type": "TWR", "frequency": "134.205", "callsign": "Čáslav Tower"},
 		"LKKB_APP": {"colours": [{"hex": "#247513"}], "pre": ["LKKB"], "type": "APP", "frequency": "124.680", "callsign": "Kbely Radar"},
@@ -16573,6 +16924,7 @@
 			"topdown": [
 				"LKPR_D_APP",
 				"LKPR_APP",
+				"LKAA_L_CTR",
 				"LKAA_CTR"
 			]
 		},
@@ -16584,6 +16936,7 @@
 				"LKMT_APP",
 				"LKAA_R_CTR",
 				"LKAA_N_CTR",
+				"LKAA_L_CTR",
 				"LKAA_CTR"
 			]
 		},
@@ -16593,6 +16946,7 @@
 			"topdown": [
 				"LKPR_DEP",
 				"LKPR_APP",
+				"LKAA_L_CTR",
 				"LKAA_CTR"
 			]
 		},
@@ -16603,6 +16957,7 @@
 				"LKTB_APP",
 				"LKAA_R_CTR",
 				"LKAA_S_CTR",
+				"LKAA_L_CTR",
 				"LKAA_CTR"
 			]
 		},
@@ -16613,6 +16968,7 @@
 				"LKKV_APP",
 				"LKAA_R_CTR",
 				"LKAA_W_CTR",
+				"LKAA_L_CTR",
 				"LKAA_CTR"
 			]
 		},
@@ -16623,6 +16979,7 @@
 				"LKMT_APP",
 				"LKAA_R_CTR",
 				"LKAA_N_CTR",
+				"LKAA_L_CTR",
 				"LKAA_CTR"
 			]
 		},
@@ -16634,6 +16991,7 @@
 				"LKTB_APP",
 				"LKAA_R_CTR",
 				"LKAA_S_CTR",
+				"LKAA_L_CTR",
 				"LKAA_CTR"
 			]
 		},
@@ -16645,6 +17003,7 @@
 				"LKMT_APP",
 				"LKAA_R_CTR",
 				"LKAA_N_CTR",
+				"LKAA_L_CTR",
 				"LKAA_CTR"
 			]
 		},
@@ -16655,6 +17014,7 @@
 				"LKTB_APP",
 				"LKAA_R_CTR",
 				"LKAA_S_CTR",
+				"LKAA_L_CTR",
 				"LKAA_CTR"
 			]
 		},
@@ -16664,6 +17024,7 @@
 			"topdown": [
 				"LKPR_DEP",
 				"LKPR_APP",
+				"LKAA_L_CTR",
 				"LKAA_CTR"
 			]
 		},
