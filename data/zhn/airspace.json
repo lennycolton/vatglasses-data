@@ -965,6 +965,7 @@
         "L": {
             "id": "L",
             "group": "ZHN",
+            "parent": "H",
             "sectors": [
                 {
                     "runways": [
@@ -1273,6 +1274,7 @@
         "V": {
             "id": "V",
             "group": "ZHN",
+            "parent": "H",
             "sectors": [
                 {
                     "comment": "A",
@@ -1460,8 +1462,9 @@
             ] 
         },
         "T1": {
-            "id": "Honolulu",
+            "id": "Honolulu 1",
             "group": "TWR",
+            "parent": "H",
             "sectors": [
                 {
                     "runways": [
@@ -1525,8 +1528,9 @@
             ]
         },
         "T2": {
-            "id": "Honolulu",
+            "id": "Honolulu 2",
             "group": "TWR",
+            "parent": "H",
             "sectors": [
                 {
                     "runways": [
@@ -1586,6 +1590,7 @@
         "ITO": {
             "id": "Hilo",
             "group": "APP",
+            "parent": "5",
             "sectors": [
                 {
                     "max": 140,
@@ -2317,6 +2322,7 @@
         "NGF": {
             "id": "Kanehoe",
             "group": "APP",
+            "parent": "3",
             "sectors": [
                 {
                     "max": 90,
@@ -2364,6 +2370,7 @@
         "OGGN": {
             "id": "Maui North",
             "group": "ZHN",
+            "parent": "OGGS",
             "sectors": [
                 {
                     "max": 160,
@@ -2407,6 +2414,7 @@
         "OGGS": {
             "id": "Maui South",
             "group": "ZHN",
+            "parent": "5",
             "sectors": [
                 {
                     "max": 160,
@@ -2438,22 +2446,22 @@
         "PHHF": {"callsign": "French Frigate Shoals", "coord": ["23.86405", "-166.284633"]},
         "PHHI": {"callsign": "Wheeler", "coord": ["21.481553", "-158.036975"], "pre": ["HHI"]},
         "PHHN": {"callsign": "Hana", "coord": ["20.795637", "-156.014438"], "pre": ["HNM"]},
-        "PHIK": {"callsign": "Hickam", "coord": ["21.31667", "-157.91639"]},
+        "PHIK": {"callsign": "Hickam", "coord": ["21.31667", "-157.91639"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "T2" }},
         "PHJH": {"callsign": "Kapalua", "coord": ["21.01667", "-156.63306"], "pre": ["JHM"]},
-        "PHJR": {"callsign": "Kalaeloa", "coord": ["21.307354", "-158.070302"], "pre": ["JRF"]},
-        "PHKO": {"callsign": "Kailua-Kona Keahole", "coord": ["19.738767", "-156.045631"], "pre": ["KOA"]},
-        "PHLI": {"callsign": "Lihue", "coord": ["21.976097", "-159.338622"], "pre": ["LIH"]},
+        "PHJR": {"callsign": "Kalaeloa", "coord": ["21.307354", "-158.070302"], "pre": ["JRF"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "H" }},
+        "PHKO": {"callsign": "Kailua-Kona Keahole", "coord": ["19.738767", "-156.045631"], "pre": ["KOA"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "2" }},
+        "PHLI": {"callsign": "Lihue", "coord": ["21.976097", "-159.338622"], "pre": ["LIH"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "2" }},
         "PHLU": {"callsign": "Kalaupapa", "coord": ["21.21104", "-156.973597"], "pre": ["LUP"]},
-        "PHMK": {"callsign": "Molokai", "coord": ["21.15778", "-157.09833"], "pre": ["KMKK", "MKK"]},
+        "PHMK": {"callsign": "Molokai", "coord": ["21.15778", "-157.09833"], "pre": ["KMKK", "MKK"], "editor": true, "parent": { "automatch": true, "type": "sector", "position": "2" }},
         "PHMU": {"callsign": "Waimea-Kohala", "coord": ["20", "-155.66639"]},
         "PHNA": {"callsign": "Barbers Point", "coord": ["21.30806", "-158.06778"]},
-        "PHNG": {"callsign": "Marine Kaneohe", "coord": ["21.454722", "-157.772222"], "pre": ["NGF"]},
-        "PHNL": {"callsign": "Honolulu", "coord": ["21.318692", "-157.922408"], "pre": ["HCF", "HNL"], "runways": ["4/8", "4/8, 8L Closed", "22/26"]},
+        "PHNG": {"callsign": "Marine Kaneohe", "coord": ["21.454722", "-157.772222"], "pre": ["NGF"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "NGF" }},
+        "PHNL": {"callsign": "Honolulu", "coord": ["21.318692", "-157.922408"], "pre": ["HCF", "HNL"], "runways": ["4/8", "4/8, 8L Closed", "22/26"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "T1" }},
         "PHNY": {"callsign": "Lanai", "coord": ["20.785611", "-156.951419"], "pre": ["LNY"]},
-        "PHOG": {"callsign": "Maui", "coord": ["20.89865", "-156.430458"], "pre": ["OGG"]},
+        "PHOG": {"callsign": "Maui", "coord": ["20.89865", "-156.430458"], "pre": ["OGG"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "OGGS" }},
         "PHPA": {"callsign": "Port Allen", "coord": ["21.896944", "-159.603167"], "pre": ["PAK"]},
         "PHSF": {"callsign": "Bradshaw", "coord": ["19.78306", "-155.55"], "pre": ["BSF"]},
-        "PHTO": {"callsign": "Hilo", "coord": ["19.720264", "-155.048469"], "pre": ["ITO"]},
+        "PHTO": {"callsign": "Hilo", "coord": ["19.720264", "-155.048469"], "pre": ["ITO"], "editor": true, "parent": { "automatch": false, "type": "sector", "position": "ITO" }},
         "PHUP": {"callsign": "Upolu", "coord": ["20.265194", "-155.859944"], "pre": ["UPP"]},
         "PHWH": {"callsign": "South Kona", "coord": ["19.1", "-155.75"]}
     }
