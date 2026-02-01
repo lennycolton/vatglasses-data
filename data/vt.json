@@ -1,361 +1,14 @@
 {
-  "airports": {
-    "VTBD": {
-      "callsign": "Bangkok-Don Mueang Intl",
-      "coord": [
-        13.914444,
-        100.605556
-      ],
-	  "topdown": ["DDP","DAP","DAR","BAW","BA","BC3N","BCNW","BCN","BC"],
-      "runways": ["03","21"]
-    },
-    "VTBK": {
-      "callsign": "Kamphaeng Saen",
-      "coord": [
-        14.101667,
-        99.916667
-      ],
-	  "topdown": ["BKA","BC4N","BCNW","BCN","BC"]
-    },
-    "VTBL": {
-      "callsign": "Khok Kathiam",
-      "coord": [
-        14.87,
-        100.663333
-      ],
-	  "topdown": ["PIA","BC3N","BCNW","BCN","BC"]
-    },
-    "VTBO": {
-      "callsign": "Trat",
-      "coord": [
-        12.275278,
-        102.32
-      ],
-	  "topdown": ["BOA","BC5S","BCSE","BCS","BC"]
-    },
-    "VTBS": {
-      "callsign": "Suvarnabhumi",
-      "coord": [
-        13.681111,
-        100.747222
-      ],
-	  "topdown": ["DBS","BAE","BA","BC3N","BCNW","BCN","BC"],
-      "runways": ["01/02","19/20"]
-    },
-    "VTBU": {
-      "callsign": "U-Thapao",
-      "coord": [
-        12.679589,
-        101.004728
-      ],
-	  "topdown": ["BUA","BC5S","BCSE","BCS","BC"]
-    },
-    "VTBW": {
-      "callsign": "Watthana Nakon",
-      "coord": [
-        13.768333,
-        102.311667
-      ],
-	  "topdown": ["BC5S","BCSE","BCS","BC"]
-    },
-    "VTCC": {
-      "callsign": "Chiang Mai",
-      "coord": [
-        18.771389,
-        98.962778
-      ],
-	  "topdown": ["CCA","BC1N","BCNW","BCN","BC"]
-    },
-    "VTCH": {
-      "callsign": "Mae Hong Son",
-      "coord": [
-        19.301667,
-        97.9775
-      ],
-	  "topdown": ["CCA","BC1N","BCNW","BCN","BC"]
-    },
-    "VTCL": {
-      "callsign": "Lampang",
-      "coord": [
-        18.272778,
-        99.506667
-      ],
-	  "topdown": ["CLA","BC1N","BCNW","BCN","BC"]
-    },
-    "VTCN": {
-      "callsign": "Nan",
-      "coord": [
-        18.807222,
-        100.785278
-      ],
-	  "topdown": ["CNA","BC1N","BCNW","BCN","BC"]
-    },
-    "VTCP": {
-      "callsign": "Phrae",
-      "coord": [
-        18.128611,
-        100.166667
-      ],
-	  "topdown": ["CPA","BC1N","BCNW","BCN","BC"]
-    },
-    "VTCT": {
-      "callsign": "Chiang Rai",
-      "coord": [
-        19.952317,
-        99.882994
-      ],
-	  "topdown": ["CTA","BC1N","BCNW","BCN","BC"]
-    },
-    "VTPB": {
-      "callsign": "Phetchabun",
-      "coord": [
-        16.675539,
-        101.195741
-      ],
-	  "topdown": ["CPA","BC2N","BCNE","BCS","BC"]
-    },
-    "VTPH": {
-      "callsign": "Hua Hin",
-      "coord": [
-        12.630556,
-        99.954444
-      ],
-	  "topdown": ["PHA","BC1S","BCSW","BCS","BC"]
-    },
-    "VTPI": {
-      "callsign": "Takhli",
-      "coord": [
-        15.277305,
-        100.295861
-      ],
-	  "topdown": ["PIA","BC3N","BCNW","BCN","BC"]
-    },
-    "VTPM": {
-      "callsign": "Mae Sot",
-      "coord": [
-        16.699722,
-        98.545278
-      ],
-	  "topdown": ["PMA","BC1N","BCNW","BCN","BC"]
-    },
-    "VTPO": {
-      "callsign": "Sukhothai",
-      "coord": [
-        17.238875,
-        99.815086
-      ],
-	  "topdown": ["POA","BC1N","BCNW","BCN","BC"]
-    },
-    "VTPP": {
-      "callsign": "Phitsanulok",
-      "coord": [
-        16.782397,
-        100.279058
-      ],
-	  "topdown": ["PPA","BC1N","BCNW","BCN","BC"]
-    },
-    "VTPT": {
-      "callsign": "Tak",
-      "coord": [
-        16.886389,
-        99.280556
-      ]
-    },
-    "VTSB": {
-      "callsign": "Surat Thani",
-      "coord": [
-        9.133333,
-        99.140278
-      ],
-	  "topdown": ["SBA","BC3S","BCSW","BCS","BC"]
-    },
-    "VTSC": {
-      "callsign": "Narathiwat",
-      "coord": [
-        6.51988,
-        101.743525
-      ],
-	  "topdown": ["SCA","BC6S","BCSE","BCS","BC"]
-    },
-    "VTSE": {
-      "callsign": "Chumphon",
-      "coord": [
-        10.711203,
-        99.361711
-      ],
-	  "topdown": ["SEA","BC3S","BCSW","BCS","BC"]
-    },
-    "VTSF": {
-      "callsign": "Nakhon Si",
-      "coord": [
-        8.539617,
-        99.944725
-      ],
-	  "topdown": ["SFA","BC3S","BCSW","BCS","BC"]
-    },
-    "VTSG": {
-      "callsign": "Krabi",
-      "coord": [
-        8.100164,
-        98.985314
-      ],
-	  "topdown": ["SGA","BC3S","BCSW","BCS","BC"]
-    },
-    "VTSH": {
-      "callsign": "Songkhla",
-      "coord": [
-        7.186564,
-        100.60803
-      ],
-	  "topdown": ["SSA","BC6S","BCSE","BCS","BC"]
-    },
-    "VTSK": {
-      "callsign": "Pattani",
-      "coord": [
-        6.78306,
-        101.15
-      ],
-      "topdown": ["SKA","BC6S","BCSE","BCS","BC"]
-    },
-    "VTSM": {
-      "callsign": "Samui",
-      "coord": [
-        9.547667,
-        100.062447
-      ],
-	  "topdown": ["SMA","BC3S","BCSW","BCS","BC"]
-    },
-    "VTSP": {
-      "callsign": "Phuket",
-      "coord": [
-        8.112536,
-        98.309269
-      ],
-	  "topdown": ["SPF","SPA","BC4S","BCSW","BCS","BC"]
-    },
-    "VTSR": {
-      "callsign": "Ranong",
-      "coord": [
-        9.77745,
-        98.585278
-      ],
-	  "topdown": ["SRA","BC3S","BCSW","BCS","BC"]
-    },
-    "VTSS": {
-      "callsign": "Hat Yai",
-      "coord": [
-        6.932778,
-        100.395
-      ],
-	  "topdown": ["SSA","BC6S","BCSE","BCS","BC"]
-    },
-    "VTST": {
-      "callsign": "Trang",
-      "coord": [
-        7.508056,
-        99.625
-      ],
-	  "topdown": ["STA","BC3S","BCSW","BCS","BC"]
-    },
-    "VTSY": {
-      "callsign": "Betong",
-      "coord": [
-        54719.64,
-        1010849.77
-      ],
-	  "topdown": ["SCA","BC6S","BCSE","BCS","BC"]
-    },
-    "VTUD": {
-      "callsign": "Udon",
-      "coord": [
-        17.383056,
-        102.793889
-      ],
-	  "topdown": ["UDA","BC2N","BCNE","BCN","BC"]
-    },
-    "VTUI": {
-      "callsign": "Sakon Nakhon",
-      "coord": [
-        17.195186,
-        104.121367
-      ],
-	  "topdown": ["UIA","BC5N","BCNE","BCN","BC"]
-    },
-    "VTUK": {
-      "callsign": "Khon Kaen",
-      "coord": [
-        16.465278,
-        102.785556
-      ],
-	  "topdown": ["UKA","BC2N","BCNE","BCN","BC"]
-    },
-    "VTUL": {
-      "callsign": "Loei",
-      "coord": [
-        17.44972,
-        101.73306
-      ],
-	  "topdown": ["ULA","BC2N","BCNE","BCN","BC"]
-    },
-    "VTUN": {
-      "callsign": "Khorat",
-      "coord": [
-        14.96667,
-        102.08306
-      ],
-	  "topdown": ["UNA","BC6N","BCNE","BCN","BC"]
-    },
-    "VTUO": {
-      "callsign": "Buri Ram/Buri Ram Airport",
-      "coord": [
-        15.226767,
-        103.251225
-      ],
-	  "topdown": ["UNA","BC5N","BCNE","BCN","BC"]
-    },
-    "VTUQ": {
-      "callsign": "Ratchasima",
-      "coord": [
-        14.949497,
-        102.312739
-      ],
-	  "topdown": ["UQA","BC6N","BCNE","BCN","BC"]
-    },
-    "VTUU": {
-      "callsign": "Ubon Ratchathani",
-      "coord": [
-        15.248056,
-        104.871944
-      ],
-	  "topdown": ["UUA","BC5N","BCNE","BCN","BC"]
-    },
-    "VTUV": {
-      "callsign": "Roi Et/Roi Et Airport",
-      "coord": [
-        16.116761,
-        103.773797
-      ],
-	  "topdown": ["UVA","BC5N","BCNE","BCN","BC"]
-    },
-    "VTUW": {
-      "callsign": "Nakhon Phanom",
-      "coord": [
-        17.385278,
-        104.641944
-      ],
-	  "topdown": ["UWA","BC5N","BCNE","BCN","BC"]
-    }
-  },
   "airspace": [
     {
-      "id": "Bangkok Control Sector-6S",
+      "id": "Sector 6S",
       "group": "VTBB",
       "owner": [
         "BC6S",
         "BCSE",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -441,14 +94,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-6S",
+      "id": "Sector 6S",
       "group": "VTBB",
       "owner": [
         "BC6S",
         "BCSE",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -474,14 +127,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-6S",
+      "id": "Sector 6S",
       "group": "VTBB",
       "owner": [
         "BC6S",
         "BCSE",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -655,14 +308,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-6S",
+      "id": "Sector 6S",
       "group": "VTBB",
       "owner": [
         "BC6S",
         "BCSE",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -706,14 +359,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-6S",
+      "id": "Sector 6S",
       "group": "VTBB",
       "owner": [
         "BC6S",
         "BCSE",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -733,14 +386,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-6S",
+      "id": "Sector 6S",
       "group": "VTBB",
       "owner": [
         "BC6S",
         "BCSE",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1105,14 +758,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-6N",
+      "id": "Sector 6N",
       "group": "VTBB",
       "owner": [
         "BC6N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1187,14 +840,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-6N",
+      "id": "Sector 6N",
       "group": "VTBB",
       "owner": [
         "BC6N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1219,14 +872,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-6N",
+      "id": "Sector 6N",
       "group": "VTBB",
       "owner": [
         "BC6N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1279,14 +932,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-6N",
+      "id": "Sector 6N",
       "group": "VTBB",
       "owner": [
         "BC6N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1309,14 +962,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-5S",
+      "id": "Sector 5S",
       "group": "VTBB",
       "owner": [
         "BC5S",
         "BCSE",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1381,14 +1034,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-5S",
+      "id": "Sector 5S",
       "group": "VTBB",
       "owner": [
         "BC5S",
         "BCSE",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1444,14 +1097,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-5S",
+      "id": "Sector 5S",
       "group": "VTBB",
       "owner": [
         "BC5S",
         "BCSE",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1510,14 +1163,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-5S",
+      "id": "Sector 5S",
       "group": "VTBB",
       "owner": [
         "BC5S",
         "BCSE",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1557,14 +1210,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-5N",
+      "id": "Sector 5N",
       "group": "VTBB",
       "owner": [
         "BC5N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1637,14 +1290,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-5N",
+      "id": "Sector 5N",
       "group": "VTBB",
       "owner": [
         "BC5N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1694,14 +1347,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-5N",
+      "id": "Sector 5N",
       "group": "VTBB",
       "owner": [
         "BC5N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1757,14 +1410,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-5N",
+      "id": "Sector 5N",
       "group": "VTBB",
       "owner": [
         "BC5N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1940,14 +1593,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-5N",
+      "id": "Sector 5N",
       "group": "VTBB",
       "owner": [
         "BC5N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -1989,14 +1642,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-5N",
+      "id": "Sector 5N",
       "group": "VTBB",
       "owner": [
         "BC5N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2062,14 +1715,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-4S",
+      "id": "Sector 4S",
       "group": "VTBB",
       "owner": [
         "BC4S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2143,14 +1796,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-4S",
+      "id": "Sector 4S",
       "group": "VTBB",
       "owner": [
         "BC4S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2193,14 +1846,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-4N",
+      "id": "Sector 4N",
       "group": "VTBB",
       "owner": [
         "BC4N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2258,14 +1911,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-4N",
+      "id": "Sector 4N",
       "group": "VTBB",
       "owner": [
         "BC4N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2286,14 +1939,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-4N",
+      "id": "Sector 4N",
       "group": "VTBB",
       "owner": [
         "BC4N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2334,14 +1987,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-4N",
+      "id": "Sector 4N",
       "group": "VTBB",
       "owner": [
         "BC4N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2372,14 +2025,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3S",
+      "id": "Sector 3S",
       "group": "VTBB",
       "owner": [
         "BC3S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2400,14 +2053,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3S",
+      "id": "Sector 3S",
       "group": "VTBB",
       "owner": [
         "BC3S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2430,14 +2083,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3S",
+      "id": "Sector 3S",
       "group": "VTBB",
       "owner": [
         "BC3S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2557,14 +2210,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3S",
+      "id": "Sector 3S",
       "group": "VTBB",
       "owner": [
         "BC3S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2632,14 +2285,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3S",
+      "id": "Sector 3S",
       "group": "VTBB",
       "owner": [
         "BC3S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2720,14 +2373,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3S",
+      "id": "Sector 3S",
       "group": "VTBB",
       "owner": [
         "BC3S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2744,14 +2397,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3S",
+      "id": "Sector 3S",
       "group": "VTBB",
       "owner": [
         "BC3S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2808,14 +2461,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3S",
+      "id": "Sector 3S",
       "group": "VTBB",
       "owner": [
         "BC3S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2842,14 +2495,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3S",
+      "id": "Sector 3S",
       "group": "VTBB",
       "owner": [
         "BC3S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2881,14 +2534,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3N",
+      "id": "Sector 3N",
       "group": "VTBB",
       "owner": [
         "BC3N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2908,14 +2561,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3N",
+      "id": "Sector 3N",
       "group": "VTBB",
       "owner": [
         "BC3N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -2986,14 +2639,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3N",
+      "id": "Sector 3N",
       "group": "VTBB",
       "owner": [
         "BC3N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3015,14 +2668,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3N",
+      "id": "Sector 3N",
       "group": "VTBB",
       "owner": [
         "BC3N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3041,14 +2694,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3N",
+      "id": "Sector 3N",
       "group": "VTBB",
       "owner": [
         "BC3N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3115,14 +2768,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3N",
+      "id": "Sector 3N",
       "group": "VTBB",
       "owner": [
         "BC3N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3169,14 +2822,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-3N",
+      "id": "Sector 3N",
       "group": "VTBB",
       "owner": [
         "BC3N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3202,14 +2855,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-2S",
+      "id": "Sector 2S",
       "group": "VTBB",
       "owner": [
         "BC2S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3237,14 +2890,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-2N",
+      "id": "Sector 2N",
       "group": "VTBB",
       "owner": [
         "BC2N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3266,14 +2919,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-2N",
+      "id": "Sector 2N",
       "group": "VTBB",
       "owner": [
         "BC2N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3300,14 +2953,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-2N",
+      "id": "Sector 2N",
       "group": "VTBB",
       "owner": [
         "BC2N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3443,14 +3096,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-2N",
+      "id": "Sector 2N",
       "group": "VTBB",
       "owner": [
         "BC2N",
         "BCNE",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3498,14 +3151,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-1S",
+      "id": "Sector 1S",
       "group": "VTBB",
       "owner": [
         "BC1S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3587,14 +3240,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-1S",
+      "id": "Sector 1S",
       "group": "VTBB",
       "owner": [
         "BC1S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3650,14 +3303,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-1S",
+      "id": "Sector 1S",
       "group": "VTBB",
       "owner": [
         "BC1S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3673,14 +3326,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-1S",
+      "id": "Sector 1S",
       "group": "VTBB",
       "owner": [
         "BC1S",
         "BCSW",
         "BCS",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3715,14 +3368,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-1N",
+      "id": "Sector 1N",
       "group": "VTBB",
       "owner": [
         "BC1N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -3744,14 +3397,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-1N",
+      "id": "Sector 1N",
       "group": "VTBB",
       "owner": [
         "BC1N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -4043,14 +3696,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-1N",
+      "id": "Sector 1N",
       "group": "VTBB",
       "owner": [
         "BC1N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -4101,14 +3754,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-1N",
+      "id": "Sector 1N",
       "group": "VTBB",
       "owner": [
         "BC1N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -4127,14 +3780,14 @@
       ]
     },
     {
-      "id": "Bangkok Control Sector-1N",
+      "id": "Sector 1N",
       "group": "VTBB",
       "owner": [
         "BC1N",
         "BCNW",
         "BCN",
         "BC",
-        "ZZ"
+        "fss/ASEAN"
       ],
       "sectors": [
         {
@@ -4227,8 +3880,8 @@
       ]
     },
     {
-      "id": "Udon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Udon",
+      "group": "APP",
       "owner": [
         "UDA",
         "BC2N",
@@ -4292,8 +3945,8 @@
       ]
     },
     {
-      "id": "Udon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Udon",
+      "group": "APP",
       "owner": [
         "UDA",
         "BC2N",
@@ -4359,8 +4012,8 @@
       ]
     },
     {
-      "id": "Udon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Udon",
+      "group": "APP",
       "owner": [
         "UDA",
         "BC2N",
@@ -4427,8 +4080,8 @@
       ]
     },
     {
-      "id": "Ubon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Ubon",
+      "group": "APP",
       "owner": [
         "UUA",
         "BC5N",
@@ -4489,8 +4142,8 @@
       ]
     },
     {
-      "id": "Ubon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Ubon",
+      "group": "APP",
       "owner": [
         "UUA",
         "BC5N",
@@ -4551,8 +4204,8 @@
       ]
     },
     {
-      "id": "Ubon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Ubon",
+      "group": "APP",
       "owner": [
         "UUA",
         "BC5N",
@@ -4611,8 +4264,8 @@
       ]
     },
     {
-      "id": "U-Tapao TMA",
-      "group": "VTBB",
+      "id": "U-TAPAO",
+      "group": "APP",
       "owner": [
         "BUA",
         "BC5S",
@@ -4681,8 +4334,8 @@
       ]
     },
     {
-      "id": "U-Tapao TMA",
-      "group": "VTBB",
+      "id": "U-TAPAO",
+      "group": "APP",
       "owner": [
         "BUA",
         "BC5S",
@@ -4747,8 +4400,8 @@
       ]
     },
     {
-      "id": "U-Tapao TMA",
-      "group": "VTBB",
+      "id": "U-TAPAO",
+      "group": "APP",
       "owner": [
         "BUA",
         "BC5S",
@@ -4819,8 +4472,8 @@
       ]
     },
     {
-      "id": "Trat Terminal Control Area",
-      "group": "VTBB",
+      "id": "TRAT",
+      "group": "APP",
       "owner": [
         "BOA",
         "BC5S",
@@ -4884,8 +4537,8 @@
       ]
     },
     {
-      "id": "Trat Terminal Control Area",
-      "group": "VTBB",
+      "id": "TRAT",
+      "group": "APP",
       "owner": [
         "BOA",
         "BC5S",
@@ -4949,8 +4602,8 @@
       ]
     },
     {
-      "id": "Trat Terminal Control Area",
-      "group": "VTBB",
+      "id": "TRAT",
+      "group": "APP",
       "owner": [
         "BOA",
         "BC5S",
@@ -5015,8 +4668,8 @@
       ]
     },
     {
-      "id": "Trang Terminal Control Area",
-      "group": "VTBB",
+      "id": "Trang",
+      "group": "APP",
       "owner": [
         "STA",
         "BC3S",
@@ -5078,8 +4731,8 @@
       ]
     },
     {
-      "id": "Trang Terminal Control Area",
-      "group": "VTBB",
+      "id": "Trang",
+      "group": "APP",
       "owner": [
         "STA",
         "BC3S",
@@ -5144,8 +4797,8 @@
       ]
     },
     {
-      "id": "Trang Terminal Control Area",
-      "group": "VTBB",
+      "id": "Trang",
+      "group": "APP",
       "owner": [
         "STA",
         "BC3S",
@@ -5209,8 +4862,8 @@
       ]
     },
     {
-      "id": "Takhli Control Zone",
-      "group": "VTBB",
+      "id": "Takhli",
+      "group": "APP",
       "owner": [
         "PIA",
         "BC3N",
@@ -5291,8 +4944,8 @@
       ]
     },
     {
-      "id": "Takhli Control Zone",
-      "group": "VTBB",
+      "id": "Takhli",
+      "group": "APP",
       "owner": [
         "PIA",
         "BC3N",
@@ -5353,8 +5006,8 @@
       ]
     },
     {
-      "id": "Takhli Control Zone",
-      "group": "VTBB",
+      "id": "Takhli",
+      "group": "APP",
       "owner": [
         "PIA",
         "BC3N",
@@ -5433,8 +5086,198 @@
       ]
     },
     {
-      "id": "Surat Thani Terminal Control Area",
-      "group": "VTBB",
+      "id": "Tak",
+      "group": "APP",
+      "owner": [
+        "PTA",
+        "BC1N",
+        "BCNW",
+        "BCN",
+        "BC"
+      ],
+      "sectors": [
+        {
+          "min": 0,
+          "max": 19,
+          "points": [
+            ["164601","0993836"],
+            ["165553","0994046"],
+            ["165629","0993550"],
+            ["165704","0993545"],
+            ["170007","0993459"],
+            ["170301","0993344"],
+            ["170542","0993201"],
+            ["170805","0992954"],
+            ["171008","0992724"],
+            ["171146","0992436"],
+            ["171258","0992135"],
+            ["171342","0991823"],
+            ["171357","0991507"],
+            ["170357","0991507"],
+            ["170350","0991645"],
+            ["170328","0991821"],
+            ["170252","0991952"],
+            ["170203","0992116"],
+            ["170102","0992231"],
+            ["165950","0992334"],
+            ["165830","0992426"],
+            ["165703","0992503"],
+            ["165531","0992526"],
+            ["165357","0992534"],
+            ["165224","0992526"],
+            ["165052","0992503"],
+            ["164925","0992426"],
+            ["164805","0992334"],
+            ["164654","0992231"],
+            ["164553","0992116"],
+            ["164503","0991952"],
+            ["164427","0991821"],
+            ["164406","0991645"],
+            ["164358","0991507"],
+            ["163359","0991507"],
+            ["163413","0991823"],
+            ["163457","0992135"],
+            ["163609","0992436"],
+            ["163747","0992724"],
+            ["163949","0992954"],
+            ["164212","0993201"],
+            ["164452","0993344"],
+            ["164632","0993430"],
+            ["164601","0993836"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Tak",
+      "group": "APP",
+      "owner": [
+        "PTA",
+        "BC1N",
+        "BCNW",
+        "BCN",
+        "BC"
+      ],
+      "sectors": [
+        {
+          "min": 0,
+          "max": 19,
+          "points": [
+            ["164358","0991507"],
+            ["164406","0991329"],
+            ["164427","0991154"],
+            ["164503","0991023"],
+            ["164553","0990859"],
+            ["164654","0990744"],
+            ["164805","0990640"],
+            ["164925","0990549"],
+            ["165052","0990511"],
+            ["165224","0990448"],
+            ["165357","0990441"],
+            ["165531","0990448"],
+            ["165703","0990511"],
+            ["165830","0990549"],
+            ["165950","0990640"],
+            ["170102","0990744"],
+            ["170203","0990859"],
+            ["170252","0991023"],
+            ["170328","0991154"],
+            ["170350","0991329"],
+            ["170357","0991507"],
+            ["171357","0991507"],
+            ["171342","0991151"],
+            ["171258","0990840"],
+            ["171146","0990538"],
+            ["171008","0990251"],
+            ["170805","0990021"],
+            ["170542","0985813"],
+            ["170301","0985631"],
+            ["170007","0985515"],
+            ["165704","0985430"],
+            ["165357","0985414"],
+            ["165305","0985348"],
+            ["165049","0985430"],
+            ["164746","0985515"],
+            ["164452","0985631"],
+            ["164305","0985648"],
+            ["164212","0985813"],
+            ["163949","0990021"],
+            ["163747","0990251"],
+            ["163609","0990538"],
+            ["163457","0990840"],
+            ["163413","0991151"],
+            ["163359","0991507"],
+            ["164358","0991507"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Tak",
+      "group": "APP",
+      "owner": [
+        "PTA",
+        "BC1N",
+        "BCNW",
+        "BCN",
+        "BC"
+      ],
+      "sectors": [
+        {
+          "min": 20,
+          "max": 109,
+          "points": [
+            ["163359","0991507"],
+            ["163413","0991823"],
+            ["163457","0992135"],
+            ["163609","0992436"],
+            ["163747","0992724"],
+            ["163949","0992954"],
+            ["164212","0993201"],
+            ["164452","0993344"],
+            ["164632","0993430"],
+            ["164601","0993836"],
+            ["165553","0994046"],
+            ["165629","0993550"],
+            ["165704","0993545"],
+            ["170007","0993459"],
+            ["170301","0993344"],
+            ["170542","0993201"],
+            ["170805","0992954"],
+            ["171008","0992724"],
+            ["171146","0992436"],
+            ["171258","0992135"],
+            ["171342","0991823"],
+            ["171357","0991507"],
+            ["171342","0991151"],
+            ["171258","0990840"],
+            ["171146","0990538"],
+            ["171008","0990251"],
+            ["170805","0990021"],
+            ["170542","0985813"],
+            ["170301","0985631"],
+            ["170007","0985515"],
+            ["165704","0985430"],
+            ["165357","0985414"],
+            ["165305","0985348"],
+            ["165049","0985430"],
+            ["164746","0985515"],
+            ["164452","0985631"],
+            ["164305","0985648"],
+            ["164212","0985813"],
+            ["163949","0990021"],
+            ["163747","0990251"],
+            ["163609","0990538"],
+            ["163457","0990840"],
+            ["163413","0991151"],
+            ["163359","0991507"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Surat Thani",
+      "group": "APP",
       "owner": [
         "SBA",
         "BC3S",
@@ -5503,8 +5346,8 @@
       ]
     },
     {
-      "id": "Surat Thani Terminal Control Area",
-      "group": "VTBB",
+      "id": "Surat Thani",
+      "group": "APP",
       "owner": [
         "SBA",
         "BC3S",
@@ -5571,8 +5414,8 @@
       ]
     },
     {
-      "id": "Surat Thani Terminal Control Area",
-      "group": "VTBB",
+      "id": "Surat Thani",
+      "group": "APP",
       "owner": [
         "SBA",
         "BC3S",
@@ -5645,8 +5488,8 @@
       ]
     },
     {
-      "id": "Sukhothai Terminal Control Area",
-      "group": "VTBB",
+      "id": "Sukhothai",
+      "group": "APP",
       "owner": [
         "POA",
         "BC1N",
@@ -5741,8 +5584,8 @@
       ]
     },
     {
-      "id": "Sukhothai Terminal Control Area",
-      "group": "VTBB",
+      "id": "Sukhothai",
+      "group": "APP",
       "owner": [
         "POA",
         "BC1N",
@@ -5804,8 +5647,8 @@
       ]
     },
     {
-      "id": "Samui Terminal Control Area",
-      "group": "VTBB",
+      "id": "Samui",
+      "group": "APP",
       "owner": [
         "SMA",
         "BC3S",
@@ -5870,8 +5713,8 @@
       ]
     },
     {
-      "id": "Samui Terminal Control Area",
-      "group": "VTBB",
+      "id": "Samui",
+      "group": "APP",
       "owner": [
         "SMA",
         "BC3S",
@@ -5936,8 +5779,8 @@
       ]
     },
     {
-      "id": "Samui Terminal Control Area",
-      "group": "VTBB",
+      "id": "Samui",
+      "group": "APP",
       "owner": [
         "SMA",
         "BC3S",
@@ -6004,8 +5847,8 @@
       ]
     },
     {
-      "id": "Sakon Nakhon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Sakon Nakhon",
+      "group": "APP",
       "owner": [
         "UIA",
         "BC5N",
@@ -6083,8 +5926,8 @@
       ]
     },
     {
-      "id": "Sakon Nakhon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Sakon Nakhon",
+      "group": "APP",
       "owner": [
         "UIA",
         "BC5N",
@@ -6145,8 +5988,8 @@
       ]
     },
     {
-      "id": "Sakon Nakhon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Sakon Nakhon",
+      "group": "APP",
       "owner": [
         "UIA",
         "BC5N",
@@ -6193,8 +6036,8 @@
       ]
     },
     {
-      "id": "ROIET Terminal Control Area",
-      "group": "VTBB",
+      "id": "ROIET",
+      "group": "APP",
       "owner": [
         "UVA",
         "BC5N",
@@ -6258,8 +6101,8 @@
       ]
     },
     {
-      "id": "ROIET Terminal Control Area",
-      "group": "VTBB",
+      "id": "ROIET",
+      "group": "APP",
       "owner": [
         "UVA",
         "BC5N",
@@ -6320,8 +6163,8 @@
       ]
     },
     {
-      "id": "ROIET Terminal Control Area",
-      "group": "VTBB",
+      "id": "ROIET",
+      "group": "APP",
       "owner": [
         "UVA",
         "BC5N",
@@ -6383,8 +6226,8 @@
       ]
     },
     {
-      "id": "Ranong Terminal Control Area",
-      "group": "VTBB",
+      "id": "Ranong",
+      "group": "APP",
       "owner": [
         "SRA",
         "BC3S",
@@ -6446,8 +6289,8 @@
       ]
     },
     {
-      "id": "Ranong Terminal Control Area",
-      "group": "VTBB",
+      "id": "Ranong",
+      "group": "APP",
       "owner": [
         "SRA",
         "BC3S",
@@ -6506,8 +6349,8 @@
       ]
     },
     {
-      "id": "Ranong Terminal Control Area",
-      "group": "VTBB",
+      "id": "Ranong",
+      "group": "APP",
       "owner": [
         "SRA",
         "BC3S",
@@ -6565,8 +6408,8 @@
       ]
     },
     {
-      "id": "Phuket Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phuket",
+      "group": "APP",
       "owner": [
         "SPA",
         "BC4S",
@@ -6629,8 +6472,8 @@
       ]
     },
     {
-      "id": "Phuket Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phuket",
+      "group": "APP",
       "owner": [
         "SPA",
         "BC4S",
@@ -6693,8 +6536,8 @@
       ]
     },
     {
-      "id": "Phuket Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phuket",
+      "group": "APP",
       "owner": [
         "SPF",
         "SPA",
@@ -6758,8 +6601,8 @@
       ]
     },
     {
-      "id": "Phrae Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phrae",
+      "group": "APP",
       "owner": [
         "CPA",
         "BC1N",
@@ -6823,8 +6666,8 @@
       ]
     },
     {
-      "id": "Phrae Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phrae",
+      "group": "APP",
       "owner": [
         "CPA",
         "BC1N",
@@ -6888,8 +6731,8 @@
       ]
     },
     {
-      "id": "Phrae Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phrae",
+      "group": "APP",
       "owner": [
         "CPA",
         "BC1N",
@@ -6954,8 +6797,8 @@
       ]
     },
     {
-      "id": "Phitsanulok Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phitsanulok",
+      "group": "APP",
       "owner": [
         "PPA",
         "BC1N",
@@ -7019,8 +6862,8 @@
       ]
     },
     {
-      "id": "Phitsanulok Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phitsanulok",
+      "group": "APP",
       "owner": [
         "PPA",
         "BC1N",
@@ -7084,8 +6927,8 @@
       ]
     },
     {
-      "id": "Phitsanulok Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phitsanulok",
+      "group": "APP",
       "owner": [
         "PPA",
         "BC1N",
@@ -7150,8 +6993,8 @@
       ]
     },
     {
-      "id": "Phetchabun Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phetchabun",
+      "group": "APP",
       "owner": [
         "PBA",
         "BC2N",
@@ -7217,8 +7060,8 @@
       ]
     },
     {
-      "id": "Phetchabun Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phetchabun",
+      "group": "APP",
       "owner": [
         "PBA",
         "BC2N",
@@ -7288,8 +7131,8 @@
       ]
     },
     {
-      "id": "Phetchabun Terminal Control Area",
-      "group": "VTBB",
+      "id": "Phetchabun",
+      "group": "APP",
       "owner": [
         "PBA",
         "BC2N",
@@ -7362,8 +7205,8 @@
       ]
     },
     {
-      "id": "Pattani Terminal Control Area",
-      "group": "VTBB",
+      "id": "Pattani",
+      "group": "APP",
       "owner": [
         "SKA",
         "BC6S",
@@ -7412,8 +7255,8 @@
       ]
     },
     {
-      "id": "Pattani Terminal Control Area",
-      "group": "VTBB",
+      "id": "Pattani",
+      "group": "APP",
       "owner": [
         "SKA",
         "BC6S",
@@ -7463,8 +7306,8 @@
       ]
     },
     {
-      "id": "Pattani Terminal Control Area",
-      "group": "VTBB",
+      "id": "Pattani",
+      "group": "APP",
       "owner": [
         "SKA",
         "BC6S",
@@ -7500,8 +7343,8 @@
       ]
     },
     {
-      "id": "Narathiwat Terminal Control Area",
-      "group": "VTBB",
+      "id": "Narathiwat",
+      "group": "APP",
       "owner": [
         "SCA",
         "BC6S",
@@ -7565,8 +7408,8 @@
       ]
     },
     {
-      "id": "Narathiwat Terminal Control Area",
-      "group": "VTBB",
+      "id": "Narathiwat",
+      "group": "APP",
       "owner": [
         "SCA",
         "BC6S",
@@ -7625,8 +7468,8 @@
       ]
     },
     {
-      "id": "Narathiwat Terminal Control Area",
-      "group": "VTBB",
+      "id": "Narathiwat",
+      "group": "APP",
       "owner": [
         "SCA",
         "BC6S",
@@ -7754,8 +7597,8 @@
       ]
     },
     {
-      "id": "Narathiwat Terminal Control Area",
-      "group": "VTBB",
+      "id": "Narathiwat",
+      "group": "APP",
       "owner": [
         "SCA",
         "BC6S",
@@ -7945,8 +7788,8 @@
       ]
     },
     {
-      "id": "Nan Terminal Control Area",
-      "group": "VTBB",
+      "id": "Nan",
+      "group": "APP",
       "owner": [
         "CNA",
         "BC1N",
@@ -8012,8 +7855,8 @@
       ]
     },
     {
-      "id": "Nan Terminal Control Area",
-      "group": "VTBB",
+      "id": "Nan",
+      "group": "APP",
       "owner": [
         "CNA",
         "BC1N",
@@ -8072,8 +7915,8 @@
       ]
     },
     {
-      "id": "Nan Terminal Control Area",
-      "group": "VTBB",
+      "id": "Nan",
+      "group": "APP",
       "owner": [
         "CNA",
         "BC1N",
@@ -8135,8 +7978,8 @@
       ]
     },
     {
-      "id": "Nakhon Si Terminal Control Area",
-      "group": "VTBB",
+      "id": "Nakhon Si",
+      "group": "APP",
       "owner": [
         "SFA",
         "BC3S",
@@ -8205,8 +8048,8 @@
       ]
     },
     {
-      "id": "Nakhon Si Terminal Control Area",
-      "group": "VTBB",
+      "id": "Nakhon Si",
+      "group": "APP",
       "owner": [
         "SFA",
         "BC3S",
@@ -8265,8 +8108,8 @@
       ]
     },
     {
-      "id": "Nakhon Si Terminal Control Area",
-      "group": "VTBB",
+      "id": "Nakhon Si",
+      "group": "APP",
       "owner": [
         "SFA",
         "BC3S",
@@ -8331,8 +8174,8 @@
       ]
     },
     {
-      "id": "Mae Sot Terminal Control Area",
-      "group": "VTBB",
+      "id": "Mae Sot",
+      "group": "APP",
       "owner": [
         "PMA",
         "BC1N",
@@ -8401,8 +8244,8 @@
       ]
     },
     {
-      "id": "Mae Sot Terminal Control Area",
-      "group": "VTBB",
+      "id": "Mae Sot",
+      "group": "APP",
       "owner": [
         "PMA",
         "BC1N",
@@ -8454,8 +8297,8 @@
       ]
     },
     {
-      "id": "Mae Hong Son Terminal Control Area",
-      "group": "VTBB",
+      "id": "Mae Hong Son",
+      "group": "APP",
       "owner": [
         "CHA",
         "BC1N",
@@ -8531,8 +8374,8 @@
       ]
     },
     {
-      "id": "Mae Hong Son Terminal Control Area",
-      "group": "VTBB",
+      "id": "Mae Hong Son",
+      "group": "APP",
       "owner": [
         "CHA",
         "BC1N",
@@ -8579,8 +8422,8 @@
       ]
     },
     {
-      "id": "Loei Terminal Control Area",
-      "group": "VTBB",
+      "id": "Loei",
+      "group": "APP",
       "owner": [
         "ULA",
         "BC2N",
@@ -8643,8 +8486,8 @@
       ]
     },
     {
-      "id": "Loei Terminal Control Area",
-      "group": "VTBB",
+      "id": "Loei",
+      "group": "APP",
       "owner": [
         "ULA",
         "BC2N",
@@ -8708,8 +8551,8 @@
       ]
     },
     {
-      "id": "Loei Terminal Control Area",
-      "group": "VTBB",
+      "id": "Loei",
+      "group": "APP",
       "owner": [
         "ULA",
         "BC2N",
@@ -8773,8 +8616,8 @@
       ]
     },
     {
-      "id": "Lampang Terminal Control Area",
-      "group": "VTBB",
+      "id": "Lampang",
+      "group": "APP",
       "owner": [
         "CLA",
         "BC1N",
@@ -8848,8 +8691,8 @@
       ]
     },
     {
-      "id": "Lampang Terminal Control Area",
-      "group": "VTBB",
+      "id": "Lampang",
+      "group": "APP",
       "owner": [
         "CLA",
         "BC1N",
@@ -8899,8 +8742,8 @@
       ]
     },
     {
-      "id": "Krabi Terminal Control Area",
-      "group": "VTBB",
+      "id": "Krabi",
+      "group": "APP",
       "owner": [
         "SGA",
         "BC3S",
@@ -8962,8 +8805,8 @@
       ]
     },
     {
-      "id": "Krabi Terminal Control Area",
-      "group": "VTBB",
+      "id": "Krabi",
+      "group": "APP",
       "owner": [
         "SGA",
         "BC3S",
@@ -9019,8 +8862,8 @@
       ]
     },
     {
-      "id": "Krabi Terminal Control Area",
-      "group": "VTBB",
+      "id": "Krabi",
+      "group": "APP",
       "owner": [
         "SGA",
         "BC3S",
@@ -9077,8 +8920,8 @@
       ]
     },
     {
-      "id": "Khorat Control Zone",
-      "group": "VTBB",
+      "id": "Khorat",
+      "group": "APP",
       "owner": [
         "UNA",
         "BC6N",
@@ -9121,8 +8964,8 @@
       ]
     },
     {
-      "id": "Khorat Control Zone",
-      "group": "VTBB",
+      "id": "Khorat",
+      "group": "APP",
       "owner": [
         "UNA",
         "BC6N",
@@ -9201,8 +9044,8 @@
       ]
     },
     {
-      "id": "Khorat Control Zone",
-      "group": "VTBB",
+      "id": "Khorat",
+      "group": "APP",
       "owner": [
         "UNA",
         "BC6N",
@@ -9250,8 +9093,8 @@
       ]
     },
     {
-      "id": "Khorat Control Zone",
-      "group": "VTBB",
+      "id": "Khorat",
+      "group": "APP",
       "owner": [
         "UNA",
         "BC6N",
@@ -9311,8 +9154,8 @@
       ]
     },
     {
-      "id": "Khon Kaen Terminal Control Area",
-      "group": "VTBB",
+      "id": "Khon Kaen",
+      "group": "APP",
       "owner": [
         "UKA",
         "BC2N",
@@ -9381,8 +9224,8 @@
       ]
     },
     {
-      "id": "Khon Kaen Terminal Control Area",
-      "group": "VTBB",
+      "id": "Khon Kaen",
+      "group": "APP",
       "owner": [
         "UKA",
         "BC2N",
@@ -9444,8 +9287,8 @@
       ]
     },
     {
-      "id": "Khon Kaen Terminal Control Area",
-      "group": "VTBB",
+      "id": "Khon Kaen",
+      "group": "APP",
       "owner": [
         "UKA",
         "BC2N",
@@ -9513,8 +9356,8 @@
       ]
     },
     {
-      "id": "Kamphaeng Control Zone",
-      "group": "VTBB",
+      "id": "Kamphaeng",
+      "group": "APP",
       "owner": [
         "BKA",
         "BC4N",
@@ -9581,8 +9424,8 @@
       ]
     },
     {
-      "id": "Kamphaeng Control Zone",
-      "group": "VTBB",
+      "id": "Kamphaeng",
+      "group": "APP",
       "owner": [
         "BKA",
         "BC4N",
@@ -9639,8 +9482,8 @@
       ]
     },
     {
-      "id": "Kamphaeng Control Zone",
-      "group": "VTBB",
+      "id": "Kamphaeng",
+      "group": "APP",
       "owner": [
         "BKA",
         "BC4N",
@@ -9701,8 +9544,8 @@
       ]
     },
     {
-      "id": "Hua Hin TMA",
-      "group": "VTBB",
+      "id": "Hua Hin",
+      "group": "APP",
       "owner": [
         "PHA",
         "BC1S",
@@ -9765,8 +9608,8 @@
       ]
     },
     {
-      "id": "Hua Hin TMA",
-      "group": "VTBB",
+      "id": "Hua Hin",
+      "group": "APP",
       "owner": [
         "PHA",
         "BC1S",
@@ -9828,8 +9671,8 @@
       ]
     },
     {
-      "id": "Hua Hin TMA",
-      "group": "VTBB",
+      "id": "Hua Hin",
+      "group": "APP",
       "owner": [
         "PHA",
         "BC1S",
@@ -9891,8 +9734,8 @@
       ]
     },
     {
-      "id": "Hat Yai TMA",
-      "group": "VTBB",
+      "id": "Hat Yai",
+      "group": "APP",
       "owner": [
         "SSA",
         "BC6S",
@@ -9967,8 +9810,8 @@
       ]
     },
     {
-      "id": "Hat Yai TMA",
-      "group": "VTBB",
+      "id": "Hat Yai",
+      "group": "APP",
       "owner": [
         "SSA",
         "BC6S",
@@ -10058,8 +9901,8 @@
       ]
     },
     {
-      "id": "Hat Yai TMA",
-      "group": "VTBB",
+      "id": "Hat Yai",
+      "group": "APP",
       "owner": [
         "SSA",
         "BC6S",
@@ -10161,8 +10004,8 @@
       ]
     },
     {
-      "id": "Chumphon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Chumphon",
+      "group": "APP",
       "owner": [
         "SEA",
         "BC3S",
@@ -10223,8 +10066,8 @@
       ]
     },
     {
-      "id": "Chumphon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Chumphon",
+      "group": "APP",
       "owner": [
         "SEA",
         "BC3S",
@@ -10289,8 +10132,8 @@
       ]
     },
     {
-      "id": "Chumphon Terminal Control Area",
-      "group": "VTBB",
+      "id": "Chumphon",
+      "group": "APP",
       "owner": [
         "SEA",
         "BC3S",
@@ -10353,8 +10196,8 @@
       ]
     },
     {
-      "id": "Chiang Rai TMA",
-      "group": "VTBB",
+      "id": "Chiang Rai",
+      "group": "APP",
       "owner": [
         "CTA",
         "BC1N",
@@ -10416,8 +10259,8 @@
       ]
     },
     {
-      "id": "Chiang Rai TMA",
-      "group": "VTBB",
+      "id": "Chiang Rai",
+      "group": "APP",
       "owner": [
         "CTA",
         "BC1N",
@@ -10474,8 +10317,8 @@
       ]
     },
     {
-      "id": "Chiang Rai TMA",
-      "group": "VTBB",
+      "id": "Chiang Rai",
+      "group": "APP",
       "owner": [
         "CTA",
         "BC1N",
@@ -10531,8 +10374,8 @@
       ]
     },
     {
-      "id": "Chiang Mai TMA",
-      "group": "VTBB",
+      "id": "Chiang Mai",
+      "group": "APP",
       "owner": [
         "CCA",
         "BC1N",
@@ -10569,8 +10412,8 @@
       ]
     },
     {
-      "id": "Chiang Mai TMA",
-      "group": "VTBB",
+      "id": "Chiang Mai",
+      "group": "APP",
       "owner": [
         "CCA",
         "BC1N",
@@ -10643,8 +10486,8 @@
       ]
     },
     {
-      "id": "Chiang Mai TMA",
-      "group": "VTBB",
+      "id": "Chiang Mai",
+      "group": "APP",
       "owner": [
         "CCA",
         "BC1N",
@@ -10687,8 +10530,8 @@
       ]
     },
     {
-      "id": "Chiang Mai TMA",
-      "group": "VTBB",
+      "id": "Chiang Mai",
+      "group": "APP",
       "owner": [
         "CCA",
         "BC1N",
@@ -10750,8 +10593,8 @@
       ]
     },
     {
-      "id": "Buri Ram Terminal Control Area",
-      "group": "VTBB",
+      "id": "Buri Ram",
+      "group": "APP",
       "owner": [
         "UOA",
         "BC5N",
@@ -10833,8 +10676,8 @@
       ]
     },
     {
-      "id": "Buri Ram Terminal Control Area",
-      "group": "VTBB",
+      "id": "Buri Ram",
+      "group": "APP",
       "owner": [
         "UOA",
         "BC5N",
@@ -10897,8 +10740,8 @@
       ]
     },
     {
-      "id": "Buri Ram Terminal Control Area",
-      "group": "VTBB",
+      "id": "Buri Ram",
+      "group": "APP",
       "owner": [
         "UOA",
         "BC5N",
@@ -10980,8 +10823,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA West S",
-      "group": "VTBB",
+      "id": "Bangkok West S",
+      "group": "APP",
       "owner": [
         "BAW",
         "BA",
@@ -11020,8 +10863,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA West S",
-      "group": "VTBB",
+      "id": "Bangkok West S",
+      "group": "APP",
       "owner": [
         "BAW",
         "BA",
@@ -11074,8 +10917,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA West S",
-      "group": "VTBB",
+      "id": "Bangkok West S",
+      "group": "APP",
       "owner": [
         "BAW",
         "BA",
@@ -11129,8 +10972,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA West N",
-      "group": "VTBB",
+      "id": "Bangkok West N",
+      "group": "APP",
       "owner": [
         "BAW",
         "BA",
@@ -11183,8 +11026,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA West N",
-      "group": "VTBB",
+      "id": "Bangkok West N",
+      "group": "APP",
       "owner": [
         "BAW",
         "BA",
@@ -11223,8 +11066,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA West N",
-      "group": "VTBB",
+      "id": "Bangkok West N",
+      "group": "APP",
       "owner": [
         "BAW",
         "BA",
@@ -11278,8 +11121,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA West NS",
-      "group": "VTBB",
+      "id": "Bangkok West NS",
+      "group": "APP",
       "owner": [
         "BAW",
         "BA",
@@ -11307,8 +11150,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA West",
-      "group": "VTBB",
+      "id": "Bangkok West",
+      "group": "APP",
       "owner": [
         "BAW",
         "BA",
@@ -11347,8 +11190,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA South-2 SL2",
-      "group": "VTBB",
+      "id": "Bangkok South-2 SL2",
+      "group": "APP",
       "owner": [
         "BAS2",
         "BAW",
@@ -11392,8 +11235,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA South-2 NSL",
-      "group": "VTBB",
+      "id": "Bangkok South-2 NSL",
+      "group": "APP",
       "owner": [
         "BAS2",
         "BAW",
@@ -11417,8 +11260,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA South-2 NL1",
-      "group": "VTBB",
+      "id": "Bangkok South-2 NL1",
+      "group": "APP",
       "owner": [
         "BAS2",
         "BAW",
@@ -11462,8 +11305,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA SOUTH2",
-      "group": "VTBB",
+      "id": "Bangkok SOUTH2",
+      "group": "APP",
       "owner": [
         "BAS2",
         "BAW",
@@ -11498,8 +11341,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA South-1 SL2",
-      "group": "VTBB",
+      "id": "Bangkok South-1 SL2",
+      "group": "APP",
       "owner": [
         "BAS",
         "BAE",
@@ -11534,8 +11377,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA South-1 SL1",
-      "group": "VTBB",
+      "id": "Bangkok South-1 SL1",
+      "group": "APP",
       "owner": [
         "BAS",
         "BAE",
@@ -11573,8 +11416,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA South-1 NL2",
-      "group": "VTBB",
+      "id": "Bangkok South-1 NL2",
+      "group": "APP",
       "owner": [
         "BAS",
         "BAE",
@@ -11609,8 +11452,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA South-1 NL1",
-      "group": "VTBB",
+      "id": "Bangkok South-1 NL1",
+      "group": "APP",
       "owner": [
         "BAS",
         "BAE",
@@ -11650,8 +11493,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA South",
-      "group": "VTBB",
+      "id": "Bangkok South",
+      "group": "APP",
       "owner": [
         "BAS",
         "BAE",
@@ -11684,8 +11527,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA North S",
-      "group": "VTBB",
+      "id": "Bangkok North S",
+      "group": "APP",
       "owner": [
         "BAN",
         "BAW",
@@ -11724,8 +11567,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA North S",
-      "group": "VTBB",
+      "id": "Bangkok North S",
+      "group": "APP",
       "owner": [
         "BAN",
         "BAW",
@@ -11785,8 +11628,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA North N",
-      "group": "VTBB",
+      "id": "Bangkok North N",
+      "group": "APP",
       "owner": [
         "BAN",
         "BAW",
@@ -11825,8 +11668,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA North N",
-      "group": "VTBB",
+      "id": "Bangkok North N",
+      "group": "APP",
       "owner": [
         "BAN",
         "BAW",
@@ -11887,8 +11730,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA North L1",
-      "group": "VTBB",
+      "id": "Bangkok North L1",
+      "group": "APP",
       "owner": [
         "BAN",
         "BAW",
@@ -11923,8 +11766,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA NORTH",
-      "group": "VTBB",
+      "id": "Bangkok NORTH",
+      "group": "APP",
       "owner": [
         "BAN",
         "BAW",
@@ -11965,8 +11808,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA East-2 S",
-      "group": "VTBB",
+      "id": "Bangkok East-2 S",
+      "group": "APP",
       "owner": [
         "BAE2",
         "BAE",
@@ -11996,8 +11839,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA East-2 S",
-      "group": "VTBB",
+      "id": "Bangkok East-2 S",
+      "group": "APP",
       "owner": [
         "BAE2",
         "BAE",
@@ -12038,8 +11881,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA East-2 N",
-      "group": "VTBB",
+      "id": "Bangkok East-2 N",
+      "group": "APP",
       "owner": [
         "BAE2",
         "BAE",
@@ -12069,8 +11912,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA East-2 N",
-      "group": "VTBB",
+      "id": "Bangkok East-2 N",
+      "group": "APP",
       "owner": [
         "BAE2",
         "BAE",
@@ -12110,8 +11953,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA East2",
-      "group": "VTBB",
+      "id": "Bangkok East2",
+      "group": "APP",
       "owner": [
         "BAE2",
         "BAE",
@@ -12148,8 +11991,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA East-1 S",
-      "group": "VTBB",
+      "id": "Bangkok East-1 S",
+      "group": "APP",
       "owner": [
         "BAE",
         "BA",
@@ -12178,8 +12021,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA East-1 S",
-      "group": "VTBB",
+      "id": "Bangkok East-1 S",
+      "group": "APP",
       "owner": [
         "BAE",
         "BA",
@@ -12219,8 +12062,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA East-1 N",
-      "group": "VTBB",
+      "id": "Bangkok East-1 N",
+      "group": "APP",
       "owner": [
         "BAE",
         "BA",
@@ -12250,8 +12093,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA East-1 N",
-      "group": "VTBB",
+      "id": "Bangkok East-1 N",
+      "group": "APP",
       "owner": [
         "BAE",
         "BA",
@@ -12291,8 +12134,8 @@
       ]
     },
     {
-      "id": "Bangkok TMA East1",
-      "group": "VTBB",
+      "id": "Bangkok East1",
+      "group": "APP",
       "owner": [
         "BAE",
         "BA",
@@ -12330,8 +12173,8 @@
       ]
     },
     {
-      "id": "Don Mueang Departure Runway21",
-      "group": "VTBB",
+      "id": "Don Mueang",
+      "group": "DEP",
       "owner": [
         "DAP",
         "BAW",
@@ -12385,8 +12228,8 @@
       ]
     },
     {
-      "id": "Don Mueang Departure Runway21",
-      "group": "VTBB",
+      "id": "Don Mueang",
+      "group": "DEP",
       "owner": [
         "DAP",
         "BAW",
@@ -12432,8 +12275,8 @@
       ]
     },
     {
-      "id": "Don Mueang Departure Runway03",
-      "group": "VTBB",
+      "id": "Don Mueang",
+      "group": "DEP",
       "owner": [
         "DAP",
         "BAW",
@@ -12489,8 +12332,8 @@
       ]
     },
     {
-      "id": "Don Mueang Departure Runway03",
-      "group": "VTBB",
+      "id": "Don Mueang",
+      "group": "DEP",
       "owner": [
         "DAP",
         "BAW",
@@ -12534,8 +12377,8 @@
         }
       ]
     },{
-      "id": "Suvarnabhumi Departure Runway20",
-      "group": "VTBB",
+      "id": "Suvarnabhumi",
+      "group": "DEP",
       "owner": [
         "DSB",
         "BAE",
@@ -12571,8 +12414,8 @@
       ]
     },
     {
-      "id": "Suvarnabhumi Departure Runway20",
-      "group": "VTBB",
+      "id": "Suvarnabhumi",
+      "group": "DEP",
       "owner": [
         "DSB",
         "BAE",
@@ -12631,8 +12474,8 @@
       ]
     },
     {
-      "id": "Suvarnabhumi Departure Runway02",
-      "group": "VTBB",
+      "id": "Suvarnabhumi",
+      "group": "DEP",
       "owner": [
         "DSB",
         "BAE",
@@ -12677,8 +12520,8 @@
       ]
     },
     {
-      "id": "Suvarnabhumi Departure Runway02",
-      "group": "VTBB",
+      "id": "Suvarnabhumi",
+      "group": "DEP",
       "owner": [
         "DSB",
         "BAE",
@@ -12750,8 +12593,8 @@
       ]
     },
     {
-      "id": "Suvarnabhumi ARR Runway20",
-      "group": "VTBB",
+      "id": "Suvarnabhumi",
+      "group": "ARR",
       "owner": [
         "FIN",
         "ARR",
@@ -12794,8 +12637,8 @@
       ]
     },
     {
-      "id": "Suvarnabhumi ARR Runway20",
-      "group": "VTBB",
+      "id": "Suvarnabhumi",
+      "group": "ARR",
       "owner": [
         "FIN",
         "ARR",
@@ -12872,8 +12715,8 @@
       ]
     },
     {
-      "id": "Suvarnabhumi ARR Runway02",
-      "group": "VTBB",
+      "id": "Suvarnabhumi",
+      "group": "ARR",
       "owner": [
         "FIN",
         "ARR",
@@ -12910,8 +12753,8 @@
       ]
     },
     {
-      "id": "Don Mueang ARR Runway21",
-      "group": "VTBB",
+      "id": "Don Mueang",
+      "group": "ARR",
       "owner": [
         "DAR",
         "DAP",
@@ -12974,8 +12817,8 @@
       ]
     },
     {
-      "id": "Don Mueang ARR Runway21",
-      "group": "VTBB",
+      "id": "Don Mueang",
+      "group": "ARR",
       "owner": [
         "DAR",
         "DAP",
@@ -13022,8 +12865,8 @@
       ]
     },
     {
-      "id": "Don Mueang ARR Runway03",
-      "group": "VTBB",
+      "id": "Don Mueang",
+      "group": "ARR",
       "owner": [
         "DAR",
         "DAP",
@@ -13086,8 +12929,8 @@
       ]
     },
     {
-      "id": "Don Mueang ARR Runway03",
-      "group": "VTBB",
+      "id": "Don Mueang",
+      "group": "ARR",
       "owner": [
         "DAR",
         "DAP",
@@ -13137,8 +12980,8 @@
       ]
     },
     {
-      "id": "Udon Control Zone",
-      "group": "VTBB",
+      "id": "Udon",
+      "group": "TWR",
       "owner": [
         "UDT",
         "UDA",
@@ -13198,8 +13041,8 @@
       ]
     },
     {
-      "id": "Ubon Control Zone",
-      "group": "VTBB",
+      "id": "Ubon",
+      "group": "TWR",
       "owner": [
         "UUT",
         "UUA",
@@ -13259,8 +13102,8 @@
       ]
     },
     {
-      "id": "U-Tapao Control Zone",
-      "group": "VTBB",
+      "id": "U-TAPAO",
+      "group": "TWR",
       "owner": [
         "BUT",
         "BUA",
@@ -13320,8 +13163,8 @@
       ]
     },
     {
-      "id": "Trat Control Zone",
-      "group": "VTBB",
+      "id": "TRAT",
+      "group": "TWR",
       "owner": [
         "BOT",
         "BOA",
@@ -13381,8 +13224,8 @@
       ]
     },
     {
-      "id": "Trang Control Zone",
-      "group": "VTBB",
+      "id": "Trang",
+      "group": "TWR",
       "owner": [
         "STT",
         "STA",
@@ -13442,8 +13285,8 @@
       ]
     },
     {
-      "id": "Takhli TWR",
-      "group": "VTBB",
+      "id": "Takhli",
+      "group": "TWR",
       "owner": [
         "PIT",
         "PIA",
@@ -13503,8 +13346,69 @@
       ]
     },
     {
-      "id": "Suvarnabhumi ATZ West",
-      "group": "VTBB",
+      "id": "Tak",
+      "group": "TWR",
+      "owner": [
+        "PTT",
+        "PTA",
+        "BC1N",
+        "BCNW",
+        "BCN",
+        "BC"
+      ],
+      "sectors": [
+        {
+          "min": 0,
+          "max": 19,
+          "points": [
+            ["170357","0991507"],
+            ["170350","0991645"],
+            ["170328","0991821"],
+            ["170252","0991952"],
+            ["170203","0992116"],
+            ["170102","0992231"],
+            ["165950","0992334"],
+            ["165830","0992426"],
+            ["165703","0992503"],
+            ["165531","0992526"],
+            ["165357","0992534"],
+            ["165224","0992526"],
+            ["165052","0992503"],
+            ["164925","0992426"],
+            ["164805","0992334"],
+            ["164654","0992231"],
+            ["164553","0992116"],
+            ["164503","0991952"],
+            ["164427","0991821"],
+            ["164406","0991645"],
+            ["164358","0991507"],
+            ["164406","0991329"],
+            ["164427","0991154"],
+            ["164503","0991023"],
+            ["164553","0990859"],
+            ["164654","0990744"],
+            ["164805","0990640"],
+            ["164925","0990549"],
+            ["165052","0990511"],
+            ["165224","0990448"],
+            ["165357","0990441"],
+            ["165531","0990448"],
+            ["165703","0990511"],
+            ["165830","0990549"],
+            ["165950","0990640"],
+            ["170102","0990744"],
+            ["170203","0990859"],
+            ["170252","0991023"],
+            ["170328","0991154"],
+            ["170350","0991329"],
+            ["170357","0991507"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Suvarnabhumi",
+      "group": "TWR",
       "owner": [
         "BSTW",
         "BSTE",
@@ -13555,8 +13459,8 @@
       ]
     },
     {
-      "id": "Suvarnabhumi ATZ East",
-      "group": "VTBB",
+      "id": "Suvarnabhumi",
+      "group": "TWR",
       "owner": [
         "BSTE",
         "DSB",
@@ -13605,8 +13509,8 @@
       ]
     },
     {
-      "id": "Surat Thani Control Zone",
-      "group": "VTBB",
+      "id": "Surat Thani",
+      "group": "TWR",
       "owner": [
         "SBT",
         "SBA",
@@ -13666,8 +13570,8 @@
       ]
     },
     {
-      "id": "Sukhothai Control Zone",
-      "group": "VTBB",
+      "id": "Sukhothai",
+      "group": "TWR",
       "owner": [
         "POT",
         "POA",
@@ -13724,8 +13628,8 @@
       ]
     },
     {
-      "id": "Samui Control Zone",
-      "group": "VTBB",
+      "id": "Samui",
+      "group": "TWR",
       "owner": [
         "SMT",
         "SMA",
@@ -13785,8 +13689,8 @@
       ]
     },
     {
-      "id": "Sakon Nakhon Control Zone",
-      "group": "VTBB",
+      "id": "Sakon Nakhon",
+      "group": "TWR",
       "owner": [
         "UIT",
         "UIA",
@@ -13846,8 +13750,8 @@
       ]
     },
     {
-      "id": "ROIET Control Zone",
-      "group": "VTBB",
+      "id": "ROIET",
+      "group": "TWR",
       "owner": [
         "UVT",
         "UVA",
@@ -13907,8 +13811,8 @@
       ]
     },
     {
-      "id": "Ranong Control Zone",
-      "group": "VTBB",
+      "id": "Ranong",
+      "group": "TWR",
       "owner": [
         "SRT",
         "SRA",
@@ -13968,8 +13872,8 @@
       ]
     },
     {
-      "id": "Phuket Control Zone",
-      "group": "VTBB",
+      "id": "Phuket",
+      "group": "TWR",
       "owner": [
         "SPT",
         "SPF",
@@ -14030,8 +13934,8 @@
       ]
     },
     {
-      "id": "Phrae Control Zone",
-      "group": "VTBB",
+      "id": "Phrae",
+      "group": "TWR",
       "owner": [
         "CPT",
         "CPA",
@@ -14091,8 +13995,8 @@
       ]
     },
     {
-      "id": "Phitsanulok Control Zone",
-      "group": "VTBB",
+      "id": "Phitsanulok",
+      "group": "TWR",
       "owner": [
         "PPT",
         "PPA",
@@ -14152,8 +14056,8 @@
       ]
     },
     {
-      "id": "Phetchabun Control Zone",
-      "group": "VTBB",
+      "id": "Phetchabun",
+      "group": "TWR",
       "owner": [
         "PBT",
         "PBA",
@@ -14213,8 +14117,8 @@
       ]
     },
     {
-      "id": "Pattani Control Zone",
-      "group": "VTBB",
+      "id": "Pattani",
+      "group": "TWR",
       "owner": [
         "SKT",
         "SKA",
@@ -14274,8 +14178,8 @@
       ]
     },
     {
-      "id": "Narathiwat Control Zone",
-      "group": "VTBB",
+      "id": "Narathiwat",
+      "group": "TWR",
       "owner": [
         "SCT",
         "SCA",
@@ -14335,8 +14239,8 @@
       ]
     },
     {
-      "id": "Nan Control Zone",
-      "group": "VTBB",
+      "id": "Nan",
+      "group": "TWR",
       "owner": [
         "CNT",
         "CNA",
@@ -14396,8 +14300,8 @@
       ]
     },
     {
-      "id": "Nakhon Si Control Zone",
-      "group": "VTBB",
+      "id": "Nakhon Si",
+      "group": "TWR",
       "owner": [
         "SFT",
         "SFA",
@@ -14457,8 +14361,8 @@
       ]
     },
     {
-      "id": "NAKHON Ratchasima CTR",
-      "group": "VTBB",
+      "id": "NAKHON Ratchasima",
+      "group": "TWR",
       "owner": [
         "UQT",
         "UQA",
@@ -14503,8 +14407,8 @@
       ]
     },
     {
-      "id": "Nakhon Phanom Control Zone",
-      "group": "VTBB",
+      "id": "Nakhon Phanom",
+      "group": "TWR",
       "owner": [
         "UWT",
         "UIA",
@@ -14555,8 +14459,8 @@
       ]
     },
     {
-      "id": "Mae Sot Control Zone",
-      "group": "VTBB",
+      "id": "Mae Sot",
+      "group": "TWR",
       "owner": [
         "PMT",
         "PMA",
@@ -14597,8 +14501,8 @@
       ]
     },
     {
-      "id": "Mae Hong Son Control Zone",
-      "group": "VTBB",
+      "id": "Mae Hong Son",
+      "group": "TWR",
       "owner": [
         "CHT",
         "CHA",
@@ -14651,8 +14555,8 @@
       ]
     },
     {
-      "id": "Loei Control Zone",
-      "group": "VTBB",
+      "id": "Loei",
+      "group": "TWR",
       "owner": [
         "ULT",
         "ULA",
@@ -14712,8 +14616,8 @@
       ]
     },
     {
-      "id": "Lampang Control Zone",
-      "group": "VTBB",
+      "id": "Lampang",
+      "group": "TWR",
       "owner": [
         "CLT",
         "CLA",
@@ -14775,8 +14679,8 @@
       ]
     },
     {
-      "id": "Krabi Control Zone",
-      "group": "VTBB",
+      "id": "Krabi",
+      "group": "TWR",
       "owner": [
         "SGT",
         "SGA",
@@ -14836,8 +14740,8 @@
       ]
     },
     {
-      "id": "Khorat ATZ",
-      "group": "VTBB",
+      "id": "Khorat",
+      "group": "TWR",
       "owner": [
         "UNT",
         "UNA",
@@ -14883,8 +14787,8 @@
       ]
     },
     {
-      "id": "KHOR KATHIAM CTR",
-      "group": "VTBB",
+      "id": "KHOR KATHIAM",
+      "group": "TWR",
       "owner": [
         "BLT",
         "PIA",
@@ -14946,8 +14850,8 @@
       ]
     },
     {
-      "id": "Khon Kaen Control Zone",
-      "group": "VTBB",
+      "id": "Khon Kaen",
+      "group": "TWR",
       "owner": [
         "UKT",
         "UKA",
@@ -15007,8 +14911,8 @@
       ]
     },
     {
-      "id": "Kamphaeng ATZ",
-      "group": "VTBB",
+      "id": "Kamphaeng",
+      "group": "TWR",
       "owner": [
         "BKT",
         "BKA",
@@ -15068,8 +14972,8 @@
       ]
     },
     {
-      "id": "Hua Hin Control Zone",
-      "group": "VTBB",
+      "id": "Hua Hin",
+      "group": "TWR",
       "owner": [
         "PHT",
         "PHA",
@@ -15129,8 +15033,8 @@
       ]
     },
     {
-      "id": "Hat Yai CTR",
-      "group": "VTBB",
+      "id": "Hat Yai",
+      "group": "TWR",
       "owner": [
         "SST",
         "SSA",
@@ -15190,8 +15094,8 @@
       ]
     },
     {
-      "id": "Don Mueang ATZ",
-      "group": "VTBB",
+      "id": "Don Mueang",
+      "group": "TWR",
       "owner": [
         "BDT",
         "DAP",
@@ -15257,8 +15161,8 @@
       ]
     },
     {
-      "id": "Chumphon Control Zone",
-      "group": "VTBB",
+      "id": "Chumphon",
+      "group": "TWR",
       "owner": [
         "SET",
         "SEA",
@@ -15318,8 +15222,8 @@
       ]
     },
     {
-      "id": "Chiang Rai Control Zone",
-      "group": "VTBB",
+      "id": "Chiang Rai",
+      "group": "TWR",
       "owner": [
         "CTT",
         "CTA",
@@ -15379,8 +15283,8 @@
       ]
     },
     {
-      "id": "Chiang Mai CTR",
-      "group": "VTBB",
+      "id": "Chiang Mai",
+      "group": "TWR",
       "owner": [
         "CCT",
         "CCA",
@@ -15438,8 +15342,8 @@
       ]
     },
     {
-      "id": "Buri Ram Control Zone",
-      "group": "VTBB",
+      "id": "Buri Ram",
+      "group": "TWR",
       "owner": [
         "UOT",
         "UOA",
@@ -15499,8 +15403,8 @@
       ]
     },
     {
-      "id": "Betong Control Zone",
-      "group": "VTBB",
+      "id": "Betong",
+      "group": "TWR",
       "owner": [
         "SYT",
         "SCA",
@@ -15601,19 +15505,25 @@
       ]
     }
   ],
-  "callsigns": {
-    "APP": {
-      "": "Approach",
-      "F": "Arrival",
-      "F1": "Final"
-    },
-    "DEP": {
-      "": "Departure"
-    }
-  },
   "groups": {
     "VTBB": {
-      "name": "Thailand",
+      "name": "Bangkok",
+      "colour":  "#aa0000"
+    },
+    "APP": {
+      "name": "Approach",
+      "colour":  "#aa0000"
+    },
+    "ARR": {
+      "name": "Arrival",
+      "colour":  "#aa0000"
+    },
+    "DEP": {
+      "name": "Departure",
+      "colour":  "#aa0000"
+    },
+    "TWR": {
+      "name": "Tower",
       "colour":  "#aa0000"
     }
   },
@@ -16528,6 +16438,32 @@
         }
       ]
     },
+    "PTA": {
+      "callsign": "Tak Approach",
+      "frequency": "126.000",
+      "type": "APP",
+      "pre": [
+        "VTPT"
+      ],
+      "colours": [
+        {
+          "hex": "#00009f"
+        }
+      ]
+    },
+    "PTT": {
+      "callsign": "Tak Tower",
+      "frequency": "118.800",
+      "type": "TWR",
+      "pre": [
+        "VTPT"
+      ],
+      "colours": [
+        {
+          "hex": "#00e900"
+        }
+      ]
+    },
     "SBA": {
       "callsign": "Surat Thani Approach",
       "frequency": "123.350",
@@ -17112,45 +17048,364 @@
           "hex": "#00ec00"
         }
       ]
+    }
+  },
+  "callsigns": {
+    "APP": {
+      "": "Approach",
+      "F": "Arrival",
+      "F1": "Final"
     },
-    "ZZ": {
-      "callsign": "South East Asia Control",
-      "frequency": "135.350",
-      "type": "FSS",
-      "pre": [
-        "ASEA"
+    "DEP": {
+      "": "Departure"
+    }
+  },
+  "airports": {
+    "VTBD": {
+      "callsign": "Bangkok-Don Mueang Intl",
+      "coord": [
+        13.914444,
+        100.605556
       ],
-      "colours": [
-        {
-          "hex": "#001600"
-        }
-      ]
+	  "topdown": ["DDP","DAP","DAR","BAW","BA","BC3N","BCNW","BCN","BC"],
+      "runways": ["03","21"]
     },
-    "ZZN": {
-      "callsign": "South East Asia Control",
-      "frequency": "133.350",
-      "type": "FSS",
-      "pre": [
-        "ASEA"
+    "VTBK": {
+      "callsign": "Kamphaeng Saen",
+      "coord": [
+        14.101667,
+        99.916667
       ],
-      "colours": [
-        {
-          "hex": "#005f00"
-        }
-      ]
+	  "topdown": ["BKA","BC4N","BCNW","BCN","BC"]
     },
-    "ZZS": {
-      "callsign": "South East Asia Control",
-      "frequency": "136.225",
-      "type": "FSS",
-      "pre": [
-        "ASEA"
+    "VTBL": {
+      "callsign": "Khok Kathiam",
+      "coord": [
+        14.87,
+        100.663333
       ],
-      "colours": [
-        {
-          "hex": "#006300"
-        }
-      ]
+	  "topdown": ["PIA","BC3N","BCNW","BCN","BC"]
+    },
+    "VTBO": {
+      "callsign": "Trat",
+      "coord": [
+        12.275278,
+        102.32
+      ],
+	  "topdown": ["BOA","BC5S","BCSE","BCS","BC"]
+    },
+    "VTBS": {
+      "callsign": "Suvarnabhumi",
+      "coord": [
+        13.681111,
+        100.747222
+      ],
+	  "topdown": ["DBS","BAE","BA","BC3N","BCNW","BCN","BC"],
+      "runways": ["01/02","19/20"]
+    },
+    "VTBU": {
+      "callsign": "U-Thapao",
+      "coord": [
+        12.679589,
+        101.004728
+      ],
+	  "topdown": ["BUA","BC5S","BCSE","BCS","BC"]
+    },
+    "VTBW": {
+      "callsign": "Watthana Nakon",
+      "coord": [
+        13.768333,
+        102.311667
+      ],
+	  "topdown": ["BC5S","BCSE","BCS","BC"]
+    },
+    "VTCC": {
+      "callsign": "Chiang Mai",
+      "coord": [
+        18.771389,
+        98.962778
+      ],
+	  "topdown": ["CCA","BC1N","BCNW","BCN","BC"]
+    },
+    "VTCH": {
+      "callsign": "Mae Hong Son",
+      "coord": [
+        19.301667,
+        97.9775
+      ],
+	  "topdown": ["CCA","BC1N","BCNW","BCN","BC"]
+    },
+    "VTCL": {
+      "callsign": "Lampang",
+      "coord": [
+        18.272778,
+        99.506667
+      ],
+	  "topdown": ["CLA","BC1N","BCNW","BCN","BC"]
+    },
+    "VTCN": {
+      "callsign": "Nan",
+      "coord": [
+        18.807222,
+        100.785278
+      ],
+	  "topdown": ["CNA","BC1N","BCNW","BCN","BC"]
+    },
+    "VTCP": {
+      "callsign": "Phrae",
+      "coord": [
+        18.128611,
+        100.166667
+      ],
+	  "topdown": ["CPA","BC1N","BCNW","BCN","BC"]
+    },
+    "VTCT": {
+      "callsign": "Chiang Rai",
+      "coord": [
+        19.952317,
+        99.882994
+      ],
+	  "topdown": ["CTA","BC1N","BCNW","BCN","BC"]
+    },
+    "VTPB": {
+      "callsign": "Phetchabun",
+      "coord": [
+        16.675539,
+        101.195741
+      ],
+	  "topdown": ["CPA","BC2N","BCNE","BCS","BC"]
+    },
+    "VTPH": {
+      "callsign": "Hua Hin",
+      "coord": [
+        12.630556,
+        99.954444
+      ],
+	  "topdown": ["PHA","BC1S","BCSW","BCS","BC"]
+    },
+    "VTPI": {
+      "callsign": "Takhli",
+      "coord": [
+        15.277305,
+        100.295861
+      ],
+	  "topdown": ["PIA","BC3N","BCNW","BCN","BC"]
+    },
+    "VTPM": {
+      "callsign": "Mae Sot",
+      "coord": [
+        16.699722,
+        98.545278
+      ],
+	  "topdown": ["PMA","BC1N","BCNW","BCN","BC"]
+    },
+    "VTPO": {
+      "callsign": "Sukhothai",
+      "coord": [
+        17.238875,
+        99.815086
+      ],
+	  "topdown": ["POA","BC1N","BCNW","BCN","BC"]
+    },
+    "VTPP": {
+      "callsign": "Phitsanulok",
+      "coord": [
+        16.782397,
+        100.279058
+      ],
+	  "topdown": ["PPA","BC1N","BCNW","BCN","BC"]
+    },
+    "VTPT": {
+      "callsign": "Tak",
+      "coord": [
+        16.886389,
+        99.280556
+      ],
+	  "topdown": ["PTA","BC1N","BCNW","BCN","BC"]
+    },
+    "VTSB": {
+      "callsign": "Surat Thani",
+      "coord": [
+        9.133333,
+        99.140278
+      ],
+	  "topdown": ["SBA","BC3S","BCSW","BCS","BC"]
+    },
+    "VTSC": {
+      "callsign": "Narathiwat",
+      "coord": [
+        6.51988,
+        101.743525
+      ],
+	  "topdown": ["SCA","BC6S","BCSE","BCS","BC"]
+    },
+    "VTSE": {
+      "callsign": "Chumphon",
+      "coord": [
+        10.711203,
+        99.361711
+      ],
+	  "topdown": ["SEA","BC3S","BCSW","BCS","BC"]
+    },
+    "VTSF": {
+      "callsign": "Nakhon Si",
+      "coord": [
+        8.539617,
+        99.944725
+      ],
+	  "topdown": ["SFA","BC3S","BCSW","BCS","BC"]
+    },
+    "VTSG": {
+      "callsign": "Krabi",
+      "coord": [
+        8.100164,
+        98.985314
+      ],
+	  "topdown": ["SGA","BC3S","BCSW","BCS","BC"]
+    },
+    "VTSH": {
+      "callsign": "Songkhla",
+      "coord": [
+        7.186564,
+        100.60803
+      ],
+	  "topdown": ["SSA","BC6S","BCSE","BCS","BC"]
+    },
+    "VTSK": {
+      "callsign": "Pattani",
+      "coord": [
+        6.78306,
+        101.15
+      ],
+      "topdown": ["SKA","BC6S","BCSE","BCS","BC"]
+    },
+    "VTSM": {
+      "callsign": "Samui",
+      "coord": [
+        9.547667,
+        100.062447
+      ],
+	  "topdown": ["SMA","BC3S","BCSW","BCS","BC"]
+    },
+    "VTSP": {
+      "callsign": "Phuket",
+      "coord": [
+        8.112536,
+        98.309269
+      ],
+	  "topdown": ["SPF","SPA","BC4S","BCSW","BCS","BC"]
+    },
+    "VTSR": {
+      "callsign": "Ranong",
+      "coord": [
+        9.77745,
+        98.585278
+      ],
+	  "topdown": ["SRA","BC3S","BCSW","BCS","BC"]
+    },
+    "VTSS": {
+      "callsign": "Hat Yai",
+      "coord": [
+        6.932778,
+        100.395
+      ],
+	  "topdown": ["SSA","BC6S","BCSE","BCS","BC"]
+    },
+    "VTST": {
+      "callsign": "Trang",
+      "coord": [
+        7.508056,
+        99.625
+      ],
+	  "topdown": ["STA","BC3S","BCSW","BCS","BC"]
+    },
+    "VTSY": {
+      "callsign": "Betong",
+      "coord": [
+        54719.64,
+        1010849.77
+      ],
+	  "topdown": ["SCA","BC6S","BCSE","BCS","BC"]
+    },
+    "VTUD": {
+      "callsign": "Udon",
+      "coord": [
+        17.383056,
+        102.793889
+      ],
+	  "topdown": ["UDA","BC2N","BCNE","BCN","BC"]
+    },
+    "VTUI": {
+      "callsign": "Sakon Nakhon",
+      "coord": [
+        17.195186,
+        104.121367
+      ],
+	  "topdown": ["UIA","BC5N","BCNE","BCN","BC"]
+    },
+    "VTUK": {
+      "callsign": "Khon Kaen",
+      "coord": [
+        16.465278,
+        102.785556
+      ],
+	  "topdown": ["UKA","BC2N","BCNE","BCN","BC"]
+    },
+    "VTUL": {
+      "callsign": "Loei",
+      "coord": [
+        17.44972,
+        101.73306
+      ],
+	  "topdown": ["ULA","BC2N","BCNE","BCN","BC"]
+    },
+    "VTUN": {
+      "callsign": "Khorat",
+      "coord": [
+        14.96667,
+        102.08306
+      ],
+	  "topdown": ["UNA","BC6N","BCNE","BCN","BC"]
+    },
+    "VTUO": {
+      "callsign": "Buri Ram/Buri Ram Airport",
+      "coord": [
+        15.226767,
+        103.251225
+      ],
+	  "topdown": ["UNA","BC5N","BCNE","BCN","BC"]
+    },
+    "VTUQ": {
+      "callsign": "Ratchasima",
+      "coord": [
+        14.949497,
+        102.312739
+      ],
+	  "topdown": ["UQA","BC6N","BCNE","BCN","BC"]
+    },
+    "VTUU": {
+      "callsign": "Ubon Ratchathani",
+      "coord": [
+        15.248056,
+        104.871944
+      ],
+	  "topdown": ["UUA","BC5N","BCNE","BCN","BC"]
+    },
+    "VTUV": {
+      "callsign": "Roi Et/Roi Et Airport",
+      "coord": [
+        16.116761,
+        103.773797
+      ],
+	  "topdown": ["UVA","BC5N","BCNE","BCN","BC"]
+    },
+    "VTUW": {
+      "callsign": "Nakhon Phanom",
+      "coord": [
+        17.385278,
+        104.641944
+      ],
+	  "topdown": ["UWA","BC5N","BCNE","BCN","BC"]
     }
   }
 }
