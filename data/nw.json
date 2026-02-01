@@ -1,55 +1,11 @@
 {
   "airspace": [
     {
-      "id": "Oceanic (Class A)",
-      "group": "NFFF",
-      "owner": [
-        "WWN",
-        "nf/NFFF"
-      ],
-      "sectors": [
-        {
-          "min": 245,
-          "points": [
-            ["-220020","1661242"],
-            ["-240000","1685909"],
-            ["-240000","1630000"],
-            ["-205407","1630000"],
-            ["-220020","1661242"]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Oceanic (Class A)",
-      "group": "NFFF",
-      "owner": [
-        "WWN",
-        "nf/NFFF"
-      ],
-      "sectors": [
-        {
-          "min": 245,
-          "points": [
-            ["-140000","1611500"],
-            ["-140000","1630000"],
-            ["-210000","1703000"],
-            ["-240000","1703000"],
-            ["-240000","1685909"],
-            ["-220020","1661242"],
-            ["-205407","1630000"],
-            ["-174000","1630000"],
-            ["-140000","1611500"]
-          ]
-        }
-      ]
-    },
-    {
       "id": "Oceanic North (Class A)",
       "group": "NWWW",
       "owner": [
         "WWN",
-        "nf/NFFF"
+        "WWS"
       ],
       "sectors": [
         {
@@ -97,7 +53,7 @@
       "group": "NWWW",
       "owner": [
         "WWN",
-        "nf/NFFF"
+        "WWS"
       ],
       "sectors": [
         {
@@ -144,8 +100,8 @@
       "id": "Oceanic South (Class A)",
       "group": "NWWW",
       "owner": [
-        "WWN",
-        "nf/NFFF"
+        "WWS",
+        "WWN"
       ],
       "sectors": [
         {
@@ -192,8 +148,8 @@
       "id": "Oceanic South (Class D)",
       "group": "NWWW",
       "owner": [
-        "WWN",
-        "nf/NFFF"
+        "WWS",
+        "WWN"
       ],
       "sectors": [
         {
@@ -240,9 +196,8 @@
       "id": "Tontouta North",
       "group": "APP",
       "owner": [
-        "WWS",
         "WWN",
-        "nf/NFFF"
+        "WWS"
       ],
       "sectors": [
         {
@@ -282,10 +237,8 @@
       "id": "Tontouta South",
       "group": "APP",
       "owner": [
-        "WWA",
         "WWS",
-        "WWN",
-        "nf/NFFF"
+        "WWN"
       ],
       "sectors": [
         {
@@ -323,8 +276,7 @@
       "owner": [
         "WWA",
         "WWS",
-        "WWN",
-        "nf/NFFF"
+        "WWN"
       ],
       "sectors": [
         {
@@ -347,8 +299,7 @@
         "WMA",
         "WWA",
         "WWS",
-        "WWN",
-        "nf/NFFF"
+        "WWN"
       ],
       "sectors": [
         {
@@ -371,8 +322,7 @@
       "owner": [
         "WWA",
         "WWS",
-        "WWN",
-        "nf/NFFF"
+        "WWN"
       ],
       "sectors": [
         {
@@ -394,8 +344,7 @@
       "owner": [
         "WWL",
         "WWS",
-        "WWN",
-        "nf/NFFF"
+        "WWN"
       ],
       "sectors": [
         {
@@ -439,8 +388,7 @@
         "WWT",
         "WWA",
         "WWS",
-        "WWN",
-        "nf/NFFF"
+        "WWN"
       ],
       "sectors": [
         {
@@ -535,8 +483,7 @@
         "WMA",
         "WWA",
         "WWS",
-        "WWN",
-        "nf/NFFF"
+        "WWN"
       ],
       "sectors": [
         {
@@ -633,10 +580,6 @@
     }
   ],
   "groups": {
-    "NFFF": {
-      "name": "Nadi",
-      "colour": "#ffffff"
-    },
     "NWWW": {
       "name": "Tontouta",
       "colour": "#ffffff"
@@ -651,10 +594,10 @@
     }
   },
   "positions": {
-    "WWN": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "NWWW" ], "type": "CTR","frequency": "128.200","callsign": "Tontouta Control", "comment": "OCA/TCA North, Used as OCA North & South"},
-    "WWS": { "colours": [{ "hex": "#702716" }], "pre": [ "NWWW", "NWWW-A" ], "type": "APP","frequency": "128.300","callsign": "Tontouta Approach", "comment": "OCA/TCA South, Used as APP/TCA North" },
-    "WWA": { "colours": [{ "hex": "#702716" }], "pre": [ "NWWW", "NWWW-T" ], "type": "APP","frequency": "119.700","callsign": "Tontouta Approach", "comment": "APP, used as APP/TCA South" },
-    "WWL": { "colours": [{ "hex": "#ffffff" }], "pre": [ "NWWW", "NWWW-L" ], "type": "APP","frequency": "125.100","callsign": "Tontouta Approach", "comment": "Loyaute, Unused" },
+    "WWN": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "NWWW" ], "type": "APP","frequency": "128.200","callsign": "Tontouta Approach", "comment": "OCA/TCA North"},
+    "WWS": { "colours": [{ "hex": "#702716" }], "pre": [ "NWWW" ], "type": "APP","frequency": "128.300","callsign": "Tontouta Approach", "comment": "OCA/TCA South" },
+    "WWA": { "colours": [{ "hex": "#702716" }], "pre": [ "NWWW" ], "type": "APP","frequency": "119.700","callsign": "Tontouta Approach", "comment": "APP" },
+    "WWL": { "colours": [{ "hex": "#ffffff" }], "pre": [ "NWWW"], "type": "APP","frequency": "125.100","callsign": "Tontouta Approach", "comment": "Loyaute" },
     "WWT": { "colours": [{ "hex": "#ffffff" }], "pre": [ "NWWW" ], "type": "TWR","frequency": "118.100","callsign": "Tontouta Tower" },
     "WMA": { "colours": [{ "hex": "#ffffff" }], "pre": [ "NWWM" ], "type": "APP","frequency": "124.300","callsign": "Magenta Approach" },
     "WMT": { "colours": [{ "hex": "#ffffff" }], "pre": [ "NWWM" ], "type": "TWR","frequency": "118.300","callsign": "Magenta Tower" }
