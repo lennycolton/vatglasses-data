@@ -1,0 +1,33 @@
+{
+    "name": "<b>Default</b>",
+    "description": "All sectors combine directly into 2.",
+    "type": "ownership",
+    "airspace": {
+        "2": ["2"],
+        "3": ["3", "2"],
+        "4": ["4", "2"],
+        "5": ["5", "2"],
+        "6": ["6", "2"],
+        "7": ["7", "2"],
+        "H": ["H", "2"],
+        "L": ["L", "H", "2"],
+        "V": ["V", "H", "2"],
+        "T1": ["T1", "T2", "H", "2"],
+        "T2": ["T2", "T1", "H", "2"],
+        "ITO": ["ITO", "7", "2"],
+        "NGF": ["NGF", "3", "2"],
+        "OGGN": ["OGGN", "OGGS", "5", "2"],
+        "OGGS": ["OGGS", "OGGN", "5", "2"]
+    },
+    "airports": {
+        "PHIK": { "sector": "T2" },
+        "PHJR": { "sector": "H" },
+        "PHKO": { "sector": "2" },
+        "PHLI": { "sector": "2" },
+        "PHMK": { "sector": "2" },
+        "PHNG": { "sector": "NGF" },
+        "PHNL": { "sector": "T1" },
+        "PHOG": { "sector": "OGGS" },
+        "PHTO": { "sector": "ITO" }
+    }
+}
