@@ -712,10 +712,12 @@
         {
             "id": "Miami",
             "group": "FIR",
-            "owner": ["KZMO"],
+            "owner": ["KZMA"],
             "sectors": [
                 {
                     "points": [
+                        ["281110","-0762233"],
+                        ["274959","-0761551"],
                         ["274959","-0744959"],
                         ["250000","-0731200"],
                         ["250000","-0723307"],
@@ -732,44 +734,6 @@
                         ["200000","-0731959"],
                         ["220000","-0751000"],
                         ["223517","-0760000"],
-                        ["240000","-0780000"],
-                        ["240501","-0780735"],
-                        ["243845","-0775121"],
-                        ["244730","-0774708"],
-                        ["245259","-0774430"],
-                        ["250412","-0774534"],
-                        ["253759","-0774850"],
-                        ["260000","-0783029"],
-                        ["260700","-0783806"],
-                        ["263000","-0783559"],
-                        ["265959","-0781911"],
-                        ["272759","-0780329"],
-                        ["272759","-0770000"],
-                        ["281110","-0762233"],
-                        ["274959","-0761551"],
-                        ["274959","-0744959"]
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "Miami",
-            "group": "FIR",
-            "owner": ["KZMA"],
-            "sectors": [
-                {
-                    "points": [
-                        ["272759","-0780329"],
-                        ["265959","-0781911"],
-                        ["263000","-0783559"],
-                        ["260700","-0783806"],
-                        ["260000","-0783029"],
-                        ["253759","-0774850"],
-                        ["250412","-0774534"],
-                        ["245259","-0774430"],
-                        ["244730","-0774708"],
-                        ["243845","-0775121"],
-                        ["240501","-0780735"],
                         ["240000","-0780000"],
                         ["240000","-0795759"],
                         ["240000","-0811900"],
@@ -800,9 +764,7 @@
                         ["301210","-0791104"],
                         ["300000","-0770000"],
                         ["294600","-0765503"],
-                        ["281110","-0762233"],
-                        ["272759","-0770000"],
-                        ["272759","-0780329"]
+                        ["281110","-0762233"]
                     ]
                 }
             ]
@@ -8717,7 +8679,6 @@
         "KZTL": { "colours": [{ "hex": "#888888" }], "pre": ["ATL"], "type": "CTR", "callsign": "Atlanta Center" },
         "KZBW": { "colours": [{ "hex": "#888888" }], "pre": ["BOS"], "type": "CTR", "callsign": "Boston Center" },
         "KZOB": { "colours": [{ "hex": "#888888" }], "pre": ["CLE"], "type": "CTR", "callsign": "Cleveland Center" },
-        "KZMO": { "colours": [{ "hex": "#888888" }], "pre": ["ZMO"], "type": "CTR", "callsign": "Miami Center" },
         "KZMA": { "colours": [{ "hex": "#888888" }], "pre": ["MIA"], "type": "CTR", "callsign": "Miami Center" },
         "KZDV": { "colours": [{ "hex": "#888888" }], "pre": ["DEN"], "type": "CTR", "callsign": "Denver Center" },
         "KZFW": { "colours": [{ "hex": "#888888" }], "pre": ["FTW"], "type": "CTR", "callsign": "Fort Worth Center" },
@@ -10475,13 +10436,13 @@
         "LLXT": { "callsign": "Tamar Oil-Rig", "coord": ["31.7475","34.305"] },
         "LLZM": { "callsign": "Zofar Moah", "coord": ["30.552222","35.188889"] },
         "LVGZ": { "callsign": "Gaza Intl.", "coord": ["31.241167","34.272333"] },
-        "MBAC": { "callsign": "Ambergris Cay International", "coord": ["21.300633","-71.64115"], "topdown": ["KZMA"] },
-        "MBGT": { "callsign": "JAGS McCartney. Turks and Caicos", "coord": ["21.444444","-71.142222"], "pre": ["GDT"] },
-        "MBNC": { "callsign": "North Caicos International", "coord": ["21.917486","-71.939658"], "pre": ["NCA"], "topdown": ["KZMA"] },
-        "MBPI": { "callsign": "Pine Cay", "coord": ["21.9","-72.1"], "pre": ["PIC"], "topdown": ["KZMA"] },
-        "MBPV": { "callsign": "Providenciales. Turks and Caicos", "coord": ["21.773611","-72.265833"], "pre": ["PLS"] },
-        "MBSC": { "callsign": "South Caicos International", "coord": ["21.515839","-71.529075"], "pre": ["XSC"], "topdown": ["KZMA"] },
-        "MBSY": { "callsign": "Salt Cay", "coord": ["21.334569","-71.199569"], "pre": ["SLX"], "topdown": ["KZMA"] },
+        "MBAC": { "callsign": "Ambergris Cay International", "coord": ["21.300633","-71.64115"] },
+        "MBGT": { "callsign": "JAGS McCartney. Turks and Caicos", "coord": ["21.444444","-71.142222"], "pre": ["GDT"], "topdown": ["KZMA"] },
+        "MBNC": { "callsign": "North Caicos International", "coord": ["21.917486","-71.939658"], "pre": ["NCA"] },
+        "MBPI": { "callsign": "Pine Cay", "coord": ["21.9","-72.1"], "pre": ["PIC"] },
+        "MBPV": { "callsign": "Providenciales. Turks and Caicos", "coord": ["21.773611","-72.265833"], "pre": ["PLS"], "topdown": ["KZMA"] },
+        "MBSC": { "callsign": "South Caicos International", "coord": ["21.515839","-71.529075"], "pre": ["XSC"] },
+        "MBSY": { "callsign": "Salt Cay", "coord": ["21.334569","-71.199569"], "pre": ["SLX"] },
         "MMAA": { "callsign": "Acapulco", "coord": ["16.757222","-99.753889"] },
         "MMAN": { "callsign": "Monterrey", "coord": ["25.865278","-100.236944"] },
         "MMAS": { "callsign": "Aguascalientes", "coord": ["21.704722","-102.3175"] },
@@ -10605,7 +10566,7 @@
         "MYES": { "callsign": "Staniel Cay. Exuma", "coord": ["24.169667","-76.439278"], "pre": ["TYM"] },
         "MYEY": { "callsign": "Hog Cay. Exuma", "coord": ["23.397417","-75.497083"] },
         "MYGD": { "callsign": "Deep Water Cay. Grand Bahama", "coord": ["26.632528","-77.921972"] },
-        "MYGF": { "callsign": "Freeport. Grand Bahama", "coord": ["26.558778","-78.695444"], "pre": ["FPO"] },
+        "MYGF": { "callsign": "Freeport. Grand Bahama", "coord": ["26.558778","-78.695444"], "pre": ["FPO"], "topdown": ["KZMA"] },
         "MYGM": { "callsign": "Grand Bahama Aux. Grand Bahama", "coord": ["26.631833","-78.359833"] },
         "MYGW": { "callsign": "West End. Grand Bahama", "coord": ["26.686778","-78.978972"], "pre": ["WTD"] },
         "MYIG": { "callsign": "Inagua Airport. Inagua", "coord": ["20.974972","-73.666917"], "pre": ["IGA"] },
@@ -10614,7 +10575,7 @@
         "MYLR": { "callsign": "Long Island. Long Island", "coord": ["23.011194","-74.905889"] },
         "MYLS": { "callsign": "Stella Maris. Long Island", "coord": ["23.583","-75.269"], "pre": ["SML"] },
         "MYMM": { "callsign": "Mayaguana. Mayaguana", "coord": ["22.380556","-73.011139"] },
-        "MYNN": { "callsign": "Nassau. New Providence", "coord": ["25.040278","-77.470278"], "pre": ["NAS"] },
+        "MYNN": { "callsign": "Nassau. New Providence", "coord": ["25.040278","-77.470278"], "pre": ["NAS"], "topdown": ["KZMA"] },
         "MYRD": { "callsign": "Duncan Cay. Ragged Island", "coord": ["22.181861","-75.729333"], "pre": ["DCT"] },
         "MYRP": { "callsign": "Port Nelson. Rum Cay", "coord": ["23.683444","-74.83625"] },
         "MYSM": { "callsign": "San Salvador. San Salvador", "coord": ["24.063139","-74.523611"], "pre": ["ZSA"] },
