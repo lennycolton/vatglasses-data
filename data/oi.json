@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-      "id": "Tehran 1 North",
+      "id": "Sector 1 North",
       "group": "CTR",
       "owner": ["T1N", "TC1", "TCN", "TCW", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "id": "Tehran 1 East",
+      "id": "Sector 1 East",
       "group": "CTR",
       "owner": ["T1E", "TC1", "TCN", "TCW", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "id": "Tehran 1 West",
+      "id": "Sector 1 West",
       "group": "CTR",
       "owner": ["T1W", "TC1", "TCN", "TCW", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "id": "Tehran 2 East",
+      "id": "Sector 2 East",
       "group": "CTR",
       "owner": ["T2E", "TC2", "TCN", "TCW", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "id": "Tehran 2 West",
+      "id": "Sector 2 West",
       "group": "CTR",
       "owner": ["T2W", "TC2", "TCN", "TCW", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "id": "Tehran 3 North",
+      "id": "Sector 3 North",
       "group": "CTR",
       "owner": ["T3N", "TC3", "TCN", "TCW", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "id": "Tehran 3 South",
+      "id": "Sector 3 South",
       "group": "CTR",
       "owner": ["T3S", "TC3", "TCS", "TCW", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "id": "Tehran 4 East",
+      "id": "Sector 4 East",
       "group": "CTR",
       "owner": ["T4E", "TC4", "TCS", "TCW", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "id": "Tehran 4 West",
+      "id": "Sector 4 West",
       "group": "CTR",
       "owner": ["T4W", "TC4", "TCS", "TCW", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -340,7 +340,7 @@
       ]
     },
     {
-      "id": "Tehran 4 South",
+      "id": "Sector 4 South",
       "group": "CTR",
       "owner": ["T4S", "TC4", "TCS", "TCW", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -362,7 +362,7 @@
       ]
     },
     {
-      "id": "Tehran 5 East",
+      "id": "Sector 5 East",
       "group": "CTR",
       "owner": ["T5E", "TC5", "TCS", "TCE", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "id": "Tehran 5 West",
+      "id": "Sector 5 West",
       "group": "CTR",
       "owner": ["T5W", "TC5", "TCS", "TCE", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "Tehran 6 East",
+      "id": "Sector 6 East",
       "group": "CTR",
       "owner": ["T6E", "TC6", "TCS", "TCE", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -458,7 +458,7 @@
       ]
     },
     {
-      "id": "Tehran 6 West",
+      "id": "Sector 6 West",
       "group": "CTR",
       "owner": ["T6W", "TC6", "TCN", "TCE", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -499,7 +499,7 @@
       ]
     },
     {
-      "id": "Tehran 7",
+      "id": "Sector 7",
       "group": "CTR",
       "owner": ["TC7", "TCN", "TCE", "TC", "fss/GULFE", "fss/GULF"],
       "sectors": [
@@ -579,7 +579,7 @@
       ]
     },
     {
-      "id": "Bandar Abbas TMA",
+      "id": "Bandar Abbas",
       "group": "APP",
       "owner": ["KBA"],
       "sectors": [
@@ -613,7 +613,7 @@
       ]
     },
     {
-      "id": "Esfahan TMA",
+      "id": "Esfahan",
       "group": "APP",
       "owner": ["FMT"],
       "sectors": [
@@ -658,7 +658,7 @@
       ]
     },
     {
-      "id": "Mashhad TMA",
+      "id": "Mashhad",
       "group": "APP",
       "owner": ["MMA"],
       "sectors": [
@@ -700,7 +700,7 @@
       ]
     },
     {
-      "id": "Shiraz TMA",
+      "id": "Shiraz",
       "group": "APP",
       "owner": ["SSA"],
       "sectors": [
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "id": "Tehran TMA",
+      "id": "Tehran",
       "group": "APP",
       "owner": ["IIA"],
       "sectors": [
@@ -783,7 +783,7 @@
       ]
     },
     {
-      "id": "Tabriz CTR",
+      "id": "Tabriz",
       "group": "APP",
       "owner": ["TTA"],
       "sectors": [
@@ -820,7 +820,7 @@
   ],
   "groups": {
     "CTR": {
-      "name": "Center",
+      "name": "Tehran",
       "colour": "#1C39BB"
     },
     "APP": {
