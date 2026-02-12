@@ -8578,8 +8578,6 @@
         "LLSC": { "colours": [{ "hex": "#888888" }], "pre": ["LLSC"], "type": "CTR", "callsign": "Tel Aviv Control" },
         "MTEG": { "colours": [{ "hex": "#888888" }], "pre": ["MTEG"], "type": "CTR", "callsign": "Port-au-Prince Center" },
         "OAKX": { "colours": [{ "hex": "#888888" }], "pre": ["OAKX"], "type": "CTR", "callsign": "Kabul Center" },
-        "OEJD": { "colours": [{ "hex": "#888888" }], "pre": ["OEJD"], "type": "CTR", "callsign": "Jeddah Control" },
-        "OERD": { "colours": [{ "hex": "#888888" }], "pre": ["OERD"], "type": "CTR", "callsign": "Riyadh Control" },
         "OJAC": { "colours": [{ "hex": "#888888" }], "pre": ["OJAC"], "type": "CTR", "callsign": "Amman Control" },
         "OLBB": { "colours": [{ "hex": "#888888" }], "pre": ["OLBB"], "type": "CTR", "callsign": "Beirut Radar" },
         "OPKR": { "colours": [{ "hex": "#888888" }], "pre": ["OPKR"], "type": "CTR", "callsign": "Karachi Control" },
