@@ -9294,7 +9294,7 @@
         "id": "Havel 12",
         "group": "EDUU",
         "uid": "HVL12",
-        "owner": ["HVL12", "OSE12", "BOR", "FLG", "MAR", "MRZ", "WWC", "fss/EUCME"],
+        "owner": ["HVL12", "OSE12", "BOR", "FLG", "MAR", "WWC", "fss/EUCME"],
         "sectors": [
           {
             "max": 364,
@@ -9378,7 +9378,6 @@
           "BOR",
           "FLG",
           "MAR",
-          "MRZ",
           "WWC",
           "fss/EUCME"
         ],
