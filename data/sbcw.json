@@ -6475,12 +6475,12 @@
   ],
 
   "groups": {
-      "FIR":{ "name":"FIR" },
-      "CTA":{ "name":"CTA" },
-      "TMA":{ "name":"TMA" },
-      "CTR":{ "name":"CTR" },
-      "ATZ":{ "name":"ATZ" },
-      "FIZ":{ "name":"FIZ" }
+      "FIR":{ "name":"Curitiba" },
+      "CTA":{ "name":"Approach" },
+      "TMA":{ "name":"Approach" },
+      "CTR":{ "name":"Tower" },
+      "ATZ":{ "name":"Tower" },
+      "FIZ":{ "name":"Radio" }
   },
 
   "positions": {
