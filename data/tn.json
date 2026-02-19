@@ -850,8 +850,14 @@
     }
   },
   "airports": {
+    "TFFG": { "callsign": "Grand Case", "coord": ["18.100556", "-63.048889"], "major": "TNCM" },
+    "TFFJ": { "callsign": "Saint Barthelemy", "coord": ["17.89972", "-62.85"], "major": "TNCM" },
     "TNCA": { "callsign": "Beatrix", "coord": ["12.504167", "-70.012222"], "major": "TNCC" },
     "TNCB": { "callsign": "Flamingo", "coord": ["12.139444", "-68.277222"], "major": "TNCC" },
-    "TNCC": { "callsign": "Hato", "coord": ["12.191944", "-68.956944"], "topdown": ["CC", "fss/ANT", "fss/ANTB", "fss/CARE"] }
+    "TNCC": { "callsign": "Hato", "coord": ["12.191944", "-68.956944"], "topdown": ["CC", "fss/ANT", "fss/ANTB", "fss/CARE"] },
+    "TNCE": { "callsign": "Roosevelt", "coord": ["17.491667", "-62.975556"], "major": "TNCM" },
+    "TNCM": { "callsign": "Juliana", "coord": ["18.039722", "-63.111944"], "pre": ["SXM"], "topdown": ["zsu/R2", "fss/CARE"] },
+    "TNCS": { "callsign": "Saba", "coord": ["17.645278", "-63.220556"], "major": "TNCM" },
+    "TQPF": { "callsign": "CJ Lloyd", "coord": ["18.204722", "-63.055"], "major": "TNCM" }
   }
 }
