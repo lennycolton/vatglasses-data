@@ -1,0 +1,41 @@
+{
+    "name": "Default",
+    "description": "All sectors owned by primary frequency, with top down control over Bucholz Tower.",
+    "type": "editor",
+    "airspace": {
+        "1A": "ZAK-P",
+        "1G": "ZAK-P",
+        "2A": "ZAK-P",
+        "2G": "ZAK-P",
+        "3A": "ZAK-P",
+        "3G": "ZAK-P",
+        "4A": "ZAK-P",
+        "4G": "ZAK-P",
+        "5A": "ZAK-P",
+        "5G": "ZAK-P",
+        "6A": "ZAK-P",
+        "6G": "ZAK-P",
+        "7A": "ZAK-P",
+        "7G": "ZAK-P",
+        "9A": "ZAK-P",
+        "9G": "ZAK-P",
+        "WAT": "ZAK-P"
+    },
+    "airports": {
+        "PCIS": { "automatch": true, "type": "sector", "position": "3G" },
+        "PKMA": { "automatch": true, "type": "sector", "position": "6G" },
+        "PKMJ": { "automatch": true, "type": "sector", "position": "6G" },
+        "PKWA": { "automatch": true, "type": "sector", "position": "WAT" },
+        "PLCH": { "automatch": true, "type": "sector", "position": "3G" },
+        "PLFA": { "automatch": true, "type": "sector", "position": "3G" },
+        "PLPA": { "automatch": true, "type": "sector", "position": "3G" },
+        "PLWN": { "automatch": true, "type": "sector", "position": "3G" },
+        "PMDY": { "automatch": true, "type": "sector", "position": "9G" },
+        "PTKK": { "automatch": true, "type": "sector", "position": "5G" },
+        "PTPN": { "automatch": true, "type": "sector", "position": "5G" },
+        "PTRO": { "automatch": true, "type": "sector", "position": "5G" },
+        "PTSA": { "automatch": true, "type": "sector", "position": "6G" },
+        "PTYA": { "automatch": true, "type": "sector", "position": "5G" },
+        "PWAK": { "automatch": true, "type": "sector", "position": "6G" }
+    }
+}

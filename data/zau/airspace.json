@@ -1194,7 +1194,7 @@
             ]
         },
         "AZO": {
-            "id": "Great Lakes Approach",
+            "id": "Great Lakes",
             "group": "APP",
             "parent": "26",
             "sectors": [
@@ -1238,7 +1238,7 @@
             ]
         },
         "C90": {
-            "id": "Chicago Approach",
+            "id": "Chicago",
             "group": "APP",
             "sectors": [
                 {
@@ -1284,7 +1284,7 @@
             ]
         },
         "CID": {
-            "id": "Cedar Rapids Approach",
+            "id": "Cedar Rapids",
             "group": "APP",
             "parent": "55",
             "sectors": [
@@ -1311,7 +1311,7 @@
             ]
         },
         "CMI": {
-            "id": "Champaign Approach",
+            "id": "Champaign",
             "group": "APP",
             "parent": "55",
             "sectors": [
@@ -1363,7 +1363,7 @@
             ]
         },
         "FWA": {
-            "id": "Fort Wayne Approach",
+            "id": "Fort Wayne",
             "group": "APP",
             "parent": "36",
             "sectors": [
@@ -1395,7 +1395,7 @@
             ]
         },
         "GUS": {
-            "id": "Grissom Approach",
+            "id": "Grissom",
             "group": "RAP",
             "parent": "36",
             "sectors": [
@@ -1427,7 +1427,7 @@
             ]
         },
         "MKE": {
-            "id": "Milwaukee Approach",
+            "id": "Milwaukee",
             "group": "APP",
             "parent": "62",
             "sectors": [
@@ -1468,7 +1468,7 @@
             ]
         },
         "MLI": {
-            "id": "Moline Approach",
+            "id": "Moline",
             "group": "APP",
             "parent": "55",
             "sectors": [
@@ -1496,7 +1496,7 @@
             ]
         },
         "MSN": {
-            "id": "Madison Approach",
+            "id": "Madison",
             "group": "APP",
             "parent": "64",
             "sectors": [
@@ -1527,7 +1527,7 @@
             ]
         },
         "RFD": {
-            "id": "Rockford Approach",
+            "id": "Rockford",
             "group": "APP",
             "parent": "74",
             "sectors": [
@@ -1561,7 +1561,7 @@
             ]
         },
         "SBN": {
-            "id": "South Bend Approach",
+            "id": "South Bend",
             "group": "APP",
             "parent": "81",
             "sectors": [
@@ -1603,7 +1603,7 @@
             ]
         },
         "VOK": {
-            "id": "Volk Approach",
+            "id": "Volk",
             "group": "RAP",
             "parent": "64",
             "sectors": [
@@ -1642,7 +1642,7 @@
     },
     "groups": {
         "ZAU": {
-            "name": "Chicago Center",
+            "name": "Chicago",
             "colour": "#ffffff"
         },
         "APP": {
