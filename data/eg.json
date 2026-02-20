@@ -29690,7 +29690,7 @@
     "GWF": { "pre": [ "EGGW" ], "type": "APP","frequency": "128.750","callsign": "Luton Director" },
     "GWT": { "pre": [ "EGGW" ], "type": "TWR","frequency": "132.555","callsign": "Luton Tower" },
     "J": { "colours": [{ "hex": "#e34b29" }], "pre": [ "EGJJ" ], "type": "APP","frequency": "125.205","callsign": "Jersey Control" },
-    "JS": { "colours": [{ "hex": "#e34b29" }], "pre": [ "EGJJ" ], "type": "APP","frequency": "120.450","callsign": "Jersey Control" },
+    "JS": { "colours": [{ "hex": "#e34b29" }], "pre": [ "EGJJ" ], "type": "APP","frequency": "120.455","callsign": "Jersey Control" },
     "JJR": { "pre": [ "EGJJ" ], "type": "APP","frequency": "120.305","callsign": "Jersey Approach" },
     "JJF": { "pre": [ "EGJJ" ], "type": "APP","frequency": "118.555","callsign": "Jersey Radar" },
     "CCN": { "pre": [ "EGCC" ], "type": "APP","frequency": "135.005","callsign": "Manchester Radar" },
