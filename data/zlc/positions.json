@@ -561,7 +561,7 @@
             }
           ]
         },
-        "MSO": {
+        "M2A": {
           "callsign": "Spokane Approach",
           "frequency": "124.900",
           "pre": ["MSO"],
@@ -646,6 +646,17 @@
           "colours": [
             {
               "hex": "#ff8000"
+            }
+          ]
+        },
+        "MSO": {
+          "callsign": "Missoula Tower",
+          "frequency": "118.400",
+          "pre": ["MSO"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#98996b"
             }
           ]
         },
