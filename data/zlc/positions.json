@@ -594,6 +594,17 @@
             }
           ]
         },
+        "B2L": {
+          "callsign": "Billings Tower",
+          "frequency": "127.200",
+          "pre": ["BIL"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#bf1c0a"
+            }
+          ]
+        },
         "FCA": {
           "callsign": "Kalispell Tower",
           "frequency": "124.550",
