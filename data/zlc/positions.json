@@ -605,6 +605,17 @@
             }
           ]
         },
+        "BOI": {
+          "callsign": "Boise Tower",
+          "frequency": "118.100",
+          "pre": ["BOI"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#fcba03"
+            }
+          ]
+        },
         "FCA": {
           "callsign": "Kalispell Tower",
           "frequency": "124.550",
