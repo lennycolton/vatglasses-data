@@ -660,6 +660,17 @@
             }
           ]
         },
+        "MUO": {
+          "callsign": "Mountain Home Tower",
+          "frequency": "133.850",
+          "pre": ["MUO"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#2f4f4f"
+            }
+          ]
+        },
         "SUN": {
           "callsign": "Hailey Tower",
           "frequency": "125.600",
