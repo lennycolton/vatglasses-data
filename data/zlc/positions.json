@@ -473,6 +473,17 @@
             }
           ]
         },
+        "PVU": {
+          "callsign": "Provo Tower",
+          "frequency": "125.300",
+          "pre": ["PVU"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#deb887"
+            }
+          ]
+        },
         "B2N": {
           "callsign": "Billings Approach",
           "frequency": "119.200",
