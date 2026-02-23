@@ -715,6 +715,17 @@
             }
           ]
         },
+        "LSV": {
+          "callsign": "Nellis Approach",
+          "frequency": "124.950",
+          "pre": ["TPH"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#ea0a8c"
+            }
+          ]
+        },
         "TWF": {
           "callsign": "Twin Falls Approach",
           "frequency": "126.700",
