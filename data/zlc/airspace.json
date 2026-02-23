@@ -6201,7 +6201,6 @@
         "callsign": "Malmstrom AFB MT",
         "coord": ["47.5", "-111.18306"],
         "pre": ["GFA"]
-          
       },
       "KGGW": {
         "callsign": "Glasgow Intl MT",
@@ -6221,8 +6220,7 @@
       "KGTF": {
         "callsign": "Great Falls",
         "coord": ["47.482003", "-111.370686"],
-        "pre": ["GTF"],
-        "top-down": ["GTF", "19", "20", "06", "44"]
+        "pre": ["GTF"]
       },
       "KHCR": {
         "callsign": "Heber Valley",
