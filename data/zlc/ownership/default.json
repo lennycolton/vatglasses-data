@@ -125,7 +125,7 @@
           "sector": "B1Z"
         },
         "KMAN": {
-          "major": "KBOI"
+          "sector": "B1S"
         },
         "KMSO": {
           "default": false,
