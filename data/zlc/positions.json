@@ -473,6 +473,17 @@
             }
           ]
         },
+        "PVU": {
+          "callsign": "Provo Tower",
+          "frequency": "125.300",
+          "pre": ["PVU"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#deb887"
+            }
+          ]
+        },
         "B2N": {
           "callsign": "Billings Approach",
           "frequency": "119.200",
@@ -561,7 +572,7 @@
             }
           ]
         },
-        "MSO": {
+        "M2A": {
           "callsign": "Spokane Approach",
           "frequency": "124.900",
           "pre": ["MSO"],
@@ -657,6 +668,28 @@
           "colours": [
             {
               "hex": "#ff8000"
+            }
+          ]
+        },
+        "MSO": {
+          "callsign": "Missoula Tower",
+          "frequency": "118.400",
+          "pre": ["MSO"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#98996b"
+            }
+          ]
+        },
+        "MUO": {
+          "callsign": "Mountain Home Tower",
+          "frequency": "133.850",
+          "pre": ["MUO"],
+          "type": "TWR",
+          "colours": [
+            {
+              "hex": "#2f4f4f"
             }
           ]
         },
