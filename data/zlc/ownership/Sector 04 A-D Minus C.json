@@ -90,10 +90,10 @@
           "sector": "B1L"
         },
         "KEKS": {
-          "major": "KBZN"
+          "sector": "B1Z"
         },
         "KEUL": {
-          "major": "KBOI"
+          "sector": "B1S"
         },
         "KGFA": {
           "sector": "GTF"
@@ -122,10 +122,10 @@
           "sector": "JAC"
         },
         "KLVM": {
-          "major": "KBZN"
+          "sector": "B1Z"
         },
         "KMAN": {
-          "major": "KBOI"
+          "sector": "B1S"
         },
         "KMSO": {
           "default": false,
@@ -159,6 +159,7 @@
             "S5K",
             "32",
             "11",
+            "04",
             "44"
           ]
         },
@@ -169,6 +170,12 @@
         "KSVR": {
           "sector": "S5V"
         },
+        "KTVY": {
+          "sector": "S5G"
+        },      
+        "KTPH": {
+          "sector": "LSV"
+        },  
         "KTWF": {
           "default": false,
           "sector": "T1L"
