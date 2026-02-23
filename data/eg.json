@@ -2,7 +2,7 @@
   "airspace": [
     {
       "id": "London Upper South (1)",
-      "group": "LS",
+      "group": "LH",
       "docs": [
         "LS",
         "LLU"
@@ -1609,7 +1609,7 @@
     },
     {
       "id": "Seaford (18)",
-      "group": "LS",
+      "group": "LH",
       "docs": [
         "LS"
       ],
@@ -1701,7 +1701,7 @@
     },
     {
       "id": "Hurn East (19)",
-      "group": "LS",
+      "group": "LH",
       "docs": [
         "LS"
       ],
@@ -1791,7 +1791,7 @@
     },
     {
       "id": "Hurn West (20)",
-      "group": "LS",
+      "group": "LH",
       "docs": [
         "LS"
       ],
@@ -1976,7 +1976,7 @@
     },
     {
       "id": "Hurn Low (21)",
-      "group": "LS",
+      "group": "LH",
       "docs": [
         "LS"
       ],
@@ -2054,7 +2054,7 @@
     },
     {
       "id": "Hurn Middle (22)",
-      "group": "LS",
+      "group": "LH",
       "docs": [
         "LS"
       ],
@@ -2639,7 +2639,7 @@
     },
     {
       "id": "London Upper West (24)",
-      "group": "LS",
+      "group": "LH",
       "docs": [
         "LS",
         "LLU"
@@ -2669,7 +2669,7 @@
     },
     {
       "id": "London Middle West (25)",
-      "group": "LS",
+      "group": "LH",
       "docs": [
         "LS",
         "LLM"
@@ -7571,7 +7571,10 @@
         }
       ],
       "owner": [
-        "LHW",
+        "TCSW",
+        "TCS",
+        "TC",
+        "LSF",
         "LH",
         "LS",
         "LSC",
@@ -8838,7 +8841,10 @@
         }
       ],
       "owner": [
-        "LHW",
+        "TCSW",
+        "TCS",
+        "TC",
+        "LSF",
         "LH",
         "LS",
         "LSC",
@@ -16919,6 +16925,9 @@
         "HHF",
         "HHR",
         "SOL",
+        "LHW",
+        "OTMET",
+        "LH",
         "LS",
         "LSC",
         "L",
@@ -19964,6 +19973,7 @@
         "TCS",
         "TC",
         "LSF",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -20043,6 +20053,7 @@
         "TCSW",
         "TCS",
         "TC",
+        "LSF",
         "LH",
         "LS",
         "LSC",
@@ -20082,6 +20093,8 @@
         "TCSW",
         "TCS",
         "TC",
+        "LSF",
+        "LH",
         "LS",
         "LSC",
         "L",
@@ -20219,6 +20232,8 @@
         "TCSW",
         "TCS",
         "TC",
+        "LSF",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -20494,6 +20509,8 @@
         "TCSW",
         "TCS",
         "TC",
+        "LSF",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -20539,6 +20556,8 @@
         "TCSW",
         "TCS",
         "TC",
+        "LSF",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -21200,6 +21219,8 @@
         "TCSW",
         "TCS",
         "TC",
+        "LSF",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -21274,6 +21295,8 @@
         "TCSW",
         "TCS",
         "TC",
+        "LSF",
+        "LH",
         "LS",
         "LSC",
         "L",
@@ -21372,6 +21395,8 @@
         "TCSW",
         "TCS",
         "TC",
+        "LSF",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -27266,6 +27291,9 @@
       "owner": [
         "SOL",
         "HIR",
+        "LHW",
+        "OTMET",
+        "LH",
         "LS",
         "LSC",
         "L"
@@ -27542,6 +27570,9 @@
       "owner": [
         "HIR",
         "SOL",
+        "LHW",
+        "OTMET",
+        "LH",
         "LS",
         "LSC",
         "L",
@@ -29415,7 +29446,7 @@
     }
   ],
   "groups": {
-    "LS": {
+    "LH": {
       "name": "London",
       "colour": "#309df0"
     },
