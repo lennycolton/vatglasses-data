@@ -70,6 +70,7 @@
       "BOI": ["BOI", "B1S", "B1A", "31", "30", "41", "40", "43", "44"],
       "SUN": ["SUN", "31", "30", "41", "40", "43", "44"],
       "TWF": ["TWF", "31", "41", "40", "44"],
+      "LSV": ["LSV", "47", "45", "44"],
       "T1L": ["T1L", "TWF", "31", "41", "40", "44"]
     },
     "airports": {
@@ -124,7 +125,7 @@
           "sector": "B1Z"
         },
         "KMAN": {
-          "major": "KBOI"
+          "sector": "B1S"
         },
         "KMSO": {
           "default": false,
@@ -171,7 +172,10 @@
         },
         "KTVY": {
           "sector": "S5G"
-        },        
+        },      
+        "KTPH": {
+          "sector": "LSV"
+        },  
         "KTWF": {
           "default": false,
           "sector": "T1L"
