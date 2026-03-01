@@ -715,6 +715,17 @@
             }
           ]
         },
+        "LAF": {
+          "callsign": "Las Vegas Approach",
+          "frequency": "135.000",
+          "pre": ["LAS"],
+          "type": "APP",
+          "colours": [
+            {
+              "hex": "#ff00bf"
+            }
+          ]
+        },
         "LSV": {
           "callsign": "Nellis Approach",
           "frequency": "124.950",
