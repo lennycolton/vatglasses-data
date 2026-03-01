@@ -2655,21 +2655,21 @@
             "frequency":"127.280",
             "type":"APP",
             "pre":["EPGD"],
-            "colours":[{"hex":"#00008b"}]
+            "colours":[{"hex":"#3688e0"}]
         },
         "VGD":{
             "callsign":"Gdansk Information",
             "frequency":"127.150",
             "type":"APP",
             "pre":["EPGD"],
-            "colours":[{"hex":"#0000e7"}]
+            "colours":[{"hex":"#9d9dc9"}]
         },
         "LGD":{
             "callsign":"Gdansk Approach",
             "frequency":"133.660",
             "type":"APP",
             "pre":["EPGD"],
-            "colours":[{"hex":"#00004b"}]
+            "colours":[{"hex":"#0977ed"}]
         },
         "TGD":{
             "callsign":"Gdansk Tower",
@@ -2718,14 +2718,14 @@
             "frequency":"121.075",
             "type":"APP",
             "pre":["EPKK"],
-            "colours":[{"hex":"#000078"}]
+            "colours":[{"hex":"#f2660f"}]
         },
         "AKKE":{
             "callsign":"Krakow Approach",
             "frequency":"126.975",
             "type":"APP",
             "pre":["EPKK"],
-            "colours":[{"hex":"#00009e"}]
+            "colours":[{"hex":"#f2813a"}]
         },
         "VKKE":{
             "callsign":"Krakow Information",
@@ -2746,21 +2746,21 @@
             "frequency":"126.530",
             "type":"APP",
             "pre":["EPKK"],
-            "colours":[{"hex":"#0000d5"}]
+            "colours":[{"hex":"#f59e67"}]
         },
         "AKKT":{
             "callsign":"Krakow Approach",
             "frequency":"135.405",
             "type":"APP",
             "pre":["EPKK"],
-            "colours":[{"hex":"#0000ce"}]
+            "colours":[{"hex":"#ab4709"}]
         },
         "AKRZ":{
             "callsign":"Krakow Approach",
             "frequency":"133.030",
             "type":"APP",
             "pre":["EPKK"],
-            "colours":[{"hex":"#0000c2"}]
+            "colours":[{"hex":"#b86430"}]
         },
         "TKK":{
             "callsign":"Krakow Tower",
@@ -2865,21 +2865,21 @@
             "frequency":"126.300",
             "type":"APP",
             "pre":["EPPO"],
-            "colours":[{"hex":"#00007b"}]
+            "colours":[{"hex":"#9d9dc9"}]
         },
         "ANPO":{
             "callsign":"Poznan Approach",
             "frequency":"128.925",
             "type":"APP",
             "pre":["EPPO"],
-            "colours":[{"hex":"#0000b9"}]
+            "colours":[{"hex":"#7602fa"}]
         },
         "ASPO":{
             "callsign":"Poznan Approach",
             "frequency":"123.040",
             "type":"APP",
             "pre":["EPPO"],
-            "colours":[{"hex":"#0000c2"}]
+            "colours":[{"hex":"#9f53f5"}]
         },
         "TPO":{
             "callsign":"Poznan Tower",
@@ -2921,7 +2921,7 @@
             "frequency":"118.775",
             "type":"APP",
             "pre":["EPSY"],
-            "colours":[{"hex":"#000095"}]
+            "colours":[{"hex":"#9d9dc9"}]
         },
         "TSY":{
             "callsign":"Mazury Tower",
@@ -2935,35 +2935,35 @@
             "frequency":"128.805",
             "type":"APP",
             "pre":["EPWA"],
-            "colours":[{"hex":"#0000f6"}]
+            "colours":[{"hex":"#f5023f"}]
         },
         "FWA":{
             "callsign":"Warszawa Approach",
             "frequency":"129.380",
             "type":"APP",
             "pre":["EPWA"],
-            "colours":[{"hex":"#0000dd"}]
+            "colours":[{"hex":"#fa82a0"}]
         },
         "VWA":{
             "callsign":"Warszawa Information",
             "frequency":"119.450",
             "type":"APP",
             "pre":["EPWA"],
-            "colours":[{"hex":"#000003"}]
+            "colours":[{"hex":"#9d9dc9"}]
         },
         "ANWA":{
             "callsign":"Warszawa Approach",
             "frequency":"125.055",
             "type":"APP",
             "pre":["EPWA"],
-            "colours":[{"hex":"#0000c4"}]
+            "colours":[{"hex":"#c7204a"}]
         },
         "ASWA":{
             "callsign":"Warszawa Approach",
             "frequency":"135.930",
             "type":"APP",
             "pre":["EPWA"],
-            "colours":[{"hex":"#000046"}]
+            "colours":[{"hex":"#9c052b"}]
         },
         "TWA":{
             "callsign":"Okecie Tower",
@@ -2984,7 +2984,7 @@
             "frequency":"132.700",
             "type":"CTR",
             "pre":["EPWW"],
-            "colours":[{"hex":"#fd4cf8"}]
+            "colours":[{"hex":"#f280b9"}]
         },
         "ALM":{
             "callsign":"Warszawa Radar",
