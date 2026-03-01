@@ -6042,15 +6042,15 @@
     }
   ],
   "groups": {
-    "TWR": {
-      "name": "Tower"
-    },
-    "APP": {
-      "name": "Approach"
-    },
-    "ACC": {
-      "name": "Wien"
-    }
+    "ACC": { "name": "ACC" },
+    "LOWG": { "name": "Graz" },
+    "LOWI": { "name": "Innsbruck" },
+    "LOWK": { "name": "Klagenfurt" },
+    "LOWL": { "name": "Linz" },
+    "LOWS": { "name": "Salzburg" },
+    "LOWW": { "name": "Wien" },
+    "LOXT": { "name": "Tulln" },
+    "LOXZ": { "name": "Zeltweg" }
   },
   "positions": {
     "LOVV_CTR": {
