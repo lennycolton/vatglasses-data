@@ -5934,7 +5934,7 @@
         "LSV": {
           "id": "Nellis - BOWREV",
           "group": "RAP",
-          "owner": ["LSV", "47", "45", "44"],
+          "owner": ["LSV", "LAF", "47", "45", "44"],
           "sectors": [
             {
               "max": 199,
