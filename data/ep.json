@@ -2935,14 +2935,14 @@
             "frequency":"128.805",
             "type":"APP",
             "pre":["EPWA"],
-            "colours":[{"hex":"#f5023f"}]
+            "colours":[{"hex":"#00ff9d"}]
         },
         "FWA":{
             "callsign":"Warszawa Approach",
             "frequency":"129.380",
             "type":"APP",
             "pre":["EPWA"],
-            "colours":[{"hex":"#fa82a0"}]
+            "colours":[{"hex":"#abffdf"}]
         },
         "VWA":{
             "callsign":"Warszawa Information",
@@ -2956,14 +2956,14 @@
             "frequency":"125.055",
             "type":"APP",
             "pre":["EPWA"],
-            "colours":[{"hex":"#c7204a"}]
+            "colours":[{"hex":"#54c499"}]
         },
         "ASWA":{
             "callsign":"Warszawa Approach",
             "frequency":"135.930",
             "type":"APP",
             "pre":["EPWA"],
-            "colours":[{"hex":"#9c052b"}]
+            "colours":[{"hex":"#11ad71"}]
         },
         "TWA":{
             "callsign":"Okecie Tower",
