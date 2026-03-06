@@ -5357,18 +5357,18 @@
       "callsign": "Graz",
       "coord": [46.99305583, 15.43916694],
       "topdown": [
-        "LOWG_APP",
-        "LOVV_S_APP",
-        "LOVV_L_CTR",
-        "LOVV_S_CTR",
-        "LOVV_B_CTR",
-        "LOVV_BC_CTR",
-        "LOVV_E_CTR",
-        "LOVV_CTR",
-        "LOVV_C_CTR",
-        "LOVV_SU_CTR",
-        "LOVV_BU_CTR",
-        "LOVV_EU_CTR"
+        "AG",
+        "AGK",
+        "VCL",
+        "VCS",
+        "VCB",
+        "VCBC",
+        "VCE",
+        "VC",
+        "VCC",
+        "VCSU",
+        "VCBU",
+        "VCEU"
       ]
     },
     "LOWI": {
@@ -5376,128 +5376,118 @@
       "coord": [47.26027778, 11.34388889],
       "runways": ["08", "26"],
       "topdown": [
-        "LOWI_APP",
-        "LOWI_E_APP",
-        "LOVV_L_CTR",
-        "LOVV_W_CTR",
-        "LOVV_S_CTR",
-        "LOVV_B_CTR",
-        "LOVV_CTR",
-        "LOVV_WU_CTR",
-        "LOVV_SU_CTR",
-        "LOVV_BU_CTR"
+        "AI",
+        "IEA",
+        "VCL",
+        "VCW",
+        "VCS",
+        "VCB",
+        "VC",
+        "VCWU",
+        "VCSU",
+        "VCBU"
       ]
     },
     "LOWK": {
       "callsign": "Klagenfurt",
       "coord": [46.64277778, 14.33722194],
       "topdown": [
-        "LOWK_APP",
-        "LOVV_S_APP",
-        "LOVV_L_CTR",
-        "LOVV_W_CTR",
-        "LOVV_S_CTR",
-        "LOVV_B_CTR",
-        "LOVV_BC_CTR",
-        "LOVV_CTR",
-        "LOVV_C_CTR",
-        "LOVV_WU_CTR",
-        "LOVV_SU_CTR",
-        "LOVV_BU_CTR"
+        "AK",
+        "AGK",
+        "VCL",
+        "VCW",
+        "VCS",
+        "VCB",
+        "VCBC",
+        "VC",
+        "VCC",
+        "VCWU",
+        "VCSU",
+        "VCBU"
       ]
     },
     "LOWL": {
       "callsign": "Linz",
       "coord": [48.23527778, 14.18805583],
-      "topdown": [
-        "LOWL_APP",
-        "LOVV_N_APP",
-        "LOVV_L_CTR",
-        "LOVV_N_CTR",
-        "LOVV_E_CTR",
-        "LOVV_CTR",
-        "LOVV_C_CTR",
-        "LOVV_NU_CTR",
-        "LOVV_EU_CTR"
-      ]
+      "topdown": ["AL", "ASL", "VCL", "VCN", "VCE", "VC", "VCC", "VCNU", "VCEU"]
     },
     "LOWS": {
       "callsign": "Salzburg",
       "coord": [47.79444389, 13.00333278],
       "topdown": [
-        "LOWS_APP",
-        "LOVV_N_APP",
-        "LOVV_L_CTR",
-        "LOVV_B_CTR",
-        "LOVV_BC_CTR",
-        "LOVV_W_CTR",
-        "LOVV_N_CTR",
-        "LOVV_CTR",
-        "LOVV_C_CTR",
-        "LOVV_BU_CTR",
-        "LOVV_WU_CTR",
-        "LOVV_NU_CTR"
+        "AS",
+        "ASL",
+        "VCL",
+        "VCB",
+        "VCBC",
+        "VCW",
+        "VCN",
+        "VC",
+        "VCC",
+        "VCBU",
+        "VCWU",
+        "VCNU"
       ]
     },
     "LOWW": {
       "callsign": "Wien",
       "coord": [48.11027778, 16.56972194],
       "topdown": [
-        "LOWW_APP",
-        "LOWW_P_APP",
-        "LOWW_N_APP",
-        "LOWW_M_APP",
-        "LOVV_L_CTR",
-        "LOVV_E_CTR",
-        "LOVV_N_CTR",
-        "LOVV_CTR",
-        "LOVV_C_CTR",
-        "LOVV_EU_CTR",
-        "LOVV_NU_CTR"
+        "VB",
+        "VP",
+        "VN",
+        "VM",
+        "VCL",
+        "VCE",
+        "VCN",
+        "VC",
+        "VCC",
+        "VCEU",
+        "VCNU"
       ]
     },
     "LOXT": {
       "callsign": "Tulln",
       "coord": [48.32027778, 16.11333278],
-      "topdown": ["LOXT_APP", "LOVV_M_CTR"]
+      "topdown": ["AT", "XMIL"]
     },
     "LOXZ": {
       "callsign": "Zeltweg",
       "coord": [47.20361083, 14.74583278],
-      "topdown": ["LOXZ_APP", "LOVV_M_CTR"]
+      "topdown": ["AZ", "XMIL"]
     },
     "LOAN": {
       "callsign": "Neustadt",
       "coord": [47.838333, 16.255],
       "topdown": [
-        "LOWW_APP",
-        "LOWW_P_APP",
-        "LOWW_N_APP",
-        "LOWW_M_APP",
-        "LOVV_L_CTR",
-        "LOVV_E_CTR",
-        "LOVV_N_CTR",
-        "LOVV_CTR",
-        "LOVV_C_CTR",
-        "LOVV_EU_CTR",
-        "LOVV_NU_CTR"
+        "VB",
+        "VP",
+        "VN",
+        "VM",
+        "VCL",
+        "VCE",
+        "VCN",
+        "VC",
+        "VCC",
+        "VCEU",
+        "VCNU"
       ]
     },
     "LOAV": {
       "callsign": "Voslau",
       "coord": [47.959, 16.256],
       "topdown": [
-        "LOWW_APP",
-        "LOWW_P_APP",
-        "LOWW_N_APP",
-        "LOWW_M_APP",
-        "LOVV_L_CTR",
-        "LOVV_E_CTR",
-        "LOVV_N_CTR",
-        "LOVV_CTR",
-        "LOVV_C_CTR",
-        "LOVV_EU_CTR",
-        "LOVV_NU_CTR"
+        "VB",
+        "VP",
+        "VN",
+        "VM",
+        "VCL",
+        "VCE",
+        "VCN",
+        "VC",
+        "VCC",
+        "VCEU",
+        "VCNU"
       ]
     },
     "LOWZ": {
@@ -5511,19 +5501,19 @@
             "runway": "26"
           },
           "topdown": [
-            "LOWI_F_APP",
-            "LOWI_E_APP",
-            "LOWI_S_APP",
-            "LOWI_APP",
-            "LOWI_S_APP",
-            "LOVV_L_CTR",
-            "LOVV_W_CTR",
-            "LOVV_S_CTR",
-            "LOVV_B_CTR",
-            "LOVV_CTR",
-            "LOVV_WU_CTR",
-            "LOVV_SU_CTR",
-            "LOVV_BU_CTR"
+            "IF",
+            "IEA",
+            "ISA",
+            "AI",
+            "ISA",
+            "VCL",
+            "VCW",
+            "VCS",
+            "VCB",
+            "VC",
+            "VCWU",
+            "VCSU",
+            "VCBU"
           ]
         },
         {
@@ -5532,17 +5522,17 @@
             "runway": "08"
           },
           "topdown": [
-            "LOWI_E_APP",
-            "LOWI_S_APP",
-            "LOWI_APP",
-            "LOVV_L_CTR",
-            "LOVV_W_CTR",
-            "LOVV_S_CTR",
-            "LOVV_B_CTR",
-            "LOVV_CTR",
-            "LOVV_WU_CTR",
-            "LOVV_SU_CTR",
-            "LOVV_BU_CTR"
+            "IEA",
+            "ISA",
+            "AI",
+            "VCL",
+            "VCW",
+            "VCS",
+            "VCB",
+            "VC",
+            "VCWU",
+            "VCSU",
+            "VCBU"
           ]
         }
       ]
@@ -5558,19 +5548,19 @@
             "runway": "26"
           },
           "topdown": [
-            "LOWI_F_APP",
-            "LOWI_E_APP",
-            "LOWI_S_APP",
-            "LOWI_APP",
-            "LOWI_S_APP",
-            "LOVV_L_CTR",
-            "LOVV_W_CTR",
-            "LOVV_S_CTR",
-            "LOVV_B_CTR",
-            "LOVV_CTR",
-            "LOVV_WU_CTR",
-            "LOVV_SU_CTR",
-            "LOVV_BU_CTR"
+            "IF",
+            "IEA",
+            "ISA",
+            "AI",
+            "ISA",
+            "VCL",
+            "VCW",
+            "VCS",
+            "VCB",
+            "VC",
+            "VCWU",
+            "VCSU",
+            "VCBU"
           ]
         },
         {
@@ -5579,17 +5569,17 @@
             "runway": "08"
           },
           "topdown": [
-            "LOWI_E_APP",
-            "LOWI_S_APP",
-            "LOWI_APP",
-            "LOVV_L_CTR",
-            "LOVV_W_CTR",
-            "LOVV_S_CTR",
-            "LOVV_B_CTR",
-            "LOVV_CTR",
-            "LOVV_WU_CTR",
-            "LOVV_SU_CTR",
-            "LOVV_BU_CTR"
+            "IEA",
+            "ISA",
+            "AI",
+            "VCL",
+            "VCW",
+            "VCS",
+            "VCB",
+            "VC",
+            "VCWU",
+            "VCSU",
+            "VCBU"
           ]
         }
       ]
