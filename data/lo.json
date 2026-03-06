@@ -5077,7 +5077,7 @@
       "callsign": "Wien Radar"
     },
     "VCC": {
-      "colours": [{ "hex": "#aaec7f" }],
+      "colours": [{ "hex": "#0047ab" }],
       "pre": ["LOVV"],
       "type": "CTR",
       "frequency": "132.160",
