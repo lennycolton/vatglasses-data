@@ -87209,8 +87209,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "30/31"
+              "icao": "LEMG",
+              "runway": [
+                "30/31"
+              ]
             }
           ]
         }
@@ -87343,8 +87345,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "12/13"
+              "icao": "LEMG",
+              "runway": [
+                "12/13"
+              ]
             }
           ]
         }
@@ -93874,8 +93878,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "30/31"
+              "icao": "LEMG",
+              "runway": [
+                "30/31"
+              ]
             }
           ]
         }
@@ -94043,8 +94049,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "30/31"
+              "icao": "LEMG",
+              "runway": [
+                "30/31"
+              ]
             }
           ]
         }
@@ -94156,8 +94164,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "30/31"
+              "icao": "LEMG",
+              "runway": [
+                "30/31"
+              ]
             }
           ]
         }
@@ -94246,8 +94256,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "30/31"
+              "icao": "LEMG",
+              "runway": [
+                "30/31"
+              ]
             }
           ]
         }
@@ -94372,8 +94384,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "30/31"
+              "icao": "LEMG",
+              "runway": [
+                "30/31"
+              ]
             }
           ]
         }
@@ -94466,8 +94480,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "30/31"
+              "icao": "LEMG",
+              "runway": [
+                "30/31"
+              ]
             }
           ]
         }
@@ -94591,8 +94607,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "12/13"
+              "icao": "LEMG",
+              "runway": [
+                "12/13"
+              ]
             }
           ]
         }
@@ -94760,8 +94778,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "12/13"
+              "icao": "LEMG",
+              "runway": [
+                "12/13"
+              ]
             }
           ]
         }
@@ -94877,8 +94897,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "12/13"
+              "icao": "LEMG",
+              "runway": [
+                "12/13"
+              ]
             }
           ]
         }
@@ -94975,8 +94997,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "12/13"
+              "icao": "LEMG",
+              "runway": [
+                "12/13"
+              ]
             }
           ]
         }
@@ -95117,8 +95141,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "12/13"
+              "icao": "LEMG",
+              "runway": [
+                "12/13"
+              ]
             }
           ]
         }
@@ -95227,8 +95253,10 @@
           ],
           "runways": [
             {
-              "airport": "LEMG",
-              "runway": "12/13"
+              "icao": "LEMG",
+              "runway": [
+                "12/13"
+              ]
             }
           ]
         }
@@ -109740,7 +109768,7 @@
       ]
     },
     "LNA": {
-      "callsign": "Le·n Approach",
+      "callsign": "Leon Approach",
       "frequency": "121.275",
       "type": "APP",
       "pre": [
@@ -109804,100 +109832,9 @@
         }
       ]
     },
-    "MDA": {
-      "callsign": "Madrid Approach",
-      "frequency": "124.030",
-      "type": "APP",
-      "pre": [
-        "LEMD"
-      ],
-      "colours": [
-        {
-          "hex": "#0000ff"
-        }
-      ]
-    },
-    "MD16": {
-      "callsign": "Madrid Approach",
-      "frequency": "118.755",
-      "type": "APP",
-      "pre": [
-        "LEMD"
-      ],
-      "colours": [
-        {
-          "hex": "#0000ff"
-        }
-      ]
-    },
-    "MD18": {
-      "callsign": "Madrid Director",
-      "frequency": "134.955",
-      "type": "APP",
-      "pre": [
-        "LEMD"
-      ],
-      "colours": [
-        {
-          "hex": "#0000ff"
-        }
-      ]
-    },
-    "MD17": {
-      "callsign": "Madrid Director",
-      "frequency": "128.700",
-      "type": "APP",
-      "pre": [
-        "LEMD"
-      ],
-      "colours": [
-        {
-          "hex": "#0000ff"
-        }
-      ]
-    },
-    "MD15": {
-      "callsign": "Madrid Approach",
-      "frequency": "118.400",
-      "type": "APP",
-      "pre": [
-        "LEMD"
-      ],
-      "colours": [
-        {
-          "hex": "#0000ff"
-        }
-      ]
-    },
-    "MD14": {
-      "callsign": "Madrid Approach",
-      "frequency": "136.105",
-      "type": "APP",
-      "pre": [
-        "LEMD"
-      ],
-      "colours": [
-        {
-          "hex": "#0000ff"
-        }
-      ]
-    },
     "MGA": {
-      "callsign": "M·laga Approach",
+      "callsign": "Malaga Approach",
       "frequency": "118.455",
-      "type": "APP",
-      "pre": [
-        "LEMG"
-      ],
-      "colours": [
-        {
-          "hex": "#0000ff"
-        }
-      ]
-    },
-    "MGAW": {
-      "callsign": "M·laga Approach",
-      "frequency": "123.855",
       "type": "APP",
       "pre": [
         "LEMG"
@@ -110754,7 +110691,7 @@
       ]
     },
     "MGTE": {
-      "callsign": "M·laga Tower",
+      "callsign": "Malaga Tower",
       "frequency": "118.780",
       "type": "TWR",
       "pre": [
@@ -110767,7 +110704,7 @@
       ]
     },
     "MGF": {
-      "callsign": "M·laga Approach",
+      "callsign": "Malaga Approach",
       "frequency": "125.955",
       "type": "APP",
       "pre": [
@@ -110780,7 +110717,7 @@
       ]
     },
     "MGT": {
-      "callsign": "M·laga Tower",
+      "callsign": "Malaga Tower",
       "frequency": "118.155",
       "type": "TWR",
       "pre": [
@@ -110793,7 +110730,7 @@
       ]
     },
     "MGWA": {
-      "callsign": "M·laga Approach",
+      "callsign": "Malaga Approach",
       "frequency": "123.855",
       "type": "APP",
       "pre": [
