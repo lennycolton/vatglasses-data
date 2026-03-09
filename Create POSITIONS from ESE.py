@@ -95,5 +95,5 @@ pos_dict["positions"] = id_dict
 print(pos_dict)
 
 # Directly from dictionary
-with open('VATGlasses Data/data/vc-vr.json', 'w') as outfile:
+with open('VATGlasses Data/vc-vr.json', 'w') as outfile:
     json.dump(pos_dict, outfile)
