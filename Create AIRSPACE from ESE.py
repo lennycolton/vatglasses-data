@@ -5,7 +5,7 @@ FIR_ids_for_this_vacc = ["VCCF","VRMF"]
 
 
 # A file containing only SECTOR data, limited noise (white lines, comments) is allowed. 
-with open('VATGlasses Data/AIRSPACE1.txt',"r",encoding='utf-8') as f:
+with open('VATGlasses Data/AIRSPACE 1.txt',"r",encoding='utf-8') as f:
     # File like:
     # SECTOR:EBBU·EBBE TMA1A·025·035:02500:03500
     # OWNER:MIL:BI
@@ -193,7 +193,7 @@ WordOfGodFinalDict = {}
 airspaces = []
 
 # Used to assign the sector a group based on the sectors' name
-def findname(VCCF):
+def findname(sector):
     vacc = sector.split("·")[0]
     group = sector.split("·")[1]
 
