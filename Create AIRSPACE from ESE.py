@@ -5,7 +5,7 @@ FIR_ids_for_this_vacc = ["VCCF","VRMF"]
 
 
 # A file containing only SECTOR data, limited noise (white lines, comments) is allowed. 
-with open('VATGlasses Data/AIRSPACE 1.txt',"r",encoding='utf-8') as f:
+with open('VATGlasses Data/AIRSPACE.txt',"r",encoding='utf-8') as f:
     # File like:
     # SECTOR:EBBU·EBBE TMA1A·025·035:02500:03500
     # OWNER:MIL:BI
@@ -61,7 +61,7 @@ def splitborders(line):
 for sector in sectors:
     line = sector.split("\n")
     name = line[0].split(":")[1]
-    low = line[0].split(":")[2]
+    low = line[0].split(":")[22]
     high = line[0].split(":")[3]
     owners = splitowners(line)
     borders = splitborders(line)
@@ -252,5 +252,5 @@ for sector in reversed(sectordic.keys()):
 WordOfGodFinalDict["airspace"] = airspaces
 
 # Directly from dictionary
-with open('./Output/airspace.json', 'w') as outfile:
+with open('VATGlasses Data/data/vc-vr.json', 'w') as outfile:
     json.dump(WordOfGodFinalDict, outfile)

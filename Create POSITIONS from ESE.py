@@ -31,7 +31,7 @@ import json
 
 
 
-with open('Input/File with Positions for POSITIONS.txt') as f:
+with open('VATGlasses Data/VC-VR.txt') as f:
     sectors = f.readlines()
 
 # Attempt to create random colors for every position, but in a way that also attempts to keep similar tints for similar positions types
@@ -95,5 +95,5 @@ pos_dict["positions"] = id_dict
 print(pos_dict)
 
 # Directly from dictionary
-with open('./Output/positions.json', 'w') as outfile:
+with open('VATGlasses Data/data/vc-vr.json', 'w') as outfile:
     json.dump(pos_dict, outfile)
