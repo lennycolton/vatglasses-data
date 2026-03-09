@@ -2204,8 +2204,6 @@
     }
   },
   "airports": {
-    "TFFG": { "callsign": "Grand Case", "coord": ["18.100556", "-63.048889"], "major": "TNCM" },
-    "TFFJ": { "callsign": "Saint Barthelemy", "coord": ["17.89972", "-62.85"], "major": "TNCM" },
     "TIST": { "callsign": "Saint Thomas", "coord": ["18.337306", "-64.973361"], "pre": ["STT"], "topdown": ["R7", "R5", "R3", "R1", "R2", "fss/CARE"] },
     "TISX": { "callsign": "Saint Croix", "coord": ["17.701889", "-64.798556"], "pre": ["STX"], "topdown": ["R3", "R1", "R2", "fss/CARE"] },
     "TJAB": { "callsign": "Antonio (Nery) Juarbe Pol", "coord": ["18.451111", "-66.675555"], "pre": ["ABO"] },
@@ -2219,10 +2217,6 @@
     "TJRV": { "callsign": "José Aponte de la Torre", "coord": ["18.245111", "-65.643424"], "pre": ["RVR"] },
     "TJSJ": { "callsign": "San Juan", "coord": ["18.439417", "-66.001833"], "default": false, "pre": ["SJU"], "topdown": ["R1", "R2", "fss/CARE"] },
     "TJVQ": { "callsign": "Antonio Rivera Rodríguez", "coord": ["18.134811", "-65.493617"], "pre": ["VQS"] },
-    "TNCE": { "callsign": "Roosevelt", "coord": ["17.491667", "-62.975556"], "major": "TNCM" },
-    "TNCM": { "callsign": "Princess Juliana", "coord": ["18.039722", "-63.111944"], "pre": ["SXM"], "topdown": ["R2", "fss/CARE"] },
-    "TNCS": { "callsign": "Saba", "coord": ["17.645278", "-63.220556"], "major": "TNCM" },
-    "TQPF": { "callsign": "CJ Lloyd", "coord": ["18.204722", "-63.055"], "major": "TNCM" },
     "TUPA": { "callsign": "Auguste George", "coord": ["18.727778", "-64.328611"], "pre": ["NGD"] },
     "TUPG": { "callsign": "North Sound", "coord": ["18.499167", "-64.361442"] },
     "TUPJ": { "callsign": "Beef Island", "coord": ["18.45", "-64.541667"], "topdown": ["R3", "R1", "R2", "fss/CARE"] },

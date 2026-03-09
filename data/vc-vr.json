@@ -7723,18 +7723,6 @@
         "name": "Male",
         "colour": "#ffffff"
       },
-      "APP": {
-        "name": "Approach",
-        "colour": "#ffffff"
-      },
-      "FIN": {
-        "name": "Director",
-        "colour": "#ffffff"
-      },
-      "TWR": {
-        "name": "Tower",
-        "colour": "#ffffff"
-      },
       "AFIS": {
         "name": "Information",
         "colour": "#ffffff"

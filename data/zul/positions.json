@@ -8,14 +8,14 @@
       "colours": [ {"hex": "#00006a"} ]
     },
     "BG": {
-      "callsign": "Terminal de Bagotville Terminal",
+      "callsign": "Bagotville Terminal",
       "frequency": "127.200",
       "type": "APP",
       "pre": ["CYBG"],
       "colours": [ {"hex": "#000038"} ]
     },
     "BT": {
-      "callsign": "Tour de Bagotville Tower",
+      "callsign": "Bagotville Tower",
       "frequency": "126.200",
       "type": "TWR",
       "pre": ["CYBG"],
@@ -36,21 +36,21 @@
       "colours": [ {"hex": "#00ef00"} ]
     },
     "HU": {
-      "callsign": "Tour de St-Hubert Tower",
+      "callsign": "St-Hubert Tower",
       "frequency": "118.400",
       "type": "TWR",
       "pre": ["CYHU"],
       "colours": [ {"hex": "#00ea00"} ]
     },
     "JN": {
-      "callsign": "Tour de St-Jean Tower",
+      "callsign": "St-Jean Tower",
       "frequency": "118.200",
       "type": "TWR",
       "pre": ["CYJN"],
       "colours": [ {"hex": "#001b00"} ]
     },
     "MX": {
-      "callsign": "Tour de Mirabel Tower",
+      "callsign": "Mirabel Tower",
       "frequency": "119.100",
       "type": "TWR",
       "pre": ["CYMX"],
@@ -64,105 +64,105 @@
       "colours": [ {"hex": "#004300"} ]
     },
     "OA": {
-      "callsign": "Arrivees d'Ottawa Arrivals",
+      "callsign": "Ottawa Arrivals",
       "frequency": "135.150",
       "type": "APP",
       "pre": ["CYOW"],
       "colours": [ {"hex": "#000056"} ]
     },
     "OD": {
-      "callsign": "Terminal d'Ottawa Terminal",
+      "callsign": "Ottawa Terminal",
       "frequency": "128.175",
       "type": "DEP",
       "pre": ["CYOW"],
       "colours": [ {"hex": "#000085"} ]
     },
     "OW": {
-      "callsign": "Tour d'Ottawa Tower",
+      "callsign": "Ottawa Tower",
       "frequency": "118.800",
       "type": "TWR",
       "pre": ["CYOW"],
       "colours": [ {"hex": "#008100"} ]
     },
     "QC": {
-      "callsign": "Terminal de Quebec Terminal",
+      "callsign": "Quebec Terminal",
       "frequency": "127.850",
       "type": "APP",
       "pre": ["CYQB"],
       "colours": [ {"hex": "#000081"} ]
     },
     "QB": {
-      "callsign": "Tour de Quebec Tower",
+      "callsign": "Quebec Tower",
       "frequency": "118.650",
       "type": "TWR",
       "pre": ["CYQB"],
       "colours": [ {"hex": "#002c00"} ]
     },
     "RC": {
-      "callsign": "Tour de St-Honore Tower",
+      "callsign": "St-Honore Tower",
       "frequency": "118.400",
       "type": "TWR",
       "pre": ["CYRC"],
       "colours": [ {"hex": "#001d00"} ]
     },
     "AE": {
-      "callsign": "Tablier de Montreal Apron",
+      "callsign": "Montreal Apron",
       "frequency": "122.075",
       "type": "RMP",
       "pre": ["CYUL"],
       "colours": [ {"hex": "#002f00"} ]
     },
     "LO": {
-      "callsign": "Arrivees de Montreal Arrivals",
+      "callsign": "Montreal Arrivals",
       "frequency": "126.900",
       "type": "APP",
       "pre": ["CYUL"],
       "colours": [ {"hex": "#0000b0"} ]
     },
     "AN": {
-      "callsign": "Arrivees de Montreal Arrivals",
+      "callsign": "Montreal Arrivals",
       "frequency": "132.850",
       "type": "APP",
       "pre": ["CYUL"],
       "colours": [ {"hex": "#000044"} ]
     },
     "DN": {
-      "callsign": "Departs de Montreal Departures",
+      "callsign": "Montreal Departures",
       "frequency": "124.650",
       "type": "DEP",
       "pre": ["CYUL"],
       "colours": [ {"hex": "#00000e"} ]
     },
     "UN": {
-      "callsign": "Tour de Montreal Tower",
+      "callsign": "Montreal Tower",
       "frequency": "119.300",
       "type": "TWR",
       "pre": ["CYUL"],
       "colours": [ {"hex": "#003c00"} ]
     },
     "AS": {
-      "callsign": "Arrivees de Montreal Arrivals",
+      "callsign": "Montreal Arrivals",
       "frequency": "118.900",
       "type": "APP",
       "pre": ["CYUL"],
       "colours": [ {"hex": "#000032"} ]
     },
     "DS": {
-      "callsign": "Departs de Montreal Departures",
+      "callsign": "Montreal Departures",
       "frequency": "120.425",
       "type": "DEP",
       "pre": ["CYUL"],
       "colours": [ {"hex": "#00001c"} ]
     },
     "UL": {
-      "callsign": "Tour de Montreal Tower",
+      "callsign": "Montreal Tower",
       "frequency": "119.900",
       "type": "TWR",
       "pre": ["CYUL"],
       "colours": [ {"hex": "#00b900"} ]
     },
     "AW": {
-      "callsign": "Tablier de Montreal Apron",
+      "callsign": "Montreal Apron",
       "frequency": "122.275",
       "type": "RMP",
       "pre": ["CYUL"],
@@ -204,168 +204,168 @@
       "colours": [ {"hex": "#00eb00"} ]
     },
     "AY": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "134.400",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#9c8c00"} ]
     },
     "BJ": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "125.900",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#198c00"} ]
     },
     "BZ": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "134.850",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#058c00"} ]
     },
     "CN": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "124.275",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#4f8c00"} ]
     },
     "DD": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "133.225",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#818c00"} ]
     },
     "EW": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "134.200",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#8a8c00"} ]
     },
     "FG": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "134.325",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#858c00"} ]
     },
     "GL": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "133.775",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#658c00"} ]
     },
     "GR": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "132.350",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#c98c00"} ]
     },
     "HV": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "134.650",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#b18c00"} ]
     },
     "JU": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "133.200",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#b88c00"} ]
     },
     "KR": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "135.800",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#7a8c00"} ]
     },
     "LA": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "126.575",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#f38c00"} ]
     },
     "LE": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "123.925",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#3d8c00"} ]
     },
     "MC": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "132.625",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#188c00"} ]
     },
     "MO": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "134.725",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#148c00"} ]
     },
     "MT": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "133.025",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#788c00"} ]
     },
     "NK": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "135.100",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#9c8c00"} ]
     },
     "NR": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "133.975",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#2e8c00"} ]
     },
     "PO": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "127.875",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#db8c00"} ]
     },
     "RW": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "128.225",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#258c00"} ]
     },
     "SV": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "132.450",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#7b8c00"} ]
     },
     "TH": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "128.775",
       "type": "CTR",
       "pre": ["MTL"],
       "colours": [ {"hex": "#da8c00"} ]
     },
     "VA": {
-      "callsign": "Centre de Montreal Centre",
+      "callsign": "Montreal Centre",
       "frequency": "134.975",
       "type": "CTR",
       "pre": ["MTL"],
@@ -385,6 +385,6 @@
     "TWR": {"": "Tower"     },
     "APP": {"": "Arrivals"  },
     "DEP": {"": "Departures"},
-	"RDO": {"": "Radio"}
+	  "RDO": {"": "Radio"}
   }
 }
