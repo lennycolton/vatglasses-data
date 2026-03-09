@@ -5,7 +5,7 @@ FIR_ids_for_this_vacc = ["VCCF","VRMF"]
 
 
 # A file containing only SECTOR data, limited noise (white lines, comments) is allowed. 
-with open('vc-vr.json',"r",encoding='utf-8') as f:
+with open('VATGlasses Data/AIRSPACE1.txt',"r",encoding='utf-8') as f:
     # File like:
     # SECTOR:EBBU·EBBE TMA1A·025·035:02500:03500
     # OWNER:MIL:BI
@@ -74,7 +74,7 @@ for sector in sectors:
     }
 
 # A file containing only SECTORLINES, limited noise (white lines, comments) is allowed. 
-with open('Input/File With Sectorlines for AIRSPACE.txt') as f:
+with open('VATGlasses Data/AIRSPACE.txt') as f:
     # File like:
     # SECTORLINE:572
     # COORD:502517:0004917
