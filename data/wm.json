@@ -3,7 +3,7 @@
     {
       "id": "Terengganu Upper CTR",
       "group": "TWR",
-      "owner": ["SR1", "SR"],
+      "owner": ["ws/JC8", "ws/JC"],
       "sectors": [
         {
           "min": 55,
@@ -23,7 +23,7 @@
     {
       "id": "Johor Upper TMA",
       "group": "APP",
-      "owner": ["SR2", "SR1", "SR", "SSA", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC2", "ws/JC1", "ws/JC", "ws/SSA", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 65,
@@ -126,7 +126,7 @@
     {
       "id": "Kerteh Upper CTR",
       "group": "TWR",
-      "owner": ["SR1", "SR"],
+      "owner": ["ws/JC8", "ws/JC"],
       "sectors": [
         {
           "min": 55,
@@ -177,7 +177,7 @@
     {
       "id": "Delegated Sector 2 Area H",
       "group": "WMFC",
-      "owner": ["SR", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 245,
@@ -200,7 +200,7 @@
     {
       "id": "Delegated Sector 2 Area H",
       "group": "WMFC",
-      "owner": ["SR", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 145,
@@ -268,7 +268,7 @@
     {
       "id": "Delegated Sector 1 Area F",
       "group": "WMFC",
-      "owner": ["SR2", "SR1", "SR", "SSA", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC2", "ws/JC1", "ws/JC", "ws/SSA", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 95,
@@ -342,7 +342,7 @@
     {
       "id": "Delegated Sector 2 Area E",
       "group": "WMFC",
-      "owner": ["SR3", "SR", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC3", "ws/JC", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 325,
@@ -372,7 +372,7 @@
     {
       "id": "Delegated Sector 2 Area E",
       "group": "WMFC",
-      "owner": ["SR3", "SR", "fss/ASEAS", "fss/ASEAN", "SSA"],
+      "owner": ["ws/JC3", "ws/JC", "fss/ASEAS", "fss/ASEAN", "ws/SSAN", "ws/SSA"],
       "sectors": [
         {
           "min": 245,
@@ -402,7 +402,7 @@
     {
       "id": "Delegated Sector 2 Area E",
       "group": "WMFC",
-      "owner": ["SR3", "SR", "SSA", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC3", "ws/JC", "ws/SSAN", "ws/SSA", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 120,
@@ -487,7 +487,7 @@
     {
       "id": "Delegated Sector 1 Area D",
       "group": "WMFC",
-      "owner": ["SR2", "SR1", "SR", "SSA", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC2", "ws/JC1", "ws/JC", "ws/SSA", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 55,
@@ -575,7 +575,7 @@
     {
       "id": "Delegated Sector 2 Area C",
       "group": "WMFC",
-      "owner": ["SR3", "SR", "SSA", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC3", "ws/JC", "ws/SSAN", "ws/SSA", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 245,
@@ -613,7 +613,7 @@
     {
       "id": "Delegated Sector 2 Area C",
       "group": "WMFC",
-      "owner": ["SR3", "SR", "SSA", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC3", "ws/JC", "ws/SSAN", "ws/SSA", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 55,
@@ -773,7 +773,7 @@
     {
       "id": "Delegated Sector 1 Area B",
       "group": "WMFC",
-      "owner": ["SR2", "SR1", "SR", "SSA", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC2", "ws/JC1", "ws/JC", "ws/SSA", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 30,
@@ -944,7 +944,7 @@
       "owner": ["LR4", "LRS", "LR", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
-          "min": 325,
+          "min": 245,
           "max": 459,
           "points": [
             ["015427", "1034905"],
@@ -1085,11 +1085,11 @@
     {
       "id": "Delegated Sector 2 Area A",
       "group": "WMFC",
-      "owner": ["SR3", "SR", "SSA", "fss/ASEAS", "fss/ASEAN"],
+      "owner": ["ws/JC3", "ws/JC", "ws/SSAN", "ws/SSA", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
         {
           "min": 30,
-          "max": 324,
+          "max": 244,
           "points": [
             ["015427", "1034905"],
             ["015459", "1035054"],
@@ -1229,7 +1229,7 @@
     {
       "id": "Delegated Sector 2 Area A",
       "group": "WMFC",
-      "owner": ["SR3", "SR", "SSA"],
+      "owner": ["ws/JC3", "ws/JC", "ws/SSAN", "ws/SSA"],
       "sectors": [
         {
           "min": 20,
@@ -6518,48 +6518,6 @@
       "type": "TWR",
       "pre": ["WMSA"],
       "colours": [{ "hex": "#000200" }]
-    },
-    "PLA": {
-      "callsign": "Paya Lebar Approach",
-      "frequency": "127.700",
-      "type": "APP",
-      "pre": ["WSAP"],
-      "colours": [{ "hex": "#000093" }]
-    },
-    "SR1": {
-      "callsign": "Singapore Radar",
-      "frequency": "134.400",
-      "type": "CTR",
-      "pre": ["WSJC"],
-      "colours": [{ "hex": "#fa8c00" }]
-    },
-    "SR2": {
-      "callsign": "Singapore Radar",
-      "frequency": "133.250",
-      "type": "CTR",
-      "pre": ["WSJC"],
-      "colours": [{ "hex": "#f38c00" }]
-    },
-    "SR3": {
-      "callsign": "Singapore Radar",
-      "frequency": "133.800",
-      "type": "CTR",
-      "pre": ["WSJC"],
-      "colours": [{ "hex": "#e28c00" }]
-    },
-    "SR": {
-      "callsign": "Singapore Radar",
-      "frequency": "123.700",
-      "type": "CTR",
-      "pre": ["WSJC"],
-      "colours": [{ "hex": "#ff8c00" }]
-    },
-    "SSA": {
-      "callsign": "Singapore Approach",
-      "frequency": "124.600",
-      "type": "APP",
-      "pre": ["WSSS"],
-      "colours": [{ "hex": "#000044" }]
     }
   },
   "callsigns": {
