@@ -2048,7 +2048,7 @@
 			"type": "CTR",
 			"pre": ["EFIN"],
 			"colours": [{
-				"hex": "#30a1c3"
+				"hex": "#4479c7"
 			}]
         },
         "B": {
