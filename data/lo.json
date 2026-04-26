@@ -3834,7 +3834,21 @@
     {
       "id": "Klagenfurt",
       "group": "LOWK",
-      "owner": ["AK", "AGK"],
+      "owner": [
+        "AK",
+        "AGK",
+        "VCL",
+        "VCW",
+        "VCWC",
+        "VCS",
+        "VCB",
+        "VCBC",
+        "VC",
+        "VCC",
+        "VCWU",
+        "VCSU",
+        "VCBU"
+      ],
       "sectors": [
         {
           "min": 125,
