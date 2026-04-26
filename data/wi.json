@@ -2,7 +2,7 @@
   "airspace": [
     { "id": "UBAC_UTA",
       "group": "WIIF",
-      "owner": ["BC","MN","WIIF"],
+      "owner": ["BC","MN","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -20,7 +20,7 @@
     },
     { "id": "UBND_UTA",
       "group": "WIIF",
-      "owner": ["BD","SG","WIIF"],
+      "owner": ["BD","SG","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -42,7 +42,7 @@
     },
     { "id": "UIOS_UTA",
       "group": "WIIF",
-      "owner": ["IS","MN","WIIF"],
+      "owner": ["IS","MN","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -62,7 +62,7 @@
     },
     { "id": "UJKT_UTA",
       "group": "WIIF",
-      "owner": ["JT","WIIF"],
+      "owner": ["JT","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -86,7 +86,7 @@
     },
     { "id": "UJOG_UTA",
       "group": "WIIF",
-      "owner": ["JG","SG","WIIF"],
+      "owner": ["JG","SG","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 300,
@@ -127,7 +127,7 @@
     },
 		{ "id": "Yogyakarta MCA",
 			"group" : "WIIF",
-			"owner": ["wa/HHA","wa/SY","wa/BI","wa/WAAF","JG","SG","WIIF","fss/ASEAS"],
+			"owner": ["wa/HHA","wa/SY","wa/BI","wa/WAAF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -145,7 +145,7 @@
 		},
     { "id": "UMDN_UTA",
       "group": "WIIF",
-      "owner": ["MN","WIIF"],
+      "owner": ["MN","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -164,7 +164,7 @@
     },
     { "id": "UNTA_UTA",
       "group": "WIIF",
-      "owner": ["NA","PK","WIIF","ws/JC4","ws/JC1","ws/JC","fss/ASEAS", "fss/ASEAN"],
+      "owner": ["NA","PK","WIIF","ws/JC4","ws/JC1","ws/JC","fss/ASEAS"],
       "sectors": [
         {
           "min": 371,
@@ -209,7 +209,7 @@
     },
     { "id": "UPKP_UTA",
       "group": "WIIF",
-      "owner": ["PP","JT","WIIF"],
+      "owner": ["PP","JT","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -287,7 +287,7 @@
     },
     { "id": "UPKU_UTA",
       "group": "WIIF",
-      "owner": ["PU","JT","WIIF"],
+      "owner": ["PU","JT","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -327,7 +327,7 @@
     },
     { "id": "UPLB_UTA",
       "group": "WIIF",
-      "owner": ["PB","JT","WIIF"],
+      "owner": ["PB","JT","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -348,7 +348,7 @@
     },
     { "id": "UPNK_UTA",
       "group": "WIIF",
-      "owner": ["PK","WIIF"],
+      "owner": ["PK","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -1053,7 +1053,7 @@
     },
     { "id": "USMG_UTA",
       "group": "WIIF",
-      "owner": ["SG","WIIF"],
+      "owner": ["SG","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -1072,7 +1072,7 @@
     },
     { "id": "UTPN_UTA",
       "group": "WIIF",
-      "owner": ["TN", "PK", "WIIF"],
+      "owner": ["TN", "PK", "WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -1140,7 +1140,7 @@
     },
     { "id": "UTPG_UTA",
       "group": "WIIF",
-      "owner": ["TG","PK","WIIF","fss/ASEAS", "fss/ASEAN"],
+      "owner": ["TG","PK","WIIF","fss/ASEAS"],
       "sectors": [
         {
           "min": 245,
@@ -1158,7 +1158,7 @@
     },
     { "id": "UTPG_UTA DELEGATED TO SINGAPORE WHEN WIIF OFFLINE",
       "group": "WIIF",
-      "owner": ["TG","NA","PK","WIIF","ws/JC4","ws/JC1","ws/JC","fss/ASEAS", "fss/ASEAN"],
+      "owner": ["TG","NA","PK","WIIF","ws/JC4","ws/JC1","ws/JC","fss/ASEAS","fss/ASEAN"],
       "sectors": [
         {
           "min": 245,
@@ -8705,29 +8705,29 @@
   ],
   "groups": {
     "WIIF": {
-        "name":"Jakarta ACC"
+      "name":"Jakarta ACC"
     },
     "WIII": {
-        "name": "Jakarta APP"
+      "name": "Jakarta APP"
     },
     "APP":{
       "name": "APP control unit"
     },
     "TWR": {
-        "name": "Aerodrome control unit"
+      "name": "Aerodrome control unit"
     },
     "WIIZ": {
       "name": "Jakarta Information"
     },
     "WIMZ":{
-       "name": "Medan Information"
+      "name": "Medan Information"
     },
     "TMA": {
-        "name": "TMAs"
+      "name": "TMAs"
     },
     "CTR": {
-        "name": "CTRs",
-        "colour": "#AA33AA"
+      "name": "CTRs",
+      "colour": "#AA33AA"
     },
     "PROC":{
       "name": "Procedural Airspace",
@@ -9057,6 +9057,13 @@
       "pre": ["WIBB"],
       "type":"APP",
       "colours": [{ "hex": "#54A3F3" }] 
+    },
+    "DNA":{
+      "callsign": "Tanjung Pinang Radar",
+      "frequency": "130.200",
+      "type": "APP",
+      "pre": ["WIDN"],
+      "colours": [{ "hex": "#FFFF66" }]
     },
     "DNAN": {
       "callsign": "Tanjung Pinang Radar",
