@@ -9171,7 +9171,8 @@
   },
   "WICD": {
     "callsign": "CAKRABHUWANA",
-    "coord": [ "-6.756389","108.538333"]
+    "coord": [ "-6.756389","108.538333"],
+    "topdown": ["CDT","CAT","IIA","JT","WIIF"]
   },
   "WICK": {
     "callsign": "SULAIMAN",
@@ -9285,7 +9286,8 @@
   },
   "WIKT": {
     "callsign": "H.AS. HANANdjoeddin",
-    "coord": [ "-2.745278","107.753056"]
+    "coord": [ "-2.745278","107.753056"],
+    "topdown": ["KTA","KKA","PP","JT","WIIF"]
   },
   "WILB": {
     "callsign": "TAMLING",
