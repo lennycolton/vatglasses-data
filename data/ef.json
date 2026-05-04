@@ -1034,9 +1034,9 @@
             ]
         }]
     },{
-        "id": "EFHK CTR NORTH",
+        "id": "EFHK CTR",
         "group": "ADC",
-        "owner": ["HKTWE", "HKTWW", "RW", "RW", "A", "D", "C"],
+        "owner": ["HKTWE", "HKTWW", "RE", "RW", "A", "D", "C"],
         "sectors": [{
             "max": 13,
             "points": [
