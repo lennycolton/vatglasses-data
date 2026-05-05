@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-      "id": "Algiers North Central",
+      "id": "North Central",
       "group": "CTR",
       "owner": ["NC", "C", "AC", "fss/AFRN"],
       "sectors": [
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "id": "Algiers North East",
+      "id": "North East",
       "group": "CTR",
       "owner": ["NE", "E", "AC", "fss/AFRN"],
       "sectors": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "id": "Algiers North West",
+      "id": "North West",
       "group": "CTR",
       "owner": ["NW", "W", "AC", "fss/AFRN"],
       "sectors": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "id": "Algiers South Central",
+      "id": "South Central",
       "group": "CTR",
       "owner": ["SC", "C", "AC", "fss/AFRN"],
       "sectors": [
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "id": "Algiers South",
+      "id": "South",
       "group": "CTR",
       "owner": ["SS", "E", "AC", "fss/AFRN"],
       "sectors": [
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "id": "Algiers South West",
+      "id": "South West",
       "group": "CTR",
       "owner": ["SW", "W", "AC", "fss/AFRN"],
       "sectors": [
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "id": "Algiers South East",
+      "id": "South East",
       "group": "CTR",
       "owner": ["SE", "E", "AC", "fss/AFRN"],
       "sectors": [
@@ -566,7 +566,7 @@
       "sectors": [
         {
           "min": 0,
-          "max": 105,
+          "max": 15,
           "points": [
             ["365901","0073405"],
             ["371009","0074636"],

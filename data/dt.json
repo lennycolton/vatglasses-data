@@ -2267,7 +2267,7 @@
       ]
     },
     {
-      "id": "NORTH High ALL",
+      "id": "North High All",
       "group": "CTR",
       "owner": ["TCNU", "TC"],
       "sectors": [
@@ -2726,7 +2726,7 @@
       ]
     },
     {
-      "id": "South High ALL",
+      "id": "South High All",
       "group": "CTR",
       "owner": ["TCS", "TC", "fss/AFRN"],
       "sectors": [
