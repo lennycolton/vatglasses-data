@@ -287,7 +287,7 @@
         "group": "APC",
         "owner": ["KKTMA", "V", "M", "G", "F", "D", "C"],
         "sectors": [{
-            "min": 14,
+            "min": 19,
             "max": 94,
             "points": [
                 ["640001", "0232747"],
