@@ -1092,7 +1092,7 @@
       ]
     },
     { "id": "WIBB_TMA",
-      "group": "TMA",
+      "group": "APP",
       "owner": ["BBA","PU","JT","WIIF"],
       "sectors": [
         {
@@ -1211,7 +1211,7 @@
       ]
     },
     { "id": "WIDN_N_TMA",
-      "group": "TMA",
+      "group": "APP",
       "owner": ["DNAN","NA","PK","WIIF"],
       "sectors": [
         {
@@ -1237,7 +1237,7 @@
       ]
     },
     { "id": "WIDN_S_TMA",
-      "group": "TMA",
+      "group": "APP",
       "owner": ["DNAS","TG","PK","WIIF"],
       "sectors": [
         {
@@ -1270,7 +1270,7 @@
       ]
     },
     { "id": "WIEE_TMA",
-      "group": "TMA",
+      "group": "APP",
       "owner": ["EEA","PU","JT","WIIF"],
       "sectors": [
         {
@@ -1484,7 +1484,7 @@
       ]
     },
     { "id": "WIII_E_TMA",
-      "group": "TMA",
+      "group": "WIII",
       "owner": ["IIATE","IIATS","IIALC","IIA","WIIF"],
       "sectors": [
         {
@@ -1634,7 +1634,7 @@
       ]
     },
     { "id": "WIII_S_TMA",
-      "group": "",
+      "group": "WIII",
       "owner": ["IIATS","IIALE","IIA","WIIF"],
       "sectors": [
         {
@@ -1746,7 +1746,7 @@
       ]
     },
     { "id": "WIII_W_TMA",
-      "group": "",
+      "group": "WIII",
       "owner": ["IIATW","IIALN","IIA","WIIF"],
       "sectors": [
         {
@@ -1862,7 +1862,7 @@
       ]
     },
     { "id": "WIKK_TMA",
-      "group": "TMA",
+      "group": "APP",
       "owner": ["KKA","PP","JT","TN","PK","WIIF"],
       "sectors": [
         {
@@ -1894,7 +1894,7 @@
       ]
     },
     { "id": "WIMM_E_TMA",
-      "group": "TMA",
+      "group": "APP",
       "owner": ["MMAE","MMA","MN","WIIF"],
       "sectors": [
         {
@@ -1911,7 +1911,7 @@
       ]
     },
     { "id": "WIMM_W_TMA",
-      "group": "TMA",
+      "group": "APP",
       "owner": ["MMAW","MMA","MMAE","MN","BC","WIIF"],
       "sectors": [
         {
@@ -1929,7 +1929,7 @@
       ]
     },
     { "id": "WIOO_TMA",
-      "group": "TMA",
+      "group": "APP",
       "owner": ["OOA","PK","WIIF"],
       "sectors": [
         {
@@ -3414,7 +3414,7 @@
       ]
     },
     { "id": "WIPP_TMA",
-      "group": "TMA",
+      "group": "APP",
       "owner": ["PPA","PB","JT","WIIF"],
       "sectors": [
         {
@@ -3435,7 +3435,7 @@
       ]
     },
     { "id": "WIBB_CTR",
-      "group": "CTR",
+      "group": "APP",
       "owner": ["BBAF","BBA","PB","JT","WIIF"],
       "sectors": [
         {
@@ -3520,7 +3520,7 @@
       ]
     },
     { "id": "WIBJ_ATZ",
-      "group": "",
+      "group": "TWR",
       "owner": ["BJT","BBA","PU","JT","WIIF"],
       "sectors": [
         {
@@ -3644,7 +3644,7 @@
       ]
     },
     { "id": "WICC_ATZ",
-      "group": "PROC",
+      "group": "TWR",
       "owner": ["CCT","CCA","IIALE","IIA","JT","WIIF"],
         "sectors": [
         {
@@ -3753,7 +3753,7 @@
       ]
     },
     { "id": "WICM_ATZ",
-      "group": "",
+      "group": "TWR",
       "owner": ["CMT","CCA","IIALE","IIA","JT","WIIF"],
       "sectors": [
         {
@@ -3838,7 +3838,7 @@
       ]
     },
     { "id": "WICN_ATZ",
-      "group": "",
+      "group": "TWR",
       "owner": ["CNT","CCA","IIALE","IIA","JT","WIIF"],
       "sectors": [
         {
@@ -3923,7 +3923,7 @@
       ]
     },
     { "id": "WIDM_CTR",
-      "group": "",
+      "group": "APP",
       "owner": ["DMA","DNAN","NA","TG","WIIF"],
       "sectors": [
         {
@@ -3983,7 +3983,7 @@
       ]
     },
     { "id": "WIDN_N_CTR",
-      "group": "",
+      "group": "APP",
       "owner": [],
       "sectors": [
         {
@@ -4020,7 +4020,7 @@
       ]
     },
     { "id": "WIDN_S_CTR",
-      "group": "",
+      "group": "APP",
       "owner": [],
       "sectors": [
         {
@@ -4076,7 +4076,7 @@
       ]
     },
     { "id": "WIDO_CTR",
-      "group": "",
+      "group": "APP",
       "owner": ["DOA","DNAN","DNAS","NA","TG","WIIF"],
       "sectors": [
         {
@@ -4147,7 +4147,7 @@
       ]
     },
     { "id": "WIEE_CTR",
-      "group": "CTR",
+      "group": "APP",
       "owner": ["EEA","PU","JT","WIIF"],
       "sectors": [
         {
@@ -4224,7 +4224,7 @@
       ]
     },
     { "id": "WIGG_CTR",
-      "group": "CTR",
+      "group": "APP",
       "owner": ["PPA","PB","JT","WIIF"],
       "sectors": [
         {
@@ -4309,7 +4309,7 @@
       ]
     },
     { "id": "WIHH_ATZ",
-      "group": "",
+      "group": "TWR",
       "owner": ["HHT","IIAF","IIATS","IIALE","IIA","WIIF"],
       "sectors": [
         {
@@ -4737,7 +4737,7 @@
       ]
     },
     { "id": "WIJJ_CTR",
-      "group": "",
+      "group": "APP",
       "owner": ["JJA","PPA","PB","JT","WIIF"],
       "sectors": [
         {
@@ -4779,7 +4779,7 @@
       ]
     },
     { "id": "WIKK_CTR",
-      "group": "CTR",
+      "group": "APP",
       "owner": ["KKA","PP","JT","TN","PK","WIIF"],
       "sectors": [
         {
@@ -4811,7 +4811,7 @@
       ]
     },
     { "id": "WIKT_CTR",
-      "group": "",
+      "group": "APP",
       "owner": ["KTA","KKA","PP","JT","TN","PK","WIIF"],
       "sectors": [
         {
@@ -4896,7 +4896,7 @@
       ]
     },
     { "id": "WILL_CTR",
-      "group": "",
+      "group": "PROC",
       "owner": ["LLT","IIALN","IIA","WIIF"],
       "sectors": [
         {
@@ -4928,7 +4928,7 @@
       ]
     },
     { "id": "WIMB_ATZ",
-      "group": "",
+      "group": "TWR",
       "owner": ["MBT","MN","WIIF"],
       "sectors": [
         {
@@ -5013,7 +5013,7 @@
       ]
     },
     { "id": "WIMM_CTR",
-      "group": "CTR",
+      "group": "APP",
       "owner": ["MMAE","MMA","MN","WIIF"],
       "sectors": [
         {
@@ -5098,7 +5098,7 @@
       ]
     },
     { "id": "WIMN_CTR",
-      "group": "CTR",
+      "group": "PROC",
       "owner": ["MNT","MMAE","MMA","MN","WIIF"],
       "sectors": [
         {
@@ -5183,7 +5183,7 @@
       ]
     },
     { "id": "WIOK_ATZ",
-      "group": "",
+      "group": "TWR",
       "owner": [],
       "sectors": [
         {
@@ -5268,7 +5268,7 @@
       ]
     },
     { "id": "WIOO_CTR",
-      "group": "CTR",
+      "group": "APP",
       "owner": ["OOAF","OOA","PK","WIIF"],
       "sectors": [
         {
@@ -5353,7 +5353,7 @@
       ]
     },
     { "id": "WIPP_CTR",
-      "group": "",
+      "group": "APP",
       "owner": ["PPA","PB","JT","WIIF"],
       "sectors": [
         {
@@ -5395,7 +5395,7 @@
       ]
     },
     { "id": "WIRR_CTR",
-      "group": "",
+      "group": "TWR",
       "owner": ["RRT", "IIAF","IIA","WIIF"],
       "sectors": [
         {
@@ -7915,7 +7915,7 @@
       ]
     },
     { "id": "WIEE_TMA Class G",
-      "group": "",
+      "group": "WIMZ",
       "owner": ["WIMZ","EEA","PU","WIIF"],
       "sectors": [
         {
@@ -8722,16 +8722,8 @@
     "WIMZ":{
       "name": "Medan Information"
     },
-    "TMA": {
-      "name": "TMAs"
-    },
-    "CTR": {
-      "name": "CTRs",
-      "colour": "#AA33AA"
-    },
     "PROC":{
-      "name": "Procedural Airspace",
-      "colour": "#0090FF"
+      "name": "Procedural Airspace"
     }
   },
   "positions": {
@@ -8990,7 +8982,6 @@
     "KKA":{
       "callsign": "Pangkal Pinang Radar",
       "pre": ["WIKK"],
-      "group": "APP",
       "frequency": "123.600",
       "type": "APP",
       "colours": [{ "hex": "#E637F0" }]   
@@ -8998,7 +8989,6 @@
     "KTA":{
       "callsign": "Tanjung Pinang Radar",
       "pre": ["WIKT"],
-      "group": "APP",
       "frequency": "123.300",
       "type": "APP",
       "colours": [{ "hex": "#F083F7" }]   
@@ -9171,8 +9161,7 @@
   },
   "WICD": {
     "callsign": "CAKRABHUWANA",
-    "coord": [ "-6.756389","108.538333"],
-    "topdown": ["CDT","CAT","IIA","JT","WIIF"]
+    "coord": [ "-6.756389","108.538333"]
   },
   "WICK": {
     "callsign": "SULAIMAN",
@@ -9286,8 +9275,7 @@
   },
   "WIKT": {
     "callsign": "H.AS. HANANdjoeddin",
-    "coord": [ "-2.745278","107.753056"],
-    "topdown": ["KTA","KKA","PP","JT","WIIF"]
+    "coord": [ "-2.745278","107.753056"]
   },
   "WILB": {
     "callsign": "TAMLING",
