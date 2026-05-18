@@ -190,7 +190,7 @@
             "id": "Siauliai",
             "group": "APP",
             "owner": [
-                "EYSA_APP",
+                "EYSA_TWR",
         		"EYVL_CTR"
             ],
             "sectors": [
@@ -243,7 +243,7 @@
             "id": "Palanga",
             "group": "APP",
             "owner": [
-                "EYPA_APP",
+                "EYPA_TWR",
 		        "EYVL_CTR"
             ],
             "sectors": [
@@ -370,7 +370,7 @@
             "id": "Kaunas",
             "group": "APP",
             "owner": [
-                "EYKA_APP",
+                "EYKA_TWR",
         		"EYVL_E_CTR",
         		"EYVL_CTR"
             ],
@@ -473,7 +473,7 @@
             "id": "Siauliai",
             "group": "TWR",
             "owner": [
-                "EYSA_APP",
+                "EYSA_TWR",
         		"EYVL_CTR"
             ],
             "sectors": [
@@ -493,7 +493,7 @@
             "id": "Palanga",
             "group": "TWR",
             "owner": [
-                "EYPA_APP",
+                "EYPA_TWR",
 	        	"EYVL_CTR"
             ],
             "sectors": [
@@ -525,7 +525,7 @@
             "id": "Kaunas",
             "group": "TWR",
             "owner": [
-                "EYKA_APP",
+                "EYKA_TWR",
             	"EYVL_CTR"
             ],
             "sectors": [
@@ -2247,12 +2247,12 @@
 	"EYVL_E_CTR": {"colours": [{"hex": "#6495ed"}], "pre": ["EYVL"], "type": "CTR", "frequency": "135.380", "callsign": "Vilnius Control"},
 	"EYVL_M_CTR": {"colours": [{"hex": "#ccccff"}], "pre": ["EYVL"], "type": "CTR", "frequency": "133.430", "callsign": "Vilnius Control"},
 
-	"EYKA_APP": {"colours": [{"hex": "#40E0D0"}], "pre": ["EYKA"], "type": "APP", "frequency": "124.205", "callsign": "Kaunas Tower"},
-	"EYPA_APP": {"colours": [{"hex": "#008080"}], "pre": ["EYPA"], "type": "APP", "frequency": "124.305", "callsign": "Palanga Tower"},
-	"EYSA_APP": {"colours": [{"hex": "#9FE2BF"}], "pre": ["EYSA"], "type": "APP", "frequency": "120.405", "callsign": "Siauliai Tower"},
 	"EYVI_APP": {"colours": [{"hex": "#c7b192"}], "pre": ["EYVI"], "type": "APP", "frequency": "120.705", "callsign": "Vilnius Approach"},
 
 	"EYVI_TWR": {"colours": [{"hex": ""}], "pre": ["EYVI"], "type": "TWR", "frequency": "118.205", "callsign": "Vilnius Tower"}
+	"EYKA_TWR": {"colours": [{"hex": "#40E0D0"}], "pre": ["EYKA"], "type": "APP", "frequency": "124.205", "callsign": "Kaunas Tower"},
+	"EYPA_TWR": {"colours": [{"hex": "#008080"}], "pre": ["EYPA"], "type": "APP", "frequency": "124.305", "callsign": "Palanga Tower"},
+	"EYSA_TWR": {"colours": [{"hex": "#9FE2BF"}], "pre": ["EYSA"], "type": "APP", "frequency": "120.405", "callsign": "Siauliai Tower"},
 
 
 
@@ -2287,7 +2287,7 @@
             "callsign": "Kaunas",
             "coord": [54.963919, 24.084778],
             "topdown": [
-                "EYKA_APP",
+                "EYKA_TWR",
                 "EYVL_CTR"
             ]
         },
@@ -2295,7 +2295,7 @@
             "callsign": "Siauliai",
             "coord": [55.893886, 23.394975],
             "topdown": [
-				"EYSA_APP",
+				"EYSA_TWR",
                 "EYVL_E_CTR",
                 "EYVL_CTR"
             ]
@@ -2304,7 +2304,7 @@
             "callsign": "Palanga",
             "coord": [55.973333, 21.093889],
             "topdown": [
-                "EYPA_APP",
+                "EYPA_TWR",
                 "EYVL_CTR"
             ]
         }
