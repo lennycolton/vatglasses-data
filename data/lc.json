@@ -718,77 +718,77 @@
   "positions": {
     "NC7": {
       "callsign": "Nicosia Radar",
-      "frequency": "127.075",
+      "frequency": "127.080",
       "type": "CTR",
       "pre": ["LCCC"],
       "colours": [{ "hex": "#ff69b4" }]
     },
     "NC4": {
       "callsign": "Nicosia Radar",
-      "frequency": "126.300",
+      "frequency": "126.305",
       "type": "CTR",
       "pre": ["LCCC"],
       "colours": [{ "hex": "#dc143c" }]
     },
     "NC5": {
       "callsign": "Nicosia Radar",
-      "frequency": "129.550",
+      "frequency": "129.555",
       "type": "CTR",
       "pre": ["LCCC"],
       "colours": [{ "hex": "#ba55d3" }]
     },
     "NC2": {
       "callsign": "Nicosia Radar",
-      "frequency": "128.600",
+      "frequency": "128.605",
       "type": "CTR",
       "pre": ["LCCC"],
       "colours": [{ "hex": "#ff4500" }]
     },
     "NC6": {
       "callsign": "Nicosia Radar",
-      "frequency": "128.075",
+      "frequency": "128.080",
       "type": "CTR",
       "pre": ["LCCC"],
       "colours": [{ "hex": "#00bfff" }]
     },
     "NC3": {
       "callsign": "Nicosia Radar",
-      "frequency": "125.500",
+      "frequency": "125.505",
       "type": "CTR",
       "pre": ["LCCC"],
       "colours": [{ "hex": "#228b22" }]
     },
     "NC1": {
       "callsign": "Nicosia Radar",
-      "frequency": "124.200",
+      "frequency": "124.205",
       "type": "CTR",
       "pre": ["LCCC"],
       "colours": [{ "hex": "#ffd700" }]
     },
     "LCA": {
       "callsign": "Larnaca Approach",
-      "frequency": "130.200",
+      "frequency": "130.205",
       "type": "APP",
       "pre": ["LCLK"],
       "colours": [{ "hex": "#4169e1" }]
     },
     "TLK": {
       "callsign": "Larnaca Tower",
-      "frequency": "121.200",
+      "frequency": "121.205",
       "type": "TWR",
       "pre": ["LCLK"],
       "colours": [{ "hex": "#9acd32" }]
     },
     "PFO": {
       "callsign": "Pafos Approach",
-      "frequency": "130.625",
+      "frequency": "119.905",
       "type": "APP",
       "pre": ["LCPH"],
       "colours": [{ "hex": "#c71585" }]
     },
     "TPH": {
       "callsign": "Pafos Tower",
-      "frequency": "119.900",
+      "frequency": "130.625",
       "type": "TWR",
       "pre": ["LCPH"],
       "colours": [{ "hex": "#ffa500" }]

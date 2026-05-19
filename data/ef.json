@@ -352,6 +352,68 @@
     },{
         "id": "EFJY CTA",
         "group": "APC",
+		"fua": [
+        {
+          "start": {
+            "day": 1,
+            "hour": 7,
+            "minute": 0
+          },
+          "end": {
+            "day": 1,
+            "hour": 14,
+            "minute": 0
+          }
+        },
+        {
+          "start": {
+            "day": 2,
+            "hour": 7,
+            "minute": 0
+          },
+          "end": {
+            "day": 2,
+            "hour": 14,
+            "minute": 0
+          }
+        },
+		{
+          "start": {
+            "day": 3,
+            "hour": 7,
+            "minute": 0
+          },
+          "end": {
+            "day": 3,
+            "hour": 14,
+            "minute": 0
+          }
+        },
+			{
+          "start": {
+            "day": 4,
+            "hour": 7,
+            "minute": 0
+          },
+          "end": {
+            "day": 4,
+            "hour": 14,
+            "minute": 0
+          }
+        },
+			{
+          "start": {
+            "day": 5,
+            "hour": 7,
+            "minute": 0
+          },
+          "end": {
+            "day": 5,
+            "hour": 12,
+            "minute": 0
+          }
+        }
+      ],
         "owner": ["JYTMA", "M", "G", "F", "D", "C"],
         "sectors": [{
             "min": 20,
