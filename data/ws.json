@@ -517,7 +517,7 @@
       ]
     },
     {
-      "id": "Singapore Sector 4 (Class G)",
+      "id": "Sector 4 (Class G)",
       "group": "WSJC-WIIF",
       "owner": ["JC4", "JC1", "JC"],
       "sectors": [
@@ -544,7 +544,7 @@
       ]
     },
     {
-      "id": "Singapore Sector 2 (Class G)",
+      "id": "Sector 2 (Class G)",
       "group": "WSJC-WIIF",
       "owner": ["JC2", "JC1", "JC"],
       "sectors": [
@@ -583,7 +583,7 @@
       ]
     },
     {
-      "id": "Singapore Sector 1 (Class G)",
+      "id": "Sector 1 (Class G)",
       "group": "WSJC-WIIF",
       "owner": ["JC1", "JC"],
       "sectors": [
@@ -615,7 +615,7 @@
       ]
     },
     {
-      "id": "Singapore Terminal Area (South) (Class G)",
+      "id": "Singapore (South) (Class G)",
       "group": "APP",
       "owner": ["SSA", "JC1", "JC"],
       "sectors": [
@@ -667,7 +667,7 @@
       ]
     },
     {
-      "id": "Singapore Terminal Area (North) (Class G)",
+      "id": "Singapore (North) (Class G)",
       "group": "APP",
       "owner": ["SSAN", "SSA", "JC1", "JC"],
       "sectors": [
@@ -719,7 +719,7 @@
       ]
     },
     {
-      "id": "Paya Lebar Terminal Area (Class G)",
+      "id": "Paya Lebar (Class G)",
       "group": "APP",
       "owner": ["APA", "SSA", "JC1", "JC"],
       "sectors": [
@@ -796,7 +796,7 @@
       ]
     },
     {
-      "id": "Singapore Sector 4",
+      "id": "Sector 4",
       "group": "WSJC-WIIF",
       "owner": ["JC4", "JC1", "JC"],
       "sectors": [
@@ -823,7 +823,7 @@
       ]
     },
     {
-      "id": "Singapore Sector 2",
+      "id": "Sector 2",
       "group": "WSJC-WIIF",
       "owner": ["JC2", "JC1", "JC"],
       "sectors": [
@@ -862,7 +862,7 @@
       ]
     },
     {
-      "id": "Singapore Sector 1",
+      "id": "Sector 1",
       "group": "WSJC-WIIF",
       "owner": ["JC1", "JC"],
       "sectors": [
@@ -894,7 +894,7 @@
       ]
     },
     {
-      "id": "Singapore Terminal Area (South)",
+      "id": "Singapore (South)",
       "group": "APP",
       "owner": ["SSA", "JC1", "JC"],
       "sectors": [
@@ -946,7 +946,7 @@
       ]
     },
     {
-      "id": "Singapore Terminal Area (North)",
+      "id": "Singapore (North)",
       "group": "APP",
       "owner": ["SSAN", "SSA", "JC1", "JC"],
       "sectors": [
@@ -998,7 +998,7 @@
       ]
     },
     {
-      "id": "Singapore Terminal Area (Final (N))",
+      "id": "Singapore (Final N)",
       "group": "APP",
       "owner": ["SSF", "SSA", "JC1", "JC"],
       "sectors": [
@@ -1037,7 +1037,7 @@
       ]
     },
     {
-      "id": "Singapore Terminal Area (Final (S))",
+      "id": "Singapore (Final S)",
       "group": "APP",
       "owner": ["SSF", "SSA", "JC1", "JC"],
       "sectors": [
@@ -1076,7 +1076,7 @@
       ]
     },
     {
-      "id": "Paya Lebar Terminal Area",
+      "id": "Paya Lebar",
       "group": "APP",
       "owner": ["APA", "SSA", "JC1", "JC"],
       "sectors": [
@@ -1212,7 +1212,7 @@
       ]
     },
     {
-      "id": "Singapore Sector 4",
+      "id": "Sector 4",
       "group": "WSJC-WIIF",
       "owner": ["JC4", "JC1", "JC", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
@@ -1239,7 +1239,7 @@
       ]
     },
     {
-      "id": "Singapore Sector 2",
+      "id": "Sector 2",
       "group": "WSJC-WIIF",
       "owner": ["JC2", "JC1", "JC", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
@@ -1278,7 +1278,7 @@
       ]
     },
     {
-      "id": "Singapore Sector 1",
+      "id": "Sector 1",
       "group": "WSJC-WIIF",
       "owner": ["JC1", "JC", "fss/ASEAS", "fss/ASEAN"],
       "sectors": [
@@ -1310,9 +1310,9 @@
       ]
     },
     {
-      "id": "Tanjung Pinang TMA",
+      "id": "Tanjung Pinang (TMA)",
       "group": "APP",
-      "owner": ["DNA", "JC1", "JC"],
+      "owner": ["wi/DNA", "JC1", "JC"],
       "sectors": [
         {
           "min": 30,
@@ -1357,9 +1357,9 @@
       ]
     },
     {
-      "id": "Tanjung Pinang South CTR",
+      "id": "Tanjung Pinang (CTR South)",
       "group": "APP",
-      "owner": ["DNA", "JC1", "JC"],
+      "owner": ["wi/DNA", "JC1", "JC"],
       "sectors": [
         {
           "min": 0,
@@ -1406,9 +1406,9 @@
       ]
     },
     {
-      "id": "Tanjung Pinang North CTR",
+      "id": "Tanjung Pinang (CTR North)",
       "group": "APP",
-      "owner": ["DNA", "SSD", "SSAN", "SSA", "JC1", "JC"],
+      "owner": ["wi/DNA", "SSD", "SSAN", "SSA", "JC1", "JC"],
       "sectors": [
         {
           "min": 0,
@@ -1739,7 +1739,7 @@
       ]
     },
     {
-      "id": "Seletar CTR",
+      "id": "Seletar",
       "group": "TWR",
       "owner": ["SLT", "APA", "SSD", "SSA", "JC1", "JC"],
       "sectors": [
@@ -1821,7 +1821,7 @@
       ]
     },
     {
-      "id": "Paya Lebar CTR",
+      "id": "Paya Lebar",
       "group": "TWR",
       "owner": ["APT", "APA", "SSD", "SSA", "JC1", "JC"],
       "sectors": [
@@ -1847,7 +1847,7 @@
       ]
     },
     {
-      "id": "Changi CTR",
+      "id": "Changi",
       "group": "TWR",
       "owner": ["SST1", "SST2", "SST3", "SSF", "SSA", "SSD", "JC1", "JC"],
       "sectors": [
@@ -1876,10 +1876,7 @@
       "name": "Singapore"
     },
     "WSJC-WIIF": {
-      "name": "Jakarta-Singapore Delegated Area"
-    },
-    "WIIF": {
-      "name": "Jakarta"
+      "name": "Singapore"
     },
     "APP": {
       "name": "Approach"
@@ -1983,13 +1980,6 @@
       "pre": ["WSAP"],
       "colours": [{ "hex": "#FF9900" }]
     },
-    "DNA": {
-      "callsign": "Tanjung Pinang Approach",
-      "frequency": "130.200",
-      "type": "APP",
-      "pre": ["WIDN"],
-      "colours": [{ "hex": "#FFFF66" }]
-    },
     "SST1": {
       "callsign": "Singapore Tower",
       "frequency": "118.600",
@@ -2076,17 +2066,17 @@
     "WIDD": {
       "callsign": "Hang Nadim",
       "coord": [1.118889, 104.113889],
-      "topdown": ["DNA", "SSD", "SSAN", "SSA", "JC1", "JC"]
+      "topdown": ["wi/DNA", "SSD", "SSAN", "SSA", "JC1", "JC"]
     },
     "WIDN": {
       "callsign": "Raja",
       "coord": [0.918889, 104.526944],
-      "topdown": ["DNA", "SSD", "SSAN", "SSA", "JC1", "JC"]
+      "topdown": ["wi/DNA", "SSD", "SSAN", "SSA", "JC1", "JC"]
     },
     "WIDT": {
       "callsign": "Raja Haji Abdullah",
       "coord": [1.051389, 103.39],
-      "topdown": ["DNA", "SSD", "SSAN", "SSA", "JC1", "JC"]
+      "topdown": ["wi/DNA", "SSD", "SSAN", "SSA", "JC1", "JC"]
     }
   }
 }
