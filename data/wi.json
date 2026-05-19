@@ -1,6 +1,6 @@
 {
   "airspace": [
-    { "id": "UBAC_UTA",
+    { "id": "UBAC",
       "group": "WIIF",
       "owner": ["BC","MN","WIIF","fss/ASEAS"],
       "sectors": [
@@ -18,7 +18,7 @@
         }
       ]
     },
-    { "id": "UBND_UTA",
+    { "id": "UBND",
       "group": "WIIF",
       "owner": ["BD","SG","WIIF","fss/ASEAS"],
       "sectors": [
@@ -40,7 +40,7 @@
         }
       ]
     },
-    { "id": "UIOS_UTA",
+    { "id": "UIOS",
       "group": "WIIF",
       "owner": ["IS","MN","WIIF","fss/ASEAS"],
       "sectors": [
@@ -60,7 +60,7 @@
         }
       ]
     },
-    { "id": "UJKT_UTA",
+    { "id": "UJKT",
       "group": "WIIF",
       "owner": ["JT","WIIF","fss/ASEAS"],
       "sectors": [
@@ -84,7 +84,7 @@
         }
       ]
     },
-    { "id": "UJOG_UTA",
+    { "id": "UJOG",
       "group": "WIIF",
       "owner": ["JG","SG","WIIF","fss/ASEAS"],
       "sectors": [
@@ -125,25 +125,7 @@
         }
       ]
     },
-		{ "id": "Yogyakarta MCA",
-			"group" : "WIIF",
-			"owner": ["wa/HHA","wa/SY","wa/BI","wa/WAAF","fss/ASEAS"],
-      "sectors": [
-        {
-          "min": 245,
-          "max": 299,
-          "points": [
-            ["-072300","1102300"],
-            ["-071300","1085430"],
-            ["-074031","1083846"],
-            ["-075500","1090000"],
-            ["-081829","1102300"],
-            ["-072300","1102300"]
-          ]
-        }
-      ]
-		},
-    { "id": "UMDN_UTA",
+    { "id": "UMDN",
       "group": "WIIF",
       "owner": ["MN","WIIF","fss/ASEAS"],
       "sectors": [
@@ -162,7 +144,7 @@
         }
       ]
     },
-    { "id": "UNTA_UTA",
+    { "id": "UNTA",
       "group": "WIIF",
       "owner": ["NA","PK","WIIF","ws/JC4","ws/JC1","ws/JC","fss/ASEAS"],
       "sectors": [
@@ -207,7 +189,7 @@
         }
       ]
     },
-    { "id": "UPKP_UTA",
+    { "id": "UPKP",
       "group": "WIIF",
       "owner": ["PP","JT","WIIF","fss/ASEAS"],
       "sectors": [
@@ -285,7 +267,7 @@
         }        
       ]
     },
-    { "id": "UPKU_UTA",
+    { "id": "UPKU",
       "group": "WIIF",
       "owner": ["PU","JT","WIIF","fss/ASEAS"],
       "sectors": [
@@ -325,7 +307,7 @@
         }
       ]
     },
-    { "id": "UPLB_UTA",
+    { "id": "UPLB",
       "group": "WIIF",
       "owner": ["PB","JT","WIIF","fss/ASEAS"],
       "sectors": [
@@ -346,7 +328,7 @@
         }
       ]
     },
-    { "id": "UPNK_UTA",
+    { "id": "UPNK",
       "group": "WIIF",
       "owner": ["PK","WIIF","fss/ASEAS"],
       "sectors": [
@@ -1051,7 +1033,7 @@
         }
       ]
     },
-    { "id": "USMG_UTA",
+    { "id": "USMG",
       "group": "WIIF",
       "owner": ["SG","WIIF","fss/ASEAS"],
       "sectors": [
@@ -1070,7 +1052,7 @@
         }
       ]
     },
-    { "id": "UTPN_UTA",
+    { "id": "UTPN",
       "group": "WIIF",
       "owner": ["TN", "PK", "WIIF","fss/ASEAS"],
       "sectors": [
@@ -1091,7 +1073,7 @@
         }
       ]
     },
-    { "id": "WIBB_TMA",
+    { "id": "Pekanbaru",
       "group": "APP",
       "owner": ["BBA","PU","JT","WIIF"],
       "sectors": [
@@ -1138,7 +1120,7 @@
         }
       ]
     },
-    { "id": "UTPG_UTA",
+    { "id": "UTPG",
       "group": "WIIF",
       "owner": ["TG","PK","WIIF","fss/ASEAS"],
       "sectors": [
@@ -1156,7 +1138,8 @@
         }
       ]
     },
-    { "id": "UTPG_UTA DELEGATED TO SINGAPORE WHEN WIIF OFFLINE",
+    { "id": "UTPG",
+      "comment": "Delegated to Singapore when WIIF offline",
       "group": "WIIF",
       "owner": ["TG","NA","PK","WIIF","ws/JC4","ws/JC1","ws/JC","fss/ASEAS","fss/ASEAN"],
       "sectors": [
@@ -1177,7 +1160,7 @@
         }
       ]
     },
-    { "id": "UTPG_UTA ABOVE FL370",
+    { "id": "UTPG",
       "group": "WIIF",
       "owner": ["TG","NA","PK","WIIF","fss/ASEAS", "fss/ASEAN"],
       "sectors": [
@@ -1210,7 +1193,7 @@
         }
       ]
     },
-    { "id": "WIDN_N_TMA",
+    { "id": "Tanjung Pinang (North)",
       "group": "APP",
       "owner": ["DNAN","NA","PK","WIIF"],
       "sectors": [
@@ -1236,7 +1219,7 @@
         }
       ]
     },
-    { "id": "WIDN_S_TMA",
+    { "id": "Tanjung Pinang (South)",
       "group": "APP",
       "owner": ["DNAS","TG","PK","WIIF"],
       "sectors": [
@@ -1269,7 +1252,7 @@
         }
       ]
     },
-    { "id": "WIEE_TMA",
+    { "id": "Padang",
       "group": "APP",
       "owner": ["EEA","PU","JT","WIIF"],
       "sectors": [
@@ -1287,8 +1270,8 @@
         }
       ]
     },
-    { "id": "WIII_C_CTA",
-      "group": "WIII",
+    { "id": "Jakarta (Central)",
+      "group": "APP",
       "owner": ["IIALC","IIA","WIIF"],
       "sectors": [
         {
@@ -1306,8 +1289,8 @@
         }
       ]
     },
-    { "id": "WIII_E_CTA",
-      "group": "WIII",
+    { "id": "Jakarta (East)",
+      "group": "APP",
       "owner": ["IIALE","IIA","WIIF"],
       "sectors": [
         {
@@ -1483,8 +1466,8 @@
         }
       ]
     },
-    { "id": "WIII_E_TMA",
-      "group": "WIII",
+    { "id": "Jakarta (East)",
+      "group": "APP",
       "owner": ["IIATE","IIATS","IIALC","IIA","WIIF"],
       "sectors": [
         {
@@ -1552,8 +1535,8 @@
         }
       ]
     },
-    { "id": "WIII_N_CTA",
-      "group": "WIII",
+    { "id": "Jakarta (North)",
+      "group": "APP",
       "owner": ["IIALN","IIA","WIIF"],
       "sectors": [
         {
@@ -1633,8 +1616,8 @@
         }
       ]
     },
-    { "id": "WIII_S_TMA",
-      "group": "WIII",
+    { "id": "Jakarta (South)",
+      "group": "APP",
       "owner": ["IIATS","IIALE","IIA","WIIF"],
       "sectors": [
         {
@@ -1745,8 +1728,8 @@
         }        
       ]
     },
-    { "id": "WIII_W_TMA",
-      "group": "WIII",
+    { "id": "Jakarta (West)",
+      "group": "APP",
       "owner": ["IIATW","IIALN","IIA","WIIF"],
       "sectors": [
         {
@@ -1861,7 +1844,7 @@
         }
       ]
     },
-    { "id": "WIKK_TMA",
+    { "id": "Pangkal Pinang",
       "group": "APP",
       "owner": ["KKA","PP","JT","TN","PK","WIIF"],
       "sectors": [
@@ -1893,7 +1876,7 @@
         }
       ]
     },
-    { "id": "WIMM_E_TMA",
+    { "id": "Medan (East)",
       "group": "APP",
       "owner": ["MMAE","MMA","MN","WIIF"],
       "sectors": [
@@ -1910,7 +1893,7 @@
         }
       ]
     },
-    { "id": "WIMM_W_TMA",
+    { "id": "Medan (West)",
       "group": "APP",
       "owner": ["MMAW","MMA","MMAE","MN","BC","WIIF"],
       "sectors": [
@@ -1928,7 +1911,7 @@
         }
       ]
     },
-    { "id": "WIOO_TMA",
+    { "id": "Pontianak",
       "group": "APP",
       "owner": ["OOA","PK","WIIF"],
       "sectors": [
@@ -3413,7 +3396,7 @@
         }
       ]
     },
-    { "id": "WIPP_TMA",
+    { "id": "Palembang",
       "group": "APP",
       "owner": ["PPA","PB","JT","WIIF"],
       "sectors": [
@@ -3434,7 +3417,7 @@
         }
       ]
     },
-    { "id": "WIBB_CTR",
+    { "id": "Pekanbaru (Final)",
       "group": "APP",
       "owner": ["BBAF","BBA","PB","JT","WIIF"],
       "sectors": [
@@ -3519,7 +3502,7 @@
         }
       ]
     },
-    { "id": "WIBJ_ATZ",
+    { "id": "Japura",
       "group": "TWR",
       "owner": ["BJT","BBA","PU","JT","WIIF"],
       "sectors": [
@@ -3604,8 +3587,8 @@
         }
       ]
     },
-    { "id": "WICA_CTR",
-      "group": "PROC",
+    { "id": "Kertajati",
+      "group": "PTWR",
       "owner": ["CAT","IIALE","IIA","WIIF"],
       "sectors": [
         {
@@ -3643,8 +3626,8 @@
         }
       ]
     },
-    { "id": "WICC_ATZ",
-      "group": "TWR",
+    { "id": "Husein",
+      "group": "PTWR",
       "owner": ["CCT","CCA","IIALE","IIA","JT","WIIF"],
         "sectors": [
         {
@@ -3728,8 +3711,8 @@
         }
       ]
     },
-    { "id": "WICC_CTR",
-      "group": "PROC",
+    { "id": "Bandung",
+      "group": "PAPP",
       "owner": ["CCA", "IIALE","IIA", "WIIF"],
       "sectors": [
         {
@@ -3752,7 +3735,7 @@
         }
       ]
     },
-    { "id": "WICM_ATZ",
+    { "id": "Wiria",
       "group": "TWR",
       "owner": ["CMT","CCA","IIALE","IIA","JT","WIIF"],
       "sectors": [
@@ -3837,7 +3820,7 @@
         }
       ]
     },
-    { "id": "WICN_ATZ",
+    { "id": "Nusawiru",
       "group": "TWR",
       "owner": ["CNT","CCA","IIALE","IIA","JT","WIIF"],
       "sectors": [
@@ -3922,7 +3905,7 @@
         }
       ]
     },
-    { "id": "WIDM_CTR",
+    { "id": "Matak",
       "group": "APP",
       "owner": ["DMA","DNAN","NA","TG","WIIF"],
       "sectors": [
@@ -3982,8 +3965,8 @@
         }
       ]
     },
-    { "id": "WIDN_N_CTR",
-      "group": "APP",
+    { "id": "Tanjung Pinang (North)",
+      "group": "TWR",
       "owner": [],
       "sectors": [
         {
@@ -4019,8 +4002,8 @@
         }
       ]
     },
-    { "id": "WIDN_S_CTR",
-      "group": "APP",
+    { "id": "Tanjung Pinang (South)",
+      "group": "TWR",
       "owner": [],
       "sectors": [
         {
@@ -4075,7 +4058,7 @@
         }
       ]
     },
-    { "id": "WIDO_CTR",
+    { "id": "Ranai",
       "group": "APP",
       "owner": ["DOA","DNAN","DNAS","NA","TG","WIIF"],
       "sectors": [
@@ -4146,7 +4129,7 @@
         }
       ]
     },
-    { "id": "WIEE_CTR",
+    { "id": "Padang",
       "group": "APP",
       "owner": ["EEA","PU","JT","WIIF"],
       "sectors": [
@@ -4223,7 +4206,7 @@
         }
       ]
     },
-    { "id": "WIGG_CTR",
+    { "id": "Palembang",
       "group": "APP",
       "owner": ["PPA","PB","JT","WIIF"],
       "sectors": [
@@ -4308,7 +4291,7 @@
         }
       ]
     },
-    { "id": "WIHH_ATZ",
+    { "id": "Halim",
       "group": "TWR",
       "owner": ["HHT","IIAF","IIATS","IIALE","IIA","WIIF"],
       "sectors": [
@@ -4377,8 +4360,8 @@
         }
       ]
     },
-    { "id": "WIII_E_CTR",
-      "group": "WIII",
+    { "id": "Jakarta (Final East)",
+      "group": "APP",
       "owner": ["IIAF","IIATS","IIALE","IIA","WIIF"],
       "sectors": [
         {
@@ -4654,8 +4637,8 @@
         }
       ]
     },
-    { "id": "WIII_N_CTR",
-      "group": "WIII",
+    { "id": "Jakarta (Final North)",
+      "group": "APP",
       "owner": ["IIAF","IIATW","IIALN","IIA","WIIF"],
       "sectors": [
         {
@@ -4736,7 +4719,7 @@
         }
       ]
     },
-    { "id": "WIJJ_CTR",
+    { "id": "Jambi",
       "group": "APP",
       "owner": ["JJA","PPA","PB","JT","WIIF"],
       "sectors": [
@@ -4778,7 +4761,7 @@
         }
       ]
     },
-    { "id": "WIKK_CTR",
+    { "id": "Pangkal Pinang",
       "group": "APP",
       "owner": ["KKA","PP","JT","TN","PK","WIIF"],
       "sectors": [
@@ -4810,7 +4793,7 @@
         }
       ]
     },
-    { "id": "WIKT_CTR",
+    { "id": "Hanan",
       "group": "APP",
       "owner": ["KTA","KKA","PP","JT","TN","PK","WIIF"],
       "sectors": [
@@ -4895,8 +4878,8 @@
         }
       ]
     },
-    { "id": "WILL_CTR",
-      "group": "PROC",
+    { "id": "Inten",
+      "group": "TWR",
       "owner": ["LLT","IIALN","IIA","WIIF"],
       "sectors": [
         {
@@ -4927,7 +4910,7 @@
         }
       ]
     },
-    { "id": "WIMB_ATZ",
+    { "id": "Binaka",
       "group": "TWR",
       "owner": ["MBT","MN","WIIF"],
       "sectors": [
@@ -5012,7 +4995,7 @@
         }
       ]
     },
-    { "id": "WIMM_CTR",
+    { "id": "Medan",
       "group": "APP",
       "owner": ["MMAE","MMA","MN","WIIF"],
       "sectors": [
@@ -5097,8 +5080,8 @@
         }
       ]
     },
-    { "id": "WIMN_CTR",
-      "group": "PROC",
+    { "id": "Sisingamangaraja",
+      "group": "TWR",
       "owner": ["MNT","MMAE","MMA","MN","WIIF"],
       "sectors": [
         {
@@ -5182,9 +5165,9 @@
         }
       ]
     },
-    { "id": "WIOK_ATZ",
+    { "id": "Rahadi Oesman",
       "group": "TWR",
-      "owner": [],
+      "owner": ["OOA", "PK", "WIIF"],
       "sectors": [
         {
           "min": 0,
@@ -5267,7 +5250,7 @@
         }
       ]
     },
-    { "id": "WIOO_CTR",
+    { "id": "Pontianak (Final)",
       "group": "APP",
       "owner": ["OOAF","OOA","PK","WIIF"],
       "sectors": [
@@ -5352,7 +5335,7 @@
         }
       ]
     },
-    { "id": "WIPP_CTR",
+    { "id": "Palembang",
       "group": "APP",
       "owner": ["PPA","PB","JT","WIIF"],
       "sectors": [
@@ -5394,7 +5377,7 @@
         }
       ]
     },
-    { "id": "WIRR_CTR",
+    { "id": "Budiarto",
       "group": "TWR",
       "owner": ["RRT", "IIAF","IIA","WIIF"],
       "sectors": [
@@ -5422,8 +5405,8 @@
         }
       ]
     },
-    { "id": "WITT_CTR",
-      "group": "PROC",
+    { "id": "Sultan",
+      "group": "PTWR",
       "owner": ["TTT","MMAW","MMA","BC","MN","WIIF"],
       "sectors": [
         {
@@ -5506,7 +5489,7 @@
         }
       ]
     },
-    { "id": "UBAC Class G",
+    { "id": "UBAC",
       "group": "WIMZ",
       "owner": ["WIMZ","BC","MN","WIIF"],
       "sectors": [
@@ -5526,9 +5509,9 @@
         }
       ]
     },
-    { "id": "UIOS Class G / Medan Information",
+    { "id": "UIOS",
       "group": "WIMZ",
-      "owner": ["IS","MN","WIIF"],
+      "owner": ["WIMZ", "IS","MN","WIIF"],
       "sectors": [
         {
           "min": 0,
@@ -5549,9 +5532,9 @@
         }
       ]
     },
-    { "id": "UIOS Class G / Jakarta Information",
+    { "id": "UIOS",
       "group": "WIIZ",
-      "owner": ["IS","MN","WIIF"],
+      "owner": ["WIIZ", "IS","MN","WIIF"],
       "sectors": [
         {
           "min": 0,
@@ -5566,9 +5549,9 @@
         }
       ]
     },
-    { "id": "UMDN Class G",
+    { "id": "UMDN",
       "group": "WIMZ",
-      "owner": ["MN","WIIF"],
+      "owner": ["WIMZ", "MN","WIIF"],
       "sectors": [
         {
           "min": 30,
@@ -5673,9 +5656,9 @@
         }
       ]
     },  
-    { "id": "UPKU Class G",
+    { "id": "UPKU",
       "group": "WIMZ",
-      "owner": ["PU","JT","WIIF"],
+      "owner": ["WIMZ", "PU","JT","WIIF"],
       "sectors": [
         {
           "min": 0,
@@ -5701,7 +5684,7 @@
         }
       ]
     },
-    { "id": "UPLB Class G / Jakarta Information",
+    { "id": "UPLB",
       "group": "WIIZ",
       "owner": ["WIIZ","PB","JT","WIIF"],
       "sectors": [
@@ -5731,7 +5714,7 @@
         }
       ]
     },
-    { "id": "UPLB Class G / Medan Information",
+    { "id": "UPLB",
       "group": "WIMZ",
       "owner": ["WIMZ","PB","JT","WIIF"],
       "sectors": [
@@ -5749,7 +5732,7 @@
         }
       ]
     },
-    { "id": "UJOG Class G",
+    { "id": "UJOG",
       "group": "WIIZ",
       "owner": ["WIIZ","JG","SG","WIIF"],
       "sectors": [
@@ -5772,7 +5755,7 @@
         }
       ]
     },
-    { "id": "UBND Class G",
+    { "id": "UBND",
       "group": "WIIZ",
       "owner": ["BD","SG","WIIF"],
       "sectors": [
@@ -5813,7 +5796,7 @@
         }
       ]
     },
-    { "id": "WIOO_TMA Class G",
+    { "id": "Pontianak",
       "group": "WIIZ",
       "owner": ["WIIZ","OOA","PK","WIIF"],
       "sectors": [
@@ -6596,7 +6579,7 @@
         }
       ]
     },
-    { "id": "WIDN_S_TMA Class G",
+    { "id": "Tanjung Pinang (South)",
       "group": "WIIZ",
       "owner": ["DNAS","DNA","TG","NA","WIIF"],
       "sectors": [
@@ -6629,7 +6612,7 @@
         }
       ]
     },
-    { "id": "WIDN_N_TMA Class G",
+    { "id": "Tanjung Pinang (North)",
       "group": "WIIZ",
       "owner": ["WIIZ","DNAN","NA","TG","PK","WIIF"],
       "sectors": [
@@ -6759,9 +6742,9 @@
         }
       ]
     },
-    { "id": "WIKK_TMA Class G / Jakarta Information",
-      "group": "WIMZ",
-      "owner": ["WIMZ","KKA","PP","JT","TN","PK","WIIF"],
+    { "id": "Pangkal Pinang",
+      "group": "WIIZ",
+      "owner": ["WIIZ","KKA","PP","JT","TN","PK","WIIF"],
       "sectors": [
         {
           "min": 0,
@@ -6853,9 +6836,9 @@
         }
       ]
     },
-    { "id": "WIKK_TMA Class G / Medan Information",
-      "group": "WIIZ",
-      "owner": ["WIIZ","KKA","PP","JT","TN","PK","WIIF"],
+    { "id": "Pangkal Pinang",
+      "group": "WIMZ",
+      "owner": ["WIMZ","KKA","PP","JT","TN","PK","WIIF"],
       "sectors": [
         {
           "min": 0,
@@ -6880,9 +6863,9 @@
         }
       ]
     },
-    { "id": "WIMM_E_TMA Class G",
+    { "id": "Medan (East)",
       "group": "WIMZ",
-      "owner": ["MMAE","MMA","MN","WIIF"],
+      "owner": ["WIMZ", "MMAE","MMA","MN","WIIF"],
       "sectors": [
         {
           "min": 0,
@@ -7520,9 +7503,9 @@
         }
       ]
     },
-    { "id": "WIMM_W_TMA Class G",
+    { "id": "Medan (West)",
       "group": "WIMZ",
-      "owner": ["MMAW","MMA","MMAE","MN","BC","WIIF"],
+      "owner": ["WIMZ", "MMAW","MMA","MMAE","MN","BC","WIIF"],
       "sectors": [
         {
           "min": 0,
@@ -7607,9 +7590,9 @@
         }
       ]
     },
-    { "id": "WIBB_TMA Class G",
+    { "id": "Pekanbaru",
       "group": "WIMZ",
-      "owner": ["BBA","PU","WIIF"],
+      "owner": ["WIMZ", "BBA","PU","WIIF"],
       "sectors": [
         {
           "min": 30,
@@ -7914,7 +7897,7 @@
         } 
       ]
     },
-    { "id": "WIEE_TMA Class G",
+    { "id": "Padang",
       "group": "WIMZ",
       "owner": ["WIMZ","EEA","PU","WIIF"],
       "sectors": [
@@ -7994,7 +7977,7 @@
         }
       ]
     },
-    { "id": "WIPP_TMA Class G / Medan Information",
+    { "id": "Palembang",
       "group": "WIMZ",
       "owner": ["WIMZ","PPA","PB","JT","WIIF"],
       "sectors": [
@@ -8089,7 +8072,7 @@
         }
       ]
     },
-    { "id": "WIPP_TMA Class G / Jakarta Information",
+    { "id": "Palembang",
       "group": "WIIZ",
       "owner": ["WIIZ","PPA","PB","JT","WIIF"],
       "sectors": [
@@ -8106,9 +8089,9 @@
         }
       ]
     },
-    { "id": "WIII_C_CTA Class G",
+    { "id": "Jakarta (Central)",
       "group": "WIIZ",
-      "owner": ["IIALC","IIA","JT","WIIF"],
+      "owner": ["WIIZ", "IIALC","IIA","JT","WIIF"],
       "sectors": [
         {
           "min": 0,
@@ -8137,7 +8120,7 @@
         }
       ]
     },
-    { "id": "WIII_N_CTA Class G",
+    { "id": "Jakarta (North)",
       "group": "WIIZ",
       "owner": ["WIIZ","IIALN","IIA","JT","WIIF"],
       "sectors": [
@@ -8197,7 +8180,7 @@
         }
       ]
     },
-    { "id": "WIII_E_CTA Class G",
+    { "id": "Jakarta (East)",
       "group": "WIIZ",
       "owner": ["WIIZ","IIALE","IIA","WIIF"],
       "sectors": [
@@ -8281,7 +8264,7 @@
         }
       ]
     },
-    { "id": "WIII_E_TMA Class G",
+    { "id": "Jakarta (East)",
       "group": "WIIZ",
       "owner": ["WIIZ","IIATE","IIATS","IIALC","IIA","WIIF"],
       "sectors": [
@@ -8322,7 +8305,7 @@
         }
       ]
     },
-    { "id": "WIII_W_TMA Class G",
+    { "id": "Jakarta (West)",
       "group": "WIIZ",
       "owner": ["WIIZ","IIATW","IIALN","IIA","WIIF"],
       "sectors": [
@@ -8392,7 +8375,7 @@
         }
       ]
     },
-    { "id": "WIII_S_TMA Class G",
+    { "id": "Jakarta (South)",
       "group": "WIIZ",
       "owner": ["WIIZ","IIATS","IIALE","IIA","WIIF"],
       "sectors": [
@@ -8462,7 +8445,7 @@
         }
       ]
     },
-    { "id": "WICC_CTR Class G",
+    { "id": "Husein",
       "group": "WIIZ",
       "owner": ["WIIZ","CCA", "IIALE","IIA", "WIIF"],
       "sectors": [
@@ -8705,25 +8688,25 @@
   ],
   "groups": {
     "WIIF": {
-      "name":"Jakarta ACC"
-    },
-    "WIII": {
-      "name": "Jakarta APP"
+      "name": "Jakarta"
     },
     "APP":{
-      "name": "APP control unit"
+      "name": "Approach"
     },
     "TWR": {
-      "name": "Aerodrome control unit"
+      "name": "Tower"
     },
     "WIIZ": {
-      "name": "Jakarta Information"
+      "name": "Jakarta (Class G)"
     },
     "WIMZ":{
-      "name": "Medan Information"
+      "name": "Medan (Class G)"
     },
-    "PROC":{
-      "name": "Procedural Airspace"
+    "PAPP":{
+      "name": "Approach (Non-Radar)"
+    },
+    "PTWR":{
+      "name": "Tower (Non-Radar)"
     }
   },
   "positions": {
@@ -9119,352 +9102,354 @@
 
   },
   "airports": {
-  "WIBB": {
-    "callsign": "Sultan SYARIF Kasim II",
-    "coord": [ "0.462222","101.445278"],
-    "topdown": ["BBA","PU","JT","WIIF"]
-  },
-  "WIBD": {
-    "callsign": "PINANG KAMPAI",
-    "coord": [ "1.612222","101.433333"]
-  },
-  "WIBG": {
-    "callsign": "TUANKU TAMBUSAI",
-    "coord": [ "0.845000","100.375000"]
-  },
-  "WIBI": {
-    "callsign": "PULAI",
-    "coord": [ "0.216111","103.164722"]
-  },
-  "WIBJ": {
-    "callsign": "JAPURA",
-    "coord": [ "-0.350278","102.334444"],
-    "topdown": ["BBA","PU","JT","WIIF"]
-  },
-  "WIBL": {
-    "callsign": "SULTAN SYARIF HAROEN",
-    "coord": [ "0.504722","101.922778"]
-  },
-  "WIBS": {
-    "callsign": "SEI PAKNING",
-    "coord": [ "1.369722","102.140000"]
-  },
-  "WICA": {
-    "callsign": "KERTAJATI",
-    "coord": [ "-6.648333","108.154167"],
-    "topdown":["CAT","IIA","JT","WIIF"]
-  },
-  "WICC": {
-    "callsign": "HUSEIN SASTRANEGARA",
-    "coord": [ "-6.901944","107.576111"],
-    "topdown": ["CCT","CCA","IIA","JT","WIIF"]
-  },
-  "WICD": {
-    "callsign": "CAKRABHUWANA",
-    "coord": [ "-6.756389","108.538333"]
-  },
-  "WICK": {
-    "callsign": "SULAIMAN",
-    "coord": [ "-6.982500","107.572500"]
-  },
-  "WICM": {
-    "callsign": "WIRIAdinata",
-    "coord": [ "-7.344722","108.243056"],
-    "topdown": ["CMT","CCA","IIA","JT","WIIF"]
-  },
-  "WICN": {
-    "callsign": "NUSAWIRU",
-    "coord": [ "-7.720556","108.489167"],
-    "topdown": ["CNT","CCA","IIA","JT","WIIF"]
-  },
-  "WIDB": {
-    "callsign": "TAMBELAN",
-    "coord": [ "0.975556","107.561667"]
-  },
-  "WIDL": {
-    "callsign": "LETUNG",
-    "coord": [ "2.961944","105.753333"]
-  },
-  "WIDM": {
-    "callsign": "MATAK",
-    "coord": [ "3.346944","106.258333"],
-    "topdown":["DMA","DNAN","DNAS","DNA","NA","WIIF"]
-  },
-  "WIDO": {
-    "callsign": "RANAI",
-    "coord": [ "3.906111","108.388056"],
-    "topdown":["DOA","DNAN","DNAS","DNA","NA","WIIF"]
-  },
-  "WIDS": {
-    "callsign": "DABO",
-    "coord": [ "-0.478611","104.578056"]
-  },
-  "WIDT": {
-    "callsign": "RAJA HAJI ABDULLAH",
-    "coord": [ "1.051389","103.390000"]
-  },
-  "WIEB": {
-    "callsign": "MENTAWAI",
-    "coord": [ "-2.099167","99.705833"]
-  },
-  "WIEE": {
-    "callsign": "MINANGKABAU INTL",
-    "coord": [ "-0.788333","100.286389"],
-    "topdown": ["EEA","PU","JT","WIIF"]
-  },
-  "WIGE": {
-    "callsign": "ENGGANO",
-    "coord": [ "-5.301944","102.183056"]
-  },
-  "WIGG": {
-    "callsign": "FATMAWATI SOEKARNO",
-    "coord": [ "-3.861111","102.339444"],
-    "topdown": ["PPA","PB","JT","WIIF"]
-  },
-  "WIGM": {
-    "callsign": "MUKOMUKO",
-    "coord": [ "-2.541111","101.088611"]
-  },
-  "WIHC": {
-    "callsign": "WILADATIKA",
-    "coord": [ "-6.356944","106.896944"]
-  },
-  "WIHG": {
-    "callsign": "PULAU PANJANG",
-    "coord": [ "-5.644444","106.562500"]
-  },
-  "WIHH": {
-    "callsign": "HALIM Perdanakusuma",
-    "coord": [ "-6.267500","106.886389"],
-    "topdown": ["HHT","IIAF","IIA","JT","WIIF"]
-  },
-  "WIHI": {
-    "callsign": "SALAKANAGARA TANJUNG",
-    "coord": [ "-6.492500","105.666667"]
-  },
-  "WIHJ": {
-    "callsign": "ATANG SENDJAJA",
-    "coord": [ "-6.544167","106.754167"]
-  },
-  "WIHP": {
-    "callsign": "PONDOK CABE",
-    "coord": [ "-6.336111","106.764722"]
-  },
-  "WIII": {
-    "callsign": "SOEKARNO-HATTA",
-    "coord": [ "-6.123611","106.661111"],
-    "topdown": ["IIT","IIAF","IIA","JT","WIIF"]
-  },
-  "WIJB": {
-    "callsign": "MUARA BUNGO",
-    "coord": [ "-1.543333","102.178611"]
-  },
-  "WIJI": {
-    "callsign": "DEPATI PARBO",
-    "coord": [ "-2.091111","101.463056"]
-  },
-  "WIJJ": {
-    "callsign": "Sultan THAHA",
-    "coord": [ "-1.635556","103.643056"],
-    "topdown": ["JJA","PPA","PB","JT","WIIF"]
-  },
-  "WIKK": {
-    "callsign": "Depati AMIR",
-    "coord": [ "-2.162500","106.138056"],
-    "topdown": ["KKA","PP","JT","WIIF"]
-  },
-  "WIKT": {
-    "callsign": "H.AS. HANANdjoeddin",
-    "coord": [ "-2.745278","107.753056"]
-  },
-  "WILB": {
-    "callsign": "TAMLING",
-    "coord": [ "-5.918611","104.561667"]
-  },
-  "WILG": {
-    "callsign": "GUNUNG BATIN",
-    "coord": [ "-4.683333","105.266667"]
-  },
-  "WILL": {
-    "callsign": "RADIN INTEN II",
-    "coord": [ "-5.240556","105.175556"],
-    "topdown": ["LLT","IIALN","IIA","JT","WIIF"]
-  },
-  "WILM": {
-    "callsign": "ASTRA KSETRA",
-    "coord": [ "-4.600000","105.250000"]
-  },
-  "WILP": {
-    "callsign": "MUHAMMAD TAUFIK KIEMAS",
-    "coord": [ "-5.211667","103.939444"]
-  },
-  "WILW": {
-    "callsign": "WAY JEPARA",
-    "coord": [ "-5.048889","105.652222"]
-  },
-  "WIMA": {
-    "callsign": "MALIKUSSALEH",
-    "coord": [ "5.228889","96.951389"]
-  },
-  "WIMB": {
-    "callsign": "BINAKA",
-    "coord": [ "1.165556","97.706111"],
-    "topdown": ["MN","WIIF"]
-  },
-  "WIME": {
-    "callsign": "AEK GODANG",
-    "coord": [ "1.398889","99.430556"]
-  },
-  "WIMF": {
-    "callsign": "JENDERAL BESAR ABDUL HARIS NASUTION",
-    "coord": [ "0.948056","99.533333"]
-  },
-  "WIMG": {
-    "callsign": "GAYO LUES",
-    "coord": [ "3.943889","97.363611"]
-  },
-  "WIMI": {
-    "callsign": "SYEKH HAMZAH FANSHURI",
-    "coord": [ "2.272500","97.960833"]
-  },
-  "WIML": {
-    "callsign": "LASIKIN",
-    "coord": [ "2.408889","96.326111"]
-  },
-  "WIMM": {
-    "callsign": "KUALANAMU INTL",
-    "coord": [ "3.642222","98.885278"],
-    "topdown": ["MMAE","MMA","MN","WIIF"]
-  },
-  "WIMN": {
-    "callsign": "Raja SISINGAMANGARAJA XII",
-    "coord": [ "2.261111","98.994722"],
-    "topdown": ["MMAE","MMA","MN","WIIF"]
-  },
-  "WIMO": {
-    "callsign": "LASONDRE",
-    "coord": [ "-0.019722","98.300833"]
-  },
-  "WIMP": {
-    "callsign": "SIBISA",
-    "coord": [ "2.601944","98.963889"]
-  },
-  "WIMS": {
-    "callsign": "DR. FERDINAND LUMBAN",
-    "coord": [ "1.553611","98.893889"]
-  },
-  "WIMT": {
-    "callsign": "TEUKU CUT ALI",
-    "coord": [ "3.170833","97.288611"]
-  },
-  "WIMU": {
-    "callsign": "ALAS LEUSER",
-    "coord": [ "3.392222","97.865000"]
-  },
-  "WIOA": {
-    "callsign": "SIRANG",
-    "coord": [ "-0.050000","111.116667"]
-  },
-  "WIOC": {
-    "callsign": "TANJUNG MAJU",
-    "coord": [ "-0.666667","110.483333"]
-  },
-  "WIOD": {
-    "callsign": "SINGKAWANG",
-    "coord": [ "0.793056","108.957500"]
-  },
-  "WIOE": {
-    "callsign": "TANJUNG BERINGIN",
-    "coord": [ "-0.333333","112.166667"]
-  },
-  "WIOF": {
-    "callsign": "SUNGAI TONTANG",
-    "coord": [ "-0.583333","110.466667"]
-  },
-  "WIOG": {
-    "callsign": "NANGA PINOH",
-    "coord": [ "-0.348056","111.750278"]
-  },
-  "WIOK": {
-    "callsign": "RAHADI OESMAN",
-    "coord": [ "-1.816111","109.961944"],
-    "topdown": ["OOA","PK","WIIF"]
-  },
-  "WIOL": {
-    "callsign": "TANJUNG LOKANG",
-    "coord": [ "0.783333","113.666667"]
-  },
-  "WIOO": {
-    "callsign": "SUPADIO",
-    "coord": [ "-0.145556","109.403611"],
-    "topdown": ["OOAF","OOA","PK","WIIF"]
-  },
-  "WIOP": {
-    "callsign": "PANGSUMA",
-    "coord": [ "0.838333","112.935556"]
-  },
-  "WIOR": {
-    "callsign": "TANJUNG RIMBA",
-    "coord": [ "-0.416667","110.466667"]
-  },
-  "WIOS": {
-    "callsign": "TEBELIAN",
-    "coord": [ "-0.041667","111.456389"]
-  },
-  "WIOY": {
-    "callsign": "SUTI",
-    "coord": [ "0.883333","109.833333"]
-  },
-  "WIPB": {
-    "callsign": "SILAMPARI",
-    "coord": [ "-3.284167","102.914167"]
-  },
-  "WIPD": {
-    "callsign": "BANDING ANGUNG",
-    "coord": [ "-4.800000","103.950000"]
-  },
-  "WIPO": {
-    "callsign": "GATOT SOEBROTO",
-    "coord": [ "-4.393889","104.402778"]
-  },
-  "WIPP": {
-    "callsign": "SULTAN MAHMUD BADARU",
-    "coord": [ "-2.900278","104.700000"],
-    "topdown": ["PPA","PB","JT","WIIF"]
-  },
-  "WIPY": {
-    "callsign": "ATUNG BUNGSU",
-    "coord": [ "-4.024722","103.378611"]
-  },
-  "WIRR": {
-    "callsign": "BUDIARTO",
-    "coord": [ "-6.293333","106.568056"],
-    "topdown":["RRT","IIA","JT","WIIF"]
-  },
-  "WISA": {
-    "callsign": "SMART SEMELAGI",
-    "coord": [ "1.000556","109.046389"]
-  },
-  "WITC": {
-    "callsign": "CUT NYAK DHIEN NAGAN",
-    "coord": [ "4.048056","96.250000"]
-  },
-  "WITK": {
-    "callsign": "REMBELE",
-    "coord": [ "4.723333","96.848056"]
-  },
-  "WITL": {
-    "callsign": "LHOK SUKON",
-    "coord": [ "5.073056","97.255278"]
-  },
-  "WITN": {
-    "callsign": "MAIMUN SALEH",
-    "coord": [ "5.876389","95.337500"]
-  },
-  "WITT": {
-    "callsign": "SULTAN ISKANDAR MUDA",
-    "coord": [ "5.516944","95.420000"],
-    "topdown": ["TTT","MMAW","MMA","MMAE","BC","MN","WIIF"]
+    "WIBB": {
+      "callsign": "Syarif",
+      "coord": [ "0.462222","101.445278"],
+      "topdown": ["BBA","PU","JT","WIIF"]
+    },
+    "WIBD": {
+      "callsign": "Dumai",
+      "coord": [ "1.612222","101.433333"]
+    },
+    "WIBG": {
+      "callsign": "Pasir",
+      "coord": [ "0.845000","100.375000"]
+    },
+    "WIBI": {
+      "callsign": "Pulai",
+      "coord": [ "0.216111","103.164722"]
+    },
+    "WIBJ": {
+      "callsign": "Japura",
+      "coord": [ "-0.350278","102.334444"],
+      "topdown": ["BBA","PU","JT","WIIF"]
+    },
+    "WIBL": {
+      "callsign": "Sultan Haroen",
+      "coord": [ "0.504722","101.922778"]
+    },
+    "WIBS": {
+      "callsign": "Sei Pakning",
+      "coord": [ "1.369722","102.140000"]
+    },
+    "WICA": {
+      "callsign": "Kertajati",
+      "coord": [ "-6.648333","108.154167"],
+      "topdown":["CAT","IIA","JT","WIIF"]
+    },
+    "WICC": {
+      "callsign": "Husein",
+      "coord": [ "-6.901944","107.576111"],
+      "topdown": ["CCT","CCA","IIA","JT","WIIF"]
+    },
+    "WICD": {
+      "callsign": "Cakrabhuwana",
+      "coord": [ "-6.756389","108.538333"],
+      "topdown": ["CDT","CAT","IIA","JT","WIIF"]
+    },
+    "WICK": {
+      "callsign": "Sulaiman",
+      "coord": [ "-6.982500","107.572500"]
+    },
+    "WICM": {
+      "callsign": "Wiria",
+      "coord": [ "-7.344722","108.243056"],
+      "topdown": ["CMT","CCA","IIA","JT","WIIF"]
+    },
+    "WICN": {
+      "callsign": "Nusawiru",
+      "coord": [ "-7.720556","108.489167"],
+      "topdown": ["CNT","CCA","IIA","JT","WIIF"]
+    },
+    "WIDB": {
+      "callsign": "Tambelan",
+      "coord": [ "0.975556","107.561667"]
+    },
+    "WIDL": {
+      "callsign": "Letung",
+      "coord": [ "2.961944","105.753333"]
+    },
+    "WIDM": {
+      "callsign": "Matak",
+      "coord": [ "3.346944","106.258333"],
+      "topdown":["DMA","DNAN","DNAS","DNA","NA","WIIF"]
+    },
+    "WIDO": {
+      "callsign": "Ranai",
+      "coord": [ "3.906111","108.388056"],
+      "topdown":["DOA","DNAN","DNAS","DNA","NA","WIIF"]
+    },
+    "WIDS": {
+      "callsign": "Dabo",
+      "coord": [ "-0.478611","104.578056"]
+    },
+    "WIDT": {
+      "callsign": "Raja Haji Abdullah",
+      "coord": [ "1.051389","103.390000"]
+    },
+    "WIEB": {
+      "callsign": "Mentawai",
+      "coord": [ "-2.099167","99.705833"]
+    },
+    "WIEE": {
+      "callsign": "Minangkabau",
+      "coord": [ "-0.788333","100.286389"],
+      "topdown": ["EEA","PU","JT","WIIF"]
+    },
+    "WIGE": {
+      "callsign": "Enggano",
+      "coord": [ "-5.301944","102.183056"]
+    },
+    "WIGG": {
+      "callsign": "Fatmawati",
+      "coord": [ "-3.861111","102.339444"],
+      "topdown": ["PPA","PB","JT","WIIF"]
+    },
+    "WIGM": {
+      "callsign": "Mukomuko",
+      "coord": [ "-2.541111","101.088611"]
+    },
+    "WIHC": {
+      "callsign": "Wiladatika",
+      "coord": [ "-6.356944","106.896944"]
+    },
+    "WIHG": {
+      "callsign": "Pulau Panjang",
+      "coord": [ "-5.644444","106.562500"]
+    },
+    "WIHH": {
+      "callsign": "Halim",
+      "coord": [ "-6.267500","106.886389"],
+      "topdown": ["HHT","IIAF","IIA","JT","WIIF"]
+    },
+    "WIHI": {
+      "callsign": "Salakanagara Tanjung",
+      "coord": [ "-6.492500","105.666667"]
+    },
+    "WIHJ": {
+      "callsign": "Atang Sendjaja",
+      "coord": [ "-6.544167","106.754167"]
+    },
+    "WIHP": {
+      "callsign": "Pondok Cabe",
+      "coord": [ "-6.336111","106.764722"]
+    },
+    "WIII": {
+      "callsign": "Soekarno-Hatta",
+      "coord": [ "-6.123611","106.661111"],
+      "topdown": ["IIT","IIAF","IIA","JT","WIIF"]
+    },
+    "WIJB": {
+      "callsign": "Muara Bungo",
+      "coord": [ "-1.543333","102.178611"]
+    },
+    "WIJI": {
+      "callsign": "Depati Parbo",
+      "coord": [ "-2.091111","101.463056"]
+    },
+    "WIJJ": {
+      "callsign": "Thaha",
+      "coord": [ "-1.635556","103.643056"],
+      "topdown": ["JJA","PPA","PB","JT","WIIF"]
+    },
+    "WIKK": {
+      "callsign": "Amir",
+      "coord": [ "-2.162500","106.138056"],
+      "topdown": ["KKA","PP","JT","WIIF"]
+    },
+    "WIKT": {
+      "callsign": "Hanan",
+      "coord": [ "-2.745278","107.753056"],
+      "topdown": ["KTA","KKA","PP","JT","WIIF"]
+    },
+    "WILB": {
+      "callsign": "Tamling",
+      "coord": [ "-5.918611","104.561667"]
+    },
+    "WILG": {
+      "callsign": "Gunung Batin",
+      "coord": [ "-4.683333","105.266667"]
+    },
+    "WILL": {
+      "callsign": "Inten",
+      "coord": [ "-5.240556","105.175556"],
+      "topdown": ["LLT","IIALN","IIA","JT","WIIF"]
+    },
+    "WILM": {
+      "callsign": "Astra Ksetra",
+      "coord": [ "-4.600000","105.250000"]
+    },
+    "WILP": {
+      "callsign": "Pekon Serai",
+      "coord": [ "-5.211667","103.939444"]
+    },
+    "WILW": {
+      "callsign": "Way Jepara",
+      "coord": [ "-5.048889","105.652222"]
+    },
+    "WIMA": {
+      "callsign": "Malikussaleh",
+      "coord": [ "5.228889","96.951389"]
+    },
+    "WIMB": {
+      "callsign": "Binaka",
+      "coord": [ "1.165556","97.706111"],
+      "topdown": ["MN","WIIF"]
+    },
+    "WIME": {
+      "callsign": "Aek Godang",
+      "coord": [ "1.398889","99.430556"]
+    },
+    "WIMF": {
+      "callsign": "Mandailing Natal",
+      "coord": [ "0.948056","99.533333"]
+    },
+    "WIMG": {
+      "callsign": "Gayo Lues",
+      "coord": [ "3.943889","97.363611"]
+    },
+    "WIMI": {
+      "callsign": "Syekh Hamzah Fanshuri",
+      "coord": [ "2.272500","97.960833"]
+    },
+    "WIML": {
+      "callsign": "Lasikin",
+      "coord": [ "2.408889","96.326111"]
+    },
+    "WIMM": {
+      "callsign": "Kualanamu",
+      "coord": [ "3.642222","98.885278"],
+      "topdown": ["MMAE","MMA","MN","WIIF"]
+    },
+    "WIMN": {
+      "callsign": "Sisingamangaraja",
+      "coord": [ "2.261111","98.994722"],
+      "topdown": ["MMAE","MMA","MN","WIIF"]
+    },
+    "WIMO": {
+      "callsign": "Lasondre",
+      "coord": [ "-0.019722","98.300833"]
+    },
+    "WIMP": {
+      "callsign": "Sibisa",
+      "coord": [ "2.601944","98.963889"]
+    },
+    "WIMS": {
+      "callsign": "Tobing",
+      "coord": [ "1.553611","98.893889"]
+    },
+    "WIMT": {
+      "callsign": "Teuku Cut Ali",
+      "coord": [ "3.170833","97.288611"]
+    },
+    "WIMU": {
+      "callsign": "Alas Leuser",
+      "coord": [ "3.392222","97.865000"]
+    },
+    "WIOA": {
+      "callsign": "Sirang",
+      "coord": [ "-0.050000","111.116667"]
+    },
+    "WIOC": {
+      "callsign": "Tanjung Maju",
+      "coord": [ "-0.666667","110.483333"]
+    },
+    "WIOD": {
+      "callsign": "Singkawang",
+      "coord": [ "0.793056","108.957500"]
+    },
+    "WIOE": {
+      "callsign": "Tanjung Beringin",
+      "coord": [ "-0.333333","112.166667"]
+    },
+    "WIOF": {
+      "callsign": "Sungai Tontang",
+      "coord": [ "-0.583333","110.466667"]
+    },
+    "WIOG": {
+      "callsign": "Nanga Pinoh",
+      "coord": [ "-0.348056","111.750278"]
+    },
+    "WIOK": {
+      "callsign": "Rahadi Oesman",
+      "coord": [ "-1.816111","109.961944"],
+      "topdown": ["OOA","PK","WIIF"]
+    },
+    "WIOL": {
+      "callsign": "Tanjung Lokang",
+      "coord": [ "0.783333","113.666667"]
+    },
+    "WIOO": {
+      "callsign": "Supadio",
+      "coord": [ "-0.145556","109.403611"],
+      "topdown": ["OOAF","OOA","PK","WIIF"]
+    },
+    "WIOP": {
+      "callsign": "Pangsuma",
+      "coord": [ "0.838333","112.935556"]
+    },
+    "WIOR": {
+      "callsign": "Tanjung Rimba",
+      "coord": [ "-0.416667","110.466667"]
+    },
+    "WIOS": {
+      "callsign": "Tebelian",
+      "coord": [ "-0.041667","111.456389"]
+    },
+    "WIOY": {
+      "callsign": "Suti",
+      "coord": [ "0.883333","109.833333"]
+    },
+    "WIPB": {
+      "callsign": "Silampari",
+      "coord": [ "-3.284167","102.914167"]
+    },
+    "WIPD": {
+      "callsign": "Banding Angung",
+      "coord": [ "-4.800000","103.950000"]
+    },
+    "WIPO": {
+      "callsign": "Gatot Soebroto",
+      "coord": [ "-4.393889","104.402778"]
+    },
+    "WIPP": {
+      "callsign": "Mahmud",
+      "coord": [ "-2.900278","104.700000"],
+      "topdown": ["PPA","PB","JT","WIIF"]
+    },
+    "WIPY": {
+      "callsign": "Atung Bungsu",
+      "coord": [ "-4.024722","103.378611"]
+    },
+    "WIRR": {
+      "callsign": "Budiarto",
+      "coord": [ "-6.293333","106.568056"],
+      "topdown":["RRT","IIA","JT","WIIF"]
+    },
+    "WISA": {
+      "callsign": "Smart Semelagi",
+      "coord": [ "1.000556","109.046389"]
+    },
+    "WITC": {
+      "callsign": "Nagan",
+      "coord": [ "4.048056","96.250000"]
+    },
+    "WITK": {
+      "callsign": "Rembele",
+      "coord": [ "4.723333","96.848056"]
+    },
+    "WITL": {
+      "callsign": "Lhok Sukon",
+      "coord": [ "5.073056","97.255278"]
+    },
+    "WITN": {
+      "callsign": "Saleh",
+      "coord": [ "5.876389","95.337500"]
+    },
+    "WITT": {
+      "callsign": "Sultan",
+      "coord": [ "5.516944","95.420000"],
+      "topdown": ["TTT","MMAW","MMA","MMAE","BC","MN","WIIF"]
+    }
   }
-}
 }
