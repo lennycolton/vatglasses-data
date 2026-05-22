@@ -3965,7 +3965,7 @@
         }
       ]
     },
-    { "id": "Ranai",
+    { "id": "Natuna",
       "group": "APP",
       "owner": ["DOA","DNAN","DNAS","NA","TG","WIIF"],
       "sectors": [
@@ -4700,7 +4700,7 @@
         }
       ]
     },
-    { "id": "Hanan",
+    { "id": "Tanjung Pandan",
       "group": "APP",
       "owner": ["KTA","KKA","PP","JT","TN","PK","WIIF"],
       "sectors": [
@@ -8994,7 +8994,8 @@
       "3": "Ground Three"
     },
     "TWR": {
-      "": "Tower"
+      "": "Tower",
+      "I": "Aerodrome Information"
     },
     "APP": {
       "": "Approach",
@@ -9004,9 +9005,9 @@
       "": "Departure"
     },
     "CTR": {
-      "": "Control"
+      "": "Control",
+      "I": "Information"
     }
-
   },
   "airports": {
     "WIBB": {
