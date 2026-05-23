@@ -29,6 +29,8 @@ All maintainers have permission to approve changes by other maintainers. All PRs
 
 If another user (not a maintainer) opens a PR, please allow the maintainer for the affected airspace to review and approve the change.
 
+**Do not approve new data sets. These are handled under a separate procedure.**
+
 ## Contribution Guide
 Feel free to contribute to any of the data sets included in this repository. Please be aware that local vACC staff may perform bulk updates to data sets that they manage. VATGlasses-managed data sets rely on the community to keep them up-to-date and won't see bulk changes like this.
 

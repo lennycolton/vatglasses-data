@@ -3,7 +3,7 @@
       {
         "id": "LIRR-US7",
         "group": "LIRR",
-        "owner": ["NE7", "US2", "TS1", "NE1", "fss/EUCES"],
+        "owner": ["NE7", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -31,7 +31,7 @@
       {
         "id": "LIRR-US4",
         "group": "LIRR",
-        "owner": ["US2", "TS1", "NE1", "fss/EUCES"],
+        "owner": ["US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -59,7 +59,7 @@
       {
         "id": "LIRR-US3",
         "group": "LIRR",
-        "owner": ["US2", "TS1", "NE1"],
+        "owner": ["US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -87,7 +87,7 @@
       {
         "id": "LIRR-US2",
         "group": "LIRR",
-        "owner": ["US2", "TS1", "NE1"],
+        "owner": ["US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -115,7 +115,7 @@
       {
         "id": "LIRR-TS7",
         "group": "LIRR",
-        "owner": ["NE7", "TS1", "NE1", "fss/EUCES"],
+        "owner": ["NE7", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -143,7 +143,7 @@
       {
         "id": "LIRR-TS3",
         "group": "LIRR",
-        "owner": ["TS1", "NE1", "fss/EUCES"],
+        "owner": ["TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -171,7 +171,7 @@
       {
         "id": "LIRR-TS2",
         "group": "LIRR",
-        "owner": ["TS1", "NE1"],
+        "owner": ["TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -199,7 +199,7 @@
       {
         "id": "LIRR-TS1",
         "group": "LIRR",
-        "owner": ["TS1", "NE1"],
+        "owner": ["TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -227,7 +227,7 @@
       {
         "id": "LIRR-SU7",
         "group": "LIRR",
-        "owner": ["SU7", "NE7", "SU1", "fss/EUCES"],
+        "owner": ["SU7", "NE7", "SU1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -257,7 +257,7 @@
       {
         "id": "LIRR-SU3",
         "group": "LIRR",
-        "owner": ["SU1", "fss/EUCES"],
+        "owner": ["SU1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -287,7 +287,7 @@
       {
         "id": "LIRR-SU2",
         "group": "LIRR",
-        "owner": ["SU1"],
+        "owner": ["SU1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -317,7 +317,7 @@
       {
         "id": "LIRR-SU1",
         "group": "LIRR",
-        "owner": ["SU1"],
+        "owner": ["SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -347,7 +347,7 @@
       {
         "id": "LIRR-OV7",
         "group": "LIRR",
-        "owner": ["NW7", "NE7", "OV1", "NW1", "NE1", "fss/EUCES"],
+        "owner": ["NW7", "NE7", "OV1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -373,7 +373,7 @@
       {
         "id": "LIRR-OV3",
         "group": "LIRR",
-        "owner": ["OV1", "NW1", "NE1", "fss/EUCES"],
+        "owner": ["OV1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -399,7 +399,7 @@
       {
         "id": "LIRR-OV2",
         "group": "LIRR",
-        "owner": ["OV1", "NW1", "NE1"],
+        "owner": ["OV1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -425,7 +425,7 @@
       {
         "id": "LIRR-OV1",
         "group": "LIRR",
-        "owner": ["OV1", "NW1", "NE1"],
+        "owner": ["OV1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -451,7 +451,7 @@
       {
         "id": "LIRR-NW7",
         "group": "LIRR",
-        "owner": ["NW17", "NE7", "NW1", "NE1", "fss/EUCES"],
+        "owner": ["NW17", "NE7", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -479,7 +479,7 @@
       {
         "id": "LIRR-NW3",
         "group": "LIRR",
-        "owner": ["NW1", "NE1", "fss/EUCES"],
+        "owner": ["NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -507,7 +507,7 @@
       {
         "id": "LIRR-NW2",
         "group": "LIRR",
-        "owner": ["NW1", "NE1"],
+        "owner": ["NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -535,7 +535,7 @@
       {
         "id": "LIRR-NW1",
         "group": "LIRR",
-        "owner": ["NW1", "NE1"],
+        "owner": ["NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -563,7 +563,7 @@
       {
         "id": "LIRR-NN7",
         "group": "LIRR",
-        "owner": ["NE7", "NN1", "NE1", "fss/EUCES"],
+        "owner": ["NE7", "NN1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -593,7 +593,7 @@
       {
         "id": "LIRR-NN3",
         "group": "LIRR",
-        "owner": ["NN1", "NE1", "fss/EUCES"],
+        "owner": ["NN1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -623,7 +623,7 @@
       {
         "id": "LIRR-NN2",
         "group": "LIRR",
-        "owner": ["NN1", "NE1"],
+        "owner": ["NN1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -653,7 +653,7 @@
       {
         "id": "LIRR-NN1",
         "group": "LIRR",
-        "owner": ["NN1", "NE1"],
+        "owner": ["NN1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -680,7 +680,7 @@
       {
         "id": "LIRR-NE7",
         "group": "LIRR",
-        "owner": ["NE7", "NE1", "fss/EUCES"],
+        "owner": ["NE7", "NE1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -707,7 +707,7 @@
       {
         "id": "LIRR-NE3",
         "group": "LIRR",
-        "owner": ["NE1", "fss/EUCES"],
+        "owner": ["NE1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -734,7 +734,7 @@
       {
         "id": "LIRR-NE2",
         "group": "LIRR",
-        "owner": ["NE1"],
+        "owner": ["NE1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -761,7 +761,7 @@
       {
         "id": "LIRR-NE1",
         "group": "LIRR",
-        "owner": ["NE1"],
+        "owner": ["NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -787,7 +787,7 @@
       {
         "id": "LIRR-EW7",
         "group": "LIRR",
-        "owner": ["EW7", "SU7", "NE7", "EW1", "SU1", "fss/EUCES"],
+        "owner": ["EW7", "SU7", "NE7", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -812,7 +812,7 @@
       {
         "id": "LIRR-EW3",
         "group": "LIRR",
-        "owner": ["EW1", "SU1", "fss/EUCES"],
+        "owner": ["EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -837,7 +837,7 @@
       {
         "id": "LIRR-EW2",
         "group": "LIRR",
-        "owner": ["EW1", "SU1"],
+        "owner": ["EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -862,7 +862,7 @@
       {
         "id": "LIRR-EW1",
         "group": "LIRR",
-        "owner": ["EW1", "SU1"],
+        "owner": ["EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -887,7 +887,7 @@
       {
         "id": "LIRR-ES7",
         "group": "LIRR",
-        "owner": ["SU7", "NE7", "ES1", "SU1", "fss/EUCES"],
+        "owner": ["SU7", "NE7", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -918,7 +918,7 @@
       {
         "id": "LIRR-ES3",
         "group": "LIRR",
-        "owner": ["ES1", "SU1", "fss/EUCES"],
+        "owner": ["ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -949,7 +949,7 @@
       {
         "id": "LIRR-ES2",
         "group": "LIRR",
-        "owner": ["ES1", "SU1"],
+        "owner": ["ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -980,7 +980,7 @@
       {
         "id": "LIRR-ES1",
         "group": "LIRR",
-        "owner": ["ES1", "SU1"],
+        "owner": ["ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -1011,7 +1011,7 @@
       {
         "id": "LIRR-EE7",
         "group": "LIRR",
-        "owner": ["EW7", "SU7", "NE7", "EE3", "EW1", "SU1", "fss/EUCES"],
+        "owner": ["EW7", "SU7", "NE7", "EE3", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -1036,7 +1036,7 @@
       {
         "id": "LIRR-EE5",
         "group": "LIRR",
-        "owner": ["EE3", "EW1", "SU1", "fss/EUCES"],
+        "owner": ["EE3", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -1061,7 +1061,7 @@
       {
         "id": "LIRR-EE4",
         "group": "LIRR",
-        "owner": ["EE3", "EW1", "SU1"],
+        "owner": ["EE3", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -1086,7 +1086,7 @@
       {
         "id": "LIRR-EE3",
         "group": "LIRR",
-        "owner": ["EE3", "EW1", "SU1"],
+        "owner": ["EE3", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -1111,7 +1111,7 @@
       {
         "id": "LIRR-NC7",
         "group": "LIBB",
-        "owner": ["NE7", "RNC1", "US2", "TS1", "NE1", "fss/EUCES"],
+        "owner": ["NE7", "ND1", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 305,
@@ -1155,7 +1155,7 @@
       {
         "id": "LIRR-NC3",
         "group": "LIBB",
-        "owner": ["RNC1", "US2", "TS1", "NE1", "fss/EUCES"],
+        "owner": ["ND1", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 245,
@@ -1199,7 +1199,7 @@
       {
         "id": "LIRR-NC2",
         "group": "LIBB",
-        "owner": ["RNC1", "US2", "TS1", "NE1"],
+        "owner": ["ND1", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 195,
@@ -1243,7 +1243,7 @@
       {
         "id": "LIRR-NC1",
         "group": "LIBB",
-        "owner": ["RNC1", "US2", "TS1", "NE1"],
+        "owner": ["ND1", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -3005,7 +3005,7 @@
       {
         "id": "LIBBSUD_UIR",
         "group": "LIBB",
-        "owner": ["ES3", "fss/EUCES"],
+        "owner": ["ES3"],
         "sectors": [
           {
             "min": 305,
@@ -3041,7 +3041,7 @@
       {
         "id": "LIBBSUD_UIR",
         "group": "LIBB",
-        "owner": ["ES3", "fss/EUCES"],
+        "owner": ["ES3"],
         "sectors": [
           {
             "min": 245,
@@ -3077,7 +3077,7 @@
       {
         "id": "LIBBSUD_UIR",
         "group": "LIBB",
-        "owner": ["ES3", "fss/EUCES"],
+        "owner": ["ES3"],
         "sectors": [
           {
             "min": 195,
@@ -3113,7 +3113,7 @@
       {
         "id": "LIBBSUD_FIR",
         "group": "LIBB",
-        "owner": ["ES3", "fss/EUCES"],
+        "owner": ["ES3"],
         "sectors": [
           {
             "min": 0,
@@ -3149,7 +3149,7 @@
       {
         "id": "LIRZAPP2",
         "group": "APP",
-        "owner": ["RZA", "NE1"],
+        "owner": ["RZA", "NE1", "ROM"],
         "sectors": [
           {
             "min": 25,
@@ -3224,7 +3224,7 @@
       {
         "id": "LIRZAPP1",
         "group": "APP",
-        "owner": ["RZA", "NE1"],
+        "owner": ["RZA", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -3286,7 +3286,7 @@
       {
         "id": "LIRSAPP5",
         "group": "APP",
-        "owner": ["RSA", "NW1", "NE1"],
+        "owner": ["RSA", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 15,
@@ -3306,7 +3306,7 @@
       {
         "id": "LIRSAPP4",
         "group": "APP",
-        "owner": ["RSA", "NW1", "NE1"],
+        "owner": ["RSA", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 30,
@@ -3327,7 +3327,7 @@
       {
         "id": "LIRSAPP3",
         "group": "APP",
-        "owner": ["RSA", "NW1", "NE1"],
+        "owner": ["RSA", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 30,
@@ -3345,7 +3345,7 @@
       {
         "id": "LIRSAPP2",
         "group": "APP",
-        "owner": ["RSA", "NW1", "NE1"],
+        "owner": ["RSA", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 30,
@@ -3365,7 +3365,7 @@
       {
         "id": "LIRSAPP1",
         "group": "APP",
-        "owner": ["RSA", "NW1", "NE1"],
+        "owner": ["RSA", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -3413,7 +3413,7 @@
 	  {
         "id": "LIRR-PN1APP",
         "group": "APP",
-        "owner": ["PN1", "PS1", "OV1", "TW1", "NW1", "NE1", "NE7"],
+        "owner": ["PN1", "PS1", "OV1", "TW1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min":  25,
@@ -3436,7 +3436,7 @@
 	  {
         "id": "LIRR-PS1APP",
         "group": "APP",
-        "owner": ["PN1", "PS1", "OV1", "TW1", "NW1", "NE1", "NE7"],
+        "owner": ["PN1", "PS1", "OV1", "TW1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min":  25,
@@ -3459,7 +3459,7 @@
       {
         "id": "LIRR-TW1",
         "group": "APP",
-        "owner": ["TW1", "OV1", "NW1", "NE1", "NE7"],
+        "owner": ["TW1", "OV1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 25,
@@ -3485,7 +3485,7 @@
       {
         "id": "LIRR-AET",
         "group": "APP",
-        "owner": ["AET", "TW1", "PN1", "OV1", "NW1", "NE1", "NE7"],
+        "owner": ["AET", "TW1", "PN1", "OV1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min":  25,
@@ -3510,7 +3510,7 @@
       {
         "id": "LIRR-DAPP34R",
         "group": "APP",
-        "owner": ["AEM", "AWL", "PN1", "TW1", "AET", "OV1", "NW1", "NE1", "NE7"],
+        "owner": ["AEM", "AWL", "PN1", "TW1", "AET", "OV1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -3529,7 +3529,7 @@
       {
         "id": "LIRR-DAPP34L",
         "group": "APP",
-        "owner": ["AWL", "AEM", "PN1", "TW1", "AET", "OV1", "NW1", "NE1", "NE7"],
+        "owner": ["AWL", "AEM", "PN1", "TW1", "AET", "OV1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -3548,7 +3548,7 @@
       {
         "id": "LIRR-DAPP25",
         "group": "APP",
-        "owner": ["AET", "TW1", "PN1", "NE1"],
+        "owner": ["AET", "TW1", "PN1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -3569,7 +3569,7 @@
       {
         "id": "LIRR-DAPP16R",
         "group": "APP",
-        "owner": ["AWL", "AEM", "TW1", "AET", "PN1", "OV1", "NW1", "NE1", "NE7"],
+        "owner": ["AWL", "AEM", "TW1", "AET", "PN1", "OV1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -3589,7 +3589,7 @@
       {
         "id": "LIRR-DAPP16L",
         "group": "APP",
-        "owner": ["AEM", "AWL", "PN1", "TW1", "AET", "OV1", "NW1", "NE1", "NE7"],
+        "owner": ["AEM", "AWL", "PN1", "TW1", "AET", "OV1", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -3609,7 +3609,7 @@
       {
         "id": "NN0",
         "group": "APP",
-        "owner": ["NN0", "NN1", "NE1"],
+        "owner": ["NN0", "NN1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -3702,7 +3702,7 @@
       {
         "id": "LIRPAPP2",
         "group": "APP",
-        "owner": ["RPA", "RPE", "NW1", "NE1"],
+        "owner": ["RPA", "RPE", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 30,
@@ -3736,7 +3736,7 @@
       {
         "id": "LIRPAPP1",
         "group": "APP",
-        "owner": ["RPA", "RPE", "NW1", "NE1"],
+        "owner": ["RPA", "RPE", "NW1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -3787,7 +3787,7 @@
       {
         "id": "LIRNF2APP",
         "group": "APP",
-        "owner": ["US0", "US1", "US2", "TS1", "NE1"],
+        "owner": ["US0", "US1", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 95,
@@ -3809,7 +3809,7 @@
       {
         "id": "LIRNF1APP",
         "group": "APP",
-        "owner": ["US0", "US1", "US2", "TS1", "NE1"],
+        "owner": ["US0", "US1", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 35,
@@ -3841,7 +3841,7 @@
       {
         "id": "LIRNAPP5",
         "group": "APP",
-        "owner": ["US1", "US0", "US2", "TS1", "NE1"],
+        "owner": ["US1", "US0", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 115,
@@ -3863,7 +3863,7 @@
       {
         "id": "LIRNAPP4",
         "group": "APP",
-        "owner": ["US1", "US0", "US2", "TS1", "NE1"],
+        "owner": ["US1", "US0", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 95,
@@ -3885,7 +3885,7 @@
       {
         "id": "LIRNAPP3",
         "group": "APP",
-        "owner": ["US0", "US1", "US2", "TS1", "NE1"],
+        "owner": ["US0", "US1", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 115,
@@ -3918,7 +3918,7 @@
       {
         "id": "LIRNAPP2",
         "group": "APP",
-        "owner": ["US0", "US1", "US2", "TS1", "NE1"],
+        "owner": ["US0", "US1", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 15,
@@ -3943,7 +3943,7 @@
       {
         "id": "LIRNAPP1",
         "group": "APP",
-        "owner": ["US0", "US1", "US2", "TS1", "NE1"],
+        "owner": ["US0", "US1", "US2", "TS1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 15,
@@ -3969,7 +3969,7 @@
       {
         "id": "LIRLAPP2",
         "group": "APP",
-        "owner": ["RLA", "NE1"],
+        "owner": ["RLA", "NE1", "ROM"],
         "sectors": [
           {
             "min": 65,
@@ -3989,7 +3989,7 @@
       {
         "id": "LIRLAPP1",
         "group": "APP",
-        "owner": ["RLA", "NE1"],
+        "owner": ["RLA", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -4007,7 +4007,7 @@
       {
         "id": "LIRHAPP2",
         "group": "APP",
-        "owner": ["RHA", "NE1"],
+        "owner": ["RHA", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -4026,7 +4026,7 @@
       {
         "id": "LIRHAPP1",
         "group": "APP",
-        "owner": ["RHA", "NE1"],
+        "owner": ["RHA", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -4046,7 +4046,7 @@
       {
         "id": "LIEOAPP6",
         "group": "APP",
-        "owner": ["EW0", "EW1", "SU1"],
+        "owner": ["EW0", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 105,
@@ -4104,7 +4104,7 @@
       {
         "id": "LIEOAPP5",
         "group": "APP",
-        "owner": ["EW0", "EW1", "SU1"],
+        "owner": ["EW0", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 85,
@@ -4162,7 +4162,7 @@
       {
         "id": "LIEOAPP4",
         "group": "APP",
-        "owner": ["EW0", "EW1", "SU1"],
+        "owner": ["EW0", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 55,
@@ -4228,7 +4228,7 @@
       {
         "id": "LIEOAPP3",
         "group": "APP",
-        "owner": ["EW0", "EW1", "SU1"],
+        "owner": ["EW0", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 35,
@@ -4276,7 +4276,7 @@
       {
         "id": "LIEOAPP2",
         "group": "APP",
-        "owner": ["EW0", "EW1", "SU1"],
+        "owner": ["EW0", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 25,
@@ -4332,7 +4332,7 @@
       {
         "id": "LIEOAPP1",
         "group": "APP",
-        "owner": ["EW0", "EW1", "SU1"],
+        "owner": ["EW0", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -4384,7 +4384,7 @@
       {
         "id": "LIEEAPP3",
         "group": "APP",
-        "owner": ["EEA", "EE3", "EW1", "SU1"],
+        "owner": ["EEA", "EE3", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 10,
@@ -4410,7 +4410,7 @@
       {
         "id": "LIEEAPP2",
         "group": "APP",
-        "owner": ["EEA", "EE3", "EW1", "SU1"],
+        "owner": ["EEA", "EE3", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 15,
@@ -4451,7 +4451,7 @@
       {
         "id": "LIEEAPP1",
         "group": "APP",
-        "owner": ["EEA", "EE3", "EW1", "SU1"],
+        "owner": ["EEA", "EE3", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -4470,7 +4470,7 @@
       {
         "id": "LIEAAPP3",
         "group": "APP",
-        "owner": ["EW0", "EW1", "SU1"],
+        "owner": ["EW0", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 55,
@@ -4499,7 +4499,7 @@
       {
         "id": "LIEAAPP2",
         "group": "APP",
-        "owner": ["EW0", "EW1", "SU1"],
+        "owner": ["EW0", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 25,
@@ -4524,7 +4524,7 @@
       {
         "id": "LIEAAPP1",
         "group": "APP",
-        "owner": ["EW0", "EW1", "SU1"],
+        "owner": ["EW0", "EW1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -4553,7 +4553,7 @@
       {
         "id": "LICTAPP2",
         "group": "APP",
-        "owner": ["CTA", "SU1"],
+        "owner": ["CTA", "SU1", "ROM"],
         "sectors": [
           {
             "min": 75,
@@ -4597,7 +4597,7 @@
       {
         "id": "LICTAPP1",
         "group": "APP",
-        "owner": ["CTA", "SU1"],
+        "owner": ["CTA", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -4636,7 +4636,7 @@
       {
         "id": "LICRAPP3",
         "group": "APP",
-        "owner": ["CRA", "ES1", "SU1"],
+        "owner": ["CRA", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 30,
@@ -4703,7 +4703,7 @@
       {
         "id": "LICRAPP2",
         "group": "APP",
-        "owner": ["CRA", "ES1", "SU1"],
+        "owner": ["CRA", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 30,
@@ -4748,7 +4748,7 @@
       {
         "id": "LICRAPP1",
         "group": "APP",
-        "owner": ["CRA", "ES1", "SU1"],
+        "owner": ["CRA", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -4783,7 +4783,7 @@
       {
         "id": "LICJAPP3",
         "group": "APP",
-        "owner": ["CJA", "SU1"],
+        "owner": ["CJA", "SU1", "ROM"],
         "sectors": [
           {
             "min": 45,
@@ -4804,7 +4804,7 @@
       {
         "id": "LICJAPP2",
         "group": "APP",
-        "owner": ["CJA", "SU1"],
+        "owner": ["CJA", "SU1", "ROM"],
         "sectors": [
           {
             "min": 20,
@@ -4870,7 +4870,7 @@
       {
         "id": "LICJAPP1",
         "group": "APP",
-        "owner": ["CJA", "SU1"],
+        "owner": ["CJA", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -4910,7 +4910,7 @@
       {
         "id": "LICGAPP2",
         "group": "APP",
-        "owner": ["CGA", "SU1"],
+        "owner": ["CGA", "SU1", "ROM"],
         "sectors": [
           {
             "min": 25,
@@ -4978,7 +4978,7 @@
       {
         "id": "LICGAPP1",
         "group": "APP",
-        "owner": ["CGA", "SU1"],
+        "owner": ["CGA", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -5027,7 +5027,7 @@
       {
         "id": "LICCAPP7",
         "group": "APP",
-        "owner": ["CCA", "ES1", "SU1"],
+        "owner": ["CCA", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 65,
@@ -5072,7 +5072,7 @@
       {
         "id": "LICCAPP6",
         "group": "APP",
-        "owner": ["CCA", "ES1", "SU1"],
+        "owner": ["CCA", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 25,
@@ -5097,7 +5097,7 @@
       {
         "id": "LICCAPP5",
         "group": "APP",
-        "owner": ["CCA", "ES1", "SU1"],
+        "owner": ["CCA", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 130,
@@ -5118,7 +5118,7 @@
       {
         "id": "LICCAPP4",
         "group": "APP",
-        "owner": ["CCA", "ES1", "SU1"],
+        "owner": ["CCA", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 45,
@@ -5138,7 +5138,7 @@
       {
         "id": "LICCAPP3",
         "group": "APP",
-        "owner": ["CCA", "ES1", "SU1"],
+        "owner": ["CCA", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 35,
@@ -5166,7 +5166,7 @@
       {
         "id": "LICCAPP2",
         "group": "APP",
-        "owner": ["CCA", "ES1", "SU1"],
+        "owner": ["CCA", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -5186,7 +5186,7 @@
       {
         "id": "LICCAPP1",
         "group": "APP",
-        "owner": ["CCA", "ES1", "SU1"],
+        "owner": ["CCA", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -5206,7 +5206,7 @@
       {
         "id": "LICAAPP4",
         "group": "APP",
-        "owner": ["ES0", "ES1", "SU1"],
+        "owner": ["ES0", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 30,
@@ -5233,7 +5233,7 @@
       {
         "id": "LICAAPP3",
         "group": "APP",
-        "owner": ["ES0", "ES1", "SU1"],
+        "owner": ["ES0", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 30,
@@ -5278,7 +5278,7 @@
       {
         "id": "LICAAPP2",
         "group": "APP",
-        "owner": ["ES0", "ES1", "SU1"],
+        "owner": ["ES0", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 15,
@@ -5301,7 +5301,7 @@
       {
         "id": "LICAAPP1",
         "group": "APP",
-        "owner": ["ES0", "ES1", "SU1"],
+        "owner": ["ES0", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 10,
@@ -5335,7 +5335,7 @@
       {
         "id": "LICAAPP0",
         "group": "APP",
-        "owner": ["ES0", "ES1", "SU1"],
+        "owner": ["ES0", "ES1", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -6966,7 +6966,7 @@
       {
         "id": "LIBPAPP3",
         "group": "APP",
-        "owner": ["BPA", "RNC1", "NE1"],
+        "owner": ["BPA", "ND1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 35,
@@ -6986,7 +6986,7 @@
       {
         "id": "LIBPAPP2",
         "group": "APP",
-        "owner": ["BPA", "RNC1", "NE1"],
+        "owner": ["BPA", "ND1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 45,
@@ -7016,7 +7016,7 @@
       {
         "id": "LIBPAPP1",
         "group": "APP",
-        "owner": ["BPA", "RNC1", "NE1"],
+        "owner": ["BPA", "ND1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -7209,7 +7209,7 @@
       {
         "id": "LIBAAPP3",
         "group": "APP",
-        "owner": ["BAA", "RNC1", "NE1", "ES3"],
+        "owner": ["BAA", "ND1", "NE1", "ROM", "ES3"],
         "sectors": [
           {
             "min": 105,
@@ -7235,7 +7235,7 @@
       {
         "id": "LIBAAPP2",
         "group": "APP",
-        "owner": ["BAA", "RNC1", "NE1", "ES3"],
+        "owner": ["BAA", "ND1", "NE1", "ROM", "ES3"],
         "sectors": [
           {
             "min": 70,
@@ -7257,7 +7257,7 @@
       {
         "id": "LIBAAPP1",
         "group": "APP",
-        "owner": ["BAA", "RNC1", "NE1", "ES3"],
+        "owner": ["BAA", "ND1", "NE1", "ROM", "ES3"],
         "sectors": [
           {
             "min": 0,
@@ -10651,7 +10651,7 @@
       {
         "id": "LIRUTWR",
         "group": "TWR",
-        "owner": ["RUT", "AET", "TW1", "PN1", "NE1"],
+        "owner": ["RUT", "AET", "TW1", "PN1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -10671,7 +10671,7 @@
       {
         "id": "LIRNTWR",
         "group": "TWR",
-        "owner": ["RNT", "US0", "US1", "NE1"],
+        "owner": ["RNT", "US0", "US1", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -10716,7 +10716,7 @@
       {
         "id": "LIRFTWRE",
         "group": "TWR",
-        "owner": ["RFE", "RFT", "AEM", "AWL", "TW1", "PN1", "AET", "NE1"],
+        "owner": ["RFE", "RFT", "AEM", "AWL", "TW1", "PN1", "AET", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -10743,7 +10743,7 @@
       {
         "id": "LIRFTWR",
         "group": "TWR",
-        "owner": ["RFT", "RFE", "AEM", "AWL", "TW1", "PN1", "AET", "NE1"],
+        "owner": ["RFT", "RFE", "AEM", "AWL", "TW1", "PN1", "AET", "NE1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -10772,7 +10772,7 @@
       {
         "id": "LICCTWR",
         "group": "TWR",
-        "owner": ["CCT", "CCA", "SU1"],
+        "owner": ["CCT", "CCA", "SU1", "ROM"],
         "sectors": [
           {
             "min": 0,
@@ -12631,9 +12631,16 @@
         "pre": ["LIRR"],
         "colours": [{ "hex": "#ff2a00" }]
       },  
-      "RNC1": {
+      "ND1": {
         "callsign": "Roma Radar",
         "frequency": "131.200",
+        "type": "CTR",
+        "pre": ["LIRR"],
+        "colours": [{ "hex": "#5866ba" }]
+      },
+      "ROM": {
+        "callsign": "Roma Radar",
+        "frequency": "135.615",
         "type": "CTR",
         "pre": ["LIRR"],
         "colours": [{ "hex": "#5866ba" }]
@@ -12732,12 +12739,12 @@
       "LIBA": {
         "callsign": "Amendola",
         "coord": [41.541389, 15.718056],
-        "topdown": ["BAA", "RNC1", "NE1", "ES3"]
+        "topdown": ["BAA", "ND1", "NE1", "ROM", "ES3"]
       },
       "LIBC": {
         "callsign": "Crotone",
         "coord": [38.996789, 17.079067],
-        "topdown": ["ES0", "SU1", "ES3"]
+        "topdown": ["ES0", "SU1", "ROM", "ES3"]
       },
       "LIBD": {
         "callsign": "Bari",
@@ -12747,7 +12754,7 @@
       "LIBF": {
         "callsign": "Foggia/Gino Lisa",
         "coord": [41.433399, 15.53475],
-        "topdown": ["BBI", "BBA", "RNC1", "ES3"]
+        "topdown": ["BBI", "BBA", "ND1", "NE1", "ES3"]
       },
       "LIBG": {
         "callsign": "Grottaglie",
@@ -12762,7 +12769,7 @@
       "LIBP": {
         "callsign": "Pescara",
         "coord": [42.436667, 14.187222],
-        "topdown": ["BPA", "RNC1", "NE1"]
+        "topdown": ["BPA", "ND1", "NE1", "ROM"]
       },
       "LIBR": {
         "callsign": "Brindisi",
@@ -12776,37 +12783,37 @@
       "LICA": {
         "callsign": "Lamezia",
         "coord": [38.908453, 16.241542],
-        "topdown": ["ES0", "ES1", "SU1"]
+        "topdown": ["ES0", "ES1", "SU1", "ROM"]
       },
       "LICB": {
         "callsign": "Comiso As Usaf",
         "coord": [36.93306, 14.59972],
-        "topdown": ["CCA", "ES1", "SU1"]
+        "topdown": ["CCA", "ES1", "SU1", "ROM"]
       },
       "LICC": {
         "callsign": "Catania",
         "coord": [37.466228, 15.063733],
-        "topdown": ["CCD", "CCA", "ES1", "SU1"]
+        "topdown": ["CCD", "CCA", "ES1", "SU1", "ROM"]
       },
       "LICG": {
         "callsign": "Pantelleria",
         "coord": [36.814278, 11.965872],
-        "topdown": ["CGA", "SU1"]
+        "topdown": ["CGA", "SU1", "ROM"]
       },
       "LICJ": {
         "callsign": "Palermo",
         "coord": [38.182058, 13.099233],
-        "topdown": ["CJA", "SU1"]
+        "topdown": ["CJA", "SU1", "ROM"]
       },
       "LICR": {
         "callsign": "Reggio di Calabria",
         "coord": [38.072064, 15.653472],
-        "topdown": ["RCA", "ES1", "SU1"]
+        "topdown": ["RCA", "ES1", "SU1", "ROM"]
       },
       "LICT": {
         "callsign": "Trapani",
         "coord": [37.912336, 12.486161],
-        "topdown": ["CTA", "SU1"]
+        "topdown": ["CTA", "SU1", "ROM"]
       },
       "LICZ": {
         "callsign": "Sigonella",
@@ -12831,7 +12838,7 @@
       "LIEA": {
         "callsign": "Alghero",
         "coord": [40.631219, 8.288531],
-        "topdown": ["EW0", "SU1"]
+        "topdown": ["EW0", "SU1", "ROM"]
       },
       "LIED": {
         "callsign": "Decimomannu",
@@ -12840,12 +12847,12 @@
       "LIEE": {
         "callsign": "Cagliari",
         "coord": [39.247053, 9.056892],
-        "topdown": ["EEA", "EE3", "EW1", "SU1"]
+        "topdown": ["EEA", "EE3", "EW1", "SU1", "ROM"]
       },
       "LIEO": {
         "callsign": "Olbia",
         "coord": [40.898722, 9.517731],
-        "topdown": ["EW0", "EW1", "SU1"]
+        "topdown": ["EW0", "EW1", "SU1", "ROM"]
       },
       "LIER": {
         "callsign": "Oristano/Fenosu",
@@ -13055,7 +13062,7 @@
       "LIRA": {
         "callsign": "Roma-Ciampino",
         "coord": [41.799289, 12.594761],
-        "topdown": ["AET", "TW1", "PN1", "OV1", "NW1", "NE1"]
+        "topdown": ["AET", "TW1", "PN1", "OV1", "NW1", "NE1", "ROM"]
       },
       "LIRE": {
         "callsign": "Pratica Di Mare",
@@ -13065,7 +13072,7 @@
         "callsign": "Roma-Fiumicino",
         "coord": [41.811786, 12.252253],
         "runways": ["34", "16", "25"],
-        "topdown": ["AWL", "AET", "TW1", "PN1", "AET", "OV1", "NW1", "NE1"]
+        "topdown": ["AWL", "AET", "TW1", "PN1", "AET", "OV1", "NW1", "NE1", "ROM"]
       },
       "LIRG": {
         "callsign": "Guidonia",
@@ -13078,12 +13085,12 @@
       "LIRI": {
         "callsign": "Salerno",
         "coord": [40.61667, 14.91639],
-        "topdown": ["US0", "US1", "US2", "TS1", "NE1"]
+        "topdown": ["US0", "US1", "US2", "TS1", "NE1", "ROM"]
       },
       "LIRJ": {
         "callsign": "Marina Di Campo",
         "coord": [42.761167, 10.239667],
-        "topdown": ["RRI", "NW1", "NE1"]
+        "topdown": ["RRI", "NW1", "NE1", "ROM"]
       },
       "LIRL": {
         "callsign": "Latina",
@@ -13096,17 +13103,17 @@
       "LIRN": {
         "callsign": "Napoli",
         "coord": [40.884011, 14.288703],
-        "topdown": ["US0", "US1", "US2", "TS1", "NE1"]
+        "topdown": ["US0", "US1", "US2", "TS1", "NE1", "ROM"]
       },
       "LIRP": {
         "callsign": "Pisa",
         "coord": [43.683733, 10.394133],
-        "topdown": ["RPE", "RPA", "NW1", "NE1"]
+        "topdown": ["RPE", "RPA", "NW1", "NE1", "ROM"]
       },
       "LIRQ": {
         "callsign": "Firenze",
         "coord": [43.808056, 11.203056],
-        "topdown": ["NN0", "NN1", "NE1"]
+        "topdown": ["NN0", "NN1", "NE1", "ROM"]
       },
       "LIRS": {
         "callsign": "Grosseto",
@@ -13123,7 +13130,7 @@
       "LIRZ": {
         "callsign": "Perugia",
         "coord": [43.097369, 12.510167],
-        "topdown": ["RZA", "NE1"]
+        "topdown": ["RZA", "NE1", "ROM"]
       }
    }
 }

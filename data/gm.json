@@ -5171,49 +5171,49 @@
           "frequency": "131.500",
           "type": "CTR",
           "pre": ["GMAC"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#c0de95" }]
         },
         "AOS": {
           "callsign": "Agadir Radar",
           "frequency": "124.500",
           "type": "CTR",
           "pre": ["GMAC"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#67bf7f" }]
         },
         "AON": {
           "callsign": "Agadir Radar",
           "frequency": "136.000",
           "type": "CTR",
           "pre": ["GMAC"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#c2f27c" }]
         },
         "AO": {
           "callsign": "Agadir Radar",
           "frequency": "124.550",
           "type": "CTR",
           "pre": ["GMAC"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#8bb54c" }]
         },
         "AWS": {
           "callsign": "Agadir Radar",
           "frequency": "127.000",
           "type": "CTR",
           "pre": ["GMAC"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#8eed77" }]
        },
         "AWN": {
           "callsign": "Agadir Radar",
           "frequency": "128.800",
           "type": "CTR",
           "pre": ["GMAC"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#81d497" }]
         },
         "AW": {
           "callsign": "Agadir Radar",
           "frequency": "128.850",
           "type": "CTR",
           "pre": ["GMAC"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#2ab04e" }]
         },
         "ADA": {
           "callsign": "Al Massira Approach",
@@ -5395,14 +5395,14 @@
           "frequency": "132.100",
           "type": "CTR",
           "pre": ["GMMM"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#ad5050" }]
         },
         "CS": {
           "callsign": "Casablanca Radar",
           "frequency": "126.700",
           "type": "CTR",
           "pre": ["GMMM"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#cc7676" }]
         },
         "RMI": {
           "callsign": "Rabat Military Control",
@@ -5416,28 +5416,21 @@
           "frequency": "125.500",
           "type": "CTR",
           "pre": ["GMMM"],
-          "colours": [{ "hex": "#de3c3c" }]
-        },
-        "CS": {
-          "callsign": "Casablanca Radar",
-          "frequency": "126.700",
-          "type": "CTR",
-          "pre": ["GMMM"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#dd2726" }]
         },
         "CE": {
           "callsign": "Casablanca Radar",
           "frequency": "125.100",
           "type": "CTR",
           "pre": ["GMMM"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#dd6499" }]
         },
         "CNE": {
           "callsign": "Casablanca Radar",
           "frequency": "132.325",
           "type": "CTR",
           "pre": ["GMMM"],
-          "colours": [{ "hex": "#de3c3c" }]
+          "colours": [{ "hex": "#c24327" }]
         },
         "MNA": {
           "callsign": "Mohammed V Approach",
