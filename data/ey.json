@@ -2250,9 +2250,9 @@
 	"EYVI_APP": {"colours": [{"hex": "#c7b192"}], "pre": ["EYVI"], "type": "APP", "frequency": "120.705", "callsign": "Vilnius Approach"},
 
 	"EYVI_TWR": {"colours": [{"hex": ""}], "pre": ["EYVI"], "type": "TWR", "frequency": "118.205", "callsign": "Vilnius Tower"},
-	"EYKA_TWR": {"colours": [{"hex": "#40E0D0"}], "pre": ["EYKA"], "type": "APP", "frequency": "124.205", "callsign": "Kaunas Tower"},
-	"EYPA_TWR": {"colours": [{"hex": "#008080"}], "pre": ["EYPA"], "type": "APP", "frequency": "124.305", "callsign": "Palanga Tower"},
-	"EYSA_TWR": {"colours": [{"hex": "#9FE2BF"}], "pre": ["EYSA"], "type": "APP", "frequency": "120.405", "callsign": "Siauliai Tower"}
+	"EYKA_TWR": {"colours": [{"hex": "#40E0D0"}], "pre": ["EYKA"], "type": "TWR", "frequency": "124.205", "callsign": "Kaunas Tower"},
+	"EYPA_TWR": {"colours": [{"hex": "#008080"}], "pre": ["EYPA"], "type": "TWR", "frequency": "124.305", "callsign": "Palanga Tower"},
+	"EYSA_TWR": {"colours": [{"hex": "#9FE2BF"}], "pre": ["EYSA"], "type": "TWR", "frequency": "120.405", "callsign": "Siauliai Tower"}
     },
 
     "callsigns": {
