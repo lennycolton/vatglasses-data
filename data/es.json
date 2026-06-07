@@ -9142,77 +9142,77 @@
     },
     "CFP": {
       "callsign": "Malmen Precision",
-      "frequency": "125.200",
+      "frequency": "125.205",
       "type": "APP",
       "pre": ["ESCF"],
       "colours": [{ "hex": "#000030" }]
     },
     "CF": {
       "callsign": "Malmen Tower",
-      "frequency": "129.800",
+      "frequency": "129.805",
       "type": "TWR",
       "pre": ["ESCF"],
       "colours": [{ "hex": "#00a500" }]
     },
     "CMA": {
       "callsign": "Uppsala Approach",
-      "frequency": "130.400",
+      "frequency": "130.405",
       "type": "APP",
       "pre": ["ESCM"],
       "colours": [{ "hex": "#0000f6" }]
     },
     "CM": {
       "callsign": "Uppsala Tower",
-      "frequency": "119.200",
+      "frequency": "119.205",
       "type": "TWR",
       "pre": ["ESCM"],
       "colours": [{ "hex": "#00f500" }]
     },
     "GRIZ": {
       "callsign": "Grizzly",
-      "frequency": "135.200",
+      "frequency": "135.205",
       "type": "CTR",
       "pre": ["ESCR"],
       "colours": [{ "hex": "#e98c00" }]
     },
     "DFA": {
       "callsign": "Ronneby Approach",
-      "frequency": "128.450",
+      "frequency": "128.455",
       "type": "APP",
       "pre": ["ESDF"],
       "colours": [{ "hex": "#0000c8" }]
     },
     "DFP": {
       "callsign": "Ronneby Precision",
-      "frequency": "134.100",
+      "frequency": "134.105",
       "type": "APP",
       "pre": ["ESDF"],
       "colours": [{ "hex": "#0000a5" }]
     },
     "DF": {
       "callsign": "Ronneby Tower",
-      "frequency": "119.200",
+      "frequency": "119.205",
       "type": "TWR",
       "pre": ["ESDF"],
       "colours": [{ "hex": "#000b00" }]
     },
     "SHRK": {
       "callsign": "Blue Shark",
-      "frequency": "132.100",
+      "frequency": "132.105",
       "type": "CTR",
       "pre": ["ESDK"],
       "colours": [{ "hex": "#dd8c00" }]
     },
     "FRA": {
       "callsign": "Rada Approach",
-      "frequency": "133.500",
+      "frequency": "133.505",
       "type": "APP",
       "pre": ["ESFR"],
       "colours": [{ "hex": "#0000da" }]
     },
     "FR": {
       "callsign": "Rada Tower",
-      "frequency": "136.025",
+      "frequency": "136.030",
       "type": "TWR",
       "pre": ["ESFR"],
       "colours": [{ "hex": "#00c800" }]
@@ -9261,35 +9261,35 @@
     },
     "IAA": {
       "callsign": "Karlsborg Approach",
-      "frequency": "132.050",
+      "frequency": "132.055",
       "type": "APP",
       "pre": ["ESIA"],
       "colours": [{ "hex": "#0000c0" }]
     },
     "IA": {
       "callsign": "Karlsborg Tower",
-      "frequency": "133.000",
+      "frequency": "133.005",
       "type": "TWR",
       "pre": ["ESIA"],
       "colours": [{ "hex": "#007500" }]
     },
     "IBA": {
       "callsign": "Satanas Approach",
-      "frequency": "134.550",
+      "frequency": "134.555",
       "type": "APP",
       "pre": ["ESIB"],
       "colours": [{ "hex": "#00004d" }]
     },
     "IBP": {
       "callsign": "Satenas Precision",
-      "frequency": "119.300",
+      "frequency": "119.305",
       "type": "APP",
       "pre": ["ESIB"],
       "colours": [{ "hex": "#000000" }]
     },
     "IB": {
       "callsign": "Satenas Tower",
-      "frequency": "128.200",
+      "frequency": "128.205",
       "type": "TWR",
       "pre": ["ESIB"],
       "colours": [{ "hex": "#006300" }]
@@ -9428,7 +9428,7 @@
       "colours": [{ "hex": "#99c8ff" }]
     },
     "MIS": {
-      "callsign": "Sweden Control",
+      "callsign": "Sweden Information",
       "frequency": "133.805",
       "type": "APP",
       "pre": ["ESMS"],
@@ -9457,14 +9457,14 @@
     },
     "MVA": {
       "callsign": "Hagshult Approach",
-      "frequency": "121.150",
+      "frequency": "121.155",
       "type": "APP",
       "pre": ["ESMV"],
       "colours": [{ "hex": "#0000b3" }]
     },
     "MV": {
       "callsign": "Hagshult Tower",
-      "frequency": "136.250",
+      "frequency": "136.255",
       "type": "TWR",
       "pre": ["ESMV"],
       "colours": [{ "hex": "#009f00" }]
@@ -9492,14 +9492,14 @@
     },
     "NJA": {
       "callsign": "Jokkmokk Approach",
-      "frequency": "124.850",
+      "frequency": "124.855",
       "type": "APP",
       "pre": ["ESNJ"],
       "colours": [{ "hex": "#000042" }]
     },
     "NJ": {
       "callsign": "Jokkmokk Tower",
-      "frequency": "133.000",
+      "frequency": "133.005",
       "type": "TWR",
       "pre": ["ESNJ"],
       "colours": [{ "hex": "#00d600" }]
@@ -9702,49 +9702,56 @@
     },
     "PAA": {
       "callsign": "Kallax Approach",
-      "frequency": "125.450",
+      "frequency": "125.455",
       "type": "APP",
       "pre": ["ESPA"],
       "colours": [{ "hex": "#00009d" }]
     },
     "PAF": {
       "callsign": "Kallax Approach",
-      "frequency": "130.800",
+      "frequency": "130.805",
       "type": "APP",
       "pre": ["ESPA"],
       "colours": [{ "hex": "#000061" }]
     },
     "PAP": {
       "callsign": "Kallax Precision",
-      "frequency": "119.000",
+      "frequency": "119.005",
       "type": "APP",
       "pre": ["ESPA"],
       "colours": [{ "hex": "#00002e" }]
     },
     "PA": {
       "callsign": "Kallax Tower",
-      "frequency": "128.200",
+      "frequency": "128.205",
       "type": "TWR",
       "pre": ["ESPA"],
       "colours": [{ "hex": "#FFFFE0" }]
     },
     "PEA": {
       "callsign": "Vidsel Approach",
-      "frequency": "124.150",
+      "frequency": "124.155",
       "type": "APP",
       "pre": ["ESPE"],
       "colours": [{ "hex": "#00007f" }]
     },
     "PEP": {
       "callsign": "Vidsel Precision",
-      "frequency": "135.400",
+      "frequency": "135.405",
       "type": "APP",
       "pre": ["ESPE"],
       "colours": [{ "hex": "#000074" }]
     },
+    "PE": {
+      "callsign": "Vidsel Tower",
+      "frequency": "130.405",
+      "type": "TWR",
+      "pre": ["ESPE"],
+      "colours": [{ "hex": "#98fb98" }]
+    },
     "CBRA": {
       "callsign": "Cobra",
-      "frequency": "129.450",
+      "frequency": "129.455",
       "type": "CTR",
       "pre": ["ESPF"],
       "colours": [{ "hex": "#a58c00" }]
