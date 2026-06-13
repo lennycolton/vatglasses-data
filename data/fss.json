@@ -5,6 +5,8 @@
     "AFRC": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRC"], "type": "FSS", "frequency": "129.075", "callsign": "Africa Central Control"},
     "AFRE": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRE"], "type": "FSS", "frequency": "135.050", "callsign": "East Africa Control"},
     "AFRN": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRN"], "type": "FSS", "frequency": "134.525", "callsign": "North Africa Control"},
+    "AFRNE": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRNE"], "type": "FSS", "frequency": "132.725", "callsign": "North Africa Control"},
+    "AFRNW": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRNE"], "type": "FSS", "frequency": "133.725", "callsign": "North Africa Control"},
     "AFRS": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRS"], "type": "FSS", "frequency": "134.575", "callsign": "Africa South Control" },
     "AFRWA": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRW"], "type": "FSS", "frequency": "131.225", "callsign": "Africa West Control" },
     "AFRWB": { "colours": [{ "hex": "#ffffff" }], "pre": ["AFRW"], "type": "FSS", "frequency": "130.225", "callsign": "Africa West Control" },
