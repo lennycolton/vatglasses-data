@@ -7707,21 +7707,25 @@
         }
     },
     "positions": {
-    "ALI": { "colours": [{ "hex": "#2f9bf2" }], "pre": ["ALI"], "type": "APP", "frequency": "120.200", "callsign": "Baghdad Approach" },
-    "BGD": { "colours": [{ "hex": "#2e61f2" }], "pre": ["BGD"], "type": "APP", "frequency": "122.400", "callsign": "Baghdad Approach" },
-    "KIR": { "colours": [{ "hex": "#1753f2" }], "pre": ["KIR"], "type": "APP", "frequency": "127.700", "callsign": "Baghdad Approach" },
-    "BN": { "colours": [{ "hex": "#54e035" }], "pre": ["ORBB"], "type": "CTR", "frequency": "132.875", "callsign": "Baghdad Control" },
-    "BNU": { "colours": [{ "hex": "#358826" }], "pre": ["ORBB"], "type": "CTR", "frequency": "125.900", "callsign": "Baghdad Control" },
-    "BS": { "colours": [{ "hex": "#e0b122" }], "pre": ["ORBB"], "type": "CTR", "frequency": "128.700", "callsign": "Baghdad Control" },
-    "BSU": { "colours": [{ "hex": "#a79c0b" }], "pre": ["ORBB"], "type": "CTR", "frequency": "127.100", "callsign": "Baghdad Control" },
-    "BIT": { "colours": [{ "hex": "#e54d28" }], "pre": ["ORBI"], "type": "TWR", "frequency": "118.900", "callsign": "Baghdad Tower" },
-    "BMT": { "colours": [{ "hex": "#8f562c" }], "pre": ["ORBM"], "type": "TWR", "frequency": "120.200", "callsign": "Mosul Tower" },
-    "ERT": { "colours": [{ "hex": "#cb26c0" }], "pre": ["ORER"], "type": "TWR", "frequency": "128.800", "callsign": "Erbil Tower" },
-    "EZT": { "colours": [{ "hex": "#34d8db" }], "pre": ["OREZ"], "type": "TWR", "frequency": "125.100", "callsign": "Embassy Tower" },
-    "KKT": { "colours": [{ "hex": "#dd0ca0" }], "pre": ["ORKK"], "type": "TWR", "frequency": "125.550", "callsign": "Kirkuk Tower" },
-    "MMT": { "colours": [{ "hex": "#ad723a" }], "pre": ["ORMM"], "type": "TWR", "frequency": "118.700", "callsign": "Basrah Tower" },
-    "NIT": { "colours": [{ "hex": "#6dcaf2" }], "pre": ["ORNI"], "type": "TWR", "frequency": "119.100", "callsign": "Al Najaf Tower" },
-    "SJT": { "colours": [{ "hex": "#e74c8b" }], "pre": ["ORSJ"], "type": "TWR", "frequency": "118.300", "callsign": "Jalal Talabani Tower" }
+
+      "B":   { "colours": [{ "hex": "#e8974d" }], "pre": ["ORBB"], "type": "CTR", "frequency": "124.400", "callsign": "Baghdad Control" },
+      "BN":  { "colours": [{ "hex": "#ab713c" }], "pre": ["ORBB"], "type": "CTR", "frequency": "132.875", "callsign": "Baghdad Control" },
+      "BNU": { "colours": [{ "hex": "#8d542e" }], "pre": ["ORBB"], "type": "CTR", "frequency": "125.900", "callsign": "Baghdad Control" },
+      "BS":  { "colours": [{ "hex": "#c928bf" }], "pre": ["ORBB"], "type": "CTR", "frequency": "128.700", "callsign": "Baghdad Control" },
+      "BSU": { "colours": [{ "hex": "#82057a" }], "pre": ["ORBB"], "type": "CTR", "frequency": "127.100", "callsign": "Baghdad Control" },
+
+      "ALI": { "colours": [{ "hex": "#6fc8f0" }], "pre": ["ALI"], "type": "APP", "frequency": "120.200", "callsign": "Baghdad Approach" },
+      "BGD": { "colours": [{ "hex": "#36d6d9" }], "pre": ["BGD"], "type": "APP", "frequency": "122.400", "callsign": "Baghdad Approach" },
+      "KIR": { "colours": [{ "hex": "#368dd9" }], "pre": ["KIR"], "type": "APP", "frequency": "127.700", "callsign": "Baghdad Approach" },
+
+      "BIT": { "colours": [{ "hex": "#e34b29" }], "pre": ["ORBI"], "type": "TWR", "frequency": "118.900", "callsign": "Baghdad Tower" },
+      "BMT": { "colours": [{ "hex": "#a15c1d" }], "pre": ["ORBM"], "type": "TWR", "frequency": "120.200", "callsign": "Mosul Tower" },
+      "ERT": { "colours": [{ "hex": "#e50087" }], "pre": ["ORER"], "type": "TWR", "frequency": "128.800", "callsign": "Erbil Tower" },
+      "EZT": { "colours": [{ "hex": "#965793" }], "pre": ["OREZ"], "type": "TWR", "frequency": "125.100", "callsign": "Embassy Tower" },
+      "KKT": { "colours": [{ "hex": "#db0d9d" }], "pre": ["ORKK"], "type": "TWR", "frequency": "125.550", "callsign": "Kirkuk Tower" },
+      "MMT": { "colours": [{ "hex": "#ab713c" }], "pre": ["ORMM"], "type": "TWR", "frequency": "118.700", "callsign": "Basrah Tower" },
+      "NIT": { "colours": [{ "hex": "#a98827" }], "pre": ["ORNI"], "type": "TWR", "frequency": "119.100", "callsign": "Al Najaf Tower" },
+      "SJT": { "colours": [{ "hex": "#e54a89" }], "pre": ["ORSJ"], "type": "TWR", "frequency": "118.300", "callsign": "Jalal Talabani Tower" }
     },
     "callsigns": {
         "GND": {
