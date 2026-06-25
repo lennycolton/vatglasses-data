@@ -7707,7 +7707,6 @@
         }
     },
     "positions": {
-
       "B":   { "colours": [{ "hex": "#e8974d" }], "pre": ["ORBB"], "type": "CTR", "frequency": "124.400", "callsign": "Baghdad Control" },
       "BN":  { "colours": [{ "hex": "#ab713c" }], "pre": ["ORBB"], "type": "CTR", "frequency": "132.875", "callsign": "Baghdad Control" },
       "BNU": { "colours": [{ "hex": "#8d542e" }], "pre": ["ORBB"], "type": "CTR", "frequency": "125.900", "callsign": "Baghdad Control" },
