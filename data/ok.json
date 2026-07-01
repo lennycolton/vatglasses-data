@@ -1,11 +1,11 @@
 {
     "airspace": [
         {
-            "id": "Upper",
+            "id": "Kuwait Upper",
             "group": "CTR",
             "owner": [
-                "KRU",
-                "KR",
+                "KU",
+                "K",
                 "fss/GULFE",
                 "fss/GULF"
             ],
@@ -61,10 +61,10 @@
             ]
         },
         {
-            "id": "Lower",
+            "id": "Kuwait Lower",
             "group": "CTR",
             "owner": [
-                "KR",
+                "K",
                 "fss/GULFE",
                 "fss/GULF"
             ],
@@ -120,10 +120,10 @@
             ]
         },
         {
-            "id": "Lower",
+            "id": "Kuwait Lower",
             "group": "CTR",
             "owner": [
-                "KR"
+                "K"
             ],
             "sectors": [
                 {
@@ -240,8 +240,8 @@
             "id": "Kuwait",
             "group": "APP",
             "owner": [
-                "BKA",
-                "KR"
+                "KKA",
+                "K"
             ],
             "sectors": [
                 {
@@ -464,9 +464,9 @@
             "id": "Kuwait",
             "group": "FIN",
             "owner": [
-                "KAF",
-                "BKA",
-                "KR"
+                "KKF",
+                "KKA",
+                "K"
             ],
             "sectors": [
                 {
@@ -558,13 +558,13 @@
             ]
         },
         {
-            "id": "Kuwait",
+            "id": "Kuwait CTR",
             "group": "TWR",
             "owner": [
-                "BKT",
-                "KAF",
-                "BKA",
-                "KR"
+                "KKT",
+                "KKF",
+                "KKA",
+                "K"
             ],
             "sectors": [
                 {
@@ -633,130 +633,22 @@
         }
     },
     "positions": {
-        "KR": {
-            "callsign": "Kuwait Radar",
-            "frequency": "125.300",
-            "type": "CTR",
-            "pre": [
-                "OKAC"
-            ],
-            "colours": [
-                {
-                    "hex": "#158c00"
-                }
-            ]
-        },
-        "KRU": {
-            "callsign": "Kuwait Radar",
-            "frequency": "132.100",
-            "type": "CTR",
-            "pre": [
-                "OKAC"
-            ],
-            "colours": [
-                {
-                    "hex": "#e98c00"
-                }
-            ]
-        },
-        "AJT": {
-            "callsign": "Al Jaber Tower",
-            "frequency": "124.150",
-            "type": "TWR",
-            "pre": [
-                "OKAJ"
-            ],
-            "colours": [
-                {
-                    "hex": "#00db00"
-                }
-            ]
-        },
-        "ASA": {
-            "callsign": "Mohalab Control",
-            "frequency": "128.300",
-            "type": "APP",
-            "pre": [
-                "OKAS"
-            ],
-            "colours": [
-                {
-                    "hex": "#000048"
-                }
-            ]
-        },
-        "AST": {
-            "callsign": "Al Salem Tower",
-            "frequency": "118.000",
-            "type": "TWR",
-            "pre": [
-                "OKAS"
-            ],
-            "colours": [
-                {
-                    "hex": "#008b00"
-                }
-            ]
-        },
-        "BKA": {
-            "callsign": "Kuwait Approach",
-            "frequency": "124.800",
-            "type": "APP",
-            "pre": [
-                "OKKK"
-            ],
-            "colours": [
-                {
-                    "hex": "#0000fd"
-                }
-            ]
-        },
-        "KAF": {
-            "callsign": "Kuwait Director",
-            "frequency": "123.825",
-            "type": "APP",
-            "pre": [
-                "OKKK"
-            ],
-            "colours": [
-                {
-                    "hex": "#000052"
-                }
-            ]
-        },
-        "BKT": {
-            "callsign": "Kuwait Tower",
-            "frequency": "118.300",
-            "type": "TWR",
-            "pre": [
-                "OKKK"
-            ],
-            "colours": [
-                {
-                    "hex": "#00a200"
-                }
-            ]
-        }
+        "K": { "callsign": "Kuwait Radar", "frequency": "125.300", "type": "CTR", "pre": ["OKAC"], "colours": [{ "hex": "#158c00" }] },
+        "KU": { "callsign": "Kuwait Radar", "frequency": "132.100", "type": "CTR", "pre": ["OKAC"], "colours": [{ "hex": "#e98c00"}] },
+
+        "AJT": { "callsign": "Al Jaber Tower", "frequency": "124.150", "type": "TWR", "pre": ["OKAJ"], "colours": [ { "hex": "#00db00"}] },
+        "AJC": { "callsign": "Al Jaber Control","frequency": "128.300", "type": "APP", "pre": ["OKAS"], "colours": [{ "hex": "#000048" }] },
+        "AST": { "callsign": "Al Salem Tower", "frequency": "118.000", "type": "TWR", "pre": ["OKAS"], "colours": [ {"hex": "#008b00"}] },
+
+        "KKA": { "callsign": "Kuwait Approach", "frequency": "124.800", "type": "APP", "pre": ["OKKK"], "colours": [{"hex": "#0000fd"}] },
+        "KKF": { "callsign": "Kuwait Director", "frequency": "123.825", "type": "APP", "pre": ["OKKK"], "colours": [ {"hex": "#000052"} ] },
+        "KKT": { "callsign": "Kuwait Tower", "frequency": "118.300", "type": "TWR", "pre": ["OKKK"], "colours": [{"hex": "#00a200"}] }
     },
     "callsigns": {
-        "DEL": {
-            "": "Delivery",
-            "P": "Planner"
-        },
-        "GND": {
-            "": "Ground",
-            "P": "Planner"
-        },
-        "TWR": {
-            "": "Tower",
-            "H": "Kopter",
-            "I": "Information",
-            "R": "Radio"
-        },
-        "APP": {
-            "": "Approach",
-            "F": "Director"
-        }
+        "DEL": { "": "Delivery", "P": "Planner" },
+        "GND": { "": "Ground", "P": "Planner" },
+        "TWR": { "": "Tower", "H": "Kopter", "I": "Information", "R": "Radio" },
+        "APP": { "": "Approach", "F": "Director" }
     },
     "airports": {
       "OKAJ": { 
@@ -772,7 +664,7 @@
       "OKKK": { 
         "callsign": "Kuwait",
         "coord": ["29.226567","47.968928"],
-        "topdown": ["KAF", "BKA", "KR"]
+        "topdown": ["KKF", "KKA", "K"]
       }
     }
 }
