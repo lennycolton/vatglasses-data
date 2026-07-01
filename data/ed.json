@@ -7539,8 +7539,8 @@
         "owner": [
           "DBDN",
           "DBDS",
-          "DBAS",
           "DBAN",
+          "DBAS",
           "FLG",
           "BOR",
           "MAR",
@@ -7620,8 +7620,8 @@
         "owner": [
           "DBDS",
           "DBDN",
-          "DBAS",
           "DBAN",
+          "DBAS",
           "FLG",
           "BOR",
           "MAR",
