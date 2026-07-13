@@ -5361,7 +5361,7 @@
           "owner":[
              "YK",
              "YN",
-             "BU",
+             "EDYY",
              "BW",
              "BE",
              "fss/EUCMW"
@@ -5412,7 +5412,7 @@
           "group":"EDYY",
           "owner":[
              "YO",
-             "BU",
+             "EDYY",
              "BE",
              "BW",
              "fss/EUCMW"
@@ -5448,7 +5448,7 @@
           "group":"EDYY",
           "owner":[
              "YO",
-             "BU",
+             "EDYY",
              "BE",
              "BW",
              "fss/EUCMW"
@@ -5476,7 +5476,7 @@
           "owner":[
              "YL",
              "YO",
-             "BU",
+             "EDYY",
              "BE",
              "BW",
              "fss/EUCMW"
@@ -5536,7 +5536,7 @@
           "group":"EDYY",
           "owner":[
              "YN",
-             "BU",
+             "EDYY",
              "BW",
              "BE",
              "fss/EUCMW"
@@ -5731,7 +5731,7 @@
           "owner":[
              "YK",
              "YN",
-             "BU",
+             "EDYY",
              "BW",
              "BE",
              "fss/EUCMW"
@@ -5762,7 +5762,7 @@
           "owner":[
              "YK",
              "YN",
-             "BU",
+             "EDYY",
              "BW",
              "BE",
              "fss/EUCMW"
@@ -5792,7 +5792,7 @@
           "owner":[
              "YK",
              "YN",
-             "BU",
+             "EDYY",
              "BW",
              "BE",
              "fss/EUCMW"
@@ -5824,7 +5824,7 @@
           "owner":[
              "YK",
              "YN",
-             "BU",
+             "EDYY",
              "BW",
              "BE",
              "fss/EUCMW"
@@ -5855,7 +5855,7 @@
           "owner":[
              "YK",
              "YN",
-             "BU",
+             "EDYY",
              "BW",
              "BE",
              "fss/EUCMW"
@@ -5890,7 +5890,7 @@
           "owner":[
              "YK",
              "YN",
-             "BU",
+             "EDYY",
              "BW",
              "BE",
              "fss/EUCMW"
@@ -6047,11 +6047,11 @@
       "pre": ["EBBU"],
       "colours": [{ "hex": "#908c00" }]
     },
-    "BU": {
+    "EDYY": {
       "callsign": "Maastricht Radar",
-      "frequency": "125.980",
+      "frequency": "134.330",
       "type": "CTR",
-      "pre": ["EBBU"],
+      "pre": ["EDYY"],
       "colours": [{ "hex": "#c58c00" }]
     },
     "YN": {
