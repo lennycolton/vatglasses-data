@@ -2320,7 +2320,7 @@
 			"colours": [{
 				"hex": "#fa4f4e"
 			}]
-        }
+        },
 		"MIL": {
 			"callsign": "Military Control",
 			"frequency": "131.525",
