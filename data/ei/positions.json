@@ -20,22 +20,23 @@
         "USS": { "colours": [{ "online": ["UNN"], "hex": "#c928bf" }, { "online": ["LNN"], "hex": "#c928bf" }, { "hex": "#ab713c" }], "pre": [ "EIDW" ], "type": "CTR","frequency": "135.655","callsign": "Dublin Control" },
         "LSS": { "colours": [{ "online": ["UNN"], "hex": "#c928bf" }, { "online": ["LNN"], "hex": "#c928bf" }, { "hex": "#ab713c" }], "pre": [ "EIDW" ], "type": "CTR","frequency": "120.755","callsign": "Dublin Control" },
         "DFIS": { "pre": [ "EIDW" ], "type": "CTR","frequency": "118.500","callsign": "Dublin Information" },
-        "DA": { "pre": [ "EIDW" ], "type": "APP","frequency": "121.100","callsign": "Dublin Approach" },
+        "DA": { "pre": [ "EIDW" ], "type": "APP","frequency": "121.105","callsign": "Dublin Approach" },
         "FIN": { "pre": [ "EIDW" ], "type": "APP","frequency": "119.930","callsign": "Dublin Finals" },
-        "DTS": { "pre": [ "EIDW" ], "type": "TWR","frequency": "118.600","callsign": "Dublin Tower" },
+        "DTS": { "pre": [ "EIDW" ], "type": "TWR","frequency": "118.605","callsign": "Dublin Tower" },
         "DTN": { "pre": [ "EIDW" ], "type": "TWR","frequency": "124.680","callsign": "Dublin Tower" },
+        "ZMUN": { "pre": [ "MUNSTER" ], "type": "APP","frequency": "120.200","callsign": "Munster Radar" },
         "NNA": { "pre": [ "EINN" ], "type": "APP","frequency": "121.400","callsign": "Shannon Approach" },
         "NNT": { "pre": [ "EINN" ], "type": "TWR","frequency": "118.700","callsign": "Shannon Tower" },
         "CKA": { "pre": [ "EICK" ], "type": "APP","frequency": "119.900","callsign": "Cork Approach" },
         "CKT": { "pre": [ "EICK" ], "type": "TWR","frequency": "119.300","callsign": "Cork Tower" },
         "MIL": { "pre": [ "EIME" ], "type": "APP","frequency": "122.000","callsign": "Mil Radar" },
         "BAL": { "pre": [ "EIME" ], "type": "TWR","frequency": "123.500","callsign": "Bal Tower" },
-        "KNT": { "pre": [ "EIKN" ], "type": "TWR","frequency": "130.700","callsign": "Connaught Tower" },
+        "KNT": { "pre": [ "EIKN" ], "type": "TWR","frequency": "130.705","callsign": "Connaught Tower" },
         "SGT": { "pre": [ "EISG" ], "type": "TWR","frequency": "122.100","callsign": "Sligo Tower" },
         "WFT": { "pre": [ "EIWF" ], "type": "TWR","frequency": "129.850","callsign": "Waterford Tower" },
-        "DLT": { "pre": [ "EIDL" ], "type": "TWR","frequency": "129.800","callsign": "Donegal Tower" },
+        "DLT": { "pre": [ "EIDL" ], "type": "TWR","frequency": "129.805","callsign": "Donegal Tower" },
         "KYT": { "pre": [ "EGKY" ], "type": "TWR","frequency": "123.325","callsign": "Kerry Tower" },
-        "WTT": { "pre": [ "EIWT" ], "type": "TWR","frequency": "122.400","callsign": "Weston Tower" }
+        "WTT": { "pre": [ "EIWT" ], "type": "TWR","frequency": "122.405","callsign": "Weston Tower" }
       },
       "callsigns": {
         "DEL": {

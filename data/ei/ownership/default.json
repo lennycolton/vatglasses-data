@@ -9,6 +9,7 @@
 
         "SLN": ["ZLWN","ZLOW","SNE"],
         "SLS": ["ZLOW","SNE"],
+        "MUN": ["ZMUN","ZLOW","SNE"],
 
         "NOTAL": ["SNN","SNE"],
 
@@ -96,8 +97,8 @@
 
         "KNT": ["KNT","ZLWN","ZLOW","SNE"],
 
-        "CKT": ["CKT","CKA","ZLOW","SNE"],
-        "CKA": ["CKA","ZLOW","SNE"],
+        "CKT": ["CKT","CKA","ZMUN","ZLOW","SNE"],
+        "CKA": ["CKA","ZMUN","ZLOW","SNE"],
 
         "DLT": ["DLT","ZLWN","ZLOW","SNE"],
 
@@ -106,10 +107,10 @@
         "DWA": ["DA","LNN","UNN","SNE"],
         "DWF": ["FIN","DA","LNN","UNN","SNE"],
 
-        "KYT": ["KYT","ZLOW","SNE"],
+        "KYT": ["KYT","ZMUN","ZLOW","SNE"],
 
-        "NNT": ["NNT","NNA","ZLOW","SNE"],
-        "NNA": ["NNA","ZLOW","SNE"],
+        "NNT": ["NNT","NNA","ZMUN","ZLOW","SNE"],
+        "NNA": ["NNA","ZMUN","ZLOW","SNE"],
 
         "SGT": ["SGT","ZLWN","ZLOW","SNE"],
 
