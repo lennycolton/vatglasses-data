@@ -9,6 +9,7 @@
 
         "SLN": ["ZLWN","ZLOW","SNE"],
         "SLS": ["ZLOW","SNE"],
+        "MUN": ["ZMUN","ZLOW","SNE"],
 
         "NOTAL": ["SNN","SNE"],
 
