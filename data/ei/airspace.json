@@ -2416,8 +2416,14 @@
                 ["540410","-0100000"],
                 ["543400","-0100000"]
                 ]
-            },
-            {
+            }
+            ]
+        },
+        "MUN": {
+            "id": "Munster",
+            "group": "APP",
+            "sectors": [
+             {
                 "max": 74,
                 "min": 35,
                 "airport": "North of Kerry",
