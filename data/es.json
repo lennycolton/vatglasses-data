@@ -9154,6 +9154,13 @@
       "pre": ["ESCF"],
       "colours": [{ "hex": "#00a500" }]
     },
+    "CFA": {
+      "callsign": "Ostgota Approach",
+      "frequency": "135.855",
+      "type": "APP",
+      "pre": ["ESCF"],
+      "colours": [{ "hex": "#00bfff" }]
+    },
     "CMA": {
       "callsign": "Uppsala Approach",
       "frequency": "130.405",
