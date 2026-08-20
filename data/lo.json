@@ -4872,6 +4872,12 @@
       "frequency": "123.725",
       "callsign": "Salzburg Radar"
     },
+    "ASF": {
+      "pre": ["LOWS"],
+      "type": "APP",
+      "frequency": "132.460",
+      "callsign": "Salzburg Arrival"
+    },
     "VB": {
       "colours": [{ "hex": "#93c47d" }],
       "pre": ["LOWW"],
