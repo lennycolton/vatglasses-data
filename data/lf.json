@@ -9,7 +9,7 @@
         "ZX",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -73,7 +73,7 @@
         "ZX",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -137,7 +137,7 @@
         "ZX",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -205,7 +205,7 @@
         "ZX",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -305,7 +305,7 @@
         "ZX",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -405,7 +405,7 @@
         "ZX",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -489,7 +489,7 @@
         "ZX",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -1255,7 +1255,7 @@
         "QX",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -1303,7 +1303,7 @@
         "QX",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -1351,7 +1351,7 @@
         "QX",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -1824,7 +1824,7 @@
         "MZ",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -1876,7 +1876,7 @@
         "MZ",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -1928,7 +1928,7 @@
         "MZ",
         "RRE",
         "RR",
-        "FF"
+        "PAR"
       ],
       "sectors": [
         {
@@ -8509,7 +8509,7 @@
       "owner": [
         "RLA",
         "RBA",
-        "FM",
+        "CCMC",
         "W",
         "RR"
       ],
@@ -15399,7 +15399,7 @@
         "RHT",
         "RHA",
         "RBA",
-        "FM",
+        "CCMC",
         "RRN",
         "RRW",
         "RR"
@@ -15748,7 +15748,7 @@
         "RLT",
         "RLA",
         "RBA",
-        "FM",
+        "CCMC",
         "RRN",
         "RRW",
         "RR"
@@ -15909,7 +15909,7 @@
         "RJT",
         "RLI",
         "RBA",
-        "FM",
+        "CCMC",
         "RRN",
         "RRW",
         "RR"
@@ -100250,7 +100250,7 @@
       "owner": [
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -100336,7 +100336,7 @@
         "YB",
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -100398,7 +100398,7 @@
         "XR",
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -100489,7 +100489,7 @@
         "4EH",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -100772,7 +100772,7 @@
         "4EH",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -101538,7 +101538,7 @@
         "UR",
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -101616,7 +101616,7 @@
         "UN",
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -101698,7 +101698,7 @@
         "UN",
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -101781,7 +101781,7 @@
         "4EH",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -102063,7 +102063,7 @@
         "UF",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -102129,7 +102129,7 @@
         "UF",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -102176,7 +102176,7 @@
         "4EH",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -102947,7 +102947,7 @@
         "4EH",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -103857,7 +103857,7 @@
         "UB",
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -103919,7 +103919,7 @@
         "KR",
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -104013,7 +104013,7 @@
         "KN",
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -104096,7 +104096,7 @@
         "4EH",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -104378,7 +104378,7 @@
         "KF",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -104441,7 +104441,7 @@
         "4EH",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -105207,7 +105207,7 @@
         "KD",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -105325,7 +105325,7 @@
         "KD",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -105439,7 +105439,7 @@
         "KD",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -105533,7 +105533,7 @@
         "HR",
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -105619,7 +105619,7 @@
         "HN",
         "URMN",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -105722,7 +105722,7 @@
         "4EH",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -106005,7 +106005,7 @@
         "4EH",
         "URME",
         "EE",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -106776,7 +106776,7 @@
         "AENB",
         "RPAW",
         "PLOW",
-        "P"
+        "PAR"
       ],
       "sectors": [
         {
@@ -118670,7 +118670,7 @@
       "id": "P4 UAC",
       "group": "LFBB",
       "owner": [
-        "P",
+        "PAR",
         "UN",
         "BB"
       ],
@@ -118767,7 +118767,7 @@
       "id": "P3 UAC",
       "group": "LFBB",
       "owner": [
-        "P",
+        "PAR",
         "UN",
         "BB"
       ],
@@ -118864,7 +118864,7 @@
       "id": "P2 UAC",
       "group": "LFBB",
       "owner": [
-        "P",
+        "PAR",
         "UN",
         "BB"
       ],
@@ -118961,7 +118961,7 @@
       "id": "P1 2 UAC",
       "group": "LFBB",
       "owner": [
-        "P",
+        "PAR",
         "UN",
         "BB"
       ],
@@ -119058,7 +119058,7 @@
       "id": "P1 1 UAC",
       "group": "LFBB",
       "owner": [
-        "P",
+        "PAR",
         "UN",
         "BB"
       ],
@@ -144980,15 +144980,15 @@
       ]
     },
     "P": {
-      "callsign": "Paris Control",
-      "frequency": "128.275",
+      "callsign": "Bordeaux Control",
+      "frequency": "133.960",
       "type": "CTR",
       "pre": [
-        "PAR"
+        "LFBB"
       ],
       "colours": [
         {
-          "hex": "#4067a9"
+          "hex": "#7e7f8c"
         }
       ]
     },
@@ -145483,19 +145483,6 @@
       "colours": [
         {
           "hex": "#55c46a"
-        }
-      ]
-    },
-    "CCMC": {
-      "callsign": "France Military Control",
-      "frequency": "128.375",
-      "type": "CTR",
-      "pre": [
-        "LFFM"
-      ],
-      "colours": [
-        {
-          "hex": "#43ffff"
         }
       ]
     },
@@ -146123,71 +146110,6 @@
         }
       ]
     },
-    "AENB": {
-      "callsign": "Paris Control",
-      "frequency": "125.455",
-      "type": "CTR",
-      "pre": [
-        "PAR"
-      ],
-      "colours": [
-        {
-          "hex": "#5d64ab"
-        }
-      ]
-    },
-    "PLOW": {
-      "callsign": "Paris Control",
-      "frequency": "135.410",
-      "type": "CTR",
-      "pre": [
-        "PAR"
-      ],
-      "colours": [
-        {
-          "hex": "#51579c"
-        }
-      ]
-    },
-    "RPAW": {
-      "callsign": "Paris Control",
-      "frequency": "133.925",
-      "type": "CTR",
-      "pre": [
-        "PAR"
-      ],
-      "colours": [
-        {
-          "hex": "#2b67be"
-        }
-      ]
-    },
-    "TB": {
-      "callsign": "Paris Control",
-      "frequency": "128.275",
-      "type": "CTR",
-      "pre": [
-        "PAR"
-      ],
-      "colours": [
-        {
-          "hex": "#4c719a"
-        }
-      ]
-    },
-    "TNTB": {
-      "callsign": "Paris Conrol",
-      "frequency": "135.660",
-      "type": "CTR",
-      "pre": [
-        "PAR"
-      ],
-      "colours": [
-        {
-          "hex": "#4c6faa"
-        }
-      ]
-    },
     "AQT": {
       "callsign": "Albert Tower",
       "frequency": "136.360",
@@ -146211,6 +146133,19 @@
       "colours": [
         {
           "hex": "#71aa71"
+        }
+      ]
+    },
+    "CCMC": {
+      "callsign": "France Military Control",
+      "frequency": "128.375",
+      "type": "CTR",
+      "pre": [
+        "LFFM"
+      ],
+      "colours": [
+        {
+          "hex": "#43ffff"
         }
       ]
     },
@@ -146747,6 +146682,19 @@
         }
       ]
     },
+    "AENB": {
+      "callsign": "Paris Control",
+      "frequency": "125.455",
+      "type": "CTR",
+      "pre": [
+        "PAR"
+      ],
+      "colours": [
+        {
+          "hex": "#5d64ab"
+        }
+      ]
+    },
     "AO": {
       "callsign": "Paris Control",
       "frequency": "125.080",
@@ -147046,6 +146994,19 @@
         }
       ]
     },
+    "RPAW": {
+      "callsign": "Paris Control",
+      "frequency": "133.925",
+      "type": "CTR",
+      "pre": [
+        "PAR"
+      ],
+      "colours": [
+        {
+          "hex": "#2b67be"
+        }
+      ]
+    },
     "RT": {
       "callsign": "Paris Control",
       "frequency": "122.575",
@@ -147147,6 +147108,19 @@
       "colours": [
         {
           "hex": "#235b91"
+        }
+      ]
+    },
+    "TNTB": {
+      "callsign": "Paris Conrol",
+      "frequency": "135.660",
+      "type": "CTR",
+      "pre": [
+        "PAR"
+      ],
+      "colours": [
+        {
+          "hex": "#4c6faa"
         }
       ]
     },
@@ -148151,19 +148125,6 @@
         }
       ]
     },
-    "FM": {
-      "callsign": "France Military Control",
-      "frequency": "128.375",
-      "type": "CTR",
-      "pre": [
-        "LFFM"
-      ],
-      "colours": [
-        {
-          "hex": "#43ffff"
-        }
-      ]
-    },
     "JRI": {
       "callsign": "Angers Information",
       "frequency": "124.705",
@@ -148837,19 +148798,6 @@
       "colours": [
         {
           "hex": "#71aa71"
-        }
-      ]
-    },
-    "FF": {
-      "callsign": "Paris Control",
-      "frequency": "128.275",
-      "type": "CTR",
-      "pre": [
-        "PAR"
-      ],
-      "colours": [
-        {
-          "hex": "#4067a9"
         }
       ]
     }
