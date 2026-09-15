@@ -1,0 +1,26 @@
+{
+    "positions": {
+        "ML":{"callsign":"New York Radio", "frequency":"130.600", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#4a42bc"}]},
+        "MH":{"callsign":"New York Radio", "frequency":"130.650", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#635dbc"}]},
+        "GL":{"callsign":"New York Radio", "frequency":"130.500", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#2b1dae"}]},
+        "GH":{"callsign":"New York Radio", "frequency":"130.550", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#3b2eb2"}]},
+        "AL":{"callsign":"New York Radio", "frequency":"130.400", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#362d83"}]},
+        "AH":{"callsign":"New York Radio", "frequency":"130.450", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#3f3783"}]},
+
+        "87L":{"callsign":"New York Radio", "frequency":"130.000", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#220ce7"}]},
+        "87H":{"callsign":"New York Radio", "frequency":"130.050", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#3622e8"}]},
+        "88L":{"callsign":"New York Radio", "frequency":"130.100", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#362ae6"}]},
+        "88H":{"callsign":"New York Radio", "frequency":"130.150", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#4e44e6"}]},
+        "89L":{"callsign":"New York Radio", "frequency":"130.200", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#695a96"}]},
+        "89H":{"callsign":"New York Radio", "frequency":"130.250", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#756997"}]},
+        "90L":{"callsign":"New York Radio", "frequency":"130.300", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#3027ad"}]},
+        "90H":{"callsign":"New York Radio", "frequency":"130.350", "pre": ["NY"], "type":"FSS", "colours": [{"hex":"#4b44b0"}]},
+        "80" :{"callsign":"New York Center","frequency":"119.100", "pre": ["BDA"],"type":"CTR", "colours": [{"hex":"#7d04da"}]},
+        "81" :{"callsign":"New York Center","frequency":"128.500", "pre": ["BDA"],"type":"CTR", "colours": [{"hex":"#b372e4"}]}
+    },
+    "callsigns": {
+        "FSS": {
+            "": "Radio"
+        }
+    }
+}

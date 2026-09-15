@@ -1,0 +1,101 @@
+{
+    "positions": {
+        "08":{"callsign":"New York Center",         "frequency":"124.775", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#d2505f"}] },
+        "09":{"callsign":"New York Center",         "frequency":"134.325", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#d2505f"}] },
+        "10":{"callsign":"New York Center",         "frequency":"133.475", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#d2505f"}] },
+        "25":{"callsign":"New York Center",         "frequency":"135.450", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#d2505f"}] },
+        "26":{"callsign":"New York Center",         "frequency":"120.025", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#d71930"}] },
+        "27":{"callsign":"New York Center",         "frequency":"132.200", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#d2505f"}] },
+        
+        "39":{"callsign":"New York Center",         "frequency":"132.100", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#59b5ef"}] },
+        "42":{"callsign":"New York Center",         "frequency":"127.175", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#59b5ef"}] },
+        "55":{"callsign":"New York Center",         "frequency":"134.600", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#59b5ef"}] },
+        "56":{"callsign":"New York Center",         "frequency":"125.325", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#2a39db"}] },
+        "68":{"callsign":"New York Center",         "frequency":"118.975", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#59b5ef"}] },
+        
+        "34":{"callsign":"New York Center",         "frequency":"132.175", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#0a6d0d"}] },
+        "35":{"callsign":"New York Center",         "frequency":"132.600", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#57be7e"}] },
+        "36":{"callsign":"New York Center",         "frequency":"133.150", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#57be7e"}] },
+        "49":{"callsign":"New York Center",         "frequency":"121.325", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#57be7e"}] },
+        "50":{"callsign":"New York Center",         "frequency":"133.350", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#57be7e"}] },
+        "51":{"callsign":"New York Center",         "frequency":"134.450", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#57be7e"}] },
+        
+        "72":{"callsign":"New York Center",         "frequency":"127.725", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#ffc20e"}] },
+        "73":{"callsign":"New York Center",         "frequency":"132.875", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#e8ba47"}] },
+        "74":{"callsign":"New York Center",         "frequency":"132.150", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#e8ba47"}] },
+        "75":{"callsign":"New York Center",         "frequency":"128.575", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#e8ba47"}] },
+        "91":{"callsign":"New York Center",         "frequency":"134.800", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#e8ba47"}] },
+        "92":{"callsign":"New York Center",         "frequency":"124.625", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#e8ba47"}] },
+        "93":{"callsign":"New York Center",         "frequency":"123.625", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#e8ba47"}] },
+        
+        "66":{"callsign":"New York Center",         "frequency":"128.300", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#efa768"}] },
+        "82":{"callsign":"New York Center",         "frequency":"126.025", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#efa768"}] },
+        "83":{"callsign":"New York Center",         "frequency":"133.525", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#efa768"}] },
+        
+        "65":{"callsign":"New York Center",         "frequency":"125.925", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#efa768"}] },
+        "86":{"callsign":"New York Center",         "frequency":"133.500", "pre": ["NY"], "type": "CTR", "colours": [{"hex":"#da6804"}] },
+
+
+
+        "A1A":{"callsign":"Allentown Approach",     "frequency":"119.650", "pre": ["ABE"], "type": "APP", "colours": [{"hex":"#ee2e2e"}] },
+        "A1D":{"callsign":"Allentown Departure",    "frequency":"124.450", "pre": ["ABE"], "type": "DEP", "colours": [{"hex":"#F36767"}] },
+                                                    
+        "V1N":{"callsign":"Wilkes-Barre Approach",  "frequency":"120.950", "pre": ["AVP"], "type": "APP", "colours": [{"hex":"#5BCC91"}] },
+        "V1S":{"callsign":"Wilkes-Barre Approach",  "frequency":"126.300", "pre": ["AVP"], "type": "APP", "colours": [{"hex":"#0eab5b"}] },
+                                                    
+        "G1L":{"callsign":"Binghamton Approach",    "frequency":"118.600", "pre": ["BGM"], "type": "APP", "colours": [{"hex":"#691a9b"}] },
+        "G1H":{"callsign":"Binghamton Approach",    "frequency":"127.550", "pre": ["BGM"], "type": "APP", "colours": [{"hex":"#9126d3"}] },
+                                                    
+        "E1H":{"callsign":"Elmira Approach",        "frequency":"128.425", "pre": ["ELM"], "type": "APP", "colours": [{"hex":"#23e2d2"}] },
+        "E1E":{"callsign":"Elmira Approach",        "frequency":"124.300", "pre": ["ELM"], "type": "APP", "colours": [{"hex":"#137176"}] },
+                                                    
+        "H1H":{"callsign":"Harrisburg Approach",    "frequency":"124.100", "pre": ["MDT"], "type": "APP", "colours": [{"hex":"#343695"}] },
+        "H1L":{"callsign":"Harrisburg Approach",    "frequency":"126.450", "pre": ["MDT"], "type": "APP", "colours": [{"hex":"#4F508B"}] },
+        "H1A":{"callsign":"Harrisburg Approach",    "frequency":"118.250", "pre": ["MDT"], "type": "APP", "colours": [{"hex":"#6869D1"}] },
+        "H1R":{"callsign":"Harrisburg Approach",    "frequency":"125.150", "pre": ["MDT"], "type": "APP", "colours": [{"hex":"#272979"}] },
+                                                    
+        "M1A":{"callsign":"McGuire Approach",       "frequency":"126.475", "pre": ["WRI"], "type": "APP", "colours": [{"hex":"#86badd"}] },
+        
+        "P1N":{"callsign":"Philadelphia Approach",                         "pre": ["PHL"], "type": "APP", "colours": [{"hex":"#0e8d51"}] },
+        "P1E":{"callsign":"Philadelphia Departure",                        "pre": ["PHL"], "type": "DEP", "colours": [{"hex":"#0e8d51"}] },
+
+        
+        "N1LC":{"callsign":"New York Departure",    "frequency":"120.400", "pre": ["NY"], "type": "DEP", "colours": [{"hex":"#4180C7"}] },
+        "N1VC":{"callsign":"New York Approach",     "frequency":"120.800", "pre": ["NY"], "type": "APP", "colours": [{"hex":"#0e498b"}] },
+        "N2JC":{"callsign":"New York Departure",    "frequency":"135.900", "pre": ["NY"], "type": "DEP", "colours": [{"hex":"#AFAFAF"}] },
+        "N2KC":{"callsign":"New York Approach",     "frequency":"125.700", "pre": ["NY"], "type": "APP", "colours": [{"hex":"#7A7A7A"}] },
+        "N3HC":{"callsign":"New York Approach",     "frequency":"134.550", "pre": ["NY"], "type": "APP", "colours": [{"hex":"#CFCC15"}] },
+        "N4NC":{"callsign":"New York Departure",    "frequency":"119.200", "pre": ["NY"], "type": "DEP", "colours": [{"hex":"#AF4845"}] },
+        "N4PC":{"callsign":"New York Approach",     "frequency":"128.550", "pre": ["NY"], "type": "APP", "colours": [{"hex":"#82100d"}] },
+        "N5W":{"callsign":"New York Approach",      "frequency":"120.850", "pre": ["NY"], "type": "APP", "colours": [{"hex":"#36A720"}] },
+
+        "N1L":{"callsign":"New York Departure",     "pre": ["LGA"], "type": "DEP", "colours": [{"hex":"#4180C7"}] },
+        "N1V":{"callsign":"New York Approach",      "pre": ["LGA"], "type": "APP", "colours": [{"hex":"#0e498b"}] },
+        "N2J":{"callsign":"New York Departure",     "pre": ["JFK"], "type": "DEP", "colours": [{"hex":"#AFAFAF"}] },
+        "N2K":{"callsign":"New York Approach",      "pre": ["JFK"], "type": "APP", "colours": [{"hex":"#7A7A7A"}] },
+        "N3H":{"callsign":"New York Approach",      "pre": ["ISP"], "type": "APP", "colours": [{"hex":"#CFCC15"}] },
+        "N4N":{"callsign":"Newark Departure",       "pre": ["EWR"], "type": "DEP", "colours": [{"hex":"#AF4845"}] },
+        "N4P":{"callsign":"Newark Approach",        "pre": ["EWR"], "type": "APP", "colours": [{"hex":"#82100d"}] },
+        "N5H":{"callsign":"New York Approach",      "pre": ["SWF"], "type": "APP", "colours": [{"hex":"#36A720"}] },
+        
+        "N5E":{"callsign":"New York Approach",       "pre": ["NY"], "type": "DEP", "colours": [{"hex":"#36A720"}] }
+        
+    },
+    "callsigns": {
+        "DEL": {
+            "": "Clearance"
+        },
+        "GND": {
+            "": "Ground"
+        },
+        "TWR": {
+            "": "Tower"
+        },
+        "APP": {
+            "": "Approach"
+        },
+        "DEP": {
+            "": "Departure"
+        }
+    }
+}
