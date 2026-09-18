@@ -22487,7 +22487,7 @@
       "callsign": "Gardermoen",
       "coord": [ 60.202777777778, 11.083888888889 ],
       "runways": [ "01", "19" ],
-      "topdown": [ "FF", "DD", "GWR", "GER", "RCS", "6R", "5R", "NS", "NC", "OR" ]
+      "topdown": [ "FF", "DD", "GWR", "GER", "RCS", "6R", "NO", "NS", "NC", "OR" ]
     },
     "ENAT": {
       "callsign": "Alta",
@@ -22572,7 +22572,7 @@
     "ENCN": {
       "callsign": "Kjevik",
       "coord": [ 58.203888888889, 8.085 ],
-      "topdown": [ "CX", "RCS", "8R", "5R", "6R", "NS", "NC", "OR" ]
+      "topdown": [ "CX", "RCS", "8R", "5R", "NO", "6R", "NS", "NC", "OR" ]
     },
     "ENKB": {
       "callsign": "Kvernberget",
@@ -22613,13 +22613,13 @@
     "ENNO": {
       "callsign": "Notodden",
       "coord": [ 59.565555555556, 9.2122222222222 ],
-      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "6R", "NS", "NC", "OR" ]
+      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "NO", "NS", "NC", "OR" ]
     },
     "ENAS": { "callsign": "Ny-Ålesund", "coord": [ 78.927777777778, 11.874722222222 ], "topdown": [ "OB" ] },
     "ENRY": {
       "callsign": "Rygge",
       "coord": [ 59.378888888889, 10.785555555556 ],
-      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "6R", "NS", "NC", "OR" ]
+      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "NO", "NS", "NC", "OR" ]
     },
     "ENRO": {
       "callsign": "Røros",
@@ -22644,7 +22644,7 @@
     "ENTO": {
       "callsign": "Torp",
       "coord": [ 59.186666666667, 10.258611111111 ],
-      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "6R", "NS", "NC", "OR" ]
+      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "NO", "NS", "NC", "OR" ]
     },
     "ENST": {
       "callsign": "Sørstokken",
