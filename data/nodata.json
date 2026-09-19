@@ -2410,26 +2410,6 @@
             ]
         },
         {
-            "id": "Taipei",
-            "group": "FIR",
-            "owner": ["RCAA"],
-            "sectors": [
-                {
-                    "points": [
-                        ["210000","1173000"],
-                        ["230000","1173000"],
-                        ["250000","1200000"],
-                        ["262908","1212656"],
-                        ["270758","1220524"],
-                        ["290000","1240000"],
-                        ["231800","1240000"],
-                        ["210000","1211759"],
-                        ["210000","1173000"]
-                    ]
-                }
-            ]
-        },
-        {
             "id": "Sapporo",
             "group": "FIR",
             "owner": ["RJCG"],
@@ -2473,8 +2453,8 @@
             "sectors": [
                 {
                     "points": [
-                        ["210000","1211759"],
-                        ["231800","1240000"],
+                        ["210000","1213000"],
+                        ["233000","1240000"],
                         ["261500","1240000"],
                         ["300004","1283542"],
                         ["300004","1311742"],
@@ -2491,7 +2471,7 @@
                         ["243505","1294418"],
                         ["231447","1284245"],
                         ["210000","1265047"],
-                        ["210000","1211759"]
+                        ["210000","1213000"]
                     ]
                 }
             ]
@@ -7516,7 +7496,6 @@
         "PAZA-A": { "colours": [{ "hex": "#888888" }], "pre": ["ZAN"], "type": "FSS", "callsign": "Anchorage Center", "frequency": "134.400" },
         "PAZA-D": { "colours": [{ "hex": "#888888" }], "pre": ["ANC"], "type": "CTR", "callsign": "Anchorage Center" },
         "PAZA-P": { "colours": [{ "hex": "#888888" }], "pre": ["ZAN"], "type": "FSS", "callsign": "Anchorage Center", "frequency": "126.400" },
-        "RCAA": { "colours": [{ "hex": "#888888" }], "pre": ["TPE"], "type": "CTR", "callsign": "Taipei Control" },
         "RJCG": { "colours": [{ "hex": "#888888" }], "pre": ["RJCG"], "type": "CTR", "callsign": "Sapporo Control" },
         "RJBG": { "colours": [{ "hex": "#888888" }], "pre": ["RJBG"], "type": "CTR", "callsign": "Fukuoka Control" },
         "RJDG": { "colours": [{ "hex": "#888888" }], "pre": ["RJDG"], "type": "CTR", "callsign": "Fukuoka Control" },
@@ -9731,36 +9710,18 @@
         "PPIZ": {"callsign": "Point Lay AK", "coord": ["69.81667", "-162.91639"]},
         "PPWR": {"callsign": "Port Walter", "coord": ["56.381017", "-134.650931"]},
         "RCAY": { "callsign": "Gangshan AFB", "coord": ["22.78306","120.26639"] },
-        "RCBS": { "callsign": "Kinmen-Shang Yi AFB", "coord": ["24.431944","118.359444"], "pre": ["KNH"] },
-        "RCCM": { "callsign": "Cimei", "coord": ["23.125","119.243"], "pre": ["CMJ"] },
-        "RCDC": { "callsign": "Pingtung South AFB", "coord": ["22.691667","120.458333"] },
-        "RCFG": { "callsign": "Matsu-Nangan", "coord": ["26.16667","119.93306"], "pre": ["LZN"] },
-        "RCFN": { "callsign": "Taitung-Fongnian AFB", "coord": ["22.756667","121.093333"], "pre": ["TTT"] },
         "RCFS": { "callsign": "Jiadong", "coord": ["22.41667","120.54972"] },
-        "RCGI": { "callsign": "Lyudao", "coord": ["22.4028","121.273"], "pre": ["GNI"] },
         "RCGM": { "callsign": "Taoyuan AFB", "coord": ["25.06667","121.23306"] },
-        "RCKH": { "callsign": "Kaohsiung Intl", "coord": ["22.575444","120.350667"], "pre": ["KHH"] },
-        "RCKU": { "callsign": "Chiayi AFB", "coord": ["23.466667","120.383333"], "pre": ["CYI"] },
-        "RCKW": { "callsign": "Hengchun", "coord": ["21.93306","120.83306"], "pre": ["HCN"] },
         "RCLG": { "callsign": "Taichung-Shueinan AFB", "coord": ["24.186297","120.653989"], "pre": ["TXG"] },
         "RCLM": { "callsign": "Dongsha", "coord": ["20.66667","116.71639"] },
-        "RCLY": { "callsign": "Lanyu", "coord": ["22.03306","121.54972"], "pre": ["KYD"] },
         "RCMJ": { "callsign": "Dongang", "coord": ["22.46667","120.43306"] },
-        "RCMQ": { "callsign": "Taichung-Chigcyuangang AFB", "coord": ["24.26667","120.61639"], "pre": ["RMQ"] },
         "RCMS": { "callsign": "Yilan", "coord": ["24.75","121.76639"] },
-        "RCMT": { "callsign": "Matsu-Beigan", "coord": ["26.13274","120.001"], "pre": ["MFK"] },
-        "RCNN": { "callsign": "Tainan AFB", "coord": ["22.958333","120.2"], "pre": ["TNN"] },
         "RCNO": { "callsign": "Dongshih", "coord": ["23.26667","119.66639"] },
         "RCPO": { "callsign": "Hsinchu AFB", "coord": ["24.816667","120.933333"], "pre": ["HSZ"] },
-        "RCQC": { "callsign": "Magong AFB", "coord": ["23.570492","119.630328"], "pre": ["MZG"] },
         "RCQS": { "callsign": "Taitung-Jhihhang AFB", "coord": ["22.8","121.18306"] },
         "RCSP": { "callsign": "Taiping", "coord": ["10.377772","114.366525"] },
         "RCSQ": { "callsign": "Pingtung North AFB", "coord": ["22.69972","120.48306"], "pre": ["PIF"] },
-        "RCSS": { "callsign": "Taipei-Songshan", "coord": ["25.069603","121.551539"], "pre": ["TSA"] },
-        "RCTP": { "callsign": "Taipei-Taiwan Taoyuan Intl", "coord": ["25.080167","121.232222"], "pre": ["TPE"] },
         "RCUK": { "callsign": "Bakuai", "coord": ["24.93306","121.29972"] },
-        "RCWA": { "callsign": "Wang-an", "coord": ["23.2215","119.294"], "pre": ["WOT"] },
-        "RCYU": { "callsign": "Hulien AFB", "coord": ["24.023333","121.61"], "pre": ["HUN"] },
         "RJAA": { "callsign": "Tokyo-Narita Intl", "coord": ["35.766944","140.387778"], "pre": ["TOKYO", "TYO"] },
         "RJAF": { "callsign": "Matsumoto", "coord": ["36.166753","137.922733"] },
         "RJAH": { "callsign": "Hyakuri", "coord": ["36.181261","140.415019"] },
