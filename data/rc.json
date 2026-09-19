@@ -1,16 +1,12 @@
 {
   "groups": {
     "RCAA": {
-      "name": "Taipei FIR",
+      "name": "Taipei",
       "colour": "#9E84D9"
     },
-    "RCTP": {
-      "name": "Taipei Approach",
+    "APP": {
+      "name": "Approach",
       "colour": "#62BA87"
-    },
-    "RCKH": {
-      "name": "Kaohsiung Approach",
-      "colour": "#5B9BD5"
     }
   },
   "positions": {
@@ -579,7 +575,7 @@
   },
   "airspace": [
     {
-      "id": "Taipei Control North Foreland",
+      "id": "North Foreland",
       "group": "RCAA",
       "owner": [
         "AM",
@@ -629,7 +625,7 @@
       ]
     },
     {
-      "id": "Taipei Control North Lower",
+      "id": "North Lower",
       "group": "RCAA",
       "owner": [
         "AN",
@@ -670,7 +666,7 @@
       ]
     },
     {
-      "id": "Taipei Control North Upper",
+      "id": "North Upper",
       "group": "RCAA",
       "owner": [
         "AN",
@@ -727,7 +723,7 @@
       ]
     },
     {
-      "id": "Taipei Control Strait",
+      "id": "Strait",
       "group": "RCAA",
       "owner": [
         "AL",
@@ -763,7 +759,7 @@
       ]
     },
     {
-      "id": "Taipei Control West/Central Lower",
+      "id": "West/Central Lower",
       "group": "RCAA",
       "owner": [
         "AC",
@@ -819,7 +815,7 @@
       ]
     },
     {
-      "id": "Taipei Control West Upper",
+      "id": "West Upper",
       "group": "RCAA",
       "owner": [
         "AW"
@@ -874,7 +870,7 @@
       ]
     },
     {
-      "id": "Taipei Control East",
+      "id": "East",
       "group": "RCAA",
       "owner": [
         "AE",
@@ -926,7 +922,7 @@
       ]
     },
     {
-      "id": "Taipei Control South",
+      "id": "South",
       "group": "RCAA",
       "owner": [
         "AS",
@@ -979,7 +975,7 @@
       ]
     },
     {
-      "id": "Taipei Control Ocean",
+      "id": "Ocean",
       "group": "RCAA",
       "owner": [
         "AO",
@@ -1024,8 +1020,8 @@
       ]
     },
     {
-      "id": "Matsu",
-      "group": "RCTP",
+      "id": "Taipei - Matsu",
+      "group": "APP",
       "owner": [
         "MT",
         "TN",
@@ -1085,8 +1081,8 @@
       ]
     },
     {
-      "id": "Taoyuan North",
-      "group": "RCTP",
+      "id": "Taipei - Taoyuan North",
+      "group": "APP",
       "owner": [
         "TN",
         "TS",
@@ -1153,8 +1149,8 @@
       ]
     },
     {
-      "id": "Taoyuan South",
-      "group": "RCTP",
+      "id": "Taipei - Taoyuan South",
+      "group": "APP",
       "owner": [
         "TS",
         "AC",
@@ -1202,8 +1198,8 @@
       ]
     },
     {
-      "id": "Songshan West",
-      "group": "RCTP",
+      "id": "Taipei - Songshan West",
+      "group": "APP",
       "owner": [
         "SW",
         "TS",
@@ -1260,8 +1256,8 @@
       ]
     },
     {
-      "id": "Songshan East",
-      "group": "RCTP",
+      "id": "Taipei - Songshan East",
+      "group": "APP",
       "owner": [
         "SE",
         "SW",
@@ -1317,8 +1313,8 @@
       ]
     },
     {
-      "id": "Taichung North",
-      "group": "RCTP",
+      "id": "Taipei - Taichung North",
+      "group": "APP",
       "owner": [
         "MQ",
         "TS",
@@ -1367,8 +1363,8 @@
       ]
     },
     {
-      "id": "Taichung South",
-      "group": "RCTP",
+      "id": "Taipei - Taichung South",
+      "group": "APP",
       "owner": [
         "MQ",
         "TS",
@@ -1413,8 +1409,8 @@
       ]
     },
     {
-      "id": "Hualien",
-      "group": "RCTP",
+      "id": "Taipei - Hualien",
+      "group": "APP",
       "owner": [
         "YU",
         "SE",
@@ -1474,8 +1470,8 @@
       ]
     },
     {
-      "id": "Kinmen",
-      "group": "RCKH",
+      "id": "Kaohsiung - Kinmen",
+      "group": "APP",
       "owner": [
         "BS",
         "QC",
@@ -1526,8 +1522,8 @@
       ]
     },
     {
-      "id": "Penghu",
-      "group": "RCKH",
+      "id": "Kaohsiung - Penghu",
+      "group": "APP",
       "owner": [
         "QC",
         "KU",
@@ -1577,8 +1573,8 @@
       ]
     },
     {
-      "id": "Chiayi",
-      "group": "RCKH",
+      "id": "Kaohsiung - Chiayi",
+      "group": "APP",
       "owner": [
         "KU",
         "KH",
@@ -1615,8 +1611,8 @@
       ]
     },
     {
-      "id": "Tainan",
-      "group": "RCKH",
+      "id": "Kaohsiung - Tainan",
+      "group": "APP",
       "owner": [
         "NN",
         "KU",
@@ -1667,7 +1663,7 @@
     },
     {
       "id": "Kaohsiung",
-      "group": "RCKH",
+      "group": "APP",
       "owner": [
         "KH",
         "AE",
@@ -1715,8 +1711,8 @@
       ]
     },
     {
-      "id": "Taitung",
-      "group": "RCKH",
+      "id": "Kaohsiung - Taitung",
+      "group": "APP",
       "owner": [
         "FN",
         "KH",
