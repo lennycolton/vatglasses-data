@@ -546,7 +546,7 @@
     {
       "id": "ENCN CTR",
       "group": "CTR",
-      "owner": [ "CN", "CX", "RCS", "8R", "5R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "CN", "CX", "RCS", "8R", "5R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -629,7 +629,7 @@
     {
       "id": "ENGM East CTR",
       "group": "CTR",
-      "owner": [ "B", "A", "FF", "DD", "GWR", "GER", "RCS", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "B", "A", "FF", "DD", "GWR", "GER", "RCS", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -652,7 +652,7 @@
     {
       "id": "ENGM West CTR",
       "group": "CTR",
-      "owner": [ "A", "B", "FF", "DD", "GWR", "GER", "RCS", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "A", "B", "FF", "DD", "GWR", "GER", "RCS", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -918,7 +918,7 @@
     {
       "id": "ENNO TIZ",
       "group": "TIZ",
-      "owner": [ "NO", "FR", "FD", "RCS", "4R", "5R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "NO", "FR", "FD", "RCS", "4R", "5R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -1107,7 +1107,7 @@
     {
       "id": "ENRY CTR",
       "group": "CTR",
-      "owner": [ "RY", "FR", "FD", "RCS", "4R", "5R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "RY", "FR", "FD", "RCS", "4R", "5R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -1311,7 +1311,7 @@
     {
       "id": "ENTO CTR",
       "group": "CTR",
-      "owner": [ "TO", "FR", "FD", "RCS", "4R", "5R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "TO", "FR", "FD", "RCS", "4R", "5R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -2512,7 +2512,7 @@
     {
       "id": "ENCN TMA",
       "group": "TMA",
-      "owner": [ "CX", "RCS", "8R", "5R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "CX", "RCS", "8R", "5R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -2776,7 +2776,7 @@
     {
       "id": "ENGM Director RWY01",
       "group": "TMA",
-      "owner": [ "DD", "GWR", "GER", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "DD", "GWR", "GER", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 29,
@@ -5515,7 +5515,7 @@
     {
       "id": "ENGM Director RWY19",
       "group": "TMA",
-      "owner": [ "DD", "GWR", "GER", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "DD", "GWR", "GER", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -5637,7 +5637,7 @@
     {
       "id": "ENGM East TMA RWY01",
       "group": "TMA",
-      "owner": [ "GER", "GWR", "DD", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "GER", "GWR", "DD", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -5788,7 +5788,7 @@
     {
       "id": "ENGM East TMA RWY19",
       "group": "TMA",
-      "owner": [ "GER", "GWR", "DD", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "GER", "GWR", "DD", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -8499,7 +8499,7 @@
     {
       "id": "ENGM West TMA RWY01",
       "group": "TMA",
-      "owner": [ "GWR", "GER", "DD", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "GWR", "GER", "DD", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 29,
@@ -8620,7 +8620,7 @@
     {
       "id": "ENGM West TMA RWY19",
       "group": "TMA",
-      "owner": [ "GWR", "GER", "DD", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "GWR", "GER", "DD", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 29,
@@ -9879,7 +9879,7 @@
     {
       "id": "FARRIS TMA",
       "group": "TMA",
-      "owner": [ "FR", "FD", "RCS", "4R", "5R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "FR", "FD", "RCS", "4R", "5R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -15035,7 +15035,7 @@
     {
       "id": "ENOS Sector 1",
       "group": "ENOS",
-      "owner": [ "1R", "7R", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "1R", "7R", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 114,
@@ -16450,7 +16450,7 @@
     {
       "id": "ENOS Sector 2",
       "group": "ENOS",
-      "owner": [ "2R", "1R", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "2R", "1R", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 214,
@@ -19533,7 +19533,7 @@
     {
       "id": "ENOS Sector 3",
       "group": "ENOS",
-      "owner": [ "3R", "4R", "5R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "3R", "4R", "5R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 114,
@@ -21151,7 +21151,7 @@
     {
       "id": "ENOS Sector 4",
       "group": "ENOS",
-      "owner": [ "4R", "5R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "4R", "5R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 114,
@@ -21244,7 +21244,7 @@
     {
       "id": "ENOS Sector 5",
       "group": "ENOS",
-      "owner": [ "5R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "5R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 114,
@@ -21350,7 +21350,7 @@
     {
       "id": "ENOS Sector 6",
       "group": "ENOS",
-      "owner": [ "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 114,
@@ -21449,7 +21449,7 @@
     {
       "id": "ENOS Sector 7",
       "group": "ENOS",
-      "owner": [ "7R", "6R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "7R", "6R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 114,
@@ -21567,7 +21567,7 @@
     {
       "id": "ENOS Sector 8",
       "group": "ENOS",
-      "owner": [ "8R", "5R", "OS", "NS", "NC", "OR" ],
+      "owner": [ "8R", "5R", "U8R", "NS", "NC", "OR" ],
       "sectors": [
         {
           "max": 154,
@@ -22195,7 +22195,7 @@
       "frequency": "134.355",
       "callsign": "Polaris Control"
     },
-    "OS": {
+    "U8R": {
       "colours": [ { "hex": "#ff0000" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
@@ -22487,7 +22487,7 @@
       "callsign": "Gardermoen",
       "coord": [ 60.202777777778, 11.083888888889 ],
       "runways": [ "01", "19" ],
-      "topdown": [ "FF", "DD", "GWR", "GER", "RCS", "6R", "OS", "NS", "NC", "OR" ]
+      "topdown": [ "FF", "DD", "GWR", "GER", "RCS", "6R", "U8R", "NS", "NC", "OR" ]
     },
     "ENAT": {
       "callsign": "Alta",
@@ -22572,7 +22572,7 @@
     "ENCN": {
       "callsign": "Kjevik",
       "coord": [ 58.203888888889, 8.085 ],
-      "topdown": [ "CX", "RCS", "8R", "5R", "OS", "6R", "NS", "NC", "OR" ]
+      "topdown": [ "CX", "RCS", "8R", "5R", "U8R", "NS", "NC", "OR" ]
     },
     "ENKB": {
       "callsign": "Kvernberget",
@@ -22613,13 +22613,13 @@
     "ENNO": {
       "callsign": "Notodden",
       "coord": [ 59.565555555556, 9.2122222222222 ],
-      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "OS", "NS", "NC", "OR" ]
+      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "U8R", "NS", "NC", "OR" ]
     },
     "ENAS": { "callsign": "Ny-Ålesund", "coord": [ 78.927777777778, 11.874722222222 ], "topdown": [ "OB" ] },
     "ENRY": {
       "callsign": "Rygge",
       "coord": [ 59.378888888889, 10.785555555556 ],
-      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "OS", "NS", "NC", "OR" ]
+      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "U8R", "NS", "NC", "OR" ]
     },
     "ENRO": {
       "callsign": "Røros",
@@ -22644,7 +22644,7 @@
     "ENTO": {
       "callsign": "Torp",
       "coord": [ 59.186666666667, 10.258611111111 ],
-      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "OS", "NS", "NC", "OR" ]
+      "topdown": [ "FR", "FD", "RCS", "4R", "5R", "U8R", "NS", "NC", "OR" ]
     },
     "ENST": {
       "callsign": "Sørstokken",
