@@ -1,7 +1,7 @@
 {
   "airspace": [
     {
-      "id": "Larnaca",
+      "id": "Larnaka",
       "group": "APP",
       "owner":["LCA", "NC6", "NC3", "NC1"],
       "sectors":[
