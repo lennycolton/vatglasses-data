@@ -766,14 +766,14 @@
       "colours": [{ "hex": "#ffd700" }]
     },
     "LCA": {
-      "callsign": "Larnaca Approach",
+      "callsign": "Larnaka Radar",
       "frequency": "130.205",
       "type": "APP",
       "pre": ["LCLK"],
       "colours": [{ "hex": "#4169e1" }]
     },
     "TLK": {
-      "callsign": "Larnaca Tower",
+      "callsign": "Larnaka Tower",
       "frequency": "121.205",
       "type": "TWR",
       "pre": ["LCLK"],
@@ -830,7 +830,7 @@
     }
   },
   "airports": {
-      "LCLK": { "callsign": "Larnaca", "coord": [34.878888, 33.630277], "topdown": ["NC6", "NC3", "NC1"] },
+      "LCLK": { "callsign": "Larnaka", "coord": [34.878888, 33.630277], "topdown": ["NC6", "NC3", "NC1"] },
       "LCPH": { "callsign": "Pafos", "coord": [34.718077, 32.485072], "topdown": ["NC6", "NC3", "NC1"] },
       "LCRA": { "callsign": "Akrotiri", "coord": [34.590372, 32.987780], "default": false, "topdown": ["RAA", "NC6", "NC3", "NC1"] }
   }
