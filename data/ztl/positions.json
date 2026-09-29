@@ -1,0 +1,80 @@
+{
+    "positions": {
+        "01": { "callsign": "Atlanta Center", "frequency": "135.175", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "02": { "callsign": "Atlanta Center", "frequency": "126.825", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "03": { "callsign": "Atlanta Center", "frequency": "128.725", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#ff00ff" }]},
+        "04": { "callsign": "Atlanta Center", "frequency": "134.950", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "05": { "callsign": "Atlanta Center", "frequency": "132.050", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "06": { "callsign": "Atlanta Center", "frequency": "133.175", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "08": { "callsign": "Atlanta Center", "frequency": "125.875", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "09": { "callsign": "Atlanta Center", "frequency": "120.450", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "10": { "callsign": "Atlanta Center", "frequency": "125.575", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#a4c2f4" }]},
+        "11": { "callsign": "Atlanta Center", "frequency": "128.025", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "12": { "callsign": "Atlanta Center", "frequency": "127.300", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "13": { "callsign": "Atlanta Center", "frequency": "120.550", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "14": { "callsign": "Atlanta Center", "frequency": "132.250", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "15": { "callsign": "Atlanta Center", "frequency": "126.775", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "16": { "callsign": "Atlanta Center", "frequency": "134.200", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "17": { "callsign": "Atlanta Center", "frequency": "127.300", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "19": { "callsign": "Atlanta Center", "frequency": "123.950", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "20": { "callsign": "Atlanta Center", "frequency": "125.575", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#00ff00" }]},
+        "21": { "callsign": "Atlanta Center", "frequency": "134.500", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "22": { "callsign": "Atlanta Center", "frequency": "119.375", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "23": { "callsign": "Atlanta Center", "frequency": "124.325", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "24": { "callsign": "Atlanta Center", "frequency": "128.100", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "27": { "callsign": "Atlanta Center", "frequency": "125.825", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "28": { "callsign": "Atlanta Center", "frequency": "125.025", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "29": { "callsign": "Atlanta Center", "frequency": "128.800", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "30": { "callsign": "Atlanta Center", "frequency": "133.150", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "31": { "callsign": "Atlanta Center", "frequency": "135.350", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "32": { "callsign": "Atlanta Center", "frequency": "125.625", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#e06666" }]},
+        "33": { "callsign": "Atlanta Center", "frequency": "120.425", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "34": { "callsign": "Atlanta Center", "frequency": "120.425", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "36": { "callsign": "Atlanta Center", "frequency": "124.875", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "37": { "callsign": "Atlanta Center", "frequency": "126.675", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#00ffff" }]},
+        "38": { "callsign": "Atlanta Center", "frequency": "133.100", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "39": { "callsign": "Atlanta Center", "frequency": "125.925", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "40": { "callsign": "Atlanta Center", "frequency": "134.075", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "41": { "callsign": "Atlanta Center", "frequency": "133.600", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "42": { "callsign": "Atlanta Center", "frequency": "120.725", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#ff9900" }]},
+        "43": { "callsign": "Atlanta Center", "frequency": "132.975", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "44": { "callsign": "Atlanta Center", "frequency": "132.625", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "45": { "callsign": "Atlanta Center", "frequency": "127.850", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "47": { "callsign": "Atlanta Center", "frequency": "134.550", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "48": { "callsign": "Atlanta Center", "frequency": "125.150", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "49": { "callsign": "Atlanta Center", "frequency": "121.350", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "50": { "callsign": "Atlanta Center", "frequency": "124.375", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#ffff00" }]},
+        "VALLEY": { "callsign": "Atlanta Center", "frequency": "127.500", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "A80": { "callsign": "Atlanta Approach", "frequency": "133.475", "type": "APP", "pre": [ "ATL" ], "colours": [{ "hex": "#c42135" }]},
+        "CLT": { "callsign": "Charlotte Approach", "frequency": "120.500", "type": "APP", "pre": [ "CLT" ], "colours": [{ "hex": "#24824a" }]},
+        "AGS": { "callsign": "Augusta Approach", "frequency": "119.150", "type": "APP", "pre": [ "AGS" ], "colours": [{ "hex": "#772022" }]},
+        "AVL": { "callsign": "Asheville Approach", "frequency": "124.650", "type": "APP", "pre": [ "AVL" ], "colours": [{ "hex": "#00519c" }]},
+        "BHM": { "callsign": "Birmingham Approach", "frequency": "123.800", "type": "APP", "pre": [ "BHM" ], "colours": [{ "hex": "#c70f2e" }]},
+        "CHA": { "callsign": "Chattanooga Approach", "frequency": "125.100", "type": "APP", "pre": [ "CHA" ], "colours": [{ "hex": "#44026c" }]},
+        "GSO": { "callsign": "Greensboro Approach", "frequency": "124.350", "type": "APP", "pre": [ "GSO" ], "colours": [{ "hex": "#00713d" }]},
+        "GSP": { "callsign": "Greer Approach", "frequency": "118.800", "type": "APP", "pre": [ "GSP" ], "colours": [{ "hex": "#026340" }]},
+        "MGM": { "callsign": "Montgomery Approach", "frequency": "124.000", "type": "APP", "pre": [ "MGM" ], "colours": [{ "hex": "#808080" }]},
+        "TRI": { "callsign": "Tri City Approach", "frequency": "134.425", "type": "APP", "pre": [ "TRI" ], "colours": [{ "hex": "#01798c" }]},
+        "TYS": { "callsign": "Konxville Approach", "frequency": "123.900", "type": "APP", "pre": [ "TYS" ], "colours": [{ "hex": "#f4d838" }]}
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance"
+    },
+    "RMP": {
+      "": "Ramp" 
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Tower"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure" 
+        }
+    }
+}
