@@ -9,7 +9,7 @@
              "BA",
              "BN",
              "BW",
-             "LOW",
+             "BLOW",
              "BC",
              "BE",
              "BH",
@@ -240,7 +240,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -320,7 +320,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -410,7 +410,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -759,7 +759,7 @@
              "KT",
              "BI",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BE"
           ],
@@ -793,7 +793,7 @@
              "LA",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -1042,7 +1042,7 @@
              "OA",
              "BN",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -1236,7 +1236,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -1392,7 +1392,7 @@
              "BL",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -1651,7 +1651,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -1711,7 +1711,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -1779,7 +1779,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -1817,7 +1817,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -1855,7 +1855,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -1896,7 +1896,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -1932,7 +1932,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -1974,7 +1974,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -2010,7 +2010,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -2041,7 +2041,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -2076,7 +2076,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -2126,7 +2126,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -2185,7 +2185,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -2214,7 +2214,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -2263,7 +2263,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -2357,7 +2357,7 @@
              "LA",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -2427,7 +2427,7 @@
              "LA",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -2496,7 +2496,7 @@
              "LA",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -2595,7 +2595,7 @@
              "LA",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -2624,7 +2624,7 @@
              "LA",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -2652,7 +2652,7 @@
              "OA",
              "BN",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -2700,7 +2700,7 @@
              "OA",
              "BN",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -2736,7 +2736,7 @@
              "OA",
              "BN",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -2771,7 +2771,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -2876,7 +2876,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -2992,7 +2992,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3109,7 +3109,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3138,7 +3138,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3166,7 +3166,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3198,7 +3198,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3227,7 +3227,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3256,7 +3256,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3290,7 +3290,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3334,7 +3334,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3406,7 +3406,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3478,7 +3478,7 @@
           "owner":[
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -3510,7 +3510,7 @@
           "owner":[
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BE",
@@ -3546,7 +3546,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC"
           ],
@@ -3586,7 +3586,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC"
           ],
@@ -3624,7 +3624,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC"
           ],
@@ -3652,7 +3652,7 @@
           "owner":[
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -3683,7 +3683,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BN",
              "BC",
              "BH",
@@ -3724,7 +3724,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3765,7 +3765,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3823,7 +3823,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3907,7 +3907,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -3972,7 +3972,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4061,7 +4061,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4159,7 +4159,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4191,7 +4191,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4226,7 +4226,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4258,7 +4258,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4296,7 +4296,7 @@
              "BL",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4349,7 +4349,7 @@
              "BL",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4390,7 +4390,7 @@
              "BL",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4424,7 +4424,7 @@
              "BL",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4457,7 +4457,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4582,7 +4582,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4626,7 +4626,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4681,7 +4681,7 @@
              "BH",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -4744,7 +4744,7 @@
              "BN",
              "BC",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -4808,7 +4808,7 @@
              "BN",
              "BC",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -4861,7 +4861,7 @@
              "BN",
              "BC",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -4905,7 +4905,7 @@
              "BN",
              "BC",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -4973,7 +4973,7 @@
              "BN",
              "BC",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -5034,7 +5034,7 @@
              "BN",
              "BC",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -5067,7 +5067,7 @@
              "BC",
              "BN",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -5144,7 +5144,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
-             "LOW",
+             "BLOW",
              "BC",
              "BN",
              "BE"
@@ -5213,7 +5213,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
-             "LOW",
+             "BLOW",
              "BC",
              "BN",
              "BE"
@@ -5247,7 +5247,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
-             "LOW",
+             "BLOW",
              "BC",
              "BN",
              "BE"
@@ -5316,7 +5316,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
-             "LOW",
+             "BLOW",
              "BC",
              "BN",
              "BE"
@@ -5366,7 +5366,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
-             "LOW",
+             "BLOW",
              "BC",
              "BN",
              "BE"
@@ -5405,7 +5405,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
-             "LOW",
+             "BLOW",
              "BC",
              "BN",
              "BE"
@@ -5665,7 +5665,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -5696,7 +5696,7 @@
              "BH",
              "BL",
              "BW",
-             "LOW"
+             "BLOW"
           ],
           "sectors":[
              {
@@ -5737,7 +5737,7 @@
              "BN",
              "BC",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ],
           "sectors":[
@@ -6076,7 +6076,7 @@
       "pre": ["EBBU"],
       "colours": [{ "hex": "#a74b2d" }]
     },
-    "LOW": {
+    "BLOW": {
       "callsign": "Brussels Control",
       "frequency": "126.980",
       "type": "CTR",
@@ -6117,13 +6117,6 @@
       "type": "CTR",
       "pre": ["EBBU"],
       "colours": [{ "hex": "#ffc57d" }]
-    },
-    "BLOW": {
-      "callsign": "Brussels Control",
-      "frequency": "126.980",
-      "type": "CTR",
-      "pre": ["EBBU"],
-      "colours": [{ "hex": "#a74b2d" }]
     },
     "BSUP": {
       "callsign": "Brussels Supervisor",
@@ -6307,7 +6300,7 @@
              "BA",
              "BD",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ]
        },
@@ -6322,7 +6315,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ]
        },
@@ -6335,7 +6328,7 @@
           "topdown":[
              "OA",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ]
        },
@@ -6349,7 +6342,7 @@
              "LA",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ]
        },
        "ELLX":{
@@ -6362,7 +6355,7 @@
              "XA",
              "BE",
              "BW",
-             "LOW"
+             "BLOW"
           ]
        },
        "EBAW":{
@@ -6375,7 +6368,7 @@
              "BD",
              "BA",
              "BW",
-             "LOW",
+             "BLOW",
              "BE"
           ]
        }
