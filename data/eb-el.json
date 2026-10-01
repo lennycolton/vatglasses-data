@@ -9,6 +9,7 @@
              "BA",
              "BN",
              "BW",
+             "LOW",
              "BC",
              "BE",
              "BH",
@@ -239,6 +240,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -318,6 +320,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -407,6 +410,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -755,6 +759,7 @@
              "KT",
              "BI",
              "BW",
+             "LOW",
              "BN",
              "BE"
           ],
@@ -787,7 +792,8 @@
              "LT",
              "LA",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -1036,6 +1042,7 @@
              "OA",
              "BN",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -1228,7 +1235,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -1383,7 +1391,8 @@
              "BH",
              "BL",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -1642,6 +1651,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -1701,6 +1711,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -1768,6 +1779,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -1805,6 +1817,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -1842,6 +1855,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -1882,6 +1896,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -1917,6 +1932,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -1958,6 +1974,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -1993,6 +2010,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -2023,6 +2041,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -2057,6 +2076,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -2106,6 +2126,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -2164,6 +2185,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -2192,6 +2214,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -2240,6 +2263,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -2332,7 +2356,8 @@
           "owner":[
              "LA",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -2401,7 +2426,8 @@
           "owner":[
              "LA",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -2469,7 +2495,8 @@
           "owner":[
              "LA",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -2567,7 +2594,8 @@
           "owner":[
              "LA",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -2595,7 +2623,8 @@
           "owner":[
              "LA",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -2623,6 +2652,7 @@
              "OA",
              "BN",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -2670,6 +2700,7 @@
              "OA",
              "BN",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -2705,6 +2736,7 @@
              "OA",
              "BN",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -2738,7 +2770,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -2842,7 +2875,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -2957,7 +2991,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3073,7 +3108,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3101,7 +3137,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3128,7 +3165,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3159,7 +3197,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3187,7 +3226,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3215,7 +3255,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3248,7 +3289,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3291,7 +3333,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3362,7 +3405,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3434,6 +3478,7 @@
           "owner":[
              "BA",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -3465,6 +3510,7 @@
           "owner":[
              "BA",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BE",
@@ -3500,6 +3546,7 @@
              "BH",
              "BL",
              "BW",
+             "LOW",
              "BN",
              "BC"
           ],
@@ -3539,6 +3586,7 @@
              "BH",
              "BL",
              "BW",
+             "LOW",
              "BN",
              "BC"
           ],
@@ -3576,6 +3624,7 @@
              "BH",
              "BL",
              "BW",
+             "LOW",
              "BN",
              "BC"
           ],
@@ -3603,6 +3652,7 @@
           "owner":[
              "BA",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -3633,6 +3683,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BN",
              "BC",
              "BH",
@@ -3672,11 +3723,12 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
-                "min":45,
+                "min":55,
                 "max":164,
                 "points":[
                    ["494738","0054729"],
@@ -3712,7 +3764,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3769,7 +3822,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3852,7 +3906,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -3916,7 +3971,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4004,7 +4060,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4101,7 +4158,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4132,7 +4190,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4166,7 +4225,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4197,7 +4257,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4234,7 +4295,8 @@
              "BH",
              "BL",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4286,7 +4348,8 @@
              "BH",
              "BL",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4326,7 +4389,8 @@
              "BH",
              "BL",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4359,7 +4423,8 @@
              "BH",
              "BL",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4391,7 +4456,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4515,7 +4581,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4558,7 +4625,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4612,7 +4680,8 @@
              "BL",
              "BH",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -4675,6 +4744,7 @@
              "BN",
              "BC",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -4738,6 +4808,7 @@
              "BN",
              "BC",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -4790,6 +4861,7 @@
              "BN",
              "BC",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -4833,6 +4905,7 @@
              "BN",
              "BC",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -4900,6 +4973,7 @@
              "BN",
              "BC",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -4960,6 +5034,7 @@
              "BN",
              "BC",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -4992,6 +5067,7 @@
              "BC",
              "BN",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -5068,6 +5144,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
+             "LOW",
              "BC",
              "BN",
              "BE"
@@ -5136,6 +5213,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
+             "LOW",
              "BC",
              "BN",
              "BE"
@@ -5169,6 +5247,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
+             "LOW",
              "BC",
              "BN",
              "BE"
@@ -5237,6 +5316,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
+             "LOW",
              "BC",
              "BN",
              "BE"
@@ -5286,6 +5366,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
+             "LOW",
              "BC",
              "BN",
              "BE"
@@ -5324,6 +5405,7 @@
           "group":"EBBU",
           "owner":[
              "BW",
+             "LOW",
              "BC",
              "BN",
              "BE"
@@ -5582,7 +5664,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -5612,7 +5695,8 @@
              "BE",
              "BH",
              "BL",
-             "BW"
+             "BW",
+             "LOW"
           ],
           "sectors":[
              {
@@ -5653,6 +5737,7 @@
              "BN",
              "BC",
              "BW",
+             "LOW",
              "BE"
           ],
           "sectors":[
@@ -5991,6 +6076,13 @@
       "pre": ["EBBU"],
       "colours": [{ "hex": "#a74b2d" }]
     },
+    "LOW": {
+      "callsign": "Brussels Control",
+      "frequency": "126.980",
+      "type": "CTR",
+      "pre": ["EBBU"],
+      "colours": [{ "hex": "#d96036" }]
+    },
     "BE": {
       "callsign": "Brussels Control",
       "frequency": "129.575",
@@ -6160,14 +6252,14 @@
       "colours": [{ "hex": "#00c200" }]
     },
     "XA": {
-      "callsign": "Luxembourg Approach",
+      "callsign": "Luxembourg Radar",
       "frequency": "120.885",
       "type": "APP",
       "pre": ["ELLX"],
       "colours": [{ "hex": "#dad7eb" }]
     },
     "XF": {
-      "callsign": "Luxembourg Director",
+      "callsign": "Luxembourg Arrival",
       "frequency": "118.905",
       "type": "APP",
       "pre": ["ELLX"],
@@ -6215,6 +6307,7 @@
              "BA",
              "BD",
              "BW",
+             "LOW",
              "BE"
           ]
        },
@@ -6229,6 +6322,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BE"
           ]
        },
@@ -6241,6 +6335,7 @@
           "topdown":[
              "OA",
              "BW",
+             "LOW",
              "BE"
           ]
        },
@@ -6253,7 +6348,8 @@
           "topdown":[
              "LA",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ]
        },
        "ELLX":{
@@ -6265,7 +6361,8 @@
           "topdown":[
              "XA",
              "BE",
-             "BW"
+             "BW",
+             "LOW"
           ]
        },
        "EBAW":{
@@ -6278,6 +6375,7 @@
              "BD",
              "BA",
              "BW",
+             "LOW",
              "BE"
           ]
        }
