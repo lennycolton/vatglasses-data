@@ -1,0 +1,86 @@
+{
+    "positions": {
+        "10":     { "callsign": "Oakland Center",    "frequency": "128.700", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#56de37"}] },
+        "11":     { "callsign": "Oakland Center",    "frequency": "133.700", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#56de37"}] },
+        "13":     { "callsign": "Oakland Center",    "frequency": "127.450", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#56de37"}] },
+        "14":     { "callsign": "Oakland Center",    "frequency": "134.550", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#db0d9d"}] },
+        "15":     { "callsign": "Oakland Center",    "frequency": "132.800", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#56de37"}] },
+        "16":     { "callsign": "Oakland Center",    "frequency": "123.800", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#56de37"}] },
+        "22":     { "callsign": "Oakland Center",    "frequency": "121.250", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#56de37"}] },
+        "29":     { "callsign": "Oakland Center",    "frequency": "119.750", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "30":     { "callsign": "Oakland Center",    "frequency": "127.175", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#e34b29"}] },
+        "31":     { "callsign": "Oakland Center",    "frequency": "134.975", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#deaf23"}] },
+        "32":     { "callsign": "Oakland Center",    "frequency": "132.950", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "33":     { "callsign": "Oakland Center",    "frequency": "132.050", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#e34b29"}] },
+        "34":     { "callsign": "Oakland Center",    "frequency": "134.375", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#e34b29"}] },        
+        "35":     { "callsign": "Oakland Center",    "frequency": "134.150", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#db0d9d"}] },
+        "36":     { "callsign": "Oakland Center",    "frequency": "119.975", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#deaf23"}] },
+        "40":     { "callsign": "Oakland Center",    "frequency": "127.800", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "41":     { "callsign": "Oakland Center",    "frequency": "125.850", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "42":     { "callsign": "Oakland Center",    "frequency": "132.200", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "43":     { "callsign": "Oakland Center",    "frequency": "134.450", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "44":     { "callsign": "Oakland Center",    "frequency": "127.950", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#e34b29"}] },
+        "45":     { "callsign": "Oakland Center",    "frequency": "128.800", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#e34b29"}] },
+        "46":     { "callsign": "Oakland Center",    "frequency": "125.750", "pre": ["OAK"],        "type": "CTR", "colours": [{"hex": "#e34b29"}] },
+        "N1F":    { "callsign": "NorCal Approach",   "frequency": "133.000", "pre": ["MRY"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "N1K":    { "callsign": "NorCal Approach",   "frequency": "135.200", "pre": ["SJC"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "N1L":    { "callsign": "NorCal Approach",   "frequency": "120.100", "pre": ["SJC"],        "type": "APP", "colours": [{"hex": "#1abdaa"}] },
+        "N1M":    { "callsign": "NorCal Approach",   "frequency": "124.525", "pre": ["SJC", "NCT"], "type": "APP", "colours": [{"hex": "#621065"}] },
+        "N1Q":    { "callsign": "NorCal Approach",   "frequency": "126.475", "pre": ["SJC"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "N1S":    { "callsign": "NorCal Approach",   "frequency": "127.150", "pre": ["MRY"],        "type": "APP", "colours": [{"hex": "#31754f"}] },
+        "N1T":    { "callsign": "NorCal Departure",  "frequency": "121.300", "pre": ["SJC"],        "type": "DEP", "colours": [{"hex": "#674040"}] },
+        "N2B":    { "callsign": "NorCal Approach",   "frequency": "133.950", "pre": ["SFO", "NCT"], "type": "APP", "colours": [{"hex": "#7d7f7d"}] },
+        "N2F":    { "callsign": "NorCal Approach",   "frequency": "120.350", "pre": ["SFO"],        "type": "APP", "colours": [{"hex": "#721422"}] },
+        "N2L":    { "callsign": "NorCal Approach",   "frequency": "128.575", "pre": ["SFO"],        "type": "APP", "colours": [{"hex": "#2271b3"}] },
+        "N2N":    { "callsign": "NorCal Approach",   "frequency": "134.500", "pre": ["SFO"],        "type": "APP", "colours": [{"hex": "#317f43"}] },
+        "N2W":    { "callsign": "NorCal Approach",   "frequency": "135.650", "pre": ["SFO"],        "type": "APP", "colours": [{"hex": "#1d1e33"}] },
+        "N2Z":    { "callsign": "NorCal Approach",   "frequency": "128.325", "pre": ["SFO"],        "type": "APP", "colours": [{"hex": "#fad201"}] },
+        "N3C":    { "callsign": "NorCal Approach",   "frequency": "125.100", "pre": ["OAK", "NCT"], "type": "APP", "colours": [{"hex": "#bca843"}] },
+        "N3G":    { "callsign": "NorCal Approach",   "frequency": "125.350", "pre": ["OAK"],        "type": "APP", "colours": [{"hex": "#a30707"}] },
+        "N3J":    { "callsign": "NorCal Approach",   "frequency": "123.850", "pre": ["MOD"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "N3K":    { "callsign": "NorCal Approach",   "frequency": "120.950", "pre": ["MOD"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "N3M":    { "callsign": "NorCal Approach",   "frequency": "124.400", "pre": ["OAK"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "N3S":    { "callsign": "NorCal Approach",   "frequency": "124.800", "pre": ["OAK"],        "type": "APP", "colours": [{"hex": "#141955"}] },
+        "N3Y":    { "callsign": "NorCal Approach",   "frequency": "125.100", "pre": ["MOD"],        "type": "APP", "colours": [{"hex": "#bca843"}] },
+        "N4D":    { "callsign": "NorCal Departure",  "frequency": "127.000", "pre": ["OAK"],        "type": "DEP", "colours": [{"hex": "#ffffff"}] },
+        "N4F":    { "callsign": "NorCal Departure",  "frequency": "124.325", "pre": ["OAK"],        "type": "DEP", "colours": [{"hex": "#ffffff"}] },
+        "N4Q":    { "callsign": "NorCal Departure",  "frequency": "127.975", "pre": ["SFO"],        "type": "DEP", "colours": [{"hex": "#ffffff"}] },
+        "N4R":    { "callsign": "NorCal Departure",  "frequency": "120.900", "pre": ["OAK"],        "type": "DEP", "colours": [{"hex": "#fd9a5c"}] },
+        "N4U":    { "callsign": "NorCal Departure",  "frequency": "135.100", "pre": ["SFO", "NCT"], "type": "DEP", "colours": [{"hex": "#5100e6"}] },
+        "N5B":    { "callsign": "NorCal Approach",   "frequency": "120.450", "pre": ["SMF"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "N5D":    { "callsign": "NorCal Approach",   "frequency": "125.250", "pre": ["SMF"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "N5E":    { "callsign": "NorCal Approach",   "frequency": "125.400", "pre": ["SMF"],        "type": "APP", "colours": [{"hex": "#50e991"}] },
+        "N5P":    { "callsign": "NorCal Approach",   "frequency": "123.700", "pre": ["SMF", "NCT"], "type": "APP", "colours": [{"hex": "#e6d800"}] },
+        "N5X":    { "callsign": "NorCal Approach",   "frequency": "127.400", "pre": ["SMF"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "N8N":    { "callsign": "NorCal Approach",   "frequency": "126.300", "pre": ["RNO"],        "type": "APP", "colours": [{"hex": "#e60049"}] },
+        "N8S":    { "callsign": "NorCal Approach",   "frequency": "119.200", "pre": ["RNO"],        "type": "APP", "colours": [{"hex": "#0bb4ff"}] },
+        "FATC":   { "callsign": "Fresno Approach",   "frequency": "132.350", "pre": ["FAT"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "FATF":   { "callsign": "Fresno Approach",   "frequency": "119.600", "pre": ["FAT"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "FATS":   { "callsign": "Fresno Approach",   "frequency": "118.500", "pre": ["FAT"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "NFLA":   { "callsign": "Fallon Approach",   "frequency": "120.850", "pre": ["NFL"],        "type": "APP", "colours": [{"hex": "#deaf23"}] },
+        "NLCA":   { "callsign": "Lemoore Approach",  "frequency": "118.150", "pre": ["NLC"],        "type": "APP", "colours": [{"hex": "#deaf23"}] },
+        "NLCF":   { "callsign": "Lemoore Departure", "frequency": "124.100", "pre": ["NLC"],        "type": "DEP", "colours": [{"hex": "#deaf23"}] },
+        "NLCM":   { "callsign": "Showtime",          "frequency": "134.225", "pre": ["NLC"],        "type": "APP", "colours": [{"hex": "#deaf23"}] },
+        "SUUA":   { "callsign": "Travis Approach",   "frequency": "128.400", "pre": ["SUU"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "SUUN":   { "callsign": "Travis Approach",   "frequency": "126.600", "pre": ["SUU"],        "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "SUUS":   { "callsign": "Travis Approach",   "frequency": "119.900", "pre": ["SUU"],        "type": "APP", "colours": [{"hex": "#ffffff"}] }
+        
+    },
+    "callsigns": {
+        "DEL": {
+            "": "Clearance"
+        },
+        "GND": {
+            "": "Ground"
+        },
+        "TWR": {
+            "": "Tower"
+        },
+        "APP": {
+            "": "Approach"
+        },
+        "DEP": {
+            "": "Departure"
+        }
+    }
+}

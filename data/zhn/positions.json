@@ -1,0 +1,36 @@
+{
+    "positions": {
+        "2": { "callsign": "HCF Center", "frequency": "126.500", "pre": ["HNL"], "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "3": { "callsign": "HCF Center", "frequency": "124.100", "pre": ["HNL"], "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "4": { "callsign": "HCF Center", "frequency": "119.300", "pre": ["HNL"], "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "5": { "callsign": "HCF Center", "frequency": "118.450", "pre": ["HNL"], "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "6": { "callsign": "HCF Center", "frequency": "119.900", "pre": ["HNL"], "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "7": { "callsign": "HCF Center", "frequency": "126.600", "pre": ["HNL"], "type": "CTR", "colours": [{"hex": "#309df0"}] },
+        "H": { "callsign": "HCF Approach", "frequency": "118.300", "pre": ["HNL"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "L": { "callsign": "HCF Approach", "frequency": "124.800", "pre": ["HNL"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "V": { "callsign": "HCF Approach", "frequency": "119.100", "pre": ["HNL"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "T1": { "callsign": "Honolulu Tower", "frequency": "118.100", "pre": ["HNL"], "type": "TWR", "colours": [{"hex": "#ffffff"}] },
+        "T2": { "callsign": "Honolulu Tower", "frequency": "123.900", "pre": ["HNL"], "type": "TWR", "colours": [{"hex": "#ffffff"}] },
+        "ITO": { "callsign": "Hilo Approach", "pre": ["ITO"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "NGF": { "callsign": "Marine Kanehoe Approach", "pre": ["NGF"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "OGGN": { "callsign": "HCF Approach", "frequency": "120.200", "pre": ["OGG"], "type": "APP", "colours": [{"hex": "#ffffff"}] },
+        "OGGS": { "callsign": "HCF Approach", "frequency": "119.500", "pre": ["OGG"], "type": "APP", "colours": [{"hex": "#ffffff"}] }
+    },
+    "callsigns": {
+        "DEL": {
+            "": "Clearance"
+        },
+        "GND": {
+            "": "Ground"
+        },
+        "TWR": {
+            "": "Tower"
+        },
+        "APP": {
+            "": "Approach"
+        },
+        "DEP": {
+            "": "Departure"
+        }
+    }
+}

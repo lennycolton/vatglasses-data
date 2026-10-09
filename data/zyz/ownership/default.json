@@ -1,0 +1,76 @@
+{
+  "name": "Default",
+  "description": "Standard split.",
+  "type": "ownership",
+  "airspace": {
+    "CE": ["CE"],
+    "OV": ["OV", "CE"],
+    "LU": ["LU", "OV", "CE"],
+    "MI": ["MI", "CE"],
+    "PI": ["PI", "CE"],
+    "BA": ["BA", "PI", "CE"],
+    "XI": ["XI", "PI", "CE"],
+    "GR": ["GR", "CE"],
+    "HM": ["HM", "GR", "CE"],
+    "KF": ["KF", "HM", "GR", "CE"],
+    "SI": ["SI", "GR", "PI", "CE"],
+    "ER": ["ER", "SI", "GR", "BA", "PI", "CE"],
+    "SH": ["SH", "CE"],
+    "SL": ["SL", "SH", "CE"],
+    "VV": ["VV", "SH", "CE"],
+    "TS": ["TS", "SH", "PI", "CE"],
+    "YB": ["YB", "TS", "SH", "PI", "CE"],
+    "SD": ["SD", "GR", "CE"],
+    "ND": ["ND", "SD", "GR", "CE"],
+    "AA": ["AA", "SD", "GR", "CE"],
+    "AA-S": ["AA", "SD", "GR", "CE"],
+    "AA-N": ["AC", "AA", "SD", "GR", "CE"],
+    "AB": ["AB", "AA", "SD", "GR", "CE"],
+    "AB-S": ["AB", "AA", "SD", "GR", "CE"],
+    "AB-N": ["AC", "AB", "AA", "SD", "GR", "CE"],
+    "WS": ["WS", "HM", "GR", "CE", "SD"],
+    "ES": ["ES", "WS", "GR", "CE", "SD"],
+    "XU": ["XU", "WS", "KF", "HM", "GR", "CE"],
+    "XU-CYKF": ["XU", "WS", "KF", "HM", "GR", "CE", "SD"],
+    "TR": ["TR", "ER", "SI", "GR", "BA", "PI", "CE"],
+    "QG": ["QG", "zob/D1D", "zob/D1E", "zob/D1F", "zob/02", "zob/28", "zob/48"]
+  },
+  "airports": {
+    "CYYZ": {
+      "default": "false",
+      "sector": "SD"
+    },
+    "CYTZ": {
+      "default": "false",
+      "sector": "ES"
+    },
+    "CYXU": {
+      "default": "false",
+      "sector": "XU"
+    },
+    "CYKF": {
+      "default": "false",
+      "sector": "XU"
+    },
+    "CYHM": {
+      "default": "false",
+      "sector": "WS"
+    },
+    "CYOO": {
+      "default": "false",
+      "sector": "ES"
+    },
+    "CYAM": {
+      "default": "false",
+      "sector": "SL"
+    },
+    "CYQG": {
+      "default": "false",
+      "sector": "QG"
+    },
+    "CYTR": {
+      "default": "false",
+      "sector": "TR"
+    }
+  }
+}

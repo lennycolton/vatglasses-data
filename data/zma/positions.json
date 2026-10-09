@@ -1,0 +1,69 @@
+{
+    "positions": {
+    "01":  { "callsign": "Miami Center",   "frequency": "125.325", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#007bff" }] },
+    "02":  { "callsign": "Miami Center",   "frequency": "119.825", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff4da6" }] },
+    "17":  { "callsign": "Miami Center",   "frequency": "128.650", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff4da6" }] },
+    "18":  { "callsign": "Miami Center",   "frequency": "134.350", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#db0d3f" }] },
+    "19":  { "callsign": "Miami Center",   "frequency": "123.675", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff8c00" }] },
+    "21":  { "callsign": "Miami Center",   "frequency": "133.400", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ffa31a" }] },
+    "40":  { "callsign": "Miami Center",   "frequency": "126.325", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#00cc44" }] },
+    "41":  { "callsign": "Miami Center",   "frequency": "133.850", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#00cc44" }] },
+    "42":  { "callsign": "Miami Center",   "frequency": "135.600", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#66ff00" }] },
+    "44":  { "callsign": "Miami Center",   "frequency": "134.200", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff4da6" }] },
+    "61":  { "callsign": "Miami Center",   "frequency": "125.700", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff4da6" }] },
+    "04":  { "callsign": "Miami Center",   "frequency": "132.250", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#007bff" }] },
+    "20":  { "callsign": "Miami Center",   "frequency": "132.150", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#66ff00" }] },
+    "22":  { "callsign": "Miami Center",   "frequency": "133.475", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#66ff00" }] },
+    "23":  { "callsign": "Miami Center",   "frequency": "126.950", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#00cc44" }] },
+    "46":  { "callsign": "Miami Center",   "frequency": "135.175", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#00cc44" }] },
+    "47":  { "callsign": "Miami Center",   "frequency": "132.450", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff4da6" }] },
+    "64":  { "callsign": "Miami Center",   "frequency": "126.525", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff8c00" }] },
+    "65":  { "callsign": "Miami Center",   "frequency": "125.075", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff8c00" }] },
+    "66":  { "callsign": "Miami Center",   "frequency": "134.550", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff8c00" }] },
+    "67":  { "callsign": "Miami Center",   "frequency": "127.200", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#66ff00" }] },
+    "68":  { "callsign": "Miami Center",   "frequency": "133.550", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#66ff00" }] },
+    "43":  { "callsign": "Miami Center",   "frequency": "123.775", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff8c00" }] },
+    "58":  { "callsign": "Miami Center",   "frequency": "126.275", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff8c00" }] },     
+    "59":  { "callsign": "Miami Center",   "frequency": "126.375", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#66ff00" }] },     
+    "60":  { "callsign": "Miami Center",   "frequency": "127.225", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff4da6" }] },
+    "62":  { "callsign": "Miami Center",   "frequency": "126.450", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#56de37" }] },
+    "63":  { "callsign": "Miami Center",   "frequency": "127.450", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#56de37" }] },
+    "05":  { "callsign": "Miami Center",   "frequency": "133.500", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#007bff" }] },
+    "06":  { "callsign": "Miami Center",   "frequency": "132.200", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff0033" }] },
+    "07":  { "callsign": "Miami Center",   "frequency": "132.350", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff8c00" }] },        
+    "08":  { "callsign": "Miami Center",   "frequency": "133.900", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#66ff00" }] },        
+    "24":  { "callsign": "Miami Center",   "frequency": "132.400", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff8c00" }] },
+    "25":  { "callsign": "Miami Center",   "frequency": "128.225", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#ff8c00" }] },
+    "89":  { "callsign": "Miami Center",   "frequency": "124.825", "type": "CTR", "pre": ["MIA"], "colours": [{ "hex": "#66ff00" }] },
+    "MYNNA": { "callsign": "Nassau Approach",     "frequency": "121.000", "type": "APP", "pre": ["MYNN"], "colours": [{ "hex": "#0099a1" }] },
+    "MYNNT": { "callsign": "Nassau Tower",     "frequency": "119.500", "type": "TWR", "pre": ["MYNN"], "colours": [{ "hex": "#ffffff" }] },
+    "MYGFA": { "callsign": "Freeport Approach",     "frequency": "126.500", "type": "APP", "pre": ["MYGF"], "colours": [{ "hex": "#0099a1" }] },
+    "MYGFT": { "callsign": "Freeport Tower",     "frequency": "118.500", "type": "TWR", "pre": ["MYGF"], "colours": [{ "hex": "#ffffff" }] },
+    "MBPV": { "callsign": "Provo Approach",     "frequency": "126.000", "type": "APP", "pre": ["MBPV"], "colours": [{ "hex": "#0099a1" }] },
+    "MIA": { "callsign": "Miami Approach",     "frequency": "126.850", "type": "APP", "pre": ["MIA"], "colours": [{ "hex": "#0099a1" }] },
+    "TPA": { "callsign": "Tampa Approach",   "frequency": "119.900", "type": "APP", "pre": ["TPA"], "colours": [{ "hex": "#0099a1" }] },
+    "PBI": { "callsign": "Palm Beach Approach",     "frequency": "128.300", "type": "APP", "pre": ["PBI"], "colours": [{ "hex": "#0099a1" }] },
+    "RSW": { "callsign": "Fort Myers Approach",     "frequency": "134.425", "type": "APP", "pre": ["RSW"], "colours": [{ "hex": "#0099a1" }] },
+    "NQX": { "callsign": "Navy Key West Approach",     "frequency": "124.025", "type": "APP", "pre": ["NQX"], "colours": [{ "hex": "#0099a1" }] }
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance"
+    },
+    "RMP": {
+      "": "Ramp" 
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Tower"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure" 
+        }
+    }
+}

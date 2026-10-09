@@ -5,7 +5,8 @@
       "group": "MHCC",
       "owner": [
         "C1A",
-        "C2A"
+        "C2A",
+        "C2B"
       ],
       "sectors": [
         {
@@ -46,6 +47,7 @@
       "owner": [
         "C1A",
         "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -87,7 +89,7 @@
       "owner": [
         "C1B",
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -119,7 +121,7 @@
       "owner": [
         "C1B",
         "C1A",
-        "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -150,7 +152,7 @@
       "id": "2A",
       "group": "MHCC",
       "owner": [
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -174,7 +176,7 @@
       "id": "2A",
       "group": "MHCC",
       "owner": [
-        "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -307,6 +309,7 @@
         "C3B",
         "C1A",
         "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -355,6 +358,7 @@
         "C3B",
         "C3A",
         "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -377,7 +381,7 @@
       "group": "MHCC",
       "owner": [
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -400,7 +404,7 @@
       "group": "MHCC",
       "owner": [
         "C1A",
-        "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -423,7 +427,7 @@
       "id": "2A (Oceanic)",
       "group": "MHCC",
       "owner": [
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -443,7 +447,7 @@
       "id": "2A (Oceanic)",
       "group": "MHCC",
       "owner": [
-        "C2A",
+        "C2B",
         "fss/SAMN"
       ],
       "sectors": [
@@ -464,8 +468,7 @@
       "id": "2B (Oceanic)",
       "group": "MHCC",
       "owner": [
-        "C2B",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -485,7 +488,6 @@
       "group": "MHCC",
       "owner": [
         "C2B",
-        "C2A",
         "fss/SAMN"
       ],
       "sectors": [
@@ -508,7 +510,7 @@
         "HT3",
         "C1B",
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -532,7 +534,7 @@
         "SCG",
         "C1B",
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -669,7 +671,7 @@
         "HF2",
         "C1B",
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -747,7 +749,7 @@
         "BA1",
         "C1B",
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -1337,7 +1339,7 @@
       "group": "APP",
       "owner": [
         "NA1",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -1643,7 +1645,7 @@
         "HA2",
         "C1B",
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -2020,7 +2022,7 @@
       "owner": [
         "GA1",
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -2354,7 +2356,7 @@
       "owner": [
         "EA1",
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -2731,7 +2733,7 @@
       "owner": [
         "GA2",
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -3109,7 +3111,7 @@
         "HA1",
         "C1B",
         "C1A",
-        "C2A"
+        "C2B"
       ],
       "sectors": [
         {
@@ -4882,13 +4884,13 @@
     "MGES": { "callsign": "Esquipulas", "coord": [ 14.520278, -91.696944 ] },
     "MGFB": { "callsign": "Fray Bartolome De Las Casas", "coord": [ 15.473611, -88.8375 ] },
     "MGFL": { "callsign": "Flores", "coord": [ 16.91667, -89.88306 ] },
-    "MGGT": { "callsign": "La Aurora", "coord": [ 14.581667, -90.526667 ], "topdown": ["C1A", "C2A"] },
+    "MGGT": { "callsign": "La Aurora", "coord": [ 14.581667, -90.526667 ], "topdown": ["C1A", "C2B"] },
     "MGHH": { "callsign": "Iztapa", "coord": [ 14.602778, -90.516667 ] },
     "MGHT": { "callsign": "Huehuetenango", "coord": [ 15.31667, -91.46639 ] },
     "MGJE": { "callsign": "San Jeronimo", "coord": [ 14.693611, -91.880556 ] },
     "MGJU": { "callsign": "Jutiapa", "coord": [ 15.483333, -90.366667 ] },
     "MGLL": { "callsign": "La Libertad", "coord": [ 16.748889, -90.141667 ] },
-    "MGMM": { "callsign": "Tikal", "coord": [ 16.913889, -89.866389 ], "topdown": ["C1A", "C2A"] },
+    "MGMM": { "callsign": "Tikal", "coord": [ 16.913889, -89.866389 ], "topdown": ["C1A", "C2B"] },
     "MGPB": { "callsign": "Puerto Barrios", "coord": [ 15.71667, -88.59972 ] },
     "MGPG": { "callsign": "Playa Grande", "coord": [ 15.666667, -90.866667 ] },
     "MGPI": { "callsign": "Peten Itza", "coord": [ 17.038889, -90.741667 ] },
@@ -4966,7 +4968,7 @@
     "MHLF": { "callsign": "Flefil", "coord": [ 14.423333, -87.119722 ] },
     "MHLG": { "callsign": "La Grecia", "coord": [ 13.214722, -87.363611 ] },
     "MHLJ": { "callsign": "Las Lajas", "coord": [ 14.894722, -86.574722 ] },
-    "MHLM": { "callsign": "La Mesa", "coord": [ 15.452639, -87.923556 ], "topdown": ["C1B", "C1A", "C2A"] },
+    "MHLM": { "callsign": "La Mesa", "coord": [ 15.452639, -87.923556 ], "topdown": ["C1B", "C1A", "C2B"] },
     "MHLN": { "callsign": "Limon", "coord": [ 15.863333, -85.498611 ] },
     "MHLP": { "callsign": "Mapulaca", "coord": [ 14.034167, -88.628333 ] },
     "MHLS": { "callsign": "Laguna Seca", "coord": [ 14.651944, -86.067222 ] },
@@ -4989,7 +4991,7 @@
     "MHPA": { "callsign": "Barra Del Patuca", "coord": [ 15.801389, -84.296667 ] },
     "MHPC": { "callsign": "Palacios", "coord": [ 15.955, -84.941389 ] },
     "MHPL": { "callsign": "Puerto Lempira", "coord": [ 15.21667, -83.79972 ] },
-    "MHPR": { "callsign": "Soto Cano", "coord": [ 14.382375, -87.621161 ], "topdown": ["SCG", "C1B", "C1A", "C2A"] },
+    "MHPR": { "callsign": "Soto Cano", "coord": [ 14.382375, -87.621161 ], "topdown": ["SCG", "C1B", "C1A", "C2B"] },
     "MHPS": { "callsign": "Desvio Potrerillos", "coord": [ 14.595833, -86.15 ] },
     "MHPV": { "callsign": "El Porvenir", "coord": [ 15.530278, -86.273611 ] },
     "MHPY": { "callsign": "Payasito", "coord": [ 15.875833, -85.396944 ] },
@@ -4998,7 +5000,7 @@
     "MHRD": { "callsign": "Rus Rus Ii", "coord": [ 14.787222, -84.369722 ] },
     "MHRH": { "callsign": "Regional Hamer", "coord": [ 15.563333, -86.191389 ] },
     "MHRJ": { "callsign": "Rancho Jamastran", "coord": [ 14.060278, -86.406944 ] },
-    "MHRO": { "callsign": "Roatán", "coord": [ 16.318333, -86.521944 ], "topdown": ["C1B", "C1A", "C2A"] },
+    "MHRO": { "callsign": "Roatán", "coord": [ 16.318333, -86.521944 ], "topdown": ["C1B", "C1A", "C2B"] },
     "MHRR": { "callsign": "Rus Rus I", "coord": [ 14.713056, -84.4525 ] },
     "MHRS": { "callsign": "Santa Rosa", "coord": [ 15.468611, -87.826944 ] },
     "MHRY": { "callsign": "Raya", "coord": [ 15.066389, -83.297222 ] },
@@ -5016,7 +5018,7 @@
     "MHTB": { "callsign": "La Katabila", "coord": [ 15.175, -83.682222 ] },
     "MHTE": { "callsign": "Tela", "coord": [ 15.71667, -87.48306 ] },
     "MHCC": { "callsign": "Tegucigalpa", "coord": [ 14.060833, -87.217222 ] },
-    "MHTG": { "callsign": "Toncontín", "coord": [ 14.060333, -87.216666 ], "topdown": ["C1B", "C1A", "C2A"] },
+    "MHTG": { "callsign": "Toncontín", "coord": [ 14.060333, -87.216666 ], "topdown": ["C1B", "C1A", "C2B"] },
     "MHTI": { "callsign": "Tipimuratara", "coord": [ 15.001111, -83.722222 ] },
     "MHTJ": { "callsign": "Trujillo", "coord": [ 15.927222, -85.937222 ] },
     "MHTL": { "callsign": "Talanguita", "coord": [ 14.4875, -87.179722 ] },
@@ -5051,7 +5053,7 @@
     "MNJG": { "callsign": "Jinotega", "coord": [ 13.08306, -85.98306 ] },
     "MNJU": { "callsign": "Juigalpa", "coord": [ 12.09972, -85.36639 ] },
     "MNLN": { "callsign": "Dpto. Leon Fanor Urroz", "coord": [ 12.429167, -86.902778 ] },
-    "MNMG": { "callsign": "Managua", "coord": [ 12.141667, -86.168333 ], "topdown": ["C2A"] },
+    "MNMG": { "callsign": "Managua", "coord": [ 12.141667, -86.168333 ], "topdown": ["C2B"] },
     "MNMR": { "callsign": "Montelimar", "coord": [ 11.806111, -86.527028 ] },
     "MNPC": { "callsign": "Puerto Cabezas", "coord": [ 14.05, -83.36639 ] },
     "MNRS": { "callsign": "Rivas", "coord": [ 11.41667, -85.83306 ] },
@@ -5197,7 +5199,7 @@
     "MSPT": { "callsign": "El Platanar", "coord": [ 13.58688, -88.297643 ] },
     "MSSA": { "callsign": "Santa Ana-El Palmar", "coord": [ 13.98306, -89.56639 ] },
     "MSSM": { "callsign": "San Miguel-El Papalon", "coord": [ 13.44972, -88.11639 ] },
-    "MSSS": { "callsign": "Ilopango", "coord": [ 13.691667, -89.125556 ], "topdown": ["C1A", "C2A"] },
+    "MSSS": { "callsign": "Ilopango", "coord": [ 13.691667, -89.125556 ], "topdown": ["C1A", "C2B"] },
     "MSZT": { "callsign": "El Zapote", "coord": [ 13.707953, -88.947258 ] },
     "MZBA": { "callsign": "Belize Aquaculture Ltd Airstrip", "coord": [ 16.651167, -88.376 ] },
     "MZBB": { "callsign": "Blackbird Caye Airstrip", "coord": [ 17.320833, -87.8 ] },
@@ -5206,7 +5208,7 @@
     "MZBG": { "callsign": "Big Creek Airstrip", "coord": [ 16.516667, -88.466667 ] },
     "MZBL": { "callsign": "Blue Creek Community Airstrip", "coord": [ 17.900556, -88.980556 ] },
     "MZBP": { "callsign": "Hector Silva Airstrip", "coord": [ 17.270833, -88.781111 ] },
-    "MZBZ": { "callsign": "Belice", "coord": [ 17.539089, -88.3082 ], "topdown": ["C1B", "C1A", "C2A"] },
+    "MZBZ": { "callsign": "Belice", "coord": [ 17.539089, -88.3082 ], "topdown": ["C1B", "C1A", "C2B"] },
     "MZCF": { "callsign": "Matthew Spain Airstrip", "coord": [ 17.183333, -89.016667 ] },
     "MZCK": { "callsign": "Caye Caulker Airstrip", "coord": [ 17.733333, -88.033333 ] },
     "MZCP": { "callsign": "Caye Chapel Airstrip", "coord": [ 17.746, -88.045333 ] },

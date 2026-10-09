@@ -1,0 +1,31 @@
+{
+  "positions": {
+      "ZAK-P": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS", "frequency": "131.950", "callsign": "San Francisco Radio" },
+      "ZAK-1": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS", "frequency": "131.175", "callsign": "San Francisco Radio" },
+      "ZAK-2": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS", "frequency": "130.700", "callsign": "San Francisco Radio" },
+      "ZAK-3": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS", "frequency": "128.900", "callsign": "San Francisco Radio" },
+      "ZAK-4": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS", "frequency": "130.800", "callsign": "San Francisco Radio" },
+      "ZAK-5": { "colours": [{ "hex": "#e54a89" }], "pre": [ "ZAK" ], "type": "FSS", "frequency": "129.400", "callsign": "San Francisco Radio" },
+      "WAT": { "colours": [{ "hex": "#ffffff" }], "pre": [ "PKWA", "KWA" ], "type": "TWR","frequency": "126.200","callsign": "Bucholz Tower" }
+  },
+  "callsigns": {
+    "DEL": {
+      "": "Clearance"
+    },
+    "RMP": {
+      "": "Ramp"
+    },
+    "GND": {
+      "": "Ground"
+    },
+    "TWR": {
+      "": "Tower"
+    },
+    "APP": {
+      "": "Approach"
+    },
+    "DEP": {
+      "": "Departure"
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+    "name": "Editor Test",
+    "description": "NCT owns all NCT (including RNO). ZOA 42 owns everything else.",
+    "type": "editor",
+    "airspace": {
+        "10": "42",
+        "11": "42",
+        "13": "42",
+        "14": "42",
+        "15": "42",
+        "16": "42",
+        "22": "42",
+        "29": "42",
+        "30": "42",
+        "31": "42",
+        "32": "42",
+        "33": "42",
+        "34": "42",
+        "35": "42",
+        "36": "42",
+        "40": "42",
+        "41": "42",
+        "42": "42",
+        "43": "42",
+        "44": "42",
+        "45": "42",
+        "46": "42",
+        "N1L": "N2B",
+        "N1M": "N2B",
+        "N1S": "N2B",
+        "N1T": "N2B",
+        "N2B": "N2B",
+        "N2Z": "N2B",
+        "N2F": "N2B",
+        "N2L": "N2B",
+        "N2N": "N2B",
+        "N2W": "N2B",
+        "N3G": "N2B",
+        "N3S": "N2B",
+        "N3Y": "N2B",
+        "N4R": "N2B",
+        "N4U": "N2B",
+        "N5E": "N2B",
+        "N5P": "N2B",
+        "N8N": "N2B",
+        "N8S": "N2B",
+        "DESERT": "42",
+        "NFL": "42",
+        "FAT": "42",
+        "NLC": "42",
+        "SUU": "42"
+    },
+    "airports": {
+        "KAPC": {
+            "automatch": true,
+            "type": "sector",
+            "position": "40"
+        },
+        "KBAB": {
+            "automatch": true,
+            "type": "major",
+            "position": "KSMF"
+        },
+        "KCCR": {
+            "automatch": true,
+            "type": "major",
+            "position": "KSUU"
+        },
+        "KCIC": {
+            "automatch": true,
+            "type": "sector",
+            "position": "42"
+        },
+        "KFAT": {
+            "automatch": false,
+            "type": "sector",
+            "position": "FAT"
+        },
+        "KHWD": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N3G"
+        },
+        "KLVK": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N3G"
+        },
+        "KMCC": {
+            "automatch": true,
+            "type": "major",
+            "position": "KSMF"
+        },
+        "KMER": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N3Y"
+        },
+        "KMHR": {
+            "automatch": true,
+            "type": "major",
+            "position": "KSMF"
+        },
+        "KMOD": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N3Y"
+        },
+        "KMRY": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N1S"
+        },
+        "KNFL": {
+            "automatch": false,
+            "type": "sector",
+            "position": "NFL"
+        },
+        "KNLC": {
+            "automatch": false,
+            "type": "sector",
+            "position": "NLC"
+        },
+        "KNUQ": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N1L"
+        },
+        "KOAK": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N4R"
+        },
+        "KPAO": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N1T"
+        },
+        "KRDD": {
+            "automatch": true,
+            "type": "sector",
+            "position": "42"
+        },
+        "KRHV": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N1T"
+        },
+        "KRNO": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N8S"
+        },
+        "KSAC": {
+            "automatch": true,
+            "type": "major",
+            "position": "KSMF"
+        },
+        "KSCK": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N3Y"
+        },
+        "KSFO": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N4U"
+        },
+        "KSJC": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N1T"
+        },
+        "KSMF": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N5P"
+        },
+        "KSNS": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N1S"
+        },
+        "KSQL": {
+            "automatch": false,
+            "type": "sector",
+            "position": "N2W"
+        },
+        "KSTS": {
+            "automatch": true,
+            "type": "sector",
+            "position": "40"
+        },
+        "KSUU": {
+            "automatch": false,
+            "type": "sector",
+            "position": "SUU"
+        },
+        "KTRK": {
+            "automatch": true,
+            "type": "sector",
+            "position": "44"
+        }
+    }
+}
