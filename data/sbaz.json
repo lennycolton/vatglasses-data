@@ -5025,7 +5025,7 @@
             ["-010206", "-0480829"],
             ["-010354", "-0480648"],
             ["-010621", "-0480454"],
-            ["-010860", "-0480317"],
+            ["-010900", "-0480317"],
             ["-011147", "-0480157"],
             ["-011442", "-0480054"],
             ["-011707", "-0480017"],
@@ -5263,7 +5263,7 @@
             ["-111044", "-0610725"],
             ["-111109", "-0610701"],
             ["-111134", "-0610638"],
-            ["-111160", "-0610615"],
+            ["-111200", "-0610615"],
             ["-111225", "-0610552"],
             ["-111252", "-0610531"],
             ["-111319", "-0610509"],
@@ -6158,7 +6158,7 @@
             ["-113419", "-0555453"],
             ["-113401", "-0555435"],
             ["-113344", "-0555418"],
-            ["-113327", "-0555360"],
+            ["-113327", "-0555400"],
             ["-113310", "-0555341"],
             ["-113254", "-0555322"],
             ["-113238", "-0555303"],
@@ -7669,12 +7669,12 @@
   ],
 
   "groups": {
-      "FIR":{ "name":"Amazonico" },
-      "CTA":{ "name":"Approach" },
-      "TMA":{ "name":"Approach" },
-      "CTR":{ "name":"Tower" },
-      "ATZ":{ "name":"Tower" },
-      "FIZ":{ "name":"Radio" }
+      "FIR":{ "name":"Amazonico", "colour": "#27a169" },
+      "CTA":{ "name":"Approach", "colour": "#0aa294" },
+      "TMA":{ "name":"Approach", "colour": "#0aa294" },
+      "CTR":{ "name":"Tower", "colour": "#668004" },
+      "ATZ":{ "name":"Tower", "colour": "#668004" },
+      "FIZ":{ "name":"Radio", "colour": "#6d907b" }
   },
 
   "positions": {
@@ -7683,385 +7683,385 @@
       "frequency": "126.600",
       "type": "TWR",
       "pre": ["SBAT"],
-      "colours": [{ "hex": "#00e800" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "AZCE": {
       "callsign": "Centro Amazonico",
       "frequency": "123.650",
       "type": "CTR",
       "pre": ["SBAZ"],
-      "colours": [{ "hex": "#548c00" }]
+      "colours": [{ "hex": "#3c9959" }]
     },
     "AZ": {
       "callsign": "Centro Amazonico",
       "frequency": "134.700",
       "type": "CTR",
       "pre": ["SBAZ"],
-      "colours": [{ "hex": "#c88c00" }]
+      "colours": [{ "hex": "#27a169" }]
     },
     "AZCW": {
       "callsign": "Centro Amazonico",
       "frequency": "124.750",
       "type": "CTR",
       "pre": ["SBAZ"],
-      "colours": [{ "hex": "#e98c00" }]
+      "colours": [{ "hex": "#17a478" }]
     },
     "AZC": {
       "callsign": "Centro Amazonico",
       "frequency": "134.250",
       "type": "CTR",
       "pre": ["SBAZ"],
-      "colours": [{ "hex": "#c18c00" }]
+      "colours": [{ "hex": "#1ca268" }]
     },
     "AZE": {
       "callsign": "Centro Amazonico",
       "frequency": "125.750",
       "type": "CTR",
       "pre": ["SBAZ"],
-      "colours": [{ "hex": "#9f8c00" }]
+      "colours": [{ "hex": "#01a47f" }]
     },
     "CGAZ": {
       "callsign": "CGNA Amazonico",
       "frequency": "134.700",
       "type": "TMU",
       "pre": ["SBAZ"],
-      "colours": [{ "hex": "#00b300" }]
+      "colours": [{ "hex": "#728679" }]
     },
     "AZW": {
       "callsign": "Centro Amazonico",
       "frequency": "132.300",
       "type": "CTR",
       "pre": ["SBAZ"],
-      "colours": [{ "hex": "#758c00" }]
+      "colours": [{ "hex": "#3b9346" }]
     },
     "TBE": {
       "callsign": "Torre Belem",
       "frequency": "118.700",
       "type": "TWR",
       "pre": ["SBBE"],
-      "colours": [{ "hex": "#006500" }]
+      "colours": [{ "hex": "#668004" }]
     },
     "TBV": {
       "callsign": "Torre Boa Vista",
       "frequency": "118.100",
       "type": "TWR",
       "pre": ["SBBV"],
-      "colours": [{ "hex": "#00e700" }]
+      "colours": [{ "hex": "#668004" }]
     },
     "RCC": {
       "callsign": "Radio Cachimbo",
       "frequency": "125.900",
       "type": "TWR",
       "pre": ["SBCC"],
-      "colours": [{ "hex": "#00d100" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RCJ": {
       "callsign": "Radio Carajas",
       "frequency": "131.700",
       "type": "TWR",
       "pre": ["SBCJ"],
-      "colours": [{ "hex": "#00c900" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "TCY": {
       "callsign": "Torre Cuiaba",
       "frequency": "118.100",
       "type": "TWR",
       "pre": ["SBCY"],
-      "colours": [{ "hex": "#000500" }]
+      "colours": [{ "hex": "#668004" }]
     },
     "RCZ": {
       "callsign": "Radio Cruzeiro do Sul",
       "frequency": "125.700",
       "type": "TWR",
       "pre": ["SBCZ"],
-      "colours": [{ "hex": "#00d800" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "TEG": {
       "callsign": "Torre Eduardo Gomes",
       "frequency": "118.300",
       "type": "TWR",
       "pre": ["SBEG"],
-      "colours": [{ "hex": "#004a00" }]
+      "colours": [{ "hex": "#668004" }]
     },
     "RGM": {
       "callsign": "Radio Guajara-Mirim",
       "frequency": "125.900",
       "type": "TWR",
       "pre": ["SBGM"],
-      "colours": [{ "hex": "#000700" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RHT": {
       "callsign": "Radio Altamira",
       "frequency": "125.850",
       "type": "TWR",
       "pre": ["SBHT"],
-      "colours": [{ "hex": "#00d300" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RIH": {
       "callsign": "Radio Itaituba",
       "frequency": "125.500",
       "type": "TWR",
       "pre": ["SBIH"],
-      "colours": [{ "hex": "#009100" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RIZ": {
       "callsign": "Radio Imperatriz",
       "frequency": "125.650",
       "type": "TWR",
       "pre": ["SBIZ"],
-      "colours": [{ "hex": "#001100" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RJI": {
       "callsign": "Radio Ji Parana",
       "frequency": "131.750",
       "type": "TWR",
       "pre": ["SBJI"],
-      "colours": [{ "hex": "#00b600" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RMA": {
       "callsign": "Radio Maraba",
       "frequency": "125.900",
       "type": "TWR",
       "pre": ["SBMA"],
-      "colours": [{ "hex": "#003800" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "TMN": {
       "callsign": "Torre Ponta Pelada",
       "frequency": "118.600",
       "type": "TWR",
       "pre": ["SBMN"],
-      "colours": [{ "hex": "#005600" }]
+      "colours": [{ "hex": "#668004" }]
     },
     "TMQ": {
       "callsign": "Torre Macapa",
       "frequency": "118.000",
       "type": "TWR",
       "pre": ["SBMQ"],
-      "colours": [{ "hex": "#001500" }]
+      "colours": [{ "hex": "#668004" }]
     },
     "ROI": {
       "callsign": "Radio Oiapoque",
       "frequency": "125.900",
       "type": "TWR",
       "pre": ["SBOI"],
-      "colours": [{ "hex": "#005800" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "TPV": {
       "callsign": "Torre Porto Velho",
       "frequency": "118.200",
       "type": "TWR",
       "pre": ["SBPV"],
-      "colours": [{ "hex": "#008100" }]
+      "colours": [{ "hex": "#668004" }]
     },
     "TRB": {
       "callsign": "Torre Rio Branco",
       "frequency": "118.700",
       "type": "TWR",
       "pre": ["SBRB"],
-      "colours": [{ "hex": "#009900" }]
+      "colours": [{ "hex": "#668004" }]
     },
     "RRD": {
       "callsign": "Radio Rondonopolis",
       "frequency": "130.700",
       "type": "TWR",
       "pre": ["SBRD"],
-      "colours": [{ "hex": "#000700" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RSI": {
       "callsign": "Radio Sinop",
       "frequency": "130.175",
       "type": "TWR",
       "pre": ["SBSI"],
-      "colours": [{ "hex": "#00f500" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "TSL": {
       "callsign": "Torre Sao Luis",
       "frequency": "118.900",
       "type": "TWR",
       "pre": ["SBSL"],
-      "colours": [{ "hex": "#004500" }]
+      "colours": [{ "hex": "#668004" }]
     },
     "TSN": {
       "callsign": "Torre Santarem",
       "frequency": "118.100",
       "type": "TWR",
       "pre": ["SBSN"],
-      "colours": [{ "hex": "#00c400" }]
+      "colours": [{ "hex": "#668004" }]
     },
     "RSO": {
       "callsign": "Radio Sorriso",
       "frequency": "130.350",
       "type": "TWR",
       "pre": ["SBSO"],
-      "colours": [{ "hex": "#00dd00" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RTB": {
       "callsign": "Radio Trombetas",
       "frequency": "131.600",
       "type": "TWR",
       "pre": ["SBTB"],
-      "colours": [{ "hex": "#00e100" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RTF": {
       "callsign": "Radio Tefe",
       "frequency": "125.600",
       "type": "TWR",
       "pre": ["SBTF"],
-      "colours": [{ "hex": "#000800" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RTS": {
       "callsign": "Radio Tirios",
       "frequency": "128.100",
       "type": "TWR",
       "pre": ["SBTS"],
-      "colours": [{ "hex": "#00ad00" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RTT": {
       "callsign": "Radio Tabatinga",
       "frequency": "125.900",
       "type": "TWR",
       "pre": ["SBTT"],
-      "colours": [{ "hex": "#006300" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RUA": {
       "callsign": "Radio Gabriel",
       "frequency": "125.700",
       "type": "TWR",
       "pre": ["SBUA"],
-      "colours": [{ "hex": "#003e00" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RUY": {
       "callsign": "Radio Urucu",
       "frequency": "131.850",
       "type": "TWR",
       "pre": ["SBUY"],
-      "colours": [{ "hex": "#003600" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RVH": {
       "callsign": "Radio Vilhena",
       "frequency": "125.900",
       "type": "TWR",
       "pre": ["SBVH"],
-      "colours": [{ "hex": "#000800" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "WA": {
       "callsign": "Controle Amazonas",
       "frequency": "119.100",
       "type": "APP",
       "pre": ["SBWA"],
-      "colours": [{ "hex": "#000077" }]
+      "colours": [{ "hex": "#0aa294" }]
     },
     "WB": {
       "callsign": "Controle Belem",
       "frequency": "119.050",
       "type": "APP",
       "pre": ["SBWB"],
-      "colours": [{ "hex": "#0000e0" }]
+      "colours": [{ "hex": "#059693" }]
     },
     "WG": {
       "callsign": "Controle Campo Grande",
       "frequency": "119.350",
       "type": "APP",
       "pre": ["SBWG"],
-      "colours": [{ "hex": "#000078" }]
+      "colours": [{ "hex": "#0bb6c5" }]
     },
     "WN": {
       "callsign": "Controle Manaus",
       "frequency": "119.250",
       "type": "APP",
       "pre": ["SBWN"],
-      "colours": [{ "hex": "#00000d" }]
+      "colours": [{ "hex": "#0aa294" }]
     },
     "WQ": {
       "callsign": "Controle Boa Vista",
       "frequency": "120.100",
       "type": "APP",
       "pre": ["SBWQ"],
-      "colours": [{ "hex": "#00002d" }]
+      "colours": [{ "hex": "#059693" }]
     },
     "WS": {
       "callsign": "Controle Sao Luis",
       "frequency": "119.100",
       "type": "APP",
       "pre": ["SBWS"],
-      "colours": [{ "hex": "#00001f" }]
+      "colours": [{ "hex": "#0c9c83" }]
     },
     "WV": {
       "callsign": "Controle Porto Velho",
       "frequency": "120.250",
       "type": "APP",
       "pre": ["SBWV"],
-      "colours": [{ "hex": "#00000e" }]
+      "colours": [{ "hex": "#0aa294" }]
     },
     "WX": {
       "callsign": "Controle Santarem",
       "frequency": "119.300",
       "type": "APP",
       "pre": ["SBWX"],
-      "colours": [{ "hex": "#0000b4" }]
+      "colours": [{ "hex": "#059693" }]
     },
     "WY": {
       "callsign": "Controle Cuiaba",
       "frequency": "119.400",
       "type": "APP",
       "pre": ["SBWY"],
-      "colours": [{ "hex": "#000082" }]
+      "colours": [{ "hex": "#0c9c83" }]
     },
     "XB": {
       "callsign": "Controle Rio Branco",
       "frequency": "119.900",
       "type": "APP",
       "pre": ["SBXB"],
-      "colours": [{ "hex": "#0000c7" }]
+      "colours": [{ "hex": "#0aa294" }]
     },
     "XD": {
       "callsign": "Controle Palmas",
       "frequency": "119.000",
       "type": "APP",
       "pre": ["SBXD"],
-      "colours": [{ "hex": "#000083" }]
+      "colours": [{ "hex": "#8a9504" }]
     },
     "XE": {
       "callsign": "Controle Teresina",
       "frequency": "119.600",
       "type": "APP",
       "pre": ["SBXE"],
-      "colours": [{ "hex": "#0000f6" }]
+      "colours": [{ "hex": "#cb7303" }]
     },
     "XJ": {
       "callsign": "Controle Maraba",
       "frequency": "119.200",
       "type": "APP",
       "pre": ["SBXJ"],
-      "colours": [{ "hex": "#0000a6" }]
+      "colours": [{ "hex": "#0aa294" }]
     },
     "XK": {
       "callsign": "Controle Macapa",
       "frequency": "119.000",
       "type": "APP",
       "pre": ["SBXK"],
-      "colours": [{ "hex": "#000086" }]
+      "colours": [{ "hex": "#059693" }]
     },
     "RKW": {
       "callsign": "Radio Cacoal",
       "frequency": "131.100",
       "type": "TWR",
       "pre": ["SSKW"],
-      "colours": [{ "hex": "#00a000" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "RGN": {
       "callsign": "Radio Araguaina",
       "frequency": "125.850",
       "type": "TWR",
       "pre": ["SWGN"],
-      "colours": [{ "hex": "#008100" }]
+      "colours": [{ "hex": "#6d907b" }]
     },
     "UQ": {
       "callsign": "Controle Surucucu",
       "frequency": "119.850",
       "type": "APP",
       "pre": ["SWUQ"],
-      "colours": [{ "hex": "#0000f4" }]
+      "colours": [{ "hex": "#0c9c83" }]
     }
   },
 
@@ -8105,7 +8105,7 @@
     "SBRB": { "callsign": "Rio Branco", "coord": [-9.86833333, -67.89805556], "topdown": ["TRB", "XB", "AZW", "AZCW", "AZ"] },
     "SBRD": { "callsign": "Rondonopolis", "coord": [-16.58805556, -54.72166667], "topdown": ["RRD", "AZW", "AZCW", "AZ"] },
     "SBSI": { "callsign": "Sinop", "coord": [-11.885, -55.58611111], "topdown": ["RSI", "AZC", "AZCW", "AZCE", "AZ"] },
-    "SBSL": { "callsign": "Sao Luis", "coord": [-2.58694444, -44.23611111], "topdown": ["TBV", "WS", "AZE", "AZCE", "AZ"] },
+    "SBSL": { "callsign": "Sao Luis", "coord": [-2.58694444, -44.23611111], "topdown": ["TSL", "WS", "AZE", "AZCE", "AZ"] },
     "SBSN": { "callsign": "Santarem", "coord": [-2.42472222, -54.78583333], "topdown": ["TSN", "WX", "AZE", "AZCE", "AZ"] },
     "SBSO": { "callsign": "Sorriso", "coord": [-12.47277778, -55.66888889], "topdown": ["RSO", "AZC", "AZCW", "AZCE", "AZ"] },
     "SBTB": { "callsign": "Oriximina", "coord": [-1.48972222, -56.39694444], "topdown": ["RTB", "AZE", "AZCE", "AZ"] },

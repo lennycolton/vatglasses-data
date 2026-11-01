@@ -252,12 +252,12 @@
   ],
 
   "groups": {
-      "FIR":{ "name":"Atlantico" },
-      "CTA":{ "name":"Approach" },
-      "TMA":{ "name":"Approach" },
-      "CTR":{ "name":"Tower" },
-      "ATZ":{ "name":"Tower" },
-      "FIZ":{ "name":"Radio" }
+      "FIR":{ "name":"Atlantico", "colour": "#9780b4" },
+      "CTA":{ "name":"Approach", "colour": "#a36fd9" },
+      "TMA":{ "name":"Approach", "colour": "#a36fd9" },
+      "CTR":{ "name":"Tower", "colour": "#8c54c3" },
+      "ATZ":{ "name":"Tower", "colour": "#8c54c3" },
+      "FIZ":{ "name":"Radio", "colour": "#8d7f9f" }
   },
 
   "positions": {
@@ -266,49 +266,49 @@
       "frequency": "133.500",
       "type": "FSS",
       "pre": ["SBAO"],
-      "colours": [{ "hex": "#001b00" }]
+      "colours": [{ "hex": "#9780b4" }]
     },
     "AONE": {
       "callsign": "Centro Atlantico",
       "frequency": "133.075",
       "type": "FSS",
       "pre": ["SBAO"],
-      "colours": [{ "hex": "#00f600" }]
+      "colours": [{ "hex": "#a57aae" }]
     },
     "AONW": {
       "callsign": "Centro Atlantico",
       "frequency": "133.275",
       "type": "FSS",
       "pre": ["SBAO"],
-      "colours": [{ "hex": "#002e00" }]
+      "colours": [{ "hex": "#9780b4" }]
     },
     "AON": {
       "callsign": "Centro Atlantico",
       "frequency": "133.025",
       "type": "FSS",
       "pre": ["SBAO"],
-      "colours": [{ "hex": "#00ff00" }]
+      "colours": [{ "hex": "#8e7fb4" }]
     },
     "AOSE": {
       "callsign": "Centro Atlantico",
       "frequency": "133.325",
       "type": "FSS",
       "pre": ["SBAO"],
-      "colours": [{ "hex": "#00a000" }]
+      "colours": [{ "hex": "#ac799e" }]
     },
     "AOSW": {
       "callsign": "Centro Atlantico",
       "frequency": "133.450",
       "type": "FSS",
       "pre": ["SBAO"],
-      "colours": [{ "hex": "#00f700" }]
+      "colours": [{ "hex": "#8780bc" }]
     },
     "AOS": {
       "callsign": "Centro Atlantico",
       "frequency": "133.125",
       "type": "FSS",
       "pre": ["SBAO"],
-      "colours": [{ "hex": "#00a700" }]
+      "colours": [{ "hex": "#9d7eaf" }]
     }
   },
 
