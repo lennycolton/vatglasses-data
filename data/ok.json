@@ -465,6 +465,7 @@
             "group": "FIN",
             "owner": [
                 "KKF",
+                "KFS",
                 "KKA",
                 "K"
             ],
@@ -563,6 +564,7 @@
             "owner": [
                 "KKT",
                 "KKF",
+                "KFS",
                 "KKA",
                 "K"
             ],
@@ -625,7 +627,7 @@
         },
         "FIN": {
             "name": "Director",
-            "colour": "##fdda0d"
+            "colour": "#fdda0d"
         },
         "TWR": {
             "name": "Tower",
@@ -637,11 +639,12 @@
         "KU": { "callsign": "Kuwait Radar", "frequency": "132.100", "type": "CTR", "pre": ["OKAC"], "colours": [{ "hex": "#e98c00"}] },
 
         "AJT": { "callsign": "Al Jaber Tower", "frequency": "124.150", "type": "TWR", "pre": ["OKAJ"], "colours": [ { "hex": "#00db00"}] },
-        "AJC": { "callsign": "Al Jaber Control","frequency": "128.300", "type": "APP", "pre": ["OKAS"], "colours": [{ "hex": "#000048" }] },
+        "AJC": { "callsign": "Al Jaber Control","frequency": "128.300", "type": "APP", "pre": ["OKAJ"], "colours": [{ "hex": "#000048" }] },
         "AST": { "callsign": "Al Salem Tower", "frequency": "118.000", "type": "TWR", "pre": ["OKAS"], "colours": [ {"hex": "#008b00"}] },
 
         "KKA": { "callsign": "Kuwait Approach", "frequency": "124.800", "type": "APP", "pre": ["OKKK"], "colours": [{"hex": "#0000fd"}] },
         "KKF": { "callsign": "Kuwait Director", "frequency": "123.825", "type": "APP", "pre": ["OKKK"], "colours": [ {"hex": "#000052"} ] },
+        "KFS": { "callsign": "Kuwait Director", "frequency": "119.625", "type": "APP", "pre": ["OKKK"], "colours": [ {"hex": "#000052"} ] },
         "KKT": { "callsign": "Kuwait Tower", "frequency": "118.300", "type": "TWR", "pre": ["OKKK"], "colours": [{"hex": "#00a200"}] }
     },
     "callsigns": {
@@ -663,7 +666,7 @@
       },
       "OKKK": { 
         "callsign": "Kuwait",
-        "coord": ["29.226567","47.968928"],
+        "coord": ["29.226767","47.979953"],
         "topdown": ["KKF", "KKA", "K"]
       }
     }
