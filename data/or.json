@@ -216,12 +216,12 @@
               "0484446"
             ],
             [
-              "295114",
-              "0483716"
+              "295111",
+              "0483703"
             ],
             [
-              "295329",
-              "0482958"
+              "295111",
+              "0483003"
             ],
             [
               "295103",
@@ -540,12 +540,12 @@
               "0484446"
             ],
             [
-              "295114",
-              "0483716"
+              "295111",
+              "0483703"
             ],
             [
-              "295329",
-              "0482958"
+              "295111",
+              "0483003"
             ],
             [
               "295103",
@@ -866,12 +866,12 @@
               "0484446"
             ],
             [
-              "295114",
-              "0483716"
+              "295111",
+              "0483703"
             ],
             [
-              "295329",
-              "0482958"
+              "295111",
+              "0483003"
             ],
             [
               "295103",
@@ -3962,7 +3962,7 @@
       "id": "Kirkuk Sector",
       "group": "APP",
       "owner": [
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -4159,7 +4159,7 @@
       "id": "Kirkuk Sector",
       "group": "APP",
       "owner": [
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -4256,7 +4256,7 @@
       "id": "Kirkuk Sector",
       "group": "APP",
       "owner": [
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -4517,7 +4517,7 @@
       "id": "Kirkuk Sector",
       "group": "APP",
       "owner": [
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -5034,7 +5034,7 @@
       "id": "Kirkuk Sector",
       "group": "APP",
       "owner": [
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -5163,7 +5163,7 @@
       "id": "Kirkuk Sector",
       "group": "APP",
       "owner": [
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -5300,7 +5300,7 @@
       "id": "Kirkuk Sector",
       "group": "APP",
       "owner": [
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -5381,7 +5381,7 @@
       "id": "Kirkuk Sector",
       "group": "APP",
       "owner": [
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -5550,7 +5550,7 @@
       "id": "Kirkuk Sector",
       "group": "APP",
       "owner": [
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -6314,7 +6314,6 @@
       "id": "Baghdad Sector",
       "group": "APP",
       "owner": [
-        "BIF",
         "BGD",
         "BN",
         "B"
@@ -6754,12 +6753,12 @@
               "0484446"
             ],
             [
-              "295114",
-              "0483716"
+              "295111",
+              "0483703"
             ],
             [
-              "295329",
-              "0482958"
+              "295111",
+              "0483003"
             ],
             [
               "295103",
@@ -7430,7 +7429,7 @@
       "group": "TWR",
       "owner": [
         "SJT",
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -8072,7 +8071,7 @@
       "group": "TWR",
       "owner": [
         "KKT",
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -8436,7 +8435,7 @@
       "group": "TWR",
       "owner": [
         "ERT",
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -8618,7 +8617,7 @@
       "group": "TWR",
       "owner": [
         "BMT",
-        "KIR",
+        "KRK",
         "BN",
         "B"
       ],
@@ -9011,7 +9010,7 @@
       "groups":{
         "CTR":{
            "name":"Baghdad ACC",
-           "colour": "bd2026"
+           "colour": "#bd2026"
         },
         "APP":{
            "name":"Approach",
@@ -9031,7 +9030,7 @@
 
       "ALI": { "colours": [{ "hex": "#6fc8f0" }], "pre": ["ALI"], "type": "APP", "frequency": "120.200", "callsign": "Baghdad Approach" },
       "BGD": { "colours": [{ "hex": "#36d6d9" }], "pre": ["BGD"], "type": "APP", "frequency": "122.400", "callsign": "Baghdad Approach" },
-      "KIR": { "colours": [{ "hex": "#368dd9" }], "pre": ["KIR"], "type": "APP", "frequency": "127.700", "callsign": "Baghdad Approach" },
+      "KRK": { "colours": [{ "hex": "#368dd9" }], "pre": ["KRK"], "type": "APP", "frequency": "127.700", "callsign": "Baghdad Approach" },
 
       "BIT": { "colours": [{ "hex": "#e34b29" }], "pre": ["ORBI"], "type": "TWR", "frequency": "118.900", "callsign": "Baghdad Tower" },
       "BMT": { "colours": [{ "hex": "#a15c1d" }], "pre": ["ORBM"], "type": "TWR", "frequency": "120.200", "callsign": "Mosul Tower" },
@@ -9060,7 +9059,7 @@
     "airports": {
       "ORBI": {
         "callsign": "Baghdad",
-        "coord": [33.23306, 44.23306],
+        "coord": [33.2625, 44.234444],
         "default": false,
         "topdown": ["BGD", "BN", "B"]
       },
@@ -9068,7 +9067,7 @@
         "callsign": "Erbil",
         "coord": [36.238, 43.946667],
         "default": false,
-        "topdown": ["KIR", "BN", "B"]
+        "topdown": ["KRK", "BN", "B"]
       },
       "OREZ": {
         "callsign": "Embassy Heliport",
@@ -9080,7 +9079,7 @@
         "callsign": "Kirkuk",
         "coord": [35.4695, 44.349],
         "default": false,
-        "topdown": ["KIR", "BN", "B"]
+        "topdown": ["KRK", "BN", "B"]
       },
       "ORMM": {
         "callsign": "Basrah",
@@ -9098,7 +9097,7 @@
         "callsign": "Jalal Talabani",
         "coord": [35.560556, 45.314444],
         "default": false,
-        "topdown": ["KIR", "BN", "B"]
+        "topdown": ["KRK", "BN", "B"]
       }
     }
 }
