@@ -4,17 +4,17 @@
       "id": "B7",
       "group": "ACC",
       "owner": [
-        "VCBU",
-        "VCWU",
-        "VCNU",
-        "VCU",
-        "VCB",
-        "VCBC",
-        "VCW",
-        "VCWC",
-        "VCN",
-        "VC",
-        "VCC"
+        "B37",
+        "W37",
+        "N37",
+        "ACU",
+        "B17",
+        "BC17",
+        "W17",
+        "WC17",
+        "N17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -43,17 +43,17 @@
       "id": "B6",
       "group": "ACC",
       "owner": [
-        "VCBU",
-        "VCWU",
-        "VCNU",
-        "VCU",
-        "VCB",
-        "VCBC",
-        "VCW",
-        "VCWC",
-        "VCN",
-        "VC",
-        "VCC"
+        "B37",
+        "W37",
+        "N37",
+        "ACU",
+        "B17",
+        "BC17",
+        "W17",
+        "WC17",
+        "N17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -83,17 +83,17 @@
       "id": "B5",
       "group": "ACC",
       "owner": [
-        "VCBU",
-        "VCWU",
-        "VCNU",
-        "VCU",
-        "VCB",
-        "VCBC",
-        "VCW",
-        "VCWC",
-        "VCN",
-        "VC",
-        "VCC"
+        "B37",
+        "W37",
+        "N37",
+        "ACU",
+        "B17",
+        "BC17",
+        "W17",
+        "WC17",
+        "N17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -123,17 +123,17 @@
       "id": "B4",
       "group": "ACC",
       "owner": [
-        "VCBU",
-        "VCWU",
-        "VCNU",
-        "VCU",
-        "VCB",
-        "VCBC",
-        "VCW",
-        "VCWC",
-        "VCN",
-        "VC",
-        "VCC"
+        "B37",
+        "W37",
+        "N37",
+        "ACU",
+        "B17",
+        "BC17",
+        "W17",
+        "WC17",
+        "N17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -163,17 +163,17 @@
       "id": "B3",
       "group": "ACC",
       "owner": [
-        "VCBU",
-        "VCWU",
-        "VCNU",
-        "VCU",
-        "VCB",
-        "VCBC",
-        "VCW",
-        "VCWC",
-        "VCN",
-        "VC",
-        "VCC"
+        "B37",
+        "W37",
+        "N37",
+        "ACU",
+        "B17",
+        "BC17",
+        "W17",
+        "WC17",
+        "N17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -203,17 +203,17 @@
       "id": "B2",
       "group": "ACC",
       "owner": [
-        "VCB",
-        "VCBC",
-        "VCW",
-        "VCWC",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCBU",
-        "VCWU",
-        "VCNU",
-        "VCU"
+        "B17",
+        "BC17",
+        "W17",
+        "WC17",
+        "N17",
+        "AC",
+        "ACC",
+        "B37",
+        "W37",
+        "N37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -243,17 +243,17 @@
       "id": "B1",
       "group": "ACC",
       "owner": [
-        "VCB",
-        "VCBC",
-        "VCW",
-        "VCWC",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCBU",
-        "VCWU",
-        "VCNU",
-        "VCU"
+        "B17",
+        "BC17",
+        "W17",
+        "WC17",
+        "N17",
+        "AC",
+        "ACC",
+        "B37",
+        "W37",
+        "N37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -279,17 +279,17 @@
       "id": "B1",
       "group": "ACC",
       "owner": [
-        "VCB",
-        "VCBC",
-        "VCW",
-        "VCWC",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCBU",
-        "VCWU",
-        "VCNU",
-        "VCU"
+        "B17",
+        "BC17",
+        "W17",
+        "WC17",
+        "N17",
+        "AC",
+        "ACC",
+        "B37",
+        "W37",
+        "N37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -322,7 +322,7 @@
     {
       "id": "N7",
       "group": "ACC",
-      "owner": ["VCNU", "VCEU", "VCU", "VCN", "VCE", "VC", "VCC"],
+      "owner": ["N37", "E37", "ACU", "N17", "E17", "AC", "ACC"],
       "sectors": [
         {
           "min": 385,
@@ -348,7 +348,7 @@
     {
       "id": "N6",
       "group": "ACC",
-      "owner": ["VCNU", "VCEU", "VCU", "VCN", "VCE", "VC", "VCC"],
+      "owner": ["N37", "E37", "ACU", "N17", "E17", "AC", "ACC"],
       "sectors": [
         {
           "min": 375,
@@ -375,7 +375,7 @@
     {
       "id": "N5",
       "group": "ACC",
-      "owner": ["VCNU", "VCEU", "VCU", "VCN", "VCE", "VC", "VCC"],
+      "owner": ["N37", "E37", "ACU", "N17", "E17", "AC", "ACC"],
       "sectors": [
         {
           "min": 365,
@@ -402,7 +402,7 @@
     {
       "id": "N4",
       "group": "ACC",
-      "owner": ["VCNU", "VCEU", "VCU", "VCN", "VCE", "VC", "VCC"],
+      "owner": ["N37", "E37", "ACU", "N17", "E17", "AC", "ACC"],
       "sectors": [
         {
           "min": 355,
@@ -429,7 +429,7 @@
     {
       "id": "N3",
       "group": "ACC",
-      "owner": ["VCNU", "VCEU", "VCU", "VCN", "VCE", "VC", "VCC"],
+      "owner": ["N37", "E37", "ACU", "N17", "E17", "AC", "ACC"],
       "sectors": [
         {
           "min": 345,
@@ -456,7 +456,7 @@
     {
       "id": "N2",
       "group": "ACC",
-      "owner": ["VCN", "VCE", "VC", "VCC", "VCNU", "VCEU", "VCU"],
+      "owner": ["N17", "E17", "AC", "ACC", "N37", "E37", "ACU"],
       "sectors": [
         {
           "min": 315,
@@ -483,7 +483,7 @@
     {
       "id": "N1",
       "group": "ACC",
-      "owner": ["VCF", "VCN", "VCE", "VC", "VCC", "VCNU", "VCEU", "VCU"],
+      "owner": ["N1", "N17", "E17", "AC", "ACC", "N37", "E37", "ACU"],
       "sectors": [
         {
           "min": 245,
@@ -504,7 +504,7 @@
     {
       "id": "N1",
       "group": "ACC",
-      "owner": ["VCF", "VCN", "VCE", "VC", "VCC", "VCNU", "VCEU", "VCU"],
+      "owner": ["N1", "N17", "E17", "AC", "ACC", "N37", "E37", "ACU"],
       "sectors": [
         {
           "min": 165,
@@ -531,7 +531,7 @@
     {
       "id": "E7",
       "group": "ACC",
-      "owner": ["VCEU", "VCNU", "VCU", "VCE", "VCN", "VC", "VCC"],
+      "owner": ["E37", "N37", "ACU", "E17", "N17", "AC", "ACC"],
       "sectors": [
         {
           "min": 385,
@@ -617,7 +617,7 @@
     {
       "id": "E6",
       "group": "ACC",
-      "owner": ["VCEU", "VCNU", "VCU", "VCE", "VCN", "VC", "VCC"],
+      "owner": ["E37", "N37", "ACU", "E17", "N17", "AC", "ACC"],
       "sectors": [
         {
           "min": 375,
@@ -704,7 +704,7 @@
     {
       "id": "E5",
       "group": "ACC",
-      "owner": ["VCEU", "VCNU", "VCU", "VCE", "VCN", "VC", "VCC"],
+      "owner": ["E37", "N37", "ACU", "E17", "N17", "AC", "ACC"],
       "sectors": [
         {
           "min": 365,
@@ -791,7 +791,7 @@
     {
       "id": "E4",
       "group": "ACC",
-      "owner": ["VCEU", "VCNU", "VCU", "VCE", "VCN", "VC", "VCC"],
+      "owner": ["E37", "N37", "ACU", "E17", "N17", "AC", "ACC"],
       "sectors": [
         {
           "min": 355,
@@ -878,7 +878,7 @@
     {
       "id": "E3",
       "group": "ACC",
-      "owner": ["VCEU", "VCNU", "VCU", "VCE", "VCN", "VC", "VCC"],
+      "owner": ["E37", "N37", "ACU", "E17", "N17", "AC", "ACC"],
       "sectors": [
         {
           "min": 345,
@@ -965,7 +965,7 @@
     {
       "id": "E2",
       "group": "ACC",
-      "owner": ["VCE", "VCN", "VC", "VCC", "VCEU", "VCNU", "VCU"],
+      "owner": ["E17", "N17", "AC", "ACC", "E37", "N37", "ACU"],
       "sectors": [
         {
           "min": 315,
@@ -1052,7 +1052,7 @@
     {
       "id": "E1",
       "group": "ACC",
-      "owner": ["VCE", "VCN", "VC", "VCC", "VCEU", "VCNU", "VCU"],
+      "owner": ["E17", "N17", "AC", "ACC", "E37", "N37", "ACU"],
       "sectors": [
         {
           "min": 245,
@@ -1139,16 +1139,16 @@
       "id": "S7",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC"
+        "S37",
+        "B37",
+        "E37",
+        "ACU",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -1240,16 +1240,16 @@
       "id": "S7",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC"
+        "S37",
+        "B37",
+        "E37",
+        "ACU",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -1358,16 +1358,16 @@
       "id": "S6",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC"
+        "S37",
+        "B37",
+        "E37",
+        "ACU",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -1460,16 +1460,16 @@
       "id": "S6",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC"
+        "S37",
+        "B37",
+        "E37",
+        "ACU",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -1579,16 +1579,16 @@
       "id": "S5",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC"
+        "S37",
+        "B37",
+        "E37",
+        "ACU",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -1681,16 +1681,16 @@
       "id": "S5",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC"
+        "S37",
+        "B37",
+        "E37",
+        "ACU",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -1800,16 +1800,16 @@
       "id": "S4",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC"
+        "S37",
+        "B37",
+        "E37",
+        "ACU",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -1902,16 +1902,16 @@
       "id": "S4",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC"
+        "S37",
+        "B37",
+        "E37",
+        "ACU",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -2021,16 +2021,16 @@
       "id": "S3",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC"
+        "S37",
+        "B37",
+        "E37",
+        "ACU",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -2123,16 +2123,16 @@
       "id": "S3",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC"
+        "S37",
+        "B37",
+        "E37",
+        "ACU",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -2242,16 +2242,16 @@
       "id": "S2",
       "group": "ACC",
       "owner": [
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC",
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU"
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC",
+        "S37",
+        "B37",
+        "E37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -2344,16 +2344,16 @@
       "id": "S2",
       "group": "ACC",
       "owner": [
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC",
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU"
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC",
+        "S37",
+        "B37",
+        "E37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -2463,17 +2463,17 @@
       "id": "S1",
       "group": "ACC",
       "owner": [
-        "VCS1",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC",
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU"
+        "S1",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC",
+        "S37",
+        "B37",
+        "E37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -2566,17 +2566,17 @@
       "id": "S1",
       "group": "ACC",
       "owner": [
-        "VCS1",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC",
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU"
+        "S1",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC",
+        "S37",
+        "B37",
+        "E37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -2686,17 +2686,17 @@
       "id": "W7",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC"
+        "W37",
+        "S37",
+        "B37",
+        "ACU",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -2719,17 +2719,17 @@
       "id": "W7",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC"
+        "W37",
+        "S37",
+        "B37",
+        "ACU",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -2782,17 +2782,17 @@
       "id": "W6",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC"
+        "W37",
+        "S37",
+        "B37",
+        "ACU",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -2816,17 +2816,17 @@
       "id": "W6",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC"
+        "W37",
+        "S37",
+        "B37",
+        "ACU",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -2880,17 +2880,17 @@
       "id": "W5",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC"
+        "W37",
+        "S37",
+        "B37",
+        "ACU",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -2914,17 +2914,17 @@
       "id": "W5",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC"
+        "W37",
+        "S37",
+        "B37",
+        "ACU",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -2978,17 +2978,17 @@
       "id": "W4",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC"
+        "W37",
+        "S37",
+        "B37",
+        "ACU",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -3012,17 +3012,17 @@
       "id": "W4",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC"
+        "W37",
+        "S37",
+        "B37",
+        "ACU",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -3076,17 +3076,17 @@
       "id": "W3",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC"
+        "W37",
+        "S37",
+        "B37",
+        "ACU",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -3110,17 +3110,17 @@
       "id": "W3",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC"
+        "W37",
+        "S37",
+        "B37",
+        "ACU",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC"
       ],
       "sectors": [
         {
@@ -3174,17 +3174,17 @@
       "id": "W2",
       "group": "ACC",
       "owner": [
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC",
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU"
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC",
+        "W37",
+        "S37",
+        "B37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -3208,17 +3208,17 @@
       "id": "W2",
       "group": "ACC",
       "owner": [
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC",
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU"
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC",
+        "W37",
+        "S37",
+        "B37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -3272,17 +3272,17 @@
       "id": "W1",
       "group": "ACC",
       "owner": [
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC",
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU"
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC",
+        "W37",
+        "S37",
+        "B37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -3306,17 +3306,17 @@
       "id": "W1",
       "group": "ACC",
       "owner": [
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC",
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU"
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC",
+        "W37",
+        "S37",
+        "B37",
+        "ACU"
       ],
       "sectors": [
         {
@@ -3374,13 +3374,13 @@
         "VM",
         "VB",
         "VN",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3403,13 +3403,13 @@
         "VM",
         "VB",
         "VN",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3437,13 +3437,13 @@
         "VM",
         "VB",
         "VP",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3478,13 +3478,13 @@
         "VP",
         "VN",
         "VB",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3551,13 +3551,13 @@
         "VP",
         "VN",
         "VM",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3582,13 +3582,13 @@
         "VP",
         "VN",
         "VM",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3639,13 +3639,13 @@
         "VM",
         "VB",
         "VN",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3680,13 +3680,13 @@
         "VP",
         "VN",
         "VB",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3712,13 +3712,13 @@
         "VP",
         "VN",
         "VM",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3744,13 +3744,13 @@
         "VP",
         "VN",
         "VM",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3780,17 +3780,17 @@
       "owner": [
         "AS",
         "ASL",
-        "VCL",
-        "VCB",
-        "VCBC",
-        "VCW",
-        "VCWC",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCBU",
-        "VCWU",
-        "VCNU"
+        "ACL",
+        "B17",
+        "BC17",
+        "W17",
+        "WC17",
+        "N17",
+        "AC",
+        "ACC",
+        "B37",
+        "W37",
+        "N37"
       ],
       "sectors": [
         {
@@ -3825,7 +3825,7 @@
     {
       "id": "Linz",
       "group": "LOWL",
-      "owner": ["AL", "ASL", "VCL", "VCN", "VCE", "VC", "VCC", "VCNU", "VCEU"],
+      "owner": ["AL", "ASL", "ACL", "N17", "E17", "AC", "ACC", "N37", "E37"],
       "sectors": [
         {
           "min": 125,
@@ -3844,7 +3844,7 @@
     {
       "id": "Linz",
       "group": "LOWL",
-      "owner": ["AL", "ASL", "VCL", "VCN", "VCE", "VC", "VCC", "VCNU", "VCEU"],
+      "owner": ["AL", "ASL", "ACL", "N17", "E17", "AC", "ACC", "N37", "E37"],
       "sectors": [
         {
           "max": 164,
@@ -3882,17 +3882,17 @@
       "owner": [
         "AK",
         "AGK",
-        "VCL",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -3961,17 +3961,17 @@
       "owner": [
         "AK",
         "AGK",
-        "VCL",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -4024,14 +4024,14 @@
         "ASI",
         "AI",
         "IEA",
-        "VCL",
-        "VCW",
-        "VCS",
-        "VCB",
-        "VC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -4069,14 +4069,14 @@
         "ASI",
         "AI",
         "IEA",
-        "VCL",
-        "VCW",
-        "VCS",
-        "VCB",
-        "VC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -4115,14 +4115,14 @@
         "ASI",
         "IEA",
         "AI",
-        "VCL",
-        "VCW",
-        "VCS",
-        "VCB",
-        "VC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -4162,14 +4162,14 @@
         "ASI",
         "IEA",
         "AI",
-        "VCL",
-        "VCW",
-        "VCS",
-        "VCB",
-        "VC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -4210,14 +4210,14 @@
         "AI",
         "IEA",
         "ASI",
-        "VCL",
-        "VCW",
-        "VCS",
-        "VCB",
-        "VC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -4241,14 +4241,14 @@
         "AI",
         "IEA",
         "ASI",
-        "VCL",
-        "VCW",
-        "VCS",
-        "VCB",
-        "VC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -4272,14 +4272,14 @@
       "owner": [
         "IEA",
         "AI",
-        "VCL",
-        "VCW",
-        "VCS",
-        "VCB",
-        "VC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -4305,14 +4305,14 @@
         "IEA",
         "AI",
         "ASI",
-        "VCL",
-        "VCW",
-        "VCS",
-        "VCB",
-        "VC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -4339,14 +4339,14 @@
         "ASI",
         "IEA",
         "AI",
-        "VCL",
-        "VCW",
-        "VCS",
-        "VCB",
-        "VC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ],
       "sectors": [
         {
@@ -4369,16 +4369,16 @@
       "owner": [
         "AG",
         "AGK",
-        "VCL",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC",
-        "VCSU",
-        "VCBU",
-        "VCEU"
+        "ACL",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC",
+        "S37",
+        "B37",
+        "E37"
       ],
       "sectors": [
         {
@@ -4430,16 +4430,16 @@
       "owner": [
         "AG",
         "AGK",
-        "VCL",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC",
-        "VCSU",
-        "VCBU",
-        "VCEU"
+        "ACL",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC",
+        "S37",
+        "B37",
+        "E37"
       ],
       "sectors": [
         {
@@ -4680,7 +4680,7 @@
     }
   },
   "positions": {
-    "VC": {
+    "AC": {
       "colours": [
         {
           "hex": "#DFFF00"
@@ -4691,7 +4691,7 @@
       "frequency": "132.600",
       "callsign": "Wien Radar"
     },
-    "VCF": {
+    "N1": {
       "colours": [
         {
           "hex": "#ffbf00"
@@ -4713,7 +4713,7 @@
       "frequency": "124.400",
       "callsign": "Wien Information"
     },
-    "VCL": {
+    "ACL": {
       "colours": [
         {
           "hex": "#ccccff"
@@ -4724,7 +4724,7 @@
       "frequency": "129.200",
       "callsign": "Wien Radar"
     },
-    "VCU": {
+    "ACU": {
       "colours": [
         {
           "hex": "#ff4f50"
@@ -4735,7 +4735,7 @@
       "frequency": "131.350",
       "callsign": "Wien Radar"
     },
-    "VCS": {
+    "S17": {
       "colours": [
         {
           "hex": "#008080"
@@ -4757,7 +4757,7 @@
       "frequency": "131.030",
       "callsign": "Wien Radar"
     },
-    "VCW": {
+    "W17": {
       "colours": [
         {
           "hex": "#c7b192"
@@ -4768,7 +4768,7 @@
       "frequency": "129.125",
       "callsign": "Wien Radar"
     },
-    "VCWC": {
+    "WC17": {
       "colours": [
         {
           "hex": "#00bfac"
@@ -4779,7 +4779,7 @@
       "frequency": "132.765",
       "callsign": "Wien Radar"
     },
-    "VCN": {
+    "N17": {
       "colours": [
         {
           "hex": "#247513"
@@ -4790,7 +4790,7 @@
       "frequency": "134.350",
       "callsign": "Wien Radar"
     },
-    "VCE": {
+    "E17": {
       "colours": [
         {
           "hex": "#8f7aec"
@@ -4801,7 +4801,7 @@
       "frequency": "134.440",
       "callsign": "Wien Radar"
     },
-    "VCB": {
+    "B17": {
       "colours": [
         {
           "hex": "#37fbd2"
@@ -4812,7 +4812,7 @@
       "frequency": "132.190",
       "callsign": "Wien Radar"
     },
-    "VCBC": {
+    "BC17": {
       "colours": [
         {
           "hex": "#bf9000"
@@ -4823,7 +4823,7 @@
       "frequency": "132.950",
       "callsign": "Wien Radar"
     },
-    "VCC": {
+    "ACC": {
       "colours": [
         {
           "hex": "#0047ab"
@@ -4834,7 +4834,7 @@
       "frequency": "132.160",
       "callsign": "Wien Radar"
     },
-    "VCS1": {
+    "S1": {
       "colours": [
         {
           "hex": "#aaec7f"
@@ -4845,7 +4845,7 @@
       "frequency": "128.700",
       "callsign": "Wien Radar"
     },
-    "VCEU": {
+    "E37": {
       "colours": [
         {
           "hex": "#999999"
@@ -4856,7 +4856,7 @@
       "frequency": "135.635",
       "callsign": "Wien Radar"
     },
-    "VCSU": {
+    "S37": {
       "colours": [
         {
           "hex": "#ff00ff"
@@ -4867,7 +4867,7 @@
       "frequency": "133.965",
       "callsign": "Wien Radar"
     },
-    "VCWU": {
+    "W37": {
       "colours": [
         {
           "hex": "#d5a6bd"
@@ -4878,7 +4878,7 @@
       "frequency": "129.965",
       "callsign": "Wien Radar"
     },
-    "VCBU": {
+    "B37": {
       "colours": [
         {
           "hex": "#a64d79"
@@ -4889,7 +4889,7 @@
       "frequency": "136.390",
       "callsign": "Wien Radar"
     },
-    "VCNU": {
+    "N37": {
       "colours": [
         {
           "hex": "#741b47"
@@ -5233,16 +5233,16 @@
       "topdown": [
         "AG",
         "AGK",
-        "VCL",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VCE",
-        "VC",
-        "VCC",
-        "VCSU",
-        "VCBU",
-        "VCEU"
+        "ACL",
+        "S17",
+        "B17",
+        "BC17",
+        "E17",
+        "AC",
+        "ACC",
+        "S37",
+        "B37",
+        "E37"
       ]
     },
     "LOWI": {
@@ -5252,14 +5252,14 @@
       "topdown": [
         "AI",
         "IEA",
-        "VCL",
-        "VCW",
-        "VCS",
-        "VCB",
-        "VC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ]
     },
     "LOWK": {
@@ -5268,23 +5268,23 @@
       "topdown": [
         "AK",
         "AGK",
-        "VCL",
-        "VCW",
-        "VCWC",
-        "VCS",
-        "VCB",
-        "VCBC",
-        "VC",
-        "VCC",
-        "VCWU",
-        "VCSU",
-        "VCBU"
+        "ACL",
+        "W17",
+        "WC17",
+        "S17",
+        "B17",
+        "BC17",
+        "AC",
+        "ACC",
+        "W37",
+        "S37",
+        "B37"
       ]
     },
     "LOWL": {
       "callsign": "Linz",
       "coord": [48.23527778, 14.18805583],
-      "topdown": ["AL", "ASL", "VCL", "VCN", "VCE", "VC", "VCC", "VCNU", "VCEU"]
+      "topdown": ["AL", "ASL", "ACL", "N17", "E17", "AC", "ACC", "N37", "E37"]
     },
     "LOWS": {
       "callsign": "Salzburg",
@@ -5292,17 +5292,17 @@
       "topdown": [
         "AS",
         "ASL",
-        "VCL",
-        "VCB",
-        "VCBC",
-        "VCW",
-        "VCWC",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCBU",
-        "VCWU",
-        "VCNU"
+        "ACL",
+        "B17",
+        "BC17",
+        "W17",
+        "WC17",
+        "N17",
+        "AC",
+        "ACC",
+        "B37",
+        "W37",
+        "N37"
       ]
     },
     "LOWW": {
@@ -5313,13 +5313,13 @@
         "VP",
         "VN",
         "VM",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ]
     },
     "LOXT": {
@@ -5340,13 +5340,13 @@
         "VP",
         "VN",
         "VM",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ]
     },
     "LOAV": {
@@ -5357,13 +5357,13 @@
         "VP",
         "VN",
         "VM",
-        "VCL",
-        "VCE",
-        "VCN",
-        "VC",
-        "VCC",
-        "VCEU",
-        "VCNU"
+        "ACL",
+        "E17",
+        "N17",
+        "AC",
+        "ACC",
+        "E37",
+        "N37"
       ]
     },
     "LOWZ": {
@@ -5382,14 +5382,14 @@
             "ISA",
             "AI",
             "ISA",
-            "VCL",
-            "VCW",
-            "VCS",
-            "VCB",
-            "VC",
-            "VCWU",
-            "VCSU",
-            "VCBU"
+            "ACL",
+            "W17",
+            "S17",
+            "B17",
+            "AC",
+            "W37",
+            "S37",
+            "B37"
           ]
         },
         {
@@ -5401,14 +5401,14 @@
             "IEA",
             "ISA",
             "AI",
-            "VCL",
-            "VCW",
-            "VCS",
-            "VCB",
-            "VC",
-            "VCWU",
-            "VCSU",
-            "VCBU"
+            "ACL",
+            "W17",
+            "S17",
+            "B17",
+            "AC",
+            "W37",
+            "S37",
+            "B37"
           ]
         }
       ]
@@ -5429,14 +5429,14 @@
             "ISA",
             "AI",
             "ISA",
-            "VCL",
-            "VCW",
-            "VCS",
-            "VCB",
-            "VC",
-            "VCWU",
-            "VCSU",
-            "VCBU"
+            "ACL",
+            "W17",
+            "S17",
+            "B17",
+            "AC",
+            "W37",
+            "S37",
+            "B37"
           ]
         },
         {
@@ -5448,14 +5448,14 @@
             "IEA",
             "ISA",
             "AI",
-            "VCL",
-            "VCW",
-            "VCS",
-            "VCB",
-            "VC",
-            "VCWU",
-            "VCSU",
-            "VCBU"
+            "ACL",
+            "W17",
+            "S17",
+            "B17",
+            "AC",
+            "W37",
+            "S37",
+            "B37"
           ]
         }
       ]
