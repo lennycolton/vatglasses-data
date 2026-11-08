@@ -4694,7 +4694,7 @@
     "N1": {
       "colours": [
         {
-          "hex": "#ffbf00"
+          "hex": "#ffa659"
         }
       ],
       "pre": ["LOVV"],
@@ -4716,7 +4716,7 @@
     "ACL": {
       "colours": [
         {
-          "hex": "#ccccff"
+          "hex": "#7593fe"
         }
       ],
       "pre": ["LOVV"],
@@ -4738,7 +4738,7 @@
     "S17": {
       "colours": [
         {
-          "hex": "#008080"
+          "hex": "#28d6df"
         }
       ],
       "pre": ["LOVV"],
@@ -4760,7 +4760,7 @@
     "W17": {
       "colours": [
         {
-          "hex": "#c7b192"
+          "hex": "#918112"
         }
       ],
       "pre": ["LOVV"],
@@ -4771,7 +4771,7 @@
     "WC17": {
       "colours": [
         {
-          "hex": "#00bfac"
+          "hex": "#928a07"
         }
       ],
       "pre": ["LOVV"],
@@ -4782,7 +4782,7 @@
     "N17": {
       "colours": [
         {
-          "hex": "#247513"
+          "hex": "#bad651"
         }
       ],
       "pre": ["LOVV"],
@@ -4793,7 +4793,7 @@
     "E17": {
       "colours": [
         {
-          "hex": "#8f7aec"
+          "hex": "#fc85ad"
         }
       ],
       "pre": ["LOVV"],
@@ -4804,7 +4804,7 @@
     "B17": {
       "colours": [
         {
-          "hex": "#37fbd2"
+          "hex": "#c8aefa"
         }
       ],
       "pre": ["LOVV"],
@@ -4815,7 +4815,7 @@
     "BC17": {
       "colours": [
         {
-          "hex": "#bf9000"
+          "hex": "#d78ff6"
         }
       ],
       "pre": ["LOVV"],
@@ -4837,7 +4837,7 @@
     "S1": {
       "colours": [
         {
-          "hex": "#aaec7f"
+          "hex": "#bd4334"
         }
       ],
       "pre": ["LOVV"],
@@ -4848,7 +4848,7 @@
     "E37": {
       "colours": [
         {
-          "hex": "#999999"
+          "hex": "#bb6802"
         }
       ],
       "pre": ["LOVV"],
@@ -4859,7 +4859,7 @@
     "S37": {
       "colours": [
         {
-          "hex": "#ff00ff"
+          "hex": "#bc3f53"
         }
       ],
       "pre": ["LOVV"],
@@ -4870,7 +4870,7 @@
     "W37": {
       "colours": [
         {
-          "hex": "#d5a6bd"
+          "hex": "#218373"
         }
       ],
       "pre": ["LOVV"],
@@ -4881,7 +4881,7 @@
     "B37": {
       "colours": [
         {
-          "hex": "#a64d79"
+          "hex": "#20a5ee"
         }
       ],
       "pre": ["LOVV"],
@@ -4892,7 +4892,7 @@
     "N37": {
       "colours": [
         {
-          "hex": "#741b47"
+          "hex": "#a75fb7"
         }
       ],
       "pre": ["LOVV"],
@@ -4903,7 +4903,7 @@
     "ASL": {
       "colours": [
         {
-          "hex": "#674ea7"
+          "hex": "#fcb0b4"
         }
       ],
       "pre": ["LOVV"],
@@ -4925,7 +4925,7 @@
     "AG": {
       "colours": [
         {
-          "hex": "#bf9000"
+          "hex": "#1479b0"
         }
       ],
       "pre": ["LOWG"],
@@ -4936,7 +4936,7 @@
     "AI": {
       "colours": [
         {
-          "hex": "#1155cc"
+          "hex": "#2196a7"
         }
       ],
       "pre": ["LOWI"],
@@ -4947,7 +4947,7 @@
     "IEA": {
       "colours": [
         {
-          "hex": "#1c4587"
+          "hex": "#05893e"
         }
       ],
       "pre": ["LOWI"],
@@ -4969,7 +4969,7 @@
     "ASI": {
       "colours": [
         {
-          "hex": "#3d85c6"
+          "hex": "#8156c0"
         }
       ],
       "pre": ["LOWI"],
@@ -4980,7 +4980,7 @@
     "AK": {
       "colours": [
         {
-          "hex": "#c27ba0"
+          "hex": "#b64e10"
         }
       ],
       "pre": ["LOWK"],
@@ -4991,7 +4991,7 @@
     "AL": {
       "colours": [
         {
-          "hex": "#730a6f"
+          "hex": "#d55948"
         }
       ],
       "pre": ["LOWL"],
@@ -5002,7 +5002,7 @@
     "AS": {
       "colours": [
         {
-          "hex": "#ebca98"
+          "hex": "#fcb67c"
         }
       ],
       "pre": ["LOWS"],
@@ -5019,7 +5019,7 @@
     "VB": {
       "colours": [
         {
-          "hex": "#93c47d"
+          "hex": "#8a6e08"
         }
       ],
       "pre": ["LOWW"],
@@ -5030,7 +5030,7 @@
     "VN": {
       "colours": [
         {
-          "hex": "#38761d"
+          "hex": "#c1c1fa"
         }
       ],
       "pre": ["LOWW"],
@@ -5041,7 +5041,7 @@
     "VP": {
       "colours": [
         {
-          "hex": "#274e13"
+          "hex": "#218373"
         }
       ],
       "pre": ["LOWW"],
@@ -5052,7 +5052,7 @@
     "VM": {
       "colours": [
         {
-          "hex": "#6aa84f"
+          "hex": "#1bc3f3"
         }
       ],
       "pre": ["LOWW"],
@@ -5075,7 +5075,7 @@
     "AT": {
       "colours": [
         {
-          "hex": "#00ff00"
+          "hex": "#c5547c"
         }
       ],
       "pre": ["LOXT"],
@@ -5092,7 +5092,7 @@
     "AZ": {
       "colours": [
         {
-          "hex": "#aaaa00"
+          "hex": "#e89cf9"
         }
       ],
       "pre": ["LOXZ"],
