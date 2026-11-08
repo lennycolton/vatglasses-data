@@ -5371,46 +5371,17 @@
       "coord": [47.289333, 12.786333],
       "rwydep": true,
       "topdown": [
-        {
-          "runway": {
-            "icao": "LOWI",
-            "runway": "26"
-          },
-          "topdown": [
-            "IF",
-            "IEA",
-            "ISA",
-            "AI",
-            "ISA",
-            "ACL",
-            "W17",
-            "S17",
-            "B17",
-            "AC",
-            "W37",
-            "S37",
-            "B37"
-          ]
-        },
-        {
-          "runway": {
-            "icao": "LOWI",
-            "runway": "08"
-          },
-          "topdown": [
-            "IEA",
-            "ISA",
-            "AI",
-            "ACL",
-            "W17",
-            "S17",
-            "B17",
-            "AC",
-            "W37",
-            "S37",
-            "B37"
-          ]
-        }
+        "ASI",
+        "IEA",
+        "AI",
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ]
     },
     "LOIJ": {
@@ -5418,46 +5389,17 @@
       "coord": [47.519667, 12.45],
       "rwydep": true,
       "topdown": [
-        {
-          "runway": {
-            "icao": "LOWI",
-            "runway": "26"
-          },
-          "topdown": [
-            "IF",
-            "IEA",
-            "ISA",
-            "AI",
-            "ISA",
-            "ACL",
-            "W17",
-            "S17",
-            "B17",
-            "AC",
-            "W37",
-            "S37",
-            "B37"
-          ]
-        },
-        {
-          "runway": {
-            "icao": "LOWI",
-            "runway": "08"
-          },
-          "topdown": [
-            "IEA",
-            "ISA",
-            "AI",
-            "ACL",
-            "W17",
-            "S17",
-            "B17",
-            "AC",
-            "W37",
-            "S37",
-            "B37"
-          ]
-        }
+        "ASI",
+        "IEA",
+        "AI",
+        "ACL",
+        "W17",
+        "S17",
+        "B17",
+        "AC",
+        "W37",
+        "S37",
+        "B37"
       ]
     },
     "LOAA": {
